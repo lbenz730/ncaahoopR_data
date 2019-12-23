@@ -4,7 +4,7 @@ library(lubridate)
 
 
 n <- nrow(ids)
-for(i in 246:n) {
+for(i in 1:n) {
   cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
   schedule <- get_schedule(ids$team[i])
   roster <- get_roster(ids$team[i])
@@ -12,8 +12,8 @@ for(i in 246:n) {
   write_csv(schedule, paste0("schedules/", gsub(" ", "_", ids$team[i]), "_schedule.csv"))
 }
 
-
-date <- as.Date("2019-11-05")
+### Pull Games
+date <- as.Date("2019-12-06")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(year = year(date), day = day(date), month = month(date))
   if(!dir.exists(paste("pbp_logs", date, sep = "/"))) {
@@ -33,7 +33,7 @@ while(date <= Sys.Date()) {
   date <- date + 1
 }
 
-
+### Update Master Schedule
 date <- as.Date("2019-11-05")
 master_schedule <- NULL
 while(date <= Sys.Date()) {

@@ -1618,22 +1618,685 @@ game_id,away,home,away_rank,home_rank,away_score,home_score
 401172938,SE Missouri St,Abilene Christian,NA,NA,64,73
 401166472,South Dakota State,Montana State,NA,NA,70,77
 401172608,Northern Illinois,Saint Mary's,NA,NA,49,61
-401175052,Chicago State,Tennessee State,NA,NA,NA,NA
-401166103,Iowa,Michigan,NA,4,NA,NA
-401170519,Duke,Virginia Tech,10,NA,NA,NA
-401168429,Providence,Rhode Island,NA,NA,NA,NA
-401172280,Columbia,Bryant,NA,NA,NA,NA
-401172609,UT Martin,Central Michigan,NA,NA,NA,NA
-401174740,Carver College,Georgia Southern,NA,NA,NA,NA
-401173218,Southern-New Orleans,SE Louisiana,NA,NA,NA,NA
-401177956,Mount Marty,South Dakota,NA,NA,NA,NA
-401169878,Stephen F. Austin,Alabama,NA,NA,NA,NA
-401170021,Dartmouth,South Florida,NA,NA,NA,NA
-401173609,Mississippi Valley State,Missouri State,NA,NA,NA,NA
-401175587,Mid-America Christian,UT Rio Grande Valley,NA,NA,NA,NA
-401168505,Pittsburgh,Louisville,NA,1,NA,NA
-401166473,Idaho State,Pepperdine,NA,NA,NA,NA
-401169645,USC,TCU,NA,NA,NA,NA
-401166474,North Dakota,Montana,NA,NA,NA,NA
-401174440,Cal Lutheran,UC Riverside,NA,NA,NA,NA
-401166475,CSU Northridge,Portland State,NA,NA,NA,NA
+401168505,Pittsburgh,Louisville,NA,1,46,64
+401166103,Iowa,Michigan,NA,4,91,103
+401170519,Duke,Virginia Tech,10,NA,77,63
+401175052,Chicago State,Tennessee State,NA,NA,74,80
+401168429,Providence,Rhode Island,NA,NA,61,75
+401172280,Columbia,Bryant,NA,NA,65,67
+401172609,UT Martin,Central Michigan,NA,NA,75,84
+401174740,Carver College,Georgia Southern,NA,NA,70,100
+401173218,Southern-New Orleans,SE Louisiana,NA,NA,74,79
+401177956,Mount Marty,South Dakota,NA,NA,79,94
+401169878,Stephen F. Austin,Alabama,NA,NA,68,78
+401170021,Dartmouth,South Florida,NA,NA,44,63
+401173609,Mississippi Valley State,Missouri State,NA,NA,62,86
+401175587,Mid-America Christian,UT Rio Grande Valley,NA,NA,50,92
+401166473,Idaho State,Pepperdine,NA,NA,65,77
+401169645,USC,TCU,NA,NA,80,78
+401166474,North Dakota,Montana,NA,NA,70,77
+401174440,Cal Lutheran,UC Riverside,NA,NA,40,74
+401166475,CSU Northridge,Portland State,NA,NA,67,73
+401169646,Colorado,Kansas,20,2,58,72
+401166104,Illinois,Maryland,NA,3,58,59
+401166105,Penn State,Ohio State,NA,6,74,106
+401169879,Fairleigh Dickinson,Kentucky,NA,8,52,83
+401169647,Arizona,Baylor,12,18,58,63
+401170612,Hawai'i,Oregon,NA,13,64,89
+401170004,Memphis,UAB,15,NA,65,57
+401169783,Villanova,Saint Joseph's,23,NA,78,66
+401168293,Florida,Butler,NA,24,62,76
+401173691,Fresno State,Utah State,NA,25,70,77
+401168463,West Virginia,St. John's,NA,NA,68,70
+401168533,Syracuse,Georgia Tech,NA,NA,97,63
+401170051,NJIT,UCF,NA,NA,65,78
+401176434,St. Francis (PA),UMBC,NA,NA,63,60
+401170892,Maine,Central Connecticut,NA,NA,66,64
+401170935,St. Francis (BKN),UMass Lowell,NA,NA,63,94
+401175437,Carver College,The Citadel,NA,NA,40,108
+401170161,UMass,Harvard,NA,NA,55,89
+401170404,Florida International,Kennesaw State,NA,NA,84,81
+401170405,Stetson,VMI,NA,NA,61,88
+401172239,Long Island University,Army,NA,NA,85,72
+401172299,Lafayette,Cornell,NA,NA,62,59
+401172489,Eastern Michigan,Detroit Mercy,NA,NA,55,51
+401172612,IUPUI,Ball State,NA,NA,54,102
+401173492,North Carolina A&T,Bradley,NA,NA,52,83
+401172611,Youngstown St,Western Michigan,NA,NA,64,66
+401173596,Quincy,Loyola Chicago,NA,NA,59,90
+401172391,Charlotte,UNC Wilmington,NA,NA,76,57
+401171494,Longwood,Morgan State,NA,NA,65,73
+401171527,Presbyterian,South Carolina State,NA,NA,68,80
+401170839,Boston University,Binghamton,NA,NA,79,84
+401169881,CSU Bakersfield,Ole Miss,NA,NA,67,83
+401170163,Manhattan,Fordham,NA,NA,54,53
+401170166,La Salle,Drexel,NA,NA,71,63
+401168567,Boston College,Notre Dame,NA,NA,73,72
+401168575,NC State,Wake Forest,NA,NA,91,82
+401173580,Indiana State,Wright State,NA,NA,84,77
+401172613,Miami (OH),Evansville,NA,NA,87,101
+401173689,Nevada,Air Force,NA,NA,100,85
+401168320,Nebraska,Creighton,NA,NA,76,95
+401170167,Hofstra,St. Bonaventure,NA,NA,45,73
+401171676,UC Santa Barbara,UT Arlington,NA,NA,72,68
+401173636,Southern Illinois,Southern Miss,NA,NA,69,72
+401173687,UNLV,BYU,NA,NA,50,83
+401170615,New Mexico State,Washington State,NA,NA,54,63
+401172979,Rice,Lamar,NA,NA,60,73
+401170045,Arkansas State,Tulsa,NA,NA,66,63
+401170165,Delaware,George Washington,NA,NA,56,66
+401176363,Concordia Texas,Texas Southern,NA,NA,47,85
+401172836,Loyola (MD),Mt. St. Mary's,NA,NA,64,48
+401172610,Oakland,Bowling Green,NA,NA,65,68
+401173688,New Mexico,Wyoming,NA,NA,79,65
+401171540,UNC Greensboro,Radford,NA,NA,60,58
+401171509,UNC Asheville,Western Carolina,NA,NA,77,78
+401166477,Utah Valley,Southern Utah,NA,NA,72,73
+401170162,Davidson,Northeastern,NA,NA,70,63
+401174464,Purdue Fort Wayne,UIC,NA,NA,49,62
+401172513,Green Bay,Eastern Illinois,NA,NA,80,93
+401174741,Georgia State,Mercer,NA,NA,73,61
+401176405,St. Mary's (TX),Texas A&M-CC,NA,NA,53,81
+401166106,Indiana,Wisconsin,NA,NA,64,84
+401174163,Jacksonville State,Alabama A&M,NA,NA,62,67
+401170403,North Florida,Austin Peay,NA,NA,83,90
+401174743,UTSA,Texas State,NA,NA,77,71
+401170613,California,Santa Clara,NA,NA,52,71
+401170614,Central Arkansas,Utah,NA,NA,67,98
+401170956,New Hampshire,Quinnipiac,NA,NA,67,75
+401169457,Cincinnati,Xavier,NA,NA,66,73
+401171404,North Carolina Central,Charleston Southern,NA,NA,53,58
+401171450,Norfolk State,Hampton,NA,NA,53,64
+401173516,SE Missouri St,Drake,NA,NA,73,78
+401170406,Bethune-Cookman,Jacksonville,NA,NA,60,82
+401174742,Little Rock,North Texas,NA,NA,53,76
+401173557,Morehead State,Illinois State,NA,NA,50,61
+401170975,Brown,Stony Brook,NA,NA,63,79
+401170990,Towson,Vermont,NA,NA,38,55
+401172834,Yale,Lehigh,NA,NA,78,65
+401171553,Coastal Carolina,Winthrop,NA,NA,92,88
+401171921,Albany,Bucknell,NA,NA,64,65
+401172018,Marist,Navy,NA,NA,51,53
+401171612,Pacific,Long Beach State,NA,NA,65,46
+401172463,Cleveland State,Kent State,NA,NA,59,81
+401170164,American,George Mason,NA,NA,53,68
+401171428,Gardner-Webb,Wofford,NA,NA,77,81
+401170407,Robert Morris,Florida Gulf Coast,NA,NA,64,59
+401169880,Arkansas,Western Kentucky,NA,NA,79,86
+401169456,Missouri,Temple,NA,NA,64,54
+401175053,Middle Tennessee,Murray State,NA,NA,52,85
+401171634,Northern Illinois,UC Davis,NA,NA,57,66
+401172939,Dallas Christian,Abilene Christian,NA,NA,34,102
+401170168,Old Dominion,VCU,NA,NA,57,69
+401173000,Samford,Houston Baptist,NA,NA,113,90
+401175476,East Tennessee State,North Dakota State,NA,NA,68,78
+401176404,Trinity University (TX),Incarnate Word,NA,NA,65,101
+401176001,Arkansas-Pine Bluff,UTEP,NA,NA,50,59
+401173690,Colorado State,Boise State,NA,NA,64,75
+401168409,Marquette,Kansas State,NA,NA,73,65
+401166478,Westcliff,Weber State,NA,NA,46,86
+401166476,Sacramento State,CSU Fullerton,NA,NA,62,59
+401168389,Georgetown,SMU,NA,NA,91,74
+401170611,Louisiana,Arizona State,NA,NA,65,77
+401175221,Grambling,Loyola Marymount,NA,NA,67,83
+401175222,Portland,Seattle,NA,NA,71,73
+401172835,Holy Cross,San Diego,NA,NA,51,68
+401171657,California Baptist,UC Irvine,NA,NA,68,60
+401171563,Siena,Cal Poly,NA,NA,66,70
+401184943,North Carolina,Virginia,7,5,47,56
+401170617,Gonzaga,Washington,9,22,83,76
+401166107,Rutgers,Michigan State,NA,11,65,77
+401168446,Seton Hall,Iowa State,16,NA,66,76
+401168520,Clemson,Florida State,NA,17,53,72
+401170088,Dayton,Saint Mary's,19,NA,78,68
+401169459,Houston,South Carolina,NA,NA,76,56
+401172051,Colgate,Niagara,NA,NA,82,93
+401175353,Tennessee Wesleyan,Chattanooga,NA,NA,51,99
+401170035,Saint Louis,Tulane,NA,NA,86,62
+401170866,Sacred Heart,Hartford,NA,NA,79,62
+401171690,Coker,Charleston,NA,NA,50,76
+401170169,South Alabama,Richmond,NA,NA,57,75
+401172614,Central Michigan,Valparaiso,NA,NA,55,77
+401172615,Southern,Akron,NA,NA,57,72
+401172616,Marshall,Toledo,NA,NA,72,82
+401172762,Tennessee Tech,Ohio,NA,NA,54,81
+401173847,South Carolina Upstate,Furman,NA,NA,72,84
+401169458,Wichita State,Oklahoma State,NA,NA,80,61
+401171957,William & Mary W&M,Fairfield,NA,NA,58,62
+401174946,Haskell,Oral Roberts,NA,NA,55,95
+401173692,San José St,San Diego State,NA,NA,57,59
+401169648,Texas A&M,Texas,NA,NA,50,60
+401170408,Birmingham-Southern,North Alabama,NA,NA,50,78
+401175769,Summit,Maryland-Eastern Shore,NA,NA,39,85
+401169882,Northwestern State,LSU,NA,NA,59,109
+401170409,Trevecca Nazarene,Lipscomb,NA,NA,72,96
+401170616,Denver,UCLA,NA,NA,62,81
+401169953,Buffalo,DePaul,NA,NA,74,69
+401166108,Northwestern,Purdue,NA,NA,44,58
+401166480,Omaha,Northern Arizona,NA,NA,65,73
+401175861,Louisiana Tech,Sam Houston State,NA,NA,68,71
+401166479,North Dakota,Eastern Washington,NA,NA,82,98
+401170087,Liberty,Grand Canyon,NA,NA,70,61
+401174067,Eastern Kentucky,Northern Kentucky,NA,NA,57,76
+401170170,Columbia,Duquesne,NA,NA,54,90
+401176182,Rust,Alcorn State,NA,NA,62,108
+401177955,Alabama State,South Dakota,NA,NA,59,73
+401166109,Minnesota,Iowa,NA,NA,52,72
+401168245,Texas Tech,Louisville,NA,1,70,57
+401169649,Milwaukee,Kansas,NA,2,68,95
+401166110,Maryland,Penn State,4,NA,69,76
+401168294,Butler,Baylor,18,11,52,53
+401170618,Northern Iowa,Colorado,NA,24,79,76
+401170172,Bryant,Fordham,NA,NA,69,61
+401171528,Presbyterian,St. Francis (BKN),NA,NA,63,64
+401175438,Piedmont,The Citadel,NA,NA,83,129
+401170171,Coppin State,Davidson,NA,NA,52,88
+401174445,Indiana South Bend,IUPUI,NA,NA,60,80
+401176778,Judson College,Purdue Fort Wayne,NA,NA,33,69
+401170976,Stony Brook,Hofstra,NA,NA,63,71
+401172428,UMBC,Towson,NA,NA,71,77
+401173493,Maryville University,Bradley,NA,NA,58,91
+401168244,Albany,Boston College,NA,NA,51,72
+401168246,Detroit Mercy,Notre Dame,NA,NA,71,110
+401168464,Brown,St. John's,NA,NA,71,82
+401169460,Saint Joseph's,Temple,NA,NA,61,108
+401172837,Massachusetts-Boston,Holy Cross,NA,NA,69,66
+401173023,UMKC,McNeese,NA,NA,73,82
+401174744,Tennessee State,Little Rock,NA,NA,62,86
+401174745,Grambling,UL Monroe,NA,NA,66,61
+401172036,Monmouth,Princeton,NA,NA,67,66
+401170052,Green Bay,UCF,NA,NA,66,79
+401173693,Nevada,BYU,NA,NA,42,75
+401173694,South Dakota State,Colorado State,NA,NA,68,72
+401175743,New Mexico State,Denver,NA,NA,72,67
+401188394,St. Katherine,Utah State,NA,NA,49,94
+401169461,Indiana,UConn,NA,NA,57,54
+401166111,Michigan,Illinois,5,NA,62,71
+401170619,Omaha,Arizona,NA,15,49,99
+401170173,Yale,UMass,NA,NA,83,80
+401170410,UMass Lowell,NJIT,NA,NA,72,66
+401175569,North Greenville,Furman,NA,NA,65,90
+401175835,Christendom,North Carolina Central,NA,NA,28,109
+401175915,Bluefield State,Marshall,NA,NA,50,86
+401176083,Ferrum,VMI,NA,NA,60,78
+401166112,Wisconsin,Rutgers,NA,NA,65,72
+401170913,Dartmouth,Maine,NA,NA,77,44
+401171510,UNC Asheville,South Carolina State,NA,NA,85,90
+401172091,Fairleigh Dickinson,Saint Peter's,NA,NA,70,86
+401172240,Army,Merrimack,NA,NA,60,69
+401172300,Cornell,Colgate,NA,NA,58,66
+401173951,Carson Newman,Belmont,NA,NA,56,105
+401173045,Carver College,Nicholls,NA,NA,44,118
+401172980,Southern-New Orleans,Lamar,NA,NA,56,73
+401173610,Arkansas State,Missouri State,NA,NA,53,75
+401169650,Winthrop,TCU,NA,NA,60,70
+401169651,Alabama State,Kansas State,NA,NA,41,86
+401170000,UT Arlington,Houston,NA,NA,63,71
+401170046,Boise State,Tulsa,NA,NA,56,69
+401168247,Chattanooga,Virginia Tech,NA,NA,58,63
+401174164,Troy,Jacksonville State,NA,NA,60,55
+401170620,Prairie View A&M,Arizona State,NA,NA,79,88
+401170621,Fresno State,California,NA,NA,63,69
+401171591,San Diego,CSU Fullerton,NA,NA,66,54
+401174415,North Dakota State,CSU Northridge,NA,NA,71,62
+401169652,Austin Peay,West Virginia,NA,NA,53,84
+401172940,Howard Payne,Abilene Christian,NA,NA,36,105
+401175131,Southern,Wright State,NA,NA,62,85
+401169653,Iowa,Iowa State,NA,NA,84,68
+401173623,Northern Iowa,Grand Canyon,NA,NA,82,58
+401166481,Portland Bible,Portland State,NA,NA,48,101
+401170622,Colorado,Colorado State,24,NA,56,48
+401170411,Gardner-Webb,Kennesaw State,NA,NA,61,85
+401176133,North Greenville,Wofford,NA,NA,66,112
+401166113,Nebraska,Indiana,NA,NA,90,96
+401168321,UT Rio Grande Valley,Creighton,NA,NA,58,89
+401177960,Nebraska Kearney,South Dakota State,NA,NA,53,66
+401166482,Multnomah,Eastern Washington,NA,NA,89,146
+401170077,Evergreen State,Portland,NA,NA,55,77
+401175223,Prairie View A&M,Loyola Marymount,NA,NA,76,79
+401168250,Eastern Kentucky,Louisville,NA,1,67,99
+401169657,UMKC,Kansas,NA,2,57,98
+401166114,Oregon,Michigan,10,5,71,70
+401170623,Gonzaga,Arizona,6,15,84,80
+401168249,Georgia Tech,Kentucky,NA,8,53,67
+401169883,Saint Louis,Auburn,NA,12,61,67
+401169462,Memphis,Tennessee,13,19,51,47
+401170176,Drake,Dayton,NA,14,47,78
+401171734,Michigan State,Oakland,16,NA,72,49
+401168295,Southern,Butler,NA,18,41,66
+401169784,Delaware,Villanova,NA,20,70,78
+401166115,Seton Hall,Rutgers,22,NA,48,68
+401168253,Xavier,Wake Forest,23,NA,78,80
+401169654,Mississippi State,Kansas State,NA,NA,67,61
+401174446,Purdue Fort Wayne,IUPUI,NA,NA,65,74
+401174747,Appalachian State,Howard,NA,NA,81,59
+401172317,Dartmouth,Boston University,NA,NA,76,78
+401172342,Princeton,Fairleigh Dickinson,NA,NA,80,65
+401168248,Syracuse,Georgetown,NA,NA,79,89
+401189256,NC Wesleyan,Elon,NA,NA,60,91
+401169885,Tulsa,Arkansas,NA,NA,79,98
+401170414,Middle Georgia State,Jacksonville,NA,NA,79,93
+401171932,Holy Cross,Canisius,NA,NA,72,80
+401172075,Long Island University,Rider,NA,NA,74,89
+401172241,Army,Buffalo,NA,NA,89,76
+401174746,North Carolina Central,Coastal Carolina,NA,NA,71,91
+401166117,Alabama,Penn State,NA,NA,71,73
+401168346,UIC,DePaul,NA,NA,65,86
+401168251,Alabama A&M,Miami,NA,NA,74,88
+401169655,Nicholls,West Virginia,NA,NA,57,83
+401169658,Central Michigan,Texas,NA,NA,76,87
+401170178,Morgan State,La Salle,NA,NA,68,85
+401170413,NJIT,St. Francis (BKN),NA,NA,71,73
+401170867,Wagner,Hartford,NA,NA,63,71
+401171511,UT Martin,UNC Asheville,NA,NA,72,91
+401169656,Lamar,TCU,NA,NA,50,79
+401173695,Air Force,Denver,NA,NA,79,75
+401170412,North Florida,Southern Miss,NA,NA,72,69
+401169884,Middle Tennessee,Ole Miss,NA,NA,64,82
+401168252,UCLA,Notre Dame,NA,NA,61,75
+401172490,Toledo,Detroit Mercy,NA,NA,80,72
+401170174,Gannon,St. Bonaventure,NA,NA,50,75
+401166485,UC Santa Barbara,Southern Utah,NA,NA,61,62
+401166486,Weber State,Utah,NA,NA,49,60
+401169992,Campbell,East Carolina,NA,NA,67,79
+401171471,High Point,Florida Atlantic,NA,NA,64,81
+401177957,Mayville State,South Dakota,NA,NA,60,96
+401170175,Charleston,Richmond,NA,NA,71,78
+401166484,Sacramento State,Santa Clara,NA,NA,58,60
+401174748,Louisiana,Louisiana Tech,NA,NA,59,77
+401171592,San Francisco,CSU Fullerton,NA,NA,91,69
+401173697,Alabama State,Boise State,NA,NA,57,100
+401169463,Oklahoma,Wichita State,NA,NA,75,80
+401166116,Old Dominion,Illinois,NA,NA,55,69
+401171554,Winthrop,Furman,NA,NA,73,80
+401170625,Arkansas-Pine Bluff,Oregon State,NA,NA,46,80
+401169977,Colgate,Cincinnati,NA,NA,67,66
+401166488,CSU Bakersfield,Idaho,NA,NA,70,76
+401171922,Niagara,Albany,NA,NA,80,84
+401173696,New Mexico State,New Mexico,NA,NA,62,69
+401172514,Evansville,Green Bay,NA,NA,72,62
+401170626,Stanford,San José St,NA,NA,78,58
+401172000,Western Michigan,Manhattan,NA,NA,59,58
+401176406,Williams Baptist,New Orleans,NA,NA,59,103
+401176224,Rust,Grambling,NA,NA,54,82
+401175224,Central Arkansas,Pepperdine,NA,NA,79,92
+401173001,Houston Baptist,Rice,NA,NA,84,96
+401174043,Eastern Illinois,Milwaukee,NA,NA,75,68
+401174948,Central Oklahoma,Oral Roberts,NA,NA,57,69
+401168430,Stony Brook,Providence,NA,NA,78,82
+401169886,Georgia,Arizona State,NA,NA,59,79
+401169887,Liberty,Vanderbilt,NA,NA,61,56
+401176041,Montevallo,UAB,NA,NA,63,75
+401166487,Northern Colorado,Wyoming,NA,NA,74,53
+401173233,UL Monroe,Stephen F. Austin,NA,NA,59,66
+401166483,Northern Arizona,Utah Valley,NA,NA,79,73
+401171564,Fresno State,Cal Poly,NA,NA,62,37
+401171635,UC Davis,San Diego,NA,NA,54,58
+401171658,Pacific Union,UC Irvine,NA,NA,63,120
+401175157,Bethune-Cookman,California Baptist,NA,NA,68,87
+401170624,Saint Mary's,California,NA,NA,89,77
+401170177,Radford,Duquesne,NA,NA,49,71
+401175174,BYU,Utah State,NA,NA,68,64
+401166118,Ohio State,Minnesota,3,NA,71,84
+401168255,Wofford,North Carolina,NA,17,68,64
+401172455,Goucher,William & Mary W&M,NA,NA,30,90
+401168254,Central Connecticut,Boston College,NA,NA,55,74
+401170914,Quinnipiac,Maine,NA,NA,81,61
+401174949,UT Rio Grande Valley,Omaha,NA,NA,82,92
+401175692,Coppin State,UMBC,NA,NA,77,86
+401168256,Gardner-Webb,Virginia Tech,NA,NA,46,73
+401175477,Milligan,East Tennessee State,NA,NA,41,97
+401173597,Norfolk State,Loyola Chicago,NA,NA,45,64
+401172617,Concord College,Akron,NA,NA,50,100
+401172618,Mississippi Valley State,Miami (OH),NA,NA,67,79
+401173558,Illinois State,Northern Kentucky,NA,NA,64,79
+401170053,Sacred Heart,UCF,NA,NA,65,76
+401170179,Tennessee State,Fordham,NA,NA,66,61
+401168620,NC State,UNC Greensboro,NA,NA,80,77
+401169464,Oklahoma State,Houston,NA,NA,61,55
+401172464,Cleveland State,Bowling Green,NA,NA,58,72
+401174749,Troy,Chattanooga,NA,NA,80,84
+401170022,Drexel,South Florida,NA,NA,61,81
+401176011,Texas-Permian Basin,UTSA,NA,NA,55,98
+401169888,Southern Illinois,Missouri,NA,NA,48,64
+401166119,Purdue,Nebraska,NA,NA,56,70
+401166120,SIU-Edwardsville,Northwestern,NA,NA,54,72
+401170415,Longwood,Stetson,NA,NA,76,72
+401170628,UC Riverside,Washington State,NA,NA,56,70
+401173494,Georgia Southern,Bradley,NA,NA,51,81
+401169889,South Carolina,Clemson,NA,NA,67,54
+401176407,Wiley,Sam Houston State,NA,NA,58,91
+401174750,Bethany College,Texas State,NA,NA,65,117
+401174416,CSU Northridge,Pacific,NA,NA,73,79
+401169890,Texas A&M-CC,Texas A&M,NA,NA,60,63
+401170627,Long Beach State,USC,NA,NA,76,87
+401170180,Missouri State,VCU,NA,NA,51,61
+401175054,SE Missouri St,Youngstown St,NA,NA,50,65
+401174431,Samford,Hawai'i,NA,NA,73,94
+401169659,Southern Miss,Texas Tech,NA,24,65,71
+401175849,Chestnut Hill College,Morgan State,NA,NA,72,96
+401172392,Mercer,UNC Wilmington,NA,NA,72,63
+401173643,Valparaiso,Charlotte,NA,NA,57,67
+401175055,Marshall,Morehead State,NA,NA,89,62
+401168257,Northern Illinois,Pittsburgh,NA,NA,50,59
+401171659,Kent State,UC Irvine,NA,NA,68,74
+401171805,Delaware State,Delaware,NA,NA,78,86
+401172019,Marist,Rider,NA,NA,64,74
+401171405,Charleston Southern,James Madison,NA,NA,60,81
+401174044,Eastern Illinois,Western Illinois,NA,NA,85,47
+401170036,Alcorn State,Tulane,NA,NA,57,68
+401170416,Kennesaw State,Murray State,NA,NA,38,74
+401166490,Montana State,North Dakota State,NA,NA,65,79
+401176240,Southeastern Baptist College,Jackson State,NA,NA,67,113
+401173538,Evansville,Jacksonville State,NA,NA,59,85
+401175805,North Carolina A&T,UTEP,NA,NA,54,72
+401166489,UC Santa Barbara,Idaho State,NA,NA,74,68
+401175225,Florida A&M,Portland,NA,NA,60,66
+401171636,Loyola Marymount,UC Davis,NA,NA,65,67
+401166121,SE Missouri St,Ohio State,NA,5,48,80
+401170181,North Texas,Dayton,NA,13,58,71
+401168258,North Florida,Florida State,NA,19,81,98
+401170630,Seattle,Washington,NA,22,59,81
+401171555,SIU-Edwardsville,Winthrop,NA,NA,73,93
+401171980,Iona,Princeton,NA,NA,86,90
+401170419,Stetson,UNC Asheville,NA,NA,76,78
+401168390,UMBC,Georgetown,NA,NA,55,81
+401171017,Elon,Campbell,NA,NA,46,60
+401175132,Mississippi Valley State,Wright State,NA,NA,50,92
+401176435,Franciscan University,St. Francis (PA),NA,NA,66,115
+401189763,Kent State,North Carolina A&T,NA,NA,85,71
+401172217,American,Mt. St. Mary's,NA,NA,82,76
+401172419,Northeastern,Eastern Michigan,NA,NA,55,60
+401172619,Central Michigan,Robert Morris,NA,NA,79,83
+401168431,Florida,Providence,NA,NA,83,51
+401169993,Maryland-Eastern Shore,East Carolina,NA,NA,57,71
+401170417,Tennessee Tech,Lipscomb,NA,NA,60,78
+401175836,North Carolina Central,Louisiana Tech,NA,NA,60,69
+401173881,McKendree,Austin Peay,NA,NA,61,80
+401170182,Maryville University,Saint Louis,NA,NA,69,82
+401170418,North Alabama,UAB,NA,NA,56,63
+401172620,Toledo,UMKC,NA,NA,57,72
+401173517,Mount Marty,Drake,NA,NA,74,92
+401176814,Northland College,North Dakota,NA,NA,50,109
+401174950,Oral Roberts,Chicago State,NA,NA,97,59
+401168410,Grambling,Marquette,NA,NA,72,93
+401168322,Oklahoma,Creighton,NA,NA,73,83
+401174751,Alabama A&M,South Alabama,NA,NA,79,89
+401166494,Denver,Northern Colorado,NA,NA,64,86
+401172763,Purdue,Ohio,NA,NA,69,51
+401173698,Johnson & Wales (CO),Air Force,NA,NA,42,99
+401173699,Grand Canyon,New Mexico,NA,NA,71,91
+401170629,San Francisco,Stanford,NA,NA,56,64
+401189764,UC Irvine,UTEP,NA,NA,61,67
+401166491,Omaha,Eastern Washington,NA,NA,56,97
+401166493,Bethesda,Weber State,NA,NA,62,109
+401168259,Miami,Temple,NA,NA,78,77
+401166492,Portland State,Pepperdine,NA,NA,71,77
+401168261,North Carolina,Gonzaga,NA,2,81,94
+401168262,Miami (OH),Louisville,NA,3,46,70
+401169891,Utah,Kentucky,NA,6,69,66
+401166495,Montana,Oregon,NA,8,48,81
+401168264,Stony Brook,Virginia,NA,9,44,56
+401169660,UT Martin,Baylor,NA,10,63,91
+401166122,Michigan State,Northwestern,15,NA,77,72
+401182455,San Diego Christian,San Diego State,NA,20,48,92
+401169895,Tennessee,Cincinnati,21,NA,66,78
+401172318,Central Connecticut,Dartmouth,NA,NA,60,76
+401176408,Incarnate Word,Central Arkansas,NA,NA,82,88
+401170632,Oregon State,UTSA,NA,NA,88,78
+401169896,Loyola Chicago,Vanderbilt,NA,NA,78,70
+401169794,Western Carolina,Xavier,NA,NA,61,74
+401169892,East Tennessee State,LSU,NA,NA,74,63
+401170054,Bethune-Cookman,UCF,NA,NA,65,70
+401170184,Wagner,La Salle,NA,NA,60,74
+401170421,Jacksonville,Presbyterian,NA,NA,81,58
+401168347,DePaul,Cleveland State,NA,NA,73,65
+401168260,Ball State,Georgia Tech,NA,NA,65,47
+401169983,Saint Peter's,UConn,NA,NA,56,66
+401170957,New Hampshire,Marist,NA,NA,64,56
+401170991,UNC Greensboro,Vermont,NA,NA,54,53
+401171472,Valparaiso,High Point,NA,NA,87,72
+401171933,Canisius,Buffalo,NA,NA,73,82
+401172052,Niagara,St. Bonaventure,NA,NA,70,87
+401173559,UIC,Illinois State,NA,NA,66,67
+401173581,Tennessee State,Indiana State,NA,NA,72,78
+401173848,South Carolina Upstate,South Carolina State,NA,NA,73,70
+401170185,Richmond,Old Dominion,NA,NA,62,59
+401171691,VCU,Charleston,NA,NA,76,71
+401172621,Aquinas College,Western Michigan,NA,NA,61,84
+401175756,Regent University,Howard,NA,NA,47,105
+401173002,Houston Baptist,Stephen F. Austin,NA,NA,68,96
+401173063,Northwestern State,Sam Houston State,NA,NA,79,92
+401169893,Alabama,Samford,NA,NA,105,87
+401170422,Kennesaw State,Belmont,NA,NA,44,83
+401170840,Binghamton,Youngstown St,NA,NA,55,73
+401170023,South Florida,Utah State,NA,NA,74,76
+401171451,Hampton,Southern Illinois,NA,NA,53,75
+401172941,Abilene Christian,New Orleans,NA,NA,77,71
+401172981,SE Louisiana,Lamar,NA,NA,73,79
+401173046,Texas A&M-CC,Nicholls,NA,NA,58,64
+401169894,Radford,Mississippi State,NA,NA,68,77
+401168263,Oakland,Syracuse,NA,NA,62,74
+401174752,Louisiana,Arkansas State,NA,NA,67,79
+401170420,Florida Gulf Coast,South Dakota State,NA,NA,56,75
+401172515,Concordia Illinois,Green Bay,NA,NA,64,126
+401168465,Albany,St. John's,NA,NA,57,85
+401174165,Delaware State,Jacksonville State,NA,NA,80,92
+401173024,Paul Quinn,McNeese,NA,NA,67,109
+401173701,Utah Valley,Wyoming,NA,NA,69,67
+401170631,Saint Mary's,Arizona State,NA,NA,96,56
+401175744,Arkansas-Pine Bluff,New Mexico State,NA,NA,40,65
+401173703,San José St,Santa Clara,NA,NA,84,89
+401175158,Southern,California Baptist,NA,NA,61,78
+401173702,Texas Southern,Nevada,NA,NA,73,91
+401173700,Pacific,UNLV,NA,NA,74,66
+401166496,Cal Poly,Sacramento State,NA,NA,56,57
+401168265,Wofford,Duke,NA,4,57,86
+401168447,Maryland,Seton Hall,7,NA,48,52
+401168621,NC State,Auburn,NA,12,73,79
+401171429,Bob Jones University,Gardner-Webb,NA,NA,70,94
+401175978,St. Thomas (TX),Rice,NA,NA,70,103
+401176059,Florida Memorial,Florida International,NA,NA,74,99
+401174754,UT Arlington,Georgia State,NA,NA,77,83
+401171871,Hofstra,Princeton,NA,NA,87,72
+401174756,Coastal Carolina,Troy,NA,NA,59,77
+401175770,Maryland-Eastern Shore,Charlotte,NA,NA,44,66
+401175899,Tampa,Florida Atlantic,NA,NA,35,84
+401171495,The Citadel,Longwood,NA,NA,102,99
+401172420,Northeastern,Detroit Mercy,NA,NA,74,61
+401172838,Widener,Lafayette,NA,NA,56,96
+401174068,Eastern Kentucky,Marshall,NA,NA,72,90
+401174753,Texas State,Georgia Southern,NA,NA,64,67
+401170187,William & Mary W&M,Saint Joseph's,NA,NA,69,84
+401174755,Appalachian State,South Alabama,NA,NA,81,71
+401170830,UTEP,Houston,NA,NA,57,77
+401177961,Holy Family,Western Illinois,NA,NA,64,91
+401174757,Little Rock,UL Monroe,NA,NA,73,72
+401172622,Northern Illinois,Chicago State,NA,NA,75,60
+401170633,Prairie View A&M,Colorado,NA,NA,64,83
+401166497,Montana State,CSU Bakersfield,NA,NA,72,74
+401166498,Northern Arizona,UC Riverside,NA,NA,63,56
+401166499,Southern Utah,Long Beach State,NA,NA,84,63
+401166500,Portland State,Loyola Marymount,NA,NA,76,66
+401170634,Florida A&M,Washington State,NA,NA,73,87
+401175226,Jackson State,Portland,NA,NA,73,63
+401166123,Central Connecticut,Penn State,NA,23,58,87
+401172839,Mt. St. Mary's,Navy,NA,NA,48,59
+401170037,Tulane,Akron,NA,NA,61,62
+401171780,Quinnipiac,Drexel,NA,NA,63,72
+401170423,Towson,Liberty,NA,NA,54,66
+401176183,Ecclesia College,Alcorn State,NA,NA,71,122
+401170188,James Madison,Fordham,NA,NA,75,69
+401171833,Delaware,Long Island University,NA,NA,75,82
+401172623,Norfolk State,Bowling Green,NA,NA,72,67
+401168266,Binghamton,Pittsburgh,NA,NA,53,79
+401169897,SMU,Georgia,NA,NA,85,87
+401170189,Maine,UMass,NA,NA,53,74
+401170424,North Alabama,Alabama A&M,NA,NA,80,92
+401170426,Lipscomb,Vermont,NA,NA,63,86
+401175570,Furman,Mercer,NA,NA,64,62
+401166501,Northern Colorado,South Dakota,NA,NA,87,68
+401171660,UC Irvine,UIC,NA,NA,67,76
+401168411,North Dakota State,Marquette,NA,NA,68,82
+401170425,Jacksonville,Clemson,NA,NA,39,68
+401174447,IUPUI,Fresno State,NA,NA,64,95
+401175227,Mississippi Valley State,Santa Clara,NA,NA,71,100
+401171677,Southern,UC Santa Barbara,NA,NA,68,77
+401169661,Kansas,Villanova,1,18,55,56
+401166502,Eastern Washington,Gonzaga,NA,2,77,112
+401166125,Ohio State,Kentucky,5,6,71,65
+401170635,Texas Southern,Oregon,NA,8,78,84
+401170005,Jackson State,Memphis,NA,11,49,77
+401169900,Lehigh,Auburn,NA,12,51,74
+401170191,Dayton,Colorado,13,NA,76,78
+401166128,Presbyterian,Michigan,NA,14,44,86
+401166129,Eastern Michigan,Michigan State,NA,15,48,101
+401168466,St. John's,Arizona,NA,16,70,67
+401166124,Butler,Purdue,17,NA,70,61
+401168271,South Florida,Florida State,NA,19,60,66
+401170637,Utah,San Diego State,NA,20,52,80
+401169898,Jacksonville State,Tennessee,NA,21,53,75
+401169666,UT Rio Grande Valley,Texas Tech,NA,24,58,68
+401169662,West Virginia,Youngstown St,25,NA,75,64
+401168268,Notre Dame,Indiana,NA,NA,60,62
+401168274,North Carolina A&T,Wake Forest,NA,NA,64,76
+401168391,Samford,Georgetown,NA,NA,71,99
+401169465,VCU,Wichita State,NA,NA,63,73
+401170199,Fairleigh Dickinson,La Salle,NA,NA,58,66
+401172319,Bryant,Dartmouth,NA,NA,64,60
+401170194,Harvard,George Washington,NA,NA,88,75
+401170028,Rider,Temple,NA,NA,66,78
+401173849,Bob Jones University,South Carolina Upstate,NA,NA,74,92
+401171018,Johnson & Wales (NC),Campbell,NA,NA,59,82
+401172020,Marist,Bethune-Cookman,NA,NA,56,85
+401197795,Tulane,Towson,NA,NA,82,86
+401166504,Montana,Omaha,NA,NA,82,87
+401166507,Idaho,South Dakota State,NA,NA,57,85
+401172330,Widener,Pennsylvania,NA,NA,57,105
+401172764,Morehead State,Ohio,NA,NA,76,82
+401174758,UT Arlington,Georgia Southern,NA,NA,74,77
+401174759,Texas State,Georgia State,NA,NA,69,81
+401170936,Boston University,UMass Lowell,NA,NA,74,62
+401169906,Illinois,Missouri,NA,NA,56,63
+401170195,Western Kentucky,Rhode Island,NA,NA,82,86
+401169663,UCF,Oklahoma,NA,NA,52,53
+401168432,Texas,Providence,NA,NA,48,70
+401168269,Coppin State,Miami,NA,NA,60,91
+401170977,Stony Brook,American,NA,NA,77,74
+401171473,Belmont Abbey,High Point,NA,NA,66,92
+401171512,Chattanooga,UNC Asheville,NA,NA,68,64
+401171556,Elon,Winthrop,NA,NA,80,85
+401171958,Fairfield,Oakland,NA,NA,61,59
+401172053,Niagara,Buffalo,NA,NA,72,92
+401172516,Green Bay,Northern Illinois,NA,NA,85,84
+401173518,Drake,Air Force,NA,NA,85,80
+401173611,Missouri State,Oral Roberts,NA,NA,72,82
+401172242,Army,Wagner,NA,NA,62,82
+401175056,Blue Mountain College,Tennessee State,NA,NA,71,86
+401176409,Texas A&M-CC,Central Arkansas,NA,NA,67,71
+401180738,Elizabethtown Elizabethtown,Loyola (MD),NA,NA,45,72
+401197793,Quinnipiac,Bowling Green,NA,NA,69,64
+401172624,Wright State,Toledo,NA,NA,79,72
+401172744,Bradley,Miami (OH),NA,NA,55,71
+401169905,SE Louisiana,Ole Miss,NA,NA,76,83
+401171923,Albany,Monmouth,NA,NA,70,72
+401169904,Utah State,Florida,NA,NA,65,62
+401170192,Duquesne,Austin Peay,NA,NA,86,77
+401170047,Colorado State,Tulsa,NA,NA,111,104
+401170190,St. Bonaventure,Middle Tennessee,NA,NA,66,65
+401172491,SIU-Edwardsville,Detroit Mercy,NA,NA,55,81
+401174762,Appalachian State,Troy,NA,NA,70,65
+401174763,Arkansas State,UL Monroe,NA,NA,62,59
+401173705,Wyoming,Denver,NA,NA,72,66
+401173707,Robert Morris,UNLV,NA,NA,69,81
+401170636,San Diego,Stanford,NA,NA,59,62
+401175990,Tougaloo,Southern Miss,NA,NA,77,96
+401176410,New Orleans,Sam Houston State,NA,NA,79,87
+401168270,UCLA,North Carolina,NA,NA,64,74
+401169899,Belmont,Alabama,NA,NA,72,92
+401197796,Akron,Liberty,NA,NA,67,80
+401168273,VMI,Virginia Tech,NA,NA,55,64
+401173560,Illinois State,UTSA,NA,NA,70,89
+401172982,Lamar,Northwestern State,NA,NA,61,67
+401173025,Stephen F. Austin,McNeese,NA,NA,81,73
+401171692,South Carolina State,Charleston,NA,NA,61,73
+401174761,Coastal Carolina,South Alabama,NA,NA,81,69
+401172465,Cleveland State,East Tennessee State,NA,NA,55,80
+401173637,SE Missouri St,Southern Illinois,NA,NA,45,64
+401170193,UMBC,George Mason,NA,NA,53,69
+401166505,Northern Arizona,Pepperdine,NA,NA,73,75
+401197794,Norfolk State,Drexel,NA,NA,49,53
+401176042,Alabama State,UAB,NA,NA,63,71
+401175057,Western Carolina,Tennessee Tech,NA,NA,89,76
+401175862,Southern-New Orleans,Louisiana Tech,NA,NA,47,87
+401166127,Milwaukee,Wisconsin,NA,NA,64,83
+401171637,UC Davis,San Francisco,NA,NA,84,93
+401168267,Boston College,California,NA,NA,64,60
+401169664,Minnesota,Oklahoma State,NA,NA,86,66
+401166126,North Dakota,Nebraska,NA,NA,75,74
+401175934,Arkansas-Pine Bluff,North Texas,NA,NA,53,86
+401168272,North Florida,Syracuse,NA,NA,70,82
+401172084,Bucknell,Siena,NA,NA,71,81
+401175133,Northern Kentucky,UNC Greensboro,NA,NA,50,67
+401170638,Incarnate Word,Washington State,NA,NA,59,87
+401170427,Saint Thomas Univers,Florida Gulf Coast,NA,NA,62,84
+401171406,Charleston Southern,Eastern Kentucky,NA,NA,76,69
+401171452,Hampton,Kent State,NA,NA,64,103
+401171613,Utah Valley,Long Beach State,NA,NA,65,68
+401173539,Murray State,Evansville,NA,NA,76,78
+401169665,Saint Louis,Kansas State,NA,NA,66,63
+401169903,Valparaiso,Arkansas,NA,NA,68,72
+401174045,Eastern Illinois,Grand Canyon,NA,NA,63,85
+401174760,Little Rock,Louisiana,NA,NA,69,66
+401169908,UNC Wilmington,Vanderbilt,NA,NA,73,88
+401172942,Nicholls,Abilene Christian,NA,NA,61,79
+401169901,Oregon State,Texas A&M,NA,NA,49,64
+401168323,Creighton,Arizona State,NA,NA,67,60
+401168348,Northwestern,DePaul,NA,NA,78,83
+401166506,Weber State,BYU,NA,NA,61,91
+401169902,LSU,USC,NA,NA,68,70
+401171565,CSU Bakersfield,Cal Poly,NA,NA,72,50
+401175642,Florida A&M,Seattle,NA,NA,71,57
+401166503,Idaho State,Pacific,NA,NA,66,77
+401173706,Nevada,Saint Mary's,NA,NA,63,68
+401169978,Cincinnati,Iowa,NA,NA,70,77
+401168276,South Carolina,Virginia,NA,9,70,59
+401170075,Ball State,Washington,NA,22,64,85
+401171872,Manhattan,Hofstra,NA,NA,51,63
+401172281,Columbia,Colgate,NA,NA,71,89
+401173882,Austin Peay,Alabama State,NA,NA,80,69
+401172092,Saint Peter's,Long Island University,NA,NA,69,58
+401172841,Sacred Heart,Holy Cross,NA,NA,89,68
+401169667,Purdue Fort Wayne,Iowa State,NA,NA,59,89
+401172456,St. Francis (PA),William & Mary W&M,NA,NA,78,72
+401166130,Lafayette,Rutgers,NA,NA,44,63
+401169984,New Hampshire,UConn,NA,NA,62,88
+401170428,Kean,NJIT,NA,NA,46,74
+401170429,Wofford,Kennesaw State,NA,NA,83,70
+401170430,Florida International,Stetson,NA,NA,83,67
+401170868,Cornell,Hartford,NA,NA,76,80
+401175711,Delaware State,St. Francis (BKN),NA,NA,62,81
+401175771,Maryland-Eastern Shore,Old Dominion,NA,NA,52,76
+401173190,Harvard,Howard,NA,NA,60,55
+401173582,Chicago State,Indiana State,NA,NA,64,85
+401173624,Marshall,Northern Iowa,NA,NA,80,88
+401173003,Houston Baptist,New Mexico,NA,NA,88,107
+401169907,New Mexico State,Mississippi State,NA,NA,58,52
+401169466,Houston,Portland,NA,NA,81,56
+401170197,Davidson,Loyola Chicago,NA,NA,59,56
+401171593,CSU Fullerton,Loyola Marymount,NA,NA,46,53
+401169994,Charlotte,East Carolina,NA,NA,56,60
+401173925,Yale,Clemson,NA,NA,54,45
+401174951,UMKC,South Dakota,NA,NA,78,75
+401168448,Prairie View A&M,Seton Hall,NA,NA,55,75
+401173708,UC Riverside,San José St,NA,NA,80,65
+401169668,Xavier,TCU,NA,NA,67,59
+401168275,Georgia Tech,Boise State,NA,NA,74,60
+401171678,Merrimack,UC Santa Barbara,NA,NA,50,68
+401168622,The Citadel,NC State,NA,NA,63,83
+401174417,San Francisco State,CSU Northridge,NA,NA,50,85
+401175900,Florida Atlantic,Mercer,NA,NA,65,50
+401175159,Mississippi Valley State,California Baptist,NA,NA,66,103
+401170076,UTEP,Hawai'i,NA,NA,63,67
+401170198,UAB,Duquesne,NA,NA,77,68
+401170196,Radford,Richmond,NA,NA,73,58
