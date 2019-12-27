@@ -1,6 +1,5 @@
 library(ncaahoopR)
 library(readr)
-library(lubridate)
 
 seasons <- paste0(2002:2018, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .19, 0.01))))
 n <- nrow(ids)

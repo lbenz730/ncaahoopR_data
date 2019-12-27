@@ -1,7 +1,5 @@
 library(ncaahoopR)
 library(readr)
-library(lubridate)
-
 
 n <- nrow(ids)
 for(i in 1:n) {
@@ -13,9 +11,9 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2019-12-06")
+date <- as.Date("2019-12-25")
 while(date <= Sys.Date()) {
-  schedule <- get_master_schedule(year = year(date), day = day(date), month = month(date))
+  schedule <- get_master_schedule(date)
   if(!dir.exists(paste("2019-20/pbp_logs", date, sep = "/"))) {
     dir.create(paste("2019-20/pbp_logs", date, sep = "/")) 
   }
