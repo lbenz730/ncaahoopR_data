@@ -35,8 +35,12 @@ while(date <= Sys.Date()) {
 date <- as.Date("2019-11-05")
 master_schedule <- NULL
 while(date <= Sys.Date()) {
-  schedule <- read_csv(paste("2019-20/pbp_logs", date, "schedule.csv", sep = "/"))
-  master_schedule <- bind_rows(master_schedule, schedule)
+  schedule <- try(read_csv(paste("2019-20/pbp_logs", date, "schedule.csv", sep = "/")) %>%
+    mutate("date" = date))
+  if(class(schedule)[1] != "try-error") {
+    write_csv(schedule, paste("2019-20/pbp_logs", date, "schedule.csv", sep = "/"))
+    master_schedule <- bind_rows(master_schedule, schedule)
+  }
   
   date <- date + 1
 }
