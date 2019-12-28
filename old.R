@@ -1,7 +1,7 @@
 library(ncaahoopR)
 library(readr)
 
-seasons <- "2005-06"
+seasons <- "2012-13"
 for(j in 1:length(seasons)) {
   schedules <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = T)
   n <- length(schedules)
