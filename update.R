@@ -45,3 +45,6 @@ while(date <= Sys.Date()) {
   date <- date + 1
 }
 write_csv(master_schedule, "2019-20/pbp_logs/master_schedule.csv")
+
+
+
