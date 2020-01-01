@@ -1,0 +1,426 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401088797,2018-11-29,Samford,Belmont,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.21696383767440053,0.5,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,NA,Samford
+401088797,2018-11-29,Samford,Belmont,2,1,19:50,2390,2690,Ruben Guerrero made Layup. Assisted by Robert Allen.,2,0,2,10,0.24884936692080634,0.5442362834555183,4,4,-8,NA,NA,Samford,made,Ruben Guerrero,Robert Allen,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,3,1,19:34,2374,2674,Kevin McClain Turnover.,2,0,2,16,0.24949451541438197,0.5445753877960263,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,4,1,19:31,2371,2671,Myron Gordon Steal.,2,0,2,3,0.2496167504778265,0.5446393791777019,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,5,1,19:31,2371,2671,Josh Sharkey made Layup.,4,0,4,0,0.28462728705446266,0.5885727716572231,4,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,6,1,19:31,2371,2671,Foul on Caleb Hollander.,4,0,4,0,0.28462728705446266,0.5885727716572231,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,7,1,19:31,2371,2671,Josh Sharkey missed Free Throw.,4,0,4,0,0.28462728705446266,0.5885727716572231,4,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,8,1,19:31,2371,2671,Grayson Murphy Defensive Rebound.,4,0,4,0,0.28462728705446266,0.5885727716572231,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,9,1,19:17,2357,2657,Caleb Hollander missed Three Point Jumper.,4,0,4,14,0.28550001566518546,0.5891590391209124,4,4,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,10,1,19:17,2357,2657,Myron Gordon Defensive Rebound.,4,0,4,0,0.28550001566518546,0.5891590391209124,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,11,1,19:04,2344,2644,Ruben Guerrero Turnover.,4,0,4,13,0.28632148446353434,0.589707800826312,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,12,1,19:03,2343,2643,Caleb Hollander Steal.,4,0,4,1,0.2863851148252418,0.5897501807224378,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,13,1,18:58,2338,2638,Kevin McClain made Three Point Jumper.,4,3,1,5,0.23427944409024604,0.5227224670857408,4,4,-8,NA,NA,Belmont,made,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,14,1,18:39,2319,2619,Myron Gordon made Jumper.,6,3,3,19,0.2694833660252436,0.568411910727213,4,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,15,1,18:16,2296,2596,Grayson Murphy missed Layup.,6,3,3,23,0.2707356414433093,0.5691673982971774,4,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,16,1,18:16,2296,2596,Brandon Austin Defensive Rebound.,6,3,3,0,0.2707356414433093,0.5691673982971774,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,17,1,18:10,2290,2590,Josh Sharkey missed Jumper.,6,3,3,6,0.2710669840485688,0.5693657856264321,4,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,18,1,18:10,2290,2590,Dylan Windler Block.,6,3,3,0,0.2710669840485688,0.5693657856264321,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,19,1,18:07,2287,2587,Myron Gordon Offensive Rebound.,6,3,3,3,0.2712333784037458,0.5694651702425656,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,20,1,18:04,2284,2584,Brandon Austin missed Jumper.,6,3,3,3,0.2714002547013409,0.5695646793277579,4,4,-8,NA,NA,Samford,missed,Brandon Austin,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,21,1,18:04,2284,2584,Dylan Windler Defensive Rebound.,6,3,3,0,0.2714002547013409,0.5695646793277579,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,22,1,18:02,2282,2582,Foul on Brandon Austin.,6,3,3,2,0.2715117732778914,0.5696310868187159,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,23,1,18:02,2282,2582,Dylan Windler made Free Throw.,6,4,2,0,0.25342755012471657,0.546588823501246,4,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,24,1,18:02,2282,2582,Dylan Windler made Free Throw.,6,5,1,0,0.2361573666426822,0.5233451933869412,4,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,25,1,17:46,2266,2566,Myron Gordon missed Jumper.,6,5,1,16,0.23671606887038407,0.523526051435561,4,4,-8,NA,NA,Samford,missed,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,26,1,17:46,2266,2566,Nick Muszynski Defensive Rebound.,6,5,1,0,0.23671606887038407,0.523526051435561,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,27,1,17:46,2266,2566,Foul on Ruben Guerrero.,6,5,1,0,0.23671606887038407,0.523526051435561,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,28,1,17:33,2253,2553,Grayson Murphy missed Layup.,6,5,1,13,0.2371774280324192,0.5236738188039088,4,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,29,1,17:33,2253,2553,Ruben Guerrero Block.,6,5,1,0,0.2371774280324192,0.5236738188039088,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,30,1,17:31,2251,2551,Robert Allen Defensive Rebound.,6,5,1,2,0.2372490011255771,0.5236966134305555,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,31,1,17:26,2246,2546,Robert Allen made Layup. Assisted by Josh Sharkey.,8,5,3,5,0.27355570650568906,0.5708350031423882,4,4,-8,NA,NA,Samford,made,Robert Allen,Josh Sharkey,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,32,1,17:13,2233,2533,Nick Muszynski made Jumper.,8,7,1,13,0.23790035810050994,0.5239024471442838,4,4,-8,NA,NA,Belmont,made,Nick Muszynski,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,33,1,16:44,2204,2504,Robert Allen missed Three Point Jumper.,8,7,1,29,0.2389773751786658,0.5242363573899839,4,4,-8,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,34,1,16:44,2204,2504,Belmont Defensive Rebound.,8,7,1,0,0.2389773751786658,0.5242363573899839,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,35,1,16:31,2191,2491,Nick Muszynski made Layup. Assisted by Kevin McClain.,8,9,-1,13,0.20573485574302283,0.4756131854327252,4,4,-8,NA,NA,Belmont,made,Nick Muszynski,Kevin McClain,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,36,1,16:06,2166,2466,Josh Sharkey Turnover.,8,9,-1,25,0.2062237739691192,0.47532276278028657,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,37,1,16:05,2165,2465,Caleb Hollander Steal.,8,9,-1,1,0.20624374385519345,0.475311112717869,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,38,1,15:57,2157,2457,Dylan Windler missed Jumper.,8,9,-1,8,0.20640456926717352,0.4752177740896185,4,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,39,1,15:57,2157,2457,Robert Allen Defensive Rebound.,8,9,-1,0,0.20640456926717352,0.4752177740896185,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,40,1,15:40,2140,2440,Brandon Austin missed Three Point Jumper.,8,9,-1,17,0.20675255695947822,0.4750185827432703,4,4,-8,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,41,1,15:40,2140,2440,Ruben Guerrero Offensive Rebound.,8,9,-1,0,0.20675255695947822,0.4750185827432703,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,42,1,15:37,2137,2437,Ruben Guerrero made Two Point Tip Shot.,10,9,1,3,0.24159917137730927,0.525016692989698,4,4,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,43,1,15:29,2129,2429,Nick Muszynski missed Jumper.,10,9,1,8,0.24192469682523246,0.5251109509496074,4,4,-8,NA,NA,Belmont,missed,Nick Muszynski,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,44,1,15:29,2129,2429,Ruben Guerrero Block.,10,9,1,0,0.24192469682523246,0.5251109509496074,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,45,1,15:27,2127,2427,Brandon Austin Defensive Rebound.,10,9,1,2,0.2420064914994617,0.5251345592101195,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,46,1,15:18,2118,2418,Myron Gordon missed Three Point Jumper.,10,9,1,9,0.24237661152842854,0.5252410183927532,4,4,-8,NA,NA,Samford,missed,Myron Gordon,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,47,1,15:18,2118,2418,Ruben Guerrero Offensive Rebound.,10,9,1,0,0.24237661152842854,0.5252410183927532,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,48,1,15:15,2115,2415,Ruben Guerrero made Jumper.,12,9,3,3,0.2815810339959959,0.5753169132918322,4,4,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,49,1,15:15,2115,2415,Foul on Grayson Murphy.,12,9,3,0,0.2815810339959959,0.5753169132918322,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,50,1,15:15,2115,2415,Official TV Timeout,12,9,3,0,0.2815810339959959,0.5753169132918322,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,51,1,15:15,2115,2415,Ruben Guerrero made Free Throw.,13,9,4,0,0.302496033421463,0.5998332681055214,4,4,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,52,1,14:56,2096,2396,Kevin McClain Turnover.,13,9,4,19,0.30398420330348314,0.6007041507685156,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,53,1,14:39,2079,2379,Brandon Austin missed Layup.,13,9,4,17,0.30533585858674667,0.6014886956381457,4,4,-8,NA,NA,Samford,missed,Brandon Austin,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,54,1,14:39,2079,2379,Seth Adelsperger Block.,13,9,4,0,0.30533585858674667,0.6014886956381457,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,55,1,14:36,2076,2376,Kevin McClain Defensive Rebound.,13,9,4,3,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,56,1,14:36,2076,2376,Foul on Robert Allen.,13,9,4,0,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,57,1,14:36,2076,2376,Kevin McClain missed Free Throw.,13,9,4,0,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,58,1,14:36,2076,2376,Belmont Deadball Team Rebound.,13,9,4,0,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,59,1,14:36,2076,2376,Kevin McClain missed Free Throw.,13,9,4,0,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,60,1,14:36,2076,2376,Belmont Offensive Rebound.,13,9,4,0,0.30557637680844907,0.6016276921538536,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,61,1,14:16,2056,2356,Tate Pierson missed Three Point Jumper.,13,9,4,20,0.30719522741602956,0.6025587243344606,4,4,-8,NA,NA,Belmont,missed,Tate Pierson,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,62,1,14:16,2056,2356,Kevin McClain Offensive Rebound.,13,9,4,0,0.30719522741602956,0.6025587243344606,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,63,1,14:06,2046,2346,Seth Adelsperger made Dunk. Assisted by Kevin McClain.,13,11,2,10,0.2653266678480726,0.5520723249003605,4,4,-8,NA,NA,Belmont,made,Seth Adelsperger,Kevin McClain,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,64,1,13:44,2024,2324,Stefan Lakic missed Three Point Jumper.,13,11,2,22,0.2665738578560538,0.5526086370731056,4,4,-8,NA,NA,Samford,missed,Stefan Lakic,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,65,1,13:44,2024,2324,Grayson Murphy Defensive Rebound.,13,11,2,0,0.2665738578560538,0.5526086370731056,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,66,1,13:36,2016,2316,Grayson Murphy missed Three Point Jumper.,13,11,2,8,0.26703333761604575,0.5528050937553622,4,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,67,1,13:36,2016,2316,Tate Pierson Offensive Rebound.,13,11,2,0,0.26703333761604575,0.5528050937553622,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,68,1,13:24,2004,2304,Kevin McClain missed Jumper.,13,11,2,12,0.2677285301933865,0.5531012689598908,4,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,69,1,13:24,2004,2304,Tate Pierson Offensive Rebound.,13,11,2,0,0.2677285301933865,0.5531012689598908,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,70,1,13:19,1999,2299,Foul on Brandon Austin.,13,11,2,5,0.26802031274589067,0.553225214887501,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,71,1,13:19,1999,2299,Kevin McClain made Free Throw.,13,12,1,0,0.24758291541764282,0.5266884291308235,4,4,-8,NA,NA,Belmont,made,Kevin McClain,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,72,1,13:19,1999,2299,Kevin McClain made Free Throw.,13,13,0,0,0.22821804829176873,0.5,4,4,-8,NA,NA,Belmont,made,Kevin McClain,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,73,1,13:02,1982,2282,Logan Dye missed Layup.,13,13,0,17,0.22881451645682455,0.5,4,4,-8,NA,NA,Samford,missed,Logan Dye,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,74,1,13:02,1982,2282,Dylan Windler Defensive Rebound.,13,13,0,0,0.22881451645682455,0.5,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,75,1,12:54,1974,2274,Dylan Windler made Layup.,13,15,-2,8,0.19315361278727833,0.44615011928619763,4,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,76,1,12:54,1974,2274,Foul on Logan Dye.,13,15,-2,0,0.19315361278727833,0.44615011928619763,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,77,1,12:54,1974,2274,Dylan Windler made Free Throw.,13,16,-3,0,0.17686017975628712,0.41961421237485375,4,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,78,1,12:39,1959,2259,Josh Sharkey missed Layup.,13,16,-3,15,0.1769681291417681,0.41905411524852126,4,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,79,1,12:39,1959,2259,Caleb Hollander Defensive Rebound.,13,16,-3,0,0.1769681291417681,0.41905411524852126,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,80,1,12:30,1950,2250,Dylan Windler missed Layup.,13,16,-3,9,0.17703395357720075,0.41871584476614715,4,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,81,1,12:30,1950,2250,Ruben Guerrero Block.,13,16,-3,0,0.17703395357720075,0.41871584476614715,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,82,1,12:26,1946,2246,DeAndre Thomas Defensive Rebound.,13,16,-3,4,0.17706344977764643,0.4185649581024144,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,83,1,12:19,1939,2239,Kevion Nolan made Jumper.,15,16,-1,7,0.21145498992390535,0.47254800006979714,4,4,-8,NA,NA,Samford,made,Kevion Nolan,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,84,1,12:13,1933,2233,Dylan Windler missed Three Point Jumper.,15,16,-1,6,0.21161047379302522,0.4724701894804893,4,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,85,1,12:13,1933,2233,Kevion Nolan Defensive Rebound.,15,16,-1,0,0.21161047379302522,0.4724701894804893,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,86,1,12:04,1924,2224,Kevion Nolan made Three Point Jumper.,18,16,2,9,0.27254754464976355,0.5551251898677473,4,4,-8,NA,NA,Samford,made,Kevion Nolan,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,87,1,11:51,1911,2211,Caleb Hollander made Layup.,18,18,0,13,0.2314054649878585,0.5,4,4,-8,NA,NA,Belmont,made,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,88,1,11:32,1892,2192,Josh Sharkey missed Jumper.,18,18,0,19,0.23213125343704255,0.5,4,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,89,1,11:32,1892,2192,Caleb Hollander Defensive Rebound.,18,18,0,0,0.23213125343704255,0.5,4,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,90,1,11:21,1881,2181,Michael Benkert made Three Point Jumper. Assisted by Nick Hopkins.,18,21,-3,11,0.1775931397832008,0.4160965300080829,4,4,-8,NA,NA,Belmont,made,Michael Benkert,Nick Hopkins,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,91,1,11:20,1880,2180,Belmont  Timeout,18,21,-3,1,0.1776022864472206,0.41605856931960766,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,92,1,11:19,1879,2179,Official TV Timeout,18,21,-3,1,0.17761146039165257,0.4160206059066761,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,93,1,11:02,1862,2162,Myron Gordon missed Jumper.,18,21,-3,17,0.17777138333612794,0.41537459172616353,3,4,-8,NA,NA,Samford,missed,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,94,1,11:02,1862,2162,Caleb Hollander Defensive Rebound.,18,21,-3,0,0.17777138333612794,0.41537459172616353,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,95,1,10:54,1854,2154,Foul on DeAndre Thomas.,18,21,-3,8,0.17784904706824872,0.41506997324697303,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,96,1,10:54,1854,2154,Nick Hopkins made Free Throw.,18,22,-4,0,0.16174012986233524,0.3876043442500068,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,97,1,10:54,1854,2154,Nick Hopkins made Free Throw.,18,23,-5,0,0.14682971806347409,0.3608349987257521,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,98,1,10:44,1844,2144,Foul on Caleb Hollander.,18,23,-5,10,0.14678327187759677,0.36023103811509033,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,99,1,10:35,1835,2135,Foul on Dylan Windler.,18,23,-5,9,0.14674253635884907,0.3596862545018985,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,100,1,10:35,1835,2135,DeAndre Thomas missed Free Throw.,18,23,-5,0,0.14674253635884907,0.3596862545018985,3,4,-8,NA,NA,Samford,missed,DeAndre Thomas,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,101,1,10:35,1835,2135,Samford Deadball Team Rebound.,18,23,-5,0,0.14674253635884907,0.3596862545018985,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,102,1,10:35,1835,2135,DeAndre Thomas made Free Throw.,19,23,-4,0,0.16178090864372632,0.3866582829180913,3,4,-8,NA,NA,Samford,made,DeAndre Thomas,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,103,1,10:26,1826,2126,Nick Muszynski Turnover.,19,23,-4,9,0.16180200519061094,0.38620828522386225,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,104,1,10:15,1815,2115,Myron Gordon Turnover.,19,23,-4,11,0.161828995059073,0.3856562437705917,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,105,1,10:13,1813,2113,Nick Hopkins Steal.,19,23,-4,2,0.16183402146377232,0.3855556032260109,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,106,1,10:08,1808,2108,Nick Hopkins made Three Point Jumper. Assisted by Michael Benkert.,19,26,-7,5,0.11974218043483173,0.30631170334906804,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,Michael Benkert,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,107,1,9:47,1787,2087,Kevion Nolan missed Jumper.,19,26,-7,21,0.1194293878078573,0.30464094158620986,3,4,-8,NA,NA,Samford,missed,Kevion Nolan,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,108,1,9:47,1787,2087,Nick Muszynski Defensive Rebound.,19,26,-7,0,0.1194293878078573,0.30464094158620986,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,109,1,9:31,1771,2071,Nick Muszynski missed Jumper.,19,26,-7,16,0.11918886381605467,0.303356724280227,3,4,-8,NA,NA,Belmont,missed,Nick Muszynski,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,110,1,9:31,1771,2071,Ruben Guerrero Block.,19,26,-7,0,0.11918886381605467,0.303356724280227,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,111,1,9:29,1769,2069,Nick Muszynski Offensive Rebound.,19,26,-7,2,0.1191585975994542,0.303195410672176,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,112,1,9:24,1764,2064,Nick Muszynski made Layup.,19,28,-9,5,0.09626399042194435,0.2549586381345676,3,4,-8,NA,NA,Belmont,made,Nick Muszynski,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,113,1,9:12,1752,2052,DeAndre Thomas made Three Point Jumper. Assisted by Myron Gordon.,22,28,-6,12,0.13203448916537,0.32764532665407675,3,4,-8,NA,NA,Samford,made,DeAndre Thomas,Myron Gordon,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,114,1,9:03,1743,2043,Dylan Windler missed Three Point Jumper.,22,28,-6,9,0.13193915473006482,0.3269854806916723,3,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,115,1,9:03,1743,2043,Kevion Nolan Defensive Rebound.,22,28,-6,0,0.13193915473006482,0.3269854806916723,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,116,1,8:52,1732,2032,Ruben Guerrero made Jumper. Assisted by Kevion Nolan.,24,28,-4,11,0.16204265301297113,0.38137949193539794,3,4,-8,NA,NA,Samford,made,Ruben Guerrero,Kevion Nolan,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,117,1,8:21,1701,2001,Kevin McClain missed Three Point Jumper.,24,28,-4,31,0.1621089617590117,0.3797105221252171,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,118,1,8:21,1701,2001,DeAndre Thomas Defensive Rebound.,24,28,-4,0,0.1621089617590117,0.3797105221252171,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,119,1,8:12,1692,1992,Myron Gordon made Layup.,26,28,-2,9,0.19844148851445473,0.43870057332251106,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,120,1,8:12,1692,1992,Foul on Nick Muszynski.,26,28,-2,0,0.19844148851445473,0.43870057332251106,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,121,1,8:12,1692,1992,Myron Gordon made Free Throw.,27,28,-1,0,0.21877062560895116,0.46923424294704824,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,122,1,7:58,1678,1978,Kevin McClain missed Three Point Jumper.,27,28,-1,14,0.21922729162587348,0.4690313190250685,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,123,1,7:58,1678,1978,Samford Defensive Rebound.,27,28,-1,0,0.21922729162587348,0.4690313190250685,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,124,1,7:56,1676,1976,Official TV Timeout,27,28,-1,2,0.2192938855681991,0.469002665964133,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,125,1,7:32,1652,1952,Kevion Nolan missed Jumper.,27,28,-1,24,0.22011765626611987,0.46866446225385766,3,4,-8,NA,NA,Samford,missed,Kevion Nolan,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,126,1,7:32,1652,1952,Kevion Nolan Offensive Rebound.,27,28,-1,0,0.22011765626611987,0.46866446225385766,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,127,1,7:23,1643,1943,Kevion Nolan missed Jumper.,27,28,-1,9,0.22043735572394155,0.4685398408995279,3,4,-8,NA,NA,Samford,missed,Kevion Nolan,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,128,1,7:23,1643,1943,Seth Adelsperger Defensive Rebound.,27,28,-1,0,0.22043735572394155,0.4685398408995279,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,129,1,7:06,1626,1926,Grayson Murphy Turnover.,27,28,-1,17,0.22105526654519433,0.4683067146406341,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,130,1,7:04,1624,1924,Josh Sharkey Steal.,27,28,-1,2,0.22112907084930047,0.46827943443802217,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,131,1,6:56,1616,1916,Robert Allen missed Three Point Jumper.,27,28,-1,8,0.22142642362945927,0.4681705229978664,3,4,-8,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,132,1,6:56,1616,1916,DeAndre Thomas Offensive Rebound.,27,28,-1,0,0.22142642362945927,0.4681705229978664,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,133,1,6:50,1610,1910,Kevion Nolan missed Three Point Jumper.,27,28,-1,6,0.2216515562781084,0.4680889977419069,3,4,-8,NA,NA,Samford,missed,Kevion Nolan,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,134,1,6:50,1610,1910,Grayson Murphy Defensive Rebound.,27,28,-1,0,0.2216515562781084,0.4680889977419069,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,135,1,6:32,1592,1892,Dylan Windler missed Three Point Jumper.,27,28,-1,18,0.22233656376235172,0.46784460356492075,3,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,136,1,6:32,1592,1892,Seth Adelsperger Offensive Rebound.,27,28,-1,0,0.22233656376235172,0.46784460356492075,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,137,1,6:19,1579,1879,Kevin McClain missed Jumper.,27,28,-1,13,0.22283886413936818,0.467667583773652,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,138,1,6:19,1579,1879,Logan Dye Defensive Rebound.,27,28,-1,0,0.22283886413936818,0.467667583773652,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,139,1,5:59,1559,1859,Logan Dye missed Jumper.,27,28,-1,20,0.22362087244223694,0.46739286579428235,3,4,-8,NA,NA,Samford,missed,Logan Dye,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,140,1,5:59,1559,1859,Kevin McClain Defensive Rebound.,27,28,-1,0,0.22362087244223694,0.46739286579428235,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,141,1,5:51,1551,1851,Grayson Murphy missed Jumper.,27,28,-1,8,0.22393594176163062,0.46728175084044465,3,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,142,1,5:51,1551,1851,Dylan Windler Offensive Rebound.,27,28,-1,0,0.22393594176163062,0.46728175084044465,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,143,1,5:47,1547,1847,Dylan Windler made Two Point Tip Shot.,27,30,-3,4,0.18174990532736246,0.4027897770977237,3,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,144,1,5:19,1519,1819,DeAndre Thomas missed Three Point Jumper.,27,30,-3,28,0.18221951335720993,0.4016332551301298,3,4,-8,NA,NA,Samford,missed,DeAndre Thomas,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,145,1,5:19,1519,1819,Seth Adelsperger Defensive Rebound.,27,30,-3,0,0.18221951335720993,0.4016332551301298,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,146,1,5:03,1503,1803,Seth Adelsperger made Layup. Assisted by Grayson Murphy.,27,32,-5,16,0.14587493180794817,0.33868107704387185,3,4,-8,NA,NA,Belmont,made,Seth Adelsperger,Grayson Murphy,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,147,1,4:49,1489,1789,Foul on Seth Adelsperger.,27,32,-5,14,0.1458421029996655,0.3377276826598202,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,148,1,4:42,1482,1782,Josh Sharkey made Three Point Jumper. Assisted by Robert Allen.,30,32,-2,7,0.20384998438783858,0.43284699450996045,3,4,-8,NA,NA,Samford,made,Josh Sharkey,Robert Allen,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,149,1,4:27,1467,1767,Grayson Murphy Turnover.,30,32,-2,15,0.20423315199011272,0.4323783093498261,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,150,1,4:10,1450,1750,Ruben Guerrero Turnover.,30,32,-2,17,0.20465108730253467,0.4318271458483927,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,151,1,3:45,1425,1725,Dylan Windler made Jumper.,30,34,-4,25,0.1636524700753084,0.3646198385576227,3,4,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,152,1,3:27,1407,1707,Josh Sharkey made Jumper.,32,34,-2,18,0.20576349414427644,0.43046336998919077,3,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,153,1,3:06,1386,1686,Official TV Timeout,32,37,-5,21,0.14543137862319852,0.33039546770063527,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,154,1,3:06,1386,1686,Kevin McClain made Three Point Jumper. Assisted by Grayson Murphy.,32,37,-5,0,0.14543137862319852,0.33039546770063527,3,4,-8,NA,NA,Belmont,made,Kevin McClain,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,155,1,3:06,1386,1686,Official TV Timeout,32,37,-5,0,0.14543137862319852,0.33039546770063527,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,156,1,2:46,1366,1666,Myron Gordon made Jumper.,34,37,-3,20,0.1845185551086855,0.3947211863837584,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,157,1,2:25,1345,1645,Dylan Windler missed Layup.,34,37,-3,21,0.18489102212192723,0.3937980296194867,3,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,158,1,2:25,1345,1645,Ruben Guerrero Defensive Rebound.,34,37,-3,0,0.18489102212192723,0.3937980296194867,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,159,1,2:18,1338,1638,Robert Allen made Layup. Assisted by Josh Sharkey.,36,37,-1,7,0.2324942896755977,0.4640061020787988,3,4,-8,NA,NA,Samford,made,Robert Allen,Josh Sharkey,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,160,1,2:18,1338,1638,Foul on Nick Hopkins.,36,37,-1,0,0.2324942896755977,0.4640061020787988,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,161,1,2:18,1338,1638,Robert Allen made Free Throw.,37,37,0,0,0.2592145044911569,0.5,3,4,-8,NA,NA,Samford,made,Robert Allen,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,162,1,2:01,1321,1621,Kevin McClain missed Layup.,37,37,0,17,0.26021060324759954,0.5,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,163,1,2:01,1321,1621,Belmont Offensive Rebound.,37,37,0,0,0.26021060324759954,0.5,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,164,1,1:58,1318,1618,Nick Hopkins made Three Point Jumper. Assisted by Tate Pierson.,37,40,-3,3,0.18536625112230615,0.39258775394730683,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,Tate Pierson,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,165,1,1:41,1301,1601,Josh Sharkey made Jumper.,39,40,-1,17,0.23409453917991827,0.46341976354906605,3,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,166,1,1:33,1293,1593,Nick Hopkins made Three Point Jumper.,39,43,-4,8,0.16455083073946355,0.35698957408576093,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,167,1,1:18,1278,1578,Josh Sharkey missed Layup.,39,43,-4,15,0.1646224175297974,0.3560517160768157,3,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,168,1,1:18,1278,1578,Samford Offensive Rebound.,39,43,-4,0,0.1646224175297974,0.3560517160768157,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,169,1,1:18,1278,1578,Foul on Michael Benkert.,39,43,-4,0,0.1646224175297974,0.3560517160768157,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,170,1,1:18,1278,1578,Ruben Guerrero missed Free Throw.,39,43,-4,0,0.1646224175297974,0.3560517160768157,3,4,-8,NA,NA,Samford,missed,Ruben Guerrero,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,171,1,1:18,1278,1578,Grayson Murphy Defensive Rebound.,39,43,-4,0,0.1646224175297974,0.3560517160768157,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,172,1,0:50,1250,1550,Grayson Murphy missed Jumper.,39,43,-4,28,0.16469367657412168,0.35419976786628665,3,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,173,1,0:50,1250,1550,Grayson Murphy Offensive Rebound.,39,43,-4,0,0.16469367657412168,0.35419976786628665,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,174,1,0:41,1241,1541,Grayson Murphy Turnover.,39,43,-4,9,0.16469556911641325,0.35357142588618623,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,175,1,0:40,1240,1540,Josh Sharkey Steal.,39,43,-4,1,0.16469506598062325,0.3535005065324356,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,176,1,0:23,1223,1523,Josh Sharkey missed Three Point Jumper.,39,43,-4,17,0.1646628952677116,0.35225872433093575,3,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,177,1,0:23,1223,1523,Grayson Murphy Defensive Rebound.,39,43,-4,0,0.1646628952677116,0.35225872433093575,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,178,1,0:18,1218,1518,Belmont  Timeout,39,43,-4,5,0.16464439752467167,0.3518797712997255,2,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,179,1,0:01,1201,1501,Kevin McClain missed Three Point Jumper.,39,43,-4,17,0.16455854809514475,0.35055922478285695,2,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,180,1,0:01,1201,1501,Samford Defensive Rebound.,39,43,-4,0,0.16455854809514475,0.35055922478285695,2,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,181,1,0:00,1200,1500,End of 1st half,39,43,-4,1,0.1645536967205391,0.3504822574627354,2,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,NA
+401088797,2018-11-29,Samford,Belmont,182,2,20:00,1200,1500,PLAY,39,43,-4,0,0.1645536967205391,0.3504822574627354,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,NA,Belmont
+401088797,2018-11-29,Samford,Belmont,183,2,19:40,1180,1480,Caleb Hollander made Layup. Assisted by Kevin McClain.,39,45,-6,20,0.12596497290639622,0.2818440439207195,3,4,-8,NA,NA,Belmont,made,Caleb Hollander,Kevin McClain,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,184,2,19:22,1162,1462,Josh Sharkey made Jumper.,41,45,-4,18,0.16441057118455557,0.3476535370742541,3,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,185,2,19:01,1141,1441,Caleb Hollander made Layup.,41,47,-6,21,0.1251838112977098,0.2780654454450052,3,4,-8,NA,NA,Belmont,made,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,186,2,18:36,1116,1416,Josh Sharkey made Jumper.,43,47,-4,25,0.16427859548545876,0.34434284152247935,3,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,187,2,18:14,1094,1394,Nick Muszynski missed Jumper.,43,47,-4,22,0.16419955111145096,0.34273803924661544,3,4,-8,NA,NA,Belmont,missed,Nick Muszynski,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,188,2,18:14,1094,1394,Ruben Guerrero Defensive Rebound.,43,47,-4,0,0.16419955111145096,0.34273803924661544,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,189,2,18:00,1080,1380,Myron Gordon made Layup.,45,47,-2,14,0.21418291333914657,0.4187565601869328,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,190,2,17:45,1065,1365,Dylan Windler missed Layup.,45,47,-2,15,0.214509537749058,0.4181341775962585,3,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,191,2,17:45,1065,1365,Robert Allen Defensive Rebound.,45,47,-2,0,0.214509537749058,0.4181341775962585,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,192,2,17:38,1058,1358,Myron Gordon Turnover.,45,47,-2,7,0.2146586658306871,0.41783657143446495,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,193,2,17:37,1057,1357,Dylan Windler Steal.,45,47,-2,1,0.21467978109249344,0.4177936437822201,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,194,2,17:26,1046,1346,Dylan Windler made Three Point Jumper. Assisted by Grayson Murphy.,45,50,-5,11,0.14230199767300522,0.3026895700613744,3,4,-8,NA,NA,Belmont,made,Dylan Windler,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,195,2,17:02,1022,1322,Foul on Nick Muszynski.,45,50,-5,24,0.14181784895429028,0.3003074782704666,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,196,2,17:02,1022,1322,Myron Gordon made Free Throw.,46,50,-4,0,0.1636788967033832,0.33700553543885414,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,197,2,17:02,1022,1322,Myron Gordon made Free Throw.,47,50,-3,0,0.188170900962281,0.3757796576823772,3,4,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,198,2,16:43,1003,1303,Foul on Brandon Austin.,47,50,-3,19,0.18819251496105588,0.3744301447954055,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,199,2,16:35,995,1295,Caleb Hollander missed Three Point Jumper.,47,50,-3,8,0.18818797747100974,0.37383519471878607,3,4,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,200,2,16:35,995,1295,Myron Gordon Defensive Rebound.,47,50,-3,0,0.18818797747100974,0.37383519471878607,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,201,2,16:28,988,1288,Robert Allen made Layup. Assisted by Myron Gordon.,49,50,-1,7,0.2466589295046095,0.45693336515365407,3,4,-8,NA,NA,Samford,made,Robert Allen,Myron Gordon,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,202,2,16:16,976,1276,Grayson Murphy missed Jumper.,49,50,-1,12,0.24711867161646628,0.4565976445861564,3,4,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,203,2,16:16,976,1276,Nick Muszynski Offensive Rebound.,49,50,-1,0,0.24711867161646628,0.4565976445861564,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,204,2,16:11,971,1271,Grayson Murphy made Layup. Assisted by Nick Muszynski.,49,52,-3,5,0.18811984103705318,0.3719432112551418,3,4,-8,NA,NA,Belmont,made,Grayson Murphy,Nick Muszynski,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,205,2,15:51,951,1251,DeAndre Thomas Turnover.,49,52,-3,20,0.1880478732427406,0.37037270748334744,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,206,2,15:51,951,1251,Official TV Timeout,49,52,-3,0,0.1880478732427406,0.37037270748334744,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,207,2,15:43,943,1243,Kevin McClain missed Three Point Jumper.,49,52,-3,8,0.18803225542352867,0.36979086305527575,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,208,2,15:43,943,1243,Myron Gordon Defensive Rebound.,49,52,-3,0,0.18803225542352867,0.36979086305527575,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,209,2,15:36,936,1236,Josh Sharkey missed Layup.,49,52,-3,7,0.18802360401005933,0.36930005708609337,3,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,210,2,15:36,936,1236,Robert Allen Offensive Rebound.,49,52,-3,0,0.18802360401005933,0.36930005708609337,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,211,2,15:35,935,1235,Foul on Nick Muszynski.,49,52,-3,1,0.18802270879369065,0.3692312153978319,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,212,2,15:35,935,1235,Robert Allen missed Free Throw.,49,52,-3,0,0.18802270879369065,0.3692312153978319,3,4,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,213,2,15:35,935,1235,Samford Deadball Team Rebound.,49,52,-3,0,0.18802270879369065,0.3692312153978319,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,214,2,15:35,935,1235,Robert Allen missed Free Throw.,49,52,-3,0,0.18802270879369065,0.3692312153978319,3,4,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,215,2,15:35,935,1235,Dylan Windler Defensive Rebound.,49,52,-3,0,0.18802270879369065,0.3692312153978319,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,216,2,15:23,923,1223,Foul on Robert Allen.,49,52,-3,12,0.18801760280223373,0.3684269946859019,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,217,2,15:23,923,1223,Seth Adelsperger made Free Throw.,49,53,-4,0,0.16211158250131463,0.3276951887395537,3,4,-8,NA,NA,Belmont,made,Seth Adelsperger,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,218,2,15:23,923,1223,Seth Adelsperger missed Free Throw.,49,53,-4,0,0.16211158250131463,0.3276951887395537,3,4,-8,NA,NA,Belmont,missed,Seth Adelsperger,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,219,2,15:23,923,1223,Myron Gordon Defensive Rebound.,49,53,-4,0,0.16211158250131463,0.3276951887395537,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,220,2,14:55,895,1195,Myron Gordon missed Layup.,49,53,-4,28,0.16178073929039774,0.3254715777543088,3,4,-8,NA,NA,Samford,missed,Myron Gordon,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,221,2,14:55,895,1195,Ruben Guerrero Offensive Rebound.,49,53,-4,0,0.16178073929039774,0.3254715777543088,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,222,2,14:52,892,1192,Ruben Guerrero made Two Point Tip Shot.,51,53,-2,3,0.2174837889926283,0.40977508423787035,3,4,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,223,2,14:39,879,1179,Caleb Hollander made Layup. Assisted by Michael Benkert.,51,55,-4,13,0.16160136265178504,0.32424592562185933,3,4,-8,NA,NA,Belmont,made,Caleb Hollander,Michael Benkert,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,224,2,14:22,862,1162,Robert Allen missed Layup.,51,55,-4,17,0.1614024685644259,0.32293920642188306,3,4,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,225,2,14:22,862,1162,Caleb Hollander Defensive Rebound.,51,55,-4,0,0.1614024685644259,0.32293920642188306,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,226,2,13:56,836,1136,Dylan Windler missed Jumper.,51,55,-4,26,0.1610510114713516,0.32085494209399307,3,4,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,227,2,13:56,836,1136,Dylan Windler Offensive Rebound.,51,55,-4,0,0.1610510114713516,0.32085494209399307,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,228,2,13:51,831,1131,Caleb Hollander missed Jumper.,51,55,-4,5,0.16097342247648533,0.3204336384908218,3,4,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,229,2,13:51,831,1131,Robert Allen Block.,51,55,-4,0,0.16097342247648533,0.3204336384908218,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,230,2,13:51,831,1131,Belmont Offensive Rebound.,51,55,-4,0,0.16097342247648533,0.3204336384908218,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,231,2,13:51,831,1131,Belmont  Turnover.,51,55,-4,0,0.16097342247648533,0.3204336384908218,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,232,2,13:37,817,1117,Foul on Caleb Hollander.,51,55,-4,14,0.16073349440180332,0.31920513636348036,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,233,2,13:31,811,1111,Josh Sharkey missed Layup.,51,55,-4,6,0.16061906287651434,0.31865319320665075,3,4,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,234,2,13:31,811,1111,Kevin McClain Defensive Rebound.,51,55,-4,0,0.16061906287651434,0.31865319320665075,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,235,2,13:19,799,1099,Nick Hopkins made Three Point Jumper. Assisted by Michael Benkert.,51,58,-7,12,0.09713383974363313,0.20762803253225723,3,4,-8,NA,NA,Belmont,made,Nick Hopkins,Michael Benkert,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,236,2,13:04,784,1084,Josh Sharkey made Jumper.,53,58,-5,15,0.13571248787996562,0.27574758199130556,3,4,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,237,2,12:51,771,1071,Kevin McClain missed Three Point Jumper.,53,58,-5,13,0.13518929735153756,0.274046516355808,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,238,2,12:51,771,1071,Robert Allen Defensive Rebound.,53,58,-5,0,0.13518929735153756,0.274046516355808,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,239,2,12:43,763,1063,Kevion Nolan missed Layup.,53,58,-5,8,0.13483584333687837,0.27292956203632324,3,4,-8,NA,NA,Samford,missed,Kevion Nolan,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,240,2,12:43,763,1063,Nick Muszynski Defensive Rebound.,53,58,-5,0,0.13483584333687837,0.27292956203632324,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,241,2,12:37,757,1057,Dylan Windler made Layup. Assisted by Nick Hopkins.,53,60,-7,6,0.09492154485896594,0.2013438726412817,3,4,-8,NA,NA,Belmont,made,Dylan Windler,Nick Hopkins,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,242,2,12:27,747,1047,Logan Dye missed Jumper.,53,60,-7,10,0.09428409246286876,0.19960092802923488,3,4,-8,NA,NA,Samford,missed,Logan Dye,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,243,2,12:27,747,1047,Kevin McClain Defensive Rebound.,53,60,-7,0,0.09428409246286876,0.19960092802923488,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,244,2,12:22,742,1042,Foul on DeAndre Thomas.,53,60,-7,5,0.09394721683622567,0.19868884777534315,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,245,2,12:22,742,1042,Kevin McClain missed Free Throw.,53,60,-7,0,0.09394721683622567,0.19868884777534315,3,4,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,246,2,12:22,742,1042,Belmont Deadball Team Rebound.,53,60,-7,0,0.09394721683622567,0.19868884777534315,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,247,2,12:22,742,1042,Kevin McClain made Free Throw.,53,61,-8,0,0.07830664780767256,0.16886047211601013,3,4,-8,NA,NA,Belmont,made,Kevin McClain,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,248,2,12:12,732,1032,Josh Sharkey Turnover.,53,61,-8,10,0.0775800471379139,0.1669386586697995,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,249,2,12:10,730,1030,Nick Hopkins Steal.,53,61,-8,2,0.07742865507941836,0.16654059856713196,3,4,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,250,2,12:01,721,1021,Dylan Windler made Dunk. Assisted by Nick Hopkins.,53,63,-10,9,0.052514340761529194,0.11623251948453564,3,4,-8,NA,NA,Belmont,made,Dylan Windler,Nick Hopkins,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,251,2,11:54,714,1014,Samford  Timeout,53,63,-10,7,0.05207138495600682,0.11505810188205368,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,252,2,11:40,700,1000,Foul on Michael Benkert.,53,63,-10,14,0.05126491304297013,0.11289264335905087,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,253,2,11:40,700,1000,Official TV Timeout,53,63,-10,0,0.05126491304297013,0.11289264335905087,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,254,2,11:28,688,988,Stefan Lakic missed Jumper.,53,63,-10,12,0.05063866038404832,0.11118721125017715,3,3,-8,NA,NA,Samford,missed,Stefan Lakic,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,255,2,11:28,688,988,Ruben Guerrero Offensive Rebound.,53,63,-10,0,0.05063866038404832,0.11118721125017715,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,256,2,11:25,685,985,Ruben Guerrero made Jumper.,55,63,-8,3,0.07463188804768305,0.15892331842968335,3,3,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,257,2,11:15,675,975,Foul on Brandon Austin.,55,63,-8,10,0.07412115513505031,0.15747525474294077,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,258,2,11:15,675,975,Seth Adelsperger missed Free Throw.,55,63,-8,0,0.07412115513505031,0.15747525474294077,3,3,-8,NA,NA,Belmont,missed,Seth Adelsperger,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,259,2,11:15,675,975,Belmont Deadball Team Rebound.,55,63,-8,0,0.07412115513505031,0.15747525474294077,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,260,2,11:15,675,975,Seth Adelsperger missed Free Throw.,55,63,-8,0,0.07412115513505031,0.15747525474294077,3,3,-8,NA,NA,Belmont,missed,Seth Adelsperger,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,261,2,11:15,675,975,Ruben Guerrero Defensive Rebound.,55,63,-8,0,0.07412115513505031,0.15747525474294077,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,262,2,11:06,666,966,Josh Sharkey missed Three Point Jumper.,55,63,-8,9,0.07367491668490701,0.15620239546153522,3,3,-8,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,263,2,11:06,666,966,Nick Hopkins Defensive Rebound.,55,63,-8,0,0.07367491668490701,0.15620239546153522,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,264,2,10:54,654,954,Nick Hopkins made Three Point Jumper. Assisted by Grayson Murphy.,55,66,-11,12,0.04001832143291242,0.08811017001600115,3,3,-8,NA,NA,Belmont,made,Nick Hopkins,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,265,2,10:38,638,938,Ruben Guerrero made Layup. Assisted by Kevion Nolan.,57,66,-9,16,0.05914326886157366,0.12655073194647215,3,3,-8,NA,NA,Samford,made,Ruben Guerrero,Kevion Nolan,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,266,2,10:12,612,912,Dylan Windler made Three Point Jumper. Assisted by Grayson Murphy.,57,69,-12,26,0.030816154397349582,0.06767828278459927,3,3,-8,NA,NA,Belmont,made,Dylan Windler,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,267,2,10:01,601,901,Foul on Michael Benkert.,57,69,-12,11,0.03027464924845413,0.06627098653106427,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,268,2,9:54,594,894,Ruben Guerrero Turnover.,57,69,-12,7,0.029907084000080984,0.06532620704162831,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,269,2,9:53,593,893,Dylan Windler Steal.,57,69,-12,1,0.029852988298141637,0.06518783948215784,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,270,2,9:51,591,891,Foul on DeAndre Thomas.,57,69,-12,2,0.029743559912443814,0.06490845517512614,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,271,2,9:51,591,891,Dylan Windler missed Free Throw.,57,69,-12,0,0.029743559912443814,0.06490845517512614,3,3,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,272,2,9:51,591,891,Belmont Deadball Team Rebound.,57,69,-12,0,0.029743559912443814,0.06490845517512614,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,273,2,9:51,591,891,Dylan Windler made Free Throw.,57,70,-13,0,0.023956830905819338,0.0526515109005981,3,3,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,274,2,9:35,575,875,Kevion Nolan missed Three Point Jumper.,57,70,-13,16,0.023121485090759848,0.05054534444644036,3,3,-8,NA,NA,Samford,missed,Kevion Nolan,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,275,2,9:35,575,875,DeAndre Thomas Offensive Rebound.,57,70,-13,0,0.023121485090759848,0.05054534444644036,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,276,2,9:23,563,863,Robert Allen missed Jumper.,57,70,-13,12,0.022426846987604377,0.048820533559543224,3,3,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,277,2,9:23,563,863,Ruben Guerrero Offensive Rebound.,57,70,-13,0,0.022426846987604377,0.048820533559543224,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,278,2,9:21,561,861,Ruben Guerrero missed Two Point Tip Shot.,57,70,-13,2,0.0223050672506121,0.048520337179160586,3,3,-8,NA,NA,Samford,missed,Ruben Guerrero,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,279,2,9:21,561,861,DeAndre Thomas Offensive Rebound.,57,70,-13,0,0.0223050672506121,0.048520337179160586,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,280,2,9:15,555,855,Josh Sharkey missed Three Point Jumper.,57,70,-13,6,0.021929171638106988,0.04759748923825091,3,3,-8,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,281,2,9:15,555,855,DeAndre Thomas Offensive Rebound.,57,70,-13,0,0.021929171638106988,0.04759748923825091,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,282,2,9:09,549,849,Kevion Nolan made Jumper. Assisted by DeAndre Thomas.,59,70,-11,6,0.03383187347653201,0.07220874880903483,3,3,-8,NA,NA,Samford,made,Kevion Nolan,DeAndre Thomas,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,283,2,8:57,537,837,Nick Hopkins missed Three Point Jumper.,59,70,-11,12,0.03292449095550597,0.06997868035200994,3,3,-8,NA,NA,Belmont,missed,Nick Hopkins,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,284,2,8:57,537,837,Josh Sharkey Defensive Rebound.,59,70,-11,0,0.03292449095550597,0.06997868035200994,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,285,2,8:50,530,830,Josh Sharkey missed Layup.,59,70,-11,7,0.03246360925141208,0.06883073104345457,3,3,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,286,2,8:50,530,830,Ruben Guerrero Offensive Rebound.,59,70,-11,0,0.03246360925141208,0.06883073104345457,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,287,2,8:50,530,830,Ruben Guerrero made Two Point Tip Shot.,61,70,-9,0,0.051123471277204645,0.10610184266688531,3,3,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,288,2,8:50,530,830,Foul on Nick Hopkins.,61,70,-9,0,0.051123471277204645,0.10610184266688531,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,289,2,8:50,530,830,Ruben Guerrero made Free Throw.,62,70,-8,0,0.06390999824331411,0.13074436167715547,3,3,-8,NA,NA,Samford,made,Ruben Guerrero,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,290,2,8:32,512,812,Dylan Windler Turnover.,62,70,-8,18,0.06259545699086737,0.1273460039622702,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,291,2,8:32,512,812,Robert Allen Steal.,62,70,-8,0,0.06259545699086737,0.1273460039622702,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,292,2,8:32,512,812,Foul on Dylan Windler.,62,70,-8,0,0.06259545699086737,0.1273460039622702,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,293,2,8:32,512,812,Robert Allen missed Free Throw.,62,70,-8,0,0.06259545699086737,0.1273460039622702,3,3,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,294,2,8:32,512,812,Caleb Hollander Defensive Rebound.,62,70,-8,0,0.06259545699086737,0.1273460039622702,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,295,2,8:17,497,797,Michael Benkert missed Three Point Jumper.,62,70,-8,15,0.06158876953919693,0.12470664154798987,3,3,-8,NA,NA,Belmont,missed,Michael Benkert,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,296,2,8:17,497,797,Kevion Nolan Defensive Rebound.,62,70,-8,0,0.06158876953919693,0.12470664154798987,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,297,2,8:00,480,780,Kevion Nolan made Three Point Jumper. Assisted by Josh Sharkey.,65,70,-5,17,0.11887463717326163,0.22517267570880473,3,3,-8,NA,NA,Samford,made,Kevion Nolan,Josh Sharkey,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,298,2,7:38,458,758,Official TV Timeout,65,70,-5,22,0.11711237424205737,0.22038530068121856,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,299,2,7:37,457,757,Caleb Hollander missed Three Point Jumper.,65,70,-5,1,0.11701685435505234,0.2201384949047857,3,3,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,300,2,7:37,457,757,Belmont Offensive Rebound.,65,70,-5,0,0.11701685435505234,0.2201384949047857,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,301,2,7:37,457,757,Foul on Kevion Nolan.,65,70,-5,0,0.11701685435505234,0.2201384949047857,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,302,2,7:37,457,757,Official TV Timeout,65,70,-5,0,0.11701685435505234,0.2201384949047857,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,303,2,7:16,436,736,Caleb Hollander made Layup.,65,72,-7,21,0.07144846697363384,0.13943662392883105,3,3,-8,NA,NA,Belmont,made,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,304,2,7:00,420,720,Ruben Guerrero made Dunk. Assisted by Robert Allen.,67,72,-5,16,0.1123222314794345,0.20878576841928026,3,3,-8,NA,NA,Samford,made,Ruben Guerrero,Robert Allen,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,305,2,6:44,404,704,Caleb Hollander made Layup. Assisted by Kevin McClain.,67,74,-7,16,0.06710761414744756,0.12928453466178633,3,3,-8,NA,NA,Belmont,made,Caleb Hollander,Kevin McClain,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,306,2,6:25,385,685,Robert Allen missed Three Point Jumper.,67,74,-7,19,0.06491203593865734,0.1239178445202101,3,3,-8,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,307,2,6:25,385,685,Grayson Murphy Defensive Rebound.,67,74,-7,0,0.06491203593865734,0.1239178445202101,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,308,2,6:01,361,661,Dylan Windler missed Three Point Jumper.,67,74,-7,24,0.06201546485932275,0.1169125826339382,3,3,-8,NA,NA,Belmont,missed,Dylan Windler,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,309,2,6:01,361,661,Robert Allen Defensive Rebound.,67,74,-7,0,0.06201546485932275,0.1169125826339382,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,310,2,5:51,351,651,Robert Allen Turnover.,67,74,-7,10,0.060652695014022,0.11372168171228461,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,311,2,5:50,350,650,Dylan Windler Steal.,67,74,-7,1,0.06050920320124174,0.11339016920499949,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,312,2,5:45,345,645,Michael Benkert missed Layup.,67,74,-7,5,0.0597696779625244,0.11169484869030924,3,3,-8,NA,NA,Belmont,missed,Michael Benkert,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,313,2,5:45,345,645,Kevion Nolan Defensive Rebound.,67,74,-7,0,0.0597696779625244,0.11169484869030924,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,314,2,5:45,345,645,Foul on Dylan Windler.,67,74,-7,0,0.0597696779625244,0.11169484869030924,3,3,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,315,2,5:45,345,645,Samford  Timeout,67,74,-7,0,0.0597696779625244,0.11169484869030924,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,316,2,5:45,345,645,Kevion Nolan made Free Throw.,68,74,-6,0,0.07875344237851756,0.14463387323052726,3,2,-8,NA,NA,Samford,made,Kevion Nolan,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,317,2,5:45,345,645,Kevion Nolan made Free Throw.,69,74,-5,0,0.1031055429171484,0.185260817763775,3,2,-8,NA,NA,Samford,made,Kevion Nolan,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,318,2,5:21,321,621,Kevin McClain missed Three Point Jumper.,69,74,-5,24,0.09866257448768172,0.1751632119685231,3,2,-8,NA,NA,Belmont,missed,Kevin McClain,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,319,2,5:21,321,621,Samford Defensive Rebound.,69,74,-5,0,0.09866257448768172,0.1751632119685231,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,320,2,5:13,313,613,Ruben Guerrero missed Jumper.,69,74,-5,8,0.09684484329614752,0.17125055306940432,3,2,-8,NA,NA,Samford,missed,Ruben Guerrero,NA,FALSE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,321,2,5:13,313,613,Ruben Guerrero Offensive Rebound.,69,74,-5,0,0.09684484329614752,0.17125055306940432,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,322,2,5:05,305,605,Josh Sharkey Turnover.,69,74,-5,8,0.09510790050413927,0.16747828919627558,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,323,2,5:03,303,603,Grayson Murphy Steal.,69,74,-5,2,0.09482795377371868,0.16678968662017712,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,324,2,5:03,303,603,Foul on Robert Allen.,69,74,-5,0,0.09482795377371868,0.16678968662017712,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,325,2,5:03,303,603,Michael Benkert made Free Throw.,69,75,-6,0,0.07058279692493932,0.12672148213474066,3,2,-8,NA,NA,Belmont,made,Michael Benkert,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,326,2,5:03,303,603,Michael Benkert made Free Throw.,69,76,-7,0,0.05217918712210375,0.09517937915636128,3,2,-8,NA,NA,Belmont,made,Michael Benkert,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,327,2,4:52,292,592,Ruben Guerrero missed Layup.,69,76,-7,11,0.05161438716369859,0.09341072348085538,3,2,-8,NA,NA,Samford,missed,Ruben Guerrero,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,328,2,4:52,292,592,Caleb Hollander Defensive Rebound.,69,76,-7,0,0.05161438716369859,0.09341072348085538,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,329,2,4:38,278,578,Caleb Hollander Turnover.,69,76,-7,14,0.05249053011251548,0.0939251723821049,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,330,2,4:25,265,565,Robert Allen missed Jumper.,69,76,-7,13,0.05424864508771876,0.09597468204706062,3,2,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,331,2,4:25,265,565,Belmont Defensive Rebound.,69,76,-7,0,0.05424864508771876,0.09597468204706062,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,332,2,4:01,241,541,Michael Benkert missed Three Point Jumper.,69,76,-7,24,0.057549194478965414,0.09964743601695843,3,2,-8,NA,NA,Belmont,missed,Michael Benkert,NA,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,333,2,4:01,241,541,Ruben Guerrero Defensive Rebound.,69,76,-7,0,0.057549194478965414,0.09964743601695843,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,334,2,3:52,232,532,Josh Sharkey missed Jumper.,69,76,-7,9,0.058006767367434334,0.09966269659447832,3,2,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,335,2,3:52,232,532,Grayson Murphy Defensive Rebound.,69,76,-7,0,0.058006767367434334,0.09966269659447832,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,336,2,3:47,227,527,Foul on Josh Sharkey.,69,76,-7,5,0.05791397927897974,0.09909045855028731,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,337,2,3:47,227,527,Official TV Timeout,69,76,-7,0,0.05791397927897974,0.09909045855028731,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,338,2,3:47,227,527,Grayson Murphy missed Free Throw.,69,76,-7,0,0.05791397927897974,0.09909045855028731,3,2,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,339,2,3:47,227,527,Ruben Guerrero Defensive Rebound.,69,76,-7,0,0.05791397927897974,0.09909045855028731,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,340,2,3:30,210,510,Myron Gordon made Jumper.,71,76,-5,17,0.10057086802070936,0.16439921313599767,3,2,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,341,2,3:12,192,492,Nick Hopkins made Three Point Jumper. Assisted by Grayson Murphy.,71,79,-8,18,0.033832117380095374,0.056993286317740255,3,2,-8,NA,NA,Belmont,made,Nick Hopkins,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,342,2,2:57,177,477,Foul on Grayson Murphy.,71,79,-8,15,0.02697025347784123,0.04491425328270556,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,343,2,2:57,177,477,Myron Gordon made Free Throw.,72,79,-7,0,0.03903237174698743,0.06446988069340207,3,2,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,344,2,2:57,177,477,Myron Gordon missed Free Throw.,72,79,-7,0,0.03903237174698743,0.06446988069340207,3,2,-8,NA,NA,Samford,missed,Myron Gordon,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,345,2,2:57,177,477,Dylan Windler Defensive Rebound.,72,79,-7,0,0.03903237174698743,0.06446988069340207,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,346,2,2:28,148,448,Michael Benkert missed Jumper.,72,79,-7,29,0.02562854920327439,0.04132409775495503,3,2,-8,NA,NA,Belmont,missed,Michael Benkert,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,347,2,2:28,148,448,Robert Allen Defensive Rebound.,72,79,-7,0,0.02562854920327439,0.04132409775495503,3,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,348,2,2:20,140,440,Myron Gordon made Layup. Assisted by Josh Sharkey.,74,79,-5,8,0.05541992064503031,0.08692362643710506,3,2,-8,NA,NA,Samford,made,Myron Gordon,Josh Sharkey,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,349,2,2:11,131,431,Belmont  Timeout,74,79,-5,9,0.04956952711507511,0.07720243445149548,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,350,2,2:02,122,422,Dylan Windler Turnover.,74,79,-5,9,0.04380185222521431,0.06770735361411886,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,351,2,2:00,120,420,Josh Sharkey Steal.,74,79,-5,2,0.0425360666219756,0.06563596700207514,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,352,2,1:58,118,418,Myron Gordon made Layup. Assisted by Josh Sharkey.,76,79,-3,2,0.11210824715828048,0.16605482353583353,2,2,-8,NA,NA,Samford,made,Myron Gordon,Josh Sharkey,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,353,2,1:36,96,396,Dylan Windler Turnover.,76,79,-3,22,0.09150420745711821,0.1335276257099588,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,354,2,1:26,86,386,Brandon Austin missed Three Point Jumper.,76,79,-3,10,0.0820449640457508,0.11879254131841899,2,2,-8,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,355,2,1:26,86,386,Dylan Windler Defensive Rebound.,76,79,-3,0,0.0820449640457508,0.11879254131841899,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,356,2,0:56,56,356,Grayson Murphy missed Three Point Jumper.,76,79,-3,30,0.05619672987390981,0.07907392617689209,2,2,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,357,2,0:56,56,356,Caleb Hollander Offensive Rebound.,76,79,-3,0,0.05619672987390981,0.07907392617689209,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,358,2,0:28,28,328,Caleb Hollander missed Jumper.,76,79,-3,28,0.03650024975514653,0.04964302675366354,2,2,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,359,2,0:28,28,328,Samford Defensive Rebound.,76,79,-3,0,0.03650024975514653,0.04964302675366354,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,360,2,0:28,28,328,Samford  Timeout,76,79,-3,0,0.03650024975514653,0.04964302675366354,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,361,2,0:21,21,321,Kevion Nolan missed Three Point Jumper.,76,79,-3,7,0.03240206533245458,0.043649402455195545,2,1,-8,NA,NA,Samford,missed,Kevion Nolan,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,362,2,0:21,21,321,Dylan Windler Defensive Rebound.,76,79,-3,0,0.03240206533245458,0.043649402455195545,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,363,2,0:16,16,316,Dylan Windler made Dunk.,76,81,-5,5,0.003636086410183899,0.004907985272695086,2,1,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,364,2,0:11,11,311,Josh Sharkey made Three Point Jumper.,79,81,-2,5,0.07680366942610871,0.10029986994839347,2,1,-8,NA,NA,Samford,made,Josh Sharkey,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,365,2,0:11,11,311,Belmont  Timeout,79,81,-2,0,0.07680366942610871,0.10029986994839347,1,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,366,2,0:10,10,310,Foul on Robert Allen.,79,81,-2,1,0.0759331595743849,0.09903802686638556,1,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,367,2,0:10,10,310,Nick Hopkins made Free Throw.,79,82,-3,0,0.026521745239397387,0.035163883243131466,1,1,-8,NA,NA,Belmont,made,Nick Hopkins,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,368,2,0:10,10,310,Nick Hopkins missed Free Throw.,79,82,-3,0,0.026521745239397387,0.035163883243131466,1,1,-8,NA,NA,Belmont,missed,Nick Hopkins,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,369,2,0:10,10,310,Robert Allen Defensive Rebound.,79,82,-3,0,0.026521745239397387,0.035163883243131466,1,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,370,2,0:02,2,302,Kevion Nolan made Three Point Jumper. Assisted by Brandon Austin.,82,82,0,8,0.4311710723546888,0.5,1,1,-8,NA,NA,Samford,made,Kevion Nolan,Brandon Austin,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,371,2,0:00,300,300,End of 2nd half,82,82,0,2,0.34412130853143447,0.5,1,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,NA
+401088797,2018-11-29,Samford,Belmont,372,3,5:00,300,300,PLAY,82,82,0,0,0.34412130853143447,0.5,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,NA,Samford
+401088797,2018-11-29,Samford,Belmont,373,3,4:47,287,287,Myron Gordon made Jumper.,84,82,2,13,0.5038972300806916,0.6569406598514745,2,2,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,374,3,4:30,270,270,Caleb Hollander missed Three Point Jumper.,84,82,2,17,0.5059688297607391,0.6555977799642962,2,2,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,375,3,4:30,270,270,Grayson Murphy Offensive Rebound.,84,82,2,0,0.5059688297607391,0.6555977799642962,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,376,3,4:24,264,264,Nick Hopkins missed Three Point Jumper.,84,82,2,6,0.5063501354377912,0.6547942336631595,2,2,-8,NA,NA,Belmont,missed,Nick Hopkins,NA,TRUE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,377,3,4:24,264,264,Dylan Windler Offensive Rebound.,84,82,2,0,0.5063501354377912,0.6547942336631595,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,378,3,4:19,259,259,Foul on Ruben Guerrero.,84,82,2,5,0.5066503984247512,0.6540992968368612,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,379,3,4:19,259,259,Dylan Windler made Free Throw.,84,83,1,0,0.42752640782240253,0.5789717399540718,2,2,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,380,3,4:19,259,259,Dylan Windler missed Free Throw.,84,83,1,0,0.42752640782240253,0.5789717399540718,2,2,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,381,3,4:19,259,259,Robert Allen Defensive Rebound.,84,83,1,0,0.42752640782240253,0.5789717399540718,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,382,3,4:05,245,245,Brandon Austin Turnover.,84,83,1,14,0.4296520007128113,0.5781066570279689,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,383,3,4:04,244,244,Caleb Hollander Steal.,84,83,1,1,0.4298299769470661,0.5780664183065353,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,384,3,3:59,239,239,Grayson Murphy missed Layup.,84,83,1,5,0.4307963409102457,0.5779307524972422,2,2,-8,NA,NA,Belmont,missed,Grayson Murphy,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,385,3,3:59,239,239,Caleb Hollander Offensive Rebound.,84,83,1,0,0.4307963409102457,0.5779307524972422,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,386,3,3:56,236,236,Caleb Hollander made Two Point Tip Shot.,84,85,-1,3,0.2881570805467682,0.42209015457701876,2,2,-8,NA,NA,Belmont,made,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,387,3,3:27,207,207,Kevion Nolan Turnover.,84,85,-1,29,0.2910748273912137,0.41867517171882673,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,388,3,3:26,206,206,Caleb Hollander Steal.,84,85,-1,1,0.2910593819649802,0.41840390624365126,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,389,3,3:08,188,188,Caleb Hollander missed Jumper.,84,85,-1,18,0.2890025103846477,0.4112087740686504,2,2,-8,NA,NA,Belmont,missed,Caleb Hollander,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,390,3,3:08,188,188,Josh Sharkey Defensive Rebound.,84,85,-1,0,0.2890025103846477,0.4112087740686504,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,391,3,3:06,186,186,Foul on Caleb Hollander.,84,85,-1,2,0.2886127509578091,0.41019821301642534,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,392,3,3:06,186,186,Josh Sharkey made Free Throw.,85,85,0,0,0.36842371214088293,0.5,2,2,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,393,3,3:06,186,186,Josh Sharkey made Free Throw.,86,85,1,0,0.45615315963385233,0.5898017869835747,2,2,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,394,3,2:48,168,168,Dylan Windler made Three Point Jumper. Assisted by Grayson Murphy.,86,88,-2,18,0.2105661258910296,0.30929632015572417,2,2,-8,NA,NA,Belmont,made,Dylan Windler,Grayson Murphy,TRUE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,395,3,2:32,152,152,Robert Allen missed Jumper.,86,88,-2,16,0.20147731315886588,0.2935518072989886,2,2,-8,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,396,3,2:32,152,152,Dylan Windler Block.,86,88,-2,0,0.20147731315886588,0.2935518072989886,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,397,3,2:31,151,151,Kevin McClain Defensive Rebound.,86,88,-2,1,0.20087557111578996,0.2925225593951903,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,398,3,2:27,147,147,Kevin McClain missed Layup.,86,88,-2,4,0.19842042105430013,0.2883414058190613,2,2,-8,NA,NA,Belmont,missed,Kevin McClain,NA,FALSE,FALSE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,399,3,2:27,147,147,Dylan Windler Offensive Rebound.,86,88,-2,0,0.19842042105430013,0.2883414058190613,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,400,3,2:24,144,144,Dylan Windler made Two Point Tip Shot.,86,90,-4,3,0.08888795180068017,0.13725601888535027,2,2,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,401,3,2:12,132,132,Foul on Kevin McClain.,86,90,-4,12,0.07968120589866647,0.1220840560908627,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,402,3,2:12,132,132,Josh Sharkey missed Free Throw.,86,90,-4,0,0.07968120589866647,0.1220840560908627,2,2,-8,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,403,3,2:12,132,132,Samford Deadball Team Rebound.,86,90,-4,0,0.07968120589866647,0.1220840560908627,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,404,3,2:12,132,132,Josh Sharkey made Free Throw.,87,90,-3,0,0.12417481791241253,0.1854831918516503,2,2,-8,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,405,3,1:56,116,116,Caleb Hollander made Layup. Assisted by Kevin McClain.,87,92,-5,16,0.040026808526015895,0.06154343070944618,2,2,-8,NA,NA,Belmont,made,Caleb Hollander,Kevin McClain,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,406,3,1:44,104,104,Robert Allen made Layup. Assisted by Josh Sharkey.,89,92,-3,12,0.09919165782540822,0.14557561972390248,2,2,-8,NA,NA,Samford,made,Robert Allen,Josh Sharkey,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,407,3,1:18,78,78,Kevin McClain made Layup.,89,94,-5,26,0.019358276661279383,0.028587739601403407,2,2,-8,NA,NA,Belmont,made,Kevin McClain,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,408,3,0:57,57,57,Foul on Grayson Murphy.,89,94,-5,21,0.01175012121689458,0.0168822928419153,2,2,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,409,3,0:57,57,57,Myron Gordon made Free Throw.,90,94,-4,0,0.02610493171845181,0.037270482601752815,2,2,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,410,3,0:57,57,57,Myron Gordon made Free Throw.,91,94,-3,0,0.05698540350765926,0.08027044814365812,2,2,-8,NA,NA,Samford,made,Myron Gordon,NA,FALSE,TRUE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,411,3,0:57,57,57,Samford  Timeout,91,94,-3,0,0.05698540350765926,0.08027044814365812,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,412,3,0:36,36,36,Grayson Murphy made Layup.,91,96,-5,21,0.006660829562862343,0.009280941701926622,2,1,-8,NA,NA,Belmont,made,Grayson Murphy,NA,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,413,3,0:24,24,24,Robert Allen made Layup. Assisted by Myron Gordon.,93,96,-3,12,0.034116590847701155,0.04615028973410084,2,1,-8,NA,NA,Samford,made,Robert Allen,Myron Gordon,FALSE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,414,3,0:17,17,17,Dylan Windler made Dunk. Assisted by Grayson Murphy.,93,98,-5,7,0.0037546505018383578,0.005076364871654315,2,1,-8,NA,NA,Belmont,made,Dylan Windler,Grayson Murphy,FALSE,FALSE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,415,3,0:10,10,10,Josh Sharkey missed Three Point Jumper.,93,98,-5,7,0.002985882204072447,0.003990270855850142,2,1,-8,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,416,3,0:10,10,10,Dylan Windler Defensive Rebound.,93,98,-5,0,0.002985882204072447,0.003990270855850142,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,417,3,0:10,10,10,Foul on Kevion Nolan.,93,98,-5,0,0.002985882204072447,0.003990270855850142,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Belmont
+401088797,2018-11-29,Samford,Belmont,418,3,0:10,10,10,Dylan Windler made Free Throw.,93,99,-6,0,9.919461837621664e-4,0.0013265086209420347,2,1,-8,NA,NA,Belmont,made,Dylan Windler,NA,FALSE,TRUE,Belmont,Belmont
+401088797,2018-11-29,Samford,Belmont,419,3,0:10,10,10,Dylan Windler missed Free Throw.,93,99,-6,0,9.919461837621664e-4,0.0013265086209420347,2,1,-8,NA,NA,Belmont,missed,Dylan Windler,NA,FALSE,TRUE,Belmont,Samford
+401088797,2018-11-29,Samford,Belmont,420,3,0:10,10,10,Robert Allen Defensive Rebound.,93,99,-6,0,9.919461837621664e-4,0.0013265086209420347,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,421,3,0:02,2,2,Kevion Nolan missed Three Point Jumper.,93,99,-6,8,7.128043101039586e-4,9.40163859600707e-4,2,1,-8,NA,NA,Samford,missed,Kevion Nolan,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,422,3,0:02,2,2,Samford Offensive Rebound.,93,99,-6,0,7.128043101039586e-4,9.40163859600707e-4,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,423,3,0:00,0,0,Myron Gordon missed Three Point Jumper.,93,93,0,2,5.822252097554076e-53,7.667648073722e-53,2,1,-8,NA,NA,Samford,missed,Myron Gordon,NA,TRUE,FALSE,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,424,3,0:00,0,0,Samford Offensive Rebound.,93,93,0,0,5.822252097554076e-53,7.667648073722e-53,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401088797,2018-11-29,Samford,Belmont,425,3,0:00,0,0,End of Game,93,93,0,0,5.822252097554076e-53,7.667648073722e-53,2,1,-8,NA,NA,NA,NA,NA,NA,NA,NA,Samford,NA
