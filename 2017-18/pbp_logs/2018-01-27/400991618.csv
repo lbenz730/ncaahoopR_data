@@ -1,0 +1,345 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991618,2018-01-27,Cornell,Columbia,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5080208630363077,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cornell
+400991618,2018-01-27,Cornell,Columbia,2,1,19:31,2371,2371,Stone Gettings missed Jumper.,0,0,0,29,0.5079973900193724,0.5,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,3,1,19:31,2371,2371,Quinton Adlesh Defensive Rebound.,0,0,0,0,0.5079973900193724,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,4,1,19:18,2358,2358,Mike Smith missed Jumper.,0,0,0,13,0.5079866007358568,0.5,4,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,5,1,19:18,2358,2358,Steven Julian Defensive Rebound.,0,0,0,0,0.5079866007358568,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,6,1,18:59,2339,2339,Foul on Quinton Adlesh.,0,0,0,19,0.5079705262018368,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,7,1,18:59,2339,2339,Steven Julian made Free Throw.,1,0,1,0,0.5306598362268762,0.5227115105291243,4,4,0.2,NA,NA,Cornell,made,Steven Julian,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,8,1,18:59,2339,2339,Steven Julian missed Free Throw.,1,0,1,0,0.5306598362268762,0.5227115105291243,4,4,0.2,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,9,1,18:59,2339,2339,Stone Gettings Offensive Rebound.,1,0,1,0,0.5306598362268762,0.5227115105291243,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,10,1,18:48,2328,2328,Joel Davis Turnover.,1,0,1,11,0.5307710483658358,0.522832370508976,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,11,1,18:39,2319,2319,Patrick Tape missed Layup.,1,0,1,9,0.5308624832798365,0.522931793783012,4,4,0.2,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,12,1,18:39,2319,2319,Cornell Defensive Rebound.,1,0,1,0,0.5308624832798365,0.522931793783012,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,13,1,18:22,2302,2302,Stone Gettings made Jumper. Assisted by Terrance McBride.,3,0,3,17,0.5767396269555543,0.5689695343354628,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,Terrance McBride,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,14,1,18:01,2281,2281,Patrick Tape made Layup. Assisted by Mike Smith.,3,2,1,21,0.5312524615475946,0.5233564625369095,4,4,0.2,NA,NA,Columbia,made,Patrick Tape,Mike Smith,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,15,1,17:51,2271,2271,Stone Gettings missed Three Point Jumper.,3,2,1,10,0.5313560147844756,0.5234694092905685,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,16,1,17:51,2271,2271,Quinton Adlesh Defensive Rebound.,3,2,1,0,0.5313560147844756,0.5234694092905685,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,17,1,17:38,2258,2258,Mike Smith missed Three Point Jumper.,3,2,1,13,0.53149112763495,0.5236169023910233,4,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,18,1,17:38,2258,2258,Stone Gettings Defensive Rebound.,3,2,1,0,0.53149112763495,0.5236169023910233,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,19,1,17:29,2249,2249,Joel Davis missed Layup.,3,2,1,9,0.5315849650061315,0.5237194237762728,4,4,0.2,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,20,1,17:29,2249,2249,Patrick Tape Block.,3,2,1,0,0.5315849650061315,0.5237194237762728,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,21,1,17:27,2247,2247,Joel Davis Offensive Rebound.,3,2,1,2,0.5316058484015144,0.5237422496303528,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,22,1,17:08,2228,2228,Joel Davis missed Three Point Jumper.,3,2,1,19,0.5318047413366365,0.5239598284409085,4,4,0.2,NA,NA,Cornell,missed,Joel Davis,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,23,1,17:08,2228,2228,Patrick Tape Defensive Rebound.,3,2,1,0,0.5318047413366365,0.5239598284409085,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,24,1,16:40,2200,2200,Nate Hickman made Jumper.,3,4,-1,28,0.48354590421760024,0.4757173938657539,4,4,0.2,NA,NA,Columbia,made,Nate Hickman,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,25,1,16:08,2168,2168,Foul on Patrick Tape.,3,4,-1,32,0.4831411065157285,0.47534605158204335,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,26,1,16:08,2168,2168,Steven Julian made Free Throw.,4,4,0,0,0.5078080362089685,0.5,4,4,0.2,NA,NA,Cornell,made,Steven Julian,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,27,1,16:08,2168,2168,Steven Julian made Free Throw.,5,4,1,0,0.5324370082704329,0.5246539484179567,4,4,0.2,NA,NA,Cornell,made,Steven Julian,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,28,1,15:54,2154,2154,Lukas Meisner made Layup.,5,6,-1,14,0.4829627316705485,0.4751827076689996,4,4,0.2,NA,NA,Columbia,made,Lukas Meisner,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,29,1,15:38,2138,2138,Steven Julian Turnover.,5,6,-1,16,0.482757634504877,0.4749950698399447,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,30,1,15:37,2137,2137,Quinton Adlesh Steal.,5,6,-1,1,0.48274477060123816,0.4749833070103019,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,31,1,15:35,2135,2135,Quinton Adlesh made Three Point Jumper.,5,9,-4,2,0.40856861594008137,0.4010771103740205,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,32,1,15:24,2124,2124,Stone Gettings made Jumper. Assisted by Matt Morgan.,7,9,-2,11,0.45748161835130036,0.44978723503534246,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,Matt Morgan,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,33,1,15:05,2105,2105,Quinton Adlesh made Layup. Assisted by Mike Smith.,7,11,-4,19,0.4071604003120319,0.39970913250976814,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,Mike Smith,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,34,1,14:47,2087,2087,Matt Morgan made Layup. Assisted by Stone Gettings.,9,11,-2,18,0.4565633558751869,0.44891275375982187,4,4,0.2,NA,NA,Cornell,made,Matt Morgan,Stone Gettings,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,35,1,14:36,2076,2076,Mike Smith missed Jumper.,9,11,-2,11,0.45628749574576066,0.44865020993472177,4,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,36,1,14:36,2076,2076,Matt Morgan Defensive Rebound.,9,11,-2,0,0.45628749574576066,0.44865020993472177,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,37,1,14:28,2068,2068,Stone Gettings missed Three Point Jumper.,9,11,-2,8,0.4560859997663677,0.44845848361241913,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,TRUE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,38,1,14:28,2068,2068,Joel Davis Offensive Rebound.,9,11,-2,0,0.4560859997663677,0.44845848361241913,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,39,1,14:21,2061,2061,Joel Davis missed Layup.,9,11,-2,7,0.45590907469984365,0.4482901653242677,4,4,0.2,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,40,1,14:21,2061,2061,Lukas Meisner Defensive Rebound.,9,11,-2,0,0.45590907469984365,0.4482901653242677,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,41,1,14:07,2047,2047,Mike Smith Turnover.,9,11,-2,14,0.45555345333195923,0.4479519194647577,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,42,1,14:06,2046,2046,Steven Julian Steal.,9,11,-2,1,0.4555279596491632,0.44792767509963954,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,43,1,14:04,2044,2044,Matt Morgan made Layup. Assisted by Steven Julian.,11,11,0,2,0.5076689684628171,0.5,4,4,0.2,NA,NA,Cornell,made,Matt Morgan,Steven Julian,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,44,1,13:46,2026,2026,Foul on Steven Julian.,11,11,0,18,0.5076473958634342,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,45,1,13:46,2026,2026,Official TV Timeout,11,11,0,0,0.5076473958634342,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,46,1,13:46,2026,2026,Nate Hickman missed Free Throw.,11,11,0,0,0.5076473958634342,0.5,4,4,0.2,NA,NA,Columbia,missed,Nate Hickman,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,47,1,13:46,2026,2026,Columbia Deadball Team Rebound.,11,11,0,0,0.5076473958634342,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,48,1,13:46,2026,2026,Nate Hickman missed Free Throw.,11,11,0,0,0.5076473958634342,0.5,4,4,0.2,NA,NA,Columbia,missed,Nate Hickman,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,49,1,13:46,2026,2026,Jimmy Boeheim Defensive Rebound.,11,11,0,0,0.5076473958634342,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,50,1,13:31,2011,2011,Matt Morgan made Layup. Assisted by Stone Gettings.,13,11,2,15,0.5604597900585302,0.5529282802411927,4,4,0.2,NA,NA,Cornell,made,Matt Morgan,Stone Gettings,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,51,1,13:13,1993,1993,Myles Hanson missed Three Point Jumper.,13,11,2,18,0.5608824857106857,0.5533743774178698,4,4,0.2,NA,NA,Columbia,missed,Myles Hanson,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,52,1,13:13,1993,1993,Rodney Hunter Offensive Rebound.,13,11,2,0,0.5608824857106857,0.5533743774178698,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,53,1,13:11,1991,1991,Foul on Josh Warren.,13,11,2,2,0.5609296904177998,0.5534242030335981,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,54,1,12:51,1971,1971,Myles Hanson made Three Point Jumper. Assisted by Quinton Adlesh.,13,14,-1,20,0.4805219040906436,0.47295843003526694,4,4,0.2,NA,NA,Columbia,made,Myles Hanson,Quinton Adlesh,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,55,1,12:38,1958,1958,Jimmy Boeheim missed Layup.,13,14,-1,13,0.48033936583998077,0.4727926015739934,4,4,0.2,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,56,1,12:38,1958,1958,Myles Hanson Block.,13,14,-1,0,0.48033936583998077,0.4727926015739934,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,57,1,12:37,1957,1957,Cornell Offensive Rebound.,13,14,-1,1,0.4803252668315886,0.4727797947470498,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,58,1,12:32,1952,1952,Stone Gettings missed Jumper.,13,14,-1,5,0.48025464683328845,0.472715650157282,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,59,1,12:32,1952,1952,Stone Gettings Offensive Rebound.,13,14,-1,0,0.48025464683328845,0.472715650157282,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,60,1,12:29,1949,1949,Stone Gettings missed Layup.,13,14,-1,3,0.4802121742939937,0.4726770744269815,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,61,1,12:29,1949,1949,Nate Hickman Defensive Rebound.,13,14,-1,0,0.4802121742939937,0.4726770744269815,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,62,1,12:10,1930,1930,Rodney Hunter made Layup. Assisted by Quinton Adlesh.,13,16,-3,19,0.42530034399110256,0.4179579881739418,4,4,0.2,NA,NA,Columbia,made,Rodney Hunter,Quinton Adlesh,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,63,1,11:53,1913,1913,Terrance McBride missed Jumper.,13,16,-3,17,0.42462864649100573,0.41731118974639103,4,4,0.2,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,64,1,11:53,1913,1913,Nate Hickman Defensive Rebound.,13,16,-3,0,0.42462864649100573,0.41731118974639103,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,65,1,11:28,1888,1888,Quinton Adlesh missed Jumper.,13,16,-3,25,0.4236423413409736,0.4163621975679721,4,4,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,66,1,11:28,1888,1888,Myles Hanson Offensive Rebound.,13,16,-3,0,0.4236423413409736,0.4163621975679721,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,67,1,11:22,1882,1882,Rodney Hunter made Layup. Assisted by Myles Hanson.,13,18,-5,6,0.3694485082514537,0.36252145744399744,4,4,0.2,NA,NA,Columbia,made,Rodney Hunter,Myles Hanson,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,68,1,11:10,1870,1870,Foul on Myles Hanson.,13,18,-5,12,0.3687051165001232,0.3617992294015141,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,69,1,11:10,1870,1870,Official TV Timeout,13,18,-5,0,0.3687051165001232,0.3617992294015141,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,70,1,11:01,1861,1861,Steven Julian Turnover.,13,18,-5,9,0.36814700509879034,0.361257105291123,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,71,1,10:48,1848,1848,Gabe Stefanini made Layup.,13,20,-7,13,0.3158363495863818,0.3094615376283314,4,4,0.2,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,72,1,10:35,1835,1835,Bryan Knapp missed Layup.,13,20,-7,13,0.3147887908436945,0.3084412742698281,4,4,0.2,NA,NA,Cornell,missed,Bryan Knapp,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,73,1,10:35,1835,1835,Steven Julian Offensive Rebound.,13,20,-7,0,0.3147887908436945,0.3084412742698281,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,74,1,10:35,1835,1835,Steven Julian made Dunk. Assisted by Jimmy Boeheim.,15,20,-5,0,0.3665294222467964,0.3596862545018985,4,4,0.2,NA,NA,Cornell,made,Steven Julian,Jimmy Boeheim,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,75,1,10:19,1819,1819,Foul on Matt Morgan.,15,20,-5,16,0.3655280851466785,0.3587140756129581,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,76,1,10:05,1805,1805,Gabe Stefanini made Three Point Jumper. Assisted by Lukas Meisner.,15,23,-8,14,0.28780799160372955,0.28181569435164106,4,4,0.2,NA,NA,Columbia,made,Gabe Stefanini,Lukas Meisner,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,77,1,9:48,1788,1788,Josh Warren Turnover.,15,23,-8,17,0.2862958171344005,0.2803426483704196,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,78,1,9:38,1778,1778,Myles Hanson made Layup.,15,25,-10,10,0.23965038708989855,0.2343592426474705,4,4,0.2,NA,NA,Columbia,made,Myles Hanson,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,79,1,9:22,1762,1762,Matt Morgan made Three Point Jumper. Assisted by Stone Gettings.,18,25,-7,16,0.30881978700777746,0.3026293232943981,4,4,0.2,NA,NA,Cornell,made,Matt Morgan,Stone Gettings,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,80,1,9:04,1744,1744,Foul on Joel Davis.,18,25,-7,18,0.307312865566438,0.30116216035139587,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,81,1,9:00,1740,1740,Myles Hanson missed Three Point Jumper.,18,25,-7,4,0.3069755040534107,0.30083369195512766,4,4,0.2,NA,NA,Columbia,missed,Myles Hanson,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,82,1,9:00,1740,1740,Steven Julian Block.,18,25,-7,0,0.3069755040534107,0.30083369195512766,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,83,1,8:58,1738,1738,Columbia Offensive Rebound.,18,25,-7,2,0.30680646330348277,0.30066910574269007,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,84,1,8:50,1730,1730,Mike Smith made Layup.,18,27,-9,8,0.2572408947435031,0.2517441011540337,4,4,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,85,1,8:34,1714,1714,Stone Gettings missed Three Point Jumper.,18,27,-9,16,0.25566311625306815,0.25020695653654607,4,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,86,1,8:34,1714,1714,Kyle Castlin Defensive Rebound.,18,27,-9,0,0.25566311625306815,0.25020695653654607,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,87,1,8:18,1698,1698,Foul on Steven Julian.,18,27,-9,16,0.254066754346187,0.24865161094798224,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,88,1,8:05,1685,1685,Lukas Meisner made Layup.,18,29,-11,13,0.20895891383163306,0.20425499553578672,4,4,0.2,NA,NA,Columbia,made,Lukas Meisner,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,89,1,8:01,1681,1681,Cornell  Timeout,18,29,-11,4,0.20853300918525017,0.2038402600407032,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,90,1,7:41,1661,1661,Joel Davis Turnover.,18,29,-11,20,0.2064473107912548,0.20181000928780599,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,91,1,7:18,1638,1638,Mike Smith missed Three Point Jumper.,18,29,-11,23,0.20412262521177865,0.19954845060585213,3,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,92,1,7:18,1638,1638,Stone Gettings Defensive Rebound.,18,29,-11,0,0.20412262521177865,0.19954845060585213,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,93,1,7:09,1629,1629,Stone Gettings missed Jumper.,18,29,-11,9,0.20322928850934602,0.19867968831627322,3,4,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,94,1,7:09,1629,1629,Josh Warren Offensive Rebound.,18,29,-11,0,0.20322928850934602,0.19867968831627322,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,95,1,7:06,1626,1626,Josh Warren missed Layup.,18,29,-11,3,0.20293312201490218,0.19839170223028443,3,4,0.2,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,96,1,7:06,1626,1626,Patrick Tape Block.,18,29,-11,0,0.20293312201490218,0.19839170223028443,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,97,1,7:03,1623,1623,Kyle Castlin Defensive Rebound.,18,29,-11,3,0.20263767125083817,0.1981044273782139,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,98,1,6:57,1617,1617,Kyle Castlin missed Three Point Jumper.,18,29,-11,6,0.20204870139153408,0.1975317983258363,3,4,0.2,NA,NA,Columbia,missed,Kyle Castlin,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,99,1,6:57,1617,1617,Josh Warren Defensive Rebound.,18,29,-11,0,0.20204870139153408,0.1975317983258363,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,100,1,6:44,1604,1604,Stone Gettings made Layup. Assisted by Joel Davis.,20,29,-9,13,0.245059317381312,0.2398860929181292,3,4,0.2,NA,NA,Cornell,made,Stone Gettings,Joel Davis,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,101,1,6:24,1584,1584,Patrick Tape Turnover.,20,29,-9,20,0.24322085976921573,0.23809926993761926,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,102,1,6:22,1582,1582,Matt Morgan Steal.,20,29,-9,2,0.24303698356710307,0.23792057273881398,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,103,1,6:21,1581,1581,Matt Morgan missed Layup.,20,29,-9,1,0.2429450227614063,0.23783120266511062,3,4,0.2,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,104,1,6:21,1581,1581,Stone Gettings Offensive Rebound.,20,29,-9,0,0.2429450227614063,0.23783120266511062,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,105,1,6:18,1578,1578,Stone Gettings made Layup.,22,29,-7,3,0.2933909727536791,0.28762300583797284,3,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,106,1,6:16,1576,1576,Columbia  Timeout,22,29,-7,2,0.2932287835195441,0.2874655701801327,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,107,1,5:57,1557,1557,Foul on Josh Warren.,22,29,-7,19,0.29168002339516746,0.28596219134892875,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,108,1,5:44,1544,1544,Quinton Adlesh missed Three Point Jumper.,22,29,-7,13,0.29060838782059284,0.28492185302466855,3,3,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,109,1,5:44,1544,1544,Rodney Hunter Offensive Rebound.,22,29,-7,0,0.29060838782059284,0.28492185302466855,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,110,1,5:40,1540,1540,Lukas Meisner made Dunk. Assisted by Rodney Hunter.,22,31,-9,4,0.23913932675307453,0.2341326188832368,3,3,0.2,NA,NA,Columbia,made,Lukas Meisner,Rodney Hunter,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,111,1,5:27,1527,1527,Kyle Brown missed Three Point Jumper.,22,31,-9,13,0.23790708063430066,0.2329347928625917,3,3,0.2,NA,NA,Cornell,missed,Kyle Brown,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,112,1,5:27,1527,1527,Lukas Meisner Defensive Rebound.,22,31,-9,0,0.23790708063430066,0.2329347928625917,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,113,1,5:15,1515,1515,Lukas Meisner missed Three Point Jumper.,22,31,-9,12,0.2367530817390496,0.2318128095926395,3,3,0.2,NA,NA,Columbia,missed,Lukas Meisner,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,114,1,5:15,1515,1515,Josh Warren Defensive Rebound.,22,31,-9,0,0.2367530817390496,0.2318128095926395,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,115,1,5:07,1507,1507,Stone Gettings made Three Point Jumper. Assisted by Terrance McBride.,25,31,-6,8,0.31559401308783586,0.3096882868254716,3,3,0.2,NA,NA,Cornell,made,Stone Gettings,Terrance McBride,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,116,1,4:51,1491,1491,Nate Hickman missed Three Point Jumper.,25,31,-6,16,0.3143161515287246,0.3084479183105578,3,3,0.2,NA,NA,Columbia,missed,Nate Hickman,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,117,1,4:51,1491,1491,Cornell Defensive Rebound.,25,31,-6,0,0.3143161515287246,0.3084479183105578,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,118,1,4:31,1471,1471,Matt Morgan made Three Point Jumper. Assisted by Stone Gettings.,28,31,-3,20,0.4060708279426261,0.3995217674619064,3,3,0.2,NA,NA,Cornell,made,Matt Morgan,Stone Gettings,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,119,1,4:01,1441,1441,Nate Hickman Turnover.,28,31,-3,30,0.4045866499781271,0.3980964321682033,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,120,1,3:47,1427,1427,Matt Morgan made Three Point Jumper.,31,31,0,14,0.5067277704459889,0.5,3,3,0.2,NA,NA,Cornell,made,Matt Morgan,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,121,1,3:30,1410,1410,Rodney Hunter Turnover.,31,31,0,17,0.5066969183754172,0.5,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,122,1,3:30,1410,1410,Foul on Rodney Hunter.,31,31,0,0,0.5066969183754172,0.5,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,123,1,3:30,1410,1410,Official TV Timeout,31,31,0,0,0.5066969183754172,0.5,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,124,1,3:28,1408,1408,Official TV Timeout,31,31,0,2,0.5066932619262536,0.5,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,125,1,3:17,1397,1397,Kyle Brown missed Three Point Jumper.,31,31,0,11,0.506673057660992,0.5,3,3,0.2,NA,NA,Cornell,missed,Kyle Brown,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,126,1,3:17,1397,1397,Mike Smith Defensive Rebound.,31,31,0,0,0.506673057660992,0.5,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,127,1,3:10,1390,1390,Lukas Meisner made Three Point Jumper. Assisted by Mike Smith.,31,34,-3,7,0.4021634547348389,0.395774986304259,3,3,0.2,NA,NA,Columbia,made,Lukas Meisner,Mike Smith,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,128,1,2:54,1374,1374,Quinton Adlesh Defensive Rebound.,31,34,-3,16,0.4014277619647546,0.39507172739181645,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,129,1,2:32,1352,1352,Nate Hickman missed Layup.,31,34,-3,22,0.40041779974769404,0.3941067349697349,3,3,0.2,NA,NA,Columbia,missed,Nate Hickman,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,130,1,2:32,1352,1352,Columbia Offensive Rebound.,31,34,-3,0,0.40041779974769404,0.3941067349697349,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,131,1,2:26,1346,1346,Quinton Adlesh missed Three Point Jumper.,31,34,-3,6,0.4001409466468424,0.3938422188997977,3,3,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,132,1,2:26,1346,1346,Cornell Defensive Rebound.,31,34,-3,0,0.4001409466468424,0.3938422188997977,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,133,1,2:06,1326,1326,Matt Morgan Turnover.,31,34,-3,20,0.3992079033917815,0.3929505156084535,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,134,1,1:56,1316,1316,Foul on Bryan Knapp.,31,34,-3,10,0.3987329768581379,0.39249638063182773,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,135,1,1:56,1316,1316,Nate Hickman made Free Throw.,31,35,-4,0,0.3643906949853192,0.3583710926334788,3,3,0.2,NA,NA,Columbia,made,Nate Hickman,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,136,1,1:56,1316,1316,Nate Hickman made Free Throw.,31,36,-5,0,0.3313761041653521,0.3256224882075874,3,3,0.2,NA,NA,Columbia,made,Nate Hickman,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,137,1,1:53,1313,1313,Kyle Brown missed Three Point Jumper.,31,36,-5,3,0.33115791441562026,0.32541128052559987,3,3,0.2,NA,NA,Cornell,missed,Kyle Brown,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,138,1,1:53,1313,1313,Mike Smith Defensive Rebound.,31,36,-5,0,0.33115791441562026,0.32541128052559987,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,139,1,1:48,1308,1308,Quinton Adlesh missed Layup.,31,36,-5,5,0.3307919144555652,0.32505694314729155,3,3,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,140,1,1:48,1308,1308,Joel Davis Defensive Rebound.,31,36,-5,0,0.3307919144555652,0.32505694314729155,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,141,1,1:42,1302,1302,Stone Gettings missed Three Point Jumper.,31,36,-5,6,0.3303485094314214,0.3246275773885209,3,3,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,142,1,1:42,1302,1302,Quinton Adlesh Defensive Rebound.,31,36,-5,0,0.3303485094314214,0.3246275773885209,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,143,1,1:34,1294,1294,Mike Smith Turnover.,31,36,-5,8,0.3297494160124766,0.3240472816190011,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,144,1,1:02,1262,1262,Foul on Quinton Adlesh.,31,36,-5,32,0.327242278428607,0.3216163356258334,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,145,1,1:02,1262,1262,Joel Davis Turnover.,31,36,-5,0,0.327242278428607,0.3216163356258334,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,146,1,1:00,1260,1260,Lukas Meisner Steal.,31,36,-5,2,0.32707870437345526,0.32145758172056954,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,147,1,0:58,1258,1258,Foul on Kyle Brown.,31,36,-5,2,0.32691422164081885,0.32129792648938904,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,148,1,0:58,1258,1258,Gabe Stefanini missed Free Throw.,31,36,-5,0,0.32691422164081885,0.32129792648938904,3,3,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,149,1,0:58,1258,1258,Columbia Deadball Team Rebound.,31,36,-5,0,0.32691422164081885,0.32129792648938904,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,150,1,0:58,1258,1258,Gabe Stefanini made Free Throw.,31,37,-6,0,0.29489286183846897,0.28959000064862206,3,3,0.2,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,151,1,0:58,1258,1258,Foul on Kyle Castlin.,31,37,-6,0,0.29489286183846897,0.28959000064862206,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,152,1,0:41,1241,1241,Stone Gettings made Jumper. Assisted by Matt Morgan.,33,37,-4,17,0.3594230414299906,0.35357142588618623,3,3,0.2,NA,NA,Cornell,made,Stone Gettings,Matt Morgan,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,153,1,0:28,1228,1228,Foul on Jake Kuhn.,33,37,-4,13,0.35845305846589276,0.3526312676200389,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,154,1,0:28,1228,1228,Kyle Castlin made Free Throw.,33,38,-5,0,0.32432679113457635,0.3187838489259002,3,3,0.2,NA,NA,Columbia,made,Kyle Castlin,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,155,1,0:28,1228,1228,Kyle Castlin made Free Throw.,33,39,-6,0,0.2919708713915799,0.2867462335828471,3,3,0.2,NA,NA,Columbia,made,Kyle Castlin,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,156,1,0:05,1205,1205,Stone Gettings missed Layup.,33,39,-6,23,0.28954375540921945,0.2843807887604978,3,3,0.2,NA,NA,Cornell,missed,Stone Gettings,NA,FALSE,FALSE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,157,1,0:05,1205,1205,Joel Davis Offensive Rebound.,33,39,-6,0,0.28954375540921945,0.2843807887604978,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,158,1,0:04,1204,1204,Joel Davis made Layup.,35,39,-4,1,0.3565572930027446,0.3507911162223667,3,3,0.2,NA,NA,Cornell,made,Joel Davis,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,159,1,0:01,1201,1201,Kyle Castlin Turnover.,35,39,-4,3,0.35631846768392106,0.35055922478285695,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,160,1,0:01,1201,1201,Joel Davis Steal.,35,39,-4,0,0.35631846768392106,0.35055922478285695,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,161,1,0:00,1200,1200,End of 1st half,35,39,-4,1,0.3562391934595989,0.3504822574627354,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
+400991618,2018-01-27,Cornell,Columbia,162,2,20:00,1200,1200,PLAY,35,39,-4,0,0.3562391934595989,0.3504822574627354,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Columbia
+400991618,2018-01-27,Cornell,Columbia,163,2,19:35,1175,1175,Lukas Meisner missed Three Point Jumper.,35,39,-4,25,0.35430361927425247,0.34860373764740454,4,4,0.2,NA,NA,Columbia,missed,Lukas Meisner,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,164,2,19:35,1175,1175,Patrick Tape Offensive Rebound.,35,39,-4,0,0.35430361927425247,0.34860373764740454,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,165,2,19:31,1171,1171,Foul on Joel Davis.,35,39,-4,4,0.35400070952765106,0.3483098638399503,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,166,2,19:30,1170,1170,Patrick Tape Turnover.,35,39,-4,1,0.3539252109393421,0.3482366209969002,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,167,2,19:30,1170,1170,Foul on Patrick Tape.,35,39,-4,0,0.3539252109393421,0.3482366209969002,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,168,2,19:05,1145,1145,Stone Gettings made Jumper. Assisted by Terrance McBride.,37,39,-2,25,0.4273654958451356,0.4213115738206691,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,Terrance McBride,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,169,2,18:47,1127,1127,Nate Hickman missed Jumper.,37,39,-2,18,0.42663414222849544,0.4206155338275931,4,4,0.2,NA,NA,Columbia,missed,Nate Hickman,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,170,2,18:47,1127,1127,Columbia Offensive Rebound.,37,39,-2,0,0.42663414222849544,0.4206155338275931,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,171,2,18:39,1119,1119,Quinton Adlesh made Jumper.,37,41,-4,8,0.35013379643240927,0.3445592848537169,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,172,2,18:24,1104,1104,Matt Morgan made Three Point Jumper. Assisted by Terrance McBride.,40,41,-1,15,0.46568261231548363,0.459597065564905,4,4,0.2,NA,NA,Cornell,made,Matt Morgan,Terrance McBride,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,173,2,18:13,1093,1093,Patrick Tape missed Jumper.,40,41,-1,11,0.4654392570898723,0.4593744798069461,4,4,0.2,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,174,2,18:13,1093,1093,Patrick Tape Offensive Rebound.,40,41,-1,0,0.4654392570898723,0.4593744798069461,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,175,2,18:09,1089,1089,Patrick Tape made Layup.,40,43,-3,4,0.3857519952134802,0.3799944867779903,4,4,0.2,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,176,2,17:53,1073,1073,Stone Gettings made Jumper.,42,43,-1,16,0.46498646819186806,0.4589596180023574,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,177,2,17:42,1062,1062,Foul on Stone Gettings.,42,43,-1,11,0.4647301036647215,0.45872423856679617,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,178,2,17:42,1062,1062,Mike Smith made Free Throw.,42,44,-2,0,0.4238974998225802,0.41800723763296493,4,4,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,179,2,17:42,1062,1062,Mike Smith made Free Throw.,42,45,-3,0,0.38407826651955945,0.3783779054819348,4,4,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,180,2,17:24,1044,1044,Steven Julian missed Jumper.,42,45,-3,18,0.3829060028518443,0.37724435703477627,4,4,0.2,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,181,2,17:24,1044,1044,Patrick Tape Defensive Rebound.,42,45,-3,0,0.3829060028518443,0.37724435703477627,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,182,2,17:08,1028,1028,Patrick Tape Turnover.,42,45,-3,16,0.38181547743141786,0.3761887910899476,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,183,2,16:56,1016,1016,Josh Warren made Layup. Assisted by Matt Morgan.,44,45,-1,12,0.463578395962848,0.457661740036354,4,4,0.2,NA,NA,Cornell,made,Josh Warren,Matt Morgan,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,184,2,16:44,1004,1004,Quinton Adlesh missed Three Point Jumper.,44,45,-1,12,0.4632512797129584,0.45735839846629023,4,4,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,185,2,16:44,1004,1004,Mike Smith Offensive Rebound.,44,45,-1,0,0.4632512797129584,0.45735839846629023,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,186,2,16:25,985,985,Quinton Adlesh made Layup.,44,47,-3,19,0.378596579669237,0.3730671712442118,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,187,2,16:03,963,963,Terrance McBride made Layup. Assisted by Matt Morgan.,46,47,-1,22,0.4620328574983731,0.4562230653066891,4,4,0.2,NA,NA,Cornell,made,Terrance McBride,Matt Morgan,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,188,2,15:45,945,945,Mike Smith missed Three Point Jumper.,46,47,-1,18,0.46151585342227464,0.45574119037752164,4,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,189,2,15:45,945,945,Terrance McBride Defensive Rebound.,46,47,-1,0,0.46151585342227464,0.45574119037752164,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,190,2,15:27,927,927,Foul on Nate Hickman.,46,47,-1,18,0.4610412503137822,0.4552998962532634,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,191,2,15:27,927,927,Official TV Timeout,46,47,-1,0,0.4610412503137822,0.4552998962532634,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,192,2,15:08,908,908,Josh Warren made Jumper.,48,47,1,19,0.5508306003190441,0.5451347477520339,4,4,0.2,NA,NA,Cornell,made,Josh Warren,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,193,2,14:44,884,884,Foul on Jimmy Boeheim.,48,47,1,24,0.5513137062523341,0.5456589400006763,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,194,2,14:44,884,884,Mike Smith missed Free Throw.,48,47,1,0,0.5513137062523341,0.5456589400006763,4,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,195,2,14:44,884,884,Columbia Deadball Team Rebound.,48,47,1,0,0.5513137062523341,0.5456589400006763,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,196,2,14:44,884,884,Mike Smith made Free Throw.,48,48,0,0,0.5057082624763719,0.5,4,4,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,197,2,14:26,866,866,Foul on Lukas Meisner.,48,48,0,18,0.5056784562354509,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,198,2,14:23,863,863,Stone Gettings Turnover.,48,48,0,3,0.5056734924775026,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,199,2,14:21,861,861,Quinton Adlesh Steal.,48,48,0,2,0.5056701811958798,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,200,2,14:15,855,855,Quinton Adlesh missed Layup.,48,48,0,6,0.5056602309426771,0.5,4,4,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,201,2,14:15,855,855,Josh Warren Defensive Rebound.,48,48,0,0,0.5056602309426771,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,202,2,14:11,851,851,Foul on Mike Smith.,48,48,0,4,0.5056535780560332,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,203,2,14:11,851,851,Stone Gettings made Free Throw.,49,48,1,0,0.5519809701558168,0.5463819146846853,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,204,2,14:11,851,851,Stone Gettings made Free Throw.,50,48,2,0,0.5974233431124816,0.5919723951331716,4,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,205,2,13:55,835,835,Kyle Castlin made Jumper.,50,50,0,16,0.5056267124442997,0.5,4,4,0.2,NA,NA,Columbia,made,Kyle Castlin,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,206,2,13:18,798,798,Matt Morgan missed Jumper.,50,50,0,37,0.5055616988754332,0.5,4,4,0.2,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,207,2,13:18,798,798,Jimmy Boeheim Offensive Rebound.,50,50,0,0,0.5055616988754332,0.5,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,208,2,13:18,798,798,Jimmy Boeheim made Layup.,52,50,2,0,0.5999197137013518,0.5945682299235934,4,4,0.2,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,209,2,13:18,798,798,Jimmy Boeheim made Free Throw.,53,50,3,0,0.6448716503910722,0.6397603894648966,4,4,0.2,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,210,2,13:18,798,798,Foul on Kyle Castlin.,53,50,3,0,0.6448716503910722,0.6397603894648966,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,211,2,13:11,791,791,Mike Smith made Layup.,53,52,1,7,0.5534114304069755,0.547919511419774,4,4,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,212,2,12:49,769,769,Bryan Knapp made Three Point Jumper.,56,52,4,22,0.6905042553954619,0.6857776672006164,4,4,0.2,NA,NA,Cornell,made,Bryan Knapp,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,213,2,12:30,750,750,Foul on Bryan Knapp.,56,52,4,19,0.6928660800786991,0.6881932752187101,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,214,2,12:23,743,743,Myles Hanson made Three Point Jumper. Assisted by Mike Smith.,56,55,1,7,0.5549904800024452,0.5495988446349397,4,4,0.2,NA,NA,Columbia,made,Myles Hanson,Mike Smith,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,215,2,12:04,724,724,Jimmy Boeheim Turnover.,56,55,1,19,0.5557622008156253,0.5504155439561265,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,216,2,12:04,724,724,Foul on Jimmy Boeheim.,56,55,1,0,0.5557622008156253,0.5504155439561265,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,217,2,11:50,710,710,Lukas Meisner Turnover.,56,55,1,14,0.556296234786334,0.5509822718062475,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,218,2,11:38,698,698,Bryan Knapp Turnover.,56,55,1,12,0.5567155166115415,0.5514288079135841,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,219,2,11:37,697,697,Quinton Adlesh Steal.,56,55,1,1,0.5567491664014805,0.5514647042068811,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,220,2,11:36,696,696,Quinton Adlesh made Layup.,56,57,-1,1,0.45379343976959424,0.4484995763356005,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,221,2,11:11,671,671,Steven Julian made Three Point Jumper. Assisted by Terrance McBride.,59,57,2,25,0.6086209213402821,0.6035683891510212,4,4,0.2,NA,NA,Cornell,made,Steven Julian,Terrance McBride,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,222,2,10:53,653,653,Mike Smith Turnover.,59,57,2,18,0.6097290024604176,0.6047187176818142,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,223,2,10:52,652,652,Terrance McBride Steal.,59,57,2,1,0.6097911120889139,0.6047831906074348,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,224,2,10:43,643,643,Jimmy Boeheim missed Three Point Jumper.,59,57,2,9,0.6103570534473258,0.6053705441414853,4,4,0.2,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,225,2,10:43,643,643,Myles Hanson Defensive Rebound.,59,57,2,0,0.6103570534473258,0.6053705441414853,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,226,2,10:33,633,633,Foul on Bryan Knapp.,59,57,2,10,0.611007106113446,0.6060447879572949,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,227,2,10:33,633,633,Quinton Adlesh missed Free Throw.,59,57,2,0,0.611007106113446,0.6060447879572949,4,4,0.2,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,228,2,10:33,633,633,Columbia Deadball Team Rebound.,59,57,2,0,0.611007106113446,0.6060447879572949,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,229,2,10:33,633,633,Quinton Adlesh made Free Throw.,59,58,1,0,0.5587743204806954,0.5536324570128203,4,4,0.2,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,230,2,10:11,611,611,Steven Julian missed Layup.,59,58,1,22,0.559558023879976,0.5544680994176798,4,4,0.2,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,231,2,10:11,611,611,Columbia Defensive Rebound.,59,58,1,0,0.559558023879976,0.5544680994176798,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,232,2,10:00,600,600,Myles Hanson missed Three Point Jumper.,59,58,1,11,0.5599978482149193,0.5549351931430931,4,4,0.2,NA,NA,Columbia,missed,Myles Hanson,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,233,2,10:00,600,600,Stone Gettings Defensive Rebound.,59,58,1,0,0.5599978482149193,0.5549351931430931,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,234,2,9:36,576,576,Stone Gettings Turnover.,59,58,1,24,0.5611107547887866,0.5561116108175674,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,235,2,9:35,575,575,Myles Hanson Steal.,59,58,1,1,0.5611624813940915,0.5561661221175429,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,236,2,9:32,572,572,Gabe Stefanini missed Layup.,59,58,1,3,0.56132052758486,0.556332595894258,4,4,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,237,2,9:32,572,572,Lukas Meisner Offensive Rebound.,59,58,1,0,0.56132052758486,0.556332595894258,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,238,2,9:29,569,569,Lukas Meisner made Layup.,59,60,-1,3,0.4484871769820222,0.44349640710614296,4,4,0.2,NA,NA,Columbia,made,Lukas Meisner,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,239,2,9:09,549,549,Steven Julian missed Three Point Jumper.,59,60,-1,20,0.4471615199329419,0.44223082645168604,4,4,0.2,NA,NA,Cornell,missed,Steven Julian,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,240,2,9:09,549,549,Gabe Stefanini Defensive Rebound.,59,60,-1,0,0.4471615199329419,0.44223082645168604,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,241,2,8:54,534,534,Gabe Stefanini missed Jumper.,59,60,-1,15,0.4461848395566929,0.4412996176349924,4,4,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,242,2,8:54,534,534,Kyle Castlin Offensive Rebound.,59,60,-1,0,0.4461848395566929,0.4412996176349924,4,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,243,2,8:52,532,532,Kyle Castlin made Layup.,59,62,-3,2,0.3341940254637108,0.3298098188378551,4,4,0.2,NA,NA,Columbia,made,Kyle Castlin,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,244,2,8:36,516,516,Cornell  Timeout,59,62,-3,16,0.3318739233043604,0.32754473703100484,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,245,2,8:31,511,511,Stone Gettings made Jumper.,61,62,-1,5,0.44491306689914895,0.4400942627035189,3,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,246,2,8:15,495,495,Kyle Castlin missed Layup.,61,62,-1,16,0.4440791051025477,0.43930609823428285,3,4,0.2,NA,NA,Columbia,missed,Kyle Castlin,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,247,2,8:15,495,495,Lukas Meisner Offensive Rebound.,61,62,-1,0,0.4440791051025477,0.43930609823428285,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,248,2,8:12,492,492,Foul on Matt Morgan.,61,62,-1,3,0.44391953592433264,0.4391552179448615,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,249,2,8:12,492,492,Lukas Meisner made Free Throw.,61,63,-2,0,0.38464915613456496,0.38008616197464645,3,4,0.2,NA,NA,Columbia,made,Lukas Meisner,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,250,2,8:12,492,492,Lukas Meisner made Free Throw.,61,64,-3,0,0.3286158116943693,0.324367141531563,3,4,0.2,NA,NA,Columbia,made,Lukas Meisner,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,251,2,7:54,474,474,Foul on Myles Hanson.,61,64,-3,18,0.3259660159228148,0.321780655066489,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,252,2,7:54,474,474,Official TV Timeout,61,64,-3,0,0.3259660159228148,0.321780655066489,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,253,2,7:54,474,474,Stone Gettings made Free Throw.,62,64,-2,0,0.3827354086694957,0.3782301606430503,3,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,254,2,7:54,474,474,Stone Gettings made Free Throw.,63,64,-1,0,0.4428951726526361,0.4381844764995918,3,4,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,255,2,7:44,464,464,Lukas Meisner Turnover.,63,64,-1,10,0.4422481549910883,0.4375688561514116,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,256,2,7:20,440,440,Jimmy Boeheim made Three Point Jumper. Assisted by Stone Gettings.,66,64,2,24,0.6308041801386788,0.6264446330539559,3,4,0.2,NA,NA,Cornell,made,Jimmy Boeheim,Stone Gettings,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,257,2,7:00,420,420,Gabe Stefanini missed Three Point Jumper.,66,64,2,20,0.634432150792115,0.630160175578846,3,4,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,258,2,7:00,420,420,Stone Gettings Defensive Rebound.,66,64,2,0,0.634432150792115,0.630160175578846,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,259,2,6:27,387,387,Terrance McBride Turnover.,66,64,2,33,0.639954127896693,0.6358359117552758,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,260,2,6:14,374,374,Myles Hanson missed Three Point Jumper.,66,64,2,13,0.6421568098754709,0.638102822949975,3,4,0.2,NA,NA,Columbia,missed,Myles Hanson,NA,TRUE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,261,2,6:14,374,374,Kyle Castlin Offensive Rebound.,66,64,2,0,0.6421568098754709,0.638102822949975,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,262,2,6:02,362,362,Lukas Meisner missed Layup.,66,64,2,12,0.6443374755147678,0.6403452098856208,3,4,0.2,NA,NA,Columbia,missed,Lukas Meisner,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,263,2,6:02,362,362,Gabe Stefanini Offensive Rebound.,66,64,2,0,0.6443374755147678,0.6403452098856208,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,264,2,5:54,354,354,Gabe Stefanini missed Layup.,66,64,2,8,0.6459098193343941,0.6419601795323276,3,4,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,265,2,5:54,354,354,Josh Warren Defensive Rebound.,66,64,2,0,0.6459098193343941,0.6419601795323276,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,266,2,5:45,345,345,Foul on Gabe Stefanini.,66,64,2,9,0.6478252298290986,0.6439251091476066,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,267,2,5:45,345,345,Matt Morgan missed Free Throw.,66,64,2,0,0.6478252298290986,0.6439251091476066,3,4,0.2,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,268,2,5:45,345,345,Cornell Deadball Team Rebound.,66,64,2,0,0.6478252298290986,0.6439251091476066,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,269,2,5:45,345,345,Matt Morgan made Free Throw.,67,64,3,0,0.7121223290432018,0.7086139852446883,3,4,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,270,2,5:31,331,331,Myles Hanson missed Three Point Jumper.,67,64,3,14,0.7166696415120204,0.7132514727191621,3,4,0.2,NA,NA,Columbia,missed,Myles Hanson,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,271,2,5:31,331,331,Matt Morgan Defensive Rebound.,67,64,3,0,0.7166696415120204,0.7132514727191621,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,272,2,5:24,324,324,Foul on Myles Hanson.,67,64,3,7,0.7192103839212352,0.7158398429034915,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,273,2,5:24,324,324,Matt Morgan made Free Throw.,68,64,4,0,0.7770437419784083,0.774149417851784,3,4,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,274,2,5:24,324,324,Matt Morgan made Free Throw.,69,64,5,0,0.8258496689448506,0.8234449651467922,3,4,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,275,2,5:08,308,308,Gabe Stefanini missed Jumper.,69,64,5,16,0.8335491985948641,0.8312762492501441,3,4,0.2,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,276,2,5:08,308,308,Gabe Stefanini Offensive Rebound.,69,64,5,0,0.8335491985948641,0.8312762492501441,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,277,2,5:05,305,305,Gabe Stefanini made Layup.,69,66,3,3,0.7267892950402444,0.7235547336278917,3,4,0.2,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,278,2,5:05,305,305,Foul on Matt Morgan.,69,66,3,0,0.7267892950402444,0.7235547336278917,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,279,2,5:05,305,305,Gabe Stefanini made Free Throw.,69,67,2,0,0.6587372827565894,0.6550794058129942,3,4,0.2,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,280,2,4:50,290,290,Matt Morgan made Layup. Assisted by Josh Warren.,71,67,4,15,0.7883779922281542,0.785710551343732,3,4,0.2,NA,NA,Cornell,made,Matt Morgan,Josh Warren,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,281,2,4:30,270,270,Kyle Castlin missed Layup.,71,67,4,20,0.786334573464531,0.7837194126291137,3,4,0.2,NA,NA,Columbia,missed,Kyle Castlin,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,282,2,4:30,270,270,Terrance McBride Defensive Rebound.,71,67,4,0,0.786334573464531,0.7837194126291137,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,283,2,4:03,243,243,Jimmy Boeheim missed Three Point Jumper.,71,67,4,27,0.7813724925069612,0.7788143460034225,3,4,0.2,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,284,2,4:03,243,243,Myles Hanson Defensive Rebound.,71,67,4,0,0.7813724925069612,0.7788143460034225,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,285,2,4:00,240,240,Foul on Stone Gettings.,71,67,4,3,0.7811315800682899,0.7785830450081012,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,286,2,4:00,240,240,Myles Hanson made Free Throw.,71,68,3,0,0.7227043335763754,0.7197195766667366,3,4,0.2,NA,NA,Columbia,made,Myles Hanson,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,287,2,4:00,240,240,Myles Hanson made Free Throw.,71,69,2,0,0.6555575009186109,0.6521978153087602,3,4,0.2,NA,NA,Columbia,made,Myles Hanson,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,288,2,3:52,232,232,Terrance McBride Turnover.,71,69,2,8,0.6555470053238858,0.6522288534713373,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,289,2,3:52,232,232,Gabe Stefanini Steal.,71,69,2,0,0.6555470053238858,0.6522288534713373,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,290,2,3:52,232,232,Official TV Timeout,71,69,2,0,0.6555470053238858,0.6522288534713373,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,291,2,3:29,209,209,Mike Smith missed Layup.,71,69,2,23,0.660690459006659,0.6575223049384372,3,4,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,292,2,3:27,207,207,Kyle Castlin Offensive Rebound.,71,69,2,2,0.6616100729296395,0.6584576729617606,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,293,2,3:26,206,206,Kyle Castlin missed Layup.,71,69,2,1,0.6621031771387914,0.65895884482422,3,4,0.2,NA,NA,Columbia,missed,Kyle Castlin,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,294,2,3:26,206,206,Josh Warren Defensive Rebound.,71,69,2,0,0.6621031771387914,0.65895884482422,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,295,2,3:01,181,181,Foul on Gabe Stefanini.,71,69,2,25,0.6814873046813159,0.6785865870942741,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,296,2,3:01,181,181,Josh Warren made Free Throw.,72,69,3,0,0.7566237015508112,0.7541604121240805,3,4,0.2,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,297,2,3:01,181,181,Josh Warren made Free Throw.,73,69,4,0,0.8187496581996568,0.8167628851575134,3,4,0.2,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,298,2,2:40,160,160,Gabe Stefanini made Jumper. Assisted by Lukas Meisner.,73,71,2,21,0.7010927040641151,0.6984214274071798,3,4,0.2,NA,NA,Columbia,made,Gabe Stefanini,Lukas Meisner,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,299,2,2:21,141,141,Stone Gettings Turnover.,73,71,2,19,0.7205874457344531,0.7181383098238071,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,300,2,2:19,139,139,Mike Smith Steal.,73,71,2,2,0.7227826051176802,0.7203579145352403,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,301,2,2:16,136,136,Kyle Castlin missed Three Point Jumper.,73,71,2,3,0.7261342403940679,0.7237466432915581,3,4,0.2,NA,NA,Columbia,missed,Kyle Castlin,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,302,2,2:16,136,136,Josh Warren Defensive Rebound.,73,71,2,0,0.7261342403940679,0.7237466432915581,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,303,2,2:03,123,123,Foul on Mike Smith.,73,71,2,13,0.7415387385256954,0.7393181686394703,3,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,304,2,2:03,123,123,Columbia  Timeout,73,71,2,0,0.7415387385256954,0.7393181686394703,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,305,2,2:03,123,123,Matt Morgan made Free Throw.,74,71,3,0,0.8285229999526897,0.8268752796512573,3,3,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,306,2,2:03,123,123,Matt Morgan made Free Throw.,75,71,4,0,0.8905536936366896,0.8894224743114189,3,3,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,307,2,1:44,104,104,Mike Smith missed Jumper.,75,71,4,19,0.9145543003524017,0.9136976668934151,3,3,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,308,2,1:44,104,104,Mike Smith Offensive Rebound.,75,71,4,0,0.9145543003524017,0.9136976668934151,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,309,2,1:41,101,101,Mike Smith Turnover.,75,71,4,3,0.9182853782119087,0.9174706833725849,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,310,2,1:40,100,100,Josh Warren Steal.,75,71,4,1,0.9195223683079086,0.9187215295681928,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,311,2,1:17,77,77,Matt Morgan missed Jumper.,75,71,4,23,0.9453048268398336,0.9447882974933477,3,3,0.2,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,312,2,1:17,77,77,Gabe Stefanini Defensive Rebound.,75,71,4,0,0.9453048268398336,0.9447882974933477,3,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,313,2,1:09,69,69,Gabe Stefanini made Layup.,75,73,2,8,0.8189325124171715,0.8174975307231944,3,3,0.2,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,314,2,1:08,68,68,Columbia  Timeout,75,73,2,1,0.8204420408403583,0.8190219676848897,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,315,2,0:49,49,49,Matt Morgan Turnover.,75,73,2,19,0.8485708158161593,0.8474264049872133,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,316,2,0:34,34,34,Foul on Terrance McBride.,75,73,2,15,0.8700144809393784,0.869075491061388,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,317,2,0:34,34,34,Mike Smith missed Free Throw.,75,73,2,0,0.8700144809393784,0.869075491061388,3,2,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,318,2,0:34,34,34,Columbia Deadball Team Rebound.,75,73,2,0,0.8700144809393784,0.869075491061388,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,319,2,0:34,34,34,Mike Smith missed Free Throw.,75,73,2,0,0.8700144809393784,0.869075491061388,3,2,0.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,320,2,0:34,34,34,Josh Warren Defensive Rebound.,75,73,2,0,0.8700144809393784,0.869075491061388,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,321,2,0:27,27,27,Foul on Lukas Meisner.,75,73,2,7,0.8796035208061447,0.8787547382590568,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,322,2,0:27,27,27,Terrance McBride made Free Throw.,76,73,3,0,0.9516175540322543,0.9512483242711521,3,2,0.2,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,323,2,0:27,27,27,Terrance McBride missed Free Throw.,76,73,3,0,0.9516175540322543,0.9512483242711521,3,2,0.2,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,324,2,0:27,27,27,Kyle Castlin Defensive Rebound.,76,73,3,0,0.9516175540322543,0.9512483242711521,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,325,2,0:20,20,20,Mike Smith missed Three Point Jumper.,76,73,3,7,0.9574821938767121,0.9571676364391318,3,2,0.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,326,2,0:20,20,20,Cornell Defensive Rebound.,76,73,3,0,0.9574821938767121,0.9571676364391318,3,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,327,2,0:17,17,17,Columbia  Timeout,76,73,3,3,0.9598600551668325,0.9595672512616573,3,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,328,2,0:15,15,15,Foul on Lukas Meisner.,76,73,3,2,0.9614003834030992,0.9611215313636329,3,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,329,2,0:15,15,15,Stone Gettings made Free Throw.,77,73,4,0,0.9864050504048363,0.9863042642120009,3,1,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,330,2,0:15,15,15,Stone Gettings made Free Throw.,78,73,5,0,0.9952911368851334,0.9952559108828367,3,1,0.2,NA,NA,Cornell,made,Stone Gettings,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,331,2,0:09,9,9,Foul on Steven Julian.,78,73,5,6,0.996175391007985,0.9961477412586438,3,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,332,2,0:09,9,9,Mike Smith made Free Throw.,78,74,4,0,0.9884724382269113,0.988389749540432,3,1,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+400991618,2018-01-27,Cornell,Columbia,333,2,0:09,9,9,Mike Smith made Free Throw.,78,75,3,0,0.9657881600355919,0.965548425338804,3,1,0.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,334,2,0:09,9,9,Cornell  Timeout,78,75,3,0,0.9657881600355919,0.965548425338804,2,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,335,2,0:08,8,8,Foul on Mike Smith.,78,75,3,1,0.9664838633269138,0.9662502423978944,2,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,336,2,0:08,8,8,Matt Morgan made Free Throw.,79,75,4,0,0.988791238313285,0.9887112925767356,2,1,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,337,2,0:08,8,8,Matt Morgan made Free Throw.,80,75,5,0,0.9963081809772246,0.9962816477111814,2,1,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,338,2,0:06,6,6,Gabe Stefanini made Three Point Jumper. Assisted by Lukas Meisner.,80,78,2,2,0.9065322683226411,0.9059288265680565,2,1,0.2,NA,NA,Columbia,made,Gabe Stefanini,Lukas Meisner,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,339,2,0:05,5,5,Cornell  Timeout,80,78,2,1,0.9077414714066934,0.9071486990502441,1,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,340,2,0:03,3,3,Foul on Mike Smith.,80,78,2,2,0.910131811644391,0.9095600412345216,1,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,341,2,0:03,3,3,Matt Morgan made Free Throw.,81,78,3,0,0.9698039502181197,0.9695991517630681,1,1,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+400991618,2018-01-27,Cornell,Columbia,342,2,0:03,3,3,Matt Morgan made Free Throw.,82,78,4,0,0.9902772863927618,0.9902099423642159,1,1,0.2,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Columbia
+400991618,2018-01-27,Cornell,Columbia,343,2,0:01,1,1,Gabe Stefanini made Three Point Jumper. Assisted by Mike Smith.,82,81,1,2,0.7641573532416963,0.762914625658515,1,1,0.2,NA,NA,Columbia,made,Gabe Stefanini,Mike Smith,TRUE,FALSE,Columbia,Cornell
+400991618,2018-01-27,Cornell,Columbia,344,2,0:00,0,0,End of Game,82,82,0,1,0.9999999979529848,0.9999999979388464,1,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
