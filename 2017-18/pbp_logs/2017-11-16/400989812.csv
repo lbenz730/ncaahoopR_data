@@ -1,0 +1,324 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400989812,2017-11-16,Hofstra,Dayton,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.48796999538635166,0.5,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,2,1,19:47,2387,2387,Justin Wright-Foreman missed Jumper.,0,0,0,13,0.48798562347661095,0.5,4,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,3,1,19:47,2387,2387,Xeyrius Williams Defensive Rebound.,0,0,0,0,0.48798562347661095,0.5,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,4,1,19:26,2366,2366,Trey Landers missed Jumper.,0,0,0,21,0.48801138643719977,0.5,4,4,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,5,1,19:26,2366,2366,Hofstra Deadball Team Rebound.,0,0,0,0,0.48801138643719977,0.5,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,6,1,19:10,2350,2350,Joel Angus III missed Layup.,0,0,0,16,0.48803145453229574,0.5,4,4,-0.3,NA,NA,Hofstra,missed,Joel Angus III,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,7,1,19:10,2350,2350,Xeyrius Williams Block.,0,0,0,0,0.48803145453229574,0.5,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,8,1,19:08,2348,2348,Rokas Gustys Offensive Rebound.,0,0,0,2,0.4880339902262642,0.5,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,9,1,19:02,2342,2342,Rokas Gustys made Layup. Assisted by Justin Wright-Foreman.,2,0,2,6,0.5333781377130978,0.5452642352579568,4,4,-0.3,NA,NA,Hofstra,made,Rokas Gustys,Justin Wright-Foreman,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,10,1,18:45,2325,2325,Foul on Jalen Ray.,2,0,2,17,0.5337726595188944,0.5456354795997193,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,11,1,18:45,2325,2325,John Crosby made Free Throw.,2,1,1,0,0.5109409963422172,0.5228654589235167,4,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,TRUE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,12,1,18:45,2325,2325,John Crosby made Free Throw.,2,2,0,0,0.4880635928517076,0.5,4,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,13,1,18:25,2305,2305,Justin Wright-Foreman made Three Point Jumper.,5,2,3,20,0.5571483163817406,0.5688708039301624,4,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,14,1,18:07,2287,2287,Xeyrius Williams missed Three Point Jumper.,5,2,3,18,0.557770293499338,0.5694651702425656,4,4,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,15,1,18:07,2287,2287,Trey Landers Offensive Rebound.,5,2,3,0,0.557770293499338,0.5694651702425656,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,16,1,17:50,2270,2270,Josh Cunningham made Dunk. Assisted by Darrell Davis.,5,4,1,17,0.5116314847216026,0.5234807289117777,4,4,-0.3,NA,NA,Dayton,made,Josh Cunningham,Darrell Davis,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,17,1,17:31,2251,2251,Kenny Wormley Turnover.,5,4,1,19,0.5118745310372581,0.5236966134305555,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,18,1,17:30,2250,2250,Darrell Davis Steal.,5,4,1,1,0.5118873810705382,0.5237080166516996,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,19,1,17:30,2250,2250,Foul on Kenny Wormley.,5,4,1,0,0.5118873810705382,0.5237080166516996,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,20,1,17:19,2239,2239,Josh Cunningham missed Jumper.,5,4,1,11,0.512029098433825,0.5238337039162567,4,4,-0.3,NA,NA,Dayton,missed,Josh Cunningham,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,21,1,17:19,2239,2239,Joel Angus III Defensive Rebound.,5,4,1,0,0.512029098433825,0.5238337039162567,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,22,1,17:06,2226,2226,Foul on Trey Landers.,5,4,1,13,0.5121974183827324,0.5239828044121141,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,23,1,16:55,2215,2215,Justin Wright-Foreman made Three Point Jumper.,8,4,4,11,0.5839255835361471,0.5953314058987561,4,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,24,1,16:41,2201,2201,Darrell Davis missed Jumper.,8,4,4,14,0.5845757084807152,0.5959557671447281,4,4,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,25,1,16:41,2201,2201,Joel Angus III Defensive Rebound.,8,4,4,0,0.5845757084807152,0.5959557671447281,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,26,1,16:32,2192,2192,Justin Wright-Foreman Turnover.,8,4,4,9,0.5849947547957246,0.5963580503803333,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,27,1,16:32,2192,2192,Darrell Davis Steal.,8,4,4,0,0.5849947547957246,0.5963580503803333,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,28,1,16:18,2178,2178,John Crosby made Layup.,8,6,2,14,0.5373165876019644,0.5489574292043569,4,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,29,1,16:18,2178,2178,Foul on Kenny Wormley.,8,6,2,0,0.5373165876019644,0.5489574292043569,4,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,30,1,16:18,2178,2178,John Crosby made Free Throw.,8,7,1,0,0.512825895482372,0.5245376688636048,4,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,31,1,15:59,2159,2159,Hofstra  Timeout,8,7,1,19,0.5130774104662903,0.5247588679929944,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,32,1,15:59,2159,2159,Official TV Timeout,8,7,1,0,0.5130774104662903,0.5247588679929944,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,33,1,15:56,2156,2156,Justin Wright-Foreman missed Three Point Jumper.,8,7,1,3,0.5131172990588545,0.5247939107609239,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,34,1,15:56,2156,2156,Joel Angus III Offensive Rebound.,8,7,1,0,0.5131172990588545,0.5247939107609239,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,35,1,15:41,2141,2141,Desure Buie made Three Point Jumper. Assisted by Joel Angus III.,11,7,4,15,0.5873856378952764,0.5986509702384643,3,4,-0.3,NA,NA,Hofstra,made,Desure Buie,Joel Angus III,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,36,1,15:14,2114,2114,John Crosby missed Layup.,11,7,4,27,0.5886674856817894,0.599878953752671,3,4,-0.3,NA,NA,Dayton,missed,John Crosby,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,37,1,15:14,2114,2114,Xeyrius Williams Offensive Rebound.,11,7,4,0,0.5886674856817894,0.599878953752671,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,38,1,14:57,2097,2097,Foul on Josh Cunningham.,11,7,4,17,0.5894813040688819,0.6006581613468843,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,39,1,14:57,2097,2097,Josh Cunningham Turnover.,11,7,4,0,0.5894813040688819,0.6006581613468843,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,40,1,14:48,2088,2088,Foul on Eli Pemberton.,11,7,4,9,0.5899143821207765,0.6010727004726902,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,41,1,14:48,2088,2088,Eli Pemberton Turnover.,11,7,4,0,0.5899143821207765,0.6010727004726902,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,42,1,14:30,2070,2070,Jalen Crutcher Turnover.,11,7,4,18,0.5907853958869703,0.601906192513953,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,43,1,14:18,2058,2058,Foul on Darrell Davis.,11,7,4,12,0.5913698139299555,0.6024652697831662,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,44,1,14:18,2058,2058,Justin Wright-Foreman made Free Throw.,12,7,5,0,0.6162278909358017,0.627074023482335,3,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,45,1,14:18,2058,2058,Kenny Wormley made Free Throw.,13,7,6,0,0.64049307442428,0.6510417710667683,3,4,-0.3,NA,NA,Hofstra,made,Kenny Wormley,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,46,1,13:59,2039,2039,Darrell Davis Turnover.,13,7,6,19,0.6418086811053784,0.6523090994274577,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,47,1,13:47,2027,2027,Joel Angus III made Layup.,15,7,8,12,0.6894996849898037,0.6992389688699615,3,4,-0.3,NA,NA,Hofstra,made,Joel Angus III,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,48,1,13:47,2027,2027,Foul on Matej Svoboda.,15,7,8,0,0.6894996849898037,0.6992389688699615,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,49,1,13:47,2027,2027,Joel Angus III made Free Throw.,16,7,9,0,0.7116150508993401,0.7209414053182165,3,4,-0.3,NA,NA,Hofstra,made,Joel Angus III,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,50,1,13:17,1997,1997,Darrell Davis Turnover.,16,7,9,30,0.7144154604740487,0.7236424179039431,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,51,1,13:08,1988,1988,Desure Buie missed Jumper.,16,7,9,9,0.715261092339369,0.7244578786328278,3,4,-0.3,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,52,1,13:08,1988,1988,John Crosby Defensive Rebound.,16,7,9,0,0.715261092339369,0.7244578786328278,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,53,1,12:52,1972,1972,Matej Svoboda missed Three Point Jumper.,16,7,9,16,0.7167710464487262,0.7259137943441406,3,4,-0.3,NA,NA,Dayton,missed,Matej Svoboda,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,54,1,12:52,1972,1972,Desure Buie Defensive Rebound.,16,7,9,0,0.7167710464487262,0.7259137943441406,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,55,1,12:33,1953,1953,Hunter Sabety Turnover.,16,7,9,19,0.7185755320261364,0.7276534435283193,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,56,1,12:32,1952,1952,Darrell Davis Steal.,16,7,9,1,0.7186708586291517,0.7277453376812145,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,57,1,12:24,1944,1944,John Crosby missed Jumper.,16,7,9,8,0.7194347732433344,0.7284817207122819,3,4,-0.3,NA,NA,Dayton,missed,John Crosby,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,58,1,12:24,1944,1944,Joel Angus III Defensive Rebound.,16,7,9,0,0.7194347732433344,0.7284817207122819,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,59,1,11:54,1914,1914,Joel Angus III made Layup.,18,7,11,30,0.7646598252573558,0.7726679406433703,3,4,-0.3,NA,NA,Hofstra,made,Joel Angus III,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,60,1,11:37,1897,1897,Darrell Davis missed Three Point Jumper.,18,7,11,17,0.7664315638576906,0.7743733772276207,3,4,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,61,1,11:37,1897,1897,Hunter Sabety Defensive Rebound.,18,7,11,0,0.7664315638576906,0.7743733772276207,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,62,1,11:28,1888,1888,Justin Wright-Foreman missed Three Point Jumper.,18,7,11,9,0.7673657102739856,0.7752723475330451,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,63,1,11:28,1888,1888,Kostas Antetokounmpo Defensive Rebound.,18,7,11,0,0.7673657102739856,0.7752723475330451,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,64,1,11:14,1874,1874,Kostas Antetokounmpo missed Layup.,18,7,11,14,0.7688148485061073,0.7766666454870679,3,4,-0.3,NA,NA,Dayton,missed,Kostas Antetokounmpo,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,65,1,11:14,1874,1874,Eli Pemberton Defensive Rebound.,18,7,11,0,0.7688148485061073,0.7766666454870679,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,66,1,10:49,1849,1849,Eli Pemberton missed Jumper.,18,7,11,25,0.7713951628435386,0.77914859432399,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,67,1,10:49,1849,1849,Kostas Antetokounmpo Defensive Rebound.,18,7,11,0,0.7713951628435386,0.77914859432399,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,68,1,10:23,1823,1823,Kostas Antetokounmpo made Layup.,18,9,9,26,0.7309641807481808,0.7395833669263582,3,4,-0.3,NA,NA,Dayton,made,Kostas Antetokounmpo,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,69,1,10:07,1807,1807,Justin Wright-Foreman Turnover.,18,9,9,16,0.7324917247837698,0.7410527397002515,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,70,1,10:07,1807,1807,Official TV Timeout,18,9,9,0,0.7324917247837698,0.7410527397002515,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,71,1,9:50,1790,1790,Trey Landers made Layup. Assisted by Xeyrius Williams.,18,11,7,17,0.6857159899402266,0.6951194262119926,3,4,-0.3,NA,NA,Dayton,made,Trey Landers,Xeyrius Williams,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,72,1,9:33,1773,1773,Eli Pemberton missed Layup.,18,11,7,17,0.6871341533296575,0.6964821449619643,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,73,1,9:33,1773,1773,Eli Pemberton Offensive Rebound.,18,11,7,0,0.6871341533296575,0.6964821449619643,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,74,1,9:30,1770,1770,Eli Pemberton made Layup.,20,11,9,3,0.736055619869179,0.744480370292847,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,75,1,9:14,1754,1754,Jalen Crutcher missed Three Point Jumper.,20,11,9,16,0.7376152145690523,0.7459802314660261,3,4,-0.3,NA,NA,Dayton,missed,Jalen Crutcher,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,76,1,9:14,1754,1754,Eli Pemberton Defensive Rebound.,20,11,9,0,0.7376152145690523,0.7459802314660261,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,77,1,8:46,1726,1726,Eli Pemberton made Three Point Jumper. Assisted by Matija Radovic.,23,11,12,28,0.8040385719496114,0.8107901689319316,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,Matija Radovic,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,78,1,8:28,1708,1708,Jalen Crutcher missed Jumper.,23,11,12,18,0.8059990071953388,0.8126737125174975,3,4,-0.3,NA,NA,Dayton,missed,Jalen Crutcher,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,79,1,8:28,1708,1708,Rokas Gustys Defensive Rebound.,23,11,12,0,0.8059990071953388,0.8126737125174975,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,80,1,8:18,1698,1698,Eli Pemberton made Three Point Jumper. Assisted by Rokas Gustys.,26,11,15,10,0.8581320604461031,0.8633064067216074,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,Rokas Gustys,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,81,1,8:14,1694,1694,Dayton  Timeout,26,11,15,4,0.858561859080533,0.8637186706418453,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,82,1,8:14,1694,1694,Official TV Timeout,26,11,15,0,0.858561859080533,0.8637186706418453,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,83,1,7:54,1674,1674,Darrell Davis made Layup. Assisted by John Crosby.,26,13,13,20,0.8281368928290075,0.8341628886380352,3,3,-0.3,NA,NA,Dayton,made,Darrell Davis,John Crosby,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,84,1,7:34,1654,1654,Rokas Gustys Turnover.,26,13,13,20,0.8302476428224675,0.8361878850205501,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,85,1,7:21,1641,1641,Xeyrius Williams missed Three Point Jumper.,26,13,13,13,0.831585999826941,0.8374711633542931,3,3,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,86,1,7:21,1641,1641,Justin Wright-Foreman Defensive Rebound.,26,13,13,0,0.831585999826941,0.8374711633542931,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,87,1,7:07,1627,1627,Justin Wright-Foreman made Jumper.,28,13,15,14,0.8653955042575083,0.8702677024550811,3,3,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,88,1,6:51,1611,1611,Josh Cunningham made Jumper.,28,15,13,16,0.8346022307344908,0.8403616710289638,3,3,-0.3,NA,NA,Dayton,made,Josh Cunningham,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,89,1,6:34,1594,1594,Justin Wright-Foreman missed Layup.,28,15,13,17,0.8362830426324784,0.8419717477799592,3,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,90,1,6:34,1594,1594,Trey Landers Defensive Rebound.,28,15,13,0,0.8362830426324784,0.8419717477799592,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,91,1,6:26,1586,1586,Trey Landers missed Three Point Jumper.,28,15,13,8,0.8370705486208493,0.8427260162134509,3,3,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,92,1,6:26,1586,1586,Hofstra Defensive Rebound.,28,15,13,0,0.8370705486208493,0.8427260162134509,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,93,1,6:23,1583,1583,Foul on Josh Cunningham.,28,15,13,3,0.8373655891740013,0.8430085945086273,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,94,1,6:11,1571,1571,Rokas Gustys Turnover.,28,15,13,12,0.8385455624278417,0.8441387007417078,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,95,1,6:07,1567,1567,Darrell Davis missed Layup.,28,15,13,4,0.8389391982805372,0.8445156997577606,3,3,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,96,1,6:07,1567,1567,Matija Radovic Block.,28,15,13,0,0.8389391982805372,0.8445156997577606,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,97,1,6:06,1566,1566,John Crosby Offensive Rebound.,28,15,13,1,0.839037657772027,0.8446099983469836,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,98,1,5:58,1558,1558,Kostas Antetokounmpo missed Three Point Jumper.,28,15,13,8,0.8398263460741605,0.8453653689563347,3,3,-0.3,NA,NA,Dayton,missed,Kostas Antetokounmpo,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,99,1,5:58,1558,1558,Rokas Gustys Defensive Rebound.,28,15,13,0,0.8398263460741605,0.8453653689563347,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,100,1,5:43,1543,1543,Eli Pemberton missed Layup.,28,15,13,15,0.8413124694014443,0.8467888224779676,3,3,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,101,1,5:43,1543,1543,Kostas Antetokounmpo Defensive Rebound.,28,15,13,0,0.8413124694014443,0.8467888224779676,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,102,1,5:26,1526,1526,Kostas Antetokounmpo missed Layup.,28,15,13,17,0.8430146816330171,0.8484195585261363,3,3,-0.3,NA,NA,Dayton,missed,Kostas Antetokounmpo,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,103,1,5:26,1526,1526,Trey Landers Offensive Rebound.,28,15,13,0,0.8430146816330171,0.8484195585261363,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,104,1,5:22,1522,1522,Trey Landers made Layup.,28,17,11,4,0.8050972780526952,0.8115091999975996,3,3,-0.3,NA,NA,Dayton,made,Trey Landers,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,105,1,5:04,1504,1504,Matija Radovic missed Three Point Jumper.,28,17,11,18,0.8069541120949507,0.8132898635589234,3,3,-0.3,NA,NA,Hofstra,missed,Matija Radovic,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,106,1,5:04,1504,1504,Kostas Antetokounmpo Defensive Rebound.,28,17,11,0,0.8069541120949507,0.8132898635589234,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,107,1,4:55,1495,1495,Darrell Davis made Three Point Jumper.,28,20,8,9,0.7375862271146677,0.745462272801527,3,3,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,108,1,4:29,1469,1469,Eli Pemberton missed Jumper.,28,20,8,26,0.7401534865787806,0.7479264306801865,3,3,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,109,1,4:29,1469,1469,Kostas Antetokounmpo Defensive Rebound.,28,20,8,0,0.7401534865787806,0.7479264306801865,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,110,1,4:22,1462,1462,John Crosby missed Jumper.,28,20,8,7,0.7408668275219792,0.7486116538468703,3,3,-0.3,NA,NA,Dayton,missed,John Crosby,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,111,1,4:22,1462,1462,Matija Radovic Defensive Rebound.,28,20,8,0,0.7408668275219792,0.7486116538468703,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,112,1,3:55,1435,1435,Justin Wright-Foreman missed Jumper.,28,20,8,27,0.7436650979272597,0.7513006715707709,3,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,113,1,3:55,1435,1435,Darrell Davis Defensive Rebound.,28,20,8,0,0.7436650979272597,0.7513006715707709,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,114,1,3:47,1427,1427,Darrell Davis missed Layup.,28,20,8,8,0.7444713460532479,0.7520748320281032,3,3,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,115,1,3:47,1427,1427,Kostas Antetokounmpo Offensive Rebound.,28,20,8,0,0.7444713460532479,0.7520748320281032,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,116,1,3:45,1425,1425,Kostas Antetokounmpo made Dunk.,28,22,6,2,0.6884118363654275,0.6969999439558157,3,3,-0.3,NA,NA,Dayton,made,Kostas Antetokounmpo,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,117,1,3:43,1423,1423,Hofstra  Timeout,28,22,6,2,0.688581216967759,0.6971621312120259,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,118,1,3:43,1423,1423,Official TV Timeout,28,22,6,0,0.688581216967759,0.6971621312120259,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,119,1,3:29,1409,1409,Joel Angus III missed Jumper.,28,22,6,14,0.6897517612278478,0.6982823663715125,2,3,-0.3,NA,NA,Hofstra,missed,Joel Angus III,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,120,1,3:29,1409,1409,John Crosby Defensive Rebound.,28,22,6,0,0.6897517612278478,0.6982823663715125,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,121,1,3:00,1380,1380,Trey Landers missed Jumper.,28,22,6,29,0.6921161715590157,0.7005425767721605,2,3,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,122,1,3:00,1380,1380,Rokas Gustys Defensive Rebound.,28,22,6,0,0.6921161715590157,0.7005425767721605,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,123,1,2:43,1363,1363,Justin Wright-Foreman missed Three Point Jumper.,28,22,6,17,0.6934841888150224,0.7018493209610519,2,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,124,1,2:43,1363,1363,Xeyrius Williams Defensive Rebound.,28,22,6,0,0.6934841888150224,0.7018493209610519,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,125,1,2:23,1343,1343,Darrell Davis made Three Point Jumper. Assisted by John Crosby.,28,25,3,20,0.5968390693442834,0.6062904501005647,2,3,-0.3,NA,NA,Dayton,made,Darrell Davis,John Crosby,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,126,1,2:22,1342,1342,Foul on Joel Angus III.,28,25,3,1,0.5968864570742155,0.6063347433488201,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,127,1,2:22,1342,1342,Darrell Davis missed Free Throw.,28,25,3,0,0.5968864570742155,0.6063347433488201,2,3,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,128,1,2:22,1342,1342,Rokas Gustys Defensive Rebound.,28,25,3,0,0.5968864570742155,0.6063347433488201,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,129,1,1:55,1315,1315,Eli Pemberton made Layup.,30,25,5,27,0.6658017295904567,0.6744478030621215,2,3,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,130,1,1:33,1293,1293,Xeyrius Williams made Three Point Jumper. Assisted by Kostas Antetokounmpo.,30,28,2,22,0.5634968360434958,0.573030700363952,2,3,-0.3,NA,NA,Dayton,made,Xeyrius Williams,Kostas Antetokounmpo,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,131,1,1:11,1271,1271,Foul on Trey Landers.,30,28,2,22,0.5643030630378291,0.5737706367643391,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,132,1,1:11,1271,1271,Eli Pemberton made Free Throw.,31,28,3,0,0.6004332416714302,0.6096587872327833,2,3,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,133,1,1:11,1271,1271,Eli Pemberton made Free Throw.,32,28,4,0,0.6355025774702542,0.6443979570839865,2,3,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,134,1,0:54,1254,1254,Xeyrius Williams missed Three Point Jumper.,32,28,4,17,0.636688750117069,0.6455264967498696,2,3,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,135,1,0:54,1254,1254,Justin Wright-Foreman Defensive Rebound.,32,28,4,0,0.636688750117069,0.6455264967498696,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,136,1,0:44,1244,1244,Foul on Kostas Antetokounmpo.,32,28,4,10,0.6374135692219158,0.6462171611771078,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,137,1,0:44,1244,1244,Justin Wright-Foreman made Free Throw.,33,28,5,0,0.6714540543907851,0.6798462713452169,2,3,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,138,1,0:44,1244,1244,Justin Wright-Foreman made Free Throw.,34,28,6,0,0.7037838767942195,0.7117048489926061,2,3,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,139,1,0:30,1230,1230,Darrell Davis made Layup.,34,30,4,14,0.638466015854436,0.6472214616941595,2,3,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,140,1,0:30,1230,1230,Foul on Rokas Gustys.,34,30,4,0,0.638466015854436,0.6472214616941595,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,141,1,0:30,1230,1230,Darrell Davis made Free Throw.,34,31,3,0,0.6027652481938156,0.6118596742321429,2,3,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,142,1,0:04,1204,1204,Desure Buie made Jumper.,36,31,5,26,0.6751598326955314,0.6834028749657598,2,3,-0.3,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,143,1,0:00,1200,1200,End of 1st half,36,31,5,4,0.6755415641987395,0.6837696278036713,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,NA
+400989812,2017-11-16,Hofstra,Dayton,144,2,20:00,1200,1200,PLAY,36,31,5,0,0.6755415641987395,0.6837696278036713,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,145,2,19:47,1187,1187,Justin Wright-Foreman missed Three Point Jumper.,36,31,5,13,0.6767611325512901,0.684940948372053,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,146,2,19:47,1187,1187,Trey Landers Defensive Rebound.,36,31,5,0,0.6767611325512901,0.684940948372053,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,147,2,19:17,1157,1157,Darrell Davis made Layup.,36,33,3,30,0.6072854815799459,0.6161468403088822,3,4,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,148,2,19:04,1144,1144,Joel Angus III missed Jumper.,36,33,3,13,0.6080591371954409,0.6168797784940792,3,4,-0.3,NA,NA,Hofstra,missed,Joel Angus III,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,149,2,19:04,1144,1144,Josh Cunningham Defensive Rebound.,36,33,3,0,0.6080591371954409,0.6168797784940792,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,150,2,18:34,1114,1114,Trey Landers missed Jumper.,36,33,3,30,0.6098424942788787,0.618569372780537,3,4,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,151,2,18:34,1114,1114,Rokas Gustys Block.,36,33,3,0,0.6098424942788787,0.618569372780537,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,152,2,18:33,1113,1113,Rokas Gustys Defensive Rebound.,36,33,3,1,0.6099023386118412,0.6186260885054592,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,153,2,18:25,1105,1105,Kenny Wormley missed Layup.,36,33,3,8,0.6103829382071726,0.6190816353442952,3,4,-0.3,NA,NA,Hofstra,missed,Kenny Wormley,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,154,2,18:25,1105,1105,Joel Angus III Offensive Rebound.,36,33,3,0,0.6103829382071726,0.6190816353442952,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,155,2,18:22,1102,1102,Joel Angus III made Layup.,38,33,5,3,0.6843721246746135,0.6922446642668082,3,4,-0.3,NA,NA,Hofstra,made,Joel Angus III,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,156,2,18:07,1087,1087,John Crosby made Jumper.,38,35,3,15,0.611480396777382,0.6201224954944858,3,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,157,2,17:58,1078,1078,Foul on Josh Cunningham.,38,35,3,9,0.6120402558934489,0.6206538859700262,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,158,2,17:58,1078,1078,Eli Pemberton made Free Throw.,39,35,4,0,0.6502196089589156,0.6584585995389034,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,159,2,17:58,1078,1078,Eli Pemberton missed Free Throw.,39,35,4,0,0.6502196089589156,0.6584585995389034,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,160,2,17:58,1078,1078,Hofstra Deadball Team Rebound.,39,35,4,0,0.6502196089589156,0.6584585995389034,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,161,2,17:58,1078,1078,Eli Pemberton made Free Throw.,40,35,5,0,0.6865658493463904,0.6943511528560034,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,162,2,17:44,1064,1064,Josh Cunningham made Dunk. Assisted by Trey Landers.,40,37,3,14,0.6129301751006611,0.6214992181221736,3,4,-0.3,NA,NA,Dayton,made,Josh Cunningham,Trey Landers,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,163,2,17:15,1035,1035,Eli Pemberton made Jumper.,42,37,5,29,0.6907577927100456,0.6983821188451897,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,164,2,16:56,1016,1016,Foul on Rokas Gustys.,42,37,5,19,0.6927645513059786,0.7003148825895087,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,165,2,16:56,1016,1016,Josh Cunningham missed Free Throw.,42,37,5,0,0.6927645513059786,0.7003148825895087,3,4,-0.3,NA,NA,Dayton,missed,Josh Cunningham,NA,FALSE,TRUE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,166,2,16:56,1016,1016,Dayton Deadball Team Rebound.,42,37,5,0,0.6927645513059786,0.7003148825895087,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,167,2,16:56,1016,1016,Josh Cunningham made Free Throw.,42,38,4,0,0.6555027184426575,0.6635240000594783,3,4,-0.3,NA,NA,Dayton,made,Josh Cunningham,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,168,2,16:42,1002,1002,Justin Wright-Foreman made Jumper.,44,38,6,14,0.7294007247837335,0.7363615834689179,3,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,169,2,16:27,987,987,John Crosby Turnover.,44,38,6,15,0.7313431848034007,0.7382377514627309,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,170,2,16:26,986,986,Eli Pemberton Steal.,44,38,6,1,0.7314761668913867,0.7383662421456677,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,171,2,16:24,984,984,Eli Pemberton made Three Point Jumper. Assisted by Kenny Wormley.,47,38,9,2,0.8209654622579038,0.8261017811933852,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,Kenny Wormley,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,172,2,16:04,964,964,Darrell Davis made Three Point Jumper. Assisted by John Crosby.,47,41,6,20,0.7344962857894277,0.7412856705173292,3,4,-0.3,NA,NA,Dayton,made,Darrell Davis,John Crosby,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,173,2,15:41,941,941,Kenny Wormley missed Jumper.,47,41,6,23,0.7374202431467047,0.7441109003578963,3,4,-0.3,NA,NA,Hofstra,missed,Kenny Wormley,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,174,2,15:41,941,941,John Crosby Defensive Rebound.,47,41,6,0,0.7374202431467047,0.7441109003578963,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,175,2,15:34,934,934,Foul on Eli Pemberton.,47,41,6,7,0.7382426884881172,0.7449051099293393,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,176,2,15:34,934,934,Official TV Timeout,47,41,6,0,0.7382426884881172,0.7449051099293393,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,177,2,15:34,934,934,John Crosby made Free Throw.,47,42,5,0,0.7022951699008477,0.7095125283609721,3,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,TRUE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,178,2,15:34,934,934,John Crosby made Free Throw.,47,43,4,0,0.6636600747197251,0.6713757941840696,3,4,-0.3,NA,NA,Dayton,made,John Crosby,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,179,2,15:17,917,917,Kenny Wormley made Layup.,49,43,6,17,0.7401405590830109,0.7467371442127858,3,4,-0.3,NA,NA,Hofstra,made,Kenny Wormley,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,180,2,14:59,899,899,John Crosby missed Jumper.,49,43,6,18,0.7420391157080537,0.7485691472553773,3,4,-0.3,NA,NA,Dayton,missed,John Crosby,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,181,2,14:59,899,899,Rokas Gustys Defensive Rebound.,49,43,6,0,0.7420391157080537,0.7485691472553773,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,182,2,14:52,892,892,Justin Wright-Foreman missed Three Point Jumper.,49,43,6,7,0.7427583162662416,0.7492630477372121,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,183,2,14:52,892,892,Rokas Gustys Offensive Rebound.,49,43,6,0,0.7427583162662416,0.7492630477372121,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,184,2,14:47,887,887,Foul on Trey Landers.,49,43,6,5,0.7432683008853401,0.7497550888065571,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,185,2,14:47,887,887,Rokas Gustys made Free Throw.,50,43,7,0,0.7765910488327133,0.7824822772492528,3,4,-0.3,NA,NA,Hofstra,made,Rokas Gustys,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,186,2,14:47,887,887,Rokas Gustys missed Free Throw.,50,43,7,0,0.7765910488327133,0.7824822772492528,3,4,-0.3,NA,NA,Hofstra,missed,Rokas Gustys,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,187,2,14:47,887,887,Xeyrius Williams Defensive Rebound.,50,43,7,0,0.7765910488327133,0.7824822772492528,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,188,2,14:36,876,876,Kostas Antetokounmpo made Jumper. Assisted by Xeyrius Williams.,50,45,5,11,0.7078667355408592,0.7148825842845851,3,4,-0.3,NA,NA,Dayton,made,Kostas Antetokounmpo,Xeyrius Williams,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,189,2,14:29,869,869,Eli Pemberton missed Three Point Jumper.,50,45,5,7,0.7085142786506612,0.7155066811593203,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,TRUE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,190,2,14:29,869,869,Hofstra Offensive Rebound.,50,45,5,0,0.7085142786506612,0.7155066811593203,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,191,2,14:24,864,864,Justin Wright-Foreman made Three Point Jumper. Assisted by Kenny Wormley.,53,45,8,5,0.809246795239371,0.8144480591911482,3,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,Kenny Wormley,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,192,2,13:58,838,838,Xeyrius Williams missed Three Point Jumper.,53,45,8,26,0.8122006129050051,0.8173006669048773,3,4,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,193,2,13:58,838,838,Eli Pemberton Defensive Rebound.,53,45,8,0,0.8122006129050051,0.8173006669048773,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,194,2,13:28,808,808,Kostas Antetokounmpo Block.,53,45,8,30,0.8159368350193673,0.8209119366747984,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,195,2,13:28,808,808,Justin Wright-Foreman missed Three Point Jumper.,53,45,8,0,0.8159368350193673,0.8209119366747984,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,196,2,13:28,808,808,Darrell Davis Defensive Rebound.,53,45,8,0,0.8159368350193673,0.8209119366747984,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,197,2,13:21,801,801,Kostas Antetokounmpo made Layup. Assisted by Darrell Davis.,53,47,6,7,0.752721525635379,0.7588865417172851,3,4,-0.3,NA,NA,Dayton,made,Kostas Antetokounmpo,Darrell Davis,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,198,2,12:57,777,777,Eli Pemberton missed Jumper.,53,47,6,24,0.7560344648653837,0.7620937603010234,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,199,2,12:57,777,777,Xeyrius Williams Defensive Rebound.,53,47,6,0,0.7560344648653837,0.7620937603010234,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,200,2,12:53,773,773,Trey Landers made Layup. Assisted by Jalen Crutcher.,53,49,4,4,0.6781268661926543,0.6853055350377721,3,4,-0.3,NA,NA,Dayton,made,Trey Landers,Jalen Crutcher,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,201,2,12:17,737,737,Foul on Jalen Crutcher.,53,49,4,36,0.6830049967787367,0.6900264768726121,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,202,2,12:17,737,737,Eli Pemberton made Free Throw.,54,49,5,0,0.7246562197019087,0.7311183160943175,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,203,2,12:17,737,737,Eli Pemberton made Free Throw.,55,49,6,0,0.7627358521756198,0.7685896422380765,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,204,2,12:17,737,737,Eli Pemberton missed Free Throw.,55,49,6,0,0.7627358521756198,0.7685896422380765,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,205,2,12:17,737,737,Kostas Antetokounmpo Defensive Rebound.,55,49,6,0,0.7627358521756198,0.7685896422380765,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,206,2,12:01,721,721,Xeyrius Williams made Layup.,55,51,4,16,0.6854722861366185,0.692416388283771,3,4,-0.3,NA,NA,Dayton,made,Xeyrius Williams,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,207,2,12:01,721,721,Foul on Joel Angus III.,55,51,4,0,0.6854722861366185,0.692416388283771,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,208,2,12:01,721,721,Xeyrius Williams missed Free Throw.,55,51,4,0,0.6854722861366185,0.692416388283771,3,4,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,209,2,12:01,721,721,Hunter Sabety Defensive Rebound.,55,51,4,0,0.6854722861366185,0.692416388283771,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,210,2,11:50,710,710,Justin Wright-Foreman missed Layup.,55,51,4,11,0.687037551819162,0.6939308063536163,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,211,2,11:50,710,710,Kostas Antetokounmpo Block.,55,51,4,0,0.687037551819162,0.6939308063536163,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,212,2,11:50,710,710,Hofstra Offensive Rebound.,55,51,4,0,0.687037551819162,0.6939308063536163,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,213,2,11:50,710,710,Official TV Timeout,55,51,4,0,0.687037551819162,0.6939308063536163,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,214,2,11:39,699,699,Hunter Sabety missed Layup.,55,51,4,11,0.6884941774538904,0.6953386016358618,3,4,-0.3,NA,NA,Hofstra,missed,Hunter Sabety,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,215,2,11:39,699,699,Josh Cunningham Block.,55,51,4,0,0.6884941774538904,0.6953386016358618,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,216,2,11:38,698,698,Dayton Defensive Rebound.,55,51,4,1,0.6886221144641169,0.6954621820661493,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,217,2,11:09,669,669,Matej Svoboda missed Three Point Jumper.,55,51,4,29,0.6921225285818098,0.6988399827632715,3,4,-0.3,NA,NA,Dayton,missed,Matej Svoboda,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,218,2,11:09,669,669,Hunter Sabety Defensive Rebound.,55,51,4,0,0.6921225285818098,0.6988399827632715,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,219,2,11:01,661,661,Eli Pemberton made Layup. Assisted by Desure Buie.,57,51,6,8,0.7751203555007192,0.7805832081008186,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,Desure Buie,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,220,2,10:43,643,643,Matej Svoboda missed Layup.,57,51,6,18,0.7776978825845093,0.7830756286623135,3,4,-0.3,NA,NA,Dayton,missed,Matej Svoboda,NA,FALSE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,221,2,10:43,643,643,Josh Cunningham Offensive Rebound.,57,51,6,0,0.7776978825845093,0.7830756286623135,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,222,2,10:40,640,640,Josh Cunningham missed Layup.,57,51,6,3,0.7781374833709644,0.7835008057311627,3,4,-0.3,NA,NA,Dayton,missed,Josh Cunningham,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,223,2,10:40,640,640,Desure Buie Defensive Rebound.,57,51,6,0,0.7781374833709644,0.7835008057311627,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,224,2,10:23,623,623,Hunter Sabety made Dunk. Assisted by Desure Buie.,59,51,8,17,0.8460052874891115,0.8500148391476893,3,4,-0.3,NA,NA,Hofstra,made,Hunter Sabety,Desure Buie,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,225,2,10:11,611,611,Foul on Hunter Sabety.,59,51,8,12,0.8479975692844657,0.8519431393887886,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,226,2,10:11,611,611,Trey Landers missed Free Throw.,59,51,8,0,0.8479975692844657,0.8519431393887886,3,4,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,FALSE,TRUE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,227,2,10:11,611,611,Dayton Deadball Team Rebound.,59,51,8,0,0.8479975692844657,0.8519431393887886,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,228,2,10:11,611,611,Trey Landers made Free Throw.,59,52,7,0,0.8176103928224873,0.8221793308144576,3,4,-0.3,NA,NA,Dayton,made,Trey Landers,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,229,2,9:57,597,597,Justin Wright-Foreman missed Three Point Jumper.,59,52,7,14,0.8201689542025882,0.8246580814872377,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,230,2,9:57,597,597,Matija Radovic Offensive Rebound.,59,52,7,0,0.8201689542025882,0.8246580814872377,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,231,2,9:56,596,596,Foul on Josh Cunningham.,59,52,7,1,0.8203614836920672,0.8248446754252184,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,232,2,9:37,577,577,Foul on Matej Svoboda.,59,52,7,19,0.8243077028397207,0.8286711917895524,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,233,2,9:19,559,559,Matija Radovic missed Three Point Jumper.,59,52,7,18,0.8286240876518681,0.8328602570682518,3,4,-0.3,NA,NA,Hofstra,missed,Matija Radovic,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,234,2,9:19,559,559,Kostas Antetokounmpo Block.,59,52,7,0,0.8286240876518681,0.8328602570682518,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,235,2,9:17,557,557,Kostas Antetokounmpo Defensive Rebound.,59,52,7,2,0.8291425231745032,0.833363608473506,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,236,2,9:14,554,554,Matej Svoboda made Layup. Assisted by Kostas Antetokounmpo.,59,54,5,3,0.7546709961357445,0.760190161871823,3,4,-0.3,NA,NA,Dayton,made,Matej Svoboda,Kostas Antetokounmpo,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,237,2,8:52,532,532,Justin Wright-Foreman missed Jumper.,59,54,5,22,0.7598922860090951,0.7652609181814243,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,238,2,8:52,532,532,Matija Radovic Offensive Rebound.,59,54,5,0,0.7598922860090951,0.7652609181814243,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,239,2,8:31,511,511,Justin Wright-Foreman missed Layup.,59,54,5,21,0.763974942491085,0.7692174065823691,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,240,2,8:31,511,511,Jalen Crutcher Defensive Rebound.,59,54,5,0,0.763974942491085,0.7692174065823691,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,241,2,8:25,505,505,Foul on Jalen Crutcher.,59,54,5,6,0.7650699280806988,0.7702777049175831,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,242,2,8:25,505,505,Jalen Crutcher Turnover.,59,54,5,0,0.7650699280806988,0.7702777049175831,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,243,2,8:12,492,492,Matija Radovic made Three Point Jumper. Assisted by Rokas Gustys.,62,54,8,13,0.8729999192862393,0.8761786398071275,3,4,-0.3,NA,NA,Hofstra,made,Matija Radovic,Rokas Gustys,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,244,2,7:53,473,473,Xeyrius Williams made Jumper. Assisted by Matej Svoboda.,62,56,6,19,0.8121401355205415,0.8164724790502806,3,4,-0.3,NA,NA,Dayton,made,Xeyrius Williams,Matej Svoboda,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,245,2,7:30,450,450,Kenny Wormley missed Jumper.,62,56,6,23,0.8179237027779813,0.8220883162290938,3,4,-0.3,NA,NA,Hofstra,missed,Kenny Wormley,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,246,2,7:30,450,450,Kostas Antetokounmpo Defensive Rebound.,62,56,6,0,0.8179237027779813,0.8220883162290938,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,247,2,7:28,448,448,Foul on Rokas Gustys.,62,56,6,2,0.8185042048665522,0.8226525446776337,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,248,2,7:28,448,448,Official TV Timeout,62,56,6,0,0.8185042048665522,0.8226525446776337,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,249,2,7:11,431,431,Xeyrius Williams made Jumper. Assisted by Jalen Crutcher.,62,58,4,17,0.7350036255509939,0.7403856413158084,3,4,-0.3,NA,NA,Dayton,made,Xeyrius Williams,Jalen Crutcher,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,250,2,6:48,408,408,Matija Radovic missed Three Point Jumper.,62,58,4,23,0.7420646895359769,0.747250566450897,3,4,-0.3,NA,NA,Hofstra,missed,Matija Radovic,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,251,2,6:48,408,408,Darrell Davis Defensive Rebound.,62,58,4,0,0.7420646895359769,0.747250566450897,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,252,2,6:36,396,396,Jalen Crutcher missed Three Point Jumper.,62,58,4,12,0.7454631939194789,0.7505477406746831,3,4,-0.3,NA,NA,Dayton,missed,Jalen Crutcher,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,253,2,6:36,396,396,Hofstra Defensive Rebound.,62,58,4,0,0.7454631939194789,0.7505477406746831,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,254,2,6:13,373,373,Justin Wright-Foreman made Jumper.,64,58,6,23,0.8425584480080727,0.8460250564002582,3,4,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,255,2,6:01,361,361,Kostas Antetokounmpo made Dunk. Assisted by Matej Svoboda.,64,60,4,12,0.7557261340334063,0.7605008307198514,3,4,-0.3,NA,NA,Dayton,made,Kostas Antetokounmpo,Matej Svoboda,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,256,2,5:46,346,346,Matija Radovic missed Three Point Jumper.,64,60,4,15,0.7608409199795667,0.7654693247894092,3,4,-0.3,NA,NA,Hofstra,missed,Matija Radovic,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,257,2,5:46,346,346,Darrell Davis Defensive Rebound.,64,60,4,0,0.7608409199795667,0.7654693247894092,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,258,2,5:37,337,337,Darrell Davis Turnover.,64,60,4,9,0.7642575454165279,0.768792513200443,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,259,2,5:37,337,337,Foul on Matej Svoboda.,64,60,4,0,0.7642575454165279,0.768792513200443,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,260,2,5:37,337,337,Eli Pemberton made Free Throw.,65,60,5,0,0.8140495988720725,0.8178550021989334,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,261,2,5:37,337,337,Eli Pemberton made Free Throw.,66,60,6,0,0.8553158492307864,0.8584236264685632,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,262,2,5:24,324,324,Darrell Davis missed Jumper.,66,60,6,13,0.8609128084129719,0.8638729292839439,3,4,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,263,2,5:24,324,324,Matija Radovic Defensive Rebound.,66,60,6,0,0.8609128084129719,0.8638729292839439,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,264,2,5:15,315,315,Foul on Matej Svoboda.,66,60,6,9,0.8651799783933438,0.8680309547512741,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,265,2,5:15,315,315,Matija Radovic missed Free Throw.,66,60,6,0,0.8651799783933438,0.8680309547512741,3,4,-0.3,NA,NA,Hofstra,missed,Matija Radovic,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,266,2,5:15,315,315,Jalen Crutcher Defensive Rebound.,66,60,6,0,0.8651799783933438,0.8680309547512741,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,267,2,5:06,306,306,Foul on Kenny Wormley.,66,60,6,9,0.8695097226498478,0.8722507377364406,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,268,2,4:56,296,296,Xeyrius Williams missed Three Point Jumper.,66,60,6,10,0.8721589537159113,0.8748177548838224,3,4,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,269,2,4:56,296,296,Eli Pemberton Defensive Rebound.,66,60,6,0,0.8721589537159113,0.8748177548838224,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,270,2,4:41,281,281,Matija Radovic Turnover.,66,60,6,15,0.8723942062233949,0.8749974125456466,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,271,2,4:40,280,280,Kostas Antetokounmpo Steal.,66,60,6,1,0.8722946031497143,0.8748961187015603,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,272,2,4:35,275,275,Jalen Crutcher made Three Point Jumper. Assisted by Darrell Davis.,66,63,3,5,0.7203265786471583,0.7250167587926902,3,4,-0.3,NA,NA,Dayton,made,Jalen Crutcher,Darrell Davis,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,273,2,4:03,243,243,Eli Pemberton missed Layup.,66,63,3,32,0.7153902530389122,0.7199225997274914,3,4,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,274,2,4:03,243,243,Kostas Antetokounmpo Block.,66,63,3,0,0.7153902530389122,0.7199225997274914,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,275,2,4:01,241,241,Justin Wright-Foreman Offensive Rebound.,66,63,3,2,0.7152556169427164,0.7197756813080403,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,276,2,3:59,239,239,Justin Wright-Foreman missed Three Point Jumper.,66,63,3,2,0.7151685616163412,0.7196757886054038,3,4,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,277,2,3:59,239,239,Dayton Defensive Rebound.,66,63,3,0,0.7151685616163412,0.7196757886054038,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,278,2,3:58,238,238,Official TV Timeout,66,63,3,1,0.7151442895206862,0.7196448763710123,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,279,2,3:42,222,222,Trey Landers made Layup.,66,65,1,16,0.5733232537539446,0.5786074937892213,3,4,-0.3,NA,NA,Dayton,made,Trey Landers,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,280,2,3:16,196,196,Kenny Wormley missed Layup.,66,65,1,26,0.5800138794159154,0.5850316587868543,3,4,-0.3,NA,NA,Hofstra,missed,Kenny Wormley,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,281,2,3:16,196,196,Kostas Antetokounmpo Defensive Rebound.,66,65,1,0,0.5800138794159154,0.5850316587868543,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,282,2,3:09,189,189,Xeyrius Williams missed Three Point Jumper.,66,65,1,7,0.5833512266013215,0.5882863692003497,3,4,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,283,2,3:09,189,189,Hofstra Defensive Rebound.,66,65,1,0,0.5833512266013215,0.5882863692003497,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,284,2,3:06,186,186,Foul on Kostas Antetokounmpo.,66,65,1,3,0.5849030735909004,0.5898017869835747,3,4,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,285,2,3:06,186,186,Eli Pemberton made Free Throw.,67,65,2,0,0.6695344348281194,0.6739910669078389,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,286,2,3:06,186,186,Eli Pemberton made Free Throw.,68,65,3,0,0.7444497270259496,0.7482758994401683,3,4,-0.3,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,287,2,2:58,178,178,Dayton  Timeout,68,65,3,8,0.7540127138245003,0.7576790157223324,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,288,2,2:44,164,164,Darrell Davis made Three Point Jumper.,68,68,0,14,0.4951873634268085,0.5,3,3,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,289,2,2:25,145,145,Justin Wright-Foreman missed Three Point Jumper.,68,68,0,19,0.4954039092484905,0.5,3,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,TRUE,FALSE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,290,2,2:25,145,145,Rokas Gustys Offensive Rebound.,68,68,0,0,0.4954039092484905,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,291,2,2:18,138,138,Eli Pemberton missed Jumper.,68,68,0,7,0.4954861601658843,0.5,3,3,-0.3,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,292,2,2:18,138,138,Xeyrius Williams Defensive Rebound.,68,68,0,0,0.4954861601658843,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,293,2,2:03,123,123,Foul on Eli Pemberton.,68,68,0,15,0.495667418857936,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,294,2,2:03,123,123,Darrell Davis missed Free Throw.,68,68,0,0,0.495667418857936,0.5,3,3,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,TRUE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,295,2,2:03,123,123,Dayton Deadball Team Rebound.,68,68,0,0,0.495667418857936,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,296,2,2:03,123,123,Darrell Davis made Free Throw.,68,69,-1,0,0.3685262035929486,0.372568434006367,3,3,-0.3,NA,NA,Dayton,made,Darrell Davis,NA,FALSE,TRUE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,297,2,1:52,112,112,Foul on Jalen Crutcher.,68,69,-1,11,0.3598455305767916,0.3637199836437195,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,298,2,1:52,112,112,Justin Wright-Foreman made Free Throw.,69,69,0,0,0.4958050483773432,0.5,3,3,-0.3,NA,NA,Hofstra,made,Justin Wright-Foreman,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,299,2,1:52,112,112,Justin Wright-Foreman missed Free Throw.,69,69,0,0,0.4958050483773432,0.5,3,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,300,2,1:52,112,112,Darrell Davis Defensive Rebound.,69,69,0,0,0.4958050483773432,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,301,2,1:41,101,101,Darrell Davis missed Jumper.,69,69,0,11,0.49594700878530806,0.5,3,3,-0.3,NA,NA,Dayton,missed,Darrell Davis,NA,FALSE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,302,2,1:41,101,101,Rokas Gustys Defensive Rebound.,69,69,0,0,0.49594700878530806,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,303,2,1:40,100,100,Foul on Xeyrius Williams.,69,69,0,1,0.49596013977359027,0.5,3,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,304,2,1:40,100,100,Rokas Gustys made Free Throw.,70,69,1,0,0.6433916879871316,0.6470907199658983,3,3,-0.3,NA,NA,Hofstra,made,Rokas Gustys,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,305,2,1:40,100,100,Rokas Gustys made Free Throw.,71,69,2,0,0.7678821681368082,0.7707499987115125,3,3,-0.3,NA,NA,Hofstra,made,Rokas Gustys,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,306,2,1:40,100,100,Hofstra  Timeout,71,69,2,0,0.7678821681368082,0.7707499987115125,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,307,2,1:13,73,73,Trey Landers missed Three Point Jumper.,71,69,2,27,0.8091237481031084,0.8113832183795121,2,3,-0.3,NA,NA,Dayton,missed,Trey Landers,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,308,2,1:13,73,73,Hofstra Defensive Rebound.,71,69,2,0,0.8091237481031084,0.8113832183795121,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,309,2,0:44,44,44,Justin Wright-Foreman missed Jumper.,71,69,2,29,0.853110600331092,0.8547348038593043,2,3,-0.3,NA,NA,Hofstra,missed,Justin Wright-Foreman,NA,FALSE,FALSE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,310,2,0:44,44,44,Jalen Crutcher Defensive Rebound.,71,69,2,0,0.853110600331092,0.8547348038593043,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,311,2,0:37,37,37,Foul on Xeyrius Williams.,71,69,2,7,0.8633463353113046,0.8648259991000952,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,312,2,0:37,37,37,Xeyrius Williams Turnover.,71,69,2,0,0.8633463353113046,0.8648259991000952,2,3,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,313,2,0:37,37,37,Dayton  Timeout,71,69,2,0,0.8633463353113046,0.8648259991000952,2,2,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,314,2,0:26,26,26,Foul on Darrell Davis.,71,69,2,11,0.8788426624177565,0.8801065737887072,2,2,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,315,2,0:26,26,26,Kenny Wormley missed Free Throw.,71,69,2,0,0.8788426624177565,0.8801065737887072,2,2,-0.3,NA,NA,Hofstra,missed,Kenny Wormley,NA,FALSE,TRUE,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,316,2,0:26,26,26,Hofstra Deadball Team Rebound.,71,69,2,0,0.8788426624177565,0.8801065737887072,2,2,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,317,2,0:26,26,26,Kenny Wormley made Free Throw.,72,69,3,0,0.9515811496303087,0.9521275880889845,2,2,-0.3,NA,NA,Hofstra,made,Kenny Wormley,NA,FALSE,TRUE,Hofstra,Dayton
+400989812,2017-11-16,Hofstra,Dayton,318,2,0:18,18,18,Dayton  Timeout,72,69,3,8,0.9583223641416464,0.9587762315563105,2,1,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,319,2,0:11,11,11,Xeyrius Williams missed Three Point Jumper.,72,69,3,7,0.9637317301203396,0.9641134250897672,2,1,-0.3,NA,NA,Dayton,missed,Xeyrius Williams,NA,TRUE,FALSE,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,320,2,0:11,11,11,Trey Landers Offensive Rebound.,72,69,3,0,0.9637317301203396,0.9641134250897672,2,1,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Dayton
+400989812,2017-11-16,Hofstra,Dayton,321,2,0:02,2,2,Jalen Crutcher missed Three Point Jumper.,72,69,3,9,0.9699350066182272,0.9702365242832658,2,1,-0.3,NA,NA,Dayton,missed,Jalen Crutcher,NA,TRUE,FALSE,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,322,2,0:02,2,2,Joel Angus III Defensive Rebound.,72,69,3,0,0.9699350066182272,0.9702365242832658,2,1,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Dayton,Hofstra
+400989812,2017-11-16,Hofstra,Dayton,323,2,0:00,0,0,End of Game,72,72,0,2,1,1,2,1,-0.3,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,NA
