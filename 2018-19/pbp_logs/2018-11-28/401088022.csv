@@ -1,0 +1,340 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401088022,2018-11-28,Lafayette,Cornell,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.5519519044985438,0.5,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,2,1,19:44,2384,2684,E.J. Stephens made Jumper.,2,0,2,16,0.5953545944800246,0.5443630098696349,4,4,1.3,NA,NA,Lafayette,made,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,3,1,19:26,2366,2666,Matt Morgan missed Layup.,2,0,2,18,0.5956344509808869,0.5447463102877513,4,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,4,1,19:26,2366,2666,Isaac Suffren Block.,2,0,2,0,0.5956344509808869,0.5447463102877513,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,5,1,19:24,2364,2664,Isaac Suffren Defensive Rebound.,2,0,2,2,0.5956656939638959,0.5447891790846144,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,6,1,19:19,2359,2659,Isaac Suffren Turnover.,2,0,2,5,0.5957439220710028,0.5448965882700816,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,7,1,19:12,2352,2652,Terrance McBride Steal.,2,0,2,7,0.5958537193053857,0.5450475200660853,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,8,1,19:05,2345,2645,Steven Julian missed Jumper.,2,0,2,7,0.5959638222580547,0.5451990876043378,4,4,1.3,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,9,1,19:05,2345,2645,Lukas Jarrett Defensive Rebound.,2,0,2,0,0.5959638222580547,0.5451990876043378,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,10,1,18:42,2322,2622,E.J. Stephens made Three Point Jumper. Assisted by Myles Cherry.,5,0,5,23,0.6604189181674943,0.6126090528483839,4,4,1.3,NA,NA,Lafayette,made,E.J. Stephens,Myles Cherry,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,11,1,18:27,2307,2607,Terrance McBride missed Three Point Jumper.,5,0,5,15,0.6610897678577136,0.613400584005684,4,4,1.3,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,12,1,18:27,2307,2607,Myles Cherry Defensive Rebound.,5,0,5,0,0.6610897678577136,0.613400584005684,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,13,1,18:14,2294,2594,Myles Cherry made Layup. Assisted by E.J. Stephens.,7,0,7,13,0.7019454478639058,0.6570909012663833,4,4,1.3,NA,NA,Lafayette,made,Myles Cherry,EJ Stephens,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,14,1,17:56,2276,2576,Josh Warren missed Three Point Jumper.,7,0,7,18,0.7030439075510816,0.658370352318664,4,4,1.3,NA,NA,Cornell,missed,Josh Warren,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,15,1,17:56,2276,2576,E.J. Stephens Defensive Rebound.,7,0,7,0,0.7030439075510816,0.658370352318664,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,16,1,17:43,2263,2563,Justin Jaworski made Layup.,9,0,9,13,0.7415943725983132,0.7003136260485889,4,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,17,1,17:34,2254,2554,Cornell  Timeout,9,0,9,9,0.7422591103177966,0.701087997931819,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,18,1,17:21,2241,2541,Josh Warren Turnover.,9,0,9,13,0.7432204385845144,0.7022088196501434,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,19,1,17:20,2240,2540,Myles Cherry Steal.,9,0,9,1,0.743294432456112,0.7022951368812733,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,20,1,17:04,2224,2524,E.J. Stephens missed Three Point Jumper.,9,0,9,16,0.7444789467129996,0.7036778651272646,3,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,21,1,17:04,2224,2524,Matt Morgan Defensive Rebound.,9,0,9,0,0.7444789467129996,0.7036778651272646,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,22,1,16:43,2203,2503,Terrance McBride made Jumper.,9,2,7,21,0.7075339949308554,0.6636214334265106,3,4,1.3,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,23,1,16:35,2195,2495,Myles Cherry missed Layup.,9,2,7,8,0.7080277018488809,0.6642010880367639,3,4,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,24,1,16:35,2195,2495,Steven Julian Block.,9,2,7,0,0.7080277018488809,0.6642010880367639,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,25,1,16:29,2189,2489,Myles Cherry Offensive Rebound.,9,2,7,6,0.7083979931128106,0.664636161238561,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,26,1,16:27,2187,2487,Myles Cherry made Layup.,11,2,9,2,0.7472190552373189,0.7068835640506084,3,4,1.3,NA,NA,Lafayette,made,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,27,1,16:13,2173,2473,Steven Julian missed Jumper.,11,2,9,14,0.7482546281058353,0.7080978074591385,3,4,1.3,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,28,1,16:13,2173,2473,Myles Cherry Defensive Rebound.,11,2,9,0,0.7482546281058353,0.7080978074591385,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,29,1,16:00,2160,2460,Foul on Matt Morgan.,11,2,9,13,0.7492156267614294,0.7092259304336772,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,30,1,16:00,2160,2460,Official TV Timeout,11,2,9,0,0.7492156267614294,0.7092259304336772,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,31,1,15:38,2138,2438,Lukas Jarrett missed Three Point Jumper.,11,2,9,22,0.7508443754578087,0.7111403868416522,3,4,1.3,NA,NA,Lafayette,missed,Lukas Jarrett,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,32,1,15:38,2138,2438,Isaac Suffren Offensive Rebound.,11,2,9,0,0.7508443754578087,0.7111403868416522,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,33,1,15:23,2123,2423,Myles Cherry made Jumper.,13,2,11,15,0.7876308320659121,0.7519312044667424,3,4,1.3,NA,NA,Lafayette,made,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,34,1,15:10,2110,2410,Jimmy Boeheim missed Three Point Jumper.,13,2,11,13,0.7887033350439039,0.7531972818558442,3,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,35,1,15:10,2110,2410,Myles Cherry Defensive Rebound.,13,2,11,0,0.7887033350439039,0.7531972818558442,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,36,1,15:00,2100,2400,E.J. Stephens missed Jumper.,13,2,11,10,0.7895290816060779,0.7541726911413651,3,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,37,1,15:00,2100,2400,Steven Julian Defensive Rebound.,13,2,11,0,0.7895290816060779,0.7541726911413651,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,38,1,14:49,2089,2389,Matt Morgan Turnover.,13,2,11,11,0.7904382860692779,0.75524728929128,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,39,1,14:47,2087,2387,Myles Cherry Steal.,13,2,11,2,0.7906037055816351,0.7554428666019941,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,40,1,14:19,2059,2359,E.J. Stephens missed Three Point Jumper.,13,2,11,28,0.7929236959071508,0.7581878596533866,3,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,41,1,14:19,2059,2359,Cornell Defensive Rebound.,13,2,11,0,0.7929236959071508,0.7581878596533866,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,42,1,14:12,2052,2352,Foul on Kyle Stout.,13,2,11,7,0.793505043067741,0.7588762742267343,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,43,1,14:01,2041,2341,Terrance McBride missed Jumper.,13,2,11,11,0.7944198258502978,0.7599599676339687,3,4,1.3,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,44,1,14:01,2041,2341,Kyle Stout Defensive Rebound.,13,2,11,0,0.7944198258502978,0.7599599676339687,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,45,1,13:39,2019,2319,Tyrone Perry Turnover.,13,2,11,22,0.7962543820967077,0.7621347766853681,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,46,1,13:29,2009,2309,Joel Davis missed Layup.,13,2,11,10,0.7970906815649541,0.7631268102539747,3,4,1.3,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,47,1,13:29,2009,2309,Kyle Stout Defensive Rebound.,13,2,11,0,0.7970906815649541,0.7631268102539747,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,48,1,13:22,2002,2302,Sean Good Turnover.,13,2,11,7,0.7976770569259309,0.7638225993342087,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,49,1,13:22,2002,2302,Foul on Sean Good.,13,2,11,0,0.7976770569259309,0.7638225993342087,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,50,1,13:01,1981,2281,Jack Gordon missed Three Point Jumper.,13,2,11,21,0.7994412797761048,0.7659170410492052,3,4,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,51,1,13:01,1981,2281,Dylan Hastings Defensive Rebound.,13,2,11,0,0.7994412797761048,0.7659170410492052,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,52,1,12:42,1962,2262,Tyrone Perry Turnover.,13,2,11,19,0.801044574151762,0.7678216631597413,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,53,1,12:39,1959,2259,Joel Davis Steal.,13,2,11,3,0.8012983809651653,0.7681232702873253,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,54,1,12:37,1957,2257,Joel Davis made Dunk.,13,4,9,2,0.7645008139175276,0.7272862048629144,3,4,1.3,NA,NA,Cornell,made,Joel Davis,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,55,1,12:13,1933,2233,Foul on Joel Davis.,13,4,9,24,0.7663637198646513,0.7294978756475099,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,56,1,11:53,1913,2213,Alex Petrie missed Three Point Jumper.,13,4,9,20,0.7679186640935665,0.7313461652015346,3,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,57,1,11:53,1913,2213,Jake Kuhn Defensive Rebound.,13,4,9,0,0.7679186640935665,0.7313461652015346,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,58,1,11:41,1901,2201,Foul on Sean Good.,13,4,9,12,0.76884528354789,0.7324494610185429,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,59,1,11:41,1901,2201,Official TV Timeout,13,4,9,0,0.76884528354789,0.7324494610185429,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,60,1,11:41,1901,2201,Josh Warren made Free Throw.,13,5,8,0,0.7483636576216439,0.7099595158473381,3,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,61,1,11:41,1901,2201,Josh Warren made Free Throw.,13,6,7,0,0.7267123133950062,0.686388536624581,3,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,62,1,11:20,1880,2180,Myles Cherry Turnover.,13,6,7,21,0.7280828732000159,0.6880333115507471,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,63,1,11:20,1880,2180,Foul on Myles Cherry.,13,6,7,0,0.7280828732000159,0.6880333115507471,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,64,1,11:10,1870,2170,Joel Davis missed Three Point Jumper.,13,6,7,10,0.7287338509627626,0.6888157995825358,3,4,1.3,NA,NA,Cornell,missed,Joel Davis,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,65,1,11:10,1870,2170,Dylan Hastings Defensive Rebound.,13,6,7,0,0.7287338509627626,0.6888157995825358,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,66,1,10:55,1855,2155,Dylan Hastings missed Three Point Jumper.,13,6,7,15,0.7297095835898935,0.6899899647557876,3,4,1.3,NA,NA,Lafayette,missed,Dylan Hastings,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,67,1,10:55,1855,2155,Josh Warren Defensive Rebound.,13,6,7,0,0.7297095835898935,0.6899899647557876,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,68,1,10:42,1842,2142,Jimmy Boeheim made Jumper.,13,8,5,13,0.6829773257443014,0.6398899152090476,3,4,1.3,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,69,1,10:11,1811,2111,Alex Petrie Turnover.,13,8,5,31,0.6844982944499192,0.6417741489199523,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,70,1,9:45,1785,2085,Foul on E.J. Stephens.,13,8,5,26,0.6857875301604024,0.643373286315047,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,71,1,9:35,1775,2075,Matt Morgan made Three Point Jumper.,13,11,2,10,0.6051992439800812,0.5589981942113165,3,4,1.3,NA,NA,Cornell,made,Matt Morgan,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,72,1,9:24,1764,2064,E.J. Stephens Turnover.,13,11,2,11,0.6053844990219505,0.5592940335899296,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,73,1,9:13,1753,2053,Jimmy Boeheim missed Jumper.,13,11,2,11,0.6055714744635938,0.5595922914869463,3,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,74,1,9:13,1753,2053,Isaac Suffren Defensive Rebound.,13,11,2,0,0.6055714744635938,0.5595922914869463,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,75,1,9:06,1746,2046,Dylan Hastings made Layup. Assisted by Isaac Suffren.,15,11,4,7,0.6613957224863345,0.6178816242361526,3,4,1.3,NA,NA,Lafayette,made,Dylan Hastings,Isaac Suffren,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,76,1,8:54,1734,2034,Foul on Dylan Hastings.,15,11,4,12,0.6618905233076083,0.6185144253446655,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,77,1,8:54,1734,2034,Josh Warren made Free Throw.,15,12,3,0,0.6343486781051736,0.5896298978570124,3,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,78,1,8:54,1734,2034,Josh Warren missed Free Throw.,15,12,3,0,0.6343486781051736,0.5896298978570124,3,4,1.3,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,79,1,8:54,1734,2034,Myles Cherry Defensive Rebound.,15,12,3,0,0.6343486781051736,0.5896298978570124,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,80,1,8:25,1705,2005,Justin Jaworski made Jumper.,17,12,5,29,0.6898991712252446,0.6484684686668586,3,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,81,1,8:14,1694,1994,Jimmy Boeheim missed Three Point Jumper.,17,12,5,11,0.690488269187343,0.6491963584629329,3,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,82,1,8:14,1694,1994,Isaac Suffren Defensive Rebound.,17,12,5,0,0.690488269187343,0.6491963584629329,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,83,1,7:59,1679,1979,Isaac Suffren missed Layup.,17,12,5,15,0.6912923443859085,0.6501910778888925,3,4,1.3,NA,NA,Lafayette,missed,Isaac Suffren,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,84,1,7:59,1679,1979,E.J. Stephens Offensive Rebound.,17,12,5,0,0.6912923443859085,0.6501910778888925,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,85,1,7:55,1675,1975,E.J. Stephens made Layup.,19,12,7,4,0.7418424275451668,0.7046295090549294,3,4,1.3,NA,NA,Lafayette,made,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,86,1,7:45,1665,1965,Foul on Lukas Jarrett.,19,12,7,10,0.7425265541404028,0.705459082202899,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,87,1,7:45,1665,1965,Official TV Timeout,19,12,7,0,0.7425265541404028,0.705459082202899,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,88,1,7:45,1665,1965,Josh Warren made Free Throw.,19,13,6,0,0.7179602541172962,0.6788855606773685,3,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,89,1,7:45,1665,1965,Josh Warren made Free Throw.,19,14,5,0,0.6920222084628598,0.6511002903082111,3,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,90,1,7:25,1645,1945,E.J. Stephens missed Jumper.,19,14,5,20,0.693035160242156,0.6523717955141202,3,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,91,1,7:25,1645,1945,Myles Cherry Offensive Rebound.,19,14,5,0,0.693035160242156,0.6523717955141202,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,92,1,7:25,1645,1945,Foul on Steven Julian.,19,14,5,0,0.693035160242156,0.6523717955141202,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,93,1,7:25,1645,1945,Alex Petrie missed Jumper.,19,14,5,0,0.693035160242156,0.6523717955141202,3,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,94,1,7:25,1645,1945,Cornell Defensive Rebound.,19,14,5,0,0.693035160242156,0.6523717955141202,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,95,1,6:57,1617,1917,Foul on Jimmy Boeheim.,19,14,5,28,0.6944121839194897,0.654115373817457,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,96,1,6:57,1617,1917,Jimmy Boeheim Turnover.,19,14,5,0,0.6944121839194897,0.654115373817457,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,97,1,6:36,1596,1896,Steven Julian Defensive Rebound.,19,14,5,21,0.6954283726044145,0.6554099536886788,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,98,1,6:36,1596,1896,Lukas Jarrett missed Layup.,19,14,5,0,0.6954283726044145,0.6554099536886788,3,4,1.3,NA,NA,Lafayette,missed,Lukas Jarrett,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,99,1,6:16,1576,1876,Jimmy Boeheim missed Jumper.,19,14,5,20,0.6963947351058313,0.6566442012234069,3,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,100,1,6:15,1575,1875,Myles Cherry Defensive Rebound.,19,14,5,1,0.6964431988690692,0.6567061294429569,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,101,1,5:50,1550,1850,Justin Jaworski made Layup.,21,14,7,25,0.7499673430957805,0.7145965287852271,3,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,102,1,5:42,1542,1842,Jake Kuhn missed Three Point Jumper.,21,14,7,8,0.7504892652923696,0.7152393044378749,3,4,1.3,NA,NA,Cornell,missed,Jake Kuhn,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,103,1,5:42,1542,1842,E.J. Stephens Defensive Rebound.,21,14,7,0,0.7504892652923696,0.7152393044378749,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,104,1,5:37,1537,1837,Foul on Jimmy Boeheim.,21,14,7,5,0.7508178315164721,0.7156436655152765,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,105,1,5:37,1537,1837,Justin Jaworski missed Free Throw.,21,14,7,0,0.7508178315164721,0.7156436655152765,3,4,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,106,1,5:37,1537,1837,Lafayette Deadball Team Rebound.,21,14,7,0,0.7508178315164721,0.7156436655152765,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,107,1,5:37,1537,1837,Justin Jaworski made Free Throw.,22,14,8,0,0.7746627191608325,0.7416964888136668,3,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,108,1,5:37,1537,1837,Justin Jaworski made Free Throw.,23,14,9,0,0.7968432329396651,0.7661423558948894,3,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,109,1,5:28,1528,1828,Troy Whiteside missed Three Point Jumper.,23,14,9,9,0.7975259579521286,0.7669724579339982,3,4,1.3,NA,NA,Cornell,missed,Troy Whiteside,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,110,1,5:28,1528,1828,Kyle Stout Defensive Rebound.,23,14,9,0,0.7975259579521286,0.7669724579339982,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,111,1,5:11,1511,1811,Tyrone Perry made Jumper.,25,14,11,17,0.8383178287888134,0.8125924713443701,3,4,1.3,NA,NA,Lafayette,made,Tyrone Perry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,112,1,4:34,1474,1774,Jack Gordon missed Jumper.,25,14,11,37,0.8414436794697342,0.8163638375068204,3,4,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,FALSE,FALSE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,113,1,4:34,1474,1774,Isaac Suffren Block.,25,14,11,0,0.8414436794697342,0.8163638375068204,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,114,1,4:34,1474,1774,Cornell Offensive Rebound.,25,14,11,0,0.8414436794697342,0.8163638375068204,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,115,1,4:30,1470,1770,Troy Whiteside missed Jumper.,25,14,11,4,0.8417943739388135,0.8167855920723718,3,4,1.3,NA,NA,Cornell,missed,Troy Whiteside,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,116,1,4:30,1470,1770,Dylan Hastings Defensive Rebound.,25,14,11,0,0.8417943739388135,0.8167855920723718,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,117,1,4:13,1453,1753,Isaac Suffren missed Layup.,25,14,11,17,0.8433174494465414,0.8186138632522958,3,4,1.3,NA,NA,Lafayette,missed,Isaac Suffren,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,118,1,4:13,1453,1753,Steven Julian Defensive Rebound.,25,14,11,0,0.8433174494465414,0.8186138632522958,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,119,1,4:05,1445,1745,Joel Davis missed Layup.,25,14,11,8,0.8440477730697568,0.8194890855346714,3,4,1.3,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,120,1,4:05,1445,1745,Kyle Stout Defensive Rebound.,25,14,11,0,0.8440477730697568,0.8194890855346714,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,121,1,3:49,1429,1729,Tyrone Perry Turnover.,25,14,11,16,0.8454639423630583,0.8211901621264326,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,122,1,3:47,1427,1727,Steven Julian Steal.,25,14,11,2,0.8456368784961253,0.8213982637265039,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,123,1,3:24,1404,1704,Steven Julian missed Three Point Jumper.,25,14,11,23,0.8475725455519838,0.8237324893563543,3,4,1.3,NA,NA,Cornell,missed,Steven Julian,NA,TRUE,FALSE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,124,1,3:24,1404,1704,Lukas Jarrett Block.,25,14,11,0,0.8475725455519838,0.8237324893563543,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,125,1,3:24,1404,1704,Cornell Offensive Rebound.,25,14,11,0,0.8475725455519838,0.8237324893563543,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,126,1,3:20,1400,1700,Steven Julian made Layup.,25,16,9,4,0.8080514602222347,0.7796701043202123,3,4,1.3,NA,NA,Cornell,made,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,127,1,3:12,1392,1692,Isaac Suffren missed Jumper.,25,16,9,8,0.8086812722505542,0.7804335048423022,3,4,1.3,NA,NA,Lafayette,missed,Isaac Suffren,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,128,1,3:12,1392,1692,Steven Julian Defensive Rebound.,25,16,9,0,0.8086812722505542,0.7804335048423022,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,129,1,3:02,1382,1682,Matt Morgan missed Three Point Jumper.,25,16,9,10,0.8094606056464696,0.7813792244467852,3,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,130,1,3:02,1382,1682,Lukas Jarrett Defensive Rebound.,25,16,9,0,0.8094606056464696,0.7813792244467852,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,131,1,2:41,1361,1661,Tyrone Perry missed Jumper.,25,16,9,21,0.8110804260401567,0.7833473536928367,3,4,1.3,NA,NA,Lafayette,missed,Tyrone Perry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,132,1,2:41,1361,1661,Steven Julian Defensive Rebound.,25,16,9,0,0.8110804260401567,0.7833473536928367,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,133,1,2:32,1352,1652,Steven Julian made Layup.,25,18,7,9,0.7640202857905629,0.7317510360717726,3,4,1.3,NA,NA,Cornell,made,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,134,1,2:29,1349,1649,Lafayette  Timeout,25,18,7,3,0.7642264352993557,0.7320044189302559,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,135,1,2:18,1338,1638,Alex Petrie missed Jumper.,25,18,7,11,0.764985466841768,0.7329370683332334,3,3,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,136,1,2:18,1338,1638,Josh Warren Defensive Rebound.,25,18,7,0,0.764985466841768,0.7329370683332334,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,137,1,2:10,1330,1630,Josh Warren made Layup. Assisted by Matt Morgan.,25,20,5,8,0.709685928165113,0.6734038569980271,3,3,1.3,NA,NA,Cornell,made,Josh Warren,Matt Morgan,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,138,1,1:27,1287,1587,Justin Jaworski missed Layup.,25,20,5,43,0.7121170433011205,0.6764685687573996,3,3,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,139,1,1:27,1287,1587,Josh Warren Defensive Rebound.,25,20,5,0,0.7121170433011205,0.6764685687573996,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,140,1,1:20,1280,1580,Jack Gordon made Three Point Jumper. Assisted by Matt Morgan.,25,23,2,7,0.6139018113248033,0.5734629915551132,3,3,1.3,NA,NA,Cornell,made,Jack Gordon,Matt Morgan,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,141,1,0:54,1254,1554,Myles Cherry missed Jumper.,25,23,2,26,0.6144760873336449,0.5743731696974178,3,3,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,142,1,0:54,1254,1554,Joel Davis Defensive Rebound.,25,23,2,0,0.6144760873336449,0.5743731696974178,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,143,1,0:36,1236,1536,Jack Gordon missed Three Point Jumper.,25,23,2,18,0.6149155995624123,0.575046096403292,3,3,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,144,1,0:36,1236,1536,Myles Cherry Defensive Rebound.,25,23,2,0,0.6149155995624123,0.575046096403292,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,145,1,0:12,1212,1512,Foul on Troy Whiteside.,25,23,2,24,0.6155662337149632,0.5760086996365295,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,146,1,0:05,1205,1505,Alex Petrie made Jumper.,27,23,4,7,0.6855158544051917,0.649131248360961,3,3,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,147,1,0:00,1200,1500,End of 1st half,27,23,4,5,0.6858285992481489,0.6495177425372646,3,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
+401088022,2018-11-28,Lafayette,Cornell,148,2,20:00,1200,1500,PLAY,27,23,4,0,0.6858285992481489,0.6495177425372646,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cornell
+401088022,2018-11-28,Lafayette,Cornell,149,2,19:45,1185,1485,Steven Julian missed Jumper.,27,23,4,15,0.686746116521518,0.6506543839352416,4,4,1.3,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,150,2,19:45,1185,1485,Lukas Jarrett Defensive Rebound.,27,23,4,0,0.686746116521518,0.6506543839352416,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,151,2,19:34,1174,1474,Myles Cherry missed Jumper.,27,23,4,11,0.6874026306278819,0.6514698711749083,4,4,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,152,2,19:34,1174,1474,Terrance McBride Defensive Rebound.,27,23,4,0,0.6874026306278819,0.6514698711749083,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,153,2,19:20,1160,1460,Josh Warren made Layup.,27,25,2,14,0.6169973598790007,0.5781063457043811,4,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,154,2,19:10,1150,1450,Foul on Matt Morgan.,27,25,2,10,0.6172594728527503,0.5784948614835138,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,155,2,18:48,1128,1428,E.J. Stephens missed Jumper.,27,25,2,22,0.6178330753627487,0.5793457468662431,4,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,156,2,18:48,1128,1428,Josh Warren Defensive Rebound.,27,25,2,0,0.6178330753627487,0.5793457468662431,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,157,2,18:41,1121,1421,Matt Morgan missed Layup.,27,25,2,7,0.6180163011932319,0.579617130045339,4,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,158,2,18:41,1121,1421,Myles Cherry Defensive Rebound.,27,25,2,0,0.6180163011932319,0.579617130045339,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,159,2,18:33,1113,1413,Isaac Suffren missed Three Point Jumper.,27,25,2,8,0.6182270183584719,0.5799286487915525,4,4,1.3,NA,NA,Lafayette,missed,Isaac Suffren,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,160,2,18:33,1113,1413,E.J. Stephens Offensive Rebound.,27,25,2,0,0.6182270183584719,0.5799286487915525,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,161,2,18:14,1094,1394,Myles Cherry missed Layup.,27,25,2,19,0.6187366012306744,0.5806782081759659,4,4,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,162,2,18:14,1094,1394,Matt Morgan Defensive Rebound.,27,25,2,0,0.6187366012306744,0.5806782081759659,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,163,2,17:45,1065,1365,Josh Warren made Jumper.,27,27,0,29,0.5392245978105357,0.5,4,4,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,164,2,17:33,1053,1353,Justin Jaworski missed Jumper.,27,27,0,12,0.5390785057699494,0.5,4,4,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,165,2,17:33,1053,1353,Troy Whiteside Defensive Rebound.,27,27,0,0,0.5390785057699494,0.5,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,166,2,17:28,1048,1348,Troy Whiteside made Jumper.,27,29,-2,5,0.4558505635167046,0.4174023181404662,4,4,1.3,NA,NA,Cornell,made,Troy Whiteside,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,167,2,17:03,1023,1323,Lukas Jarrett missed Jumper.,27,29,-2,25,0.4543792455752598,0.4162617706657545,4,4,1.3,NA,NA,Lafayette,missed,Lukas Jarrett,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,168,2,17:03,1023,1323,Josh Warren Defensive Rebound.,27,29,-2,0,0.4543792455752598,0.4162617706657545,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,169,2,16:39,999,1299,Foul on Kyle Stout.,27,29,-2,24,0.452870676967271,0.4150778494361092,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,170,2,16:19,979,1279,Matt Morgan missed Three Point Jumper.,27,29,-2,20,0.45152719694614213,0.41401140737568215,4,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,171,2,16:19,979,1279,Lukas Jarrett Defensive Rebound.,27,29,-2,0,0.45152719694614213,0.41401140737568215,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,172,2,15:49,949,1249,Isaac Suffren missed Three Point Jumper.,27,29,-2,30,0.44947421220042794,0.4123721132991033,4,4,1.3,NA,NA,Lafayette,missed,Isaac Suffren,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,173,2,15:49,949,1249,Lukas Jarrett Offensive Rebound.,27,29,-2,0,0.44947421220042794,0.4123721132991033,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,174,2,15:41,941,1241,Alex Petrie missed Layup.,27,29,-2,8,0.44897090223168706,0.41197293691143627,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,175,2,15:41,941,1241,Steven Julian Block.,27,29,-2,0,0.44897090223168706,0.41197293691143627,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,176,2,15:39,939,1239,Terrance McBride Defensive Rebound.,27,29,-2,2,0.4488478438837299,0.411875524785568,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,177,2,15:36,936,1236,Foul on Dylan Hastings.,27,29,-2,3,0.44866518849068665,0.4117310657945256,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,178,2,15:36,936,1236,Official TV Timeout,27,29,-2,0,0.44866518849068665,0.4117310657945256,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,179,2,15:36,936,1236,Matt Morgan missed Free Throw.,27,29,-2,0,0.44866518849068665,0.4117310657945256,4,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,180,2,15:36,936,1236,Matt Morgan made Free Throw.,27,30,-3,0,0.4050486975952048,0.36930005708609337,4,4,1.3,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,183,2,15:01,901,1201,Myles Cherry Offensive Rebound.,27,30,-3,0,0.40232038327382885,0.3670328084590885,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,184,2,14:58,898,1198,Foul on Josh Warren.,27,30,-3,3,0.4020975956759972,0.366848125944159,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,185,2,14:54,894,1194,Alex Petrie Turnover.,27,30,-3,4,0.4018020348711313,0.3666031499492816,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,186,2,14:36,876,1176,Foul on Sean Good.,27,30,-3,18,0.4004827651867824,0.36550943166924993,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,187,2,14:36,876,1176,Josh Warren missed Free Throw.,27,30,-3,0,0.4004827651867824,0.36550943166924993,4,4,1.3,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,188,2,14:36,876,1176,Cornell Deadball Team Rebound.,27,30,-3,0,0.4004827651867824,0.36550943166924993,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,189,2,14:36,876,1176,Josh Warren missed Free Throw.,27,30,-3,0,0.4004827651867824,0.36550943166924993,4,4,1.3,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,190,2,14:36,876,1176,Myles Cherry Defensive Rebound.,27,30,-3,0,0.4004827651867824,0.36550943166924993,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,191,2,14:17,857,1157,Justin Jaworski missed Three Point Jumper.,27,30,-3,19,0.3990793583373297,0.3643435007412344,4,4,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,192,2,14:17,857,1157,Myles Cherry Offensive Rebound.,27,30,-3,0,0.3990793583373297,0.3643435007412344,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,193,2,14:16,856,1156,Foul on Jimmy Boeheim.,27,30,-3,1,0.39900439900677037,0.3642811043757061,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,194,2,14:01,841,1141,Alex Petrie made Layup.,29,30,-1,15,0.4898956245314702,0.4533889367086885,4,4,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,195,2,13:35,815,1115,Matt Morgan missed Three Point Jumper.,29,30,-1,26,0.48896113036027616,0.45274982714818346,4,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,196,2,13:35,815,1115,E.J. Stephens Defensive Rebound.,29,30,-1,0,0.48896113036027616,0.45274982714818346,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,197,2,13:27,807,1107,Alex Petrie missed Three Point Jumper.,29,30,-1,8,0.4886538377371945,0.45253662343665685,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,198,2,13:27,807,1107,Myles Cherry Offensive Rebound.,29,30,-1,0,0.4886538377371945,0.45253662343665685,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,199,2,13:25,805,1105,Myles Cherry made Layup.,31,30,1,2,0.583118615407312,0.5475181331458329,4,4,1.3,NA,NA,Lafayette,made,Myles Cherry,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,200,2,12:59,779,1079,Steven Julian Turnover.,31,30,1,26,0.5835705035477856,0.548291624872937,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,201,2,12:33,753,1053,Alex Petrie missed Jumper.,31,30,1,26,0.5841309957735211,0.549203747986818,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,202,2,12:33,753,1053,Jack Gordon Defensive Rebound.,31,30,1,0,0.5841309957735211,0.549203747986818,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,203,2,12:17,737,1037,Foul on Dylan Hastings.,31,30,1,16,0.5845412673839133,0.5498490391317773,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,204,2,12:17,737,1037,Jimmy Boeheim made Free Throw.,31,31,0,0,0.5352870695749103,0.5,4,4,1.3,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,205,2,12:17,737,1037,Jimmy Boeheim made Free Throw.,31,32,-1,0,0.4853348448563268,0.45015096086822265,4,4,1.3,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,206,2,12:04,724,1024,E.J. Stephens made Jumper.,33,32,1,13,0.5849067795294031,0.5504155439561265,4,4,1.3,NA,NA,Lafayette,made,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,207,2,11:40,700,1000,Jimmy Boeheim missed Jumper.,33,32,1,24,0.5854893806080882,0.5513564629837687,4,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,208,2,11:40,700,1000,Myles Cherry Defensive Rebound.,33,32,1,0,0.5854893806080882,0.5513564629837687,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,209,2,11:25,685,985,Justin Jaworski missed Three Point Jumper.,33,32,1,15,0.5857998993519458,0.5518832274288608,4,4,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,210,2,11:25,685,985,Jake Kuhn Defensive Rebound.,33,32,1,0,0.5857998993519458,0.5518832274288608,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,211,2,11:14,674,974,Steven Julian missed Jumper.,33,32,1,11,0.5860124394001633,0.5522525567439597,4,4,1.3,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,212,2,11:14,674,974,Justin Jaworski Defensive Rebound.,33,32,1,0,0.5860124394001633,0.5522525567439597,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,213,2,10:53,653,953,Myles Cherry made Layup. Assisted by Lukas Jarrett.,35,32,3,21,0.6844496938487465,0.6542443746466693,4,4,1.3,NA,NA,Lafayette,made,Myles Cherry,Lukas Jarrett,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,214,2,10:40,640,940,Jake Kuhn made Three Point Jumper. Assisted by Troy Whiteside.,35,35,0,13,0.5338995131873366,0.5,4,4,1.3,NA,NA,Cornell,made,Jake Kuhn,Troy Whiteside,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,215,2,10:27,627,927,Alex Petrie missed Three Point Jumper.,35,35,0,13,0.5337108022564468,0.5,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,216,2,10:27,627,927,Troy Whiteside Defensive Rebound.,35,35,0,0,0.5337108022564468,0.5,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,217,2,10:16,616,916,Jake Kuhn made Three Point Jumper. Assisted by Jimmy Boeheim.,35,38,-3,11,0.37299230224544466,0.3421360196559103,4,4,1.3,NA,NA,Cornell,made,Jake Kuhn,Jimmy Boeheim,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,218,2,9:44,584,884,Lukas Jarrett missed Jumper.,35,38,-3,32,0.36847777231969,0.3382521115473278,4,4,1.3,NA,NA,Lafayette,missed,Lukas Jarrett,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,219,2,9:44,584,884,Jake Kuhn Defensive Rebound.,35,38,-3,0,0.36847777231969,0.3382521115473278,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,220,2,9:31,571,871,Jake Kuhn missed Three Point Jumper.,35,38,-3,13,0.36629988665603924,0.33635952485223475,4,4,1.3,NA,NA,Cornell,missed,Jake Kuhn,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,221,2,9:31,571,871,Alex Petrie Defensive Rebound.,35,38,-3,0,0.36629988665603924,0.33635952485223475,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,222,2,9:19,559,859,Alex Petrie missed Jumper.,35,38,-3,12,0.3640695657888703,0.33441113494177394,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,223,2,9:19,559,859,Troy Whiteside Defensive Rebound.,35,38,-3,0,0.3640695657888703,0.33441113494177394,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,224,2,9:16,556,856,Foul on Alex Petrie.,35,38,-3,3,0.36347584236414476,0.3338909503143474,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,225,2,9:16,556,856,Official TV Timeout,35,38,-3,0,0.36347584236414476,0.3338909503143474,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,226,2,9:03,543,843,Foul on Tyrone Perry.,35,38,-3,13,0.36082576458057003,0.3315671962459856,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,227,2,9:03,543,843,Jack Gordon missed Free Throw.,35,38,-3,0,0.36082576458057003,0.3315671962459856,4,4,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,228,2,9:03,543,843,Cornell Deadball Team Rebound.,35,38,-3,0,0.36082576458057003,0.3315671962459856,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,229,2,9:03,543,843,Jack Gordon missed Free Throw.,35,38,-3,0,0.36082576458057003,0.3315671962459856,4,4,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,230,2,9:03,543,843,Myles Cherry Defensive Rebound.,35,38,-3,0,0.36082576458057003,0.3315671962459856,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,231,2,8:42,522,822,Isaac Suffren Turnover.,35,38,-3,21,0.3571338492348248,0.3283647730609928,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,232,2,8:20,500,800,Josh Warren missed Layup.,35,38,-3,22,0.3537163466528681,0.32543237638555494,4,4,1.3,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,233,2,8:20,500,800,Myles Cherry Defensive Rebound.,35,38,-3,0,0.3537163466528681,0.32543237638555494,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,234,2,8:11,491,791,Kyle Stout Turnover.,35,38,-3,9,0.35231576711926205,0.32423163641142283,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,235,2,8:11,491,791,Foul on Kyle Stout.,35,38,-3,0,0.35231576711926205,0.32423163641142283,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,236,2,8:01,481,781,Foul on Kyle Stout.,35,38,-3,10,0.3506861146607151,0.3228300991616678,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,237,2,8:01,481,781,Official TV Timeout,35,38,-3,0,0.3506861146607151,0.3228300991616678,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,238,2,8:01,481,781,Jake Kuhn missed Free Throw.,35,38,-3,0,0.3506861146607151,0.3228300991616678,4,4,1.3,NA,NA,Cornell,missed,Jake Kuhn,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,239,2,8:01,481,781,Myles Cherry Defensive Rebound.,35,38,-3,0,0.3506861146607151,0.3228300991616678,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,240,2,7:56,476,776,Foul on Terrance McBride.,35,38,-3,5,0.34982588107858015,0.32208750194943736,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,241,2,7:42,462,762,Justin Jaworski missed Jumper.,35,38,-3,14,0.34718654177714225,0.31979529434612125,4,4,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,242,2,7:42,462,762,Justin Jaworski Offensive Rebound.,35,38,-3,0,0.34718654177714225,0.31979529434612125,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,243,2,7:42,462,762,Justin Jaworski made Three Point Jumper. Assisted by Myles Cherry.,38,38,0,0,0.5307818987255611,0.5,4,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,Myles Cherry,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,244,2,7:42,462,762,Terrance McBride made Three Point Jumper.,38,41,-3,0,0.34718654177714225,0.31979529434612125,4,4,1.3,NA,NA,Cornell,made,Terrance McBride,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,245,2,7:40,460,760,Myles Cherry missed Layup.,38,41,-3,2,0.3467757331569111,0.31943665122685894,4,4,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,246,2,7:40,460,760,Josh Warren Block.,38,41,-3,0,0.3467757331569111,0.31943665122685894,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,247,2,7:38,458,758,Lafayette Offensive Rebound.,38,41,-3,2,0.3463552076303995,0.31906902919807734,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,248,2,6:08,368,668,Alex Petrie missed Three Point Jumper.,38,41,-3,90,0.3220933832079141,0.2977896330472742,4,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,249,2,6:08,368,668,Dylan Hastings Offensive Rebound.,38,41,-3,0,0.3220933832079141,0.2977896330472742,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,250,2,6:04,364,664,E.J. Stephens missed Jumper.,38,41,-3,4,0.32091367051945013,0.2967603794952955,4,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,251,2,6:04,364,664,Troy Whiteside Defensive Rebound.,38,41,-3,0,0.32091367051945013,0.2967603794952955,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,252,2,5:44,344,644,Matt Morgan Turnover.,38,41,-3,20,0.3144380541313295,0.29107627212949305,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,253,2,5:44,344,644,Myles Cherry Steal.,38,41,-3,0,0.3144380541313295,0.29107627212949305,4,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,254,2,5:29,329,629,Myles Cherry made Layup. Assisted by Justin Jaworski.,40,41,-1,15,0.4511174612504762,0.4243559737863544,4,4,1.3,NA,NA,Lafayette,made,Myles Cherry,Justin Jaworski,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,255,2,5:03,303,603,Cornell  Timeout,40,41,-1,26,0.44608780496201117,0.42025894595292435,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,256,2,4:58,298,598,Matt Morgan missed Layup.,40,41,-1,5,0.44546591284623804,0.41981227749928407,3,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,257,2,4:58,298,598,Lukas Jarrett Defensive Rebound.,40,41,-1,0,0.44546591284623804,0.41981227749928407,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,258,2,4:48,288,588,Lukas Jarrett made Layup. Assisted by E.J. Stephens.,42,41,1,10,0.6054046484808602,0.5805080101837101,3,4,1.3,NA,NA,Lafayette,made,Lukas Jarrett,EJ Stephens,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,259,2,4:32,272,572,Matt Morgan made Layup. Assisted by Josh Warren.,42,43,-1,16,0.44487188775939035,0.420087608139778,3,4,1.3,NA,NA,Cornell,made,Matt Morgan,Josh Warren,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,260,2,4:22,262,562,E.J. Stephens missed Jumper.,42,43,-1,10,0.4452578791685007,0.42080389667255963,3,4,1.3,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,261,2,4:22,262,562,Isaac Suffren Offensive Rebound.,42,43,-1,0,0.4452578791685007,0.42080389667255963,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,262,2,4:22,262,562,Foul on Troy Whiteside.,42,43,-1,0,0.4452578791685007,0.42080389667255963,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,263,2,3:43,223,523,Foul on Steven Julian.,42,43,-1,39,0.44454662752111523,0.4214935160850349,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,264,2,3:43,223,523,Official TV Timeout,42,43,-1,0,0.44454662752111523,0.4214935160850349,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,265,2,3:43,223,523,Alex Petrie missed Free Throw.,42,43,-1,0,0.44454662752111523,0.4214935160850349,3,4,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,TRUE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,266,2,3:43,223,523,Lafayette Deadball Team Rebound.,42,43,-1,0,0.44454662752111523,0.4214935160850349,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,267,2,3:43,223,523,Alex Petrie made Free Throw.,43,43,0,0,0.5234616681670021,0.5,3,4,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,268,2,3:28,208,508,Troy Whiteside missed Jumper.,43,43,0,15,0.522855529668458,0.5,3,4,1.3,NA,NA,Cornell,missed,Troy Whiteside,NA,FALSE,FALSE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,269,2,3:28,208,508,Lukas Jarrett Block.,43,43,0,0,0.522855529668458,0.5,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,270,2,3:28,208,508,Cornell Offensive Rebound.,43,43,0,0,0.522855529668458,0.5,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,271,2,3:25,205,505,Matt Morgan made Layup. Assisted by Jack Gordon.,43,45,-2,3,0.3612341916324139,0.3405171727078372,3,4,1.3,NA,NA,Cornell,made,Matt Morgan,Jack Gordon,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,272,2,3:16,196,496,Isaac Suffren Turnover.,43,45,-2,9,0.3549121482262762,0.3347169222459969,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,273,2,2:48,168,468,Matt Morgan missed Jumper.,43,45,-2,28,0.3275649821928524,0.30929632015572417,3,4,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,274,2,2:48,168,468,Cornell Offensive Rebound.,43,45,-2,0,0.3275649821928524,0.30929632015572417,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,275,2,2:24,144,444,Jimmy Boeheim missed Three Point Jumper.,43,45,-2,24,0.30160441622224937,0.28513417142138026,3,4,1.3,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,276,2,2:24,144,444,Alex Petrie Defensive Rebound.,43,45,-2,0,0.30160441622224937,0.28513417142138026,3,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,277,2,2:08,128,428,Lukas Jarrett made Dunk. Assisted by E.J. Stephens.,45,45,0,16,0.519031058852128,0.5,3,4,1.3,NA,NA,Lafayette,made,Lukas Jarrett,EJ Stephens,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,278,2,1:47,107,407,Jack Gordon made Three Point Jumper. Assisted by Josh Warren.,45,48,-3,21,0.15940079385792164,0.15003857868093198,3,4,1.3,NA,NA,Cornell,made,Jack Gordon,Josh Warren,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,279,2,1:46,106,406,Cornell  Timeout,45,48,-3,1,0.15781195844462123,0.14855486459770081,2,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,280,2,1:33,93,393,Foul on Terrance McBride.,45,48,-3,13,0.13688213395314847,0.12899822784082648,2,4,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,281,2,1:33,93,393,Justin Jaworski made Free Throw.,46,48,-2,0,0.2306195984421449,0.21870479148083777,2,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,282,2,1:33,93,393,Justin Jaworski made Free Throw.,47,48,-1,0,0.3616520822236812,0.3460120975681895,2,4,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,283,2,1:10,70,370,Terrance McBride made Jumper.,47,50,-3,23,0.10238855492287027,0.09674581788288925,2,4,1.3,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,284,2,1:05,65,365,Lafayette  Timeout,47,50,-3,5,0.09539892810847628,0.09020344299927086,2,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,285,2,0:50,50,350,Myles Cherry made Layup. Assisted by Lukas Jarrett.,49,50,-1,15,0.31138511871264446,0.2990936666093559,2,3,1.3,NA,NA,Lafayette,made,Myles Cherry,Lukas Jarrett,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,286,2,0:36,36,336,Cornell  Timeout,49,50,-1,14,0.29322750025773137,0.2820949510125366,1,3,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,287,2,0:26,26,326,Josh Warren made Layup. Assisted by Terrance McBride.,49,52,-3,10,0.05028336142296127,0.04787241191101555,1,3,1.3,NA,NA,Cornell,made,Josh Warren,Terrance McBride,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,288,2,0:25,25,325,Lafayette  Timeout,49,52,-3,1,0.04936219007984699,0.047005273609936685,1,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,289,2,0:19,19,319,Justin Jaworski missed Layup.,49,52,-3,6,0.04407383694663056,0.04202372636616275,1,2,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,290,2,0:19,19,319,Jack Gordon Defensive Rebound.,49,52,-3,0,0.04407383694663056,0.04202372636616275,1,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,291,2,0:14,14,314,Terrance McBride Turnover.,49,52,-3,5,0.039930228084679296,0.03811563608747347,1,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,292,2,0:11,11,311,Justin Jaworski Steal.,49,52,-3,3,0.03756899870656418,0.03588657491023283,1,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,293,2,0:08,8,308,Alex Petrie made Three Point Jumper.,52,52,0,3,0.5116783306486989,0.5,1,2,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,TRUE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,294,2,0:06,6,306,Lafayette  Timeout,52,52,0,2,0.5115375316555966,0.5,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,295,2,0:00,300,300,Matt Morgan missed Jumper.,52,52,0,6,0.526178418221345,0.5,1,1,1.3,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,296,2,0:00,300,300,Lafayette Defensive Rebound.,52,52,0,0,0.526178418221345,0.5,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,297,2,0:00,300,300,End of 2nd half,52,52,0,0,0.526178418221345,0.5,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,NA
+401088022,2018-11-28,Lafayette,Cornell,298,3,5:00,300,300,PLAY,52,52,0,0,0.526178418221345,0.5,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,299,3,4:59,299,299,Alex Petrie made Jumper.,54,52,2,1,0.679432829041828,0.6562198677324814,2,2,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,300,3,4:46,286,286,Josh Warren missed Layup.,54,52,2,13,0.6797280567923402,0.6569240587889192,2,2,1.3,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,301,3,4:46,286,286,Sean Good Block.,54,52,2,0,0.6797280567923402,0.6569240587889192,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,302,3,4:43,283,283,Justin Jaworski Defensive Rebound.,54,52,2,3,0.6795357578355221,0.6568167469383054,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,303,3,3:57,237,237,Justin Jaworski missed Jumper.,54,52,2,46,0.6735879142576338,0.6521287166176049,2,2,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,304,3,3:57,237,237,Terrance McBride Defensive Rebound.,54,52,2,0,0.6735879142576338,0.6521287166176049,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,305,3,3:34,214,214,Josh Warren made Three Point Jumper. Assisted by Jack Gordon.,54,55,-1,23,0.4429246252193274,0.4202422927351815,2,2,1.3,NA,NA,Cornell,made,Josh Warren,Jack Gordon,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,306,3,3:19,199,199,Lukas Jarrett Turnover.,54,55,-1,15,0.43814714922911996,0.41614300900437534,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,307,3,2:58,178,178,Jack Gordon missed Jumper.,54,55,-1,21,0.4270475050382017,0.40612716999030757,2,2,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,FALSE,FALSE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,308,3,2:57,177,177,Lukas Jarrett Block.,54,55,-1,1,0.4264799144267787,0.40561309102493875,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,309,3,2:56,176,176,Cornell Offensive Rebound.,54,55,-1,1,0.425910648711434,0.40509746317915823,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,310,3,2:53,173,173,Terrance McBride missed Three Point Jumper.,54,55,-1,3,0.42419160124153366,0.4035401125196468,2,2,1.3,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,311,3,2:53,173,173,Lukas Jarrett Defensive Rebound.,54,55,-1,0,0.42419160124153366,0.4035401125196468,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,312,3,2:30,150,150,Foul on Terrance McBride.,54,55,-1,23,0.4101331822730464,0.39076769419509133,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,313,3,2:30,150,150,Myles Cherry missed Free Throw.,54,55,-1,0,0.4101331822730464,0.39076769419509133,2,2,1.3,NA,NA,Lafayette,missed,Myles Cherry,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,314,3,2:30,150,150,Jack Gordon Defensive Rebound.,54,55,-1,0,0.4101331822730464,0.39076769419509133,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,315,3,2:14,134,134,Jack Gordon missed Three Point Jumper.,54,55,-1,16,0.398933175238406,0.3805231713569795,2,2,1.3,NA,NA,Cornell,missed,Jack Gordon,NA,TRUE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,316,3,2:14,134,134,Isaac Suffren Defensive Rebound.,54,55,-1,0,0.398933175238406,0.3805231713569795,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,317,3,1:56,116,116,Foul on Josh Warren.,54,55,-1,18,0.3843065756500719,0.36704875917435176,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,318,3,1:56,116,116,Alex Petrie missed Free Throw.,54,55,-1,0,0.3843065756500719,0.36704875917435176,2,2,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,319,3,1:56,116,116,Jack Gordon Defensive Rebound.,54,55,-1,0,0.3843065756500719,0.36704875917435176,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,320,3,1:26,86,86,Foul on Isaac Suffren.,54,55,-1,30,0.3540716186420848,0.33895120774153426,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,321,3,1:26,86,86,Josh Warren made Free Throw.,54,56,-2,0,0.21940092368877465,0.20817802708677668,2,2,1.3,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,322,3,1:25,85,85,Terrance McBride missed Free Throw.,54,56,-2,1,0.21780550245083719,0.20668111548240115,2,2,1.3,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,323,3,1:25,85,85,Josh Warren Offensive Rebound.,54,56,-2,0,0.21780550245083719,0.20668111548240115,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,324,3,1:06,66,66,Jack Gordon made Layup.,54,58,-4,19,0.04748103115792663,0.044755501288340153,2,2,1.3,NA,NA,Cornell,made,Jack Gordon,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,325,3,0:57,57,57,Justin Jaworski missed Layup.,54,58,-4,9,0.03947416555477937,0.037270482601752815,2,2,1.3,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,326,3,0:57,57,57,Justin Jaworski Offensive Rebound.,54,58,-4,0,0.03947416555477937,0.037270482601752815,2,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,327,3,0:56,56,56,Justin Jaworski made Layup.,56,58,-2,1,0.1711953454672043,0.1629194515323275,2,2,1.3,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,328,3,0:41,41,41,Cornell  Timeout,56,58,-2,15,0.14778672526554915,0.14091496018333405,1,2,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,329,3,0:31,31,31,Matt Morgan made Layup.,56,60,-4,10,0.02172515927077652,0.020626671121197822,1,2,1.3,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,FALSE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,330,3,0:25,25,25,Lafayette  Timeout,56,60,-4,6,0.01868697180600091,0.01776734298504168,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,331,3,0:19,19,19,Foul on Steven Julian.,56,60,-4,6,0.01600041922058297,0.015235341616680557,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,332,3,0:19,19,19,Alex Petrie made Free Throw.,57,60,-3,0,0.04407383694663056,0.04202372636616275,1,1,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,TRUE,Lafayette,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,333,3,0:19,19,19,Alex Petrie made Free Throw.,58,60,-2,0,0.11561588553809016,0.11062307552550993,1,1,1.3,NA,NA,Lafayette,made,Alex Petrie,NA,FALSE,TRUE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,334,3,0:16,16,16,Foul on Isaac Suffren.,58,60,-2,3,0.1114674837773496,0.10671073666192735,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,335,3,0:16,16,16,Matt Morgan made Free Throw.,58,61,-3,0,0.041557456317706895,0.039650907899848264,1,1,1.3,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,336,3,0:16,16,16,Matt Morgan made Free Throw.,58,62,-4,0,0.014764908092927857,0.014069488685686617,1,1,1.3,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Lafayette
+401088022,2018-11-28,Lafayette,Cornell,337,3,0:08,8,8,Alex Petrie missed Layup.,58,62,-4,8,0.011822268384839537,0.011288707423264361,1,1,1.3,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,338,3,0:08,8,8,Josh Warren Defensive Rebound.,58,62,-4,0,0.011822268384839537,0.011288707423264361,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Cornell
+401088022,2018-11-28,Lafayette,Cornell,339,3,0:06,6,6,Foul on E.J. Stephens.,58,62,-4,2,0.011165924635375201,0.010667611520738937,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401088022,2018-11-28,Lafayette,Cornell,340,3,0:06,6,6,Troy Whiteside missed Free Throw.,58,62,-4,0,0.011165924635375201,0.010667611520738937,1,1,1.3,NA,NA,Cornell,missed,Troy Whiteside,NA,FALSE,TRUE,Cornell,NA
+401088022,2018-11-28,Lafayette,Cornell,341,3,0:06,6,6,Cornell Deadball Team Rebound.,58,62,-4,0,0.011165924635375201,0.010667611520738937,1,1,1.3,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell

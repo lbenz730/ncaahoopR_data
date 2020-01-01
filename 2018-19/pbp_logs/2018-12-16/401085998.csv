@@ -1,0 +1,317 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085998,2018-12-16,Niagara,Cornell,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5989465274969654,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara
+401085998,2018-12-16,Niagara,Cornell,2,1,19:27,2367,2367,James Towns missed Jumper.,0,0,0,33,0.5986248226727494,0.5,4,4,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,3,1,19:22,2362,2362,Keleaf Tate Offensive Rebound.,0,0,0,5,0.598574956033749,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,4,1,19:20,2360,2360,Keleaf Tate missed Layup.,0,0,0,2,0.5985549250491409,0.5,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,5,1,19:17,2357,2357,Steven Julian Defensive Rebound.,0,0,0,3,0.5985247878053946,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,6,1,18:52,2332,2332,Matt Morgan missed Three Point Jumper.,0,0,0,25,0.5982693502905609,0.5,4,4,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,7,1,18:49,2329,2329,Marvin Prochet Defensive Rebound.,0,0,0,3,0.5982381753318115,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,8,1,18:37,2317,2317,Marvin Prochet made Three Point Jumper. Assisted by James Towns.,3,0,3,12,0.6622298686849035,0.5684772757508765,4,4,2.5,NA,NA,Niagara,made,Marvin Prochet,James Towns,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,9,1,18:20,2300,2300,Troy Whiteside missed Three Point Jumper.,3,0,3,17,0.6625699803525523,0.5690354297880675,4,4,2.5,NA,NA,Cornell,missed,Troy Whiteside,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,10,1,18:16,2296,2296,Marvin Prochet Defensive Rebound.,3,0,3,4,0.6626500822740325,0.5691673982971774,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,11,1,18:10,2290,2290,James Towns missed Jumper.,3,0,3,6,0.6627702659395612,0.5693657856264321,4,4,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,12,1,18:07,2287,2287,Troy Whiteside Defensive Rebound.,3,0,3,3,0.662830366591671,0.5694651702425656,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,13,1,18:02,2282,2282,Steven Julian made Layup.,3,2,1,5,0.6199848109267354,0.5233451933869412,4,4,2.5,NA,NA,Cornell,made,Steven Julian,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,14,1,17:47,2267,2267,Chris Barton made Layup.,5,2,3,15,0.6632309967567205,0.5701308127442787,4,4,2.5,NA,NA,Niagara,made,Chris Barton,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,15,1,17:27,2247,2247,Matt Morgan missed Layup.,5,2,3,20,0.6636310637817937,0.5708013584194437,4,4,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,16,1,17:25,2245,2245,Keleaf Tate Defensive Rebound.,5,2,3,2,0.6636710131104797,0.5708686584745194,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,17,1,17:19,2239,2239,Keleaf Tate missed Jumper.,5,2,3,6,0.6637907793331566,0.5710708088675566,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,18,1,17:16,2236,2236,Steven Julian Defensive Rebound.,5,2,3,3,0.6638506122193958,0.5711720209350643,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,19,1,16:57,2217,2217,Josh Warren made Layup. Assisted by Matt Morgan.,5,4,1,19,0.6199546485653712,0.5240863551735258,4,4,2.5,NA,NA,Cornell,made,Josh Warren,Matt Morgan,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,20,1,16:37,2197,2197,Foul on Troy Whiteside.,5,4,1,20,0.6199363905197158,0.524317319945558,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,21,1,16:37,2197,2197,Chris Barton made Free Throw.,6,4,2,0,0.6425902347736173,0.5485198744639151,4,4,2.5,NA,NA,Niagara,made,Chris Barton,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,22,1,16:37,2197,2197,Chris Barton made Free Throw.,7,4,3,0,0.6646242737528414,0.5724950544895695,4,4,2.5,NA,NA,Niagara,made,Chris Barton,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,23,1,16:11,2171,2171,Josh Warren made Jumper. Assisted by Terrance McBride.,7,6,1,26,0.6199054356292465,0.5246190423169371,4,4,2.5,NA,NA,Cornell,made,Josh Warren,Terrance McBride,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,24,1,15:57,2157,2157,Dominic Robb made Jumper.,9,6,3,14,0.6654066159248143,0.5738631939153135,4,4,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,25,1,15:42,2142,2142,Josh Warren Turnover.,9,6,3,15,0.665697940083429,0.5743799751788942,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,26,1,15:42,2142,2142,Dominic Robb Steal.,9,6,3,0,0.665697940083429,0.5743799751788942,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,27,1,15:39,2139,2139,Official TV Timeout,9,6,3,3,0.6657561427198928,0.5744836413761442,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,28,1,15:34,2134,2134,Marvin Prochet missed Layup.,9,6,3,5,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,29,1,15:34,2134,2134,Steven Julian Block.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,30,1,15:34,2134,2134,Marvin Prochet Offensive Rebound.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,31,1,15:34,2134,2134,Foul on Matt Morgan.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,32,1,15:34,2134,2134,Marvin Prochet missed Free Throw.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,33,1,15:34,2134,2134,Niagara Deadball Team Rebound.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,34,1,15:34,2134,2134,Marvin Prochet missed Free Throw.,9,6,3,0,0.6658531098825419,0.5746566555022267,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,35,1,15:32,2132,2132,Josh Warren Defensive Rebound.,9,6,3,2,0.6658918850607055,0.5747259452953509,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,36,1,15:17,2117,2117,Matt Morgan made Layup. Assisted by Terrance McBride.,9,8,1,15,0.6198176701475155,0.5252528699571531,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,Terrance McBride,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,37,1,14:57,2097,2097,Marvin Prochet missed Layup.,9,8,1,20,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,38,1,14:57,2097,2097,Steven Julian Block.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,39,1,14:57,2097,2097,Dominic Robb Offensive Rebound.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,40,1,14:57,2097,2097,Foul on Steven Julian.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,41,1,14:57,2097,2097,Marvin Prochet missed Free Throw.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,42,1,14:57,2097,2097,Niagara Deadball Team Rebound.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,43,1,14:57,2097,2097,Marvin Prochet missed Free Throw.,9,8,1,0,0.6197783688186193,0.5254908932370859,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,44,1,14:55,2095,2095,Steven Julian Defensive Rebound.,9,8,1,2,0.6197742525987998,0.5255148023636137,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,45,1,14:45,2085,2085,Josh Warren missed Three Point Jumper.,9,8,1,10,0.6197531822819202,0.5256346501751078,4,4,2.5,NA,NA,Cornell,missed,Josh Warren,NA,TRUE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,46,1,14:41,2081,2081,Steven Julian Offensive Rebound.,9,8,1,4,0.6197445301217244,0.5256827328619077,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,47,1,14:41,2081,2081,Steven Julian Turnover.,9,8,1,0,0.6197445301217244,0.5256827328619077,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,48,1,14:19,2059,2059,Terrance McBride Defensive Rebound.,9,8,1,22,0.6196947529931913,0.5259487125162579,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,49,1,14:12,2052,2052,Jimmy Boeheim made Three Point Jumper. Assisted by Josh Warren.,9,11,-2,7,0.5437609550710839,0.44807297189182055,4,4,2.5,NA,NA,Cornell,made,Jimmy Boeheim,Josh Warren,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,50,1,13:57,2037,2037,Chris Barton Turnover.,9,11,-2,15,0.5431745006786033,0.4477089600936891,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,51,1,13:41,2021,2021,Jimmy Boeheim made Layup.,9,13,-4,16,0.4897687093073949,0.3957924440276434,4,4,2.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,52,1,13:25,2005,2005,James Towns made Layup.,11,13,-2,16,0.5419042080391325,0.44692348176974955,4,4,2.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,53,1,13:04,1984,1984,Foul on Greg King.,11,13,-2,21,0.541056107146644,0.44640098952027063,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,54,1,12:50,1970,1970,Terrance McBride missed Jumper.,11,13,-2,14,0.5404842182941195,0.4460493873849512,4,4,2.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,55,1,12:48,1968,1968,Greg King Defensive Rebound.,11,13,-2,2,0.5404020919368807,0.4459989381243246,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,56,1,12:44,1964,1964,Marvin Prochet made Three Point Jumper.,14,13,1,4,0.6194436534643389,0.5271307106723907,4,4,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,57,1,12:28,1948,1948,Joel Davis Turnover.,14,13,1,16,0.6193967119860792,0.5273357990812544,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,58,1,12:17,1937,1937,Marvin Prochet made Three Point Jumper. Assisted by James Towns.,17,13,4,11,0.6935813706793321,0.6082804515055502,4,4,2.5,NA,NA,Niagara,made,Marvin Prochet,James Towns,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,59,1,12:05,1925,1925,Joel Davis missed Layup.,17,13,4,12,0.6939472320860919,0.6088766730384156,4,4,2.5,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,60,1,12:02,1922,1922,Greg King Defensive Rebound.,17,13,4,3,0.6940383867303684,0.6090257144066328,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,61,1,11:57,1917,1917,James Towns missed Layup.,17,13,4,5,0.6941898500238631,0.609273923347929,4,4,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,62,1,11:53,1913,1913,Joel Davis Defensive Rebound.,17,13,4,4,0.6943106276074008,0.6094723378662905,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,63,1,11:39,1899,1899,Greg King missed Jumper.,17,13,4,14,0.6947308918730222,0.6101660066232518,4,4,2.5,NA,NA,Niagara,missed,Greg King,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,64,1,11:39,1899,1899,Greg King Offensive Rebound.,17,13,4,0,0.6947308918730222,0.6101660066232518,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,65,1,11:39,1899,1899,Jimmy Boeheim Block.,17,13,4,0,0.6947308918730222,0.6101660066232518,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,66,1,11:22,1882,1882,Jimmy Boeheim made Three Point Jumper. Assisted by Matt Morgan.,17,16,1,17,0.6191769428990335,0.5281919151816961,4,4,2.5,NA,NA,Cornell,made,Jimmy Boeheim,Matt Morgan,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,67,1,11:00,1860,1860,Marvin Prochet made Three Point Jumper. Assisted by Chris Barton.,20,16,4,22,0.6958874300961357,0.6120977599592489,4,4,2.5,NA,NA,Niagara,made,Marvin Prochet,Chris Barton,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,68,1,10:41,1841,1841,Steven Julian missed Layup.,20,16,4,19,0.6964472977292868,0.6130424411202632,4,4,2.5,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,69,1,10:39,1839,1839,Greg King Defensive Rebound.,20,16,4,2,0.6965062213330843,0.6131421406154302,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,70,1,10:33,1833,1833,Marvin Prochet missed Jumper.,20,16,4,6,0.6966830456729105,0.6134415987289824,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,71,1,10:31,1831,1831,Cornell Defensive Rebound.,20,16,4,2,0.6967420129451715,0.6135415457675434,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,72,1,10:31,1831,1831,Official TV Timeout,20,16,4,0,0.6967420129451715,0.6135415457675434,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,73,1,10:06,1806,1806,Jimmy Boeheim missed Three Point Jumper.,20,16,4,25,0.6974813025747415,0.6147973524782013,4,4,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,74,1,10:01,1801,1801,Steven Julian Offensive Rebound.,20,16,4,5,0.6976298876198486,0.6150501841763585,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,75,1,9:57,1797,1797,Jake Kuhn missed Dunk.,20,16,4,4,0.6977489908617274,0.6152529096864217,4,4,2.5,NA,NA,Cornell,missed,Jake Kuhn,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,76,1,9:53,1793,1793,Greg King Defensive Rebound.,20,16,4,4,0.6978683237597073,0.6154560643214196,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,77,1,9:49,1789,1789,Dominik Fragala missed Three Point Jumper.,20,16,4,4,0.6979879052959365,0.6156596666190358,4,4,2.5,NA,NA,Niagara,missed,Dominik Fragala,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,78,1,9:49,1789,1789,Matt Morgan Block.,20,16,4,0,0.6979879052959365,0.6156596666190358,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,79,1,9:40,1780,1780,Joel Davis Defensive Rebound.,20,16,4,9,0.6982579710367949,0.6161195044618296,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,80,1,9:36,1776,1776,Foul on Raheem Solomon.,20,16,4,4,0.6983784915274871,0.6163246894878874,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,81,1,9:24,1764,1764,Joel Davis missed Dunk.,20,16,4,12,0.6987421032087744,0.61694347591316,4,4,2.5,NA,NA,Cornell,missed,Joel Davis,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,82,1,9:20,1760,1760,Josh Warren Offensive Rebound.,20,16,4,4,0.6988640534024778,0.6171508766093694,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,83,1,9:17,1757,1757,Josh Warren made Layup.,20,18,2,3,0.6464027056570839,0.5594835414164011,4,4,2.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,84,1,9:09,1749,1749,Raheem Solomon missed Three Point Jumper.,20,18,2,8,0.6464677036299891,0.5597013882278581,4,4,2.5,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,85,1,9:09,1749,1749,Cornell Defensive Rebound.,20,18,2,0,0.6464677036299891,0.5597013882278581,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,86,1,8:52,1732,1732,Josh Warren missed Layup.,20,18,2,17,0.646608460981497,0.5601691438199504,4,4,2.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,87,1,8:52,1732,1732,Cornell Offensive Rebound.,20,18,2,0,0.646608460981497,0.5601691438199504,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,88,1,8:45,1725,1725,Matt Morgan made Three Point Jumper. Assisted by Josh Warren.,20,21,-1,7,0.5598283153510968,0.4697073170370531,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,Josh Warren,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,89,1,8:30,1710,1710,Greg Kuakumensah missed Three Point Jumper.,20,21,-1,15,0.559335555209717,0.46949424019101954,4,4,2.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,90,1,8:26,1706,1706,Jake Kuhn Defensive Rebound.,20,21,-1,4,0.5592032860650309,0.46943688262116656,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,91,1,8:21,1701,1701,Matt Morgan made Layup.,20,23,-3,5,0.4979669835728802,0.40900436149034386,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,92,1,7:49,1669,1669,Dominik Fragala made Jumper.,22,23,-1,32,0.5579651758334279,0.4689029980229216,4,4,2.5,NA,NA,Niagara,made,Dominik Fragala,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,93,1,7:26,1646,1646,Foul on Raheem Solomon.,22,23,-1,23,0.5571871179657109,0.4685812724401714,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,94,1,7:26,1646,1646,Official TV Timeout,22,23,-1,0,0.5571871179657109,0.4685812724401714,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,95,1,7:26,1646,1646,Terrance McBride made Free Throw.,22,24,-2,0,0.5259549281086808,0.43740968560124915,4,4,2.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,96,1,7:26,1646,1646,Terrance McBride made Free Throw.,22,25,-3,0,0.49451831994845363,0.40672466482613245,4,4,2.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,97,1,7:12,1632,1632,Dominik Fragala missed Three Point Jumper.,22,25,-3,14,0.4936485676672389,0.40616499656247984,4,4,2.5,NA,NA,Niagara,missed,Dominik Fragala,NA,TRUE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,98,1,7:10,1630,1630,Niagara Offensive Rebound.,22,25,-3,2,0.4935243877456795,0.40608548370873926,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,99,1,7:02,1622,1622,James Towns made Layup.,24,25,-1,8,0.5563677319121193,0.4682521773694822,4,4,2.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,100,1,6:42,1602,1602,Jake Kuhn Turnover.,24,25,-1,20,0.55567806049486,0.46798039573200534,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,101,1,6:27,1587,1587,Dominic Robb missed Jumper.,24,25,-1,15,0.5551561950304463,0.4677766120289617,4,4,2.5,NA,NA,Niagara,missed,Dominic Robb,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,102,1,6:23,1583,1583,Troy Whiteside Defensive Rebound.,24,25,-1,4,0.5550163129558077,0.4677221416887046,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,103,1,6:06,1566,1566,Foul on Troy Whiteside.,24,25,-1,17,0.5544182232851796,0.46748945343887743,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,104,1,6:06,1566,1566,Troy Whiteside Turnover.,24,25,-1,0,0.5544182232851796,0.46748945343887743,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,105,1,5:48,1548,1548,Keleaf Tate made Jumper.,26,25,1,18,0.6173712283659414,0.5327601449252958,4,4,2.5,NA,NA,Niagara,made,Keleaf Tate,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,106,1,5:32,1532,1532,Matt Morgan missed Layup.,26,25,1,16,0.6172501973414163,0.5329860615105957,4,4,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,107,1,5:30,1530,1530,Keleaf Tate Defensive Rebound.,26,25,1,2,0.6172352803980944,0.5330146284419034,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,108,1,5:30,1530,1530,Keleaf Tate Turnover.,26,25,1,0,0.6172352803980944,0.5330146284419034,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,109,1,5:30,1530,1530,Matt Morgan Steal.,26,25,1,0,0.6172352803980944,0.5330146284419034,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,110,1,5:30,1530,1530,Terrance McBride Turnover.,26,25,1,0,0.6172352803980944,0.5330146284419034,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,111,1,5:17,1517,1517,Keleaf Tate made Layup.,28,25,3,13,0.6777468531183998,0.5984511113328203,4,4,2.5,NA,NA,Niagara,made,Keleaf Tate,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,112,1,4:52,1492,1492,Matt Morgan Turnover.,28,25,3,25,0.6782408947080607,0.5995303399013193,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,113,1,4:52,1492,1492,Marvin Prochet Steal.,28,25,3,0,0.6782408947080607,0.5995303399013193,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,114,1,4:47,1487,1487,Keleaf Tate missed Layup.,28,25,3,5,0.6783453608891745,0.5997522913938103,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,115,1,4:47,1487,1487,Steven Julian Block.,28,25,3,0,0.6783453608891745,0.5997522913938103,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,116,1,4:47,1487,1487,Niagara Offensive Rebound.,28,25,3,0,0.6783453608891745,0.5997522913938103,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,117,1,4:34,1474,1474,Chris Barton missed Layup.,28,25,3,13,0.6786272494477379,0.6003402051372205,4,4,2.5,NA,NA,Niagara,missed,Chris Barton,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,118,1,4:31,1471,1471,Cornell Defensive Rebound.,28,25,3,3,0.6786945536288327,0.6004782325380936,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,119,1,4:07,1447,1447,Josh Warren made Layup. Assisted by Jimmy Boeheim.,28,27,1,24,0.6167077054158151,0.5342965051211632,4,4,2.5,NA,NA,Cornell,made,Josh Warren,Jimmy Boeheim,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,120,1,4:00,1440,1440,Dominic Robb missed Layup.,28,27,1,7,0.61667074012604,0.534412266693522,4,4,2.5,NA,NA,Niagara,missed,Dominic Robb,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,121,1,4:00,1440,1440,Steven Julian Block.,28,27,1,0,0.61667074012604,0.534412266693522,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,122,1,3:59,1439,1439,Cornell Defensive Rebound.,28,27,1,1,0.6166652457370158,0.534428662413107,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,123,1,3:41,1421,1421,Jimmy Boeheim missed Jumper.,28,27,1,18,0.6165580744308585,0.5347184561330958,4,4,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,124,1,3:38,1418,1418,Marvin Prochet Defensive Rebound.,28,27,1,3,0.6165388228419066,0.534765886565718,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,125,1,3:35,1415,1415,Marvin Prochet made Three Point Jumper.,31,27,4,3,0.7095571607366391,0.6359693690559213,4,4,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,126,1,3:14,1394,1394,Official TV Timeout,31,27,4,21,0.7102388977870684,0.6371807937979844,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,127,1,3:04,1384,1384,Bryan Knapp made Layup. Assisted by Josh Warren.,31,29,2,10,0.6491427487564427,0.570233568892694,4,4,2.5,NA,NA,Cornell,made,Bryan Knapp,Josh Warren,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,128,1,2:54,1374,1374,Chris Barton missed Layup.,31,29,2,10,0.6492092258920706,0.5705335548280908,4,4,2.5,NA,NA,Niagara,missed,Chris Barton,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,129,1,2:52,1372,1372,Bryan Knapp Defensive Rebound.,31,29,2,2,0.6492223059247793,0.570593466680972,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,130,1,2:44,1364,1364,Matt Morgan made Three Point Jumper. Assisted by Josh Warren.,31,32,-1,8,0.5468555902772613,0.46440395444890575,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,Josh Warren,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,131,1,2:29,1349,1349,Keleaf Tate missed Three Point Jumper.,31,32,-1,15,0.5462771351576078,0.4641752058521849,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,132,1,2:25,1345,1345,Dominic Robb Offensive Rebound.,31,32,-1,4,0.5461221658887382,0.46411388959020294,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,133,1,2:22,1342,1342,Chris Barton made Jumper. Assisted by Keleaf Tate.,33,32,1,3,0.6159750667156343,0.5359322227717335,4,4,2.5,NA,NA,Niagara,made,Chris Barton,Keleaf Tate,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,134,1,2:14,1334,1334,Foul on Keleaf Tate.,33,32,1,8,0.6159128768715183,0.5360558211980213,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,135,1,1:56,1316,1316,Matt Morgan made Three Point Jumper.,33,35,-2,18,0.5087053750504239,0.4277050837945922,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,136,1,1:18,1278,1278,Matt Morgan made Three Point Jumper. Assisted by Josh Warren.,35,38,-3,38,0.46953661329052243,0.3906914144004719,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,Josh Warren,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,137,1,1:11,1271,1271,Keleaf Tate missed Three Point Jumper.,35,38,-3,7,0.4690026887631217,0.39034121276721656,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,138,1,1:07,1267,1267,Dominic Robb Offensive Rebound.,35,38,-3,4,0.4686944560382336,0.3901381252233893,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,139,1,1:05,1265,1265,Dominic Robb made Layup.,37,38,-1,2,0.5429189557868821,0.46280533670823504,4,4,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,140,1,0:48,1248,1248,Josh Warren missed Jumper.,37,38,-1,17,0.5422026061080705,0.46249352365000934,4,4,2.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,141,1,0:45,1245,1245,Dominic Robb Defensive Rebound.,37,38,-1,3,0.5420745260511274,0.4624367814721293,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,142,1,0:41,1241,1241,Marvin Prochet missed Jumper.,37,38,-1,4,0.5419029342211715,0.4623602696026748,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,143,1,0:38,1238,1238,Jimmy Boeheim Defensive Rebound.,37,38,-1,3,0.5417736136440522,0.4623022268951036,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,144,1,0:27,1227,1227,Cornell  Timeout,37,38,-1,11,0.541294672176525,0.46208434696053613,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,145,1,0:18,1218,1218,Foul on Chris Barton.,37,38,-1,9,0.5408969860432769,0.46189983455509476,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,146,1,0:10,1210,1210,Josh Warren made Layup. Assisted by Matt Morgan.,37,40,-3,8,0.4640020278079647,0.3869548944686454,3,4,2.5,NA,NA,Cornell,made,Josh Warren,Matt Morgan,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,147,1,0:06,1206,1206,Foul on Bryan Knapp.,37,40,-3,4,0.46365124470961683,0.3867104814106415,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,148,1,0:02,1202,1202,Foul on Steven Julian.,37,40,-3,4,0.4633029115541059,0.38646822339613696,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,149,1,0:02,1202,1202,Niagara  Timeout,37,40,-3,0,0.4633029115541059,0.38646822339613696,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,150,1,0:00,1200,1200,End of 1st half,37,40,-3,2,0.46312961950680825,0.38634786325026177,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,NA
+401085998,2018-12-16,Niagara,Cornell,151,2,20:00,1200,1200,PLAY,37,40,-3,0,0.46312961950680825,0.38634786325026177,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara
+401085998,2018-12-16,Niagara,Cornell,152,2,19:52,1192,1192,Foul on Terrance McBride.,37,40,-3,8,0.4624418691663483,0.38587118219303185,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,153,2,19:33,1173,1173,James Towns made Jumper.,39,40,-1,19,0.5389073170809752,0.46096520429102095,4,4,2.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,154,2,19:14,1154,1154,Matt Morgan missed Three Point Jumper.,39,40,-1,19,0.5380885214818095,0.46058675099135676,4,4,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,155,2,19:11,1151,1151,Marvin Prochet Defensive Rebound.,39,40,-1,3,0.5379598707802389,0.4605274655270612,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,156,2,19:05,1145,1145,Marvin Prochet missed Layup.,39,40,-1,6,0.5377028745484976,0.46040910834109394,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,157,2,19:01,1141,1141,Chris Barton Offensive Rebound.,39,40,-1,4,0.5375316966370355,0.4603303030583553,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,158,2,18:59,1139,1139,Keleaf Tate made Three Point Jumper. Assisted by Chris Barton.,42,40,2,2,0.6519405730040885,0.5789204016439486,4,4,2.5,NA,NA,Niagara,made,Keleaf Tate,Chris Barton,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,159,2,18:28,1108,1108,Steven Julian made Jumper. Assisted by Terrance McBride.,42,42,0,31,0.5759967925593372,0.5,4,4,2.5,NA,NA,Cornell,made,Steven Julian,Terrance McBride,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,160,2,18:11,1091,1091,Keleaf Tate missed Three Point Jumper.,42,42,0,17,0.5756107110783809,0.5,4,4,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,161,2,18:07,1087,1087,Cornell Defensive Rebound.,42,42,0,4,0.5755196482830313,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,162,2,17:42,1062,1062,Steven Julian missed Layup.,42,42,0,25,0.5749476985320082,0.5,4,4,2.5,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,163,2,17:40,1060,1060,Marvin Prochet Defensive Rebound.,42,42,0,2,0.5749016878675753,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,164,2,17:32,1052,1052,Keleaf Tate made Three Point Jumper. Assisted by James Towns.,45,42,3,8,0.6900201369839581,0.6222453938019109,4,4,2.5,NA,NA,Niagara,made,Keleaf Tate,James Towns,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,165,2,17:21,1041,1041,Foul on Dominic Robb.,45,42,3,11,0.6904381353737093,0.6229498652758131,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,166,2,17:21,1041,1041,Matt Morgan made Free Throw.,45,43,2,0,0.6535783604505835,0.5829086577064425,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,167,2,17:21,1041,1041,Matt Morgan made Free Throw.,45,44,1,0,0.6147784091870965,0.5417432655617682,4,4,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,168,2,17:05,1025,1025,Foul on Josh Warren.,45,44,1,16,0.614774242823624,0.5421186477648512,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,169,2,17:05,1025,1025,Dominic Robb made Free Throw.,46,44,2,0,0.6539166741052002,0.5836437658946276,4,4,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,170,2,17:05,1025,1025,Dominic Robb made Free Throw.,47,44,3,0,0.691080406537338,0.6240148155731878,4,4,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,171,2,16:51,1011,1011,Foul on James Towns.,47,44,3,14,0.691680221224706,0.6249911838836429,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,172,2,16:40,1000,1000,Josh Warren missed Layup.,47,44,3,11,0.6921792061362004,0.6257910028167197,4,4,2.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,173,2,16:40,1000,1000,Dominic Robb Block.,47,44,3,0,0.6921792061362004,0.6257910028167197,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,174,2,16:40,1000,1000,Cornell Offensive Rebound.,47,44,3,0,0.6921792061362004,0.6257910028167197,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,175,2,16:38,998,998,Josh Warren made Three Point Jumper. Assisted by Terrance McBride.,47,47,0,2,0.5734470122647677,0.5,4,4,2.5,NA,NA,Cornell,made,Josh Warren,Terrance McBride,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,176,2,16:14,974,974,Marvin Prochet missed Three Point Jumper.,47,47,0,24,0.5728642070206953,0.5,4,4,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,177,2,16:10,970,970,Matt Morgan Defensive Rebound.,47,47,0,4,0.5727657278607592,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,178,2,16:08,968,968,Foul on Keleaf Tate.,47,47,0,2,0.5727165602266012,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,179,2,16:01,961,961,Jimmy Boeheim missed Layup.,47,47,0,7,0.5725471341548154,0.5,4,4,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,180,2,15:56,956,956,Steven Julian Offensive Rebound.,47,47,0,5,0.5724285276882044,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,181,2,15:56,956,956,Steven Julian made Layup.,47,49,-2,0,0.48477877041297396,0.4127350640750448,4,4,2.5,NA,NA,Cornell,made,Steven Julian,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,182,2,15:43,943,943,Chris Barton missed Layup.,47,49,-2,13,0.4837887203588189,0.4120712704860946,4,4,2.5,NA,NA,Niagara,missed,Chris Barton,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,183,2,15:40,940,940,Jimmy Boeheim Defensive Rebound.,47,49,-2,3,0.48356808440981414,0.41192411762539893,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,184,2,15:36,936,936,Troy Whiteside missed Layup.,47,49,-2,4,0.4832780165206793,0.4117310657945256,4,4,2.5,NA,NA,Cornell,missed,Troy Whiteside,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,185,2,15:33,933,933,Steven Julian Offensive Rebound.,47,49,-2,3,0.4830633788069098,0.41158850390996776,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,186,2,15:13,913,913,Troy Whiteside made Three Point Jumper. Assisted by Matt Morgan.,47,52,-5,20,0.350913005860791,0.2884548861501708,4,4,2.5,NA,NA,Cornell,made,Troy Whiteside,Matt Morgan,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,187,2,15:04,904,904,Niagara  Timeout,47,52,-5,9,0.34981681302575557,0.2876249633971386,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,188,2,14:52,892,892,Keleaf Tate made Three Point Jumper. Assisted by James Towns.,50,52,-2,12,0.4803094311047182,0.40977508423787035,4,3,2.5,NA,NA,Niagara,made,Keleaf Tate,James Towns,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,189,2,14:29,869,869,Foul on Chris Barton.,50,52,-2,23,0.4788303304113686,0.408803834017661,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,190,2,14:29,869,869,Official TV Timeout,50,52,-2,0,0.4788303304113686,0.408803834017661,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,191,2,14:29,869,869,Jimmy Boeheim made Free Throw.,50,53,-3,0,0.4331070485081409,0.3650831984953505,4,3,2.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,192,2,14:29,869,869,Jimmy Boeheim missed Free Throw.,50,53,-3,0,0.4331070485081409,0.3650831984953505,4,3,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,193,2,14:27,867,867,Dominic Robb Defensive Rebound.,50,53,-3,2,0.4329368664327368,0.3649608730904556,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,194,2,14:12,852,852,Dominic Robb missed Layup.,50,53,-3,15,0.43164549516833384,0.3640300429325168,4,3,2.5,NA,NA,Niagara,missed,Dominic Robb,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,195,2,14:08,848,848,Terrance McBride Defensive Rebound.,50,53,-3,4,0.4312948576682105,0.36377635385608936,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,196,2,13:52,832,832,Jimmy Boeheim made Jumper. Assisted by Matt Morgan.,50,55,-5,16,0.34115652948103203,0.2810544631107893,4,3,2.5,NA,NA,Cornell,made,Jimmy Boeheim,Matt Morgan,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,197,2,13:35,815,815,Keleaf Tate made Jumper. Assisted by Dominic Robb.,52,55,-3,17,0.42822995900829014,0.36153707524334383,4,3,2.5,NA,NA,Niagara,made,Keleaf Tate,Dominic Robb,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,198,2,13:17,797,797,Terrance McBride missed Three Point Jumper.,52,55,-3,18,0.4263722648265002,0.36015940644577754,4,3,2.5,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,199,2,13:14,794,794,Dominic Robb Defensive Rebound.,52,55,-3,3,0.4260460979293708,0.3599159779494356,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,200,2,12:59,779,779,Chris Barton missed Three Point Jumper.,52,55,-3,15,0.42433356383899073,0.35863085701538605,4,3,2.5,NA,NA,Niagara,missed,Chris Barton,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,201,2,12:54,774,774,Jimmy Boeheim Defensive Rebound.,52,55,-3,5,0.423729923665389,0.35817524575581827,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,202,2,12:30,750,750,Steven Julian made Layup. Assisted by Jimmy Boeheim.,52,57,-5,24,0.328213897599073,0.2709895618844154,4,3,2.5,NA,NA,Cornell,made,Steven Julian,Jimmy Boeheim,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,203,2,12:15,735,735,Keleaf Tate Turnover.,52,57,-5,15,0.3251129880964592,0.26854155595329243,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,204,2,12:15,735,735,Jimmy Boeheim Steal.,52,57,-5,0,0.3251129880964592,0.26854155595329243,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,205,2,12:14,734,734,Foul on Marvin Prochet.,52,57,-5,1,0.3248959372636477,0.2683698556640987,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,206,2,12:01,721,721,Jimmy Boeheim missed Three Point Jumper.,52,57,-5,13,0.32207289592115107,0.2661390472238181,4,3,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,207,2,11:56,716,716,James Towns Defensive Rebound.,52,57,-5,5,0.32104765958578607,0.2653331885034554,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,208,2,11:52,712,712,James Towns missed Layup.,52,57,-5,4,0.32025201112261764,0.26470957397812633,4,3,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,209,2,11:52,712,712,Steven Julian Block.,52,57,-5,0,0.32025201112261764,0.26470957397812633,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,210,2,11:52,712,712,Niagara Offensive Rebound.,52,57,-5,0,0.32025201112261764,0.26470957397812633,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,211,2,11:52,712,712,Official TV Timeout,52,57,-5,0,0.32025201112261764,0.26470957397812633,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,212,2,11:31,691,691,Raheem Solomon missed Jumper.,52,57,-5,21,0.3163637750907978,0.2616838604725507,4,3,2.5,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,213,2,11:28,688,688,Josh Warren Defensive Rebound.,52,57,-5,3,0.3158392069225124,0.2612782050362964,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,214,2,11:01,661,661,Foul on Raheem Solomon.,52,57,-5,27,0.3112898334657737,0.25777661382013,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,215,2,11:01,661,661,Joel Davis made Free Throw.,52,58,-6,0,0.26784035281809343,0.21941679189918137,4,3,2.5,NA,NA,Cornell,made,Joel Davis,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,216,2,11:01,661,661,Joel Davis made Free Throw.,52,59,-7,0,0.22844387510209507,0.1853398841175928,4,3,2.5,NA,NA,Cornell,made,Joel Davis,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,217,2,11:01,661,661,Joel Davis made Free Throw.,52,60,-8,0,0.19331219889372298,0.15550104897542605,4,3,2.5,NA,NA,Cornell,made,Joel Davis,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,218,2,10:41,641,641,Foul on Joel Davis.,52,60,-8,20,0.189614116699943,0.1526719601376905,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,219,2,10:41,641,641,Raheem Solomon made Free Throw.,53,60,-7,0,0.2247329142045513,0.1824893963810564,4,3,2.5,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,220,2,10:41,641,641,Raheem Solomon made Free Throw.,54,60,-6,0,0.2642352938221886,0.21664137632946145,4,3,2.5,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,221,2,10:15,615,615,Matt Morgan missed Layup.,54,60,-6,26,0.25918363482440093,0.21273145528721601,4,3,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,222,2,10:09,609,609,Joel Davis Offensive Rebound.,54,60,-6,6,0.2579169987384787,0.2117454124043689,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,223,2,10:08,608,608,Joel Davis Turnover.,54,60,-6,1,0.25770126828006623,0.21157722908656607,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,224,2,10:08,608,608,Greg King Steal.,54,60,-6,0,0.25770126828006623,0.21157722908656607,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,225,2,9:57,597,597,Keleaf Tate made Three Point Jumper. Assisted by James Towns.,57,60,-3,11,0.39954186164608585,0.3399476405857343,4,3,2.5,NA,NA,Niagara,made,Keleaf Tate,James Towns,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,226,2,9:45,585,585,Foul on Raheem Solomon.,57,60,-3,12,0.3975101675888913,0.3383891389947112,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,227,2,9:45,585,585,Joel Davis made Free Throw.,57,61,-4,0,0.34539485479366694,0.29029026965104676,4,3,2.5,NA,NA,Cornell,made,Joel Davis,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,228,2,9:45,585,585,Joel Davis made Free Throw.,57,62,-5,0,0.2967468248136904,0.24648117501908165,4,3,2.5,NA,NA,Cornell,made,Joel Davis,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,229,2,9:24,564,564,Keleaf Tate missed Three Point Jumper.,57,62,-5,21,0.291291692192504,0.24215418159276436,4,3,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,230,2,9:19,559,559,Terrance McBride Defensive Rebound.,57,62,-5,5,0.2898531027189787,0.241006684253475,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,231,2,8:56,536,536,Josh Warren made Layup. Assisted by Terrance McBride.,57,64,-7,23,0.1977739803742559,0.16138655110776975,4,3,2.5,NA,NA,Cornell,made,Josh Warren,Terrance McBride,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,232,2,8:35,515,515,James Towns missed Layup.,57,64,-7,21,0.19230701579153522,0.15711998255254264,4,3,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,233,2,8:32,512,512,Steven Julian Defensive Rebound.,57,64,-7,3,0.191585189748382,0.15655960952250433,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,234,2,8:16,496,496,Foul on Greg King.,57,64,-7,16,0.18780284476656406,0.15362691074572454,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,235,2,8:16,496,496,Josh Warren made Free Throw.,57,65,-8,0,0.1534068650835473,0.12453052259569986,4,3,2.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,236,2,8:16,496,496,Josh Warren made Free Throw.,57,66,-9,0,0.124346029931102,0.10029188398342617,4,3,2.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,237,2,8:02,482,482,Keleaf Tate made Jumper. Assisted by Marvin Prochet.,59,66,-7,14,0.1843890443329951,0.1509743300882151,4,3,2.5,NA,NA,Niagara,made,Keleaf Tate,Marvin Prochet,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,238,2,7:43,463,463,Josh Warren missed Layup.,59,66,-7,19,0.1791866389313301,0.14690210852277372,4,3,2.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,239,2,7:40,460,460,Joel Davis Offensive Rebound.,59,66,-7,3,0.1782753829781467,0.1461846376468603,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,240,2,7:40,460,460,Joel Davis Turnover.,59,66,-7,0,0.1782753829781467,0.1461846376468603,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,241,2,7:40,460,460,Official TV Timeout,59,66,-7,0,0.1782753829781467,0.1461846376468603,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,242,2,7:25,445,445,Marvin Prochet Turnover.,59,66,-7,15,0.1732370140311865,0.14219767492143587,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,243,2,7:07,427,427,Foul on Greg King.,59,66,-7,18,0.16595907219263542,0.13639353343452226,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,244,2,7:07,427,427,Josh Warren made Free Throw.,59,67,-8,0,0.13259639066788118,0.10820332038556513,4,3,2.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,245,2,7:07,427,427,Josh Warren missed Free Throw.,59,67,-8,0,0.13259639066788118,0.10820332038556513,4,3,2.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,246,2,7:07,427,427,Dominic Robb Defensive Rebound.,59,67,-8,0,0.13259639066788118,0.10820332038556513,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,247,2,6:56,416,416,James Towns missed Jumper.,59,67,-8,11,0.12841065861483258,0.104895291244168,4,3,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,248,2,6:52,412,412,Chris Barton Offensive Rebound.,59,67,-8,4,0.1269726599226699,0.10376349313435594,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,249,2,6:38,398,398,Marvin Prochet made Jumper.,61,67,-6,14,0.19423432426534096,0.1613869451964497,4,3,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,250,2,6:14,374,374,Foul on Josh Warren.,61,67,-6,24,0.18521022969512896,0.1542801680793733,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,251,2,6:14,374,374,Josh Warren Turnover.,61,67,-6,0,0.18521022969512896,0.1542801680793733,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,252,2,5:48,348,348,Foul on Terrance McBride.,61,67,-6,26,0.1744194774500752,0.1457282805258912,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,253,2,5:48,348,348,James Towns made Free Throw.,62,67,-5,0,0.22099580790762735,0.1863726038745037,4,3,2.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,254,2,5:48,348,348,James Towns made Free Throw.,63,67,-4,0,0.2758539030571302,0.2352313844578284,4,3,2.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,255,2,5:38,338,338,Terrance McBride missed Layup.,63,67,-4,10,0.2713219259837777,0.2315912550720301,4,3,2.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,256,2,5:35,335,335,Marvin Prochet Defensive Rebound.,63,67,-4,3,0.2698818375161732,0.23042842316409554,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,257,2,5:31,331,331,James Towns missed Layup.,63,67,-4,4,0.2678989085066347,0.2288226283474187,4,3,2.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,258,2,5:31,331,331,Dominic Robb Offensive Rebound.,63,67,-4,0,0.2678989085066347,0.2288226283474187,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,259,2,5:31,331,331,Foul on Matt Morgan.,63,67,-4,0,0.2678989085066347,0.2288226283474187,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,260,2,5:31,331,331,Dominic Robb made Free Throw.,64,67,-3,0,0.33146509620797987,0.28674852728083794,4,3,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,261,2,5:31,331,331,Dominic Robb made Free Throw.,65,67,-2,0,0.4018354319207105,0.3526329743906526,4,3,2.5,NA,NA,Niagara,made,Dominic Robb,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,262,2,5:11,311,311,Matt Morgan missed Jumper.,65,67,-2,20,0.3943304391764941,0.3466917737386952,4,3,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,263,2,5:06,306,306,Keleaf Tate Defensive Rebound.,65,67,-2,5,0.3924091062447081,0.34517062989321345,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,264,2,5:03,303,303,Keleaf Tate missed Three Point Jumper.,65,67,-2,3,0.3914849414879531,0.34447363392075475,4,3,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,265,2,4:58,298,298,Steven Julian Defensive Rebound.,65,67,-2,5,0.3902988080039253,0.3436460235765494,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,266,2,4:51,291,291,Cornell  Timeout,65,67,-2,7,0.3892870146535754,0.34309980480718744,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,267,2,4:21,261,261,Chris Barton missed Layup.,65,69,-4,30,0.2524957549560087,0.21811863447638735,3,3,2.5,NA,NA,Niagara,missed,Chris Barton,NA,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,268,2,4:16,256,256,Steven Julian Defensive Rebound.,65,69,-4,5,0.25338053502203994,0.2191480702107651,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,269,2,3:57,237,237,Official TV Timeout,65,69,-4,19,0.2550019709732773,0.2215219956794385,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,270,2,3:53,233,233,Foul on Keleaf Tate.,65,69,-4,4,0.25468883028541517,0.22143589621184134,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,271,2,3:53,233,233,Jimmy Boeheim made Free Throw.,65,70,-5,0,0.19971303959169276,0.17198162047216964,3,3,2.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,272,2,3:53,233,233,Jimmy Boeheim missed Free Throw.,65,70,-5,0,0.19971303959169276,0.17198162047216964,3,3,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,273,2,3:52,232,232,Marvin Prochet Defensive Rebound.,65,70,-5,1,0.19959008686112267,0.17191335963624613,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,274,2,3:30,210,210,Marvin Prochet missed Three Point Jumper.,65,70,-5,22,0.19011287462437032,0.16439921313599767,3,3,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,275,2,3:28,208,208,Cornell Defensive Rebound.,65,70,-5,2,0.1884952781965078,0.16304396938764326,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,276,2,2:59,179,179,Steven Julian missed Layup.,65,70,-5,29,0.15142766317786563,0.13131644412278606,3,3,2.5,NA,NA,Cornell,missed,Steven Julian,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,277,2,2:55,175,175,James Towns Defensive Rebound.,65,70,-5,4,0.14583952473585252,0.12652006705673685,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,278,2,2:53,173,173,Keleaf Tate missed Three Point Jumper.,65,70,-5,2,0.14308039124381716,0.12415259214506447,3,3,2.5,NA,NA,Niagara,missed,Keleaf Tate,NA,TRUE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,279,2,2:51,171,171,Niagara Offensive Rebound.,65,70,-5,2,0.14034211719186823,0.12180336505317135,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,280,2,2:51,171,171,Niagara  Timeout,65,70,-5,0,0.14034211719186823,0.12180336505317135,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,281,2,2:34,154,154,Marvin Prochet made Jumper. Assisted by Keleaf Tate.,67,70,-3,17,0.2412387485172353,0.21373352803932616,3,2,2.5,NA,NA,Niagara,made,Marvin Prochet,Keleaf Tate,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,282,2,2:13,133,133,Josh Warren missed Three Point Jumper.,67,70,-3,21,0.21043814644779268,0.18682655670133697,3,2,2.5,NA,NA,Cornell,missed,Josh Warren,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,283,2,2:09,129,129,Keleaf Tate Defensive Rebound.,67,70,-3,4,0.20425549658247444,0.18141724471305756,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,284,2,2:00,120,120,Foul on Joel Davis.,67,70,-3,9,0.18996156488675933,0.16889970845965632,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,285,2,2:00,120,120,Marvin Prochet made Free Throw.,68,70,-2,0,0.2851389716823093,0.2568707553424527,3,2,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,286,2,2:00,120,120,Marvin Prochet made Free Throw.,69,70,-1,0,0.4042077588557924,0.370249068009691,3,2,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,287,2,1:39,99,99,Matt Morgan missed Jumper.,69,70,-1,21,0.3831370483483653,0.35194970019123467,3,2,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,FALSE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,288,2,1:36,96,96,Marvin Prochet Defensive Rebound.,69,70,-1,3,0.3797821797349118,0.34901448967326015,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,289,2,1:20,80,80,Dominic Robb made Layup. Assisted by Marvin Prochet.,71,70,1,16,0.6945292102136069,0.6672287375267801,3,2,2.5,NA,NA,Niagara,made,Dominic Robb,Marvin Prochet,FALSE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,290,2,1:05,65,65,Matt Morgan missed Three Point Jumper.,71,70,1,15,0.7087022810666821,0.683604056717259,3,2,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,291,2,1:02,62,62,James Towns Defensive Rebound.,71,70,1,3,0.71164794065273,0.6869984285499384,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,292,2,0:53,53,53,Foul on Troy Whiteside.,71,70,1,9,0.7206667168797298,0.6973757511737224,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,293,2,0:53,53,53,Marvin Prochet missed Free Throw.,71,70,1,0,0.7206667168797298,0.6973757511737224,3,2,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,294,2,0:53,53,53,Josh Warren Defensive Rebound.,71,70,1,0,0.7206667168797298,0.6973757511737224,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,295,2,0:47,47,47,Foul on Chris Barton.,71,70,1,6,0.7268499537678137,0.7044757245869732,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,296,2,0:47,47,47,Matt Morgan made Free Throw.,71,71,0,0,0.5274712853903185,0.5,3,2,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,297,2,0:47,47,47,Matt Morgan made Free Throw.,71,72,-1,0,0.3189270611992978,0.29552427541302684,3,2,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,298,2,0:43,43,43,Niagara  Timeout,71,72,-1,4,0.3134619467376205,0.2906986657227635,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,299,2,0:31,31,31,Foul on Steven Julian.,71,72,-1,12,0.2966831128005108,0.2758618507441576,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,300,2,0:31,31,31,Marvin Prochet made Free Throw.,72,72,0,0,0.5254627147669197,0.5,3,1,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,301,2,0:31,31,31,Marvin Prochet made Free Throw.,73,72,1,0,0.7440299857046372,0.7241381492558424,3,1,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,302,2,0:17,17,17,Jimmy Boeheim missed Jumper.,73,72,1,14,0.7595618826652768,0.7418515045362293,3,1,2.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,303,2,0:17,17,17,Marvin Prochet Defensive Rebound.,73,72,1,0,0.7595618826652768,0.7418515045362293,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,304,2,0:17,17,17,Foul on Jimmy Boeheim.,73,72,1,0,0.7595618826652768,0.7418515045362293,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,305,2,0:17,17,17,Marvin Prochet made Free Throw.,74,72,2,0,0.900777471752824,0.891989722174498,3,1,2.5,NA,NA,Niagara,made,Marvin Prochet,NA,FALSE,TRUE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,306,2,0:17,17,17,Marvin Prochet missed Free Throw.,74,72,2,0,0.900777471752824,0.891989722174498,3,1,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,FALSE,TRUE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,307,2,0:17,17,17,Jimmy Boeheim Defensive Rebound.,74,72,2,0,0.900777471752824,0.891989722174498,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,308,2,0:10,10,10,Foul on Chris Barton.,74,72,2,7,0.9087848887134665,0.9009619731336145,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,309,2,0:10,10,10,Matt Morgan made Free Throw.,74,73,1,0,0.7676177530940682,0.7510050166627159,3,1,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,310,2,0:10,10,10,Matt Morgan made Free Throw.,74,74,0,0,0.5227165197813571,0.5,3,1,2.5,NA,NA,Cornell,made,Matt Morgan,NA,FALSE,TRUE,Cornell,Niagara
+401085998,2018-12-16,Niagara,Cornell,311,2,0:03,3,3,Marvin Prochet missed Three Point Jumper.,74,74,0,7,0.521769335346176,0.5,3,1,2.5,NA,NA,Niagara,missed,Marvin Prochet,NA,TRUE,FALSE,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,312,2,0:01,1,1,Dominic Robb Offensive Rebound.,74,74,0,2,0.5214963333608967,0.5,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401085998,2018-12-16,Niagara,Cornell,313,2,0:01,1,1,Keleaf Tate made Three Point Jumper. Assisted by Dominic Robb.,77,74,3,0,0.9732007335633215,0.9708630270713,3,1,2.5,NA,NA,Niagara,made,Keleaf Tate,Dominic Robb,TRUE,FALSE,Niagara,Cornell
+401085998,2018-12-16,Niagara,Cornell,314,2,0:00,0,0,Matt Morgan missed Three Point Jumper.,77,77,0,1,1,1,3,1,2.5,NA,NA,Cornell,missed,Matt Morgan,NA,TRUE,FALSE,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,315,2,0:00,0,0,Cornell Offensive Rebound.,77,77,0,0,1,1,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401085998,2018-12-16,Niagara,Cornell,316,2,0:00,0,0,End of 2nd half,77,77,0,0,NA,NA,3,1,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA

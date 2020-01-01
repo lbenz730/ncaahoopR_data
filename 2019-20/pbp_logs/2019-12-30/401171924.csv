@@ -1,0 +1,306 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171924,2019-12-30,Columbia,Albany,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6255983205785358,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Columbia
+401171924,2019-12-30,Columbia,Albany,2,1,19:39,2379,2379,Mike Smith Turnover.,0,0,0,21,0.6253446376415792,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,3,1,19:21,2361,2361,Ahmad Clark Turnover.,0,0,0,18,0.6251220187622593,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,4,1,19:21,2361,2361,Mike Smith Steal.,0,0,0,0,0.6251220187622593,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,5,1,19:11,2351,2351,Mike Smith missed Jumper.,0,0,0,10,0.6249962291798037,0.5,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,6,1,19:05,2345,2345,Ike Nweke Offensive Rebound.,0,0,0,6,0.6249200197897012,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,7,1,19:04,2344,2344,Ike Nweke missed Jumper.,0,0,0,1,0.624907264169034,0.5,4,4,3.2,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,8,1,19:00,2340,2340,Trey Hutcheson Defensive Rebound.,0,0,0,4,0.6248560864737428,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,9,1,18:48,2328,2328,Malachi De Sousa made Layup.,0,2,-2,12,0.5809718559522704,0.4544302840785048,4,4,3.2,NA,NA,Albany,made,Malachi De Sousa,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,10,1,18:22,2302,2302,Tai Bibbs missed Three Point Jumper.,0,2,-2,26,0.5800516719301612,0.4538569829834506,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,11,1,18:16,2296,2296,Malachi De Sousa Defensive Rebound.,0,2,-2,6,0.5798366155063007,0.4537236562407298,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,12,1,18:06,2286,2286,Antonio Rizzuto made Three Point Jumper.,0,5,-5,10,0.510203063110484,0.3854826320344855,4,4,3.2,NA,NA,Albany,made,Antonio Rizzuto,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,13,1,17:43,2263,2263,Jake Killingsworth missed Layup.,0,5,-5,23,0.5085607181481913,0.384249213166358,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,14,1,17:40,2260,2260,Ahmad Clark Defensive Rebound.,0,5,-5,3,0.5083449160860362,0.38408761963594046,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,15,1,17:38,2258,2258,Ahmad Clark made Layup.,0,7,-7,2,0.46101191629199034,0.3403430830765595,4,4,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,16,1,17:38,2258,2258,Foul on Randy Brumant.,0,7,-7,0,0.46101191629199034,0.3403430830765595,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,17,1,17:38,2258,2258,Ahmad Clark missed Free Throw.,0,7,-7,0,0.46101191629199034,0.3403430830765595,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,FALSE,TRUE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,18,1,17:38,2258,2258,Trey Hutcheson Offensive Rebound.,0,7,-7,0,0.46101191629199034,0.3403430830765595,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,19,1,17:38,2258,2258,Trey Hutcheson made Layup.,0,9,-9,0,0.41451158193626064,0.2992563394467891,4,4,3.2,NA,NA,Albany,made,Trey Hutcheson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,20,1,17:10,2230,2230,Tai Bibbs missed Three Point Jumper.,0,9,-9,28,0.4112960316550355,0.29684099882289333,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,21,1,17:05,2225,2225,Malachi De Sousa Defensive Rebound.,0,9,-9,5,0.4107185280716047,0.29640863791858935,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,22,1,16:55,2215,2215,Malachi De Sousa missed Jumper.,0,9,-9,10,0.40956077290631415,0.29554319261825074,4,4,3.2,NA,NA,Albany,missed,Malachi De Sousa,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,23,1,16:52,2212,2212,Ike Nweke Defensive Rebound.,0,9,-9,3,0.4092127590689865,0.29528339590449887,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,24,1,16:48,2208,2208,Mike Smith missed Jumper.,0,9,-9,4,0.4087482656006409,0.2949369000563919,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,25,1,16:43,2203,2203,Ahmad Clark Defensive Rebound.,0,9,-9,5,0.40816690621544033,0.2945036382532999,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,26,1,16:36,2196,2196,Ahmad Clark missed Layup.,0,9,-9,7,0.40735166888400737,0.29389685405066407,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,27,1,16:32,2192,2192,Ike Nweke Defensive Rebound.,0,9,-9,4,0.4068851472757275,0.2935500309370079,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,28,1,16:17,2177,2177,Foul on Brent Hank.,0,9,-9,15,0.4051316258054688,0.29224912506184325,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,29,1,16:15,2175,2175,Mike Smith made Jumper.,2,9,-7,2,0.4530483576506531,0.3343477850678983,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,30,1,15:51,2151,2151,Antonio Rizzuto missed Three Point Jumper.,2,9,-7,24,0.45070048721802836,0.3326017841529204,4,4,3.2,NA,NA,Albany,missed,Antonio Rizzuto,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,31,1,15:46,2146,2146,Joseph Smoyer Defensive Rebound.,2,9,-7,5,0.4502083183570606,0.3322368542696369,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,32,1,15:36,2136,2136,Foul on Kendall Lauderdale.,2,9,-7,10,0.44922072875244595,0.33150564989247777,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,33,1,15:36,2136,2136,Official TV Timeout,2,9,-7,0,0.44922072875244595,0.33150564989247777,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,34,1,15:36,2136,2136,Mike Smith missed Free Throw.,2,9,-7,0,0.44922072875244595,0.33150564989247777,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,35,1,15:36,2136,2136,Columbia Deadball Team Rebound.,2,9,-7,0,0.44922072875244595,0.33150564989247777,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,36,1,15:36,2136,2136,Mike Smith made Free Throw.,3,9,-6,0,0.4741176103388589,0.35407251521310246,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,37,1,15:17,2117,2117,Ahmad Clark missed Three Point Jumper.,3,9,-6,19,0.472438327006277,0.35283859967085685,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,38,1,15:14,2114,2114,Joseph Smoyer Defensive Rebound.,3,9,-6,3,0.47217173738420176,0.35264312436080414,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,39,1,14:50,2090,2090,Randy Brumant made Jumper.,5,9,-4,24,0.5211698510798108,0.3990195435539744,4,4,3.2,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,40,1,14:50,2090,2090,Antonio Rizzuto missed Three Point Jumper.,5,9,-4,0,0.5211698510798108,0.3990195435539744,4,4,3.2,NA,NA,Albany,missed,Antonio Rizzuto,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,41,1,14:50,2090,2090,Mike Smith Defensive Rebound.,5,9,-4,0,0.5211698510798108,0.3990195435539744,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,42,1,14:31,2071,2071,Joseph Smoyer Turnover.,5,9,-4,19,0.5199052454397328,0.3981402716044274,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,43,1,14:04,2044,2044,Kendall Lauderdale missed Jumper.,5,9,-4,27,0.5180834765110656,0.3968788529705244,4,4,3.2,NA,NA,Albany,missed,Kendall Lauderdale,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,44,1,13:58,2038,2038,Randy Brumant Defensive Rebound.,5,9,-4,6,0.5176746152719144,0.3965965293459684,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,45,1,13:35,2015,2015,Mike Smith made Layup.,7,9,-2,23,0.5686895500628041,0.44717029382836343,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,46,1,13:15,1995,1995,Foul on Ike Nweke.,7,9,-2,20,0.5678122615327275,0.44667539563390546,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,47,1,13:06,1986,1986,JoJo Anderson Turnover.,7,9,-2,9,0.5674135820883089,0.4464510012097531,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,48,1,13:01,1981,1981,Mike Smith missed Layup.,7,9,-2,5,0.5671910403135219,0.44632587109568933,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,49,1,12:57,1977,1977,Ike Nweke Offensive Rebound.,7,9,-2,4,0.5670124632565726,0.44622552346837313,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,50,1,12:56,1976,1976,Ike Nweke made Layup.,9,9,0,1,0.6190516458706287,0.5,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,51,1,12:40,1960,1960,Romani Hansen missed Jumper.,9,9,0,16,0.6187459057243835,0.5,4,4,3.2,NA,NA,Albany,missed,Romani Hansen,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,52,1,12:35,1955,1955,Ike Nweke Defensive Rebound.,9,9,0,5,0.6186495802705853,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,53,1,12:14,1934,1934,Jake Killingsworth missed Three Point Jumper.,9,9,0,21,0.618241006842865,0.5,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,54,1,12:10,1930,1930,Malachi De Sousa Defensive Rebound.,9,9,0,4,0.6181624571434131,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,55,1,11:56,1916,1916,Albany  Turnover.,9,9,0,14,0.6178850118471938,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,56,1,11:56,1916,1916,Official TV Timeout,9,9,0,0,0.6178850118471938,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,57,1,11:41,1901,1901,Jake Killingsworth made Three Point Jumper. Assisted by Mike Smith.,12,9,3,15,0.6931734779952269,0.5831444794407763,4,4,3.2,NA,NA,Columbia,made,Jake Killingsworth,Mike Smith,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,58,1,11:18,1878,1878,JoJo Anderson made Three Point Jumper. Assisted by Romani Hansen.,12,12,0,23,0.6171114704485106,0.5,4,4,3.2,NA,NA,Albany,made,JoJo Anderson,Romani Hansen,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,59,1,11:07,1867,1867,Luke Bolster missed Three Point Jumper.,12,12,0,11,0.6168822563808444,0.5,4,4,3.2,NA,NA,Columbia,missed,Luke Bolster,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,60,1,11:03,1863,1863,Romani Hansen Defensive Rebound.,12,12,0,4,0.6167983437595648,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,61,1,10:52,1852,1852,Cameron Healy missed Three Point Jumper.,12,12,0,11,0.6165660752589686,0.5,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,62,1,10:45,1845,1845,Jake Killingsworth Defensive Rebound.,12,12,0,7,0.6164171396872485,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,63,1,10:36,1836,1836,Ike Nweke missed Layup.,12,12,0,9,0.6162243949944233,0.5,4,4,3.2,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,64,1,10:33,1833,1833,Romani Hansen Defensive Rebound.,12,12,0,3,0.6161598386238394,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,65,1,10:23,1823,1823,Romani Hansen made Layup. Assisted by Cameron Healy.,12,14,-2,10,0.5598145200582456,0.44226948796934684,4,4,3.2,NA,NA,Albany,made,Romani Hansen,Cameron Healy,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,66,1,10:01,1801,1801,Jake Killingsworth missed Jumper.,12,14,-2,22,0.5587364220410022,0.44169262416690125,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,67,1,9:57,1797,1797,Ike Nweke Offensive Rebound.,12,14,-2,4,0.5585388149066152,0.4415870423303952,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,68,1,9:56,1796,1796,Ike Nweke made Jumper.,14,14,0,1,0.6153516001047279,0.5,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,69,1,9:40,1780,1780,Cameron Healy missed Jumper.,14,14,0,16,0.6149956006678315,0.5,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,70,1,9:37,1777,1777,Tai Bibbs Defensive Rebound.,14,14,0,3,0.614928442039708,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,71,1,9:29,1769,1769,Foul on Cameron Healy.,14,14,0,8,0.6147487418821138,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,72,1,9:25,1765,1765,Mike Smith missed Jumper.,14,14,0,4,0.6146585650425892,0.5,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,73,1,9:21,1761,1761,Ahmad Clark Defensive Rebound.,14,14,0,4,0.6145681747944306,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,74,1,9:10,1750,1750,Ahmad Clark missed Three Point Jumper.,14,14,0,11,0.614318528375792,0.5,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,75,1,9:06,1746,1746,Ike Nweke Defensive Rebound.,14,14,0,4,0.6142273674705694,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,76,1,8:59,1739,1739,Luke Bolster missed Three Point Jumper.,14,14,0,7,0.6140673624072246,0.5,4,4,3.2,NA,NA,Columbia,missed,Luke Bolster,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,77,1,8:54,1734,1734,Kendall Lauderdale Defensive Rebound.,14,14,0,5,0.613952712459597,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,78,1,8:36,1716,1716,Trey Hutcheson missed Jumper.,14,14,0,18,0.613537592218993,0.5,4,4,3.2,NA,NA,Albany,missed,Trey Hutcheson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,79,1,8:31,1711,1711,Randy Brumant Defensive Rebound.,14,14,0,5,0.6134216477871256,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,80,1,8:31,1711,1711,Randy Brumant Turnover.,14,14,0,0,0.6134216477871256,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,81,1,8:31,1711,1711,Kendall Lauderdale Steal.,14,14,0,0,0.6134216477871256,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,82,1,8:08,1688,1688,Ahmad Clark Turnover.,14,14,0,23,0.6128849543152113,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,83,1,8:08,1688,1688,Mike Smith Steal.,14,14,0,0,0.6128849543152113,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,84,1,8:01,1681,1681,Tai Bibbs made Layup. Assisted by Mike Smith.,16,14,2,7,0.6696225646600473,0.5616153789188235,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,Mike Smith,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,85,1,7:59,1679,1679,Foul on Kendall Lauderdale.,16,14,2,2,0.6696292921232172,0.5616722771641911,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,86,1,7:56,1676,1676,Tai Bibbs missed Free Throw.,16,14,2,3,0.6696388486512772,0.5617573137871905,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,87,1,7:53,1673,1673,Kendall Lauderdale Defensive Rebound.,16,14,2,3,0.6696477800191803,0.5618419905853336,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,88,1,7:43,1663,1663,Cameron Healy Turnover.,16,14,2,10,0.6696732736118606,0.5621218365722349,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,89,1,7:43,1663,1663,Jake Killingsworth Steal.,16,14,2,0,0.6696732736118606,0.5621218365722349,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,90,1,7:34,1654,1654,Jake Killingsworth missed Three Point Jumper.,16,14,2,9,0.6696910203892826,0.5623708690959547,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,91,1,7:30,1650,1650,Ike Nweke Offensive Rebound.,16,14,2,4,0.6696974637729295,0.5624807984178459,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,92,1,7:28,1648,1648,Ike Nweke made Jumper.,18,14,4,2,0.7227791672908632,0.6231448800842986,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,93,1,6:59,1619,1619,Trey Hutcheson made Three Point Jumper. Assisted by Malachi De Sousa.,18,17,1,29,0.6409764614945025,0.5317886696630236,4,4,3.2,NA,NA,Albany,made,Trey Hutcheson,Malachi De Sousa,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,94,1,6:39,1599,1599,Luke Bolster missed Layup.,18,17,1,20,0.640724794180492,0.5320603267215861,4,4,3.2,NA,NA,Columbia,missed,Luke Bolster,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,95,1,6:33,1593,1593,Cameron Healy Defensive Rebound.,18,17,1,6,0.6406476685515435,0.5321418082347733,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,96,1,6:25,1585,1585,Cameron Healy missed Jumper.,18,17,1,8,0.6405439574373682,0.5322506132922464,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,97,1,6:21,1581,1581,Mike Smith Defensive Rebound.,18,17,1,4,0.6404917918925844,0.5323051252240589,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,98,1,6:16,1576,1576,Mike Smith missed Layup.,18,17,1,5,0.6404263526690481,0.5323734027008216,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,99,1,6:13,1573,1573,Kendall Lauderdale Defensive Rebound.,18,17,1,3,0.6403869872085939,0.5324144557275214,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,100,1,6:09,1569,1569,Trey Hutcheson made Three Point Jumper. Assisted by Malachi De Sousa.,18,20,-2,4,0.5465237975772179,0.43533407889627845,4,4,3.2,NA,NA,Albany,made,Trey Hutcheson,Malachi De Sousa,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,101,1,5:41,1541,1541,Luke Bolster Turnover.,18,20,-2,28,0.5449644691426853,0.4345657071928335,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,102,1,5:41,1541,1541,Official TV Timeout,18,20,-2,0,0.5449644691426853,0.4345657071928335,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,103,1,5:32,1532,1532,Foul on Jake Killingsworth.,18,20,-2,9,0.5444563705145906,0.43431376456176324,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,104,1,5:32,1532,1532,Sasha French missed Free Throw.,18,20,-2,0,0.5444563705145906,0.43431376456176324,4,4,3.2,NA,NA,Albany,missed,Sasha French,NA,FALSE,TRUE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,105,1,5:32,1532,1532,Albany Deadball Team Rebound.,18,20,-2,0,0.5444563705145906,0.43431376456176324,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,106,1,5:32,1532,1532,Sasha French made Free Throw.,18,21,-3,0,0.5115379880994836,0.4021755399001593,4,4,3.2,NA,NA,Albany,made,Sasha French,NA,FALSE,TRUE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,107,1,5:08,1508,1508,Jake Killingsworth missed Three Point Jumper.,18,21,-3,24,0.5098041074720951,0.4011658321658603,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,108,1,5:06,1506,1506,Ahmad Clark Defensive Rebound.,18,21,-3,2,0.5096576491023977,0.40107991379129143,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,109,1,4:55,1495,1495,Cameron Healy missed Layup.,18,21,-3,11,0.5088461829061746,0.40060178500734767,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,110,1,4:51,1491,1491,Randy Brumant Defensive Rebound.,18,21,-3,4,0.5085485072102413,0.4004254462216812,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,111,1,4:36,1476,1476,Foul on Ahmad Clark.,18,21,-3,15,0.5074190272525086,0.3997513081732286,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,112,1,4:36,1476,1476,Mike Smith made Free Throw.,19,21,-2,0,0.5412010561155075,0.4326613787219527,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,113,1,4:36,1476,1476,Mike Smith made Free Throw.,20,21,-1,0,0.5746085546547602,0.4661766157236473,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,114,1,4:13,1453,1453,Sasha French made Jumper.,20,23,-3,23,0.5056429987964156,0.39867338489725523,4,4,3.2,NA,NA,Albany,made,Sasha French,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,115,1,3:42,1422,1422,Joseph Smoyer missed Layup.,20,23,-3,31,0.5032308266377873,0.39721048183742624,4,4,3.2,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,116,1,3:39,1419,1419,Sasha French Defensive Rebound.,20,23,-3,3,0.5030006385164666,0.39707333833928277,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,117,1,3:35,1415,1415,Trey Hutcheson missed Three Point Jumper.,20,23,-3,4,0.5026944041423103,0.3968914716736923,4,4,3.2,NA,NA,Albany,missed,Trey Hutcheson,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,118,1,3:32,1412,1412,Tai Bibbs Defensive Rebound.,20,23,-3,3,0.5024651946939153,0.3967557654624584,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,119,1,3:32,1412,1412,Foul on Joseph Smoyer.,20,23,-3,0,0.5024651946939153,0.3967557654624584,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,120,1,3:32,1412,1412,Official TV Timeout,20,23,-3,0,0.5024651946939153,0.3967557654624584,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,121,1,3:16,1396,1396,JoJo Anderson missed Layup.,20,23,-3,16,0.5012479630034544,0.39604038896762495,4,4,3.2,NA,NA,Albany,missed,JoJo Anderson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,122,1,3:08,1388,1388,Jake Killingsworth Defensive Rebound.,20,23,-3,8,0.5006415072130592,0.39568677523390006,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,123,1,2:58,1378,1378,Mike Smith made Jumper.,22,23,-1,10,0.5703000847305693,0.4646168543525624,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,124,1,2:32,1352,1352,Ahmad Clark made Layup.,22,25,-3,26,0.4979094487505935,0.3941067349697349,4,4,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,125,1,2:15,1335,1335,Jake Killingsworth missed Three Point Jumper.,22,25,-3,17,0.49660555521500643,0.39335407632807734,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,126,1,2:10,1330,1330,Sasha French Defensive Rebound.,22,25,-3,5,0.4962189799446958,0.3931304141835511,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,127,1,1:52,1312,1312,Malachi De Sousa made Three Point Jumper.,22,28,-6,18,0.38737651445560933,0.2941730020995604,4,4,3.2,NA,NA,Albany,made,Malachi De Sousa,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,128,1,1:30,1290,1290,Jake Killingsworth missed Jumper.,22,28,-6,22,0.38467763406666805,0.29237225004614464,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,129,1,1:25,1285,1285,Randy Brumant Offensive Rebound.,22,28,-6,5,0.38405101142797426,0.2919516735205738,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,130,1,1:24,1284,1284,Randy Brumant missed Layup.,22,28,-6,1,0.38392502694283903,0.2918669896440492,4,4,3.2,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,131,1,1:23,1283,1283,Ike Nweke Offensive Rebound.,22,28,-6,1,0.38379881654192766,0.29178211080127575,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,132,1,1:23,1283,1283,Foul on Sasha French.,22,28,-6,0,0.38379881654192766,0.29178211080127575,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,133,1,1:10,1270,1270,Mike Smith missed Jumper.,22,28,-6,13,0.38213637042912274,0.29065988718517793,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,134,1,1:06,1266,1266,Ahmad Clark Defensive Rebound.,22,28,-6,4,0.3816162216875991,0.2903070921407907,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,135,1,0:59,1259,1259,Ahmad Clark Turnover.,22,28,-6,7,0.38069541845248966,0.2896805050630099,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,136,1,0:59,1259,1259,Tai Bibbs Steal.,22,28,-6,0,0.38069541845248966,0.2896805050630099,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,137,1,0:55,1255,1255,Tai Bibbs made Dunk.,24,28,-4,4,0.452818606214988,0.3545414259002475,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,138,1,0:41,1241,1241,Ahmad Clark Turnover.,24,28,-4,14,0.45134221406563285,0.35357142588618623,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,139,1,0:41,1241,1241,Ike Nweke Steal.,24,28,-4,0,0.45134221406563285,0.35357142588618623,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,140,1,0:40,1240,1240,Foul on Sasha French.,24,28,-4,1,0.4512350008705904,0.3535005065324356,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,141,1,0:40,1240,1240,Tai Bibbs missed Free Throw.,24,28,-4,0,0.4512350008705904,0.3535005065324356,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,142,1,0:40,1240,1240,Columbia Deadball Team Rebound.,24,28,-4,0,0.4512350008705904,0.3535005065324356,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,143,1,0:40,1240,1240,Tai Bibbs made Free Throw.,25,28,-3,0,0.4888118295849035,0.3887034161158233,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,144,1,0:40,1240,1240,Columbia  Timeout,25,28,-3,0,0.4888118295849035,0.3887034161158233,3,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,145,1,0:16,1216,1216,Foul on Joseph Smoyer.,25,28,-3,24,0.4866218201806812,0.38731927795665727,3,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,146,1,0:07,1207,1207,Foul on Tai Bibbs.,25,28,-3,9,0.48577103947534184,0.38677137772773545,3,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,147,1,0:07,1207,1207,Albany  Timeout,25,28,-3,0,0.48577103947534184,0.38677137772773545,3,3,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,148,1,0:03,1203,1203,Romani Hansen missed Layup.,25,28,-3,4,0.4853939981359107,0.3865285927396723,3,3,3.2,NA,NA,Albany,missed,Romani Hansen,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,149,1,0:03,1203,1203,Randy Brumant Defensive Rebound.,25,28,-3,0,0.4853939981359107,0.3865285927396723,3,3,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,150,1,0:03,1203,1203,Randy Brumant Block.,25,28,-3,0,0.4853939981359107,0.3865285927396723,3,3,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,151,1,0:00,1200,1200,End of 1st half,25,28,-3,3,0.4851127955401613,0.38634786325026177,3,3,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,NA
+401171924,2019-12-30,Columbia,Albany,152,2,20:00,1200,1200,PLAY,25,28,-3,0,0.4851127955401613,0.38634786325026177,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Columbia
+401171924,2019-12-30,Columbia,Albany,153,2,19:50,1190,1190,Foul on Sasha French.,25,28,-3,10,0.4841843927462115,0.3857531234098843,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,154,2,19:50,1190,1190,Sasha French Turnover.,25,28,-3,0,0.4841843927462115,0.3857531234098843,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,155,2,19:26,1166,1166,Randy Brumant Turnover.,25,28,-3,24,0.48200097445751683,0.3843641800971132,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,156,2,19:26,1166,1166,Trey Hutcheson Steal.,25,28,-3,0,0.48200097445751683,0.3843641800971132,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,157,2,19:18,1158,1158,Foul on Tai Bibbs.,25,28,-3,8,0.4812831621909336,0.3839097579552733,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,158,2,19:15,1155,1155,Trey Hutcheson Turnover.,25,28,-3,3,0.4810148365291667,0.3837400781184905,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,159,2,19:04,1144,1144,Mike Smith made Free Throw.,26,28,-2,11,0.5197066276067808,0.42127289501209686,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,161,2,19:04,1144,1144,Mike Smith made Free Throw.,27,28,-1,0,0.5591325921250778,0.4603894019325894,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,162,2,18:50,1130,1130,Ahmad Clark made Three Point Jumper. Assisted by Antonio Rizzuto.,27,31,-4,14,0.43910712453124257,0.34535025650275614,4,4,3.2,NA,NA,Albany,made,Ahmad Clark,Antonio Rizzuto,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,163,2,18:29,1109,1109,Tai Bibbs missed Three Point Jumper.,27,31,-4,21,0.436842912591556,0.34383600047661134,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,164,2,18:24,1104,1104,Kendall Lauderdale Defensive Rebound.,27,31,-4,5,0.4362998217321354,0.34347205609746995,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,165,2,18:18,1098,1098,Kendall Lauderdale missed Jumper.,27,31,-4,6,0.43564507350563325,0.343032733509974,4,4,3.2,NA,NA,Albany,missed,Kendall Lauderdale,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,166,2,18:18,1098,1098,Ike Nweke Block.,27,31,-4,0,0.43564507350563325,0.343032733509974,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,167,2,18:11,1091,1091,Mike Smith Defensive Rebound.,27,31,-4,7,0.43487622711487145,0.3425159565078259,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,168,2,18:02,1082,1082,Tai Bibbs made Layup.,29,31,-2,9,0.5153701238117255,0.4188381432499221,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,169,2,17:47,1067,1067,Antonio Rizzuto made Three Point Jumper. Assisted by Ahmad Clark.,29,34,-5,15,0.3922219080255545,0.3046547817824308,4,4,3.2,NA,NA,Albany,made,Antonio Rizzuto,Ahmad Clark,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,170,2,17:33,1053,1053,Ike Nweke made Layup. Assisted by Mike Smith.,31,34,-3,14,0.471714662458285,0.37781763619281267,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,Mike Smith,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,171,2,16:58,1018,1018,Ahmad Clark missed Layup.,31,34,-3,35,0.4681929182288006,0.37550254787905774,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,172,2,16:58,1018,1018,Randy Brumant Block.,31,34,-3,0,0.4681929182288006,0.37550254787905774,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,173,2,16:52,1012,1012,Mike Smith Defensive Rebound.,31,34,-3,6,0.46755912247603126,0.37508005278921713,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,174,2,16:51,1011,1011,Mike Smith missed Three Point Jumper.,31,34,-3,1,0.467452525242983,0.3750088161163571,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,175,2,16:45,1005,1005,Randy Brumant Offensive Rebound.,31,34,-3,6,0.4668069522231678,0.37457630164603645,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,176,2,16:45,1005,1005,Mike Smith made Three Point Jumper. Assisted by Randy Brumant.,34,34,0,0,0.5937925573293715,0.5,4,4,3.2,NA,NA,Columbia,made,Mike Smith,Randy Brumant,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,177,2,16:25,985,985,Antonio Rizzuto missed Three Point Jumper.,34,34,0,20,0.5931845492631227,0.5,4,4,3.2,NA,NA,Albany,missed,Antonio Rizzuto,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,178,2,16:20,980,980,Randy Brumant Defensive Rebound.,34,34,0,5,0.5930307556754422,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,179,2,16:01,961,961,Jake Killingsworth Turnover.,34,34,0,19,0.5924448011894358,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,180,2,15:52,952,952,Foul on Kendall Lauderdale.,34,34,0,9,0.5921769091493245,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,181,2,15:52,952,952,Kendall Lauderdale Turnover.,34,34,0,0,0.5921769091493245,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,182,2,15:52,952,952,Official TV Timeout,34,34,0,0,0.5921769091493245,0.5,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,183,2,15:38,938,938,Jake Killingsworth made Jumper.,36,34,2,14,0.6743054063609923,0.5881728455232507,4,4,3.2,NA,NA,Columbia,made,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,184,2,15:17,917,917,Foul on Randy Brumant.,36,34,2,21,0.6746619173651931,0.5891441446526968,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,185,2,15:12,912,912,Trey Hutcheson made Three Point Jumper. Assisted by Romani Hansen.,36,37,-1,5,0.5467864337888901,0.45495475439843064,4,4,3.2,NA,NA,Albany,made,Trey Hutcheson,Romani Hansen,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,186,2,14:51,891,891,Mike Smith made Layup.,38,37,1,21,0.6338167890998051,0.5455074909259239,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,187,2,14:34,874,874,Romani Hansen missed Three Point Jumper.,38,37,1,17,0.6337415341130781,0.5458751573338769,4,4,3.2,NA,NA,Albany,missed,Romani Hansen,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,188,2,14:26,866,866,Mike Smith Defensive Rebound.,38,37,1,8,0.6337079231319053,0.5460492087971994,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,189,2,14:26,866,866,Mike Smith Turnover.,38,37,1,0,0.6337079231319053,0.5460492087971994,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,190,2,14:26,866,866,Ahmad Clark Steal.,38,37,1,0,0.6337079231319053,0.5460492087971994,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,191,2,14:17,857,857,Foul on Sasha French.,38,37,1,9,0.6336721877748048,0.5462475324140237,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,192,2,14:17,857,857,Sasha French Turnover.,38,37,1,0,0.6336721877748048,0.5462475324140237,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,193,2,14:06,846,846,Mike Smith Turnover.,38,37,1,11,0.633632323978043,0.5464955887172783,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,194,2,13:54,834,834,Cameron Healy missed Three Point Jumper.,38,37,1,12,0.6335948042144346,0.5467762259933318,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,TRUE,FALSE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,195,2,13:49,829,829,Romani Hansen Offensive Rebound.,38,37,1,5,0.6335813282369048,0.5468970361963211,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,196,2,13:33,813,813,Romani Hansen made Layup.,38,39,-1,16,0.5418799055187831,0.4526973678374731,4,4,3.2,NA,NA,Albany,made,Romani Hansen,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,197,2,13:29,809,809,Ike Nweke Turnover.,38,39,-1,4,0.541660291272648,0.45259078187039065,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,198,2,13:07,787,787,Ahmad Clark missed Three Point Jumper.,38,39,-1,22,0.5403853868574109,0.4519595206632,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,199,2,13:03,783,783,Mike Smith Defensive Rebound.,38,39,-1,4,0.5401397654199394,0.4518355251445259,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,200,2,12:51,771,771,Ike Nweke made Layup.,40,39,1,12,0.6335545049600733,0.5485558957963156,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,201,2,12:34,754,754,Malachi De Sousa missed Layup.,40,39,1,17,0.633605505229213,0.5491656819752061,4,4,3.2,NA,NA,Albany,missed,Malachi De Sousa,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,202,2,12:21,741,741,Mike Smith Defensive Rebound.,40,39,1,13,0.6336671077112827,0.5496811164949055,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,203,2,12:14,734,734,Jake Killingsworth missed Layup.,40,39,1,7,0.6337090847713288,0.5499779998304718,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,204,2,12:07,727,727,Malachi De Sousa Defensive Rebound.,40,39,1,7,0.6337559166399527,0.5502863422922066,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,205,2,12:03,723,723,Ahmad Clark missed Layup.,40,39,1,4,0.6337793532741983,0.5504579551587195,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,FALSE,FALSE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,206,2,12:00,720,720,Ahmad Clark Offensive Rebound.,40,39,1,3,0.6337946915504851,0.5505832972838995,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,207,2,12:00,720,720,Ahmad Clark Turnover.,40,39,1,0,0.6337946915504851,0.5505832972838995,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,208,2,12:00,720,720,Jake Killingsworth Steal.,40,39,1,0,0.6337946915504851,0.5505832972838995,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,209,2,12:00,720,720,Official TV Timeout,40,39,1,0,0.6337946915504851,0.5505832972838995,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,210,2,11:42,702,702,Ike Nweke missed Jumper.,40,39,1,18,0.6338517875096581,0.5512833451996001,4,4,3.2,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,211,2,11:38,698,698,Romani Hansen Defensive Rebound.,40,39,1,4,0.6338575929274712,0.5514288079135841,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,212,2,11:21,681,681,Romani Hansen Turnover.,40,39,1,17,0.6338622535080245,0.5520187062193805,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,213,2,10:57,657,657,Jake Killingsworth missed Three Point Jumper.,40,39,1,24,0.6338388200258576,0.5528137049676969,4,4,3.2,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,214,2,10:53,653,653,Ike Nweke Offensive Rebound.,40,39,1,4,0.6338343605367954,0.5529464810564814,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,215,2,10:40,640,640,Luke Bolster missed Jumper.,40,39,1,13,0.6338239202253517,0.5533867732645816,4,4,3.2,NA,NA,Columbia,missed,Luke Bolster,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,216,2,10:36,636,636,Ike Nweke Offensive Rebound.,40,39,1,4,0.6338227659427645,0.5535262415708168,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,217,2,10:36,636,636,Foul on Romani Hansen.,40,39,1,0,0.6338227659427645,0.5535262415708168,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,218,2,10:32,632,632,Mike Smith missed Jumper.,40,39,1,4,0.6338229618497571,0.5536681986353356,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,219,2,10:28,628,628,Trey Hutcheson Defensive Rebound.,40,39,1,4,0.6338247260318749,0.5538129925015173,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,220,2,10:14,614,614,JoJo Anderson missed Jumper.,40,39,1,14,0.6338463991708111,0.5543471333074694,4,4,3.2,NA,NA,Albany,missed,JoJo Anderson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,221,2,10:11,611,611,Luke Bolster Defensive Rebound.,40,39,1,3,0.6338547881369101,0.5544680994176798,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,222,2,9:52,592,592,Tai Bibbs made Three Point Jumper. Assisted by Jake Killingsworth.,43,39,4,19,0.7712755811807065,0.7085708915569942,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,Jake Killingsworth,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,223,2,9:30,570,570,Cameron Healy made Layup.,43,41,2,22,0.6850033191854068,0.6114715003951141,4,4,3.2,NA,NA,Albany,made,Cameron Healy,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,224,2,9:10,550,550,Tai Bibbs missed Layup.,43,41,2,20,0.6863999535379797,0.6138853319382451,4,4,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,225,2,9:05,545,545,Ike Nweke Offensive Rebound.,43,41,2,5,0.6867744143420952,0.6145242237215509,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,226,2,9:04,544,544,Ike Nweke made Layup.,45,41,4,1,0.7776982386404583,0.7178414716768786,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,227,2,8:53,533,533,JoJo Anderson missed Three Point Jumper.,45,41,4,11,0.7791917999109038,0.7200036786200243,4,4,3.2,NA,NA,Albany,missed,JoJo Anderson,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,228,2,8:50,530,530,Luke Bolster Defensive Rebound.,45,41,4,3,0.7795650768865819,0.7205510501864134,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,229,2,8:50,530,530,Foul on Sasha French.,45,41,4,0,0.7795650768865819,0.7205510501864134,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,230,2,8:36,516,516,Ike Nweke made Jumper.,47,41,6,14,0.8522110496799985,0.808241150453226,4,4,3.2,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,231,2,8:27,507,507,Official TV Timeout,47,41,6,9,0.8533719584364888,0.8099165309602705,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,232,2,8:12,492,492,Kendall Lauderdale missed Jumper.,47,41,6,15,0.8552880241132587,0.8126843448502667,4,4,3.2,NA,NA,Albany,missed,Kendall Lauderdale,NA,FALSE,FALSE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,233,2,8:12,492,492,Randy Brumant Block.,47,41,6,0,0.8552880241132587,0.8126843448502667,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,234,2,8:05,485,485,Kendall Lauderdale Offensive Rebound.,47,41,6,7,0.8562182806036375,0.8140221191293274,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,235,2,8:04,484,484,Cameron Healy made Three Point Jumper. Assisted by Kendall Lauderdale.,47,44,3,1,0.7401044261001279,0.6767391433886247,4,4,3.2,NA,NA,Albany,made,Cameron Healy,Kendall Lauderdale,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,236,2,7:36,456,456,Jake Killingsworth Turnover.,47,44,3,28,0.7430791373837947,0.681307962528246,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,237,2,7:36,456,456,Official TV Timeout,47,44,3,0,0.7430791373837947,0.681307962528246,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,238,2,7:28,448,448,Foul on Ike Nweke.,47,44,3,8,0.7441719799398586,0.6829173872679349,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,239,2,7:06,426,426,Malachi De Sousa missed Three Point Jumper.,47,44,3,22,0.7479408940665067,0.6883001687178804,4,4,3.2,NA,NA,Albany,missed,Malachi De Sousa,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,240,2,7:02,422,422,Tai Bibbs Defensive Rebound.,47,44,3,4,0.7486615017539974,0.6893317408351559,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,241,2,6:36,396,396,Tai Bibbs made Three Point Jumper. Assisted by Mike Smith.,50,44,6,26,0.8743566587726914,0.8392021406943295,4,4,3.2,NA,NA,Columbia,made,Tai Bibbs,Mike Smith,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,242,2,6:14,374,374,Trey Hutcheson missed Layup.,50,44,6,22,0.8789996935499838,0.8457198319206267,4,4,3.2,NA,NA,Albany,missed,Trey Hutcheson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,243,2,6:05,365,365,Randy Brumant Defensive Rebound.,50,44,6,9,0.8810057312072601,0.8485217653993194,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,244,2,6:04,364,364,Randy Brumant missed Three Point Jumper.,50,44,6,1,0.8812355724578819,0.8488417350827672,4,4,3.2,NA,NA,Columbia,missed,Randy Brumant,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,245,2,5:57,357,357,Cameron Healy Defensive Rebound.,50,44,6,7,0.8828919842048786,0.8511403031539636,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,246,2,5:41,341,341,Malachi De Sousa missed Layup.,50,44,6,16,0.8870639321497518,0.856868671994938,4,4,3.2,NA,NA,Albany,missed,Malachi De Sousa,NA,FALSE,FALSE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,247,2,5:36,336,336,Malachi De Sousa Offensive Rebound.,50,44,6,5,0.8885001532519962,0.8588209026954853,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,248,2,5:34,334,334,Malachi De Sousa missed Layup.,50,44,6,2,0.8890944952933869,0.8596260079254432,4,4,3.2,NA,NA,Albany,missed,Malachi De Sousa,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,249,2,5:32,332,332,Randy Brumant Defensive Rebound.,50,44,6,2,0.8897006171404918,0.8604454621135585,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,250,2,5:32,332,332,Foul on Cameron Healy.,50,44,6,0,0.8897006171404918,0.8604454621135585,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,251,2,5:32,332,332,Mike Smith made Free Throw.,51,44,7,0,0.9161270946055533,0.8930384821653464,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,252,2,5:32,332,332,Mike Smith made Free Throw.,52,44,8,0,0.9366727519778508,0.9187382878767131,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,253,2,5:23,323,323,Foul on Mike Smith.,52,44,8,9,0.9390371661818716,0.9219286461991518,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,254,2,5:04,304,304,Trey Hutcheson made Layup.,52,46,6,19,0.8990534271135541,0.8729624689590989,4,4,3.2,NA,NA,Albany,made,Trey Hutcheson,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,255,2,4:43,283,283,Mike Smith missed Three Point Jumper.,52,46,6,21,0.9002248914945558,0.8751652056259809,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,256,2,4:39,279,279,Kendall Lauderdale Defensive Rebound.,52,46,6,4,0.8997909347129336,0.8747840000330049,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,257,2,4:36,276,276,Ahmad Clark missed Three Point Jumper.,52,46,6,3,0.899374420322365,0.874388485737419,4,4,3.2,NA,NA,Albany,missed,Ahmad Clark,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,258,2,4:32,272,272,Tai Bibbs Defensive Rebound.,52,46,6,4,0.8987216681051114,0.8737447440633574,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,259,2,4:12,252,252,Randy Brumant missed Jumper.,52,46,6,20,0.894832572658178,0.869812858960771,4,4,3.2,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,260,2,4:08,248,248,Trey Hutcheson Defensive Rebound.,52,46,6,4,0.8941569835453801,0.869159810718717,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,261,2,4:05,245,245,Cameron Healy missed Three Point Jumper.,52,46,6,3,0.893722888594318,0.8687595251053282,4,4,3.2,NA,NA,Albany,missed,Cameron Healy,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,262,2,4:01,241,241,Randy Brumant Defensive Rebound.,52,46,6,4,0.8932690430623239,0.868378623225273,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,263,2,3:37,217,217,Foul on Malachi De Sousa.,52,46,6,24,0.8953927136104589,0.8719393409907313,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,264,2,3:37,217,217,Official TV Timeout,52,46,6,0,0.8953927136104589,0.8719393409907313,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,265,2,3:37,217,217,Mike Smith missed Free Throw.,52,46,6,0,0.8953927136104589,0.8719393409907313,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,266,2,3:37,217,217,Columbia Deadball Team Rebound.,52,46,6,0,0.8953927136104589,0.8719393409907313,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,267,2,3:37,217,217,Mike Smith made Free Throw.,53,46,7,0,0.9217778816346291,0.9036032978184779,4,4,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,268,2,3:26,206,206,Cameron Healy made Three Point Jumper. Assisted by Malachi De Sousa.,53,49,4,11,0.8237091118431681,0.7887347862550862,4,4,3.2,NA,NA,Albany,made,Cameron Healy,Malachi De Sousa,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,269,2,2:52,172,172,Mike Smith missed Three Point Jumper.,53,49,4,34,0.85579078328935,0.828016940661324,4,4,3.2,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,270,2,2:47,167,167,Cameron Healy Defensive Rebound.,53,49,4,5,0.8608659260693623,0.8342055860202876,4,4,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,271,2,2:27,147,147,Malachi De Sousa made Layup.,53,51,2,20,0.7503632013968283,0.7116585941809387,4,4,3.2,NA,NA,Albany,made,Malachi De Sousa,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,272,2,2:23,143,143,Albany  Timeout,53,51,2,4,0.7539080291804044,0.7159492320651124,4,3,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,273,2,2:12,132,132,Tai Bibbs made Three Point Jumper. Assisted by Mike Smith.,56,51,5,11,0.9343546588513675,0.9217273577263333,4,3,3.2,NA,NA,Columbia,made,Tai Bibbs,Mike Smith,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,274,2,1:47,107,107,Ahmad Clark made Jumper.,56,53,3,25,0.8710817845682762,0.849961421319068,4,3,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,275,2,1:43,103,103,Albany  Timeout,56,53,3,4,0.8760833242640852,0.8559195714926925,4,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,276,2,1:22,82,82,Mike Smith made Three Point Jumper.,59,53,6,21,0.9863470465998893,0.9839834337813971,4,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,TRUE,FALSE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,277,2,1:01,61,61,Malachi De Sousa made Three Point Jumper. Assisted by Trey Hutcheson.,59,56,3,21,0.9257915046057459,0.9148438761127525,4,2,3.2,NA,NA,Albany,made,Malachi De Sousa,Trey Hutcheson,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,278,2,0:47,47,47,Foul on Malachi De Sousa.,59,56,3,14,0.9397382290582054,0.9312536898885019,4,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,279,2,0:47,47,47,Mike Smith made Free Throw.,60,56,4,0,0.9738040765409808,0.9699625217761105,4,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,280,2,0:47,47,47,Mike Smith made Free Throw.,61,56,5,0,0.9888412428745109,0.9871758040321901,4,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,281,2,0:37,37,37,Foul on Ike Nweke.,61,56,5,10,0.9916267621144572,0.990433863832788,4,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,282,2,0:37,37,37,Ahmad Clark made Free Throw.,61,57,4,0,0.9790885123272148,0.9761523029871113,4,2,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,TRUE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,283,2,0:37,37,37,Ahmad Clark made Free Throw.,61,58,3,0,0.9487456693541356,0.9418022278349464,4,2,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,TRUE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,284,2,0:37,37,37,Columbia  Timeout,61,58,3,0,0.9487456693541356,0.9418022278349464,3,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,285,2,0:35,35,35,Foul on Malachi De Sousa.,61,58,3,2,0.9504426727065185,0.9437843975811644,3,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,286,2,0:35,35,35,Mike Smith made Free Throw.,62,58,4,0,0.9800433070733088,0.9772669019809318,3,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,287,2,0:35,35,35,Mike Smith made Free Throw.,63,58,5,0,0.9921102254736057,0.9909971667647242,3,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,288,2,0:24,24,24,Ahmad Clark made Three Point Jumper.,63,61,2,11,0.8951941628530216,0.8827846648962041,3,2,3.2,NA,NA,Albany,made,Ahmad Clark,NA,TRUE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,289,2,0:22,22,22,Columbia  Timeout,63,61,2,2,0.8974703648809546,0.8854308957696941,2,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,290,2,0:12,12,12,Foul on Antonio Rizzuto.,63,61,2,10,0.908684284212044,0.8984309706555195,2,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,291,2,0:12,12,12,Mike Smith made Free Throw.,64,61,3,0,0.9673157106935516,0.9633804737910664,2,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,292,2,0:12,12,12,Mike Smith made Free Throw.,65,61,4,0,0.9887668132298899,0.9873806270068883,2,2,3.2,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,293,2,0:10,10,10,Foul on Mike Smith.,65,61,4,2,0.989358623558888,0.9880608141620681,2,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Albany
+401171924,2019-12-30,Columbia,Albany,295,2,0:05,5,5,Tai Bibbs missed Free Throw.,65,64,1,0,0.7777458701042332,0.7576160231918674,2,2,3.2,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,296,2,0:05,5,5,Columbia Deadball Team Rebound.,65,64,1,0,0.7777458701042332,0.7576160231918674,2,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,297,2,0:05,5,5,Tai Bibbs made Free Throw.,66,64,2,0,0.916233026645328,0.9071486990502441,2,2,3.2,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,298,2,0:05,5,5,Foul on Trey Hutcheson.,66,64,2,0,0.916233026645328,0.9071486990502441,2,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,299,2,0:05,5,5,Malachi De Sousa made Three Point Jumper.,65,64,1,0,0.7777458701042332,0.7576160231918674,2,2,3.2,NA,NA,Albany,made,Malachi De Sousa,NA,TRUE,FALSE,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,300,2,0:05,5,5,Columbia  Timeout,65,64,1,0,0.7777458701042332,0.7576160231918674,1,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401171924,2019-12-30,Columbia,Albany,302,2,0:02,2,2,Ahmad Clark made Layup.,66,66,0,0,0.5276791536071025,0.5,1,2,3.2,NA,NA,Albany,made,Ahmad Clark,NA,FALSE,FALSE,Albany,Columbia
+401171924,2019-12-30,Columbia,Albany,303,2,0:00,0,0,Foul on Tai Bibbs.,66,66,0,2,NA,NA,1,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,304,2,0:00,0,0,Cameron Healy made Free Throw.,66,66,0,0,2.3011176691790313e-9,2.0611536181902033e-9,1,2,3.2,NA,NA,Albany,made,Cameron Healy,NA,FALSE,TRUE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,305,2,0:00,0,0,Cameron Healy missed Free Throw.,66,66,0,0,2.3011176691790313e-9,2.0611536181902033e-9,1,2,3.2,NA,NA,Albany,missed,Cameron Healy,NA,FALSE,TRUE,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,306,2,0:00,0,0,Malachi De Sousa Offensive Rebound.,66,66,0,0,2.3011176691790313e-9,2.0611536181902033e-9,1,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,Albany
+401171924,2019-12-30,Columbia,Albany,307,2,0:00,0,0,End of 2nd half,66,66,0,0,NA,NA,1,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,NA
+401171924,2019-12-30,Columbia,Albany,308,2,0:00,0,0,End of Game,66,66,0,0,2.3011176691790313e-9,2.0611536181902033e-9,1,2,3.2,NA,NA,NA,NA,NA,NA,NA,NA,Albany,NA
