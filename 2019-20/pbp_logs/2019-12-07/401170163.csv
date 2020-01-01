@@ -1,0 +1,350 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401170163,2019-12-07,Fordham,Manhattan,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,2,1,19:42,2382,2682,Pauly Paulicap missed Layup.,0,0,0,18,0.6901257740864503,0.5,4,4,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,3,1,19:42,2382,2682,Onyi Eyisi Block.,0,0,0,0,0.6901257740864503,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,4,1,19:33,2373,2673,Pauly Paulicap Offensive Rebound.,0,0,0,9,0.6899684399861993,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,5,1,19:32,2372,2672,Pauly Paulicap made Layup.,0,2,-2,1,0.6504326228592257,0.4553819653286264,4,4,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,6,1,19:11,2351,2651,Antwon Portley made Three Point Jumper. Assisted by Chuba Ohams.,3,2,1,21,0.7085853778007315,0.5225805267521474,4,4,5,NA,NA,Fordham,made,Antwon Portley,Chuba Ohams,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,7,1,18:45,2325,2625,Samir Stewart missed Three Point Jumper.,3,2,1,26,0.7083610534833434,0.5228654589235167,4,4,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,8,1,18:43,2323,2623,Chuba Ohams Defensive Rebound.,3,2,1,2,0.708343335654464,0.5228875473071123,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,9,1,18:31,2311,2611,Antwon Portley missed Three Point Jumper.,3,2,1,12,0.7082355855995623,0.5230205596670452,4,4,5,NA,NA,Fordham,missed,Antwon Portley,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,10,1,18:28,2308,2608,Tyler Reynolds Defensive Rebound.,3,2,1,3,0.708208255079121,0.5230539385201218,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,11,1,18:24,2304,2604,Samir Stewart Turnover.,3,2,1,4,0.708171565347871,0.5230985195738199,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,12,1,18:17,2297,2597,Chuba Ohams Turnover.,3,2,1,7,0.7081066643410824,0.5231767404535681,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,13,1,18:02,2282,2582,Tyler Reynolds missed Three Point Jumper.,3,2,1,15,0.7079645438860667,0.5233451933869412,4,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,14,1,18:00,2280,2580,Erten Gazi Defensive Rebound.,3,2,1,2,0.7079452736544035,0.5233677364068907,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,15,1,17:46,2266,2566,Jalen Cobb missed Jumper.,3,2,1,14,0.7078082093447627,0.523526051435561,4,4,5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,16,1,17:43,2263,2563,Pauly Paulicap Defensive Rebound.,3,2,1,3,0.7077783355145435,0.5235600888317214,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,17,1,17:32,2252,2552,Tyler Reynolds Turnover.,3,2,1,11,0.7076672428895623,0.523685214139179,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,18,1,17:32,2252,2552,Onyi Eyisi Steal.,3,2,1,0,0.7076672428895623,0.523685214139179,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,19,1,17:24,2244,2544,Erten Gazi made Jumper.,5,2,3,8,0.7453642412749787,0.5709023243373903,4,4,5,NA,NA,Fordham,made,Erten Gazi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,20,1,16:58,2218,2518,Tyler Reynolds missed Three Point Jumper.,5,2,3,26,0.745564080949923,0.5717810761948814,4,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,21,1,16:56,2216,2516,Erten Gazi Defensive Rebound.,5,2,3,2,0.7455790319561804,0.5718489256498293,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,22,1,16:35,2195,2495,Onyi Eyisi missed Layup.,5,2,3,21,0.7457320494510953,0.5725632195630992,4,4,5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,23,1,16:32,2192,2492,Tyler Reynolds Defensive Rebound.,5,2,3,3,0.7457532911352689,0.5726655165928087,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,24,1,16:24,2184,2484,Samir Stewart Turnover.,5,2,3,8,0.7458091405816215,0.5729385836985241,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,25,1,16:24,2184,2484,Erten Gazi Steal.,5,2,3,0,0.7458091405816215,0.5729385836985241,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,26,1,16:04,2164,2464,Erten Gazi missed Jumper.,5,2,3,20,0.7459435700063909,0.5736228816547175,4,4,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,27,1,16:02,2162,2462,Tykei Greene Defensive Rebound.,5,2,3,2,0.7459566553077014,0.5736914885964052,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,28,1,15:53,2153,2453,Elijah Buchanan missed Layup.,5,2,3,9,0.7460148787629539,0.574000754757323,4,4,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,29,1,15:53,2153,2453,Onyi Eyisi Block.,5,2,3,0,0.7460148787629539,0.574000754757323,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,30,1,15:51,2151,2451,Fordham Defensive Rebound.,5,2,3,2,0.7460276733985685,0.5740696017908535,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,31,1,15:51,2151,2451,Official TV Timeout,5,2,3,0,0.7460276733985685,0.5740696017908535,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,32,1,15:51,2151,2451,Fordham  Timeout,5,2,3,0,0.7460276733985685,0.5740696017908535,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,33,1,15:42,2142,2442,Foul on Chuba Ohams.,5,2,3,9,0.7460846213553659,0.5743799751788942,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,34,1,15:42,2142,2442,Chuba Ohams Turnover.,5,2,3,0,0.7460846213553659,0.5743799751788942,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,35,1,15:29,2129,2429,Elijah Buchanan Turnover.,5,2,3,13,0.7461651337876756,0.5748299713663794,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,36,1,15:29,2129,2429,Chuba Ohams Steal.,5,2,3,0,0.7461651337876756,0.5748299713663794,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,37,1,15:06,2106,2406,Onyi Eyisi missed Layup.,5,2,3,23,0.7463028947367546,0.5756312846537486,3,4,5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,38,1,15:03,2103,2403,Christian Hinckson Defensive Rebound.,5,2,3,3,0.7463204524724074,0.5757363153245717,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,39,1,14:53,2093,2393,Foul on Onyi Eyisi.,5,2,3,10,0.7463783394969359,0.5760873083578365,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,40,1,14:46,2086,2386,Samir Stewart Turnover.,5,2,3,7,0.746418299269336,0.576333838316147,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,41,1,14:30,2070,2370,Erten Gazi missed Layup.,5,2,3,16,0.7465080207632656,0.5769000159904796,3,4,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,42,1,14:27,2067,2367,Joel Soriano Offensive Rebound.,5,2,3,3,0.7465246080307094,0.577006601573104,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,43,1,14:27,2067,2367,Joel Soriano missed Layup.,5,2,3,0,0.7465246080307094,0.577006601573104,3,4,5,NA,NA,Fordham,missed,Joel Soriano,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,44,1,14:24,2064,2364,Christian Hinckson Defensive Rebound.,5,2,3,3,0.7465411248402057,0.5771133253031837,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,45,1,14:24,2064,2364,Christian Hinckson Turnover.,5,2,3,0,0.7465411248402057,0.5771133253031837,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,46,1,14:15,2055,2355,Erten Gazi made Jumper. Assisted by Antwon Portley.,7,2,5,9,0.7839229117440262,0.6272451488777904,3,4,5,NA,NA,Fordham,made,Erten Gazi,Antwon Portley,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,47,1,13:59,2039,2339,Christian Hinckson missed Layup.,7,2,5,16,0.7842653442976019,0.6281613920855911,3,4,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,48,1,13:57,2037,2337,Tykei Greene Offensive Rebound.,7,2,5,2,0.7843081621754121,0.6282763550482867,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,49,1,13:56,2036,2336,Tykei Greene made Layup.,7,4,3,1,0.7466921755818279,0.5781163148708798,3,4,5,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,50,1,13:35,2015,2315,Erten Gazi missed Three Point Jumper.,7,4,3,21,0.7468023094020727,0.5788771723151209,3,4,5,NA,NA,Fordham,missed,Erten Gazi,NA,TRUE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,51,1,13:32,2012,2312,Joel Soriano Offensive Rebound.,7,4,3,3,0.746817859018044,0.5789864993493538,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,52,1,13:30,2010,2310,Erten Gazi missed Three Point Jumper.,7,4,3,2,0.7468282024644309,0.579059474071448,3,4,5,NA,NA,Fordham,missed,Erten Gazi,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,53,1,13:27,2007,2307,Manhattan Defensive Rebound.,7,4,3,3,0.7468436843694551,0.5791690721718554,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,54,1,13:12,1992,2292,Tyler Reynolds Turnover.,7,4,3,15,0.746920548298007,0.5797195545264839,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,55,1,13:12,1992,2292,Jalen Cobb Steal.,7,4,3,0,0.746920548298007,0.5797195545264839,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,56,1,13:08,1988,2288,Jalen Cobb made Layup.,9,4,5,4,0.7853602554309328,0.6311250154890536,3,4,5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,57,1,13:08,1988,2288,Manhattan  Timeout,9,4,5,0,0.7853602554309328,0.6311250154890536,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,58,1,12:43,1963,2263,Samir Stewart made Three Point Jumper. Assisted by Nehemiah Mack.,9,7,2,25,0.7259857679292503,0.5541274301505975,3,3,5,NA,NA,Manhattan,made,Samir Stewart,Nehemiah Mack,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,59,1,12:15,1935,2235,Erten Gazi missed Layup.,9,7,2,28,0.7258457616896484,0.5548417430415424,3,3,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,60,1,12:13,1933,2233,Samir Stewart Defensive Rebound.,9,7,2,2,0.7258355623264503,0.5548932088801155,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,61,1,12:03,1923,2223,Tyler Reynolds missed Three Point Jumper.,9,7,2,10,0.7257835642533088,0.555150951152577,3,3,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,62,1,12:00,1920,2220,Jalen Cobb Defensive Rebound.,9,7,2,3,0.7257673843899711,0.5552282092553373,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,63,1,11:54,1914,2214,Josh Colon missed Three Point Jumper.,9,7,2,6,0.7257342039553372,0.5553826234312512,3,3,5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,64,1,11:51,1911,2211,Pauly Paulicap Defensive Rebound.,9,7,2,3,0.725717213759741,0.555459787815079,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,65,1,11:42,1902,2202,Tyler Reynolds missed Three Point Jumper.,9,7,2,9,0.7256647055208568,0.555691160002145,3,3,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,66,1,11:40,1900,2200,Joel Soriano Defensive Rebound.,9,7,2,2,0.7256527336634797,0.5557425592993829,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,67,1,11:32,1892,2192,Erten Gazi made Three Point Jumper. Assisted by Josh Colon.,12,7,5,8,0.7874347488005409,0.6368768076375445,3,3,5,NA,NA,Fordham,made,Erten Gazi,Josh Colon,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,68,1,11:18,1878,2178,Foul on Jalen Cobb.,12,7,5,14,0.7877254119978805,0.6377192408456538,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,69,1,11:18,1878,2178,Official TV Timeout,12,7,5,0,0.7877254119978805,0.6377192408456538,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,70,1,11:09,1869,2169,Foul on Joel Soriano.,12,7,5,9,0.7879104088156081,0.638260981257985,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,71,1,10:52,1852,2152,Samir Stewart Turnover.,12,7,5,17,0.7882568274464813,0.6392856953641772,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,72,1,10:34,1834,2134,Ivan Raut missed Three Point Jumper.,12,7,5,18,0.7886207991980613,0.6403743600729814,3,3,5,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,73,1,10:31,1831,2131,Joel Soriano Offensive Rebound.,12,7,5,3,0.7886813060912529,0.6405563126381448,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,74,1,10:20,1820,2120,Josh Colon missed Three Point Jumper.,12,7,5,11,0.788903046961524,0.6412250042974057,3,3,5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,75,1,10:17,1817,2117,Elijah Buchanan Defensive Rebound.,12,7,5,3,0.7889635274018305,0.6414078344487817,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,76,1,10:07,1807,2107,Elijah Buchanan missed Jumper.,12,7,5,10,0.7891653111052335,0.6420188734715883,3,3,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,77,1,10:02,1802,2102,Christian Hinckson Offensive Rebound.,12,7,5,5,0.7892663792226524,0.6423253977468899,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,78,1,9:58,1798,2098,Christian Hinckson missed Three Point Jumper.,12,7,5,4,0.7893473543071429,0.6425711392533157,3,3,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,79,1,9:55,1795,2095,Ivan Raut Defensive Rebound.,12,7,5,3,0.7894081692011623,0.6427557645692232,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,80,1,9:37,1777,2077,Foul on Warren Williams.,12,7,5,18,0.789775058303216,0.6438698092440153,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,81,1,9:37,1777,2077,Ty Perry made Free Throw.,13,7,6,0,0.8087657332975826,0.670542608106261,3,3,5,NA,NA,Fordham,made,Ty Perry,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,82,1,9:37,1777,2077,Ty Perry made Free Throw.,14,7,7,0,0.8264179344042191,0.6961604181617913,3,3,5,NA,NA,Fordham,made,Ty Perry,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,83,1,9:22,1762,2062,Tyler Reynolds missed Three Point Jumper.,14,7,7,15,0.8269195084209849,0.6973706767056019,3,3,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,84,1,9:19,1759,2059,Christian Hinckson Offensive Rebound.,14,7,7,3,0.8270204556187906,0.6976140207936418,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,85,1,9:18,1758,2058,Elijah Buchanan made Three Point Jumper. Assisted by Christian Hinckson.,14,10,4,1,0.7696715198521374,0.6172548007906146,3,3,5,NA,NA,Manhattan,made,Elijah Buchanan,Christian Hinckson,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,86,1,9:04,1744,2044,Chuba Ohams Turnover.,14,10,4,14,0.7698484413544251,0.6179866626130215,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,87,1,9:04,1744,2044,Christian Hinckson Steal.,14,10,4,0,0.7698484413544251,0.6179866626130215,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,88,1,8:45,1725,2025,Elijah Buchanan made Jumper.,14,12,2,19,0.7243630045437768,0.5603637953895624,3,3,5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,89,1,8:18,1698,1998,Antwon Portley made Jumper.,16,12,4,27,0.7704606989631665,0.6204536264388337,3,3,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,90,1,7:48,1668,1968,Foul on Antwon Portley.,16,12,4,30,0.7708604803879684,0.6220885523357089,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,91,1,7:48,1668,1968,Official TV Timeout,16,12,4,0,0.7708604803879684,0.6220885523357089,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,92,1,7:44,1664,1964,Pauly Paulicap missed Layup.,16,12,4,4,0.7709076076743576,0.6223017985219527,3,3,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,93,1,7:41,1661,1961,Antwon Portley Defensive Rebound.,16,12,4,3,0.770942034125496,0.622461035702219,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,94,1,7:24,1644,1944,Jalen Cobb Turnover.,16,12,4,17,0.7711236414542467,0.6233535088745045,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,95,1,7:09,1629,1929,Elijah Buchanan Turnover.,16,12,4,15,0.771267742590804,0.6241299699248363,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,96,1,6:59,1619,1919,Chuba Ohams Turnover.,16,12,4,10,0.7713572027667812,0.6246436940548385,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,97,1,6:59,1619,1919,Elijah Buchanan Steal.,16,12,4,0,0.7713572027667812,0.6246436940548385,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,98,1,6:44,1604,1904,Nehemiah Mack Turnover.,16,12,4,15,0.7714840474830738,0.625410998167702,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,99,1,6:44,1604,1904,Antwon Portley Steal.,16,12,4,0,0.7714840474830738,0.625410998167702,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,100,1,6:23,1583,1883,Antwon Portley missed Jumper.,16,12,4,21,0.7716527581060816,0.6264845984717283,3,3,5,NA,NA,Fordham,missed,Antwon Portley,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,101,1,6:22,1582,1882,Chuba Ohams Offensive Rebound.,16,12,4,1,0.7716606725494483,0.6265358439703479,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,102,1,6:22,1582,1882,Foul on Tyler Reynolds.,16,12,4,0,0.7716606725494483,0.6265358439703479,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,103,1,6:12,1572,1872,Onyi Eyisi missed Jumper.,16,12,4,10,0.7717398194387348,0.6270495106178675,3,3,5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,104,1,6:10,1570,1870,Tykei Greene Defensive Rebound.,16,12,4,2,0.7717557024398128,0.6271525616802353,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,105,1,6:03,1563,1863,Elijah Buchanan missed Jumper.,16,12,4,7,0.771811637276611,0.6275142789687397,3,3,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,106,1,6:00,1560,1860,Pauly Paulicap Offensive Rebound.,16,12,4,3,0.7718358345088707,0.6276698566522905,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,107,1,5:59,1559,1859,Pauly Paulicap missed Layup.,16,12,4,1,0.7718439377506764,0.6277217975144274,3,3,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,108,1,5:56,1556,1856,Chuba Ohams Defensive Rebound.,16,12,4,3,0.7718683742373866,0.6278778793146608,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,109,1,5:32,1532,1832,Chuba Ohams missed Layup.,16,12,4,24,0.7720737905749574,0.6291436165699875,3,3,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,110,1,5:29,1529,1829,Chuba Ohams Offensive Rebound.,16,12,4,3,0.772101120217256,0.6293043814913973,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,111,1,5:29,1529,1829,Chuba Ohams made Layup.,18,12,6,0,0.8153010736867814,0.6886575398424248,3,3,5,NA,NA,Fordham,made,Chuba Ohams,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,112,1,5:15,1515,1815,Foul on Erten Gazi.,18,12,6,14,0.815660737301182,0.6897039273847555,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,113,1,5:07,1507,1807,Warren Williams missed Layup.,18,12,6,8,0.8158732950578224,0.6903117131745283,3,3,5,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,114,1,5:05,1505,1805,Jalen Cobb Defensive Rebound.,18,12,6,2,0.8159273279564598,0.6904648879416382,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,115,1,4:53,1493,1793,Foul on Nehemiah Mack.,18,12,6,12,0.8162597502487947,0.6913950887852507,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,116,1,4:31,1471,1771,Erten Gazi missed Layup.,18,12,6,22,0.8169110214632195,0.6931561437785794,3,3,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,117,1,4:28,1468,1768,Chuba Ohams Offensive Rebound.,18,12,6,3,0.817004558896674,0.6934024884920915,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,118,1,4:28,1468,1768,Chuba Ohams missed Layup.,18,12,6,0,0.817004558896674,0.6934024884920915,3,3,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,119,1,4:28,1468,1768,Nehemiah Mack Defensive Rebound.,18,12,6,0,0.817004558896674,0.6934024884920915,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,120,1,4:28,1468,1768,Foul on Josh Colon.,18,12,6,0,0.817004558896674,0.6934024884920915,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,121,1,4:28,1468,1768,Nehemiah Mack made Free Throw.,18,13,5,0,0.7957874837971536,0.6637526042234632,3,3,5,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,122,1,4:28,1468,1768,Nehemiah Mack made Free Throw.,18,14,4,0,0.7727945419188005,0.6327540116807752,3,3,5,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,123,1,4:13,1453,1753,Erten Gazi missed Three Point Jumper.,18,14,4,15,0.7730204205079791,0.633670133540072,3,3,5,NA,NA,Fordham,missed,Erten Gazi,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,124,1,4:10,1450,1750,Tykei Greene Defensive Rebound.,18,14,4,3,0.773068932883962,0.6338572810785399,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,125,1,3:46,1426,1726,Romar Reid Turnover.,18,14,4,24,0.7734243298964042,0.6353206950383095,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,126,1,3:46,1426,1726,Josh Colon Steal.,18,14,4,0,0.7734243298964042,0.6353206950383095,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,127,1,3:40,1420,1720,Ivan Raut missed Three Point Jumper.,18,14,4,6,0.7735029142309863,0.6356759593175166,3,3,5,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,128,1,3:37,1417,1717,Pauly Paulicap Defensive Rebound.,18,14,4,3,0.7735408991758249,0.635852277017129,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,129,1,3:15,1395,1695,Samir Stewart missed Three Point Jumper.,18,14,4,22,0.7737972628617181,0.6371237195621078,3,3,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,130,1,3:12,1392,1692,Erten Gazi Defensive Rebound.,18,14,4,3,0.7738297407928216,0.6372948005569589,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,131,1,2:51,1371,1671,Josh Colon missed Jumper.,18,14,4,21,0.7740464260086762,0.6384839882353766,3,3,5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,132,1,2:51,1371,1671,Pauly Paulicap Block.,18,14,4,0,0.7740464260086762,0.6384839882353766,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,133,1,2:46,1366,1666,Christian Hinckson Defensive Rebound.,18,14,4,5,0.7740962435905201,0.6387661109601975,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,134,1,2:44,1364,1664,Christian Hinckson missed Three Point Jumper.,18,14,4,2,0.7741160808939868,0.6388789692220899,3,3,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,135,1,2:41,1361,1661,Antwon Portley Defensive Rebound.,18,14,4,3,0.7741457794471303,0.6390483117739327,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,136,1,2:24,1344,1644,Antwon Portley missed Three Point Jumper.,18,14,4,17,0.7743147001704455,0.6400114262048925,3,3,5,NA,NA,Fordham,missed,Antwon Portley,NA,TRUE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,137,1,2:18,1338,1638,Ivan Raut Offensive Rebound.,18,14,4,6,0.7743754995051312,0.6403538524524566,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,138,1,2:17,1337,1637,Ivan Raut missed Layup.,18,14,4,1,0.774385735868894,0.6404111009659302,3,3,5,NA,NA,Fordham,missed,Ivan Raut,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,139,1,2:15,1335,1635,Christian Hinckson Defensive Rebound.,18,14,4,2,0.7744063109006972,0.6405257663082089,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,140,1,1:51,1311,1611,Tykei Greene missed Jumper.,18,14,4,24,0.774668181872555,0.6419242960543151,3,3,5,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,141,1,1:47,1307,1607,Josh Colon Defensive Rebound.,18,14,4,4,0.7747153767647358,0.6421624339041494,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,142,1,1:25,1285,1585,Ivan Raut missed Three Point Jumper.,18,14,4,22,0.7750004043336419,0.6435064817216651,3,3,5,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,143,1,1:22,1282,1582,Joel Soriano Offensive Rebound.,18,14,4,3,0.7750431651545958,0.6436949005352504,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,144,1,1:22,1282,1582,Joel Soriano made Layup.,20,14,6,0,0.8224052372998707,0.7083029653362832,3,3,5,NA,NA,Fordham,made,Joel Soriano,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,145,1,1:01,1261,1561,Romar Reid missed Three Point Jumper.,20,14,6,21,0.8231153774285322,0.7101392414926759,3,3,5,NA,NA,Manhattan,missed,Romar Reid,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,146,1,0:59,1259,1559,Fordham Defensive Rebound.,20,14,6,2,0.8231869589450306,0.7103194949369901,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,147,1,0:59,1259,1559,Official TV Timeout,20,14,6,0,0.8231869589450306,0.7103194949369901,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,148,1,0:41,1241,1541,Erten Gazi missed Jumper.,20,14,6,18,0.8238664589221573,0.7119894103910774,3,3,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,149,1,0:38,1238,1538,Elijah Buchanan Defensive Rebound.,20,14,6,3,0.8239863039940669,0.7122766099880236,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,150,1,0:19,1219,1519,Elijah Buchanan missed Layup.,20,14,6,19,0.8247939103943958,0.7141606673686478,3,3,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,151,1,0:18,1218,1518,Elijah Buchanan Offensive Rebound.,20,14,6,1,0.8248388719931431,0.7142631130038221,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,152,1,0:18,1218,1518,Elijah Buchanan Turnover.,20,14,6,0,0.8248388719931431,0.7142631130038221,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,153,1,0:10,1210,1510,Foul on Nehemiah Mack.,20,14,6,8,0.8252079755656726,0.715095234519632,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,154,1,0:03,1203,1503,Foul on Samir Stewart.,20,14,6,7,0.8255345435213277,0.7158270643623882,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,155,1,0:00,1200,1500,Antwon Portley made Jumper. Assisted by Jalen Cobb.,22,14,8,3,0.8657300488962921,0.774489981219977,3,3,5,NA,NA,Fordham,made,Antwon Portley,Jalen Cobb,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,157,2,20:00,1200,1500,PLAY,20,14,6,0,0.8256722521754408,0.7161370692370593,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,159,2,19:41,1181,1481,Pauly Paulicap made Free Throw.,22,15,7,0,0.8477358489935736,0.7485040847148919,4,4,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,160,2,19:41,1181,1481,Pauly Paulicap made Free Throw.,22,16,6,0,0.8265176073909005,0.7180567474173261,4,4,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,161,2,19:39,1179,1479,Antwon Portley Turnover.,22,16,6,2,0.8266042740810288,0.71825500594475,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,162,2,19:24,1164,1464,Elijah Buchanan made Layup.,22,18,4,15,0.7776203326153386,0.6522011334578085,4,4,5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,163,2,18:56,1136,1436,Foul on Samir Stewart.,22,18,4,28,0.7782599617121059,0.6542192268636038,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,164,2,18:44,1124,1424,Foul on Pauly Paulicap.,22,18,4,12,0.7785332873939261,0.6550807637411296,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,165,2,18:44,1124,1424,Chuba Ohams missed Free Throw.,22,18,4,0,0.7785332873939261,0.6550807637411296,4,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,166,2,18:44,1124,1424,Fordham Deadball Team Rebound.,22,18,4,0,0.7785332873939261,0.6550807637411296,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,167,2,18:44,1124,1424,Chuba Ohams missed Free Throw.,22,18,4,0,0.7785332873939261,0.6550807637411296,4,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,168,2,18:42,1122,1422,Tyler Reynolds Defensive Rebound.,22,18,4,2,0.7785791190865694,0.6552246408926471,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,169,2,18:30,1110,1410,Elijah Buchanan missed Three Point Jumper.,22,18,4,12,0.7788569728493276,0.6560914168015014,4,4,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,170,2,18:28,1108,1408,Fordham Defensive Rebound.,22,18,4,2,0.7789038818023754,0.6562366477109108,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,171,2,17:59,1079,1379,Jalen Cobb missed Three Point Jumper.,22,18,4,29,0.7796138768442507,0.6583828575297254,4,4,5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,172,2,17:56,1076,1376,Samir Stewart Defensive Rebound.,22,18,4,3,0.7796913958023053,0.6586105077881448,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,173,2,17:54,1074,1374,Tyler Reynolds missed Three Point Jumper.,22,18,4,2,0.7797435913178444,0.6587629977126661,4,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,174,2,17:51,1071,1371,Fordham Defensive Rebound.,22,18,4,3,0.7798226913037736,0.6589928652883598,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,175,2,17:24,1044,1344,Onyi Eyisi made Layup.,24,18,6,27,0.8324726159476555,0.7315541747667983,4,4,5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,176,2,17:04,1024,1324,Tyler Reynolds missed Three Point Jumper.,24,18,6,20,0.833514125242099,0.7337691973106512,4,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,177,2,17:00,1020,1320,Tykei Greene Offensive Rebound.,24,18,6,4,0.8337328570900081,0.7342275635694759,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,178,2,16:54,1014,1314,Pauly Paulicap missed Layup.,24,18,6,6,0.8340680453004887,0.7349255845484202,4,4,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,179,2,16:51,1011,1311,Chuba Ohams Defensive Rebound.,24,18,6,3,0.8342389401279385,0.7352794747721078,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,180,2,16:36,996,1296,Erten Gazi made Three Point Jumper. Assisted by Jalen Cobb.,27,18,9,15,0.8945322397196689,0.8243976278756846,4,4,5,NA,NA,Fordham,made,Erten Gazi,Jalen Cobb,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,181,2,16:13,973,1273,Samir Stewart Turnover.,27,18,9,23,0.8962701654603604,0.8277208151380256,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,182,2,16:13,973,1273,Onyi Eyisi Steal.,27,18,9,0,0.8962701654603604,0.8277208151380256,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,183,2,16:10,970,1270,Onyi Eyisi Turnover.,27,18,9,3,0.896508402474287,0.8281722575930165,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,184,2,15:57,957,1257,Elijah Buchanan made Three Point Jumper. Assisted by Nehemiah Mack.,27,21,6,13,0.8376818727628029,0.7421847232251916,4,4,5,NA,NA,Manhattan,made,Elijah Buchanan,Nehemiah Mack,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,185,2,15:49,949,1249,Official TV Timeout,27,21,6,8,0.8381741406185919,0.7431686418096367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,186,2,15:31,931,1231,Foul on Christian Hinckson.,27,21,6,18,0.8391980782045542,0.7452377039285368,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,187,2,15:31,931,1231,Onyi Eyisi made Free Throw.,28,21,7,0,0.8619009102282875,0.7776921601527479,4,4,5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,188,2,15:31,931,1231,Onyi Eyisi made Free Throw.,29,21,8,0,0.8818497138956682,0.8070824693073032,4,4,5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,189,2,15:11,911,1211,Christian Hinckson missed Three Point Jumper.,29,21,8,20,0.8830350813058446,0.8093961513314316,4,4,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,190,2,15:08,908,1208,Onyi Eyisi Defensive Rebound.,29,21,8,3,0.883205330806495,0.8097296162630393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,191,2,15:08,908,1208,Onyi Eyisi Turnover.,29,21,8,0,0.883205330806495,0.8097296162630393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,192,2,14:52,892,1192,Tykei Greene Turnover.,29,21,8,16,0.8840921068142532,0.8114685773426619,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,193,2,14:23,863,1163,Antwon Portley made Jumper.,31,21,10,29,0.9181316955825299,0.8641101159379071,4,4,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,194,2,14:01,841,1141,Tykei Greene Turnover.,31,21,10,22,0.919352374175751,0.8664434388427984,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,195,2,14:01,841,1141,Antwon Portley Steal.,31,21,10,0,0.919352374175751,0.8664434388427984,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,196,2,13:35,815,1115,Antwon Portley Turnover.,31,21,10,26,0.9209196455632386,0.8693999172329983,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,197,2,13:35,815,1115,Christian Hinckson Steal.,31,21,10,0,0.9209196455632386,0.8693999172329983,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,198,2,13:34,814,1114,Foul on Erten Gazi.,31,21,10,1,0.9209836957145341,0.8695197622159297,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,199,2,13:22,802,1102,Foul on Josh Colon.,31,21,10,12,0.9217787501471579,0.8710012822460945,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,200,2,13:04,784,1084,Christian Hinckson made Layup.,31,23,8,18,0.8907686899786931,0.8241971461418193,4,4,5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,201,2,12:34,754,1054,Jalen Cobb missed Three Point Jumper.,31,23,8,30,0.8933976926847005,0.8289781153865478,4,4,5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,202,2,12:30,750,1050,Pauly Paulicap Defensive Rebound.,31,23,8,4,0.8937887064499545,0.8296816013070679,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,203,2,12:22,742,1042,Foul on Joel Soriano.,31,23,8,8,0.8946019176819302,0.8311395278839898,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,204,2,12:22,742,1042,Pauly Paulicap made Free Throw.,31,24,7,0,0.8742882762772685,0.8013111522246569,4,4,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,205,2,12:22,742,1042,Pauly Paulicap missed Free Throw.,31,24,7,0,0.8742882762772685,0.8013111522246569,4,4,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,206,2,12:21,741,1041,Chuba Ohams Defensive Rebound.,31,24,7,1,0.8743919455327596,0.801496921220793,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,207,2,11:53,713,1013,Antwon Portley missed Jumper.,31,24,7,28,0.8773356125438782,0.806772893022527,4,4,5,NA,NA,Fordham,missed,Antwon Portley,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,208,2,11:51,711,1011,Fordham Offensive Rebound.,31,24,7,2,0.8775251068270159,0.8071173489089081,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,209,2,11:51,711,1011,Official TV Timeout,31,24,7,0,0.8775251068270159,0.8071173489089081,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,210,2,11:39,699,999,Foul on Samir Stewart.,31,24,7,12,0.8786009838210839,0.8090881983430694,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,211,2,11:28,688,988,Josh Colon missed Jumper.,31,24,7,11,0.8795124927105499,0.8107774675493913,4,4,5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,212,2,11:26,686,986,Josh Colon Offensive Rebound.,31,24,7,2,0.8796722876517575,0.8110752784002231,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,213,2,11:10,670,970,Antwon Portley made Jumper.,33,24,9,16,0.9184647517851656,0.8690748718659363,4,4,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,214,2,10:50,650,950,Samir Stewart missed Three Point Jumper.,33,24,9,20,0.9199322463771186,0.871791807919224,4,4,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,215,2,10:47,647,947,Jalen Cobb Defensive Rebound.,33,24,9,3,0.9201543118696861,0.8722020335616967,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,216,2,10:32,632,932,Foul on Christian Hinckson.,33,24,9,15,0.9212949713463444,0.8743001338978341,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,217,2,10:32,632,932,Chuba Ohams made Free Throw.,34,24,10,0,0.9355699737890494,0.896137842529131,4,4,5,NA,NA,Fordham,made,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,218,2,10:32,632,932,Chuba Ohams missed Free Throw.,34,24,10,0,0.9355699737890494,0.896137842529131,4,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,219,2,10:30,630,930,Pauly Paulicap Defensive Rebound.,34,24,10,2,0.935718316825776,0.8964087910348393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,220,2,10:12,612,912,Tykei Greene missed Three Point Jumper.,34,24,10,18,0.9371268632652743,0.8989634915618501,4,4,5,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,221,2,10:09,609,909,Chuba Ohams Defensive Rebound.,34,24,10,3,0.937377049300728,0.8994137340119579,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,222,2,9:53,593,893,Chuba Ohams Turnover.,34,24,10,16,0.9388044929454776,0.901962883701055,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,223,2,9:53,593,893,Christian Hinckson Steal.,34,24,10,0,0.9388044929454776,0.901962883701055,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,224,2,9:47,587,887,Christian Hinckson missed Layup.,34,24,10,6,0.9393852233385237,0.9029909670063344,4,4,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,225,2,9:44,584,884,Pauly Paulicap Offensive Rebound.,34,24,10,3,0.9396858364581888,0.903521274664952,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,226,2,9:43,583,883,Pauly Paulicap made Layup.,34,26,8,1,0.9088744487646233,0.8570777950784707,4,4,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,227,2,9:24,564,864,Jalen Cobb missed Jumper.,34,26,8,19,0.9112522267917372,0.861218622143093,4,4,5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,228,2,9:21,561,861,Chuba Ohams Offensive Rebound.,34,26,8,3,0.9116640306502662,0.8619291750224194,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,229,2,9:17,557,857,Josh Colon missed Three Point Jumper.,34,26,8,4,0.9122295313019388,0.8629021922124589,4,4,5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,230,2,9:12,552,852,Tykei Greene Defensive Rebound.,34,26,8,5,0.9129634715581112,0.8641606412542848,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,231,2,8:54,534,834,Foul on Jalen Cobb.,34,26,8,18,0.9154369883703044,0.8684261578536869,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,232,2,8:37,517,817,Nehemiah Mack missed Three Point Jumper.,34,26,8,17,0.917324464170718,0.8717509496855109,4,4,5,NA,NA,Manhattan,missed,Nehemiah Mack,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,233,2,8:34,514,814,Chuba Ohams Defensive Rebound.,34,26,8,3,0.9176307193808146,0.8722953772062146,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,235,2,7:59,479,779,Official TV Timeout,36,26,10,0,0.950409638562795,0.9222838589339643,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,236,2,7:37,457,757,Onyi Eyisi Turnover.,36,26,10,22,0.9526778963297013,0.9261991448305135,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,237,2,7:23,443,743,Elijah Buchanan made Layup.,36,28,8,14,0.9260345944824709,0.8868948672647714,4,4,5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,238,2,7:23,443,743,Foul on Ivan Raut.,36,28,8,0,0.9260345944824709,0.8868948672647714,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,239,2,7:23,443,743,Elijah Buchanan missed Free Throw.,36,28,8,0,0.9260345944824709,0.8868948672647714,4,4,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,240,2,7:22,442,742,Onyi Eyisi Defensive Rebound.,36,28,8,1,0.9262034452914456,0.8871770693860958,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,241,2,6:59,419,719,Erten Gazi made Three Point Jumper. Assisted by Josh Colon.,39,28,11,23,0.9675236176372491,0.9495620820562796,4,4,5,NA,NA,Fordham,made,Erten Gazi,Josh Colon,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,242,2,6:59,419,719,Fordham  Timeout,39,28,11,0,0.9675236176372491,0.9495620820562796,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,243,2,6:59,419,719,Official TV Timeout,39,28,11,0,0.9675236176372491,0.9495620820562796,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,244,2,6:50,410,710,Tyler Reynolds made Three Point Jumper. Assisted by Nehemiah Mack.,39,31,8,9,0.9319763803748107,0.8967911659478988,3,4,5,NA,NA,Manhattan,made,Tyler Reynolds,Nehemiah Mack,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,245,2,6:11,371,671,Chuba Ohams missed Layup.,39,31,8,39,0.9379977006619302,0.9070368498990315,3,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,246,2,6:09,369,669,Manhattan Defensive Rebound.,39,31,8,2,0.9383150006817396,0.9075737396972378,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,247,2,5:44,344,644,Tyler Reynolds missed Three Point Jumper.,39,31,8,25,0.9426530084240118,0.9148049042726436,3,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,248,2,5:40,340,640,Onyi Eyisi Defensive Rebound.,39,31,8,4,0.9434299996041728,0.9160773740206178,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,249,2,5:23,323,623,Onyi Eyisi missed Layup.,39,31,8,17,0.9470534593640452,0.9219286461991518,3,4,5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,250,2,5:21,321,621,Tyler Reynolds Defensive Rebound.,39,31,8,2,0.9475161968344449,0.9226670107922962,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,251,2,5:14,314,614,Tyler Reynolds made Three Point Jumper. Assisted by Nehemiah Mack.,39,34,5,7,0.879081153775544,0.8282439512809121,3,4,5,NA,NA,Manhattan,made,Tyler Reynolds,Nehemiah Mack,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,252,2,4:58,298,598,Jalen Cobb Turnover.,39,34,5,16,0.8828586499756912,0.8344804896771395,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,253,2,4:58,298,598,Elijah Buchanan Steal.,39,34,5,0,0.8828586499756912,0.8344804896771395,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,254,2,4:52,292,592,Elijah Buchanan made Layup.,39,36,3,6,0.7978532090175234,0.7259174876376164,3,4,5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,255,2,4:42,282,582,Foul on Elijah Buchanan.,39,36,3,10,0.7969043853145004,0.7257875734376115,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,256,2,4:32,272,572,Foul on Nehemiah Mack.,39,36,3,10,0.7950611536546428,0.7245692869844504,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,257,2,4:31,271,571,Chuba Ohams missed Free Throw.,39,36,3,1,0.7948440635364014,0.7244084929816191,3,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,258,2,4:31,271,571,Fordham Offensive Rebound.,39,36,3,0,0.7948440635364014,0.7244084929816191,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,259,2,4:15,255,555,Antwon Portley made Jumper.,41,36,5,16,0.8772094919488751,0.8301735309432076,3,4,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,260,2,3:57,237,537,Christian Hinckson missed Layup.,41,36,5,18,0.874400546934454,0.8279294760807908,3,4,5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,261,2,3:57,237,537,Onyi Eyisi Block.,41,36,5,0,0.874400546934454,0.8279294760807908,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,262,2,3:49,229,529,Christian Hinckson Offensive Rebound.,41,36,5,8,0.8742641446198725,0.8284120885409705,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,263,2,3:48,228,528,Christian Hinckson Turnover.,41,36,5,1,0.8743160258356795,0.8285628659996469,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,264,2,3:48,228,528,Onyi Eyisi Steal.,41,36,5,0,0.8743160258356795,0.8285628659996469,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,265,2,3:26,206,506,Chuba Ohams missed Jumper.,41,36,5,22,0.8805045701887384,0.8384370704454484,3,4,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,266,2,3:22,202,502,Elijah Buchanan Defensive Rebound.,41,36,5,4,0.8828295685819413,0.8417840428025303,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,267,2,3:22,202,502,Foul on Onyi Eyisi.,41,36,5,0,0.8828295685819413,0.8417840428025303,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,268,2,3:22,202,502,Official TV Timeout,41,36,5,0,0.8828295685819413,0.8417840428025303,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,269,2,3:22,202,502,Elijah Buchanan missed Free Throw.,41,36,5,0,0.8828295685819413,0.8417840428025303,3,4,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,270,2,3:21,201,501,Antwon Portley Defensive Rebound.,41,36,5,1,0.8834737293234416,0.8427019844702723,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,271,2,3:21,201,501,Foul on Samir Stewart.,41,36,5,0,0.8834737293234416,0.8427019844702723,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,272,2,3:21,201,501,Antwon Portley made Free Throw.,42,36,6,0,0.9138391793823937,0.8822763520726119,3,4,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,273,2,3:21,201,501,Antwon Portley made Free Throw.,43,36,7,0,0.9368572734533092,0.9129230716984558,3,4,5,NA,NA,Fordham,made,Antwon Portley,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,274,2,3:07,187,487,Foul on Antwon Portley.,43,36,7,14,0.9460877917526095,0.9260404993094348,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,275,2,3:07,187,487,Elijah Buchanan made Free Throw.,43,37,6,0,0.9244162559781723,0.8971861345276805,3,4,5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,276,2,3:07,187,487,Elijah Buchanan missed Free Throw.,43,37,6,0,0.9244162559781723,0.8971861345276805,3,4,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,277,2,3:06,186,486,Onyi Eyisi Defensive Rebound.,43,37,6,1,0.9252380431551576,0.8983364855510159,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,278,2,2:39,159,459,Antwon Portley missed Jumper.,43,37,6,27,0.9453459045837638,0.9264513368129754,3,4,5,NA,NA,Fordham,missed,Antwon Portley,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,279,2,2:36,156,456,Christian Hinckson Defensive Rebound.,43,37,6,3,0.9473985371409057,0.9293092643251845,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,280,2,2:24,144,444,Tyler Reynolds missed Three Point Jumper.,43,37,6,12,0.9553422630162566,0.9403302010442486,3,4,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,281,2,2:21,141,441,Antwon Portley Defensive Rebound.,43,37,6,3,0.957263678698227,0.9429850587218213,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,282,2,2:00,120,420,Erten Gazi missed Jumper.,43,37,6,21,0.9699173316522607,0.9603379619083864,3,4,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,283,2,2:00,120,420,Christian Hinckson Block.,43,37,6,0,0.9699173316522607,0.9603379619083864,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,284,2,1:55,115,415,Pauly Paulicap Defensive Rebound.,43,37,6,5,0.9726890828221153,0.9641041509903427,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,285,2,1:38,98,398,Samir Stewart made Three Point Jumper. Assisted by Christian Hinckson.,43,40,3,17,0.8920413477922756,0.8634438462978241,3,4,5,NA,NA,Manhattan,made,Samir Stewart,Christian Hinckson,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,286,2,1:36,96,396,Manhattan  Timeout,43,40,3,2,0.8943460833172514,0.8664723742900412,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,287,2,1:19,79,379,Josh Colon missed Jumper.,43,40,3,17,0.9130681471652354,0.8910194350686628,3,3,5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,288,2,1:15,75,375,Pauly Paulicap Defensive Rebound.,43,40,3,4,0.9172639676558931,0.8965010328225849,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,289,2,0:59,59,359,Samir Stewart made Three Point Jumper. Assisted by Elijah Buchanan.,43,43,0,16,0.5576626200267608,0.5,3,3,5,NA,NA,Manhattan,made,Samir Stewart,Elijah Buchanan,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,290,2,0:42,42,342,Antwon Portley missed Three Point Jumper.,43,43,0,17,0.5535487896709835,0.5,3,3,5,NA,NA,Fordham,missed,Antwon Portley,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,291,2,0:39,39,339,Elijah Buchanan Defensive Rebound.,43,43,0,3,0.5528042782201124,0.5,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,292,2,0:33,33,333,Manhattan  Timeout,43,43,0,6,0.5512996202629064,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,293,2,0:15,15,315,Samir Stewart missed Three Point Jumper.,43,43,0,18,0.5466659006102603,0.5,3,2,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,294,2,0:12,12,312,Christian Hinckson Offensive Rebound.,43,43,0,3,0.5458720466686908,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,295,2,0:03,3,303,Samir Stewart missed Three Point Jumper.,43,43,0,9,0.5434562942523734,0.5,3,2,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,296,2,0:00,300,300,Onyi Eyisi Defensive Rebound.,43,43,0,3,0.5994354836644057,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,297,2,0:00,300,300,End of 2nd half,43,43,0,0,0.5994354836644057,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,NA
+401170163,2019-12-07,Fordham,Manhattan,298,3,5:00,300,300,PLAY,43,43,0,0,0.5994354836644057,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,299,3,4:45,285,285,Tyler Reynolds missed Three Point Jumper.,43,43,0,15,0.5975505794078838,0.5,4,3,5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,300,3,4:41,281,281,Erten Gazi Defensive Rebound.,43,43,0,4,0.5970482856451891,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,301,3,4:41,281,281,Foul on Elijah Buchanan.,43,43,0,0,0.5970482856451891,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,302,3,4:41,281,281,Erten Gazi missed Free Throw.,43,43,0,0,0.5970482856451891,0.5,4,3,5,NA,NA,Fordham,missed,Erten Gazi,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,303,3,4:40,280,280,Elijah Buchanan Defensive Rebound.,43,43,0,1,0.5969225744778954,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,304,3,4:40,280,280,Foul on Onyi Eyisi.,43,43,0,0,0.5969225744778954,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,305,3,4:40,280,280,Elijah Buchanan missed Free Throw.,43,43,0,0,0.5969225744778954,0.5,4,3,5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,306,3,4:38,278,278,Antwon Portley Defensive Rebound.,43,43,0,2,0.5966709192769434,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,307,3,4:25,265,265,Foul on Pauly Paulicap.,43,43,0,13,0.5950225609780907,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,308,3,4:25,265,265,Chuba Ohams made Free Throw.,44,43,1,0,0.6693317228635831,0.5794207900254189,4,3,5,NA,NA,Fordham,made,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,309,3,4:24,264,264,Chuba Ohams missed Free Throw.,44,43,1,1,0.6691463649629054,0.579346231473306,4,3,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,310,3,4:23,263,263,Pauly Paulicap Defensive Rebound.,44,43,1,1,0.6689603848876887,0.5792712613340918,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,311,3,4:05,245,245,Elijah Buchanan Turnover.,44,43,1,18,0.6657286213378271,0.5781066570279689,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,312,3,4:05,245,245,Chuba Ohams Steal.,44,43,1,0,0.6657286213378271,0.5781066570279689,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,313,3,3:44,224,224,Jalen Cobb made Jumper.,46,43,3,21,0.7876162776640756,0.7208740244758136,4,3,5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,314,3,3:10,190,190,Pauly Paulicap made Layup. Assisted by Christian Hinckson.,46,45,1,34,0.6669695457962435,0.5877816351743212,4,3,5,NA,NA,Manhattan,made,Pauly Paulicap,Christian Hinckson,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,315,3,2:44,164,164,Chuba Ohams missed Layup.,46,45,1,26,0.6751437307986705,0.6012534170086876,4,3,5,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,316,3,2:41,161,161,Tyler Reynolds Defensive Rebound.,46,45,1,3,0.6761611635778011,0.6029021507204974,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,317,3,2:32,152,152,Samir Stewart missed Three Point Jumper.,46,45,1,9,0.6793757869646169,0.608044049140897,4,3,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,318,3,2:28,148,148,Chuba Ohams Defensive Rebound.,46,45,1,4,0.6808964728404311,0.6104390648438671,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,319,3,2:08,128,128,Erten Gazi made Three Point Jumper.,49,45,4,20,0.9100521842370732,0.8830200375071333,4,3,5,NA,NA,Fordham,made,Erten Gazi,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,320,3,2:00,120,120,Manhattan  Timeout,49,45,4,8,0.9176596059918287,0.8932706893910669,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,321,3,2:00,120,120,Official TV Timeout,49,45,4,0,0.9176596059918287,0.8932706893910669,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,322,3,1:48,108,108,Samir Stewart made Layup. Assisted by Christian Hinckson.,49,47,2,12,0.8060832957756333,0.7592360205348605,4,2,5,NA,NA,Manhattan,made,Samir Stewart,Christian Hinckson,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,323,3,1:48,108,108,Foul on Antwon Portley.,49,47,2,0,0.8060832957756333,0.7592360205348605,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,324,3,1:48,108,108,Samir Stewart made Free Throw.,49,48,1,0,0.7006742386716633,0.6397427512191568,4,2,5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,325,3,1:20,80,80,Jalen Cobb made Jumper. Assisted by Erten Gazi.,51,48,3,28,0.9120107949569717,0.889636422761292,4,2,5,NA,NA,Fordham,made,Jalen Cobb,Erten Gazi,FALSE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,326,3,1:19,79,79,Foul on Pauly Paulicap.,51,48,3,1,0.9130681471652354,0.8910194350686628,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,327,3,1:19,79,79,Jalen Cobb made Free Throw.,52,48,4,0,0.9548724523045778,0.9427619847796231,4,2,5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,328,3,1:03,63,63,Samir Stewart missed Three Point Jumper.,52,48,4,16,0.9663955672174912,0.9578479885840411,4,2,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,329,3,1:02,62,62,Manhattan Offensive Rebound.,52,48,4,1,0.9670433388077407,0.9586912675651569,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,330,3,1:02,62,62,Foul on Onyi Eyisi.,52,48,4,0,0.9670433388077407,0.9586912675651569,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,331,3,1:02,62,62,Pauly Paulicap made Free Throw.,52,49,3,0,0.9304049266943069,0.9135973333741522,4,2,5,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,332,3,1:02,62,62,Pauly Paulicap missed Free Throw.,52,49,3,0,0.9304049266943069,0.9135973333741522,4,2,5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,333,3,1:00,60,60,Chuba Ohams Defensive Rebound.,52,49,3,2,0.9323199767346199,0.916080320581848,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,334,3,0:42,42,42,Foul on Pauly Paulicap.,52,49,3,18,0.9482768392386077,0.9366551189788949,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,335,3,0:42,42,42,Onyi Eyisi missed Free Throw.,52,49,3,0,0.9482768392386077,0.9366551189788949,4,2,5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,336,3,0:42,42,42,Fordham Deadball Team Rebound.,52,49,3,0,0.9482768392386077,0.9366551189788949,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,337,3,0:42,42,42,Onyi Eyisi made Free Throw.,53,49,4,0,0.9782605578981358,0.9731853991727926,4,2,5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,338,3,0:29,29,29,Samir Stewart missed Three Point Jumper.,53,49,4,13,0.9838965088600216,0.9803659273790892,4,2,5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,339,3,0:29,29,29,Jalen Cobb Block.,53,49,4,0,0.9838965088600216,0.9803659273790892,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,340,3,0:23,23,23,Christian Hinckson Offensive Rebound.,53,49,4,6,0.9860676510547193,0.983108178118838,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,341,3,0:22,22,22,Christian Hinckson made Layup.,53,51,2,1,0.9037390093898311,0.8854308957696941,4,2,5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,342,3,0:15,15,15,Foul on Samir Stewart.,53,51,2,7,0.9109790879219734,0.8945836042239772,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,343,3,0:15,15,15,Antwon Portley missed Free Throw.,53,51,2,0,0.9109790879219734,0.8945836042239772,4,2,5,NA,NA,Fordham,missed,Antwon Portley,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,344,3,0:15,15,15,Fordham Deadball Team Rebound.,53,51,2,0,0.9109790879219734,0.8945836042239772,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,345,3,0:15,15,15,Antwon Portley missed Free Throw.,53,51,2,0,0.9109790879219734,0.8945836042239772,4,2,5,NA,NA,Fordham,missed,Antwon Portley,NA,FALSE,TRUE,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,346,3,0:14,14,14,Elijah Buchanan Defensive Rebound.,53,51,2,1,0.9120016146347396,0.8958722919593005,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,347,3,0:04,4,4,Tyler Reynolds made Three Point Jumper. Assisted by Pauly Paulicap.,53,54,-1,10,0.2745765041438763,0.24105912114373745,4,2,5,NA,NA,Manhattan,made,Tyler Reynolds,Pauly Paulicap,TRUE,FALSE,Manhattan,Fordham
+401170163,2019-12-07,Fordham,Manhattan,348,3,0:03,3,3,Manhattan  Timeout,53,54,-1,1,0.2729170715861469,0.23973417984034148,4,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,349,3,0:03,3,3,Fordham  Timeout,53,54,-1,0,0.2729170715861469,0.23973417984034148,3,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170163,2019-12-07,Fordham,Manhattan,350,3,0:00,0,0,Jalen Cobb missed Three Point Jumper.,53,53,0,3,2.44817432706979e-9,2.0611536181902033e-9,3,1,5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,351,3,0:00,0,0,Manhattan Defensive Rebound.,53,53,0,0,2.44817432706979e-9,2.0611536181902033e-9,3,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Manhattan
+401170163,2019-12-07,Fordham,Manhattan,352,3,0:00,0,0,End of 1st overtime,53,53,0,0,2.44817432706979e-9,2.0611536181902033e-9,3,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,NA

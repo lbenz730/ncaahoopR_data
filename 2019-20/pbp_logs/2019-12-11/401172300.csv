@@ -1,0 +1,285 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172300,2019-12-11,Colgate,Cornell,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8234847598098078,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Colgate
+401172300,2019-12-11,Colgate,Cornell,2,1,19:40,2380,2380,Rapolas Ivanauskas missed Jumper.,0,0,0,20,0.8230348319042087,0.5,4,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,3,1,19:35,2375,2375,Josh Warren Defensive Rebound.,0,0,0,5,0.8229205199741413,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,4,1,19:23,2363,2363,Josh Warren Turnover.,0,0,0,12,0.8226431266870516,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,5,1,19:23,2363,2363,Rapolas Ivanauskas Steal.,0,0,0,0,0.8226431266870516,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,6,1,19:16,2356,2356,Tucker Richardson made Layup. Assisted by Jordan Burns.,2,0,2,7,0.8472984988377521,0.5449611943204852,4,4,9.6,NA,NA,Colgate,made,Tucker Richardson,Jordan Burns,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,7,1,19:00,2340,2340,Josh Warren made Layup. Assisted by Jordan Jones.,2,2,0,16,0.8220991915189902,0.5,4,4,9.6,NA,NA,Cornell,made,Josh Warren,Jordan Jones,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,8,1,18:32,2312,2312,Will Rayman missed Jumper.,2,2,0,28,0.8214145470143925,0.5,4,4,9.6,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,9,1,18:29,2309,2309,Rapolas Ivanauskas Offensive Rebound.,2,2,0,3,0.821339689553442,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,10,1,18:29,2309,2309,Foul on Josh Warren.,2,2,0,0,0.821339689553442,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,11,1,18:12,2292,2292,Jordan Burns made Layup.,4,2,2,17,0.8466442510508262,0.546365429477102,4,4,9.6,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,12,1,18:12,2292,2292,Foul on Rapolas Ivanauskas.,4,2,2,0,0.8466442510508262,0.546365429477102,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,13,1,17:59,2279,2279,Jimmy Boeheim made Jumper. Assisted by Terrance McBride.,4,4,0,13,0.820574633956125,0.5,4,4,9.6,NA,NA,Cornell,made,Jimmy Boeheim,Terrance McBride,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,14,1,17:52,2272,2272,Tucker Richardson made Layup. Assisted by Jordan Burns.,6,4,2,7,0.846421592711448,0.5468131464906587,4,4,9.6,NA,NA,Colgate,made,Tucker Richardson,Jordan Burns,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,15,1,17:31,2251,2251,Jimmy Boeheim made Three Point Jumper. Assisted by Josh Warren.,6,7,-1,21,0.8053944064910478,0.4763033865694445,4,4,9.6,NA,NA,Cornell,made,Jimmy Boeheim,Josh Warren,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,16,1,17:15,2235,2235,Rapolas Ivanauskas missed Three Point Jumper.,6,7,-1,16,0.8048161527492387,0.4761204813687841,4,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,17,1,17:05,2225,2225,Terrance McBride Defensive Rebound.,6,7,-1,10,0.8044492086703713,0.47600570268207176,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,18,1,17:05,2225,2225,Foul on Jordan Jones.,6,7,-1,0,0.8044492086703713,0.47600570268207176,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,19,1,17:05,2225,2225,Foul on Josh Warren.,6,7,-1,0,0.8044492086703713,0.47600570268207176,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,20,1,16:54,2214,2214,Rapolas Ivanauskas made Free Throw.,7,7,0,11,0.8188092636124091,0.5,4,4,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,21,1,16:53,2213,2213,Rapolas Ivanauskas made Free Throw.,8,7,1,1,0.832676287240956,0.5241324577688037,4,4,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,22,1,16:51,2211,2211,Foul on Will Rayman.,8,7,1,2,0.8326358034122556,0.5241555267460252,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,23,1,16:39,2199,2199,Jimmy Boeheim made Jumper.,8,9,-1,12,0.8034748970349416,0.4757058251469711,4,4,9.6,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,24,1,16:24,2184,2184,Rapolas Ivanauskas missed Jumper.,8,9,-1,15,0.8028992693477395,0.4755320018567772,4,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,25,1,16:20,2180,2180,Bryan Knapp Defensive Rebound.,8,9,-1,4,0.8027440735891536,0.47548556302100853,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,26,1,16:07,2167,2167,Jordan Jones made Three Point Jumper. Assisted by Jimmy Boeheim.,8,12,-4,13,0.7510261835567603,0.40252143505595217,4,4,9.6,NA,NA,Cornell,made,Jordan Jones,Jimmy Boeheim,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,27,1,15:49,2149,2149,Will Rayman missed Jumper.,8,12,-4,18,0.7497063151195673,0.4017107717729217,4,4,9.6,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,28,1,15:45,2145,2145,Jimmy Boeheim Defensive Rebound.,8,12,-4,4,0.749410001519523,0.4015300158158299,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,29,1,15:34,2134,2134,Terrance McBride made Jumper.,8,14,-6,11,0.7089973587038085,0.35394295270162895,4,4,9.6,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,30,1,15:18,2118,2118,Rapolas Ivanauskas made Jumper.,10,14,-4,16,0.7473809602499278,0.4003036914195069,4,4,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,31,1,15:06,2106,2106,Foul on Jimmy Boeheim.,10,14,-4,12,0.7464628428601282,0.3997549674954223,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,32,1,15:06,2106,2106,Jimmy Boeheim Turnover.,10,14,-4,0,0.7464628428601282,0.3997549674954223,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,33,1,14:55,2095,2095,Nelly Cummings Turnover.,10,14,-4,11,0.7456123179991414,0.3992498423360428,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,34,1,14:29,2069,2069,Kobe Dickson missed Three Point Jumper.,10,14,-4,26,0.7435677259524855,0.39804732426517914,4,4,9.6,NA,NA,Cornell,missed,Kobe Dickson,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,35,1,14:25,2065,2065,Tucker Richardson Defensive Rebound.,10,14,-4,4,0.7432488624760243,0.3978611991077841,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,36,1,14:21,2061,2061,Rapolas Ivanauskas missed Jumper.,10,14,-4,4,0.7429288411674939,0.39767476331601626,4,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,37,1,14:16,2056,2056,Jimmy Boeheim Defensive Rebound.,10,14,-4,5,0.7425271818614304,0.3974412756655394,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,38,1,14:07,2047,2047,Kobe Dickson made Layup. Assisted by Terrance McBride.,10,16,-6,9,0.6998101319132287,0.3482256502890465,4,4,9.6,NA,NA,Cornell,made,Kobe Dickson,Terrance McBride,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,39,1,13:49,2029,2029,Will Rayman missed Three Point Jumper.,10,16,-6,18,0.6978215491741692,0.34702006431329374,4,4,9.6,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,40,1,13:44,2024,2024,Bryan Knapp Defensive Rebound.,10,16,-6,5,0.6972636542314445,0.34668362291595817,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,41,1,13:28,2008,2008,Jimmy Boeheim missed Jumper.,10,16,-6,16,0.6954621113615047,0.3456022842200891,4,4,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,42,1,13:25,2005,2005,Rapolas Ivanauskas Defensive Rebound.,10,16,-6,3,0.6951215418308174,0.3453987128827322,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,43,1,13:16,1996,1996,Nelly Cummings missed Layup.,10,16,-6,9,0.6940945241616057,0.34478640371411456,4,4,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,44,1,13:12,1992,1992,Jordan Jones Defensive Rebound.,10,16,-6,4,0.6936355042684249,0.3445134870808168,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,45,1,12:55,1975,1975,Bryan Knapp missed Jumper.,10,16,-6,17,0.6916668954745805,0.3433480983924526,4,4,9.6,NA,NA,Cornell,missed,Bryan Knapp,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,46,1,12:48,1968,1968,Tucker Richardson Defensive Rebound.,10,16,-6,7,0.6908478629154367,0.34286558491675684,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,47,1,12:46,1966,1966,Jordan Burns missed Three Point Jumper.,10,16,-6,2,0.6906129440753154,0.3427274340574811,4,4,9.6,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,48,1,12:41,1961,1961,Jordan Jones Defensive Rebound.,10,16,-6,5,0.6900238716785185,0.3423814868189903,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,49,1,12:27,1947,1947,Jordan Jones missed Three Point Jumper.,10,16,-6,14,0.6883608996346422,0.34140842852354136,4,4,9.6,NA,NA,Cornell,missed,Jordan Jones,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,50,1,12:27,1947,1947,Rapolas Ivanauskas Defensive Rebound.,10,16,-6,0,0.6883608996346422,0.34140842852354136,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,51,1,12:27,1947,1947,Foul on Kobe Dickson.,10,16,-6,0,0.6883608996346422,0.34140842852354136,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,52,1,12:12,1932,1932,Jordan Burns missed Three Point Jumper.,10,16,-6,15,0.6865567489744546,0.3403584676394785,4,4,9.6,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,53,1,12:08,1928,1928,Dean Noll Defensive Rebound.,10,16,-6,4,0.6860717618629842,0.3400772654044354,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,54,1,11:51,1911,1911,Thurston McCarty made Jumper. Assisted by Bryan Knapp.,10,18,-8,17,0.6340074581387328,0.29089880226076276,4,4,9.6,NA,NA,Cornell,made,Thurston McCarty,Bryan Knapp,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,55,1,11:26,1886,1886,Will Rayman missed Jumper.,10,18,-8,25,0.6300852494659597,0.2887561038772947,4,4,9.6,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,56,1,11:26,1886,1886,Jimmy Boeheim Block.,10,18,-8,0,0.6300852494659597,0.2887561038772947,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,57,1,11:19,1879,1879,Kobe Dickson Defensive Rebound.,10,18,-8,7,0.628977167701065,0.28815758034166117,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,58,1,11:10,1870,1870,Dean Noll Turnover.,10,18,-8,9,0.6275457275930553,0.28738847276475815,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,59,1,11:10,1870,1870,Official TV Timeout,10,18,-8,0,0.6275457275930553,0.28738847276475815,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,60,1,11:10,1870,1870,Jack Ferguson Turnover.,10,18,-8,0,0.6275457275930553,0.28738847276475815,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,61,1,10:57,1857,1857,Kobe Dickson missed Jumper.,10,18,-8,13,0.6254640606397414,0.28627768635649703,4,4,9.6,NA,NA,Cornell,missed,Kobe Dickson,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,62,1,10:52,1852,1852,Will Rayman Defensive Rebound.,10,18,-8,5,0.6246588281281515,0.28585030528814503,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,63,1,10:45,1845,1845,Tucker Richardson Turnover.,10,18,-8,7,0.6235270646620803,0.28525165340731723,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,64,1,10:15,1815,1815,Riley Voss made Three Point Jumper.,10,21,-11,30,0.5335659052065441,0.21747829425096393,4,4,9.6,NA,NA,Cornell,made,Riley Voss,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,65,1,9:47,1787,1787,Jordan Burns made Three Point Jumper. Assisted by Jack Ferguson.,13,21,-8,28,0.6139310557182596,0.2802556786985974,4,4,9.6,NA,NA,Colgate,made,Jordan Burns,Jack Ferguson,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,66,1,9:20,1760,1760,Thurston McCarty Turnover.,13,21,-8,27,0.609315270115326,0.277891411182057,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,67,1,9:04,1744,1744,Jack Ferguson made Jumper.,15,21,-6,16,0.6622318414602553,0.3270590101854904,4,4,9.6,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,68,1,8:40,1720,1720,Dean Noll missed Jumper.,15,21,-6,24,0.6588499677808367,0.3252784491614159,4,4,9.6,NA,NA,Cornell,missed,Dean Noll,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,69,1,8:34,1714,1714,Keegan Records Defensive Rebound.,15,21,-6,6,0.6579927302125809,0.3248278052171333,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,70,1,8:31,1711,1711,Jack Ferguson made Three Point Jumper. Assisted by Jordan Burns.,18,21,-3,3,0.7347391472365666,0.4094227819985265,4,4,9.6,NA,NA,Colgate,made,Jack Ferguson,Jordan Burns,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,71,1,8:23,1703,1703,Cornell  Timeout,18,21,-3,8,0.7340102266990678,0.40908838111123297,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,72,1,7:56,1676,1676,Riley Voss made Jumper.,18,23,-5,27,0.6800544879061479,0.34961254589797935,3,4,9.6,NA,NA,Cornell,made,Riley Voss,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,73,1,7:44,1664,1664,Tucker Richardson missed Jumper.,18,23,-5,12,0.6785106274720755,0.348835430011645,3,4,9.6,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,74,1,7:34,1654,1654,Keegan Records Offensive Rebound.,18,23,-5,10,0.677218926489336,0.34819692051791856,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,75,1,7:34,1654,1654,Keegan Records made Dunk.,20,23,-3,0,0.7294452866461802,0.4070474574603655,3,4,9.6,NA,NA,Colgate,made,Keegan Records,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,76,1,7:31,1651,1651,Thurston McCarty missed Three Point Jumper.,20,23,-3,3,0.7291606750160092,0.40692611801006773,3,4,9.6,NA,NA,Cornell,missed,Thurston McCarty,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,77,1,7:26,1646,1646,Keegan Records Defensive Rebound.,20,23,-3,5,0.7286849750827601,0.40672466482613245,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,78,1,7:21,1641,1641,Rapolas Ivanauskas Turnover.,20,23,-3,5,0.7282075743038984,0.406524098883698,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,79,1,7:00,1620,1620,Terrance McBride missed Jumper.,20,23,-3,21,0.7261834770332573,0.40568915270468314,3,4,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,80,1,6:57,1617,1617,Keegan Records Defensive Rebound.,20,23,-3,3,0.7258917582407524,0.40557057631804844,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,81,1,6:49,1609,1609,Nelly Cummings made Layup.,22,23,-1,8,0.7730651056340785,0.468075418587377,3,4,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,82,1,6:28,1588,1588,Terrance McBride made Jumper. Assisted by Jimmy Boeheim.,22,25,-3,21,0.7230374864580207,0.4044268387466266,3,4,9.6,NA,NA,Cornell,made,Terrance McBride,Jimmy Boeheim,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,83,1,6:15,1575,1575,Foul on Jordan Jones.,22,25,-3,13,0.721737132966478,0.4039123385428911,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,84,1,6:00,1560,1560,Rapolas Ivanauskas missed Three Point Jumper.,22,25,-3,15,0.7202200372835806,0.40331413534109545,3,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,85,1,5:56,1556,1556,Jordan Jones Defensive Rebound.,22,25,-3,4,0.7198123922624423,0.40315346971467114,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,86,1,5:36,1536,1536,Foul on Nelly Cummings.,22,25,-3,20,0.7177541593119942,0.4023404403232787,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,87,1,5:26,1526,1526,Josh Warren made Jumper.,22,27,-5,10,0.659989717293565,0.34019906588309795,3,4,9.6,NA,NA,Cornell,made,Josh Warren,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,88,1,5:10,1510,1510,Rapolas Ivanauskas Turnover.,22,27,-5,16,0.6577064350107313,0.33914896056077537,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,89,1,4:47,1487,1487,Jimmy Boeheim missed Layup.,22,27,-5,23,0.654356798755224,0.3375894184116846,3,4,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,90,1,4:47,1487,1487,Will Rayman Block.,22,27,-5,0,0.654356798755224,0.3375894184116846,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,91,1,4:31,1471,1471,Jimmy Boeheim Offensive Rebound.,22,27,-5,16,0.6519757140060324,0.33646289440338495,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,92,1,4:29,1469,1469,Jimmy Boeheim made Layup.,22,29,-7,2,0.587711775255201,0.2785559929586217,3,4,9.6,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,93,1,4:26,1466,1466,Will Rayman missed Three Point Jumper.,22,29,-7,3,0.5871348266606845,0.2782832069308202,3,4,9.6,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,94,1,4:26,1466,1466,Josh Warren Defensive Rebound.,22,29,-7,0,0.5871348266606845,0.2782832069308202,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,95,1,4:26,1466,1466,Foul on Rapolas Ivanauskas.,22,29,-7,0,0.5871348266606845,0.2782832069308202,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,96,1,4:06,1446,1446,Josh Warren Turnover.,22,29,-7,20,0.5832306982340177,0.27642177217534897,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,97,1,4:06,1446,1446,Jack Ferguson Steal.,22,29,-7,0,0.5832306982340177,0.27642177217534897,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,98,1,3:41,1421,1421,Nelly Cummings missed Three Point Jumper.,22,29,-7,25,0.5783599364937048,0.2741468806678367,3,4,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,99,1,3:35,1415,1415,Josh Warren Defensive Rebound.,22,29,-7,6,0.577199946902231,0.27361728448666733,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,100,1,3:21,1401,1401,Jimmy Boeheim missed Jumper.,22,29,-7,14,0.5745009553241216,0.27240028865001487,3,4,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,101,1,3:21,1401,1401,Will Rayman Block.,22,29,-7,0,0.5745009553241216,0.27240028865001487,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,102,1,3:16,1396,1396,Nelly Cummings Defensive Rebound.,22,29,-7,5,0.5735385081114384,0.2719708958341534,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,103,1,3:16,1396,1396,Foul on Dean Noll.,22,29,-7,0,0.5735385081114384,0.2719708958341534,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,104,1,3:16,1396,1396,Official TV Timeout,22,29,-7,0,0.5735385081114384,0.2719708958341534,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,105,1,3:16,1396,1396,Nelly Cummings made Free Throw.,23,29,-6,0,0.6075360228523606,0.30069673824116777,3,4,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,106,1,3:16,1396,1396,Nelly Cummings made Free Throw.,24,29,-5,0,0.6405219850207119,0.3310768743636623,3,4,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,107,1,3:02,1382,1382,Terrance McBride made Three Point Jumper. Assisted by Bryan Knapp.,24,32,-8,14,0.5358805588334539,0.2437558213907633,3,4,9.6,NA,NA,Cornell,made,Terrance McBride,Bryan Knapp,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,108,1,2:46,1366,1366,Nelly Cummings made Layup.,26,32,-6,16,0.6023350015347015,0.2983810509639979,3,4,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,109,1,2:22,1342,1342,Jordan Jones made Layup. Assisted by Josh Warren.,26,34,-8,24,0.5273993840719863,0.2401574084030146,3,4,9.6,NA,NA,Cornell,made,Jordan Jones,Josh Warren,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,110,1,2:09,1329,1329,Foul on Jordan Jones.,26,34,-8,13,0.5246010130981871,0.23897720564818195,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,111,1,2:08,1328,1328,David Maynard missed Free Throw.,26,34,-8,1,0.5243844730985419,0.23888584791088488,3,4,9.6,NA,NA,Colgate,missed,David Maynard,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,112,1,2:07,1327,1327,Keegan Records Offensive Rebound.,26,34,-8,1,0.5241677331554657,0.23879439444544429,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,113,1,1:49,1309,1309,Keegan Records made Layup. Assisted by Will Rayman.,28,34,-6,18,0.5922027937980452,0.2939316847244797,3,4,9.6,NA,NA,Colgate,made,Keegan Records,Will Rayman,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,114,1,1:24,1284,1284,Riley Voss made Jumper.,28,36,-8,25,0.5146105419447023,0.23473259539258665,3,4,9.6,NA,NA,Cornell,made,Riley Voss,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,115,1,1:20,1280,1280,Colgate  Timeout,28,36,-8,4,0.5136928039740952,0.23433786173430163,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,116,1,1:08,1268,1268,Tucker Richardson made Layup.,30,36,-6,12,0.5845064377017037,0.2904839536162546,3,3,9.6,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,117,1,0:42,1242,1242,Jimmy Boeheim made Jumper. Assisted by Bryan Knapp.,30,38,-8,26,0.5046540181092539,0.23038548947826648,3,3,9.6,NA,NA,Cornell,made,Jimmy Boeheim,Bryan Knapp,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,118,1,0:16,1216,1216,Jordan Burns made Three Point Jumper. Assisted by Tucker Richardson.,33,38,-5,26,0.6108491487595199,0.31770814570436484,3,3,9.6,NA,NA,Colgate,made,Jordan Burns,Tucker Richardson,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,119,1,0:00,1200,1200,Jimmy Boeheim missed Three Point Jumper.,33,38,-5,16,0.6078350004518213,0.3162303721963287,3,3,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,120,1,0:00,1200,1200,Riley Voss Offensive Rebound.,33,38,-5,0,0.6078350004518213,0.3162303721963287,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,121,1,0:00,1200,1200,End of 1st half,33,38,-5,0,0.6078350004518213,0.3162303721963287,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
+401172300,2019-12-11,Colgate,Cornell,122,2,20:00,1200,1200,PLAY,33,38,-5,0,0.6078350004518213,0.3162303721963287,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Colgate
+401172300,2019-12-11,Colgate,Cornell,123,2,19:37,1177,1177,Jordan Burns missed Jumper.,33,38,-5,23,0.603577828743909,0.3141763785867249,4,4,9.6,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,124,2,19:32,1172,1172,Jimmy Boeheim Defensive Rebound.,33,38,-5,5,0.6026629075510471,0.31373997242057144,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,125,2,19:14,1154,1154,Josh Warren made Layup. Assisted by Terrance McBride.,33,40,-7,18,0.5217253435467343,0.24864253632616812,4,4,9.6,NA,NA,Cornell,made,Josh Warren,Terrance McBride,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,126,2,18:56,1136,1136,Rapolas Ivanauskas missed Layup.,33,40,-7,18,0.5176266130158533,0.24677896165819332,4,4,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,127,2,18:55,1135,1135,Josh Warren Defensive Rebound.,33,40,-7,1,0.5173990722742741,0.24667581187498805,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,128,2,18:55,1135,1135,Foul on Rapolas Ivanauskas.,33,40,-7,0,0.5173990722742741,0.24667581187498805,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,129,2,18:55,1135,1135,Jordan Jones made Layup.,33,42,-9,0,0.437982769190693,0.19225900137608087,4,4,9.6,NA,NA,Cornell,made,Jordan Jones,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,130,2,18:53,1133,1133,Tucker Richardson Turnover.,33,42,-9,2,0.43745608910644296,0.19203742284873906,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,131,2,18:27,1107,1107,Jordan Jones made Layup.,33,44,-11,26,0.35368542637466194,0.14443303317770623,4,4,9.6,NA,NA,Cornell,made,Jordan Jones,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,132,2,18:21,1101,1101,Colgate  Timeout,33,44,-11,6,0.35197738474969487,0.1437744382023626,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,133,2,17:43,1063,1063,Keegan Records missed Jumper.,33,44,-11,38,0.34095997655352694,0.13951583341639942,4,3,9.6,NA,NA,Colgate,missed,Keegan Records,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,134,2,17:39,1059,1059,Terrance McBride Defensive Rebound.,33,44,-11,4,0.3397711204667992,0.13905436628330853,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,135,2,17:29,1049,1049,Jimmy Boeheim missed Three Point Jumper.,33,44,-11,10,0.33676678010017647,0.13788591323943505,4,3,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,136,2,17:24,1044,1044,Nelly Cummings Defensive Rebound.,33,44,-11,5,0.33524585979306526,0.13729306074882738,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,137,2,17:19,1039,1039,Nelly Cummings missed Layup.,33,44,-11,5,0.33371140326345755,0.13669397411715922,4,3,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,138,2,17:19,1039,1039,Josh Warren Block.,33,44,-11,0,0.33371140326345755,0.13669397411715922,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,139,2,17:19,1039,1039,Colgate Offensive Rebound.,33,44,-11,0,0.33371140326345755,0.13669397411715922,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,140,2,17:12,1032,1032,Foul on Terrance McBride.,33,44,-11,7,0.3315389713929594,0.1358441080194217,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,141,2,17:09,1029,1029,Will Rayman made Layup. Assisted by Jordan Burns.,35,44,-9,3,0.40890391944809545,0.17999111292759673,4,3,9.6,NA,NA,Colgate,made,Will Rayman,Jordan Burns,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,142,2,16:46,1006,1006,Terrance McBride Turnover.,35,44,-9,23,0.40188965562449747,0.17697611054578372,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,143,2,16:19,979,979,Will Rayman missed Jumper.,35,44,-9,27,0.3931266936785925,0.1731692499319287,4,3,9.6,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,144,2,16:15,975,975,Josh Warren Defensive Rebound.,35,44,-9,4,0.3917737468121859,0.17257775679933168,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,145,2,16:06,966,966,Jimmy Boeheim missed Jumper.,35,44,-9,9,0.38869701211966867,0.1712308640908295,4,3,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,146,2,16:02,962,962,Keegan Records Defensive Rebound.,35,44,-9,4,0.3873625235363251,0.17064934175173174,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,147,2,15:51,951,951,Will Rayman missed Three Point Jumper.,35,44,-9,11,0.38383481491419885,0.1691231154596191,4,3,9.6,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,148,2,15:43,943,943,Terrance McBride Defensive Rebound.,35,44,-9,8,0.38138758806142786,0.1680735505157695,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,149,2,15:27,927,927,Bryan Knapp missed Three Point Jumper.,35,44,-9,16,0.3767444559709574,0.16610165258713624,4,3,9.6,NA,NA,Cornell,missed,Bryan Knapp,NA,TRUE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,150,2,15:22,922,922,Josh Warren Offensive Rebound.,35,44,-9,5,0.3753515025258363,0.16551462116895252,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,151,2,15:18,918,918,Foul on Jordan Burns.,35,44,-9,4,0.37425390190693,0.16505338072613068,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,152,2,15:18,918,918,Official TV Timeout,35,44,-9,0,0.37425390190693,0.16505338072613068,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,153,2,15:16,916,916,Josh Warren Turnover.,35,44,-9,2,0.37371023300008693,0.16482532130783775,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,154,2,15:16,916,916,Nelly Cummings Steal.,35,44,-9,0,0.37371023300008693,0.16482532130783775,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,155,2,15:10,910,910,Nelly Cummings missed Layup.,35,44,-9,6,0.3720977714694867,0.16415037470882024,4,3,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,156,2,14:41,881,881,Keegan Records Offensive Rebound.,35,44,-9,29,0.36456868960151473,0.16101886167411006,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,157,2,14:41,881,881,Keegan Records made Dunk.,37,44,-7,0,0.45294610289720366,0.216895260334121,4,3,9.6,NA,NA,Colgate,made,Keegan Records,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,158,2,14:38,878,878,Josh Warren Turnover.,37,44,-7,3,0.452255975533639,0.2165844778705958,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,159,2,14:22,862,862,Keegan Records made Layup. Assisted by Ryan Moffatt.,39,44,-5,16,0.5408259595568686,0.2838647361447716,4,3,9.6,NA,NA,Colgate,made,Keegan Records,Ryan Moffatt,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,160,2,13:52,832,832,Terrance McBride missed Jumper.,39,44,-5,30,0.5349823242141479,0.2810544631107893,4,3,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,161,2,13:48,828,828,Tucker Richardson Defensive Rebound.,39,44,-5,4,0.5341675053577342,0.28065809896895766,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,162,2,13:21,801,801,Nelly Cummings missed Jumper.,39,44,-5,27,0.5283335413370598,0.2777826353633476,4,3,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,163,2,13:17,797,797,Keegan Records Offensive Rebound.,39,44,-5,4,0.527410029972619,0.27732144507408435,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,164,2,13:15,795,795,Keegan Records made Layup.,41,44,-3,2,0.6204489318211556,0.35999759556176475,4,3,9.6,NA,NA,Colgate,made,Keegan Records,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,165,2,12:58,778,778,Riley Voss Turnover.,41,44,-3,17,0.6174944435577343,0.35854088141799134,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,166,2,12:46,766,766,Foul on Thurston McCarty.,41,44,-3,12,0.6152512421803912,0.35741534596270264,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,167,2,12:46,766,766,Ryan Moffatt missed Three Point Jumper.,41,44,-3,0,0.6152512421803912,0.35741534596270264,4,3,9.6,NA,NA,Colgate,missed,Ryan Moffatt,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,168,2,12:41,761,761,Cornell Defensive Rebound.,41,44,-3,5,0.6142735381191333,0.3569200464993685,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,169,2,12:20,740,740,Terrance McBride missed Three Point Jumper.,41,44,-3,21,0.6098578885766652,0.3546524482322463,4,3,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,170,2,12:16,736,736,Dean Noll Offensive Rebound.,41,44,-3,4,0.6089553730418519,0.35418360345302374,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,171,2,11:59,719,719,Dean Noll missed Jumper.,41,44,-3,17,0.6050349593098221,0.3521544806723792,4,3,9.6,NA,NA,Cornell,missed,Dean Noll,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,172,2,11:59,719,719,Keegan Records Block.,41,44,-3,0,0.6050349593098221,0.3521544806723792,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,173,2,11:55,715,715,Nelly Cummings Defensive Rebound.,41,44,-3,4,0.6041493556968506,0.35170716329514573,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,174,2,11:52,712,712,Foul on Thurston McCarty.,41,44,-3,3,0.6034955009312086,0.35137986361441415,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,175,2,11:47,707,707,Official TV Timeout,41,44,-3,5,0.6024238165894836,0.3508487311033636,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,176,2,11:32,692,692,Ryan Moffatt missed Layup.,41,44,-3,15,0.5993206361441983,0.34934548182368247,4,3,9.6,NA,NA,Colgate,missed,Ryan Moffatt,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,177,2,11:26,686,686,Riley Voss Defensive Rebound.,41,44,-3,6,0.5981150370036071,0.34877372234402615,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,178,2,11:12,672,672,Jimmy Boeheim missed Jumper.,41,44,-3,14,0.5953471367456199,0.3474805036015166,4,3,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,179,2,11:12,672,672,Tucker Richardson Block.,41,44,-3,0,0.5953471367456199,0.3474805036015166,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,180,2,11:07,667,667,Tucker Richardson Defensive Rebound.,41,44,-3,5,0.5943655995565686,0.347026542860621,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,181,2,11:05,665,665,Jack Ferguson missed Three Point Jumper.,41,44,-3,2,0.5939729809271178,0.34684538677856,4,3,9.6,NA,NA,Colgate,missed,Jack Ferguson,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,182,2,11:01,661,661,Riley Voss Defensive Rebound.,41,44,-3,4,0.5931868040747097,0.3464831494131992,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,183,2,10:50,650,650,Riley Voss missed Three Point Jumper.,41,44,-3,11,0.5910084102318167,0.34548052495811776,4,3,9.6,NA,NA,Cornell,missed,Riley Voss,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,184,2,10:46,646,646,Ryan Moffatt Defensive Rebound.,41,44,-3,4,0.5902062451204592,0.3451107491583768,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,185,2,10:37,637,637,Keegan Records made Jumper. Assisted by Tucker Richardson.,43,44,-1,9,0.6871463249785444,0.4465088452292547,4,3,9.6,NA,NA,Colgate,made,Keegan Records,Tucker Richardson,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,186,2,10:10,610,610,Dean Noll missed Three Point Jumper.,43,44,-1,27,0.6836909369396094,0.445491003000694,4,3,9.6,NA,NA,Cornell,missed,Dean Noll,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,187,2,10:05,605,605,Tucker Richardson Defensive Rebound.,43,44,-1,5,0.6830096803901969,0.4452819542750466,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,188,2,10:05,605,605,Jack Ferguson made Layup. Assisted by Tucker Richardson.,45,44,1,0,0.7697929287852022,0.5547180457249534,4,3,9.6,NA,NA,Colgate,made,Jack Ferguson,Tucker Richardson,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,189,2,10:05,605,605,Foul on Kobe Dickson.,45,44,1,0,0.7697929287852022,0.5547180457249534,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,190,2,9:59,599,599,Jack Ferguson made Free Throw.,46,44,2,6,0.8063087141448045,0.6086456681124041,4,3,9.6,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,191,2,9:48,588,588,Terrance McBride made Layup.,46,46,0,11,0.7269629805139632,0.5,4,3,9.6,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,192,2,9:34,574,574,Tucker Richardson made Three Point Jumper. Assisted by Nelly Cummings.,49,46,3,14,0.8388502962651234,0.6631846220049252,4,3,9.6,NA,NA,Colgate,made,Tucker Richardson,Nelly Cummings,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,193,2,9:18,558,558,Foul on Will Rayman.,49,46,3,16,0.8392458685601074,0.6657607306888476,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,194,2,9:08,548,548,Dean Noll missed Layup.,49,46,3,10,0.8395669306409215,0.6675574568042336,4,3,9.6,NA,NA,Cornell,missed,Dean Noll,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,195,2,9:08,548,548,Will Rayman Defensive Rebound.,49,46,3,0,0.8395669306409215,0.6675574568042336,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,196,2,8:55,535,535,Nelly Cummings made Layup.,51,46,5,13,0.8936737855811077,0.7646387175283628,4,3,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,197,2,8:45,525,525,Terrance McBride missed Layup.,51,46,5,10,0.8942180332954908,0.7666454612304032,4,3,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,198,2,8:45,525,525,Rapolas Ivanauskas Block.,51,46,5,0,0.8942180332954908,0.7666454612304032,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,199,2,8:45,525,525,Cornell Offensive Rebound.,51,46,5,0,0.8942180332954908,0.7666454612304032,4,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,200,2,8:45,525,525,Cornell  Timeout,51,46,5,0,0.8942180332954908,0.7666454612304032,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,201,2,8:22,502,502,Cornell  Turnover.,51,46,5,23,0.8952647086875761,0.7708056695791599,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,202,2,8:05,485,485,Rapolas Ivanauskas made Three Point Jumper. Assisted by Will Rayman.,54,46,8,17,0.9474539020453223,0.8774477267165787,3,3,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,Will Rayman,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,203,2,7:52,472,472,Dean Noll Turnover.,54,46,8,13,0.9482592283220923,0.8799645557725634,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,204,2,7:52,472,472,Rapolas Ivanauskas Steal.,54,46,8,0,0.9482592283220923,0.8799645557725634,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,205,2,7:49,469,469,Foul on Dean Noll.,54,46,8,3,0.9484627986443583,0.8805859432012688,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,206,2,7:49,469,469,Rapolas Ivanauskas made Free Throw.,55,46,9,0,0.9593901623057521,0.9044553648564525,3,3,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,207,2,7:49,469,469,Rapolas Ivanauskas made Free Throw.,56,46,10,0,0.9680785896454237,0.9239655499568136,3,3,9.6,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,208,2,7:35,455,455,Foul on Will Rayman.,56,46,10,14,0.9689824878719918,0.9265988203738694,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,209,2,7:28,448,448,Jordan Jones missed Three Point Jumper.,56,46,10,7,0.9694995155677565,0.9280672023205772,3,3,9.6,NA,NA,Cornell,missed,Jordan Jones,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,210,2,7:25,445,445,Jack Ferguson Defensive Rebound.,56,46,10,3,0.9697361434563744,0.9287314855052605,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,211,2,7:17,437,437,Foul on Terrance McBride.,56,46,10,8,0.9704145386980993,0.9306126802263908,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,212,2,6:59,419,419,Tucker Richardson missed Three Point Jumper.,56,46,10,18,0.9720675609230696,0.9351370232378423,3,3,9.6,NA,NA,Colgate,missed,Tucker Richardson,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,213,2,6:55,415,415,Terrance McBride Defensive Rebound.,56,46,10,4,0.972400542077201,0.9360629893608323,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,214,2,6:48,408,408,Terrance McBride missed Layup.,56,46,10,7,0.9729536323466293,0.9376144326749285,3,3,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,215,2,6:48,408,408,Will Rayman Block.,56,46,10,0,0.9729536323466293,0.9376144326749285,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,216,2,6:42,402,402,Jordan Burns Defensive Rebound.,56,46,10,6,0.97340459996231,0.9388898097407535,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,217,2,6:40,400,400,Rapolas Ivanauskas missed Three Point Jumper.,56,46,10,2,0.9735513682771926,0.9393064100512527,3,3,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,218,2,6:36,396,396,Terrance McBride Defensive Rebound.,56,46,10,4,0.9738409270746119,0.9401298117142394,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,219,2,6:30,390,390,Foul on Rapolas Ivanauskas.,56,46,10,6,0.9742685490611537,0.9413474868856586,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,220,2,6:17,377,377,Bryan Knapp missed Jumper.,56,46,10,13,0.9751912625217145,0.943965575139651,3,3,9.6,NA,NA,Cornell,missed,Bryan Knapp,NA,FALSE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,221,2,6:14,374,374,Josh Warren Offensive Rebound.,56,46,10,3,0.9754075810718822,0.9445745910167657,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,222,2,6:14,374,374,Foul on Keegan Records.,56,46,10,0,0.9754075810718822,0.9445745910167657,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,223,2,6:14,374,374,Josh Warren made Free Throw.,56,47,9,0,0.9676058677951639,0.9277162698530338,3,3,9.6,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,224,2,6:14,374,374,Josh Warren made Free Throw.,56,48,8,0,0.9574371343886833,0.9062392669619603,3,3,9.6,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,225,2,5:47,347,347,Nelly Cummings missed Jumper.,56,48,8,27,0.9601611741203838,0.9138743979309889,3,3,9.6,NA,NA,Colgate,missed,Nelly Cummings,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,226,2,5:36,336,336,Terrance McBride Defensive Rebound.,56,48,8,11,0.9614807440011304,0.917387945656582,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,227,2,5:33,333,333,Josh Warren made Layup. Assisted by Jimmy Boeheim.,56,50,6,3,0.9323030970169911,0.8600339209972936,3,3,9.6,NA,NA,Cornell,made,Josh Warren,Jimmy Boeheim,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,228,2,5:09,309,309,Will Rayman made Three Point Jumper. Assisted by Nelly Cummings.,59,50,9,24,0.9746049969337265,0.946056696652281,3,3,9.6,NA,NA,Colgate,made,Will Rayman,Nelly Cummings,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,229,2,4:53,293,293,Foul on Nelly Cummings.,59,50,9,16,0.9755872586133182,0.9488747480638369,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,230,2,4:53,293,293,Josh Warren made Free Throw.,59,51,8,0,0.9665402286720601,0.9306322997158898,3,3,9.6,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,231,2,4:53,293,293,Josh Warren made Free Throw.,59,52,7,0,0.9542975536469621,0.9065218605671832,3,3,9.6,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,232,2,4:29,269,269,Keegan Records missed Jumper.,59,52,7,24,0.9522984142606294,0.904744835069523,3,3,9.6,NA,NA,Colgate,missed,Keegan Records,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,233,2,4:25,265,265,Jordan Jones Defensive Rebound.,59,52,7,4,0.9517325861770152,0.9040253179529394,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,234,2,4:12,252,252,Bryan Knapp made Layup.,59,54,5,13,0.9095446652691844,0.8295942359398817,3,3,9.6,NA,NA,Cornell,made,Bryan Knapp,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,235,2,3:51,231,231,Will Rayman missed Three Point Jumper.,59,54,5,21,0.9068173609567788,0.8281745939946813,3,3,9.6,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,236,2,3:46,226,226,Jordan Jones Defensive Rebound.,59,54,5,5,0.9067897407870823,0.8289315123153727,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,237,2,3:25,205,205,Jimmy Boeheim Turnover.,59,54,5,21,0.9108713295854299,0.8392253996398844,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,238,2,3:25,205,205,Keegan Records Steal.,59,54,5,0,0.9108713295854299,0.8392253996398844,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,239,2,3:09,189,189,Jordan Burns missed Three Point Jumper.,59,54,5,16,0.919480377561647,0.8562429058026886,3,3,9.6,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,240,2,3:04,184,184,Jimmy Boeheim Defensive Rebound.,59,54,5,5,0.9227778386645539,0.8625535479347245,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,241,2,2:45,165,165,Jordan Jones missed Jumper.,59,54,5,19,0.9345994400209724,0.8851493502640877,3,3,9.6,NA,NA,Cornell,missed,Jordan Jones,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,242,2,2:45,165,165,Keegan Records Defensive Rebound.,59,54,5,0,0.9345994400209724,0.8851493502640877,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,243,2,2:45,165,165,Tucker Richardson Block.,61,56,5,0,0.9345994400209724,0.8851493502640877,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,244,2,2:26,146,146,Will Rayman missed Three Point Jumper.,59,54,5,19,0.9459045600702306,0.9064963112161142,3,3,9.6,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,245,2,2:23,143,143,Josh Warren Defensive Rebound.,59,54,5,3,0.9476715124238306,0.9097955130038816,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,246,2,2:13,133,133,Jimmy Boeheim missed Three Point Jumper.,59,54,5,10,0.9535327438628355,0.9206544859576531,3,3,9.6,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,247,2,2:13,133,133,Will Rayman Block.,59,54,5,0,0.9535327438628355,0.9206544859576531,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,248,2,2:05,125,125,Nelly Cummings Defensive Rebound.,59,54,5,8,0.9581754636848475,0.9291573374058483,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,249,2,2:05,125,125,Foul on Josh Warren.,59,54,5,0,0.9581754636848475,0.9291573374058483,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,250,2,2:05,125,125,Official TV Timeout,59,54,5,0,0.9581754636848475,0.9291573374058483,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,251,2,2:05,125,125,Jordan Burns made Free Throw.,60,54,6,0,0.9745760545055145,0.9564192167456673,3,3,9.6,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,252,2,2:05,125,125,Jordan Burns made Free Throw.,61,54,7,0,0.9846485437862895,0.9734894278853864,3,3,9.6,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,253,2,1:45,105,105,Bryan Knapp missed Jumper.,61,54,7,20,0.9903105644143573,0.983721754022488,3,3,9.6,NA,NA,Cornell,missed,Bryan Knapp,NA,FALSE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,254,2,1:41,101,101,Bryan Knapp Offensive Rebound.,61,54,7,4,0.9912820204241755,0.9854401022550683,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,255,2,1:41,101,101,Foul on Nelly Cummings.,61,54,7,0,0.9912820204241755,0.9854401022550683,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,256,2,1:41,101,101,Bryan Knapp made Free Throw.,61,55,6,0,0.9841949549071595,0.9737298493595344,3,3,9.6,NA,NA,Cornell,made,Bryan Knapp,NA,FALSE,TRUE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,257,2,1:41,101,101,Bryan Knapp made Free Throw.,61,56,5,0,0.9715122039177012,0.9530499839696769,3,3,9.6,NA,NA,Cornell,made,Bryan Knapp,NA,FALSE,TRUE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,258,2,1:26,86,86,Rapolas Ivanauskas missed Jumper.,61,56,5,15,0.9788143358502094,0.9657711296302303,3,3,9.6,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,259,2,1:26,86,86,Jordan Jones Block.,61,56,5,0,0.9788143358502094,0.9657711296302303,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,260,2,1:21,81,81,Josh Warren Defensive Rebound.,61,56,5,5,0.9809114864141906,0.9693782453765517,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,261,2,1:18,78,78,Terrance McBride Turnover.,61,56,5,3,0.9821010110118265,0.9714122603985966,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,262,2,1:18,78,78,Jordan Burns Steal.,61,56,5,0,0.9821010110118265,0.9714122603985966,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,263,2,1:17,77,77,Foul on Bryan Knapp.,61,56,5,1,0.9824869729174807,0.9720701627339999,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,264,2,1:17,77,77,Jordan Burns missed Free Throw.,61,56,5,0,0.9824869729174807,0.9720701627339999,3,3,9.6,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,265,2,1:15,75,75,Josh Warren Defensive Rebound.,61,56,5,2,0.9832438211374598,0.9733571352738245,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,266,2,1:02,62,62,Foul on Jordan Jones.,61,56,5,13,0.9876413580470552,0.9807464587293638,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,267,2,1:02,62,62,Jordan Jones Turnover.,61,56,5,0,0.9876413580470552,0.9807464587293638,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,268,2,0:47,47,47,Foul on Bryan Knapp.,61,56,5,15,0.9915566651987422,0.9871758040321901,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,269,2,0:47,47,47,Tucker Richardson missed Free Throw.,61,56,5,0,0.9915566651987422,0.9871758040321901,3,3,9.6,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,270,2,0:47,47,47,Colgate Offensive Rebound.,61,56,5,0,0.9915566651987422,0.9871758040321901,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,271,2,0:47,47,47,Cornell  Timeout,61,56,5,0,0.9915566651987422,0.9871758040321901,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,272,2,0:47,47,47,Tucker Richardson made Free Throw.,62,56,6,0,0.9964406145398719,0.9945799601842901,2,3,9.6,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,273,2,0:27,27,27,Terrance McBride Turnover.,62,56,6,20,0.9982133404711293,0.9973802969153209,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,274,2,0:15,15,15,Foul on Bryan Knapp.,62,56,6,12,0.9988590595068423,0.9983663777706888,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,275,2,0:15,15,15,Nelly Cummings made Free Throw.,63,56,7,0,0.9996080486722704,0.9994386141949797,2,3,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,TRUE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,276,2,0:15,15,15,Nelly Cummings made Free Throw.,64,56,8,0,0.9998654178202641,0.9998072185755668,2,3,9.6,NA,NA,Colgate,made,Nelly Cummings,NA,FALSE,TRUE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,277,2,0:07,7,7,Dean Noll made Layup.,64,58,6,8,0.9991711657182253,0.9988324936396711,2,3,9.6,NA,NA,Cornell,made,Dean Noll,NA,FALSE,FALSE,Cornell,Colgate
+401172300,2019-12-11,Colgate,Cornell,278,2,0:05,5,5,Will Rayman missed Layup.,64,58,6,2,0.9992363947801581,0.9989288184707279,2,3,9.6,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,279,2,0:05,5,5,Will Rayman Offensive Rebound.,64,58,6,0,0.9992363947801581,0.9989288184707279,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172300,2019-12-11,Colgate,Cornell,280,2,0:05,5,5,Will Rayman made Layup.,66,58,8,0,0.9999217874965597,0.9998902535757336,2,3,9.6,NA,NA,Colgate,made,Will Rayman,NA,FALSE,FALSE,Colgate,Cornell
+401172300,2019-12-11,Colgate,Cornell,281,2,0:02,2,2,Terrance McBride missed Three Point Jumper.,66,58,8,3,0.9999338714682551,0.9999077904245814,2,3,9.6,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,282,2,0:02,2,2,Jordan Jones Offensive Rebound.,66,58,8,0,0.9999338714682551,0.9999077904245814,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell
+401172300,2019-12-11,Colgate,Cornell,283,2,0:00,0,0,End of 2nd half,66,66,0,2,1,1,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
+401172300,2019-12-11,Colgate,Cornell,284,2,0:00,0,0,End of Game,66,66,0,0,1,1,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA

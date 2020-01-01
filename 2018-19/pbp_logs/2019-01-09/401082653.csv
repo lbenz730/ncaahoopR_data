@@ -1,0 +1,329 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401082653,2019-01-09,Syracuse,Clemson,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6180531678584243,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,2,1,19:38,2378,2378,Foul on Elijah Thomas.,0,0,0,22,0.617801911627462,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,3,1,19:38,2378,2378,Elijah Thomas Turnover.,0,0,0,0,0.617801911627462,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,4,1,19:22,2362,2362,Elijah Hughes missed Jumper.,0,0,0,16,0.6176149493911315,0.5,4,4,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,5,1,19:22,2362,2362,David Skara Defensive Rebound.,0,0,0,0,0.6176149493911315,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,6,1,19:10,2350,2350,Marcquise Reed missed Three Point Jumper.,0,0,0,12,0.617472334742842,0.5,4,4,3,NA,NA,Clemson,missed,Marcquise Reed,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,7,1,19:10,2350,2350,Tyus Battle Defensive Rebound.,0,0,0,0,0.617472334742842,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,8,1,18:55,2335,2335,Oshae Brissett Turnover.,0,0,0,15,0.617291124863708,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,9,1,18:53,2333,2333,Marcquise Reed Steal.,0,0,0,2,0.617266713359687,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,10,1,18:45,2325,2325,Aamir Simms missed Jumper.,0,0,0,8,0.6171684720916832,0.5,4,4,3,NA,NA,Clemson,missed,Aamir Simms,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,11,1,18:45,2325,2325,Tyus Battle Defensive Rebound.,0,0,0,0,0.6171684720916832,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,12,1,18:36,2316,2316,Tyus Battle made Jumper.,2,0,2,9,0.6594679393452265,0.5458333887750282,4,4,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,13,1,18:13,2293,2293,Shelton Mitchell made Three Point Jumper. Assisted by Javan White.,2,3,-1,23,0.5945699535797265,0.47677844820723825,4,4,3,NA,NA,Clemson,made,Shelton Mitchell,Javan White,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,14,1,18:00,2280,2280,Oshae Brissett Turnover.,2,3,-1,13,0.5942572125173587,0.47663226359310934,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,15,1,17:58,2278,2278,Javan White Steal.,2,3,-1,2,0.5942087824505032,0.47660970179848494,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,16,1,17:53,2273,2273,Marcquise Reed made Layup.,2,5,-3,5,0.5481444720382082,0.4300694234368722,4,4,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,17,1,17:37,2257,2257,Marek Dolezaj made Three Point Jumper. Assisted by Frank Howard.,5,5,0,16,0.6162936400613934,0.5,4,4,3,NA,NA,Syracuse,made,Marek Dolezaj,Frank Howard,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,18,1,17:17,2237,2237,Foul on Javan White.,5,5,0,20,0.6160222310341523,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,19,1,17:17,2237,2237,Javan White Turnover.,5,5,0,0,0.6160222310341523,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,20,1,17:00,2220,2220,Tyus Battle Turnover.,5,5,0,17,0.6157862737522769,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,21,1,16:58,2218,2218,Marcquise Reed Steal.,5,5,0,2,0.6157581914074707,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,22,1,16:55,2215,2215,Shelton Mitchell missed Layup.,5,5,0,3,0.6157159394274622,0.5,4,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,23,1,16:55,2215,2215,Bourama Sidibe Block.,5,5,0,0,0.6157159394274622,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,24,1,16:53,2213,2213,Bourama Sidibe Defensive Rebound.,5,5,0,2,0.6156876855664866,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,25,1,16:49,2209,2209,Elijah Hughes made Layup. Assisted by Frank Howard.,7,5,2,4,0.6602984404798011,0.5482443987813758,4,4,3,NA,NA,Syracuse,made,Elijah Hughes,Frank Howard,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,26,1,16:32,2192,2192,Marcquise Reed Turnover.,7,5,2,17,0.6604206867870429,0.5486348662607666,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,27,1,16:19,2179,2179,Foul on David Skara.,7,5,2,13,0.6605117932639493,0.5489343624043685,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,28,1,16:05,2165,2165,Frank Howard missed Three Point Jumper.,7,5,2,14,0.6606074827880406,0.549257676240743,4,4,3,NA,NA,Syracuse,missed,Frank Howard,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,29,1,16:05,2165,2165,Trey Jemison Defensive Rebound.,7,5,2,0,0.6606074827880406,0.549257676240743,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,30,1,15:47,2147,2147,Shelton Mitchell missed Three Point Jumper.,7,5,2,18,0.6607277228635929,0.5496753190846927,4,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,31,1,15:47,2147,2147,Elijah Hughes Defensive Rebound.,7,5,2,0,0.6607277228635929,0.5496753190846927,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,32,1,15:39,2139,2139,Tyus Battle missed Three Point Jumper.,7,5,2,8,0.6607802964500699,0.5498617568700167,4,4,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,33,1,15:39,2139,2139,Marcquise Reed Defensive Rebound.,7,5,2,0,0.6607802964500699,0.5498617568700167,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,34,1,15:09,2109,2109,Trey Jemison missed Layup.,7,5,2,30,0.660973179489454,0.5505657434540481,4,4,3,NA,NA,Clemson,missed,Trey Jemison,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,35,1,15:09,2109,2109,Elijah Hughes Defensive Rebound.,7,5,2,0,0.660973179489454,0.5505657434540481,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,36,1,15:01,2101,2101,Bourama Sidibe made Jumper.,9,5,4,8,0.7050743588116994,0.6004743771419218,4,4,3,NA,NA,Syracuse,made,Bourama Sidibe,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,37,1,14:29,2069,2069,Hunter Tyson missed Three Point Jumper.,9,5,4,32,0.7058984812985213,0.6019526757348208,4,4,3,NA,NA,Clemson,missed,Hunter Tyson,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,38,1,14:29,2069,2069,Elijah Hughes Defensive Rebound.,9,5,4,0,0.7058984812985213,0.6019526757348208,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,39,1,14:21,2061,2061,Elijah Hughes made Three Point Jumper. Assisted by Tyus Battle.,12,5,7,8,0.766367708661652,0.6740445224426034,4,4,3,NA,NA,Syracuse,made,Elijah Hughes,Tyus Battle,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,40,1,14:01,2041,2041,David Skara made Jumper. Assisted by Marcquise Reed.,12,7,5,20,0.7278626177712382,0.6280465266195325,4,4,3,NA,NA,Clemson,made,David Skara,Marcquise Reed,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,41,1,13:40,2020,2020,Tyus Battle missed Layup.,12,7,5,21,0.7285892118412501,0.6292575594761398,4,4,3,NA,NA,Syracuse,missed,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,42,1,13:40,2020,2020,Shelton Mitchell Defensive Rebound.,12,7,5,0,0.7285892118412501,0.6292575594761398,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,43,1,13:33,2013,2013,Shelton Mitchell missed Layup.,12,7,5,7,0.7288323632441716,0.6296637285287112,4,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,44,1,13:33,2013,2013,Marek Dolezaj Block.,12,7,5,0,0.7288323632441716,0.6296637285287112,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,45,1,13:31,2011,2011,David Skara Offensive Rebound.,12,7,5,2,0.7289019295671292,0.6297800121961848,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,46,1,13:28,2008,2008,David Skara missed Layup.,12,7,5,3,0.7290063601021957,0.6299546360167523,4,4,3,NA,NA,Clemson,missed,David Skara,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,47,1,13:28,2008,2008,Bourama Sidibe Block.,12,7,5,0,0.7290063601021957,0.6299546360167523,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,48,1,13:26,2006,2006,Bourama Sidibe Defensive Rebound.,12,7,5,2,0.7290760353883159,0.6300711849568369,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,49,1,13:25,2005,2005,Frank Howard Turnover.,12,7,5,1,0.7291108897403449,0.6301294995623724,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,50,1,13:25,2005,2005,Official TV Timeout,12,7,5,0,0.7291108897403449,0.6301294995623724,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,51,1,12:54,1974,1974,Clemson  Turnover.,12,7,5,31,0.7301973295471259,0.6319509300290138,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,52,1,12:35,1955,1955,Frank Howard made Three Point Jumper. Assisted by Tyus Battle.,15,7,8,19,0.7902301003973993,0.7053137292562698,4,4,3,NA,NA,Syracuse,made,Frank Howard,Tyus Battle,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,53,1,12:03,1923,1923,Elijah Thomas made Jumper. Assisted by Shelton Mitchell.,15,9,6,32,0.7531739943637054,0.660273925261224,4,4,3,NA,NA,Clemson,made,Elijah Thomas,Shelton Mitchell,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,54,1,11:44,1904,1904,Marek Dolezaj made Layup.,17,9,8,19,0.7930691105756477,0.7097022260325371,4,4,3,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,55,1,11:29,1889,1889,David Skara missed Jumper.,17,9,8,15,0.7938938101901127,0.7109872500947808,4,4,3,NA,NA,Clemson,missed,David Skara,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,56,1,11:29,1889,1889,Elijah Hughes Defensive Rebound.,17,9,8,0,0.7938938101901127,0.7109872500947808,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,57,1,11:21,1881,1881,Elijah Hughes Turnover.,17,9,8,8,0.7943316826785939,0.7116714515141225,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,58,1,11:20,1880,1880,Shelton Mitchell Steal.,17,9,8,1,0.7943863366293732,0.7117569389400513,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,59,1,11:16,1876,1876,Shelton Mitchell missed Jumper.,17,9,8,4,0.79460479370382,0.7120988266004088,4,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,60,1,11:16,1876,1876,Tyus Battle Block.,17,9,8,0,0.79460479370382,0.7120988266004088,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,61,1,11:13,1873,1873,Tyus Battle Defensive Rebound.,17,9,8,3,0.7947684822726969,0.7123551912775697,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,62,1,11:13,1873,1873,Official TV Timeout,17,9,8,0,0.7947684822726969,0.7123551912775697,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,63,1,10:52,1852,1852,Bourama Sidibe Turnover.,17,9,8,21,0.7959116386233864,0.714149694711855,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,64,1,10:52,1852,1852,Foul on Bourama Sidibe.,17,9,8,0,0.7959116386233864,0.714149694711855,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,65,1,10:28,1828,1828,Elijah Thomas missed Layup.,17,9,8,24,0.7972161695811156,0.7162047302236102,4,4,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,66,1,10:28,1828,1828,Jalen Carey Defensive Rebound.,17,9,8,0,0.7972161695811156,0.7162047302236102,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,67,1,9:58,1798,1798,Oshae Brissett made Layup. Assisted by Jalen Carey.,19,9,10,30,0.8339320950902059,0.7637017154517307,4,4,3,NA,NA,Syracuse,made,Oshae Brissett,Jalen Carey,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,68,1,9:35,1775,1775,Foul on Bourama Sidibe.,19,9,10,23,0.835364024167189,0.7659328320893737,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,69,1,9:35,1775,1775,Elijah Thomas made Free Throw.,19,10,9,0,0.8184055543062502,0.7440141200164934,4,4,3,NA,NA,Clemson,made,Elijah Thomas,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,70,1,9:35,1775,1775,Elijah Thomas missed Free Throw.,19,10,9,0,0.8184055543062502,0.7440141200164934,4,4,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,71,1,9:35,1775,1775,Oshae Brissett Defensive Rebound.,19,10,9,0,0.8184055543062502,0.7440141200164934,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,72,1,9:14,1754,1754,Foul on Marcquise Reed.,19,10,9,21,0.8196613540775257,0.7459802314660261,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,73,1,9:05,1745,1745,Buddy Boeheim missed Three Point Jumper.,19,10,9,9,0.8202042210168095,0.7468297033816698,4,4,3,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,74,1,9:05,1745,1745,Elijah Thomas Defensive Rebound.,19,10,9,0,0.8202042210168095,0.7468297033816698,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,75,1,8:48,1728,1728,Marek Dolezaj Steal.,19,10,9,17,0.8212386765081517,0.7484471097092533,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,76,1,8:47,1727,1727,Marcquise Reed Turnover.,19,10,9,1,0.8212999272517614,0.748542812059778,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,77,1,8:41,1721,1721,Oshae Brissett made Dunk. Assisted by Marek Dolezaj.,21,10,11,6,0.8545552455022407,0.7919975500503164,4,4,3,NA,NA,Syracuse,made,Oshae Brissett,Marek Dolezaj,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,78,1,8:37,1717,1717,Clemson  Timeout,21,10,11,4,0.8548209964214438,0.7924100131838174,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,79,1,8:16,1696,1696,Foul on Tyus Battle.,21,10,11,21,0.8562288001830434,0.7945927181326715,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,80,1,8:16,1696,1696,Elijah Thomas missed Free Throw.,21,10,11,0,0.8562288001830434,0.7945927181326715,3,4,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,81,1,8:16,1696,1696,Clemson Deadball Team Rebound.,21,10,11,0,0.8562288001830434,0.7945927181326715,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,82,1,8:16,1696,1696,Elijah Thomas made Free Throw.,21,11,10,0,0.8404163906741304,0.7737923085681325,3,4,3,NA,NA,Clemson,made,Elijah Thomas,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,83,1,7:57,1677,1677,Tyus Battle made Layup.,23,11,12,19,0.8720047115345816,0.815942058510225,3,4,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,84,1,7:31,1651,1651,Aamir Simms missed Jumper.,23,11,12,26,0.8736864522063358,0.8185789628570198,3,4,3,NA,NA,Clemson,missed,Aamir Simms,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,85,1,7:31,1651,1651,Javan White Offensive Rebound.,23,11,12,0,0.8736864522063358,0.8185789628570198,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,86,1,7:17,1637,1637,Aamir Simms made Jumper. Assisted by Clyde Trapp.,23,13,10,14,0.8441200430166949,0.7796086241733547,3,4,3,NA,NA,Clemson,made,Aamir Simms,Clyde Trapp,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,87,1,6:59,1619,1619,Oshae Brissett missed Three Point Jumper.,23,13,10,18,0.8451785186043805,0.781301010303991,3,4,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,88,1,6:59,1619,1619,John Newman III Defensive Rebound.,23,13,10,0,0.8451785186043805,0.781301010303991,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,89,1,6:46,1606,1606,Shelton Mitchell missed Three Point Jumper.,23,13,10,13,0.8459316685777346,0.7825108175090786,3,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,90,1,6:46,1606,1606,Jalen Carey Defensive Rebound.,23,13,10,0,0.8459316685777346,0.7825108175090786,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,91,1,6:41,1601,1601,Foul on Jalen Carey.,23,13,10,5,0.8462196706674007,0.782974370805457,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,92,1,6:41,1601,1601,Jalen Carey Turnover.,23,13,10,0,0.8462196706674007,0.782974370805457,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,93,1,6:41,1601,1601,Official TV Timeout,23,13,10,0,0.8462196706674007,0.782974370805457,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,94,1,6:20,1580,1580,Elijah Thomas made Layup. Assisted by Marcquise Reed.,23,15,8,21,0.8108637341174842,0.7380087325218989,3,4,3,NA,NA,Clemson,made,Elijah Thomas,Marcquise Reed,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,95,1,5:59,1559,1559,Marek Dolezaj missed Three Point Jumper.,23,15,8,21,0.8119436660843586,0.739796528572602,3,4,3,NA,NA,Syracuse,missed,Marek Dolezaj,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,96,1,5:59,1559,1559,Marcquise Reed Defensive Rebound.,23,15,8,0,0.8119436660843586,0.739796528572602,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,97,1,5:44,1544,1544,David Skara missed Three Point Jumper.,23,15,8,15,0.8127254346099697,0.7410879214978703,3,4,3,NA,NA,Clemson,missed,David Skara,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,98,1,5:44,1544,1544,Frank Howard Defensive Rebound.,23,15,8,0,0.8127254346099697,0.7410879214978703,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,99,1,5:35,1535,1535,Elijah Hughes missed Three Point Jumper.,23,15,8,9,0.8132009765044909,0.7418711737767166,3,4,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,100,1,5:35,1535,1535,Elijah Thomas Defensive Rebound.,23,15,8,0,0.8132009765044909,0.7418711737767166,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,101,1,5:05,1505,1505,David Skara missed Jumper.,23,15,8,30,0.8148360720441724,0.7445445738283262,3,4,3,NA,NA,Clemson,missed,David Skara,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,102,1,5:05,1505,1505,Frank Howard Defensive Rebound.,23,15,8,0,0.8148360720441724,0.7445445738283262,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,103,1,4:40,1480,1480,Oshae Brissett missed Three Point Jumper.,23,15,8,25,0.8162776305298859,0.7468690784529353,3,4,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,104,1,4:40,1480,1480,Shelton Mitchell Defensive Rebound.,23,15,8,0,0.8162776305298859,0.7468690784529353,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,105,1,4:35,1475,1475,Elijah Thomas made Dunk. Assisted by Shelton Mitchell.,23,17,6,5,0.7724496991898436,0.69283011062141,3,4,3,NA,NA,Clemson,made,Elijah Thomas,Shelton Mitchell,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,106,1,4:27,1467,1467,Syracuse  Timeout,23,17,6,8,0.7728406929109769,0.6934849570754132,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,107,1,4:27,1467,1467,Official TV Timeout,23,17,6,0,0.7728406929109769,0.6934849570754132,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,108,1,4:05,1445,1445,Frank Howard made Jumper. Assisted by Marek Dolezaj.,25,17,8,22,0.8184536132571538,0.7503132243554568,3,3,3,NA,NA,Syracuse,made,Frank Howard,Marek Dolezaj,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,109,1,3:47,1427,1427,Aamir Simms made Three Point Jumper. Assisted by David Skara.,25,20,5,18,0.7497461041119775,0.6667601854104888,3,3,3,NA,NA,Clemson,made,Aamir Simms,David Skara,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,110,1,3:31,1411,1411,Oshae Brissett missed Three Point Jumper.,25,20,5,16,0.7503721902442755,0.667888295504758,3,3,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,111,1,3:31,1411,1411,Clyde Trapp Defensive Rebound.,25,20,5,0,0.7503721902442755,0.667888295504758,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,112,1,3:12,1392,1392,Marcquise Reed missed Layup.,25,20,5,19,0.7510846636893238,0.6691963355742039,3,3,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,113,1,3:12,1392,1392,Marek Dolezaj Defensive Rebound.,25,20,5,0,0.7510846636893238,0.6691963355742039,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,114,1,2:52,1372,1372,Oshae Brissett made Layup. Assisted by Marek Dolezaj.,27,20,7,20,0.8010029563583456,0.7300655375431236,3,3,3,NA,NA,Syracuse,made,Oshae Brissett,Marek Dolezaj,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,115,1,2:50,1370,1370,Foul on Marcquise Reed.,27,20,7,2,0.8011035098939835,0.7302341353076652,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,116,1,2:50,1370,1370,Oshae Brissett missed Free Throw.,27,20,7,0,0.8011035098939835,0.7302341353076652,3,3,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,117,1,2:50,1370,1370,Elijah Thomas Defensive Rebound.,27,20,7,0,0.8011035098939835,0.7302341353076652,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,118,1,2:26,1346,1346,Clyde Trapp Turnover.,27,20,7,24,0.8023093970603409,0.7322581562729382,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,119,1,2:25,1345,1345,Oshae Brissett Steal.,27,20,7,1,0.8023598679404016,0.7323428265910867,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,120,1,2:18,1338,1338,Tyus Battle made Jumper.,29,20,9,7,0.8444602517852,0.7855025173782676,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,121,1,1:55,1315,1315,Foul on Elijah Hughes.,29,20,9,23,0.8458229740032018,0.7876919266330281,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,122,1,1:44,1304,1304,Foul on Frank Howard.,29,20,9,11,0.8464924484788013,0.7887612978734528,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,123,1,1:44,1304,1304,Marcquise Reed made Free Throw.,29,21,8,0,0.8264918398587644,0.7633417736892898,3,3,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,124,1,1:44,1304,1304,Marcquise Reed made Free Throw.,29,22,7,0,0.8044872160336749,0.7358876237624095,3,3,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,125,1,1:44,1304,1304,Marcquise Reed missed Free Throw.,29,22,7,0,0.8044872160336749,0.7358876237624095,3,3,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,126,1,1:44,1304,1304,Elijah Hughes Defensive Rebound.,29,22,7,0,0.8044872160336749,0.7358876237624095,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,127,1,1:22,1282,1282,Tyus Battle missed Three Point Jumper.,29,22,7,22,0.8057079988593955,0.7378871137951227,3,3,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,128,1,1:22,1282,1282,Marcquise Reed Defensive Rebound.,29,22,7,0,0.8057079988593955,0.7378871137951227,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,129,1,1:14,1274,1274,Marcquise Reed Turnover.,29,22,7,8,0.806171798227705,0.7386383148442217,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,130,1,1:06,1266,1266,Foul on Elijah Thomas.,29,22,7,8,0.8066479190229239,0.7394044018480989,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,131,1,1:06,1266,1266,Oshae Brissett missed Free Throw.,29,22,7,0,0.8066479190229239,0.7394044018480989,3,3,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,132,1,1:06,1266,1266,Syracuse Deadball Team Rebound.,29,22,7,0,0.8066479190229239,0.7394044018480989,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,133,1,1:06,1266,1266,Oshae Brissett made Free Throw.,30,22,8,0,0.8288298341157355,0.7670730944316994,3,3,3,NA,NA,Syracuse,made,Oshae Brissett,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,134,1,0:44,1244,1244,David Skara missed Three Point Jumper.,30,22,8,22,0.8303161980163044,0.7693961476205816,3,3,3,NA,NA,Clemson,missed,David Skara,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,135,1,0:44,1244,1244,Elijah Hughes Defensive Rebound.,30,22,8,0,0.8303161980163044,0.7693961476205816,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,136,1,0:26,1226,1226,Frank Howard missed Three Point Jumper.,30,22,8,18,0.8316242636878148,0.7714091631545859,3,3,3,NA,NA,Syracuse,missed,Frank Howard,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,137,1,0:26,1226,1226,Marek Dolezaj Offensive Rebound.,30,22,8,0,0.8316242636878148,0.7714091631545859,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,138,1,0:03,1203,1203,Tyus Battle missed Three Point Jumper.,30,22,8,23,0.8334220393724661,0.7741347727953571,3,3,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,139,1,0:03,1203,1203,Shelton Mitchell Defensive Rebound.,30,22,8,0,0.8334220393724661,0.7741347727953571,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,140,1,0:00,1200,1200,End of 1st half,30,22,8,3,0.8336567798025404,0.774489981219977,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,NA
+401082653,2019-01-09,Syracuse,Clemson,141,2,20:00,1200,1200,PLAY,30,22,8,0,0.8336567798025404,0.774489981219977,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,142,2,19:38,1178,1178,Foul on Oshae Brissett.,30,22,8,22,0.8353266056431593,0.7770253182897642,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,143,2,19:38,1178,1178,Oshae Brissett Turnover.,30,22,8,0,0.8353266056431593,0.7770253182897642,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,144,2,19:27,1167,1167,Tyus Battle Steal.,30,22,8,11,0.8361341306851593,0.7782558084301213,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,145,2,19:25,1165,1165,David Skara Turnover.,30,22,8,2,0.8362794497995378,0.778477469109418,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,146,2,19:11,1151,1151,Foul on Aamir Simms.,30,22,8,14,0.8372867202729553,0.7800152112834301,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,147,2,19:11,1151,1151,Elijah Hughes made Free Throw.,31,22,9,0,0.8577096944068722,0.8059607204321669,4,4,3,NA,NA,Syracuse,made,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,148,2,19:11,1151,1151,Elijah Hughes made Free Throw.,32,22,10,0,0.875949064460968,0.8295149855585084,4,4,3,NA,NA,Syracuse,made,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,149,2,18:57,1137,1137,Marcquise Reed Turnover.,32,22,10,14,0.8769827579258529,0.8310800289520528,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,150,2,18:45,1125,1125,Marek Dolezaj missed Three Point Jumper.,32,22,10,12,0.8778634305765973,0.8324128715898524,4,4,3,NA,NA,Syracuse,missed,Marek Dolezaj,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,151,2,18:45,1125,1125,Syracuse Offensive Rebound.,32,22,10,0,0.8778634305765973,0.8324128715898524,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,152,2,18:44,1124,1124,Foul on Aamir Simms.,32,22,10,1,0.877936763645168,0.8325238056687315,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,153,2,18:40,1120,1120,Frank Howard made Jumper. Assisted by Marek Dolezaj.,34,22,12,4,0.9086396803659132,0.873046490481577,4,4,3,NA,NA,Syracuse,made,Frank Howard,Marek Dolezaj,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,154,2,18:23,1103,1103,Foul on Marek Dolezaj.,34,22,12,17,0.9098353244444042,0.8748511457069043,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,155,2,18:02,1082,1082,Shelton Mitchell missed Three Point Jumper.,34,22,12,21,0.9113311609445178,0.877101994013747,4,4,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,156,2,18:02,1082,1082,Oshae Brissett Defensive Rebound.,34,22,12,0,0.9113311609445178,0.877101994013747,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,157,2,17:55,1075,1075,Clemson  Timeout,34,22,12,7,0.911837920048819,0.8778623651720144,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,158,2,17:55,1075,1075,Official TV Timeout,34,22,12,0,0.911837920048819,0.8778623651720144,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,159,2,17:47,1067,1067,Marek Dolezaj Steal.,34,22,12,8,0.912423708522983,0.8787397801841834,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,160,2,17:46,1066,1066,Aamir Simms Turnover.,34,22,12,1,0.9124974828609913,0.8788501607869641,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,161,2,17:17,1037,1037,Frank Howard missed Jumper.,34,22,12,29,0.9147018594939108,0.8821350880494652,3,4,3,NA,NA,Syracuse,missed,Frank Howard,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,162,2,17:17,1037,1037,David Skara Defensive Rebound.,34,22,12,0,0.9147018594939108,0.8821350880494652,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,163,2,17:07,1027,1027,Marcquise Reed missed Three Point Jumper.,34,22,12,10,0.9154963276269751,0.8833125284036133,3,4,3,NA,NA,Clemson,missed,Marcquise Reed,NA,TRUE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,164,2,17:07,1027,1027,Aamir Simms Offensive Rebound.,34,22,12,0,0.9154963276269751,0.8833125284036133,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,165,2,17:04,1024,1024,Clyde Trapp made Three Point Jumper. Assisted by Aamir Simms.,34,25,9,3,0.8674838002840248,0.8206483630412487,3,4,3,NA,NA,Clemson,made,Clyde Trapp,Aamir Simms,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,166,2,16:38,998,998,Foul on Clyde Trapp.,34,25,9,26,0.8698492136826631,0.8241196044101076,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,167,2,16:37,997,997,Oshae Brissett missed Layup.,34,25,9,1,0.8699442879259671,0.8242584074114323,3,4,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,FALSE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,168,2,16:37,997,997,Elijah Thomas Block.,34,25,9,0,0.8699442879259671,0.8242584074114323,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,169,2,16:37,997,997,Syracuse Offensive Rebound.,34,25,9,0,0.8699442879259671,0.8242584074114323,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,170,2,16:28,988,988,Tyus Battle missed Jumper.,34,25,9,9,0.870814713815967,0.8255267334643291,3,4,3,NA,NA,Syracuse,missed,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,171,2,16:28,988,988,Aamir Simms Defensive Rebound.,34,25,9,0,0.870814713815967,0.8255267334643291,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,172,2,16:17,977,977,Marcquise Reed made Three Point Jumper. Assisted by David Skara.,34,28,6,11,0.8015819390992066,0.7395428710357697,3,4,3,NA,NA,Clemson,made,Marcquise Reed,David Skara,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,173,2,16:11,971,971,Syracuse  Timeout,34,28,6,6,0.8021319708948743,0.7403481419138263,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,174,2,16:11,971,971,Official TV Timeout,34,28,6,0,0.8021319708948743,0.7403481419138263,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,175,2,16:00,960,960,Oshae Brissett Turnover.,34,28,6,11,0.8031263951568269,0.7418039893612662,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,176,2,15:59,959,959,Marcquise Reed Steal.,34,28,6,1,0.8032133325442636,0.7419316465215161,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,177,2,15:58,958,958,Elijah Thomas Turnover.,34,28,6,1,0.8032997172336258,0.7420585545103657,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,178,2,15:46,946,946,Foul on Marcquise Reed.,34,28,6,12,0.8042959265203862,0.7435266027115248,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,179,2,15:46,946,946,Frank Howard missed Free Throw.,34,28,6,0,0.8042959265203862,0.7435266027115248,3,3,3,NA,NA,Syracuse,missed,Frank Howard,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,180,2,15:46,946,946,Syracuse Deadball Team Rebound.,34,28,6,0,0.8042959265203862,0.7435266027115248,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,181,2,15:46,946,946,Frank Howard made Free Throw.,35,28,7,0,0.8307230282258328,0.7758730363919829,3,3,3,NA,NA,Syracuse,made,Frank Howard,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,182,2,15:37,937,937,Marcquise Reed Turnover.,35,28,7,9,0.8314790141840217,0.7769804432818861,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,183,2,15:27,927,927,Marek Dolezaj made Three Point Jumper. Assisted by Frank Howard.,38,28,10,10,0.8947027035009238,0.8572690720267766,3,3,3,NA,NA,Syracuse,made,Marek Dolezaj,Frank Howard,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,184,2,15:22,922,922,David Skara Turnover.,38,28,10,5,0.8950964897068907,0.8578451095788718,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,185,2,15:12,912,912,Elijah Hughes missed Three Point Jumper.,38,28,10,10,0.8958602973343935,0.8589635808975191,3,3,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,186,2,15:12,912,912,Frank Howard Offensive Rebound.,38,28,10,0,0.8958602973343935,0.8589635808975191,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,187,2,14:57,897,897,Elijah Hughes made Three Point Jumper. Assisted by Frank Howard.,41,28,13,15,0.9376099947802308,0.914206661431889,3,3,3,NA,NA,Syracuse,made,Elijah Hughes,Frank Howard,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,188,2,14:48,888,888,Aamir Simms made Dunk. Assisted by Clyde Trapp.,41,30,11,9,0.9132261987438975,0.8819231103347406,3,3,3,NA,NA,Clemson,made,Aamir Simms,Clyde Trapp,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,189,2,14:20,860,860,Tyus Battle missed Three Point Jumper.,41,30,11,28,0.9151264583606069,0.8847063880809946,3,3,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,190,2,14:20,860,860,Marek Dolezaj Offensive Rebound.,41,30,11,0,0.9151264583606069,0.8847063880809946,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,191,2,14:08,848,848,Tyus Battle Turnover.,41,30,11,12,0.9159565865958493,0.8859179649136796,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,192,2,14:00,840,840,Tyus Battle Steal.,41,30,11,8,0.9165231971091107,0.8867428959917182,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,193,2,14:00,840,840,Aamir Simms Turnover.,41,30,11,0,0.9165231971091107,0.8867428959917182,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,194,2,14:00,840,840,Foul on Clyde Trapp.,41,30,11,0,0.9165231971091107,0.8867428959917182,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,195,2,13:36,816,816,Elijah Hughes missed Three Point Jumper.,41,30,11,24,0.9183192349121219,0.8893456074095402,3,3,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,196,2,13:36,816,816,Clemson Defensive Rebound.,41,30,11,0,0.9183192349121219,0.8893456074095402,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,197,2,13:35,815,815,Foul on Oshae Brissett.,41,30,11,1,0.9183979695071658,0.8894592743344603,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,198,2,13:23,803,803,Elijah Thomas made Layup. Assisted by Clyde Trapp.,41,32,9,12,0.8861601521008443,0.8478507355416188,3,3,3,NA,NA,Clemson,made,Elijah Thomas,Clyde Trapp,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,199,2,13:07,787,787,Tyus Battle made Jumper.,43,32,11,16,0.9207664742805339,0.8928627212575388,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,200,2,13:01,781,781,Foul on Tyus Battle.,43,32,11,6,0.9213208768666427,0.8936552872327412,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,201,2,12:58,778,778,Elijah Thomas missed Layup.,43,32,11,3,0.921605024863219,0.8940609614732158,3,3,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,202,2,12:58,778,778,Oshae Brissett Block.,43,32,11,0,0.921605024863219,0.8940609614732158,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,203,2,12:55,775,775,Shelton Mitchell Offensive Rebound.,43,32,11,3,0.921893952366738,0.8944730995407754,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,204,2,12:53,773,773,Shelton Mitchell missed Jumper.,43,32,11,2,0.9220892791958155,0.8947515220274348,3,3,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,205,2,12:53,773,773,Bourama Sidibe Defensive Rebound.,43,32,11,0,0.9220892791958155,0.8947515220274348,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,206,2,12:35,755,755,Foul on Aamir Simms.,43,32,11,18,0.9239498800522289,0.8973962588111349,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,207,2,12:35,755,755,Frank Howard missed Free Throw.,43,32,11,0,0.9239498800522289,0.8973962588111349,3,3,3,NA,NA,Syracuse,missed,Frank Howard,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,208,2,12:35,755,755,Syracuse Deadball Team Rebound.,43,32,11,0,0.9239498800522289,0.8973962588111349,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,209,2,12:35,755,755,Frank Howard missed Free Throw.,43,32,11,0,0.9239498800522289,0.8973962588111349,3,3,3,NA,NA,Syracuse,missed,Frank Howard,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,210,2,12:35,755,755,Elijah Thomas Defensive Rebound.,43,32,11,0,0.9239498800522289,0.8973962588111349,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,211,2,12:25,745,745,Marcquise Reed missed Jumper.,43,32,11,10,0.9250681376381568,0.8989800843870608,3,3,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,212,2,12:25,745,745,Clemson Offensive Rebound.,43,32,11,0,0.9250681376381568,0.8989800843870608,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,213,2,12:04,724,724,Shelton Mitchell Turnover.,43,32,11,21,0.9275942267676396,0.9025467598201772,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,214,2,11:42,702,702,Oshae Brissett missed Three Point Jumper.,43,32,11,22,0.9299497245312512,0.9058880015493885,3,3,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,215,2,11:42,702,702,Bourama Sidibe Offensive Rebound.,43,32,11,0,0.9299497245312512,0.9058880015493885,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,216,2,11:39,699,699,Foul on Elijah Thomas.,43,32,11,3,0.9302402267489682,0.9063018790722138,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,217,2,11:39,699,699,Official TV Timeout,43,32,11,0,0.9302402267489682,0.9063018790722138,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,218,2,11:39,699,699,Bourama Sidibe made Free Throw.,44,32,12,0,0.9424964146344152,0.922413044627663,3,3,3,NA,NA,Syracuse,made,Bourama Sidibe,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,219,2,11:39,699,699,Bourama Sidibe missed Free Throw.,44,32,12,0,0.9424964146344152,0.922413044627663,3,3,3,NA,NA,Syracuse,missed,Bourama Sidibe,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,220,2,11:39,699,699,Elijah Thomas Defensive Rebound.,44,32,12,0,0.9424964146344152,0.922413044627663,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,221,2,11:12,672,672,David Skara missed Three Point Jumper.,44,32,12,27,0.9447006628617748,0.9255685643733074,3,3,3,NA,NA,Clemson,missed,David Skara,NA,TRUE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,222,2,11:12,672,672,Elijah Thomas Offensive Rebound.,44,32,12,0,0.9447006628617748,0.9255685643733074,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,223,2,11:06,666,666,Foul on Bourama Sidibe.,44,32,12,6,0.9451603520401373,0.9262279291173893,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,224,2,11:06,666,666,Elijah Thomas missed Free Throw.,44,32,12,0,0.9451603520401373,0.9262279291173893,3,3,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,225,2,11:06,666,666,Clemson Deadball Team Rebound.,44,32,12,0,0.9451603520401373,0.9262279291173893,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,226,2,11:06,666,666,Elijah Thomas made Free Throw.,44,33,11,0,0.9331488456596146,0.910462495132165,3,3,3,NA,NA,Clemson,made,Elijah Thomas,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,227,2,10:48,648,648,Foul on David Skara.,44,33,11,18,0.9346441626171702,0.912604803242543,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,228,2,10:48,648,648,Tyus Battle made Free Throw.,45,33,12,0,0.9465248091664065,0.9281840098721759,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,229,2,10:48,648,648,Tyus Battle made Free Throw.,46,33,13,0,0.9563466153280352,0.9411650846115904,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,230,2,10:40,640,640,Clyde Trapp made Jumper. Assisted by Marcquise Reed.,46,35,11,8,0.9353181252540512,0.9135685119517144,3,3,3,NA,NA,Clemson,made,Clyde Trapp,Marcquise Reed,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,231,2,10:33,633,633,Foul on David Skara.,46,35,11,7,0.9359204021277029,0.9144280814086106,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,232,2,10:33,633,633,Tyus Battle made Free Throw.,47,35,12,0,0.9476861752302327,0.929844292378718,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,233,2,10:33,633,633,Tyus Battle made Free Throw.,48,35,13,0,0.9573899675139479,0.9426573570118448,3,3,3,NA,NA,Syracuse,made,Tyus Battle,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,234,2,10:23,623,623,Foul on Oshae Brissett.,48,35,13,10,0.9581140705345628,0.9436894827401873,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,235,2,10:23,623,623,Elijah Thomas made Free Throw.,48,36,12,0,0.9484940022292674,0.9309950788553334,3,3,3,NA,NA,Clemson,made,Elijah Thomas,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,236,2,10:23,623,623,Elijah Thomas missed Free Throw.,48,36,12,0,0.9484940022292674,0.9309950788553334,3,3,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,237,2,10:23,623,623,Oshae Brissett Defensive Rebound.,48,36,12,0,0.9484940022292674,0.9309950788553334,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,238,2,9:58,598,598,Elijah Hughes Turnover.,48,36,12,25,0.9507081096986166,0.9341289230365601,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,239,2,9:39,579,579,Shelton Mitchell missed Three Point Jumper.,48,36,12,19,0.9526441783654688,0.9368458428155627,3,3,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,TRUE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,240,2,9:39,579,579,Marcquise Reed Offensive Rebound.,48,36,12,0,0.9526441783654688,0.9368458428155627,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,241,2,9:34,574,574,Marcquise Reed missed Jumper.,48,36,12,5,0.9531972615181414,0.9376184712998157,3,3,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,242,2,9:34,574,574,Bourama Sidibe Block.,48,36,12,0,0.9531972615181414,0.9376184712998157,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,243,2,9:32,572,572,Oshae Brissett Defensive Rebound.,48,36,12,2,0.9534239325936086,0.9379347079898611,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,244,2,9:13,553,553,Elijah Hughes made Three Point Jumper. Assisted by Tyus Battle.,51,36,15,19,0.9773666238075843,0.9696814502281784,3,3,3,NA,NA,Syracuse,made,Elijah Hughes,Tyus Battle,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,245,2,8:55,535,535,Foul on Elijah Thomas.,51,36,15,18,0.9787909738213731,0.9716631263823764,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,246,2,8:55,535,535,Elijah Thomas Turnover.,51,36,15,0,0.9787909738213731,0.9716631263823764,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,247,2,8:45,525,525,Frank Howard missed Jumper.,51,36,15,10,0.9794421760557259,0.9725724501069136,3,3,3,NA,NA,Syracuse,missed,Frank Howard,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,248,2,8:45,525,525,Clyde Trapp Defensive Rebound.,51,36,15,0,0.9794421760557259,0.9725724501069136,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,249,2,8:35,515,515,Clyde Trapp missed Three Point Jumper.,51,36,15,10,0.9800284831414633,0.9733927348094659,3,3,3,NA,NA,Clemson,missed,Clyde Trapp,NA,TRUE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,250,2,8:35,515,515,Shelton Mitchell Offensive Rebound.,51,36,15,0,0.9800284831414633,0.9733927348094659,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,251,2,8:33,513,513,Shelton Mitchell missed Layup.,51,36,15,2,0.9801403305361971,0.9735493211976989,3,3,3,NA,NA,Clemson,missed,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,252,2,8:33,513,513,Aamir Simms Offensive Rebound.,51,36,15,0,0.9801403305361971,0.9735493211976989,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,253,2,8:30,510,510,Aamir Simms made Layup.,51,38,13,3,0.96849429328016845,0.9582230246677536,3,3,3,NA,NA,Clemson,made,Aamir Simms,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,254,2,8:16,496,496,Frank Howard made Jumper.,53,38,15,14,0.9810559972620896,0.974830795308874,3,3,3,NA,NA,Syracuse,made,Frank Howard,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,255,2,7:56,476,476,Clyde Trapp missed Jumper.,53,38,15,20,0.9821550634803881,0.9763619308010624,3,3,3,NA,NA,Clemson,missed,Clyde Trapp,NA,FALSE,FALSE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,256,2,7:56,476,476,Clyde Trapp Offensive Rebound.,53,38,15,0,0.9821550634803881,0.9763619308010624,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,257,2,7:53,473,473,Clyde Trapp made Jumper.,53,40,13,3,0.971266803084137,0.9620949417624167,3,3,3,NA,NA,Clemson,made,Clyde Trapp,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,258,2,7:27,447,447,Foul on Aamir Simms.,53,40,13,26,0.9736714951889449,0.9654055282331783,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,259,2,7:27,447,447,Official TV Timeout,53,40,13,0,0.9736714951889449,0.9654055282331783,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,260,2,7:27,447,447,Bourama Sidibe missed Free Throw.,53,40,13,0,0.9736714951889449,0.9654055282331783,3,3,3,NA,NA,Syracuse,missed,Bourama Sidibe,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,261,2,7:27,447,447,Syracuse Deadball Team Rebound.,53,40,13,0,0.9736714951889449,0.9654055282331783,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,262,2,7:27,447,447,Bourama Sidibe made Free Throw.,54,40,14,0,0.9794973926001143,0.9730097936592715,3,3,3,NA,NA,Syracuse,made,Bourama Sidibe,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,263,2,7:17,437,437,Foul on Aamir Simms.,54,40,14,10,0.9804313489284978,0.9742841293121307,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,264,2,7:17,437,437,Aamir Simms Turnover.,54,40,14,0,0.9804313489284978,0.9742841293121307,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,265,2,7:15,435,435,Tyus Battle missed Three Point Jumper.,54,40,14,2,0.9806291135264248,0.9745532053149011,3,3,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,266,2,7:15,435,435,Oshae Brissett Offensive Rebound.,54,40,14,0,0.9806291135264248,0.9745532053149011,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,267,2,7:10,430,430,Oshae Brissett Turnover.,54,40,14,5,0.981139763135552,0.9752468672552144,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,268,2,7:09,429,429,David Skara Steal.,54,40,14,1,0.9812434939168567,0.975387638711549,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,269,2,7:06,426,426,Foul on Tyus Battle.,54,40,14,3,0.9815463887831288,0.9757989483819023,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,270,2,6:59,419,419,David Skara made Free Throw.,54,41,13,7,0.9768948235031851,0.9697910059486542,3,3,3,NA,NA,Clemson,made,David Skara,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,271,2,6:59,419,419,David Skara missed Free Throw.,54,41,13,0,0.9768948235031851,0.9697910059486542,3,3,3,NA,NA,Clemson,missed,David Skara,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,272,2,6:59,419,419,Clemson Offensive Rebound.,54,41,13,0,0.9768948235031851,0.9697910059486542,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,273,2,6:36,396,396,Hunter Tyson missed Three Point Jumper.,54,41,13,23,0.9791584522094549,0.9728800468032136,3,3,3,NA,NA,Clemson,missed,Hunter Tyson,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,274,2,6:36,396,396,Syracuse Defensive Rebound.,54,41,13,0,0.9791584522094549,0.9728800468032136,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,275,2,6:25,385,385,Foul on Frank Howard.,54,41,13,11,0.9801439110336904,0.9742259797669043,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,276,2,6:25,385,385,Frank Howard Turnover.,54,41,13,0,0.9801439110336904,0.9742259797669043,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,277,2,6:03,363,363,Marcquise Reed made Jumper.,54,43,11,22,0.9686001023860559,0.9596161680084938,3,3,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,278,2,5:27,327,327,Oshae Brissett missed Jumper.,54,43,11,36,0.9738566775634214,0.9666667534085757,3,3,3,NA,NA,Syracuse,missed,Oshae Brissett,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,279,2,5:27,327,327,Marcquise Reed Defensive Rebound.,54,43,11,0,0.9738566775634214,0.9666667534085757,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,280,2,5:18,318,318,Marcquise Reed made Jumper. Assisted by Hunter Tyson.,54,45,9,9,0.9549773182613182,0.943049946725045,3,3,3,NA,NA,Clemson,made,Marcquise Reed,Hunter Tyson,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,281,2,5:10,310,310,Syracuse  Timeout,54,45,9,8,0.9570135960870179,0.9457252020433384,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,282,2,4:59,299,299,Elijah Hughes Turnover.,54,45,9,11,0.9589392136020651,0.9483003945831495,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,283,2,4:46,286,286,Marcquise Reed made Three Point Jumper. Assisted by Shelton Mitchell.,54,48,6,13,0.8990147153614367,0.8753211695045554,3,2,3,NA,NA,Clemson,made,Marcquise Reed,Shelton Mitchell,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,284,2,4:25,265,265,Foul on Clyde Trapp.,54,48,6,21,0.8959709293807497,0.8724032438982157,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,285,2,4:25,265,265,Marek Dolezaj made Free Throw.,55,48,7,0,0.9222726507878471,0.9040253179529394,3,2,3,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,286,2,4:25,265,265,Marek Dolezaj made Free Throw.,56,48,8,0,0.942352354557373,0.928453258326718,3,2,3,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,287,2,4:13,253,253,Marcquise Reed missed Three Point Jumper.,56,48,8,12,0.9405608919075534,0.9265273488787803,3,2,3,NA,NA,Clemson,missed,Marcquise Reed,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,288,2,4:13,253,253,Frank Howard Defensive Rebound.,56,48,8,0,0.9405608919075534,0.9265273488787803,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,289,2,3:54,234,234,Elijah Hughes Turnover.,56,48,8,19,0.9390434859817036,0.9251232548169721,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,290,2,3:53,233,233,Shelton Mitchell Steal.,56,48,8,1,0.9390552769485261,0.9251615361963482,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,291,2,3:46,226,226,Foul on Marek Dolezaj.,56,48,8,7,0.9395010937413799,0.9258702847747867,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,292,2,3:46,226,226,Official TV Timeout,56,48,8,0,0.9395010937413799,0.9258702847747867,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,293,2,3:46,226,226,Marcquise Reed made Free Throw.,56,49,7,0,0.9188712776770336,0.9010818152772654,3,2,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,294,2,3:46,226,226,Marcquise Reed made Free Throw.,56,50,6,0,0.8920153522964197,0.8691754916510311,3,2,3,NA,NA,Clemson,made,Marcquise Reed,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,295,2,3:17,197,197,Tyus Battle missed Jumper.,56,50,6,29,0.9052951594611404,0.8860235740471739,3,2,3,NA,NA,Syracuse,missed,Tyus Battle,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,296,2,3:17,197,197,Marcquise Reed Defensive Rebound.,56,50,6,0,0.9052951594611404,0.8860235740471739,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,297,2,3:09,189,189,Marcquise Reed missed Layup.,56,50,6,8,0.9125131890373228,0.8948543927319264,3,2,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,298,2,3:09,189,189,Marek Dolezaj Defensive Rebound.,56,50,6,0,0.9125131890373228,0.8948543927319264,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,299,2,2:39,159,159,Oshae Brissett made Jumper.,58,50,8,30,0.9725659558293965,0.9670062135219735,3,2,3,NA,NA,Syracuse,made,Oshae Brissett,NA,FALSE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,300,2,2:25,145,145,Clyde Trapp missed Three Point Jumper.,58,50,8,14,0.978944114774677,0.9748014079545175,3,2,3,NA,NA,Clemson,missed,Clyde Trapp,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,301,2,2:25,145,145,Syracuse Defensive Rebound.,58,50,8,0,0.978944114774677,0.9748014079545175,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,302,2,1:59,119,119,Elijah Hughes missed Three Point Jumper.,58,50,8,26,0.9884285195320606,0.9862957198690973,3,2,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,303,2,1:59,119,119,Clyde Trapp Block.,58,50,8,0,0.9884285195320606,0.9862957198690973,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,304,2,1:56,116,116,Elijah Thomas Defensive Rebound.,58,50,8,3,0.9893238870871213,0.9873727386417774,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,305,2,1:53,113,113,David Skara missed Three Point Jumper.,58,50,8,3,0.9901770801780592,0.988397403099338,3,2,3,NA,NA,Clemson,missed,David Skara,NA,TRUE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,306,2,1:53,113,113,Oshae Brissett Defensive Rebound.,58,50,8,0,0.9901770801780592,0.988397403099338,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,307,2,1:25,85,85,Tyus Battle missed Three Point Jumper.,58,50,8,28,0.9960644571474769,0.9954141922330266,3,2,3,NA,NA,Syracuse,missed,Tyus Battle,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,308,2,1:25,85,85,Clemson Defensive Rebound.,58,50,8,0,0.9960644571474769,0.9954141922330266,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,309,2,1:24,84,84,Foul on Marek Dolezaj.,58,50,8,1,0.996203341378229,0.995578313521328,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,310,2,1:19,79,79,Elijah Thomas made Free Throw.,58,51,7,5,0.9936509818719557,0.9926289169513504,3,2,3,NA,NA,Clemson,made,Elijah Thomas,NA,FALSE,TRUE,Clemson,Clemson
+401082653,2019-01-09,Syracuse,Clemson,311,2,1:19,79,79,Elijah Thomas missed Free Throw.,58,51,7,0,0.9936509818719557,0.9926289169513504,3,2,3,NA,NA,Clemson,missed,Elijah Thomas,NA,FALSE,TRUE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,312,2,1:19,79,79,Elijah Hughes Defensive Rebound.,58,51,7,0,0.9936509818719557,0.9926289169513504,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,313,2,1:11,71,71,Syracuse  Timeout,58,51,7,8,0.9951443604221255,0.9943862330099739,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,314,2,1:10,70,70,Foul on Elijah Thomas.,58,51,7,1,0.9953106106140485,0.9945813368900183,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,315,2,1:10,70,70,Elijah Hughes made Free Throw.,59,51,8,0,0.9977674848448219,0.9974193029783882,3,1,3,NA,NA,Syracuse,made,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,316,2,1:10,70,70,Elijah Hughes missed Free Throw.,59,51,8,0,0.9977674848448219,0.9974193029783882,3,1,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,317,2,1:10,70,70,David Skara Defensive Rebound.,59,51,8,0,0.9977674848448219,0.9974193029783882,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,318,2,1:04,64,64,Marcquise Reed missed Layup.,59,51,8,6,0.9982505793651719,0.9979844455748039,3,1,3,NA,NA,Clemson,missed,Marcquise Reed,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,319,2,1:04,64,64,Marek Dolezaj Block.,59,51,8,0,0.9982505793651719,0.9979844455748039,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,320,2,1:03,63,63,Frank Howard Defensive Rebound.,59,51,8,1,0.9983214056250312,0.9980671276427953,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,321,2,1:01,61,61,Foul on Marcquise Reed.,59,51,8,2,0.9984555446285611,0.99822358311674,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,322,2,1:01,61,61,Foul on Marcquise Reed.,59,51,8,0,0.9984555446285611,0.99822358311674,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,323,2,1:01,61,61,Frank Howard made Free Throw.,60,51,9,0,0.9992994616467755,0.9991941456023136,3,1,3,NA,NA,Syracuse,made,Frank Howard,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,324,2,1:01,61,61,Frank Howard made Free Throw.,61,51,10,0,0.999682394553957,0.9996346260133591,3,1,3,NA,NA,Syracuse,made,Frank Howard,NA,FALSE,TRUE,Syracuse,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,325,2,0:32,32,32,Elijah Hughes missed Three Point Jumper.,61,51,10,29,0.9999394046706477,0.999931478275363,3,1,3,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,326,2,0:32,32,32,John Newman III Defensive Rebound.,61,51,10,0,0.9999394046706477,0.999931478275363,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Clemson
+401082653,2019-01-09,Syracuse,Clemson,327,2,0:20,20,20,Shelton Mitchell made Layup.,61,53,8,12,0.9997751801203087,0.999747662872159,3,1,3,NA,NA,Clemson,made,Shelton Mitchell,NA,FALSE,FALSE,Clemson,Syracuse
+401082653,2019-01-09,Syracuse,Clemson,328,2,0:00,0,0,End of Game,61,61,0,20,1,1,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,NA

@@ -1,0 +1,290 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401083898,2019-01-24,Charleston,Elon,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.904307914851078,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,Charleston
+401083898,2019-01-24,Charleston,Elon,2,1,19:37,2377,2377,Foul on Steven Santa Ana.,0,0,0,23,0.9038573988844993,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,3,1,19:37,2377,2377,Steven Santa Ana Turnover.,0,0,0,0,0.9038573988844993,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,4,1,19:26,2366,2366,Jarrell Brantley missed Three Point Jumper.,0,0,0,11,0.9036368359501286,0.5,4,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,5,1,19:26,2366,2366,Steven Santa Ana Defensive Rebound.,0,0,0,0,0.9036368359501286,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,6,1,18:58,2338,2338,Tyler Seibring made Three Point Jumper. Assisted by Nathan Priddy.,0,3,-3,28,0.8764072565665362,0.4322057062255591,4,4,14,NA,NA,Elon,made,Tyler Seibring,Nathan Priddy,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,7,1,18:35,2315,2315,Jarrell Brantley missed Three Point Jumper.,0,3,-3,23,0.8754676673142314,0.4314572944590229,4,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,8,1,18:35,2315,2315,Steven Santa Ana Defensive Rebound.,0,3,-3,0,0.8754676673142314,0.4314572944590229,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,9,1,18:23,2303,2303,Nathan Priddy missed Jumper.,0,3,-3,12,0.8749666415150599,0.4310633909148448,4,4,14,NA,NA,Elon,missed,Nathan Priddy,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,10,1,18:23,2303,2303,Brevin Galloway Defensive Rebound.,0,3,-3,0,0.8749666415150599,0.4310633909148448,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,11,1,18:09,2289,2289,Brevin Galloway missed Jumper.,0,3,-3,14,0.874372618312129,0.4306011001291803,4,4,14,NA,NA,Charleston,missed,Brevin Galloway,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,12,1,18:09,2289,2289,Elon Defensive Rebound.,0,3,-3,0,0.874372618312129,0.4306011001291803,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,13,1,17:56,2276,2276,Steven Santa Ana missed Three Point Jumper.,0,3,-3,13,0.8738117708005636,0.4301693707440278,4,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,TRUE,FALSE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,14,1,17:56,2276,2276,Kris Wooten Offensive Rebound.,0,3,-3,0,0.8738117708005636,0.4301693707440278,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,15,1,17:43,2263,2263,Steven Santa Ana missed Three Point Jumper.,0,3,-3,13,0.8732419107230245,0.42973545026528054,4,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,16,1,17:43,2263,2263,Jarrell Brantley Defensive Rebound.,0,3,-3,0,0.8732419107230245,0.42973545026528054,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,17,1,17:38,2258,2258,Grant Riller made Three Point Jumper. Assisted by Marquise Pointer.,3,3,0,5,0.9012815259396235,0.5,4,4,14,NA,NA,Charleston,made,Grant Riller,Marquise Pointer,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,18,1,17:16,2236,2236,Kris Wooten missed Three Point Jumper.,3,3,0,22,0.9007561540865661,0.5,4,4,14,NA,NA,Elon,missed,Kris Wooten,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,19,1,17:16,2236,2236,Jarrell Brantley Defensive Rebound.,3,3,0,0,0.9007561540865661,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,20,1,17:04,2224,2224,Brevin Galloway missed Three Point Jumper.,3,3,0,12,0.9004625833094431,0.5,4,4,14,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,21,1,17:04,2224,2224,Jarrell Brantley Offensive Rebound.,3,3,0,0,0.9004625833094431,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,22,1,16:48,2208,2208,Grant Riller made Jumper.,5,3,2,16,0.9161845229549109,0.5482673263388695,4,4,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,23,1,16:27,2187,2187,Steven Santa Ana made Layup. Assisted by Kris Wooten.,5,5,0,21,0.8995251147609293,0.5,4,4,14,NA,NA,Elon,made,Steven Santa Ana,Kris Wooten,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,24,1,15:57,2157,2157,Brevin Galloway missed Jumper.,5,5,0,30,0.8987279123349733,0.5,4,4,14,NA,NA,Charleston,missed,Brevin Galloway,NA,FALSE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,25,1,15:57,2157,2157,Jarrell Brantley Offensive Rebound.,5,5,0,0,0.8987279123349733,0.5,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,26,1,15:53,2153,2153,Jarrell Brantley made Layup.,7,5,2,4,0.9153491356390357,0.5495358270404799,4,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,27,1,15:37,2137,2137,Tyler Seibring missed Jumper.,7,5,2,16,0.9150911232241742,0.549908448179077,4,4,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,28,1,15:37,2137,2137,Grant Riller Defensive Rebound.,7,5,2,0,0.9150911232241742,0.549908448179077,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,29,1,15:30,2130,2130,Jarrell Brantley missed Three Point Jumper.,7,5,2,7,0.9149762184191204,0.5500721316261907,4,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,TRUE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,30,1,15:30,2130,2130,Marquise Pointer Offensive Rebound.,7,5,2,0,0.9149762184191204,0.5500721316261907,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,31,1,15:26,2126,2126,Nick Harris made Layup. Assisted by Marquise Pointer.,9,5,4,4,0.9293309450905197,0.5993317864634711,4,4,14,NA,NA,Charleston,made,Nick Harris,Marquise Pointer,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,32,1,15:08,2108,2108,Chuck Hannah missed Three Point Jumper.,9,5,4,18,0.9291881380194679,0.6001534130055126,4,4,14,NA,NA,Elon,missed,Chuck Hannah,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,33,1,15:08,2108,2108,Jarrell Brantley Defensive Rebound.,9,5,4,0,0.9291881380194679,0.6001534130055126,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,34,1,14:58,2098,2098,Jarrell Brantley Turnover.,9,5,4,10,0.9291065036377097,0.6006121893362458,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,35,1,14:57,2097,2097,Tyler Seibring Steal.,9,5,4,1,0.929098251688254,0.6006581613468843,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,36,1,14:41,2081,2081,Foul on Tyler Seibring.,9,5,4,16,0.9289640718285989,0.6013961240972339,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,37,1,14:41,2081,2081,Tyler Seibring Turnover.,9,5,4,0,0.9289640718285989,0.6013961240972339,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,38,1,14:41,2081,2081,Official TV Timeout,9,5,4,0,0.9289640718285989,0.6013961240972339,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,39,1,14:17,2057,2057,Grant Riller missed Three Point Jumper.,9,5,4,24,0.9287554333363093,0.602511987102092,4,4,14,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,40,1,14:17,2057,2057,Sam Miller Offensive Rebound.,9,5,4,0,0.9287554333363093,0.602511987102092,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,41,1,14:09,2049,2049,Jaylen Richard made Layup.,11,5,6,8,0.9413319726816739,0.6516409233509541,4,4,14,NA,NA,Charleston,made,Jaylen Richard,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,42,1,14:09,2049,2049,Foul on Federico Poser.,11,5,6,0,0.9413319726816739,0.6516409233509541,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,43,1,14:09,2049,2049,Jaylen Richard made Free Throw.,12,5,7,0,0.946837670760922,0.6749449440399024,4,4,14,NA,NA,Charleston,made,Jaylen Richard,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,44,1,13:51,2031,2031,Federico Poser Turnover.,12,5,7,18,0.9468467562585728,0.6763028459360624,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,45,1,13:50,2030,2030,Grant Riller Steal.,12,5,7,1,0.9468472026402823,0.6763785494697607,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,46,1,13:48,2028,2028,Grant Riller made Dunk.,14,5,9,2,0.9565118445771958,0.7208518080223547,4,4,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,47,1,13:36,2016,2016,Foul on Zep Jasper.,14,5,9,12,0.9565652923992307,0.7219287952544523,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,48,1,13:23,2003,2003,Federico Poser missed Layup.,14,5,9,13,0.9566227556728116,0.7231001325407261,4,4,14,NA,NA,Elon,missed,Federico Poser,NA,FALSE,FALSE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,49,1,13:23,2003,2003,Federico Poser Offensive Rebound.,14,5,9,0,0.9566227556728116,0.7231001325407261,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,50,1,13:11,1991,1991,Tyler Seibring made Jumper.,14,7,7,12,0.9468604103575338,0.679354036118782,4,4,14,NA,NA,Elon,made,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,51,1,12:55,1975,1975,Jaylen Richard Turnover.,14,7,7,16,0.9468637806131923,0.6805884641124427,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,52,1,12:34,1954,1954,Chuck Hannah Turnover.,14,7,7,21,0.9468667805345671,0.6822216031801139,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,53,1,12:34,1954,1954,Jaylen Richard Steal.,14,7,7,0,0.9468667805345671,0.6822216031801139,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,54,1,12:25,1945,1945,Jaylen McManus made Three Point Jumper. Assisted by Jaylen Richard.,17,7,10,9,0.9611788681746121,0.7495238822255917,4,4,14,NA,NA,Charleston,made,Jaylen McManus,Jaylen Richard,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,55,1,11:58,1918,1918,Federico Poser Turnover.,17,7,10,27,0.961335891005241,0.7521537047950149,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,56,1,11:58,1918,1918,Official TV Timeout,17,7,10,0,0.961335891005241,0.7521537047950149,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,57,1,11:39,1899,1899,Jarrell Brantley Turnover.,17,7,10,19,0.9614401807999149,0.7539933868889216,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,58,1,11:25,1885,1885,Sheldon Eberhardt missed Jumper.,17,7,10,14,0.9615135817695972,0.7553424712798884,4,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,59,1,11:25,1885,1885,Marquise Pointer Defensive Rebound.,17,7,10,0,0.9615135817695972,0.7553424712798884,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,60,1,11:14,1874,1874,Jarrell Brantley missed Layup.,17,7,10,11,0.96156952012476,0.7563997706857704,4,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,61,1,11:14,1874,1874,Chuck Hannah Block.,17,7,10,0,0.96156952012476,0.7563997706857704,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,62,1,11:10,1870,1870,Grant Riller Offensive Rebound.,17,7,10,4,0.9615895282123765,0.7567838192550309,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,63,1,11:05,1865,1865,Jaylen McManus made Three Point Jumper. Assisted by Marquise Pointer.,20,7,13,5,0.972407995650343,0.8144299910564218,4,4,14,NA,NA,Charleston,made,Jaylen McManus,Marquise Pointer,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,64,1,10:51,1851,1851,Simon Wright Turnover.,20,7,13,14,0.9725163196801582,0.8158635654238431,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,65,1,10:50,1850,1850,Jaylen McManus Steal.,20,7,13,1,0.9725240094320513,0.8159658220250348,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,66,1,10:44,1844,1844,Jaylen McManus made Three Point Jumper. Assisted by Grant Riller.,23,7,16,6,0.980409449533581,0.86270688857418,4,4,14,NA,NA,Charleston,made,Jaylen McManus,Grant Riller,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,67,1,10:41,1841,1841,Elon  Timeout,23,7,16,3,0.9804350343598394,0.8630050636574483,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,68,1,10:19,1819,1819,Tyler Seibring Turnover.,23,7,16,22,0.9806216722224549,0.8651849357098247,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,69,1,10:18,1818,1818,Grant Riller Steal.,23,7,16,1,0.9806301260291774,0.8652837921006522,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,70,1,10:12,1812,1812,Grant Riller Turnover.,23,7,16,6,0.9806808175304519,0.8658766192443568,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,71,1,9:54,1794,1794,Sheldon Eberhardt Turnover.,23,7,16,18,0.9808327691537958,0.8676528137725524,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,72,1,9:52,1792,1792,Zep Jasper Steal.,23,7,16,2,0.9808496602723619,0.8678500433405643,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,73,1,9:49,1789,1789,Foul on Jarrell Brantley.,23,7,16,3,0.9808750060190166,0.8681458687391469,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,74,1,9:49,1789,1789,Jarrell Brantley Turnover.,23,7,16,0,0.9808750060190166,0.8681458687391469,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,75,1,9:25,1765,1765,Chuck Hannah made Three Point Jumper. Assisted by Sheldon Eberhardt.,23,10,13,24,0.9731708716366447,0.8246567090090248,3,4,14,NA,NA,Elon,made,Chuck Hannah,Sheldon Eberhardt,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,76,1,8:54,1734,1734,Foul on Brevin Galloway.,23,10,13,31,0.9734126027758054,0.8278626137173122,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,77,1,8:54,1734,1734,Brevin Galloway Turnover.,23,10,13,0,0.9734126027758054,0.8278626137173122,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,78,1,8:42,1722,1722,Foul on Grant Riller.,23,10,13,12,0.9735083942557269,0.8291141966633713,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,79,1,8:42,1722,1722,Steven Santa Ana missed Free Throw.,23,10,13,0,0.9735083942557269,0.8291141966633713,3,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,80,1,8:42,1722,1722,Elon Deadball Team Rebound.,23,10,13,0,0.9735083942557269,0.8291141966633713,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,81,1,8:42,1722,1722,Steven Santa Ana made Free Throw.,23,11,12,0,0.9701882963175799,0.8112071350943951,3,4,14,NA,NA,Elon,made,Steven Santa Ana,NA,FALSE,TRUE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,82,1,8:30,1710,1710,Grant Riller missed Three Point Jumper.,23,11,12,12,0.9702777124424096,0.8124634877344633,3,4,14,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,83,1,8:30,1710,1710,Andy Pack Defensive Rebound.,23,11,12,0,0.9702777124424096,0.8124634877344633,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,84,1,8:15,1695,1695,Tyler Seibring made Jumper. Assisted by Sheldon Eberhardt.,23,13,10,15,0.9624414953194368,0.7738943923519074,3,4,14,NA,NA,Elon,made,Tyler Seibring,Sheldon Eberhardt,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,85,1,7:48,1668,1668,Jarrell Brantley Turnover.,23,13,10,27,0.9625783821084392,0.7766164530290278,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,86,1,7:47,1667,1667,Steven Santa Ana Steal.,23,13,10,1,0.9625827309040169,0.7767149804359581,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,87,1,7:44,1664,1664,Sheldon Eberhardt missed Three Point Jumper.,23,13,10,3,0.9625954870915356,0.7770096519966416,3,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,TRUE,FALSE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,88,1,7:44,1664,1664,Andy Pack Offensive Rebound.,23,13,10,0,0.9625954870915356,0.7770096519966416,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,89,1,7:39,1659,1659,Andy Pack Turnover.,23,13,10,5,0.9626158131897582,0.7774978569443122,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,90,1,7:39,1659,1659,Official TV Timeout,23,13,10,0,0.9626158131897582,0.7774978569443122,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,91,1,7:15,1635,1635,Jaylen Richard Turnover.,23,13,10,24,0.9626991606702163,0.7797979548911198,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,92,1,7:15,1635,1635,Sheldon Eberhardt Steal.,23,13,10,0,0.9626991606702163,0.7797979548911198,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,93,1,7:09,1629,1629,Andy Pack missed Jumper.,23,13,10,6,0.962716893656001,0.7803638603674355,3,4,14,NA,NA,Elon,missed,Andy Pack,NA,FALSE,FALSE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,94,1,7:09,1629,1629,Chuck Hannah Offensive Rebound.,23,13,10,0,0.962716893656001,0.7803638603674355,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,95,1,7:04,1624,1624,Foul on Federico Poser.,23,13,10,5,0.9627308969659119,0.7808332884477136,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,96,1,7:04,1624,1624,Federico Poser Turnover.,23,13,10,0,0.9627308969659119,0.7808332884477136,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,97,1,6:46,1606,1606,Isaih Moore missed Jumper.,23,13,10,18,0.962776562073583,0.7825108175090786,3,4,14,NA,NA,Charleston,missed,Isaih Moore,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,98,1,6:46,1606,1606,Federico Poser Defensive Rebound.,23,13,10,0,0.962776562073583,0.7825108175090786,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,99,1,6:33,1593,1593,Sheldon Eberhardt missed Jumper.,23,13,10,13,0.9628062230101737,0.783714872122933,3,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,100,1,6:33,1593,1593,Grant Riller Defensive Rebound.,23,13,10,0,0.9628062230101737,0.783714872122933,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,101,1,6:30,1590,1590,Foul on Andy Pack.,23,13,10,3,0.9628128184410008,0.783992348269936,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,102,1,6:19,1579,1579,Grant Riller made Layup.,25,13,12,11,0.9710716819335006,0.8255086557287848,3,4,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,103,1,6:05,1565,1565,Sheldon Eberhardt missed Three Point Jumper.,25,13,12,14,0.9711385760735036,0.8268370423832595,3,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,104,1,6:05,1565,1565,Sam Miller Defensive Rebound.,25,13,12,0,0.9711385760735036,0.8268370423832595,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,105,1,5:55,1555,1555,Grant Riller missed Jumper.,25,13,12,10,0.9711870775980954,0.8277893124588608,3,4,14,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,106,1,5:55,1555,1555,Steven Santa Ana Defensive Rebound.,25,13,12,0,0.9711870775980954,0.8277893124588608,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,107,1,5:43,1543,1543,Steven Santa Ana made Three Point Jumper. Assisted by Sheldon Eberhardt.,25,16,9,12,0.9579244226869869,0.7655931936750435,3,4,14,NA,NA,Elon,made,Steven Santa Ana,Sheldon Eberhardt,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,108,1,5:23,1523,1523,Isaih Moore made Dunk. Assisted by Sam Miller.,27,16,11,20,0.9674207824035508,0.8114114233419184,3,4,14,NA,NA,Charleston,made,Isaih Moore,Sam Miller,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,109,1,5:02,1502,1502,Tyler Seibring missed Three Point Jumper.,27,16,11,21,0.9675201152153313,0.8134903650627827,3,4,14,NA,NA,Elon,missed,Tyler Seibring,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,110,1,5:02,1502,1502,Sam Miller Defensive Rebound.,27,16,11,0,0.9675201152153313,0.8134903650627827,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,111,1,4:49,1489,1489,Brevin Galloway missed Three Point Jumper.,27,16,11,13,0.9675896972868853,0.8148082814530717,3,4,14,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,112,1,4:49,1489,1489,Tyler Seibring Defensive Rebound.,27,16,11,0,0.9675896972868853,0.8148082814530717,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,113,1,4:21,1461,1461,Simon Wright made Three Point Jumper. Assisted by Tyler Seibring.,27,19,8,28,0.9522374740597566,0.7487103654649704,3,4,14,NA,NA,Elon,made,Simon Wright,Tyler Seibring,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,114,1,4:00,1440,1440,Foul on Simon Wright.,27,19,8,21,0.9522727991461405,0.7508098582057358,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,115,1,4:00,1440,1440,Official TV Timeout,27,19,8,0,0.9522727991461405,0.7508098582057358,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,116,1,4:00,1440,1440,Isaih Moore made Free Throw.,28,19,9,0,0.9581622101030245,0.7757037978599396,3,4,14,NA,NA,Charleston,made,Isaih Moore,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,117,1,4:00,1440,1440,Isaih Moore made Free Throw.,29,19,10,0,0.9633528509383775,0.7987773533040915,3,4,14,NA,NA,Charleston,made,Isaih Moore,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,118,1,3:29,1409,1409,Elon  Turnover.,29,19,10,31,0.9635010736523645,0.8019542148596914,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,119,1,3:11,1391,1391,Zep Jasper missed Three Point Jumper.,29,19,10,18,0.9635675830144469,0.8037218898588688,3,4,14,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,120,1,3:11,1391,1391,Steven Santa Ana Defensive Rebound.,29,19,10,0,0.9635675830144469,0.8037218898588688,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,121,1,3:02,1382,1382,Sheldon Eberhardt missed Three Point Jumper.,29,19,10,9,0.96359733062658115,0.8045921592715138,3,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,122,1,3:02,1382,1382,Jarrell Brantley Defensive Rebound.,29,19,10,0,0.96359733062658115,0.8045921592715138,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,123,1,2:58,1378,1378,Foul on Tyler Seibring.,29,19,10,4,0.9636100147246084,0.8049768953431288,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,124,1,2:58,1378,1378,Jarrell Brantley missed Free Throw.,29,19,10,0,0.9636100147246084,0.8049768953431288,3,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,125,1,2:58,1378,1378,Chuck Hannah Defensive Rebound.,29,19,10,0,0.9636100147246084,0.8049768953431288,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,126,1,2:36,1356,1356,Chuck Hannah made Layup. Assisted by Steven Santa Ana.,29,21,8,22,0.9522141546915343,0.7585821352060211,3,4,14,NA,NA,Elon,made,Chuck Hannah,Steven Santa Ana,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,127,1,2:12,1332,1332,Zep Jasper missed Three Point Jumper.,29,21,8,24,0.9521746954227404,0.7607492678186498,3,4,14,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,128,1,2:12,1332,1332,Jarrell Brantley Offensive Rebound.,29,21,8,0,0.9521746954227404,0.7607492678186498,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,129,1,2:05,1325,1325,Sam Miller missed Three Point Jumper.,29,21,8,7,0.952164784357235,0.7613888107239645,3,4,14,NA,NA,Charleston,missed,Sam Miller,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,130,1,2:05,1325,1325,Tyler Seibring Defensive Rebound.,29,21,8,0,0.952164784357235,0.7613888107239645,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,131,1,1:38,1298,1298,Chuck Hannah made Layup. Assisted by Sheldon Eberhardt.,29,23,6,27,0.9368427682343994,0.7069641149761897,3,4,14,NA,NA,Elon,made,Chuck Hannah,Sheldon Eberhardt,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,132,1,1:11,1271,1271,Foul on Chuck Hannah.,29,23,6,27,0.936638606190303,0.70925248825049,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,133,1,1:11,1271,1271,Jarrell Brantley made Free Throw.,30,23,7,0,0.9449072594753467,0.7389237849856279,3,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,134,1,1:11,1271,1271,Jarrell Brantley made Free Throw.,31,23,8,0,0.9521519781286595,0.7665636820575403,3,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,135,1,0:57,1257,1257,Sheldon Eberhardt missed Jumper.,31,23,8,14,0.9521770828301026,0.7680066678655059,3,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,136,1,0:57,1257,1257,Jarrell Brantley Defensive Rebound.,31,23,8,0,0.9521770828301026,0.7680066678655059,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,137,1,0:31,1231,1231,Marquise Pointer made Jumper.,33,23,10,26,0.9643091094393991,0.8199956323145599,3,4,14,NA,NA,Charleston,made,Marquise Pointer,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,138,1,0:02,1202,1202,Simon Wright made Three Point Jumper. Assisted by Sheldon Eberhardt.,33,26,7,29,0.9449635970056535,0.7461959315992981,3,4,14,NA,NA,Elon,made,Simon Wright,Sheldon Eberhardt,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,139,1,0:00,1200,1200,End of 1st half,33,26,7,2,0.9449700675250903,0.7464201950257411,3,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,NA
+401083898,2019-01-24,Charleston,Elon,140,2,20:00,1200,1200,PLAY,33,26,7,0,0.9449700675250903,0.7464201950257411,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,Charleston
+401083898,2019-01-24,Charleston,Elon,141,2,19:39,1179,1179,Jarrell Brantley made Jumper.,35,26,9,21,0.9591574210613694,0.8027756581046581,4,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,142,2,19:10,1150,1150,Steven Santa Ana made Layup.,35,28,7,29,0.9450876987939364,0.751773218041933,4,4,14,NA,NA,Elon,made,Steven Santa Ana,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,143,2,18:40,1120,1120,Brevin Galloway missed Three Point Jumper.,35,28,7,30,0.9451438255806024,0.7548714276698718,4,4,14,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,144,2,18:40,1120,1120,Steven Santa Ana Defensive Rebound.,35,28,7,0,0.9451438255806024,0.7548714276698718,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,145,2,18:16,1096,1096,Foul on Nick Harris.,35,28,7,24,0.945198851094697,0.7573687333394101,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,146,2,18:15,1095,1095,Steven Santa Ana missed Layup.,35,28,7,1,0.9452015212985971,0.7574739418670197,4,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,FALSE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,147,2,18:15,1095,1095,Steven Santa Ana Offensive Rebound.,35,28,7,0,0.9452015212985971,0.7574739418670197,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,148,2,18:12,1092,1092,Steven Santa Ana missed Layup.,35,28,7,3,0.9452097574885903,0.7577903117467422,4,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,149,2,18:12,1092,1092,Brevin Galloway Defensive Rebound.,35,28,7,0,0.9452097574885903,0.7577903117467422,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,150,2,18:01,1081,1081,Jarrell Brantley made Three Point Jumper. Assisted by Marquise Pointer.,38,28,10,11,0.9657794153756091,0.8373390223157643,4,4,14,NA,NA,Charleston,made,Jarrell Brantley,Marquise Pointer,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,151,2,17:47,1067,1067,Foul on Brevin Galloway.,38,28,10,14,0.96592967987997,0.8389529858278493,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,152,2,17:43,1063,1063,Steven Santa Ana missed Three Point Jumper.,38,28,10,4,0.9659744553581644,0.839420773370279,4,4,14,NA,NA,Elon,missed,Steven Santa Ana,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,153,2,17:43,1063,1063,Zep Jasper Defensive Rebound.,38,28,10,0,0.9659744553581644,0.839420773370279,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,154,2,17:26,1046,1046,Foul on Kris Wooten.,38,28,10,17,0.9661753866777749,0.8414485687664723,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,155,2,17:26,1046,1046,Nick Harris missed Free Throw.,38,28,10,0,0.9661753866777749,0.8414485687664723,4,4,14,NA,NA,Charleston,missed,Nick Harris,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,156,2,17:26,1046,1046,Charleston Deadball Team Rebound.,38,28,10,0,0.9661753866777749,0.8414485687664723,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,157,2,17:26,1046,1046,Nick Harris made Free Throw.,39,28,11,0,0.971225279887202,0.8624690701997472,4,4,14,NA,NA,Charleston,made,Nick Harris,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,158,2,17:16,1036,1036,Foul on Zep Jasper.,39,28,11,10,0.9713597530721365,0.8636686175824293,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,159,2,17:09,1029,1029,Tyler Seibring made Three Point Jumper. Assisted by Chuck Hannah.,39,31,8,7,0.9535560680807668,0.7937890311093707,4,4,14,NA,NA,Elon,made,Tyler Seibring,Chuck Hannah,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,160,2,16:33,993,993,Jarrell Brantley missed Jumper.,39,31,8,36,0.953982993228569,0.7985389407650901,4,4,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,161,2,16:33,993,993,Kris Wooten Defensive Rebound.,39,31,8,0,0.953982993228569,0.7985389407650901,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,162,2,16:11,971,971,Sheldon Eberhardt made Layup. Assisted by Chuck Hannah.,39,33,6,22,0.9364310665500769,0.7403481419138263,4,4,14,NA,NA,Elon,made,Sheldon Eberhardt,Chuck Hannah,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,163,2,15:48,948,948,Marquise Pointer missed Three Point Jumper.,39,33,6,23,0.9365987212668215,0.7432885999774744,4,4,14,NA,NA,Charleston,missed,Marquise Pointer,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,164,2,15:48,948,948,Tyler Seibring Defensive Rebound.,39,33,6,0,0.9365987212668215,0.7432885999774744,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,165,2,15:29,929,929,Sheldon Eberhardt missed Jumper.,39,33,6,19,0.9366984190150809,0.745457030637119,4,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,166,2,15:29,929,929,Jaylen McManus Block.,39,33,6,0,0.9366984190150809,0.745457030637119,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,167,2,15:27,927,927,Jarrell Brantley Defensive Rebound.,39,33,6,2,0.9367073885525152,0.7456745240913136,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,168,2,15:23,923,923,Marquise Pointer made Layup.,41,33,8,4,0.9549638115513075,0.8080293527912523,4,4,14,NA,NA,Charleston,made,Marquise Pointer,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,169,2,15:07,907,907,Tyler Seibring missed Three Point Jumper.,41,33,8,16,0.9551341547983668,0.8098401494222577,4,4,14,NA,NA,Elon,missed,Tyler Seibring,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,170,2,15:07,907,907,Jaylen McManus Defensive Rebound.,41,33,8,0,0.9551341547983668,0.8098401494222577,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,171,2,14:53,893,893,Foul on Chuck Hannah.,41,33,8,14,0.955274947012118,0.8113613867609345,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,172,2,14:53,893,893,Official TV Timeout,41,33,8,0,0.955274947012118,0.8113613867609345,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,173,2,14:53,893,893,Jarrell Brantley made Free Throw.,42,33,9,0,0.9624506038390465,0.8377036665915222,4,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,174,2,14:53,893,893,Jarrell Brantley made Free Throw.,43,33,10,0,0.968512950083251,0.8609976092134822,4,4,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,175,2,14:31,871,871,Foul on Grant Riller.,43,33,10,22,0.9687854604524099,0.8632803941558692,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,176,2,14:31,871,871,Tyler Seibring made Free Throw.,43,34,9,0,0.9627046656224794,0.8400401241770736,4,4,14,NA,NA,Elon,made,Tyler Seibring,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,177,2,14:31,871,871,Tyler Seibring made Free Throw.,43,35,8,0,0.9554937123794892,0.8137018859410533,4,4,14,NA,NA,Elon,made,Tyler Seibring,NA,FALSE,TRUE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,178,2,14:17,857,857,Grant Riller missed Jumper.,43,35,8,14,0.9556392470157272,0.8152005905092472,4,4,14,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,179,2,14:17,857,857,Sheldon Eberhardt Defensive Rebound.,43,35,8,0,0.9556392470157272,0.8152005905092472,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,180,2,13:56,836,836,Sheldon Eberhardt missed Three Point Jumper.,43,35,8,21,0.9558796847257595,0.817528418878588,4,4,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,181,2,13:56,836,836,Jaylen McManus Defensive Rebound.,43,35,8,0,0.9558796847257595,0.817528418878588,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,182,2,13:47,827,827,Marquise Pointer missed Three Point Jumper.,43,35,8,9,0.955994459747339,0.8185735392414725,4,4,14,NA,NA,Charleston,missed,Marquise Pointer,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,183,2,13:47,827,827,Federico Poser Defensive Rebound.,43,35,8,0,0.955994459747339,0.8185735392414725,4,4,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,184,2,13:34,814,814,Andy Pack made Three Point Jumper.,43,38,5,13,0.9251003074212473,0.7207851688633232,4,4,14,NA,NA,Elon,made,Andy Pack,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,185,2,13:29,809,809,Charleston  Timeout,43,38,5,5,0.9251141239835813,0.7213245540635038,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,186,2,13:29,809,809,Official TV Timeout,43,38,5,0,0.9251141239835813,0.7213245540635038,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,187,2,13:08,788,788,Zep Jasper missed Three Point Jumper.,43,38,5,21,0.9252070216917089,0.7237553546691309,4,3,14,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,188,2,13:08,788,788,Grant Riller Offensive Rebound.,43,38,5,0,0.9252070216917089,0.7237553546691309,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,189,2,12:51,771,771,Zep Jasper Turnover.,43,38,5,17,0.9253298299829497,0.725953483644192,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,190,2,12:45,765,765,Steven Santa Ana Turnover.,43,38,5,6,0.9253847170970222,0.7267859173697245,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,191,2,12:44,764,764,Jarrell Brantley Steal.,43,38,5,1,0.9253944880053679,0.7269277292513199,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,192,2,12:39,759,759,Jaylen Richard made Layup. Assisted by Jarrell Brantley.,45,38,7,5,0.9484289819038052,0.7983200775518665,4,3,14,NA,NA,Charleston,made,Jaylen Richard,Jarrell Brantley,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,193,2,12:20,740,740,Tyler Seibring missed Jumper.,45,38,7,19,0.9488914793390687,0.8016838226700204,4,3,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,194,2,12:20,740,740,Jarrell Brantley Defensive Rebound.,45,38,7,0,0.9488914793390687,0.8016838226700204,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,195,2,12:09,729,729,Jarrell Brantley missed Layup.,45,38,7,11,0.9491994589336942,0.8038147719613055,4,3,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,196,2,12:09,729,729,Federico Poser Defensive Rebound.,45,38,7,0,0.9491994589336942,0.8038147719613055,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,197,2,12:07,727,727,Foul on Sam Miller.,45,38,7,2,0.9492562205012761,0.8042062422297589,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,198,2,11:36,696,696,Steven Santa Ana missed Layup.,45,38,7,31,0.949966205264457,0.8095585175173345,4,3,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,199,2,11:36,696,696,Official TV Timeout,45,38,7,0,0.949966205264457,0.8095585175173345,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,200,2,11:36,696,696,Charleston Defensive Rebound.,45,38,7,0,0.949966205264457,0.8095585175173345,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,201,2,11:15,675,675,Sam Miller missed Jumper.,45,38,7,21,0.9503263737201441,0.8126760143329046,4,3,14,NA,NA,Charleston,missed,Sam Miller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,202,2,11:15,675,675,Steven Santa Ana Defensive Rebound.,45,38,7,0,0.9503263737201441,0.8126760143329046,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,203,2,10:57,657,657,Foul on Brevin Galloway.,45,38,7,18,0.9506061966039774,0.815224283271291,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,204,2,10:45,645,645,Foul on Jaylen Richard.,45,38,7,12,0.950795625089274,0.8169316833818959,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,205,2,10:45,645,645,Steven Santa Ana made Free Throw.,45,39,6,0,0.9397802514809304,0.7827943142056784,4,3,14,NA,NA,Elon,made,Steven Santa Ana,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,206,2,10:45,645,645,Steven Santa Ana made Free Throw.,45,40,5,0,0.9264895271470919,0.7442838306376033,4,3,14,NA,NA,Elon,made,Steven Santa Ana,NA,FALSE,TRUE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,207,2,10:31,631,631,Sam Miller made Dunk. Assisted by Grant Riller.,47,40,7,14,0.9510346681171676,0.8189927583956116,4,3,14,NA,NA,Charleston,made,Sam Miller,Grant Riller,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,208,2,10:11,611,611,Tyler Seibring Turnover.,47,40,7,20,0.9514387458018059,0.8221793308144576,4,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,209,2,10:00,600,600,Grant Riller made Layup.,49,40,9,11,0.9683916498048165,0.8792856595745164,4,3,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,210,2,9:36,576,576,Steven Santa Ana made Three Point Jumper. Assisted by Tyler Seibring.,49,43,6,24,0.9411244959731226,0.7945176644359997,4,3,14,NA,NA,Elon,made,Steven Santa Ana,Tyler Seibring,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,211,2,9:34,574,574,Elon  Timeout,49,43,6,2,0.9411881372852451,0.7949518881235009,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,212,2,9:14,554,554,Grant Riller missed Jumper.,49,43,6,20,0.9419344661718062,0.7997074324895873,3,3,14,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,213,2,9:14,554,554,Sheldon Eberhardt Defensive Rebound.,49,43,6,0,0.9419344661718062,0.7997074324895873,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,214,2,9:05,545,545,Andy Pack missed Three Point Jumper.,49,43,6,9,0.9423222586753041,0.8020426184272571,3,3,14,NA,NA,Elon,missed,Andy Pack,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,215,2,9:05,545,545,Grant Riller Defensive Rebound.,49,43,6,0,0.9423222586753041,0.8020426184272571,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,216,2,8:56,536,536,Grant Riller missed Jumper.,49,43,6,9,0.9426512400641812,0.8041641146661168,3,3,14,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,217,2,8:56,536,536,Grant Riller Offensive Rebound.,49,43,6,0,0.9426512400641812,0.8041641146661168,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,218,2,8:54,534,534,Grant Riller made Two Point Tip Shot.,51,43,8,2,0.9634742062506503,0.8684261578536869,3,3,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,219,2,8:28,508,508,Steven Santa Ana missed Three Point Jumper.,51,43,8,26,0.964293305673411,0.8733634181326488,3,3,14,NA,NA,Elon,missed,Steven Santa Ana,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,220,2,8:28,508,508,Grant Riller Defensive Rebound.,51,43,8,0,0.964293305673411,0.8733634181326488,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,221,2,8:20,500,500,Grant Riller made Layup.,53,43,10,8,0.9778717105508332,0.9190660154267376,3,3,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,222,2,8:06,486,486,Andy Pack made Three Point Jumper. Assisted by Steven Santa Ana.,53,46,7,14,0.9555810690664133,0.8482476221864415,3,3,14,NA,NA,Elon,made,Andy Pack,Steven Santa Ana,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,223,2,7:34,454,454,Grant Riller missed Three Point Jumper.,53,46,7,32,0.9567896442619297,0.8553259015802127,3,3,14,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,224,2,7:34,454,454,Steven Santa Ana Defensive Rebound.,53,46,7,0,0.9567896442619297,0.8553259015802127,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,225,2,7:21,441,441,Foul on Jaylen Richard.,53,46,7,13,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,226,2,7:21,441,441,Official TV Timeout,53,46,7,0,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,227,2,7:21,441,441,Steven Santa Ana missed Free Throw.,53,46,7,0,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,228,2,7:21,441,441,Elon Deadball Team Rebound.,53,46,7,0,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,229,2,7:21,441,441,Steven Santa Ana missed Free Throw.,53,46,7,0,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,Elon,missed,Steven Santa Ana,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,230,2,7:21,441,441,Marquise Pointer Defensive Rebound.,53,46,7,0,0.9575122666798773,0.858992325656882,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,231,2,7:08,428,428,Foul on Tyler Seibring.,53,46,7,13,0.95841480927809,0.863267014512664,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,232,2,6:49,409,409,Jarrell Brantley missed Jumper.,53,46,7,19,0.9596257699751538,0.8692576595710232,3,3,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,233,2,6:49,409,409,Elon Defensive Rebound.,53,46,7,0,0.9596257699751538,0.8692576595710232,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,234,2,6:21,381,381,Sheldon Eberhardt Turnover.,53,46,7,28,0.9610943800005416,0.8772105046412088,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,235,2,6:20,380,380,Jaylen Richard Steal.,53,46,7,1,0.9611463955471444,0.8774939820279517,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,236,2,6:18,378,378,Jaylen Richard made Dunk.,55,46,9,2,0.9775815202633894,0.9267819287641668,3,3,14,NA,NA,Charleston,made,Jaylen Richard,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,237,2,6:07,367,367,Tyler Seibring made Jumper.,55,48,7,11,0.9618529575901933,0.8812668572692708,3,3,14,NA,NA,Elon,made,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,238,2,5:36,336,336,Grant Riller Turnover.,55,48,7,31,0.964001568943864,0.8915287941694973,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,239,2,5:34,334,334,Sheldon Eberhardt Steal.,55,48,7,2,0.9641730811515629,0.892277469087396,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,240,2,5:32,332,332,Foul on Marquise Pointer.,55,48,7,2,0.9643494019239005,0.8930384821653464,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,241,2,5:32,332,332,Sheldon Eberhardt missed Free Throw.,55,48,7,0,0.9643494019239005,0.8930384821653464,3,3,14,NA,NA,Elon,missed,Sheldon Eberhardt,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,242,2,5:32,332,332,Elon Deadball Team Rebound.,55,48,7,0,0.9643494019239005,0.8930384821653464,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,243,2,5:32,332,332,Sheldon Eberhardt made Free Throw.,55,49,6,0,0.9523260329599359,0.8604454621135585,3,3,14,NA,NA,Elon,made,Sheldon Eberhardt,NA,FALSE,TRUE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,244,2,5:22,322,322,Grant Riller made Jumper.,57,49,8,10,0.9742981802240198,0.9222964752736297,3,3,14,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,245,2,5:22,322,322,Foul on Chuck Hannah.,57,49,8,0,0.9742981802240198,0.9222964752736297,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,246,2,5:22,322,322,Grant Riller missed Free Throw.,57,49,8,0,0.9742981802240198,0.9222964752736297,3,3,14,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,247,2,5:22,322,322,Tyler Seibring Defensive Rebound.,57,49,8,0,0.9742981802240198,0.9222964752736297,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,248,2,5:00,300,300,Sheldon Eberhardt Turnover.,57,49,8,22,0.9761549258533396,0.9297807178668477,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,249,2,4:45,285,285,Jarrell Brantley made Layup.,59,49,10,15,0.987311012103495,0.9625830291385907,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,250,2,4:45,285,285,Foul on Chuck Hannah.,59,49,10,0,0.987311012103495,0.9625830291385907,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,251,2,4:45,285,285,Jarrell Brantley missed Free Throw.,59,49,10,0,0.987311012103495,0.9625830291385907,3,3,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,252,2,4:45,285,285,Tyler Seibring Defensive Rebound.,59,49,10,0,0.987311012103495,0.9625830291385907,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,253,2,4:26,266,266,Tyler Seibring missed Jumper.,59,49,10,19,0.986424642752196,0.9610966601241202,3,3,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,254,2,4:26,266,266,Jarrell Brantley Defensive Rebound.,59,49,10,0,0.986424642752196,0.9610966601241202,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,255,2,4:08,248,248,Jarrell Brantley missed Jumper.,59,49,10,18,0.9853355119713573,0.9591412465483379,3,3,14,NA,NA,Charleston,missed,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,256,2,4:08,248,248,Sheldon Eberhardt Defensive Rebound.,59,49,10,0,0.9853355119713573,0.9591412465483379,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,257,2,3:37,217,217,Tyler Seibring missed Jumper.,59,49,10,31,0.9851993430854707,0.9607222199060854,3,3,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,258,2,3:37,217,217,Jarrell Brantley Defensive Rebound.,59,49,10,0,0.9851993430854707,0.9607222199060854,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,259,2,3:36,216,216,Foul on Federico Poser.,59,49,10,1,0.9852685647183492,0.9609665262286401,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,260,2,3:36,216,216,Official TV Timeout,59,49,10,0,0.9852685647183492,0.9609665262286401,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,261,2,3:16,196,196,Jarrell Brantley made Layup.,61,49,12,20,0.9938458476760119,0.9840397460839245,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,262,2,3:16,196,196,Foul on Steven Santa Ana.,61,49,12,0,0.9938458476760119,0.9840397460839245,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,263,2,3:16,196,196,Jarrell Brantley made Free Throw.,62,49,13,0,0.9956269799652889,0.9886264775268891,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,264,2,2:59,179,179,Sheldon Eberhardt made Jumper.,62,51,11,17,0.9938539004583444,0.9845809380462092,3,3,14,NA,NA,Elon,made,Sheldon Eberhardt,NA,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,265,2,2:33,153,153,Marquise Pointer Turnover.,62,51,11,26,0.9965918271578083,0.9918614322871996,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,266,2,2:21,141,141,Tyler Seibring made Jumper. Assisted by Sheldon Eberhardt.,62,53,9,12,0.9936808098214083,0.9853507079351367,3,3,14,NA,NA,Elon,made,Tyler Seibring,Sheldon Eberhardt,FALSE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,267,2,1:54,114,114,Jaylen McManus made Three Point Jumper. Assisted by Grant Riller.,65,53,12,27,0.9993962777127874,0.9986736357891554,3,3,14,NA,NA,Charleston,made,Jaylen McManus,Grant Riller,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,268,2,1:32,92,92,Andy Pack Turnover.,65,53,12,22,0.9997811483510958,0.999544029992805,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,269,2,1:30,90,90,Marquise Pointer Steal.,65,53,12,2,0.9998023474143043,0.9995902450413292,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,270,2,1:28,88,88,Foul on Andy Pack.,65,53,12,2,0.9998216164089021,0.9996320372901862,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,271,2,1:28,88,88,Marquise Pointer made Free Throw.,66,53,13,0,0.9999076955593543,0.9998095805792929,3,3,14,NA,NA,Charleston,made,Marquise Pointer,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,272,2,1:28,88,88,Marquise Pointer made Free Throw.,67,53,14,0,0.9999522391282885,0.9999014670569756,3,3,14,NA,NA,Charleston,made,Marquise Pointer,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,273,2,1:19,79,79,Nathan Priddy missed Three Point Jumper.,67,53,14,9,0.9999726551395347,0.9999448602470956,3,3,14,NA,NA,Elon,missed,Nathan Priddy,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,274,2,1:19,79,79,Jarrell Brantley Defensive Rebound.,67,53,14,0,0.9999726551395347,0.9999448602470956,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,275,2,0:47,47,47,Jarrell Brantley made Three Point Jumper. Assisted by Marquise Pointer.,70,53,17,32,0.999999791624987,0.9999996142010679,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,Marquise Pointer,TRUE,FALSE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,276,2,0:37,37,37,Foul on Marquise Pointer.,70,53,17,10,0.9999999217747653,0.9999998591692142,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,277,2,0:37,37,37,Tyler Seibring missed Free Throw.,70,53,17,0,0.9999999217747653,0.9999998591692142,3,3,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,278,2,0:37,37,37,Elon Deadball Team Rebound.,70,53,17,0,0.9999999217747653,0.9999998591692142,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,279,2,0:37,37,37,Tyler Seibring missed Free Throw.,70,53,17,0,0.9999999217747653,0.9999998591692142,3,3,14,NA,NA,Elon,missed,Tyler Seibring,NA,FALSE,TRUE,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,280,2,0:37,37,37,Jaylen McManus Defensive Rebound.,70,53,17,0,0.9999999217747653,0.9999998591692142,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Elon
+401083898,2019-01-24,Charleston,Elon,281,2,0:32,32,32,Grant Riller Turnover.,70,53,17,5,0.9999999530329489,0.9999999166398207,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,282,2,0:29,29,29,Kris Wooten missed Three Point Jumper.,70,53,17,3,0.9999999656070138,0.9999999394806498,3,3,14,NA,NA,Elon,missed,Kris Wooten,NA,TRUE,FALSE,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,283,2,0:29,29,29,Jarrell Brantley Defensive Rebound.,70,53,17,0,0.9999999656070138,0.9999999394806498,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,284,2,0:24,24,24,Foul on Simon Wright.,70,53,17,5,0.9999999797017631,0.9999999647951874,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,285,2,0:24,24,24,Jarrell Brantley made Free Throw.,71,53,18,0,0.999999992603553,0.999999987171766,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Charleston
+401083898,2019-01-24,Charleston,Elon,286,2,0:24,24,24,Jarrell Brantley made Free Throw.,72,53,19,0,0.9999999973048187,0.9999999953255373,3,3,14,NA,NA,Charleston,made,Jarrell Brantley,NA,FALSE,TRUE,Charleston,Elon
+401083898,2019-01-24,Charleston,Elon,287,2,0:14,14,14,Simon Wright Turnover.,72,53,19,10,0.9999999992162333,0.9999999986800973,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,288,2,0:14,14,14,Jarrell Brantley Steal.,72,53,19,0,0.9999999992162333,0.9999999986800973,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Elon,Charleston
+401083898,2019-01-24,Charleston,Elon,289,2,0:00,0,0,End of Game,72,72,0,14,1,1,3,3,14,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,NA
