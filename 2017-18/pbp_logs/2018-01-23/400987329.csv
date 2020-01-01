@@ -1,0 +1,341 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400987329,2018-01-23,Georgia,Arkansas,1,1,20:00,2400,3000,PLAY,0,0,0,0,0.47595391067013754,0.5,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Georgia
+400987329,2018-01-23,Georgia,Arkansas,2,1,19:37,2377,2977,William Jackson II made Three Point Jumper. Assisted by Rayshaun Hammonds.,3,0,3,23,0.5428302951040351,0.5665473340505129,4,4,-0.6,NA,NA,Georgia,made,William Jackson II,Rayshaun Hammonds,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,3,1,19:10,2350,2950,Daniel Gafford missed Jumper.,3,0,3,27,0.543766435799836,0.5674075052667423,4,4,-0.6,NA,NA,Arkansas,missed,Daniel Gafford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,4,1,19:10,2350,2950,Derek Ogbeide Defensive Rebound.,3,0,3,0,0.543766435799836,0.5674075052667423,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,5,1,18:42,2322,2922,Yante Maten missed Jumper.,3,0,3,28,0.5447542873603001,0.5683139860077305,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,6,1,18:42,2322,2922,Derek Ogbeide Offensive Rebound.,3,0,3,0,0.5447542873603001,0.5683139860077305,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,7,1,18:37,2317,2917,Derek Ogbeide made Two Point Tip Shot.,5,0,5,5,0.5900026930616262,0.6128722915133248,4,4,-0.6,NA,NA,Georgia,made,Derek Ogbeide,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,8,1,18:21,2301,2901,Jaylen Barford missed Three Point Jumper.,5,0,5,16,0.5909068889834671,0.6137186774736136,4,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,9,1,18:21,2301,2901,Derek Ogbeide Defensive Rebound.,5,0,5,0,0.5909068889834671,0.6137186774736136,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,10,1,18:04,2284,2884,Rayshaun Hammonds missed Three Point Jumper.,5,0,5,17,0.5918749473591943,0.6146242162314544,4,4,-0.6,NA,NA,Georgia,missed,Rayshaun Hammonds,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,11,1,18:04,2284,2884,Daniel Gafford Defensive Rebound.,5,0,5,0,0.5918749473591943,0.6146242162314544,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,12,1,17:57,2277,2877,Anton Beard missed Three Point Jumper.,5,0,5,7,0.5922756168528808,0.6149988125117353,4,4,-0.6,NA,NA,Arkansas,missed,Anton Beard,NA,TRUE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,13,1,17:57,2277,2877,Adrio Bailey Offensive Rebound.,5,0,5,0,0.5922756168528808,0.6149988125117353,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,14,1,17:50,2270,2870,Jaylen Barford missed Layup.,5,0,5,7,0.5926774214267433,0.6153743508340823,4,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,15,1,17:50,2270,2870,Derek Ogbeide Defensive Rebound.,5,0,5,0,0.5926774214267433,0.6153743508340823,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,16,1,17:38,2258,2858,Yante Maten made Layup. Assisted by Derek Ogbeide.,7,0,7,12,0.6380672296422953,0.6596569169234404,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,Derek Ogbeide,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,17,1,17:06,2226,2826,Jaylen Barford made Layup.,7,2,5,32,0.5952262647997175,0.6177536470971274,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,18,1,16:53,2213,2813,Foul on Anton Beard.,7,2,5,13,0.5959859887835719,0.6184618015703488,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,19,1,16:53,2213,2813,Yante Maten made Free Throw.,8,2,6,0,0.619015705193071,0.6409821150800418,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,20,1,16:53,2213,2813,Yante Maten made Free Throw.,9,2,7,0,0.641522274976995,0.6628977013295915,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,21,1,16:47,2207,2807,Foul on Derek Ogbeide.,9,2,7,6,0.6419856009552094,0.6633318208036171,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,22,1,16:26,2186,2786,Anton Beard Turnover.,9,2,7,21,0.6436109618117648,0.6648537914690626,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,23,1,15:59,2159,2759,William Jackson II Turnover.,9,2,7,27,0.6457079712481021,0.6668152222608754,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,24,1,15:59,2159,2759,Foul on William Jackson II.,9,2,7,0,0.6457079712481021,0.6668152222608754,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,25,1,15:59,2159,2759,Official TV Timeout,9,2,7,0,0.6457079712481021,0.6668152222608754,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,26,1,15:58,2158,2758,Official TV Timeout,9,2,7,1,0.6457858658687453,0.6668880376106622,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,27,1,15:48,2148,2748,Darious Hall made Three Point Jumper.,9,5,4,10,0.5756841333405885,0.5983343958667185,4,4,-0.6,NA,NA,Arkansas,made,Darious Hall,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,28,1,15:29,2129,2729,Yante Maten missed Jumper.,9,5,4,19,0.5766197128665008,0.599195349539166,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,29,1,15:29,2129,2729,Daniel Gafford Defensive Rebound.,9,5,4,0,0.5766197128665008,0.599195349539166,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,30,1,14:53,2093,2693,Arkansas  Turnover.,9,5,4,36,0.5784117201420526,0.6008422241274761,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,31,1,14:40,2080,2680,Yante Maten missed Jumper.,9,5,4,13,0.579065491692635,0.6014424006291267,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,32,1,14:40,2080,2680,Arlando Cook Defensive Rebound.,9,5,4,0,0.579065491692635,0.6014424006291267,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,33,1,14:32,2072,2672,Jaylen Barford missed Jumper.,9,5,4,8,0.579469665238662,0.6018132833172037,4,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,34,1,14:32,2072,2672,Yante Maten Defensive Rebound.,9,5,4,0,0.579469665238662,0.6018132833172037,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,35,1,14:02,2042,2642,William Jackson II missed Three Point Jumper.,9,5,4,30,0.5809984716707717,0.6032151713537646,4,4,-0.6,NA,NA,Georgia,missed,William Jackson II,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,36,1,14:02,2042,2642,Arlando Cook Defensive Rebound.,9,5,4,0,0.5809984716707717,0.6032151713537646,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,37,1,13:46,2026,2626,Darious Hall made Layup.,9,7,2,16,0.5297752852775882,0.5525596446359,4,4,-0.6,NA,NA,Arkansas,made,Darious Hall,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,38,1,13:31,2011,2611,Foul on Daryl Macon.,9,7,2,15,0.5302012393442225,0.5529282802411927,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,39,1,13:10,1990,2590,Georgia  Turnover.,9,7,2,21,0.5308035425786473,0.553449135636285,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,40,1,12:59,1979,2579,Daryl Macon missed Three Point Jumper.,9,7,2,11,0.531121897280509,0.5537242755029509,4,4,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,41,1,12:59,1979,2579,Nicolas Claxton Defensive Rebound.,9,7,2,0,0.531121897280509,0.5537242755029509,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,42,1,12:48,1968,2568,Nicolas Claxton made Three Point Jumper. Assisted by William Jackson II.,12,7,5,11,0.6109269591547881,0.632306627093513,4,4,-0.6,NA,NA,Georgia,made,Nicolas Claxton,William Jackson II,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,43,1,12:37,1957,2557,Darious Hall missed Jumper.,12,7,5,11,0.6116363880040465,0.6329615091190671,4,4,-0.6,NA,NA,Arkansas,missed,Darious Hall,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,44,1,12:37,1957,2557,Juwan Parker Block.,12,7,5,0,0.6116363880040465,0.6329615091190671,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,45,1,12:36,1956,2556,William Jackson II Defensive Rebound.,12,7,5,1,0.611701083776757,0.6330212242152617,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,46,1,12:24,1944,2544,Derek Ogbeide missed Jumper.,12,7,5,12,0.6124801055172173,0.633740194453431,4,4,-0.6,NA,NA,Georgia,missed,Derek Ogbeide,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,47,1,12:24,1944,2544,Daryl Macon Defensive Rebound.,12,7,5,0,0.6124801055172173,0.633740194453431,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,48,1,12:13,1933,2533,Arlando Cook Turnover.,12,7,5,11,0.613198612989105,0.6344031967090716,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,49,1,11:47,1907,2507,William Jackson II made Three Point Jumper. Assisted by Rayshaun Hammonds.,15,7,8,26,0.6905567468350963,0.7094447661281957,4,4,-0.6,NA,NA,Georgia,made,William Jackson II,Rayshaun Hammonds,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,50,1,11:26,1886,2486,Daryl Macon missed Jumper.,15,7,8,21,0.6924944378687667,0.7112438961227053,4,4,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,FALSE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,51,1,11:26,1886,2486,Trey Thompson Offensive Rebound.,15,7,8,0,0.6924944378687667,0.7112438961227053,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,52,1,11:19,1879,2479,Trey Thompson missed Two Point Tip Shot.,15,7,8,7,0.6931394518966165,0.7118424196583388,4,4,-0.6,NA,NA,Arkansas,missed,Trey Thompson,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,53,1,11:19,1879,2479,William Jackson II Block.,15,7,8,0,0.6931394518966165,0.7118424196583388,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,54,1,11:18,1878,2478,Rayshaun Hammonds Defensive Rebound.,15,7,8,1,0.693231580569294,0.7119278941724706,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,55,1,11:15,1875,2475,Juwan Parker missed Three Point Jumper.,15,7,8,3,0.6935079535385129,0.7121842855193848,4,4,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,56,1,11:15,1875,2475,Arlando Cook Defensive Rebound.,15,7,8,0,0.6935079535385129,0.7121842855193848,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,57,1,10:52,1852,2452,Arlando Cook missed Jumper.,15,7,8,23,0.6956275287742698,0.714149694711855,4,4,-0.6,NA,NA,Arkansas,missed,Arlando Cook,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,58,1,10:52,1852,2452,Juwan Parker Defensive Rebound.,15,7,8,0,0.6956275287742698,0.714149694711855,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,59,1,10:38,1838,2438,Derek Ogbeide missed Jumper.,15,7,8,14,0.6969200655356741,0.7153475225994332,4,4,-0.6,NA,NA,Georgia,missed,Derek Ogbeide,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,60,1,10:38,1838,2438,Trey Thompson Defensive Rebound.,15,7,8,0,0.6969200655356741,0.7153475225994332,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,61,1,10:24,1824,2424,Foul on Rayshaun Hammonds.,15,7,8,14,0.6982160517528392,0.7165481177493652,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,62,1,10:24,1824,2424,Official TV Timeout,15,7,8,0,0.6982160517528392,0.7165481177493652,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,63,1,10:24,1824,2424,C.J. Jones made Free Throw.,15,8,7,0,0.6732435037520649,0.6924242916251824,4,4,-0.6,NA,NA,Arkansas,made,C.J. Jones,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,64,1,10:24,1824,2424,C.J. Jones made Free Throw.,15,9,6,0,0.6472485030119689,0.6672009155366213,4,4,-0.6,NA,NA,Arkansas,made,C.J. Jones,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,65,1,9:59,1799,2399,Juwan Parker made Jumper.,17,9,8,25,0.7005431308230925,0.718703093458189,4,4,-0.6,NA,NA,Georgia,made,Juwan Parker,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,66,1,9:45,1785,2385,Daniel Gafford missed Jumper.,17,9,8,14,0.7018558158719727,0.719918376680796,4,4,-0.6,NA,NA,Arkansas,missed,Daniel Gafford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,67,1,9:45,1785,2385,Mike Edwards Defensive Rebound.,17,9,8,0,0.7018558158719727,0.719918376680796,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,68,1,9:36,1776,2376,Rayshaun Hammonds missed Three Point Jumper.,17,9,8,9,0.702704088683757,0.7207036329480039,4,4,-0.6,NA,NA,Georgia,missed,Rayshaun Hammonds,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,69,1,9:36,1776,2376,Yante Maten Offensive Rebound.,17,9,8,0,0.702704088683757,0.7207036329480039,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,70,1,9:29,1769,2369,Yante Maten missed Layup.,17,9,8,7,0.7033665047018282,0.721316814693141,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,71,1,9:29,1769,2369,C.J. Jones Defensive Rebound.,17,9,8,0,0.7033665047018282,0.721316814693141,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,72,1,9:22,1762,2362,Anton Beard missed Jumper.,17,9,8,7,0.7040314146422632,0.7219322936709841,4,4,-0.6,NA,NA,Arkansas,missed,Anton Beard,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,73,1,9:22,1762,2362,Yante Maten Defensive Rebound.,17,9,8,0,0.7040314146422632,0.7219322936709841,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,74,1,8:56,1736,2336,Foul on Arlando Cook.,17,9,8,26,0.706525575109122,0.7242410860807783,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,75,1,8:36,1716,2316,Juwan Parker made Three Point Jumper. Assisted by William Jackson II.,20,9,11,20,0.7779013667087223,0.7925132859948332,4,4,-0.6,NA,NA,Georgia,made,Juwan Parker,William Jackson II,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,76,1,8:07,1687,2287,C.J. Jones missed Three Point Jumper.,20,9,11,29,0.7811699966925353,0.7955364400087204,4,4,-0.6,NA,NA,Arkansas,missed,C.J. Jones,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,77,1,8:07,1687,2287,Yante Maten Defensive Rebound.,20,9,11,0,0.7811699966925353,0.7955364400087204,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,78,1,7:47,1667,2267,Derek Ogbeide missed Jumper.,20,9,11,20,0.7833905758214642,0.7975879810418636,4,4,-0.6,NA,NA,Georgia,missed,Derek Ogbeide,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,79,1,7:47,1667,2267,Yante Maten Offensive Rebound.,20,9,11,0,0.7833905758214642,0.7975879810418636,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,80,1,7:44,1664,2264,Yante Maten made Two Point Tip Shot.,22,9,13,3,0.8230468268018265,0.8351838912549363,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,81,1,7:38,1658,2258,C.J. Jones missed Jumper.,22,9,13,6,0.8237030868356607,0.835788190684145,4,4,-0.6,NA,NA,Arkansas,missed,C.J. Jones,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,82,1,7:38,1658,2258,William Jackson II Defensive Rebound.,22,9,13,0,0.8237030868356607,0.835788190684145,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,83,1,7:28,1648,2248,Yante Maten made Dunk. Assisted by Juwan Parker.,24,9,15,10,0.8582172449798845,0.8682923020898115,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,Juwan Parker,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,84,1,7:27,1647,2247,Arkansas  Timeout,24,9,15,1,0.8583210948691491,0.8683876546018231,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,85,1,7:07,1627,2227,Dustin Thomas made Jumper. Assisted by Jaylen Barford.,24,11,13,20,0.8270105441948227,0.8388303240157651,3,4,-0.6,NA,NA,Arkansas,made,Dustin Thomas,Jaylen Barford,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,86,1,6:40,1600,2200,E'Torrion Wilridge made Three Point Jumper. Assisted by Derek Ogbeide.,27,11,16,27,0.8775460400679093,0.8863317842192957,3,4,-0.6,NA,NA,Georgia,made,E'Torrion Wilridge,Derek Ogbeide,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,87,1,6:27,1587,2187,Dustin Thomas made Jumper. Assisted by Daniel Gafford.,27,13,14,13,0.848498212009349,0.8590006316088677,3,4,-0.6,NA,NA,Arkansas,made,Dustin Thomas,Daniel Gafford,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,88,1,6:06,1566,2166,E'Torrion Wilridge made Layup. Assisted by Yante Maten.,29,13,16,21,0.8807877501161511,0.8893003770183463,3,4,-0.6,NA,NA,Georgia,made,E'Torrion Wilridge,Yante Maten,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,89,1,5:56,1556,2156,Jaylen Barford made Layup.,29,15,14,10,0.851629683551098,0.8618727910680283,3,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,90,1,5:31,1531,2131,William Jackson II Turnover.,29,15,14,25,0.8541775017546858,0.8642103472264121,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,91,1,5:29,1529,2129,Jaylen Barford Steal.,29,15,14,2,0.8543831138974658,0.8643990528394989,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,92,1,5:28,1528,2128,Dustin Thomas made Layup. Assisted by Anton Beard.,29,17,12,1,0.8183927710898071,0.8303897933332834,3,4,-0.6,NA,NA,Arkansas,made,Dustin Thomas,Anton Beard,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,93,1,5:28,1528,2128,Foul on E'Torrion Wilridge.,29,17,12,0,0.8183927710898071,0.8303897933332834,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,94,1,5:28,1528,2128,Dustin Thomas missed Free Throw.,29,17,12,0,0.8183927710898071,0.8303897933332834,3,4,-0.6,NA,NA,Arkansas,missed,Dustin Thomas,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,95,1,5:28,1528,2128,Yante Maten Defensive Rebound.,29,17,12,0,0.8183927710898071,0.8303897933332834,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,96,1,5:15,1515,2115,Yante Maten missed Jumper.,29,17,12,13,0.8197792761132668,0.8316646256832309,3,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,97,1,5:15,1515,2115,Daniel Gafford Defensive Rebound.,29,17,12,0,0.8197792761132668,0.8316646256832309,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,98,1,5:06,1506,2106,Anton Beard made Three Point Jumper. Assisted by Jaylen Barford.,29,20,9,9,0.7540771675544421,0.7690407108392404,3,4,-0.6,NA,NA,Arkansas,made,Anton Beard,Jaylen Barford,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,99,1,4:47,1487,2087,Juwan Parker missed Jumper.,29,20,9,19,0.7560751297639238,0.7708821990263708,3,4,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,100,1,4:47,1487,2087,Anton Beard Defensive Rebound.,29,20,9,0,0.7560751297639238,0.7708821990263708,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,101,1,4:37,1477,2077,Jaylen Barford Turnover.,29,20,9,10,0.7571521377279786,0.7718759152400054,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,102,1,4:37,1477,2077,Foul on Jaylen Barford.,29,20,9,0,0.7571521377279786,0.7718759152400054,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,103,1,4:26,1466,2066,Juwan Parker Turnover.,29,20,9,11,0.758359581111719,0.7729909288607719,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,104,1,4:26,1466,2066,Foul on Juwan Parker.,29,20,9,0,0.758359581111719,0.7729909288607719,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,105,1,4:00,1440,2040,Foul on Rayshaun Hammonds.,29,20,9,26,0.7612937364427916,0.7757037978599396,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,106,1,4:00,1440,2040,Official TV Timeout,29,20,9,0,0.7612937364427916,0.7757037978599396,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,107,1,4:00,1440,2040,Jaylen Barford made Free Throw.,29,21,8,0,0.7353461259653166,0.7508098582057358,3,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,108,1,4:00,1440,2040,Jaylen Barford missed Free Throw.,29,21,8,0,0.7353461259653166,0.7508098582057358,3,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,109,1,4:00,1440,2040,Yante Maten Defensive Rebound.,29,21,8,0,0.7353461259653166,0.7508098582057358,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,110,1,3:42,1422,2022,E'Torrion Wilridge missed Three Point Jumper.,29,21,8,18,0.7372340340281204,0.7525523190595655,3,4,-0.6,NA,NA,Georgia,missed,E'Torrion Wilridge,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,111,1,3:42,1422,2022,Darious Hall Defensive Rebound.,29,21,8,0,0.7372340340281204,0.7525523190595655,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,112,1,3:33,1413,2013,Dustin Thomas Turnover.,29,21,8,9,0.7381547605826854,0.7534008718066505,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,113,1,3:33,1413,2013,Foul on Dustin Thomas.,29,21,8,0,0.7381547605826854,0.7534008718066505,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,114,1,3:17,1397,1997,Juwan Parker made Jumper.,31,21,10,16,0.7901678483363345,0.8031372606206536,3,4,-0.6,NA,NA,Georgia,made,Juwan Parker,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,115,1,3:00,1380,1980,Jaylen Barford missed Three Point Jumper.,31,21,10,17,0.7919579834544449,0.8047846619872828,3,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,116,1,3:00,1380,1980,William Jackson II Defensive Rebound.,31,21,10,0,0.7919579834544449,0.8047846619872828,3,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,117,1,2:58,1378,1978,Georgia  Timeout,31,21,10,2,0.7921669535672042,0.8049768953431288,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,118,1,2:53,1373,1973,E'Torrion Wilridge Turnover.,31,21,10,5,0.7926883312253988,0.805456464122262,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,119,1,2:52,1372,1972,Jaylen Barford Steal.,31,21,10,1,0.7927924530624444,0.8055522288186849,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,120,1,2:51,1371,1971,Jaylen Barford made Layup.,31,23,8,1,0.7423232849194625,0.7572351444279011,3,3,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,121,1,2:20,1340,1940,Yante Maten missed Layup.,31,23,8,31,0.745358378767558,0.7600233835839932,3,3,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,122,1,2:20,1340,1940,Jaylen Barford Defensive Rebound.,31,23,8,0,0.745358378767558,0.7600233835839932,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,123,1,2:14,1334,1934,Jaylen Barford made Three Point Jumper.,31,26,5,6,0.6555910425542404,0.6731287584729663,3,3,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,124,1,1:43,1303,1903,William Jackson II missed Three Point Jumper.,31,26,5,31,0.6579800296080104,0.6753005288552588,3,3,-0.6,NA,NA,Georgia,missed,William Jackson II,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,125,1,1:43,1303,1903,Daryl Macon Defensive Rebound.,31,26,5,0,0.6579800296080104,0.6753005288552588,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,126,1,1:33,1293,1893,Trey Thompson made Layup. Assisted by Daryl Macon.,31,28,3,10,0.5899161118458396,0.6085784632491817,3,3,-0.6,NA,NA,Arkansas,made,Trey Thompson,Daryl Macon,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,127,1,1:01,1261,1861,Nicolas Claxton Turnover.,31,28,3,32,0.5917116088407597,0.6101707945287016,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,128,1,0:59,1259,1859,Trey Thompson Steal.,31,28,3,2,0.5918285379089412,0.6102749555962614,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,129,1,0:56,1256,1856,Daryl Macon Turnover.,31,28,3,3,0.5920050980143283,0.6104323487533412,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,130,1,0:38,1238,1838,Juwan Parker missed Three Point Jumper.,31,28,3,18,0.5930958440631996,0.6114077241256984,3,3,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,131,1,0:38,1238,1838,Mike Edwards Offensive Rebound.,31,28,3,0,0.5930958440631996,0.6114077241256984,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,132,1,0:13,1213,1813,Foul on Daryl Macon.,31,28,3,25,0.5947113068354734,0.6128619410927587,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,133,1,0:02,1202,1802,Foul on Anton Beard.,31,28,3,11,0.595452219621937,0.6135317766038629,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,134,1,0:02,1202,1802,Yante Maten made Free Throw.,32,28,4,0,0.631954796678874,0.649363644672055,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,135,1,0:02,1202,1802,Yante Maten made Free Throw.,33,28,5,0,0.667005630275348,0.6835866550048447,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,136,1,0:00,1200,1800,End of 1st half,33,28,5,2,0.667203611169342,0.6837696278036713,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,NA
+400987329,2018-01-23,Georgia,Arkansas,137,2,20:00,1200,1800,PLAY,33,28,5,0,0.667203611169342,0.6837696278036713,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,138,2,19:42,1182,1782,Daniel Gafford missed Jumper.,33,28,5,18,0.6689517664856525,0.6853840531166835,4,4,-0.6,NA,NA,Arkansas,missed,Daniel Gafford,NA,FALSE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,139,2,19:42,1182,1782,Derek Ogbeide Block.,33,28,5,0,0.6689517664856525,0.6853840531166835,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,140,2,19:42,1182,1782,Arkansas Offensive Rebound.,33,28,5,0,0.6689517664856525,0.6853840531166835,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,141,2,19:30,1170,1770,Jaylen Barford made Three Point Jumper.,33,31,2,12,0.5593416174052871,0.577714870019451,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,142,2,19:06,1146,1746,Yante Maten missed Jumper.,33,31,2,24,0.5604183332352948,0.5786497377703532,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,143,2,19:06,1146,1746,Georgia Offensive Rebound.,33,31,2,0,0.5604183332352948,0.5786497377703532,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,144,2,18:47,1127,1727,William Jackson II made Three Point Jumper. Assisted by Derek Ogbeide.,36,31,5,19,0.6740736574420061,0.6901065974524085,4,4,-0.6,NA,NA,Georgia,made,William Jackson II,Derek Ogbeide,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,145,2,18:17,1097,1697,Jaylen Barford made Layup.,36,33,3,30,0.6021231898243737,0.6195411162458534,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,146,2,17:47,1067,1667,Derek Ogbeide missed Jumper.,36,33,3,30,0.604088179316666,0.6213159470489006,4,4,-0.6,NA,NA,Georgia,missed,Derek Ogbeide,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,147,2,17:47,1067,1667,Adrio Bailey Defensive Rebound.,36,33,3,0,0.604088179316666,0.6213159470489006,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,148,2,17:37,1057,1657,Darious Hall made Jumper.,36,35,1,10,0.5233668794905214,0.5413847675952427,4,4,-0.6,NA,NA,Arkansas,made,Darious Hall,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,149,2,17:06,1026,1626,Rayshaun Hammonds missed Three Point Jumper.,36,35,1,31,0.5242566491931281,0.5420946392995846,4,4,-0.6,NA,NA,Georgia,missed,Rayshaun Hammonds,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,150,2,17:06,1026,1626,Yante Maten Offensive Rebound.,36,35,1,0,0.5242566491931281,0.5420946392995846,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,151,2,16:48,1008,1608,Juwan Parker missed Jumper.,36,35,1,18,0.5248073974029251,0.5425390898677398,4,4,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,152,2,16:48,1008,1608,Yante Maten Offensive Rebound.,36,35,1,0,0.5248073974029251,0.5425390898677398,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,153,2,16:41,1001,1601,Foul on Anton Beard.,36,35,1,7,0.5250295199675327,0.5427194380586634,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,154,2,16:41,1001,1601,Juwan Parker made Free Throw.,37,35,2,0,0.5674604305666614,0.5848197090733765,4,4,-0.6,NA,NA,Georgia,made,Juwan Parker,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,155,2,16:21,981,1581,Jaylen Barford made Three Point Jumper.,37,38,-1,20,0.4392773215001538,0.4567393838479903,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,156,2,15:57,957,1557,Yante Maten missed Three Point Jumper.,37,38,-1,24,0.43874108833379,0.4560572126441647,4,4,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,157,2,15:57,957,1557,Rayshaun Hammonds Offensive Rebound.,37,38,-1,0,0.43874108833379,0.4560572126441647,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,158,2,15:53,953,1553,Juwan Parker made Jumper. Assisted by Rayshaun Hammonds.,39,38,1,4,0.5266508016291719,0.5440503450214746,4,4,-0.6,NA,NA,Georgia,made,Juwan Parker,Rayshaun Hammonds,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,159,2,15:32,932,1532,Darious Hall Turnover.,39,38,1,21,0.5273000368511495,0.5445809223692546,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,160,2,15:31,931,1531,Juwan Parker Steal.,39,38,1,1,0.5273295450867831,0.5446049492733727,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,161,2,15:23,923,1523,Foul on Adrio Bailey.,39,38,1,8,0.5275618024562599,0.5447938289415208,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,162,2,15:23,923,1523,Official TV Timeout,39,38,1,0,0.5275618024562599,0.5447938289415208,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,163,2,15:08,908,1508,Yante Maten Turnover.,39,38,1,15,0.5279820962197648,0.5451347477520339,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,164,2,15:07,907,1507,Dustin Thomas Steal.,39,38,1,1,0.5280095533011487,0.5451569896979659,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,165,2,15:04,904,1504,Daryl Macon made Layup.,39,40,-1,3,0.437751128809205,0.4547765731904494,4,4,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,166,2,14:47,887,1487,Juwan Parker missed Three Point Jumper.,39,40,-1,17,0.43746751551917884,0.4544059051821551,4,4,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,167,2,14:47,887,1487,Darious Hall Defensive Rebound.,39,40,-1,0,0.43746751551917884,0.4544059051821551,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,168,2,14:43,883,1483,Daryl Macon missed Three Point Jumper.,39,40,-1,4,0.43740134602455627,0.4543194548356287,4,4,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,169,2,14:43,883,1483,Derek Ogbeide Defensive Rebound.,39,40,-1,0,0.43740134602455627,0.4543194548356287,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,170,2,14:27,867,1467,Foul on Daryl Macon.,39,40,-1,16,0.4371353274023968,0.45397263950946587,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,171,2,14:27,867,1467,Derek Ogbeide missed Free Throw.,39,40,-1,0,0.4371353274023968,0.45397263950946587,4,4,-0.6,NA,NA,Georgia,missed,Derek Ogbeide,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,172,2,14:27,867,1467,Georgia Deadball Team Rebound.,39,40,-1,0,0.4371353274023968,0.45397263950946587,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,173,2,14:27,867,1467,Derek Ogbeide made Free Throw.,40,40,0,0,0.48296553129640374,0.5,4,4,-0.6,NA,NA,Georgia,made,Derek Ogbeide,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,174,2,14:17,857,1457,Dustin Thomas missed Jumper.,40,40,0,10,0.48301515798015976,0.5,4,4,-0.6,NA,NA,Arkansas,missed,Dustin Thomas,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,175,2,14:17,857,1457,Jordan Harris Defensive Rebound.,40,40,0,0,0.48301515798015976,0.5,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,176,2,14:01,841,1441,Jordan Harris made Jumper.,42,40,2,16,0.5759890453818156,0.592418971993739,4,4,-0.6,NA,NA,Georgia,made,Jordan Harris,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,177,2,13:34,814,1414,Dustin Thomas Turnover.,42,40,2,27,0.5774357307595022,0.5937148392902294,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,178,2,13:34,814,1414,Foul on Dustin Thomas.,42,40,2,0,0.5774357307595022,0.5937148392902294,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,179,2,13:14,794,1394,E'Torrion Wilridge missed Three Point Jumper.,42,40,2,20,0.5786331064304999,0.5947939231247045,4,4,-0.6,NA,NA,Georgia,missed,E'Torrion Wilridge,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,180,2,13:14,794,1394,Jordan Harris Offensive Rebound.,42,40,2,0,0.5786331064304999,0.5947939231247045,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,181,2,13:08,788,1388,Yante Maten made Layup. Assisted by Jordan Harris.,44,40,4,6,0.6690770197430423,0.6836362343750952,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,Jordan Harris,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,182,2,12:58,778,1378,Daryl Macon missed Three Point Jumper.,44,40,4,10,0.6702496350935172,0.6847318354861716,4,4,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,TRUE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,183,2,12:58,778,1378,Darious Hall Offensive Rebound.,44,40,4,0,0.6702496350935172,0.6847318354861716,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,184,2,12:56,776,1376,Foul on Jordan Harris.,44,40,4,2,0.6704927627241487,0.684959165207988,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,185,2,12:33,753,1353,Daryl Macon made Layup.,44,42,2,23,0.5815721858572416,0.5974636545064567,4,4,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,186,2,12:15,735,1335,Foul on C.J. Jones.,44,42,2,18,0.5831249526571438,0.5988831913549924,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,187,2,12:15,735,1335,Nicolas Claxton made Free Throw.,45,42,3,0,0.6308865277641189,0.6459355659691788,4,4,-0.6,NA,NA,Georgia,made,Nicolas Claxton,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,188,2,12:15,735,1335,Nicolas Claxton made Free Throw.,46,42,4,0,0.6762144520572542,0.6903225733635496,4,4,-0.6,NA,NA,Georgia,made,Nicolas Claxton,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,189,2,12:04,724,1324,C.J. Jones made Three Point Jumper. Assisted by Trey Thompson.,46,45,1,11,0.5343104180907855,0.5504155439561265,4,4,-0.6,NA,NA,Arkansas,made,C.J. Jones,Trey Thompson,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,190,2,11:30,690,1290,Official TV Timeout,46,45,1,34,0.5358397435429431,0.5517113325114797,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,191,2,11:30,690,1290,Georgia  Turnover.,46,45,1,0,0.5358397435429431,0.5517113325114797,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,192,2,10:59,659,1259,Jaylen Barford made Jumper.,46,47,-1,31,0.43169057262251087,0.44725241377354186,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,193,2,10:28,628,1228,Teshaun Hightower missed Jumper.,46,47,-1,31,0.4308347879754988,0.4461870074984827,4,4,-0.6,NA,NA,Georgia,missed,Teshaun Hightower,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,194,2,10:28,628,1228,Yante Maten Offensive Rebound.,46,47,-1,0,0.4308347879754988,0.4461870074984827,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,195,2,10:25,625,1225,Foul on Trey Thompson.,46,47,-1,3,0.43074506668503115,0.4460763411342768,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,196,2,10:25,625,1225,Yante Maten made Free Throw.,47,47,0,0,0.4844362353164375,0.5,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,197,2,10:25,625,1225,Yante Maten made Free Throw.,48,47,1,0,0.5384891028915129,0.5539236588657231,4,4,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,198,2,10:12,612,1212,Anton Beard made Jumper.,48,49,-1,13,0.43033395640033395,0.4455725067726458,4,4,-0.6,NA,NA,Arkansas,made,Anton Beard,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,199,2,10:12,612,1212,Foul on Derek Ogbeide.,48,49,-1,0,0.43033395640033395,0.4455725067726458,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,200,2,10:12,612,1212,Anton Beard made Free Throw.,48,50,-2,0,0.37776046921529083,0.39241977552599766,4,4,-0.6,NA,NA,Arkansas,made,Anton Beard,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,201,2,9:54,594,1194,Derek Ogbeide Turnover.,48,50,-2,18,0.37640057107990815,0.39091507225555056,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,202,2,9:52,592,1192,Trey Thompson Steal.,48,50,-2,2,0.37623654977393944,0.3907343014424225,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,203,2,9:33,573,1173,Jaylen Barford missed Three Point Jumper.,48,50,-2,19,0.37452396488578676,0.38885479418772134,4,4,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,204,2,9:33,573,1173,Yante Maten Defensive Rebound.,48,50,-2,0,0.37452396488578676,0.38885479418772134,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,205,2,9:12,552,1152,Derek Ogbeide made Dunk. Assisted by William Jackson II.,50,50,0,21,0.48500203172584483,0.5,4,4,-0.6,NA,NA,Georgia,made,Derek Ogbeide,William Jackson II,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,206,2,8:46,526,1126,Dustin Thomas made Jumper.,50,52,-2,26,0.36947767853655317,0.3833494514761642,4,4,-0.6,NA,NA,Arkansas,made,Dustin Thomas,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,207,2,8:21,501,1101,Jordan Harris Turnover.,50,52,-2,25,0.36730103898584726,0.3809435396374109,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,208,2,8:20,500,1100,Dustin Thomas Steal.,50,52,-2,1,0.36721597566161823,0.38084932690276707,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,209,2,8:17,497,1097,Jaylen Barford made Layup.,50,54,-4,3,0.2626130711517848,0.27402474996250736,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,210,2,7:59,479,1079,Derek Ogbeide Turnover.,50,54,-4,18,0.25979528893206916,0.27100768117382906,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,211,2,7:55,475,1075,Jaylen Barford Steal.,50,54,-4,4,0.25911609422816234,0.270281987096458,4,4,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,212,2,7:45,465,1065,Jaylen Barford made Layup. Assisted by Trey Thompson.,50,56,-6,10,0.17341139627779292,0.18173626226231474,4,4,-0.6,NA,NA,Arkansas,made,Jaylen Barford,Trey Thompson,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,213,2,7:38,458,1058,Georgia  Timeout,50,56,-6,7,0.17180976321988115,0.18003550938319834,4,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,214,2,7:25,445,1045,Nicolas Claxton missed Jumper.,50,56,-6,13,0.1684502650902748,0.17647437075653943,4,3,-0.6,NA,NA,Georgia,missed,Nicolas Claxton,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,215,2,7:25,445,1045,Trey Thompson Block.,50,56,-6,0,0.1684502650902748,0.17647437075653943,4,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,216,2,7:23,443,1043,Nicolas Claxton Offensive Rebound.,50,56,-6,2,0.16788308159679213,0.17587386777448194,4,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,217,2,7:17,437,1037,William Jackson II made Three Point Jumper. Assisted by Juwan Parker.,53,56,-3,6,0.302644698102497,0.3145695781881577,4,3,-0.6,NA,NA,Georgia,made,William Jackson II,Juwan Parker,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,218,2,6:46,406,1006,Jaylen Barford missed Three Point Jumper.,53,56,-3,31,0.2953242030649141,0.30678065574754415,4,3,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,TRUE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,219,2,6:46,406,1006,Jaylen Barford Offensive Rebound.,53,56,-3,0,0.2953242030649141,0.30678065574754415,4,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,220,2,6:42,402,1002,Arkansas  Timeout,53,56,-3,4,0.2944520681076643,0.30584733394245506,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,221,2,6:31,391,991,Jaylen Barford missed Jumper.,53,56,-3,11,0.29207985623779814,0.3033049217216146,3,3,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,222,2,6:31,391,991,Yante Maten Block.,53,56,-3,0,0.29207985623779814,0.3033049217216146,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,223,2,6:26,386,986,Juwan Parker Defensive Rebound.,53,56,-3,5,0.29099755381175985,0.30214397483472033,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,224,2,5:58,358,958,Georgia  Turnover.,53,56,-3,28,0.28447482712884337,0.2951575183400645,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,225,2,5:45,345,945,Dustin Thomas Turnover.,53,56,-3,13,0.280937076140194,0.2913860147553117,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,226,2,5:45,345,945,Foul on Dustin Thomas.,53,56,-3,0,0.280937076140194,0.2913860147553117,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,227,2,5:34,334,934,Yante Maten missed Jumper.,53,56,-3,11,0.27756056408470503,0.28779987347357977,3,3,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,228,2,5:34,334,934,Trey Thompson Defensive Rebound.,53,56,-3,0,0.27756056408470503,0.28779987347357977,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,229,2,5:13,313,913,Foul on William Jackson II.,53,56,-3,21,0.2698716915283086,0.2796750370432294,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,230,2,5:13,313,913,Daryl Macon made Free Throw.,53,57,-4,0,0.21238115910656824,0.220727456858615,3,3,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,231,2,5:13,313,913,Daryl Macon made Free Throw.,53,58,-5,0,0.16438047009434273,0.17125055306940432,3,3,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,232,2,4:54,294,894,Foul on Daniel Gafford.,53,58,-5,19,0.15841576351962158,0.164920020629376,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,233,2,4:54,294,894,Yante Maten made Free Throw.,54,58,-4,0,0.20658249522435837,0.2145601944707063,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,234,2,4:54,294,894,Yante Maten made Free Throw.,55,58,-3,0,0.2647866403501465,0.2742351483408408,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,235,2,4:43,283,883,Foul on William Jackson II.,55,58,-3,11,0.26482919159293344,0.2741414935120315,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,236,2,4:34,274,874,Daryl Macon Turnover.,55,58,-3,9,0.2659028186831024,0.2751260366983947,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,237,2,4:33,273,873,William Jackson II Steal.,55,58,-3,1,0.2660612934070625,0.27527537501855837,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,238,2,4:29,269,869,Yante Maten made Three Point Jumper. Assisted by William Jackson II.,58,58,0,4,0.48839552039817,0.5,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,William Jackson II,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,239,2,3:55,235,835,Daryl Macon Turnover.,58,58,0,34,0.48895365019952436,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,240,2,3:55,235,835,Official TV Timeout,58,58,0,0,0.48895365019952436,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,241,2,3:33,213,813,Juwan Parker made Jumper.,60,58,2,22,0.6462302528925051,0.6559090884581229,3,3,-0.6,NA,NA,Georgia,made,Juwan Parker,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,242,2,3:03,183,783,Darious Hall missed Jumper.,60,58,2,30,0.6678985923912447,0.6767470652547874,3,3,-0.6,NA,NA,Arkansas,missed,Darious Hall,NA,FALSE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,243,2,3:03,183,783,Juwan Parker Block.,60,58,2,0,0.6678985923912447,0.6767470652547874,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,244,2,3:02,182,782,Arkansas Offensive Rebound.,60,58,2,1,0.668849918192034,0.6776664700342541,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,245,2,2:58,178,778,Arkansas  Turnover.,60,58,2,4,0.6726649906985733,0.6813532424303403,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,246,2,2:58,178,778,Georgia  Timeout,60,58,2,0,0.6726649906985733,0.6813532424303403,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,247,2,2:42,162,762,Foul on Dustin Thomas.,60,58,2,16,0.6883043586343037,0.6964664063362844,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,248,2,2:42,162,762,Yante Maten missed Free Throw.,60,58,2,0,0.6883043586343037,0.6964664063362844,3,2,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,249,2,2:42,162,762,Georgia Deadball Team Rebound.,60,58,2,0,0.6883043586343037,0.6964664063362844,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,250,2,2:42,162,762,Yante Maten made Free Throw.,61,58,3,0,0.7698505549677463,0.7765703958326977,3,2,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,251,2,2:28,148,748,Foul on Yante Maten.,61,58,3,14,0.7875844585187584,0.7937164392269511,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,252,2,2:14,134,734,Foul on Nicolas Claxton.,61,58,3,14,0.8063170054663141,0.8118360377452054,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,253,2,1:54,114,714,Daryl Macon made Three Point Jumper. Assisted by Anton Beard.,61,61,0,20,0.4915600248986018,0.5,3,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,Anton Beard,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,254,2,1:23,83,683,Yante Maten Turnover.,61,61,0,31,0.4923764317180962,0.5,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,255,2,0:57,57,657,Jaylen Barford missed Jumper.,61,61,0,26,0.4931077776067116,0.5,3,2,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,256,2,0:57,57,657,Anton Beard Offensive Rebound.,61,61,0,0,0.4931077776067116,0.5,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,257,2,0:46,46,646,Arkansas  Timeout,61,61,0,11,0.4934303061128044,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,258,2,0:28,28,628,Anton Beard made Jumper.,61,63,-2,18,0.12003677117441167,0.12260532155563192,2,2,-0.6,NA,NA,Arkansas,made,Anton Beard,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,259,2,0:22,22,622,Georgia  Timeout,61,63,-2,6,0.11222166830361957,0.11456910423030577,2,1,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,260,2,0:05,5,605,Foul on Daniel Gafford.,61,63,-2,17,0.09108317495395948,0.09285130094975595,2,1,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,261,2,0:05,5,605,Jordan Harris made Free Throw.,62,63,-1,0,0.23851705705226312,0.2423839768081326,2,1,-0.6,NA,NA,Georgia,made,Jordan Harris,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,262,2,0:05,5,605,Jordan Harris made Free Throw.,63,63,0,0,0.4947068464620281,0.5,2,1,-0.6,NA,NA,Georgia,made,Jordan Harris,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,263,2,0:05,5,605,Arkansas  Timeout,63,63,0,0,0.4947068464620281,0.5,1,1,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,264,2,0:00,600,600,End of 2nd half,63,63,0,5,0.48461344141219603,0.5,1,1,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,NA
+400987329,2018-01-23,Georgia,Arkansas,265,3,5:00,600,600,PLAY,63,63,0,0,0.48461344141219603,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,266,3,4:30,270,570,Anton Beard missed Three Point Jumper.,63,63,0,30,0.48837970302877126,0.5,2,2,-0.6,NA,NA,Arkansas,missed,Anton Beard,NA,TRUE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,267,3,4:30,270,570,Trey Thompson Offensive Rebound.,63,63,0,0,0.48837970302877126,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,268,3,4:27,267,567,Foul on Nicolas Claxton.,63,63,0,3,0.48842721917502957,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,269,3,4:27,267,567,Trey Thompson made Free Throw.,63,64,-1,0,0.40919390590387955,0.4204322222943676,2,2,-0.6,NA,NA,Arkansas,made,Trey Thompson,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,270,3,4:27,267,567,Trey Thompson missed Free Throw.,63,64,-1,0,0.40919390590387955,0.4204322222943676,2,2,-0.6,NA,NA,Arkansas,missed,Trey Thompson,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,271,3,4:27,267,567,Jordan Harris Defensive Rebound.,63,64,-1,0,0.40919390590387955,0.4204322222943676,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,272,3,4:03,243,543,Nicolas Claxton made Jumper. Assisted by Yante Maten.,65,64,1,24,0.5670820259721621,0.5780302491476356,2,2,-0.6,NA,NA,Georgia,made,Nicolas Claxton,Yante Maten,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,273,3,3:46,226,526,Daryl Macon missed Three Point Jumper.,65,64,1,17,0.5675969679609792,0.5782551530810314,2,2,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,274,3,3:46,226,526,Yante Maten Defensive Rebound.,65,64,1,0,0.5675969679609792,0.5782551530810314,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,275,3,3:20,200,500,Foul on Daniel Gafford.,65,64,1,26,0.5733517918255354,0.5834937142085947,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,276,3,3:20,200,500,Yante Maten missed Free Throw.,65,64,1,0,0.5733517918255354,0.5834937142085947,2,2,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,277,3,3:20,200,500,Georgia Deadball Team Rebound.,65,64,1,0,0.5733517918255354,0.5834937142085947,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,278,3,3:20,200,500,Yante Maten made Free Throw.,66,64,2,0,0.6530950367677186,0.6624573378400163,2,2,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,279,3,2:55,175,475,Daryl Macon missed Three Point Jumper.,66,64,2,25,0.6755422573686166,0.6841335590007169,2,2,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,TRUE,FALSE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,280,3,2:55,175,475,Anton Beard Offensive Rebound.,66,64,2,0,0.6755422573686166,0.6841335590007169,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,281,3,2:28,148,448,Foul on Jordan Harris.,66,64,2,27,0.7029255030497609,0.7106033908522066,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,282,3,2:28,148,448,Daryl Macon made Free Throw.,66,65,1,0,0.6015936608339245,0.6104390648438671,2,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,283,3,2:28,148,448,Daryl Macon made Free Throw.,66,66,0,0,0.4907389640724791,0.5,2,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,284,3,2:28,148,448,Juwan Parker missed Jumper.,66,66,0,0,0.4907389640724791,0.5,2,2,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,285,3,2:28,148,448,Anton Beard Defensive Rebound.,66,66,0,0,0.4907389640724791,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,286,3,1:56,116,416,Trey Thompson Turnover.,66,66,0,32,0.49150964518713036,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,287,3,1:55,115,415,William Jackson II Turnover.,66,66,0,1,0.49153479994237875,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,288,3,1:32,92,392,Daryl Macon made Three Point Jumper. Assisted by Anton Beard.,66,69,-3,23,0.1240498607975066,0.12750994851502348,2,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,Anton Beard,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,289,3,1:06,66,366,Nicolas Claxton made Layup. Assisted by William Jackson II.,68,69,-1,26,0.3113551916563006,0.31752090473724864,2,2,-0.6,NA,NA,Georgia,made,Nicolas Claxton,William Jackson II,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,290,3,1:06,66,366,Foul on Anton Beard.,68,69,-1,0,0.3113551916563006,0.31752090473724864,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,291,3,1:06,66,366,Nicolas Claxton missed Free Throw.,68,69,-1,0,0.3113551916563006,0.31752090473724864,2,2,-0.6,NA,NA,Georgia,missed,Nicolas Claxton,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,292,3,1:06,66,366,Dustin Thomas Defensive Rebound.,68,69,-1,0,0.3113551916563006,0.31752090473724864,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,293,3,0:38,38,338,Daryl Macon missed Layup.,68,69,-1,28,0.2794437228597096,0.2845703617047412,2,2,-0.6,NA,NA,Arkansas,missed,Daryl Macon,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,294,3,0:38,38,338,Yante Maten Block.,68,69,-1,0,0.2794437228597096,0.2845703617047412,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,295,3,0:37,37,337,William Jackson II Defensive Rebound.,68,69,-1,1,0.27824548276115807,0.28333415142130375,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,296,3,0:35,35,335,Foul on Jaylen Barford.,68,69,-1,2,0.2758403440263357,0.2808529834261258,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,297,3,0:35,35,335,Jordan Harris missed Free Throw.,68,69,-1,0,0.2758403440263357,0.2808529834261258,2,2,-0.6,NA,NA,Georgia,missed,Jordan Harris,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,298,3,0:35,35,335,Georgia Deadball Team Rebound.,68,69,-1,0,0.2758403440263357,0.2808529834261258,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,299,3,0:35,35,335,Jordan Harris made Free Throw.,69,69,0,0,0.4937615277589688,0.5,2,2,-0.6,NA,NA,Georgia,made,Jordan Harris,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,300,3,0:09,9,309,Jaylen Barford missed Layup.,69,69,0,26,0.49457682702164024,0.5,2,2,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,301,3,0:09,9,309,Nicolas Claxton Block.,69,69,0,0,0.49457682702164024,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,302,3,0:07,7,307,William Jackson II Defensive Rebound.,69,69,0,2,0.49464170179537154,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,303,3,0:00,300,300,End of 1st overtime,69,69,0,7,0.487908952406871,0.5,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,NA
+400987329,2018-01-23,Georgia,Arkansas,304,4,5:00,300,300,PLAY,69,69,0,0,0.487908952406871,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Georgia
+400987329,2018-01-23,Georgia,Arkansas,305,4,4:33,273,273,Juwan Parker Turnover.,69,69,0,27,0.48833236455521845,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,306,4,4:32,272,272,Daniel Gafford Steal.,69,69,0,1,0.48834812631074354,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,307,4,4:18,258,258,Daryl Macon Turnover.,69,69,0,14,0.4885711585885193,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,308,4,4:16,256,256,William Jackson II Turnover.,69,69,0,2,0.48860349025149635,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,309,4,3:53,233,233,Trey Thompson missed Jumper.,69,69,0,23,0.4889882463647568,0.5,3,3,-0.6,NA,NA,Arkansas,missed,Trey Thompson,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,310,4,3:53,233,233,Juwan Parker Defensive Rebound.,69,69,0,0,0.4889882463647568,0.5,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,311,4,3:20,200,200,Yante Maten made Layup.,71,69,2,33,0.6530950367677186,0.6624573378400163,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,312,4,2:50,170,170,Daryl Macon made Three Point Jumper.,71,72,-1,30,0.3926180693400768,0.4019646058359616,3,3,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,313,4,2:14,134,134,William Jackson II missed Three Point Jumper.,71,72,-1,36,0.37213728606348534,0.3805231713569795,3,3,-0.6,NA,NA,Georgia,missed,William Jackson II,NA,TRUE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,314,4,2:14,134,134,Yante Maten Offensive Rebound.,71,72,-1,0,0.37213728606348534,0.3805231713569795,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,315,4,2:13,133,133,Foul on Trey Thompson.,71,72,-1,1,0.3714761898869012,0.37983359679172013,3,3,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,316,4,2:13,133,133,Yante Maten made Free Throw.,72,72,0,0,0.49109230247968383,0.5,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,317,4,2:13,133,133,Yante Maten made Free Throw.,73,72,1,0,0.6117371220187234,0.6201664032082799,3,3,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,318,4,1:45,105,105,Daryl Macon made Three Point Jumper.,73,75,-2,28,0.2306396709680287,0.23651876591985854,3,3,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,319,4,1:24,84,84,William Jackson II made Three Point Jumper. Assisted by Yante Maten.,76,75,1,21,0.6562201493577284,0.663091213256606,3,3,-0.6,NA,NA,Georgia,made,William Jackson II,Yante Maten,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,320,4,1:20,80,80,Georgia  Timeout,76,75,1,4,0.6604968140051458,0.6672287375267801,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,321,4,1:05,65,65,Daryl Macon made Three Point Jumper. Assisted by Anton Beard.,76,78,-2,15,0.17232216757835114,0.1764235209731079,3,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,Anton Beard,TRUE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,322,4,0:47,47,47,Juwan Parker missed Three Point Jumper.,76,78,-2,18,0.14631445590257497,0.1496427487146003,3,2,-0.6,NA,NA,Georgia,missed,Juwan Parker,NA,TRUE,FALSE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,323,4,0:47,47,47,Daryl Macon Defensive Rebound.,76,78,-2,0,0.14631445590257497,0.1496427487146003,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,324,4,0:41,41,41,Daryl Macon Turnover.,76,78,-2,6,0.13783450747069695,0.14091496018333405,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,325,4,0:41,41,41,Yante Maten Steal.,76,78,-2,0,0.13783450747069695,0.14091496018333405,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,326,4,0:41,41,41,Foul on Jaylen Barford.,76,78,-2,0,0.13783450747069695,0.14091496018333405,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,327,4,0:41,41,41,Yante Maten missed Free Throw.,76,78,-2,0,0.13783450747069695,0.14091496018333405,3,2,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,TRUE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,328,4,0:41,41,41,Georgia Deadball Team Rebound.,76,78,-2,0,0.13783450747069695,0.14091496018333405,3,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,329,4,0:41,41,41,Yante Maten made Free Throw.,77,78,-1,0,0.28301848790907946,0.2882588022936481,3,2,-0.6,NA,NA,Georgia,made,Yante Maten,NA,FALSE,TRUE,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,330,4,0:33,33,33,Arkansas  Timeout,77,78,-1,8,0.273425108120634,0.2783616315155212,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,331,4,0:14,14,14,Jaylen Barford missed Jumper.,77,78,-1,19,0.25003472344136035,0.25424668313989673,2,2,-0.6,NA,NA,Arkansas,missed,Jaylen Barford,NA,FALSE,FALSE,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,332,4,0:14,14,14,Yante Maten Defensive Rebound.,77,78,-1,0,0.25003472344136035,0.25424668313989673,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Georgia
+400987329,2018-01-23,Georgia,Arkansas,333,4,0:02,2,2,Yante Maten missed Jumper.,77,78,-1,12,0.23465687789734435,0.23840948742742968,2,2,-0.6,NA,NA,Georgia,missed,Yante Maten,NA,FALSE,FALSE,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,334,4,0:02,2,2,Trey Thompson Block.,77,78,-1,0,0.23465687789734435,0.23840948742742968,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,335,4,0:02,2,2,Yante Maten Offensive Rebound.,77,78,-1,0,0.23465687789734435,0.23840948742742968,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Georgia
+400987329,2018-01-23,Georgia,Arkansas,336,4,0:02,2,2,Yante Maten Turnover.,77,78,-1,0,0.23465687789734435,0.23840948742742968,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,337,4,0:01,1,1,Foul on Teshaun Hightower.,77,78,-1,1,0.2333707288529091,0.23708537434148508,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,338,4,0:01,1,1,Daryl Macon made Free Throw.,77,79,-2,0,0.08642402306284715,0.08806836377885878,2,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,Arkansas
+400987329,2018-01-23,Georgia,Arkansas,339,4,0:01,1,1,Daryl Macon made Free Throw.,77,80,-3,0,0.028558492995806664,0.029136972928700006,2,2,-0.6,NA,NA,Arkansas,made,Daryl Macon,NA,FALSE,TRUE,Arkansas,NA
+400987329,2018-01-23,Georgia,Arkansas,340,4,0:00,0,0,End of Game,77,77,0,1,2.0190288453322155e-9,2.0611536181902033e-9,2,2,-0.6,NA,NA,NA,NA,NA,NA,NA,NA,Arkansas,NA
