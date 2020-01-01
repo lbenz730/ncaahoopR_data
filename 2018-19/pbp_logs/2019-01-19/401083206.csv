@@ -1,0 +1,347 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401083206,2019-01-19,Butler,St. John's,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,St. John's
+401083206,2019-01-19,Butler,St. John's,2,1,19:39,2379,2379,Foul on Aaron Thompson.,0,0,0,21,0.690073522061034,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,3,1,19:39,2379,2379,Mustapha Heron missed Free Throw.,0,0,0,0,0.690073522061034,0.5,4,4,5,NA,NA,St. John's,missed,Mustapha Heron,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,4,1,19:39,2379,2379,St. John's Offensive Rebound.,0,0,0,0,0.690073522061034,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,5,1,19:39,2379,2379,Mustapha Heron made Free Throw.,0,1,-1,0,0.6706860048029242,0.47772134720514375,4,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,6,1,19:19,2359,2359,Sean McDermott made Three Point Jumper. Assisted by Henry Baddley.,3,1,2,20,0.726886519026568,0.5448965882700816,4,4,5,NA,NA,Butler,made,Sean McDermott,Henry Baddley,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,7,1,19:00,2340,2340,Mustapha Heron missed Three Point Jumper.,3,1,2,19,0.726896866140744,0.5453077293526352,4,4,5,NA,NA,St. John's,missed,Mustapha Heron,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,8,1,18:56,2336,2336,Kamar Baldwin Defensive Rebound.,3,1,2,4,0.726898583272499,0.5453948652273468,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,9,1,18:50,2330,2330,Foul on Marvin Clark II.,3,1,2,6,0.7269008382474272,0.5455259319330696,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,10,1,18:33,2313,2313,Aaron Thompson missed Three Point Jumper.,3,1,2,17,0.726905016339961,0.5458995598090786,4,4,5,NA,NA,Butler,missed,Aaron Thompson,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,11,1,18:29,2309,2309,LJ Figueroa Defensive Rebound.,3,1,2,4,0.7269054984340726,0.5459879404978363,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,12,1,18:15,2295,2295,Justin Simon missed Layup.,3,1,2,14,0.7269055817250317,0.5462986002811664,4,4,5,NA,NA,St. John's,missed,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,13,1,18:12,2292,2292,Joey Brunk Defensive Rebound.,3,1,2,3,0.7269052626706346,0.546365429477102,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,14,1,18:00,2280,2280,Kamar Baldwin made Three Point Jumper. Assisted by Aaron Thompson.,6,1,5,12,0.7789541331296093,0.614838153307917,4,4,5,NA,NA,Butler,made,Kamar Baldwin,Aaron Thompson,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,15,1,17:42,2262,2262,Marvin Clark II made Three Point Jumper. Assisted by Justin Simon.,6,4,2,18,0.726894998805566,0.547038345861369,4,4,5,NA,NA,St. John's,made,Marvin Clark II,Justin Simon,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,16,1,17:25,2245,2245,Henry Baddley Turnover.,6,4,2,17,0.7268830157602296,0.5474230472968541,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,17,1,17:11,2231,2231,Mustapha Heron missed Layup.,6,4,2,14,0.7268694938944686,0.5477414654678265,4,4,5,NA,NA,St. John's,missed,Mustapha Heron,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,18,1,17:01,2221,2221,Mustapha Heron Offensive Rebound.,6,4,2,10,0.7268577020884612,0.5479697085553288,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,19,1,17:01,2221,2221,Mustapha Heron made Layup.,6,6,0,0,0.6870292244433519,0.5,4,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,20,1,16:44,2204,2204,Aaron Thompson Turnover.,6,6,0,17,0.6866647102293244,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,21,1,16:32,2192,2192,Foul on Aaron Thompson.,6,6,0,12,0.6864027382548646,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,22,1,16:25,2185,2185,Marvin Clark II missed Layup.,6,6,0,7,0.6862481117133072,0.5,4,4,5,NA,NA,St. John's,missed,Marvin Clark II,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,23,1,16:22,2182,2182,Jordan Tucker Defensive Rebound.,6,6,0,3,0.686181431489425,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,24,1,16:03,2163,2163,Joey Brunk Turnover.,6,6,0,19,0.6857533656965894,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,25,1,15:54,2154,2154,Marvin Clark II missed Three Point Jumper.,6,6,0,9,0.6855472425072644,0.5,4,4,5,NA,NA,St. John's,missed,Marvin Clark II,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,26,1,15:48,2148,2148,Sean McDermott Defensive Rebound.,6,6,0,6,0.6854086566846611,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,27,1,15:41,2141,2141,Kamar Baldwin made Jumper.,8,6,2,7,0.7266931629428539,0.5498150985748921,4,4,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,28,1,15:22,2122,2122,Mustapha Heron made Layup.,8,8,0,19,0.6847974120573124,0.5,4,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,29,1,15:00,2100,2100,Foul on LJ Figueroa.,8,8,0,22,0.6842668061494085,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,30,1,15:00,2100,2100,Official TV Timeout,8,8,0,0,0.6842668061494085,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,31,1,14:58,2098,2098,Jordan Tucker missed Three Point Jumper.,8,8,0,2,0.6842179681914318,0.5,4,4,5,NA,NA,Butler,missed,Jordan Tucker,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,32,1,14:56,2096,2096,Mustapha Heron Defensive Rebound.,8,8,0,2,0.684169030749817,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,33,1,14:56,2096,2096,Foul on Nate Fowler.,8,8,0,0,0.684169030749817,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,34,1,14:36,2076,2076,Mustapha Heron missed Jumper.,8,8,0,20,0.6836742199245248,0.5,4,4,5,NA,NA,St. John's,missed,Mustapha Heron,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,35,1,14:32,2072,2072,Sean McDermott Defensive Rebound.,8,8,0,4,0.6835740799562443,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,36,1,14:28,2068,2068,Kamar Baldwin missed Three Point Jumper.,8,8,0,4,0.6834735503762417,0.5,4,4,5,NA,NA,Butler,missed,Kamar Baldwin,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,37,1,14:23,2063,2063,Sedee Keita Defensive Rebound.,8,8,0,5,0.6833473424628689,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,38,1,14:20,2060,2060,LJ Figueroa missed Jumper.,8,8,0,3,0.683271327509587,0.5,4,4,5,NA,NA,St. John's,missed,LJ Figueroa,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,39,1,14:15,2055,2055,Kamar Baldwin Defensive Rebound.,8,8,0,5,0.6831441539827307,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,40,1,14:09,2049,2049,Henry Baddley missed Dunk.,8,8,0,6,0.6829907536412521,0.5,4,4,5,NA,NA,Butler,missed,Henry Baddley,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,41,1,14:02,2042,2042,Mustapha Heron Defensive Rebound.,8,8,0,7,0.6828106999034101,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,42,1,14:00,2040,2040,Foul on LJ Figueroa.,8,8,0,2,0.6827590419354261,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,43,1,14:00,2040,2040,LJ Figueroa Turnover.,8,8,0,0,0.6827590419354261,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,44,1,13:39,2019,2019,Jordan Tucker made Layup.,10,8,2,21,0.7262469425994489,0.552731330615089,4,4,5,NA,NA,Butler,made,Jordan Tucker,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,45,1,13:22,2002,2002,Shamorie Ponds missed Jumper.,10,8,2,17,0.7261706683500054,0.5531508087749818,4,4,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,46,1,13:17,1997,1997,Sean McDermott Defensive Rebound.,10,8,2,5,0.726147705253471,0.5532748836115552,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,47,1,13:13,1993,1993,Kamar Baldwin made Layup.,12,8,4,4,0.7666311250901032,0.6055460265520027,4,4,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,48,1,12:58,1978,1978,Foul on Shamorie Ponds.,12,8,4,15,0.7668388704161886,0.6062706767112735,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,49,1,12:58,1978,1978,Shamorie Ponds Turnover.,12,8,4,0,0.7668388704161886,0.6062706767112735,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,50,1,12:48,1968,1968,Nate Fowler Turnover.,12,8,4,10,0.7669776152222426,0.6067568627313638,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,51,1,12:34,1954,1954,Shamorie Ponds missed Layup.,12,8,4,14,0.7671723387454736,0.6074418039486302,4,4,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,52,1,12:30,1950,1950,Jordan Tucker Defensive Rebound.,12,8,4,4,0.7672280997299548,0.6076384392034611,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,53,1,12:18,1938,1938,Nate Fowler made Jumper. Assisted by Sean McDermott.,14,8,6,12,0.8043339698743457,0.6592206134409122,4,4,5,NA,NA,Butler,made,Nate Fowler,Sean McDermott,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,54,1,11:54,1914,1914,Mustapha Heron Turnover.,14,8,6,24,0.8050203793833447,0.6609049566389436,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,55,1,11:54,1914,1914,Official TV Timeout,14,8,6,0,0.8050203793833447,0.6609049566389436,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,56,1,11:29,1889,1889,Nate Fowler made Layup.,16,8,8,25,0.8385494329270682,0.7109872500947808,4,4,5,NA,NA,Butler,made,Nate Fowler,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,57,1,11:13,1873,1873,Shamorie Ponds made Layup. Assisted by Justin Simon.,16,10,6,16,0.8061587067535001,0.6637694246626142,4,4,5,NA,NA,St. John's,made,Shamorie Ponds,Justin Simon,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,58,1,10:51,1851,1851,Paul Jorgensen made Three Point Jumper. Assisted by Nate Fowler.,19,10,9,22,0.8547798360670317,0.7370222350866369,4,4,5,NA,NA,Butler,made,Paul Jorgensen,Nate Fowler,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,59,1,10:34,1834,1834,Foul on Nate Fowler.,19,10,9,17,0.8554773517290477,0.7385760805714994,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,60,1,10:33,1833,1833,Shamorie Ponds missed Three Point Jumper.,19,10,9,1,0.8555183502135009,0.7386675762874005,4,4,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,61,1,10:29,1829,1829,Kamar Baldwin Defensive Rebound.,19,10,9,4,0.8556823370826643,0.739033700426961,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,62,1,10:12,1812,1812,Jordan Tucker made Three Point Jumper. Assisted by Paul Jorgensen.,22,10,12,17,0.8942799837306018,0.8019833491506678,4,4,5,NA,NA,Butler,made,Jordan Tucker,Paul Jorgensen,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,63,1,9:44,1784,1784,Marvin Clark II made Three Point Jumper. Assisted by Justin Simon.,22,13,9,28,0.8575333925414313,0.7431775132984224,4,4,5,NA,NA,St. John's,made,Marvin Clark II,Justin Simon,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,64,1,9:26,1766,1766,Jordan Tucker made Layup.,24,13,11,18,0.8848487130257507,0.7874180480882538,4,4,5,NA,NA,Butler,made,Jordan Tucker,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,65,1,9:11,1751,1751,Justin Simon made Dunk.,24,15,9,15,0.8589111699558767,0.746262897785954,4,4,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,66,1,8:44,1724,1724,Paul Jorgensen missed Jumper.,24,15,9,27,0.8600615002794454,0.7488303122719923,4,4,5,NA,NA,Butler,missed,Paul Jorgensen,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,67,1,8:37,1717,1717,Sedee Keita Defensive Rebound.,24,15,9,7,0.8603640538512206,0.7495034979434424,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,68,1,8:27,1707,1707,Foul on Paul Jorgensen.,24,15,9,10,0.8607997861889797,0.750471159440458,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,69,1,8:27,1707,1707,Mustapha Heron missed Free Throw.,24,15,9,0,0.8607997861889797,0.750471159440458,4,4,5,NA,NA,St. John's,missed,Mustapha Heron,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,70,1,8:27,1707,1707,St. John's Offensive Rebound.,24,15,9,0,0.8607997861889797,0.750471159440458,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,71,1,8:27,1707,1707,Mustapha Heron made Free Throw.,24,16,8,0,0.8454826478886046,0.7268659369540443,4,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,72,1,8:13,1693,1693,Jordan Tucker made Three Point Jumper. Assisted by Paul Jorgensen.,27,16,11,14,0.8882940119691097,0.7949070510891951,4,4,5,NA,NA,Butler,made,Jordan Tucker,Paul Jorgensen,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,73,1,7:53,1673,1673,Sedee Keita missed Jumper.,27,16,11,20,0.8892472297267332,0.7969801177507578,4,4,5,NA,NA,St. John's,missed,Sedee Keita,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,74,1,7:50,1670,1670,Joey Brunk Defensive Rebound.,27,16,11,3,0.8893857919426236,0.7972848094697215,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,75,1,7:47,1667,1667,Paul Jorgensen made Layup.,29,16,13,3,0.9117510948416936,0.8348794748564207,4,4,5,NA,NA,Butler,made,Paul Jorgensen,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,76,1,7:46,1666,1666,Official TV Timeout,29,16,13,1,0.9117975535398285,0.8349811206509304,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,77,1,7:46,1666,1666,St. John's  Timeout,29,16,13,0,0.9117975535398285,0.8349811206509304,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,78,1,7:46,1666,1666,Official TV Timeout,29,16,13,0,0.9117975535398285,0.8349811206509304,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,79,1,7:32,1652,1652,Shamorie Ponds made Three Point Jumper. Assisted by Justin Simon.,29,19,10,14,0.8773141143104494,0.7781756459524095,3,4,5,NA,NA,St. John's,made,Shamorie Ponds,Justin Simon,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,80,1,7:11,1631,1631,Foul on Joey Brunk.,29,19,10,21,0.8781891496861306,0.7801755574363958,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,81,1,7:11,1631,1631,Joey Brunk Turnover.,29,19,10,0,0.8781891496861306,0.7801755574363958,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,82,1,6:58,1618,1618,LJ Figueroa missed Jumper.,29,19,10,13,0.8787159482007625,0.7813943710422662,3,4,5,NA,NA,St. John's,missed,LJ Figueroa,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,83,1,6:52,1612,1612,Joey Brunk Defensive Rebound.,29,19,10,6,0.8789562872672817,0.7819534104465748,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,84,1,6:50,1610,1610,Jordan Tucker missed Three Point Jumper.,29,19,10,2,0.8790360833178636,0.7821393739694693,3,4,5,NA,NA,Butler,missed,Jordan Tucker,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,85,1,6:45,1605,1605,Marvin Clark II Defensive Rebound.,29,19,10,5,0.8792349819974196,0.7826035886680968,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,86,1,6:41,1601,1601,Shamorie Ponds made Layup.,29,21,8,4,0.8494230552172357,0.7362304950717292,3,4,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,87,1,6:15,1575,1575,Jordan Tucker missed Layup.,29,21,8,26,0.8502987639588074,0.7384329499885797,3,4,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,88,1,6:15,1575,1575,Mustapha Heron Block.,29,21,8,0,0.8502987639588074,0.7384329499885797,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,89,1,6:15,1575,1575,St. John's Defensive Rebound.,29,21,8,0,0.8502987639588074,0.7384329499885797,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,90,1,6:02,1562,1562,Foul on Mustapha Heron.,29,21,8,13,0.8507384002387713,0.7395399570388529,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,91,1,6:02,1562,1562,Mustapha Heron Turnover.,29,21,8,0,0.8507384002387713,0.7395399570388529,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,92,1,5:37,1537,1537,Sean McDermott made Layup.,31,21,10,25,0.8819376366892795,0.7889330409016105,3,4,5,NA,NA,Butler,made,Sean McDermott,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,93,1,5:19,1519,1519,Shamorie Ponds missed Three Point Jumper.,31,21,10,18,0.8826823277915273,0.7906555782239151,3,4,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,94,1,5:15,1515,1515,Aaron Thompson Defensive Rebound.,31,21,10,4,0.8828511184573463,0.7910433297355851,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,95,1,5:12,1512,1512,Kamar Baldwin missed Three Point Jumper.,31,21,10,3,0.8829786051682776,0.7913354747666074,3,4,5,NA,NA,Butler,missed,Kamar Baldwin,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,96,1,5:08,1508,1508,Justin Simon Defensive Rebound.,31,21,10,4,0.8831498401936376,0.7917268615822456,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,97,1,4:56,1496,1496,Shamorie Ponds missed Three Point Jumper.,31,21,10,12,0.8836728531253278,0.7929147729437706,3,4,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,98,1,4:52,1492,1492,Sean McDermott Defensive Rebound.,31,21,10,4,0.8838505428715464,0.793315672956223,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,99,1,4:26,1466,1466,Aaron Thompson missed Layup.,31,21,10,26,0.8850526407436989,0.7959902681704991,3,4,5,NA,NA,Butler,missed,Aaron Thompson,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,100,1,4:26,1466,1466,Marvin Clark II Block.,31,21,10,0,0.8850526407436989,0.7959902681704991,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,101,1,4:20,1460,1460,Mustapha Heron Defensive Rebound.,31,21,10,6,0.8853429373247661,0.7966261897036977,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,102,1,4:19,1459,1459,LJ Figueroa missed Layup.,31,21,10,1,0.8853918324021838,0.7967329171702421,3,4,5,NA,NA,St. John's,missed,LJ Figueroa,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,103,1,4:19,1459,1459,Justin Simon Offensive Rebound.,31,21,10,0,0.8853918324021838,0.7967329171702421,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,104,1,4:18,1458,1458,LJ Figueroa missed Layup.,31,21,10,1,0.8854408767385913,0.7968398601971909,3,4,5,NA,NA,St. John's,missed,LJ Figueroa,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,105,1,4:18,1458,1458,Justin Simon Offensive Rebound.,31,21,10,0,0.8854408767385913,0.7968398601971909,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,106,1,4:14,1454,1454,Justin Simon missed Layup.,31,21,10,4,0.8856385681561151,0.7972698175223626,3,4,5,NA,NA,St. John's,missed,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,107,1,4:14,1454,1454,Sean McDermott Defensive Rebound.,31,21,10,0,0.8856385681561151,0.7972698175223626,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,108,1,4:14,1454,1454,Sean McDermott Block.,31,21,10,0,0.8856385681561151,0.7972698175223626,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,109,1,4:07,1447,1447,Aaron Thompson Turnover.,31,21,10,7,0.8859889273782336,0.7980285194910052,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,110,1,3:53,1433,1433,Justin Simon Turnover.,31,21,10,14,0.8866682432635051,0.79951326293453,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,111,1,3:53,1433,1433,Official TV Timeout,31,21,10,0,0.8866682432635051,0.79951326293453,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,112,1,3:31,1411,1411,Henry Baddley missed Three Point Jumper.,31,21,10,22,0.8876754428038175,0.8017549516516373,3,4,5,NA,NA,Butler,missed,Henry Baddley,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,113,1,3:27,1407,1407,Marvin Clark II Defensive Rebound.,31,21,10,4,0.8878521814645688,0.8021528378817786,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,114,1,3:07,1387,1387,Foul on Nate Fowler.,31,21,10,20,0.8887143282957143,0.8041095593444757,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,115,1,3:07,1387,1387,Mustapha Heron made Free Throw.,31,22,9,0,0.8739624275472876,0.7809073821320887,3,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,116,1,3:07,1387,1387,Mustapha Heron made Free Throw.,31,23,8,0,0.857568433080572,0.7557916522608676,3,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,117,1,2:45,1365,1365,Kamar Baldwin made Layup.,33,23,10,22,0.8896361396336642,0.8062215656330927,3,4,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,118,1,2:45,1365,1365,Foul on Bryan Trimble Jr..,33,23,10,0,0.8896361396336642,0.8062215656330927,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,119,1,2:45,1365,1365,Kamar Baldwin made Free Throw.,34,23,11,0,0.902875774274523,0.8275279234911289,3,4,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,120,1,2:31,1351,1351,Justin Simon missed Jumper.,34,23,11,14,0.9034702328805986,0.8288705247287375,3,4,5,NA,NA,St. John's,missed,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,121,1,2:26,1346,1346,Sean McDermott Defensive Rebound.,34,23,11,5,0.9036828324526912,0.8293503144354074,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,122,1,2:24,1344,1344,Paul Jorgensen missed Three Point Jumper.,34,23,11,2,0.903768010806071,0.8295424200659449,3,4,5,NA,NA,Butler,missed,Paul Jorgensen,NA,TRUE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,123,1,2:21,1341,1341,Joey Brunk Offensive Rebound.,34,23,11,3,0.9038959749394528,0.8298308560513886,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,124,1,2:20,1340,1340,Joey Brunk made Layup.,36,23,13,1,0.9262167699527872,0.8668411002715256,3,4,5,NA,NA,Butler,made,Joey Brunk,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,125,1,2:08,1328,1328,Mustapha Heron Turnover.,36,23,13,12,0.9267243424793047,0.8679606041121324,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,126,1,2:08,1328,1328,Paul Jorgensen Steal.,36,23,13,0,0.9267243424793047,0.8679606041121324,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,127,1,2:03,1323,1323,Paul Jorgensen Turnover.,36,23,13,5,0.9269376225162125,0.8684296102493194,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,128,1,2:03,1323,1323,Shamorie Ponds Steal.,36,23,13,0,0.9269376225162125,0.8684296102493194,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,129,1,1:59,1319,1319,Foul on Sean McDermott.,36,23,13,4,0.9271092196583857,0.8688062370794275,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,130,1,1:59,1319,1319,LJ Figueroa made Free Throw.,36,24,12,0,0.916651014407913,0.8513243314039471,3,4,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,131,1,1:59,1319,1319,LJ Figueroa made Free Throw.,36,25,11,0,0.904846294990339,0.8319634691417006,3,4,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,132,1,1:36,1296,1296,Jordan Tucker made Three Point Jumper.,39,25,14,23,0.9373239251395313,0.8866317880381168,3,4,5,NA,NA,Butler,made,Jordan Tucker,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,133,1,1:15,1275,1275,Shamorie Ponds made Layup.,39,27,12,21,0.918666418230693,0.85571367335895,3,4,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,134,1,0:46,1246,1246,Jordan Tucker missed Three Point Jumper.,39,27,12,29,0.9201348822516198,0.8588198183965188,3,4,5,NA,NA,Butler,missed,Jordan Tucker,NA,TRUE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,135,1,0:42,1242,1242,Sean McDermott Offensive Rebound.,39,27,12,4,0.9203487975986681,0.8592656078746091,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,136,1,0:34,1234,1234,Butler  Timeout,39,27,12,8,0.9207858446325323,0.8601712648116048,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,137,1,0:21,1221,1221,Paul Jorgensen missed Jumper.,39,27,12,13,0.9215238115488309,0.8616853719473079,3,3,5,NA,NA,Butler,missed,Paul Jorgensen,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,138,1,0:16,1216,1216,Joey Brunk Offensive Rebound.,39,27,12,5,0.9218173140922127,0.8622824906626965,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,139,1,0:15,1215,1215,Joey Brunk missed Layup.,39,27,12,1,0.9218766835094304,0.8624029360793914,3,3,5,NA,NA,Butler,missed,Joey Brunk,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,140,1,0:12,1212,1212,Shamorie Ponds Defensive Rebound.,39,27,12,3,0.9220561519425023,0.8627663496949417,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,141,1,0:02,1202,1202,Shamorie Ponds missed Three Point Jumper.,39,27,12,10,0.9226556747852455,0.8639778792073194,3,3,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,142,1,0:00,1200,1200,Sean McDermott Defensive Rebound.,39,27,12,2,0.9227734804792999,0.8642163350891481,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,143,1,0:00,1200,1200,End of 1st half,39,27,12,0,0.9227734804792999,0.8642163350891481,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,NA
+401083206,2019-01-19,Butler,St. John's,144,2,20:00,1200,1200,PLAY,39,27,12,0,0.9227734804792999,0.8642163350891481,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Butler
+401083206,2019-01-19,Butler,St. John's,145,2,19:43,1183,1183,Joey Brunk made Dunk. Assisted by Aaron Thompson.,41,27,14,17,0.9429822805316754,0.8983485043557006,4,4,5,NA,NA,Butler,made,Joey Brunk,Aaron Thompson,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,146,2,19:29,1169,1169,Marvin Clark II made Three Point Jumper. Assisted by Shamorie Ponds.,41,30,11,14,0.912826181434689,0.848718439213864,4,4,5,NA,NA,St. John's,made,Marvin Clark II,Shamorie Ponds,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,147,2,18:57,1137,1137,Kamar Baldwin missed Three Point Jumper.,41,30,11,32,0.9145682348938914,0.852284358334731,4,4,5,NA,NA,Butler,missed,Kamar Baldwin,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,148,2,18:53,1133,1133,Mustapha Heron Defensive Rebound.,41,30,11,4,0.9147825971745613,0.8527230549945416,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,149,2,18:46,1126,1126,Mustapha Heron made Layup.,41,32,9,7,0.886742364642652,0.808737429317127,4,4,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,150,2,18:15,1095,1095,Sean McDermott missed Three Point Jumper.,41,32,9,31,0.8884078160126445,0.8121855405505901,4,4,5,NA,NA,Butler,missed,Sean McDermott,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,151,2,18:10,1090,1090,Mustapha Heron Defensive Rebound.,41,32,9,5,0.8886817921142777,0.8127489252032354,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,152,2,18:05,1085,1085,Shamorie Ponds made Layup.,41,34,7,5,0.852343030425684,0.7585332811520077,4,4,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,153,2,18:00,1080,1080,Butler  Timeout,41,34,7,5,0.8525934385529529,0.7590685661730411,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,154,2,18:00,1080,1080,Official TV Timeout,41,34,7,0,0.8525934385529529,0.7590685661730411,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,155,2,17:46,1066,1066,Jordan Tucker made Three Point Jumper. Assisted by Joey Brunk.,44,34,10,14,0.9051846548490405,0.839069630929678,4,3,5,NA,NA,Butler,made,Jordan Tucker,Joey Brunk,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,156,2,17:26,1046,1046,Mustapha Heron missed Three Point Jumper.,44,34,10,20,0.90637509917275,0.8414485687664723,4,3,5,NA,NA,St. John's,missed,Mustapha Heron,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,157,2,17:22,1042,1042,Sean McDermott Defensive Rebound.,44,34,10,4,0.9066208497182437,0.841936130666404,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,158,2,17:07,1027,1027,Kamar Baldwin made Jumper.,46,34,12,15,0.9322429956464398,0.8833125284036133,4,3,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,159,2,16:54,1014,1014,Justin Simon Turnover.,46,34,12,13,0.93304894593678,0.8848841070208175,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,160,2,16:54,1014,1014,Aaron Thompson Steal.,46,34,12,0,0.93304894593678,0.8848841070208175,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,161,2,16:50,1010,1010,Aaron Thompson missed Layup.,46,34,12,4,0.9333032591924525,0.8853776970114989,4,3,5,NA,NA,Butler,missed,Aaron Thompson,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,162,2,16:50,1010,1010,Justin Simon Block.,46,34,12,0,0.9333032591924525,0.8853776970114989,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,163,2,16:43,1003,1003,Kamar Baldwin Offensive Rebound.,46,34,12,7,0.933755890687888,0.8862535248448914,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,164,2,16:42,1002,1002,Kamar Baldwin made Layup.,48,34,14,1,0.9520887693084644,0.9165727476332134,4,3,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,165,2,16:33,993,993,Shamorie Ponds Turnover.,48,34,14,9,0.9526171316887893,0.9175926062145772,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,166,2,16:33,993,993,Kamar Baldwin Steal.,48,34,14,0,0.9526171316887893,0.9175926062145772,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,167,2,16:33,993,993,Butler  Timeout,48,34,14,0,0.9526171316887893,0.9175926062145772,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,168,2,16:27,987,987,Joey Brunk made Dunk. Assisted by Jordan Tucker.,50,34,16,6,0.9662540234203578,0.940748129680307,4,2,5,NA,NA,Butler,made,Joey Brunk,Jordan Tucker,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,169,2,16:05,965,965,Foul on Aaron Thompson.,50,34,16,22,0.9674081392604912,0.9429598709749032,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,170,2,16:05,965,965,Justin Simon made Free Throw.,50,35,15,0,0.9614033514615018,0.9327637486939393,4,2,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,171,2,16:05,965,965,Justin Simon made Free Throw.,50,36,14,0,0.9543444418534048,0.9208979257579225,4,2,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,172,2,15:54,954,954,Kamar Baldwin missed Layup.,50,36,14,11,0.9549925571919287,0.9221357937337866,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,173,2,15:49,949,949,LJ Figueroa Defensive Rebound.,50,36,14,5,0.9552711345874367,0.9226689115621386,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,174,2,15:46,946,946,LJ Figueroa missed Three Point Jumper.,50,36,14,3,0.9554339112784062,0.9229807083299407,4,2,5,NA,NA,St. John's,missed,LJ Figueroa,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,175,2,15:46,946,946,Butler Defensive Rebound.,50,36,14,0,0.9554339112784062,0.9229807083299407,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,176,2,15:45,945,945,Official TV Timeout,50,36,14,1,0.955487475438168,0.9230833556888456,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,177,2,15:44,944,944,Official TV Timeout,50,36,14,1,0.9555407014316711,0.9231853772547078,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,178,2,15:37,937,937,Paul Jorgensen made Three Point Jumper. Assisted by Jordan Tucker.,53,36,17,7,0.9736919175405268,0.9539654523544374,4,2,5,NA,NA,Butler,made,Paul Jorgensen,Jordan Tucker,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,179,2,15:09,909,909,Justin Simon missed Layup.,53,36,17,28,0.9746936734846806,0.9558923424785235,4,2,5,NA,NA,St. John's,missed,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,180,2,15:06,906,906,Paul Jorgensen Defensive Rebound.,53,36,17,3,0.9747936959646122,0.9560848237366516,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,181,2,14:38,878,878,Kamar Baldwin made Jumper.,55,36,19,28,0.9830362196667302,0.9703935601338071,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,182,2,14:16,856,856,Marvin Clark II missed Three Point Jumper.,55,36,19,22,0.983581753000309,0.9714350529014063,4,2,5,NA,NA,St. John's,missed,Marvin Clark II,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,183,2,14:13,853,853,Paul Jorgensen Defensive Rebound.,55,36,19,3,0.9836565996419265,0.9715774422730364,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,184,2,14:09,849,849,Jordan Tucker made Three Point Jumper. Assisted by Paul Jorgensen.,58,36,22,4,0.990644985183838,0.9836556759049961,4,2,5,NA,NA,Butler,made,Jordan Tucker,Paul Jorgensen,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,185,2,13:52,832,832,Foul on Jordan Tucker.,58,36,22,17,0.9909403919091582,0.9842128117158432,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,186,2,13:52,832,832,Justin Simon made Free Throw.,58,37,21,0,0.9890886571437105,0.9810123443089462,4,2,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,187,2,13:52,832,832,Justin Simon made Free Throw.,58,38,20,0,0.9868634552689125,0.9771781049293761,4,2,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,188,2,13:37,817,817,Jordan Tucker missed Three Point Jumper.,58,38,20,15,0.9872164653751838,0.9778416940901167,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,189,2,13:27,807,807,Bryan Trimble Jr. Defensive Rebound.,58,38,20,10,0.9874618536932713,0.9783007074060207,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,190,2,13:24,804,804,Greg Williams Jr. missed Three Point Jumper.,58,38,20,3,0.9875372694810985,0.9784414104817004,4,2,5,NA,NA,St. John's,missed,Greg Williams Jr.,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,191,2,13:20,800,800,Jordan Tucker Defensive Rebound.,58,38,20,4,0.98763920636403,0.9786313254512853,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,192,2,13:17,797,797,Paul Jorgensen missed Three Point Jumper.,58,38,20,3,0.9877167329394884,0.9787755588262599,4,2,5,NA,NA,Butler,missed,Paul Jorgensen,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,193,2,13:13,793,793,Sedee Keita Defensive Rebound.,58,38,20,4,0.9878215847663522,0.9789703541750839,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,194,2,13:09,789,789,LJ Figueroa made Jumper.,58,40,18,4,0.9823587213180692,0.9696810795392087,4,2,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,195,2,12:45,765,765,Foul on Sedee Keita.,58,40,18,24,0.9832418719599062,0.9713116047157955,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,196,2,12:33,753,753,Nate Fowler missed Jumper.,58,40,18,12,0.9837212783563488,0.9721904583866117,4,2,5,NA,NA,Butler,missed,Nate Fowler,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,197,2,12:29,749,749,Sedee Keita Defensive Rebound.,58,40,18,4,0.9838869428404649,0.972493232975948,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,198,2,12:24,744,744,Foul on Sean McDermott.,58,40,18,5,0.9840981941836289,0.9728786720871492,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,199,2,12:14,734,734,LJ Figueroa missed Jumper.,58,40,18,10,0.9845346455022271,0.9736727955259707,4,2,5,NA,NA,St. John's,missed,LJ Figueroa,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,200,2,12:10,730,730,Sean McDermott Defensive Rebound.,58,40,18,4,0.9847144221507119,0.9739990746151749,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,201,2,12:09,729,729,Sean McDermott Turnover.,58,40,18,1,0.984759480967054,0.9740808041392894,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,202,2,12:09,729,729,LJ Figueroa Steal.,58,40,18,0,0.984759480967054,0.9740808041392894,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,203,2,12:09,729,729,LJ Figueroa made Layup.,58,42,16,0,0.9773679073328922,0.9617114960601499,4,2,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,204,2,12:09,729,729,Foul on Aaron Thompson.,58,42,16,0,0.9773679073328922,0.9617114960601499,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,205,2,12:09,729,729,LJ Figueroa made Free Throw.,58,43,15,0,0.972455499539858,0.9535622504071481,4,2,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,206,2,11:53,713,713,Henry Baddley Turnover.,58,43,15,16,0.9734232322161865,0.9553199825107312,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,207,2,11:53,713,713,Greg Williams Jr. Steal.,58,43,15,0,0.9734232322161865,0.9553199825107312,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,208,2,11:43,703,703,Shamorie Ponds made Layup.,58,45,13,10,0.9612178219034855,0.9354874225032327,4,2,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,209,2,11:43,703,703,Foul on Sean McDermott.,58,45,13,0,0.9612178219034855,0.9354874225032327,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,210,2,11:43,703,703,Official TV Timeout,58,45,13,0,0.9612178219034855,0.9354874225032327,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,211,2,11:43,703,703,Shamorie Ponds made Free Throw.,58,46,12,0,0.9527784463249411,0.9219037818307073,4,2,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,212,2,11:31,691,691,Kamar Baldwin Turnover.,58,46,12,12,0.9535921511565979,0.9233928200484824,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,213,2,11:31,691,691,Sedee Keita Steal.,58,46,12,0,0.9535921511565979,0.9233928200484824,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,214,2,11:26,686,686,Sedee Keita made Dunk.,58,48,10,5,0.931742189942553,0.8890867106328754,4,2,5,NA,NA,St. John's,made,Sedee Keita,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,215,2,11:05,665,665,Foul on LJ Figueroa.,58,48,10,21,0.9332406310336537,0.8918503614284184,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,216,2,11:05,665,665,Jordan Tucker made Free Throw.,59,48,11,0,0.9452435105701785,0.9105819068233953,4,2,5,NA,NA,Butler,made,Jordan Tucker,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,217,2,11:05,665,665,Jordan Tucker missed Free Throw.,59,48,11,0,0.9452435105701785,0.9105819068233953,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,218,2,11:04,664,664,Sedee Keita Defensive Rebound.,59,48,11,1,0.9453081558062513,0.9107011681387591,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,219,2,10:51,651,651,Foul on Christian David.,59,48,11,13,0.946146598982178,0.9122467820053004,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,220,2,10:51,651,651,Shamorie Ponds missed Free Throw.,59,48,11,0,0.946146598982178,0.9122467820053004,4,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,221,2,10:51,651,651,St. John's Offensive Rebound.,59,48,11,0,0.946146598982178,0.9122467820053004,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,222,2,10:51,651,651,Shamorie Ponds made Free Throw.,59,49,10,0,0.9342128059032526,0.8936452902607451,4,2,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,223,2,10:24,624,624,Jordan Tucker made Three Point Jumper. Assisted by Sean McDermott.,62,49,13,27,0.9656325061265539,0.9435844541042112,4,2,5,NA,NA,Butler,made,Jordan Tucker,Sean McDermott,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,224,2,10:07,607,607,Shamorie Ponds missed Three Point Jumper.,62,49,13,17,0.9666596167749781,0.9454389755116587,4,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,225,2,10:03,603,603,Nate Fowler Defensive Rebound.,62,49,13,4,0.966916536246367,0.9458997556211937,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,226,2,9:57,597,597,Kamar Baldwin missed Layup.,62,49,13,6,0.9673145096959367,0.9466111300842591,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,227,2,9:57,597,597,Sedee Keita Block.,62,49,13,0,0.9673145096959367,0.9466111300842591,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,228,2,9:52,592,592,Shamorie Ponds Defensive Rebound.,62,49,13,5,0.9676584781953887,0.9472237135654045,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,229,2,9:51,591,591,LJ Figueroa missed Three Point Jumper.,62,49,13,1,0.9677286801865693,0.947348489099402,4,2,5,NA,NA,St. John's,missed,LJ Figueroa,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,230,2,9:46,586,586,Jordan Tucker Defensive Rebound.,62,49,13,5,0.9680870031756177,0.9479840916659267,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,231,2,9:32,572,572,Jordan Tucker missed Jumper.,62,49,13,14,0.9691589945105278,0.9498737628824658,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,232,2,9:28,568,568,Mustapha Heron Defensive Rebound.,62,49,13,4,0.9694848978611457,0.9504450241497154,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,233,2,9:25,565,565,Sedee Keita made Layup. Assisted by Mustapha Heron.,62,51,11,3,0.9530760078537752,0.9246527038500489,4,2,5,NA,NA,St. John's,made,Sedee Keita,Mustapha Heron,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,234,2,9:13,553,553,Foul on Sedee Keita.,62,51,11,12,0.9544155697047606,0.926976875201046,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,235,2,8:50,530,530,Kamar Baldwin made Layup.,64,51,13,23,0.9726694894104745,0.9559924614287868,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,236,2,8:38,518,518,Shamorie Ponds made Layup.,64,53,11,12,0.9578420219121995,0.9329537481234066,4,2,5,NA,NA,St. John's,made,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,237,2,8:12,492,492,Paul Jorgensen missed Jumper.,64,53,11,26,0.9598264413239317,0.9364639702763848,4,2,5,NA,NA,Butler,missed,Paul Jorgensen,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,238,2,8:10,490,490,Butler Offensive Rebound.,64,53,11,2,0.9599796473357991,0.9367339692321737,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,239,2,8:08,488,488,Kamar Baldwin missed Jumper.,64,53,11,2,0.960134179541349,0.9370059551490366,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,240,2,8:05,485,485,LJ Figueroa Defensive Rebound.,64,53,11,3,0.9603689756978652,0.9374184710180482,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,241,2,7:56,476,476,Mustapha Heron made Three Point Jumper.,64,56,8,9,0.921502896268585,0.879162163199387,4,2,5,NA,NA,St. John's,made,Mustapha Heron,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,242,2,7:29,449,449,Foul on Justin Simon.,64,56,8,27,0.9250661060522692,0.885269365174294,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,243,2,7:29,449,449,Official TV Timeout,64,56,8,0,0.9250661060522692,0.885269365174294,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,244,2,7:29,449,449,Kamar Baldwin made Free Throw.,65,56,9,0,0.9409592528515819,0.9087708088386527,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,245,2,7:29,449,449,Kamar Baldwin made Free Throw.,66,56,10,0,0.9536504277420602,0.9278505567961186,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,246,2,7:13,433,433,Mustapha Heron missed Layup.,66,56,10,16,0.9558960836151786,0.9316158406802484,4,2,5,NA,NA,St. John's,missed,Mustapha Heron,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,247,2,7:10,430,430,Mustapha Heron Offensive Rebound.,66,56,10,3,0.9563658248538596,0.9323965371184876,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,248,2,7:09,429,429,Mustapha Heron made Layup.,66,58,8,1,0.9286042065274385,0.8911576326545084,4,2,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,249,2,6:40,400,400,Henry Baddley missed Layup.,66,58,8,29,0.9335605652030262,0.8994784461819401,4,2,5,NA,NA,Butler,missed,Henry Baddley,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,250,2,6:36,396,396,Marvin Clark II Defensive Rebound.,66,58,8,4,0.9341748301892561,0.9005249864279992,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,251,2,6:34,394,394,Mustapha Heron missed Three Point Jumper.,66,58,8,2,0.9344794786757754,0.9010445980207777,4,2,5,NA,NA,St. John's,missed,Mustapha Heron,NA,TRUE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,252,2,6:32,392,392,LJ Figueroa Offensive Rebound.,66,58,8,2,0.9347830084897675,0.9015625449941932,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,253,2,6:25,385,385,LJ Figueroa made Layup.,66,60,6,7,0.8929552263572567,0.8424319159417751,4,2,5,NA,NA,St. John's,made,LJ Figueroa,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,254,2,5:55,355,355,Henry Baddley missed Layup.,66,60,6,30,0.8984447767460967,0.8518178021317978,4,2,5,NA,NA,Butler,missed,Henry Baddley,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,255,2,5:53,353,353,Butler Offensive Rebound.,66,60,6,2,0.8988548051367068,0.8525054154821728,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,256,2,5:48,348,348,Foul on Marvin Clark II.,66,60,6,5,0.8999139950528242,0.8542717194741088,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,257,2,5:48,348,348,Technical Foul on LJ Figueroa.,66,60,6,0,0.8999139950528242,0.8542717194741088,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,258,2,5:48,348,348,Kamar Baldwin missed Free Throw.,66,60,6,0,0.8999139950528242,0.8542717194741088,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,259,2,5:48,348,348,Butler Offensive Rebound.,66,60,6,0,0.8999139950528242,0.8542717194741088,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,260,2,5:48,348,348,Kamar Baldwin made Free Throw.,67,60,7,0,0.9235099037420106,0.8872802705180111,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,261,2,5:36,336,336,Kamar Baldwin Turnover.,67,60,7,12,0.9261019220103884,0.8915287941694973,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,262,2,5:25,325,325,Shamorie Ponds missed Three Point Jumper.,67,60,7,11,0.9287530826529216,0.8958024797329407,4,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,263,2,5:22,322,322,Sean McDermott Defensive Rebound.,67,60,7,3,0.9295259964697911,0.8970363475469536,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,264,2,5:02,302,302,Kamar Baldwin made Three Point Jumper. Assisted by Aaron Thompson.,70,60,10,20,0.9740590875601784,0.9616348350821462,4,2,5,NA,NA,Butler,made,Kamar Baldwin,Aaron Thompson,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,265,2,4:50,290,290,Mustapha Heron made Three Point Jumper. Assisted by Shamorie Ponds.,70,63,7,12,0.9353289892096514,0.906675877517451,4,2,5,NA,NA,St. John's,made,Mustapha Heron,Shamorie Ponds,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,266,2,4:19,259,259,Jordan Tucker missed Layup.,70,63,7,31,0.9315942917605766,0.9029004860558869,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,267,2,4:16,256,256,LJ Figueroa Defensive Rebound.,70,63,7,3,0.9310907178193385,0.9023503124910548,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,268,2,4:13,253,253,Foul on LJ Figueroa.,70,63,7,3,0.9306060803445931,0.9018289967269213,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,269,2,4:13,253,253,LJ Figueroa Turnover.,70,63,7,0,0.9306060803445931,0.9018289967269213,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,270,2,4:01,241,241,Kamar Baldwin Turnover.,70,63,7,12,0.9290925453220645,0.9003525639830415,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,271,2,4:01,241,241,Shamorie Ponds Steal.,70,63,7,0,0.9290925453220645,0.9003525639830415,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,272,2,3:57,237,237,Marvin Clark II missed Layup.,70,63,7,4,0.9288297183378541,0.9001985812733644,4,2,5,NA,NA,St. John's,missed,Marvin Clark II,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,273,2,3:57,237,237,Sean McDermott Block.,70,63,7,0,0.9288297183378541,0.9001985812733644,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,274,2,3:57,237,237,St. John's Offensive Rebound.,70,63,7,0,0.9288297183378541,0.9001985812733644,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,275,2,3:57,237,237,Official TV Timeout,70,63,7,0,0.9288297183378541,0.9001985812733644,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,276,2,3:51,231,231,Shamorie Ponds missed Layup.,70,63,7,6,0.9287601809918812,0.9004149052276036,4,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,FALSE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,277,2,3:43,223,223,Sedee Keita Offensive Rebound.,70,63,7,8,0.9294145950746874,0.9017230148046474,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,278,2,3:43,223,223,Sedee Keita missed Layup.,70,63,7,0,0.9294145950746874,0.9017230148046474,4,2,5,NA,NA,St. John's,missed,Sedee Keita,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,279,2,3:40,220,220,Kamar Baldwin Defensive Rebound.,70,63,7,3,0.9299155772484955,0.902559982911524,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,280,2,3:21,201,201,Jordan Tucker missed Jumper.,70,63,7,19,0.9368572734533092,0.9129230716984558,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,281,2,3:17,197,197,Sean McDermott Offensive Rebound.,70,63,7,4,0.9391816432520361,0.9162569692506657,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,282,2,2:56,176,176,Aaron Thompson missed Layup.,70,63,7,21,0.9534500094152002,0.9364273920894912,4,2,5,NA,NA,Butler,missed,Aaron Thompson,NA,FALSE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,283,2,2:56,176,176,Sedee Keita Block.,70,63,7,0,0.9534500094152002,0.9364273920894912,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,284,2,2:56,176,176,Butler Offensive Rebound.,70,63,7,0,0.9534500094152002,0.9364273920894912,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,285,2,2:51,171,171,Jordan Tucker missed Three Point Jumper.,70,63,7,5,0.9565478267499936,0.9407910060086027,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,TRUE,FALSE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,286,2,2:49,169,169,Nate Fowler Offensive Rebound.,70,63,7,2,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,287,2,2:49,169,169,Foul on Mustapha Heron.,70,63,7,0,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,288,2,2:49,169,169,Nate Fowler missed Free Throw.,70,63,7,0,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,Butler,missed,Nate Fowler,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,289,2,2:49,169,169,Butler Offensive Rebound.,70,63,7,0,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,290,2,2:49,169,169,Nate Fowler missed Free Throw.,70,63,7,0,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,Butler,missed,Nate Fowler,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,291,2,2:49,169,169,Marvin Clark II Defensive Rebound.,70,63,7,0,0.9577500381268537,0.9424826347071724,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,292,2,2:38,158,158,Mustapha Heron Turnover.,70,63,7,11,0.9640322249768227,0.9512995949386751,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,293,2,2:38,158,158,Nate Fowler Steal.,70,63,7,0,0.9640322249768227,0.9512995949386751,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,294,2,2:35,155,155,Kamar Baldwin made Layup.,72,63,9,3,0.9852252756677659,0.9798828725666267,4,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,295,2,2:35,155,155,Foul on Marvin Clark II.,72,63,9,0,0.9852252756677659,0.9798828725666267,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,296,2,2:35,155,155,Kamar Baldwin missed Free Throw.,72,63,9,0,0.9852252756677659,0.9798828725666267,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,297,2,2:35,155,155,Marvin Clark II Defensive Rebound.,72,63,9,0,0.9852252756677659,0.9798828725666267,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,298,2,2:28,148,148,Shamorie Ponds missed Jumper.,72,63,9,7,0.9872722365531706,0.9827479823849496,4,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,299,2,2:26,146,146,Jordan Tucker Defensive Rebound.,72,63,9,2,0.9878240921647197,0.9835178033416758,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,300,2,2:26,146,146,Foul on Shamorie Ponds.,72,63,9,0,0.9878240921647197,0.9835178033416758,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,301,2,2:26,146,146,Jordan Tucker missed Free Throw.,72,63,9,0,0.9878240921647197,0.9835178033416758,4,2,5,NA,NA,Butler,missed,Jordan Tucker,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,302,2,2:26,146,146,Butler Offensive Rebound.,72,63,9,0,0.9878240921647197,0.9835178033416758,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,303,2,2:26,146,146,Jordan Tucker made Free Throw.,73,63,10,0,0.9922352242241801,0.9894724068179268,4,2,5,NA,NA,Butler,made,Jordan Tucker,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,304,2,2:14,134,134,Mustapha Heron missed Three Point Jumper.,73,63,10,12,0.994353383830868,0.9924098305780703,4,2,5,NA,NA,St. John's,missed,Mustapha Heron,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,305,2,2:10,130,130,Kamar Baldwin Defensive Rebound.,73,63,10,4,0.9949668361783914,0.9932545330366128,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,306,2,1:42,102,102,Kamar Baldwin missed Three Point Jumper.,73,63,10,28,0.9980754031406404,0.9974776382701449,4,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,TRUE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,307,2,1:38,98,98,Marvin Clark II Defensive Rebound.,73,63,10,4,0.9983656608522672,0.9978653376319181,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,308,2,1:35,95,95,Foul on Sean McDermott.,73,63,10,3,0.9985613112067877,0.9981257481939155,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,309,2,1:35,95,95,Marvin Clark II made Free Throw.,73,64,9,0,0.9973081106255911,0.9964944730893435,4,2,5,NA,NA,St. John's,made,Marvin Clark II,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,310,2,1:35,95,95,Marvin Clark II missed Free Throw.,73,64,9,0,0.9973081106255911,0.9964944730893435,4,2,5,NA,NA,St. John's,missed,Marvin Clark II,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,311,2,1:32,92,92,Jordan Tucker Defensive Rebound.,73,64,9,3,0.9976043685439345,0.9968883032906194,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,312,2,1:32,92,92,Jordan Tucker Turnover.,73,64,9,0,0.9976043685439345,0.9968883032906194,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,313,2,1:32,92,92,Shamorie Ponds Steal.,73,64,9,0,0.9976043685439345,0.9968883032906194,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,314,2,1:32,92,92,St. John's  Timeout,73,64,9,0,0.9976043685439345,0.9968883032906194,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,315,2,1:30,90,90,Shamorie Ponds made Three Point Jumper. Assisted by Justin Simon.,73,67,6,2,0.9846356369251635,0.9801552346518647,3,2,5,NA,NA,St. John's,made,Shamorie Ponds,Justin Simon,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,316,2,0:57,57,57,Kamar Baldwin missed Layup.,73,67,6,33,0.9939828818438811,0.9924404568016248,3,2,5,NA,NA,Butler,missed,Kamar Baldwin,NA,FALSE,FALSE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,317,2,0:57,57,57,St. John's Defensive Rebound.,73,67,6,0,0.9939828818438811,0.9924404568016248,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,318,2,0:54,54,54,St. John's  Timeout,73,67,6,3,0.9945281905099432,0.993144390603789,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,319,2,0:50,50,50,Foul on Nate Fowler.,73,67,6,4,0.9951919790655891,0.9939983720638899,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,320,2,0:50,50,50,Mustapha Heron made Free Throw.,73,68,5,0,0.988805030428184,0.9860480712219178,2,2,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,321,2,0:50,50,50,Mustapha Heron made Free Throw.,73,69,4,0,0.9741540408179727,0.967906124178248,2,2,5,NA,NA,St. John's,made,Mustapha Heron,NA,FALSE,TRUE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,322,2,0:42,42,42,Foul on Sedee Keita.,73,69,4,8,0.9782605578981358,0.9731853991727926,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,323,2,0:42,42,42,Kamar Baldwin made Free Throw.,74,69,5,0,0.991027294684877,0.9888987592382676,2,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,324,2,0:42,42,42,Kamar Baldwin made Free Throw.,75,69,6,0,0.9963247857544372,0.9954471657260666,2,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,325,2,0:36,36,36,Justin Simon made Dunk.,75,71,4,6,0.981022651747474,0.9767147467015161,2,2,5,NA,NA,St. John's,made,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,326,2,0:36,36,36,St. John's  Timeout,75,71,4,0,0.981022651747474,0.9767147467015161,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,327,2,0:35,35,35,Foul on Mustapha Heron.,75,71,4,1,0.9814561245724585,0.9772669019809318,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,328,2,0:35,35,35,Paul Jorgensen made Free Throw.,76,71,5,0,0.9926751602992988,0.9909971667647242,1,2,5,NA,NA,Butler,made,Paul Jorgensen,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,329,2,0:35,35,35,Paul Jorgensen missed Free Throw.,76,71,5,0,0.9926751602992988,0.9909971667647242,1,2,5,NA,NA,Butler,missed,Paul Jorgensen,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,330,2,0:35,35,35,Marvin Clark II Defensive Rebound.,76,71,5,0,0.9926751602992988,0.9909971667647242,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,331,2,0:34,34,34,Marvin Clark II missed Three Point Jumper.,76,71,5,1,0.9928889243075499,0.9912682792741424,1,2,5,NA,NA,St. John's,missed,Marvin Clark II,NA,TRUE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,332,2,0:34,34,34,Butler Defensive Rebound.,76,71,5,0,0.9928889243075499,0.9912682792741424,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,333,2,0:28,28,28,Foul on Sedee Keita.,76,71,5,6,0.9940639764977401,0.9927535175249017,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,334,2,0:28,28,28,Sean McDermott made Free Throw.,77,71,6,0,0.9977727443228442,0.99727880563173,1,2,5,NA,NA,Butler,made,Sean McDermott,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,335,2,0:28,28,28,Sean McDermott made Free Throw.,78,71,7,0,0.9991662547769972,0.9989810394227572,1,2,5,NA,NA,Butler,made,Sean McDermott,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,336,2,0:23,23,23,Justin Simon missed Layup.,78,71,7,5,0.9993299103560308,0.9991852439679113,1,2,5,NA,NA,St. John's,missed,Justin Simon,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,337,2,0:20,20,20,Kamar Baldwin Defensive Rebound.,78,71,7,3,0.9994138922480974,0.99928957085784,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,338,2,0:17,17,17,Foul on Shamorie Ponds.,78,71,7,3,0.9994889993958428,0.9993825524408365,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,339,2,0:17,17,17,Kamar Baldwin made Free Throw.,79,71,8,0,0.9998221234269393,0.9997850548887146,1,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,Butler
+401083206,2019-01-19,Butler,St. John's,340,2,0:17,17,17,Kamar Baldwin made Free Throw.,80,71,9,0,0.9999380955681085,0.9999251932032505,1,2,5,NA,NA,Butler,made,Kamar Baldwin,NA,FALSE,TRUE,Butler,St. John's
+401083206,2019-01-19,Butler,St. John's,341,2,0:15,15,15,Shamorie Ponds missed Three Point Jumper.,80,71,9,2,0.9999451135557164,0.9999338143579094,1,2,5,NA,NA,St. John's,missed,Shamorie Ponds,NA,TRUE,FALSE,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,342,2,0:12,12,12,Marvin Clark II Offensive Rebound.,80,71,9,3,0.9999543109443988,0.9999450812311699,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,St. John's
+401083206,2019-01-19,Butler,St. John's,343,2,0:11,11,11,Marvin Clark II missed Jumper.,80,71,9,1,0.9999570516673548,0.9999484309366747,1,2,5,NA,NA,St. John's,missed,Marvin Clark II,NA,FALSE,FALSE,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,344,2,0:08,8,8,Kamar Baldwin Defensive Rebound.,80,71,9,3,0.9999643971105076,0.9999573887160834,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,St. John's,Butler
+401083206,2019-01-19,Butler,St. John's,345,2,0:00,0,0,End of 2nd half,80,80,0,8,1,1,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,NA
+401083206,2019-01-19,Butler,St. John's,346,2,0:00,0,0,End of Game,80,80,0,0,1,1,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Butler,NA

@@ -1,0 +1,352 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991601,2018-02-03,Princeton,Brown,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.7963544994404709,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+400991601,2018-02-03,Princeton,Brown,2,1,19:42,2382,2682,Sebastian Much made Layup.,2,0,2,18,0.8233619564740241,0.5444053698559008,4,4,8.5,NA,NA,Princeton,made,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,3,1,19:15,2355,2655,Foul on Sebastian Much.,2,0,2,27,0.823148903819825,0.5449827561110013,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,4,1,19:15,2355,2655,Matt DeWolf made Free Throw.,2,1,1,0,0.8096318146482238,0.5225370733090802,4,4,8.5,NA,NA,Brown,made,Matt DeWolf,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,5,1,19:15,2355,2655,Matt DeWolf missed Free Throw.,2,1,1,0,0.8096318146482238,0.5225370733090802,4,4,8.5,NA,NA,Brown,missed,Matt DeWolf,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,6,1,19:15,2355,2655,Myles Stephens Defensive Rebound.,2,1,1,0,0.8096318146482238,0.5225370733090802,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,7,1,19:01,2341,2641,Myles Stephens made Three Point Jumper. Assisted by Will Gladson.,5,1,4,14,0.8479585118114127,0.5898350106021495,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,Will Gladson,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,8,1,18:46,2326,2626,Brandon Anderson missed Layup.,5,1,4,15,0.8480159083086019,0.5904741331517216,4,4,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,9,1,18:46,2326,2626,Matt DeWolf Offensive Rebound.,5,1,4,0,0.8480159083086019,0.5904741331517216,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,10,1,18:43,2323,2623,Obi Okolie missed Three Point Jumper.,5,1,4,3,0.8480271064793972,0.5906025525746488,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,11,1,18:43,2323,2623,Sebastian Much Defensive Rebound.,5,1,4,0,0.8480271064793972,0.5906025525746488,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,12,1,18:33,2313,2613,Devin Cannady missed Jumper.,5,1,4,10,0.8480637063225075,0.5910319859391384,4,4,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,13,1,18:33,2313,2613,Obi Okolie Defensive Rebound.,5,1,4,0,0.8480637063225075,0.5910319859391384,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,14,1,18:24,2304,2604,Brandon Anderson made Three Point Jumper. Assisted by Obi Okolie.,5,4,1,9,0.80882024785178,0.5230985195738199,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,Obi Okolie,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,15,1,18:00,2280,2580,Will Gladson Turnover.,5,4,1,24,0.8084153368594679,0.5233677364068907,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,16,1,17:58,2278,2578,Desmond Cambridge Steal.,5,4,1,2,0.8083808919401942,0.5233902982015151,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,17,1,17:56,2276,2576,Desmond Cambridge made Three Point Jumper.,5,7,-2,2,0.7609946766353587,0.4532766908152387,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,18,1,17:30,2250,2550,Myles Stephens made Jumper.,7,7,0,26,0.7927257407323669,0.5,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,19,1,17:15,2235,2535,Desmond Cambridge missed Jumper.,7,7,0,15,0.7923225871428502,0.5,4,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,20,1,17:15,2235,2535,Matt DeWolf Offensive Rebound.,7,7,0,0,0.7923225871428502,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,21,1,17:09,2229,2529,Desmond Cambridge made Three Point Jumper. Assisted by Matt DeWolf.,7,10,-3,6,0.7408496329382741,0.42859147735867953,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,Matt DeWolf,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,22,1,16:48,2208,2508,Foul on Desmond Cambridge.,7,10,-3,21,0.7396109559923816,0.4278793524683431,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,23,1,16:48,2208,2508,Myles Stephens missed Free Throw.,7,10,-3,0,0.7396109559923816,0.4278793524683431,4,4,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,24,1,16:48,2208,2508,Princeton Deadball Team Rebound.,7,10,-3,0,0.7396109559923816,0.4278793524683431,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,25,1,16:48,2208,2508,Myles Stephens missed Free Throw.,7,10,-3,0,0.7396109559923816,0.4278793524683431,4,4,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,26,1,16:48,2208,2508,Tamenang Choh Defensive Rebound.,7,10,-3,0,0.7396109559923816,0.4278793524683431,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,27,1,16:26,2186,2486,Tamenang Choh missed Layup.,7,10,-3,22,0.7382873488491107,0.427129719175092,4,4,8.5,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,28,1,16:26,2186,2486,Richmond Aririguzoh Block.,7,10,-3,0,0.7382873488491107,0.427129719175092,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,29,1,16:25,2185,2485,Sebastian Much Defensive Rebound.,7,10,-3,1,0.7382265535631116,0.42709557065524284,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,30,1,16:20,2180,2480,Devin Cannady made Layup.,9,10,-1,5,0.7740753263253758,0.47548556302100853,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,31,1,16:20,2180,2480,Foul on Brandon Anderson.,9,10,-1,0,0.7740753263253758,0.47548556302100853,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,32,1,16:20,2180,2480,Devin Cannady made Free Throw.,10,10,0,0,0.7907751210781394,0.5,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,33,1,16:07,2167,2467,Desmond Cambridge missed Three Point Jumper.,10,10,0,13,0.7903928807437629,0.5,4,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,34,1,16:07,2167,2467,Myles Stephens Block.,10,10,0,0,0.7903928807437629,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,35,1,16:04,2164,2464,Amir Bell Defensive Rebound.,10,10,0,3,0.7903037778545323,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,36,1,15:50,2150,2450,Sebastian Much made Jumper.,12,10,2,14,0.8210241107697527,0.5496055375856544,4,4,8.5,NA,NA,Princeton,made,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,37,1,15:39,2139,2439,Foul on Myles Stephens.,12,10,2,11,0.8208797198415727,0.5498617568700167,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,38,1,15:39,2139,2439,Official TV Timeout,12,10,2,0,0.8208797198415727,0.5498617568700167,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,39,1,15:21,2121,2421,Obi Okolie made Layup. Assisted by Tamenang Choh.,12,12,0,18,0.7889911196095942,0.5,4,4,8.5,NA,NA,Brown,made,Obi Okolie,Tamenang Choh,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,40,1,15:06,2106,2406,Devin Cannady made Three Point Jumper. Assisted by Richmond Aririguzoh.,15,12,3,15,0.8349162613430183,0.5756312846537486,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,Richmond Aririguzoh,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,41,1,14:46,2086,2386,Desmond Cambridge made Three Point Jumper. Assisted by Tamenang Choh.,15,15,0,20,0.7878743769498927,0.5,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,Tamenang Choh,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,42,1,14:21,2061,2361,Richmond Aririguzoh made Layup.,17,15,2,25,0.8197744193851269,0.5517098346757323,4,4,8.5,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,43,1,14:13,2053,2353,Desmond Cambridge made Jumper.,17,17,0,8,0.7867825605641221,0.5,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,44,1,13:49,2029,2329,Devin Cannady made Layup. Assisted by Richmond Aririguzoh.,19,17,2,24,0.8192827014213973,0.5524862461946224,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,Richmond Aririguzoh,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,45,1,13:48,2028,2328,Brown  Timeout,19,17,2,1,0.8192670027229865,0.5525107003576515,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,46,1,13:22,2002,2302,Tamenang Choh missed Layup.,19,17,2,26,0.8188520609356641,0.5531508087749818,3,4,8.5,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,47,1,13:22,2002,2302,Tamenang Choh Offensive Rebound.,19,17,2,0,0.8188520609356641,0.5531508087749818,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,48,1,13:18,1998,2298,Brandon Anderson missed Three Point Jumper.,19,17,2,4,0.8187870923393978,0.5532500427623905,3,4,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,49,1,13:18,1998,2298,Myles Stephens Defensive Rebound.,19,17,2,0,0.8187870923393978,0.5532500427623905,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,50,1,13:16,1996,2296,Foul on Obi Okolie.,19,17,2,2,0.8187544976755045,0.5532997374683415,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,51,1,12:52,1972,2272,Will Gladson missed Layup.,19,17,2,24,0.8183577583252658,0.5539002189832,3,4,8.5,NA,NA,Princeton,missed,Will Gladson,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,52,1,12:52,1972,2272,Obi Okolie Defensive Rebound.,19,17,2,0,0.8183577583252658,0.5539002189832,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,53,1,12:43,1963,2263,Obi Okolie made Jumper.,19,19,0,9,0.783618814218624,0.5,3,4,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,54,1,12:23,1943,2243,Will Gladson missed Layup.,19,19,0,20,0.7828798327986154,0.5,3,4,8.5,NA,NA,Princeton,missed,Will Gladson,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,55,1,12:23,1943,2243,Obi Okolie Defensive Rebound.,19,19,0,0,0.7828798327986154,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,56,1,12:16,1936,2236,Joshua Howard Turnover.,19,19,0,7,0.7826181776629385,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,57,1,11:55,1915,2215,Aaron Young Turnover.,19,19,0,21,0.7818223640794008,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,58,1,11:54,1914,2214,Joshua Howard Steal.,19,19,0,1,0.7817839841837825,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,59,1,11:48,1908,2208,Foul on Aaron Young.,19,19,0,6,0.7815527739242076,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,60,1,11:48,1908,2208,Official TV Timeout,19,19,0,0,0.7815527739242076,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,61,1,11:43,1903,2203,Desmond Cambridge Turnover.,19,19,0,5,0.7813588891458991,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,62,1,11:42,1902,2202,Amir Bell Steal.,19,19,0,1,0.7813199812709368,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,63,1,11:23,1883,2183,Jerome Desrosiers made Three Point Jumper. Assisted by Amir Bell.,22,19,3,19,0.833065694097712,0.5838275558824868,3,4,8.5,NA,NA,Princeton,made,Jerome Desrosiers,Amir Bell,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,64,1,11:03,1863,2163,Joshua Howard made Three Point Jumper. Assisted by Desmond Cambridge.,22,22,0,20,0.7797695479313718,0.5,3,4,8.5,NA,NA,Brown,made,Joshua Howard,Desmond Cambridge,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,65,1,10:35,1835,2135,Jerome Desrosiers missed Three Point Jumper.,22,22,0,28,0.7786185562467322,0.5,3,4,8.5,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,66,1,10:35,1835,2135,Tamenang Choh Defensive Rebound.,22,22,0,0,0.7786185562467322,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,67,1,10:28,1828,2128,Desmond Cambridge made Three Point Jumper. Assisted by Brandon Anderson.,22,25,-3,7,0.712753727528571,0.41407556197755135,3,4,8.5,NA,NA,Brown,made,Desmond Cambridge,Brandon Anderson,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,68,1,9:59,1799,2099,Sebastian Much missed Layup.,22,25,-3,29,0.7103443246688349,0.41295469596177514,3,4,8.5,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,69,1,9:59,1799,2099,Amir Bell Offensive Rebound.,22,25,-3,0,0.7103443246688349,0.41295469596177514,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,70,1,9:55,1795,2095,Amir Bell missed Layup.,22,25,-3,4,0.7100076264456343,0.4127988323161505,3,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,71,1,9:55,1795,2095,Amir Bell Offensive Rebound.,22,25,-3,0,0.7100076264456343,0.4127988323161505,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,72,1,9:53,1793,2093,Amir Bell made Layup.,24,25,-1,2,0.7557935689090837,0.4706397212812061,3,4,8.5,NA,NA,Princeton,made,Amir Bell,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,73,1,9:37,1777,2077,Foul on Tamenang Choh.,24,25,-1,16,0.7548944057034437,0.47042455682899553,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,74,1,9:37,1777,2077,Tamenang Choh Turnover.,24,25,-1,0,0.7548944057034437,0.47042455682899553,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,75,1,9:21,1761,2061,Foul on Tamenang Choh.,24,25,-1,16,0.7539840655482571,0.4702070306512659,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,76,1,9:21,1761,2061,Jerome Desrosiers made Free Throw.,25,25,0,0,0.7754400811978879,0.5,3,4,8.5,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,77,1,9:21,1761,2061,Jerome Desrosiers made Free Throw.,26,25,1,0,0.7955322884149999,0.529792969348734,3,4,8.5,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,78,1,9:07,1747,2047,Brandon Anderson Turnover.,26,25,1,14,0.7950776739382822,0.5299854917413526,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,79,1,8:53,1733,2033,Myles Stephens made Layup.,28,25,3,14,0.831281285453433,0.5896706755804625,3,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,80,1,8:38,1718,2018,Foul on Sebastian Much.,28,25,3,15,0.8310948796408364,0.5902867531734868,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,81,1,8:38,1718,2018,Jason Massey made Free Throw.,28,26,2,0,0.8133140989795078,0.5605597178004775,3,4,8.5,NA,NA,Brown,made,Jason Massey,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,82,1,8:38,1718,2018,Jason Massey made Free Throw.,28,27,1,0,0.7941251935414544,0.5303917317582819,3,4,8.5,NA,NA,Brown,made,Jason Massey,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,83,1,8:22,1702,2002,Myles Stephens made Layup.,30,27,3,16,0.8308976437822424,0.5909536073972214,3,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,84,1,7:57,1677,1977,Foul on Myles Stephens.,30,27,3,25,0.8305852865324147,0.5920081455563141,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,85,1,7:57,1677,1977,Official TV Timeout,30,27,3,0,0.8305852865324147,0.5920081455563141,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,86,1,7:57,1677,1977,Joshua Howard made Free Throw.,30,28,2,0,0.8124013910552498,0.5617290089527549,3,4,8.5,NA,NA,Brown,made,Joshua Howard,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,87,1,7:57,1677,1977,Joshua Howard missed Free Throw.,30,28,2,0,0.8124013910552498,0.5617290089527549,3,4,8.5,NA,NA,Brown,missed,Joshua Howard,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,88,1,7:57,1677,1977,Devin Cannady Defensive Rebound.,30,28,2,0,0.8124013910552498,0.5617290089527549,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,89,1,7:36,1656,1956,Jerome Desrosiers missed Three Point Jumper.,30,28,2,21,0.8118938814242102,0.5623157385570979,3,4,8.5,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,90,1,7:36,1656,1956,Jason Massey Defensive Rebound.,30,28,2,0,0.8118938814242102,0.5623157385570979,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,91,1,7:19,1639,1939,Joshua Howard made Layup.,30,30,0,17,0.7697779745108994,0.5,3,4,8.5,NA,NA,Brown,made,Joshua Howard,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,92,1,7:04,1624,1924,Jerome Desrosiers made Layup.,32,30,2,15,0.8110587769695504,0.5631868182636308,3,4,8.5,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,93,1,6:44,1604,1904,Desmond Cambridge missed Jumper.,32,30,2,20,0.8105075434889392,0.5637240248420919,3,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,94,1,6:44,1604,1904,Devin Cannady Defensive Rebound.,32,30,2,0,0.8105075434889392,0.5637240248420919,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,95,1,6:35,1595,1895,Aaron Young made Three Point Jumper. Assisted by Devin Cannady.,35,30,5,9,0.8626608312505546,0.6554715491223534,3,4,8.5,NA,NA,Princeton,made,Aaron Young,Devin Cannady,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,96,1,6:14,1574,1874,Desmond Cambridge Turnover.,35,30,5,21,0.8626063682145734,0.6567680872736843,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,97,1,5:58,1558,1858,Aaron Young missed Jumper.,35,30,5,16,0.862564181698556,0.6577644438355619,3,4,8.5,NA,NA,Princeton,missed,Aaron Young,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,98,1,5:58,1558,1858,Desmond Cambridge Defensive Rebound.,35,30,5,0,0.862564181698556,0.6577644438355619,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,99,1,5:49,1549,1849,Desmond Cambridge missed Three Point Jumper.,35,30,5,9,0.8625417981670249,0.6583302531657537,3,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,100,1,5:49,1549,1849,Amir Bell Defensive Rebound.,35,30,5,0,0.8625417981670249,0.6583302531657537,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,101,1,5:40,1540,1840,Foul on Obi Okolie.,35,30,5,9,0.8625212409934173,0.6589010440387655,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,102,1,5:38,1538,1838,Jerome Desrosiers missed Layup.,35,30,5,2,0.8625169892455745,0.6590286523810732,3,4,8.5,NA,NA,Princeton,missed,Jerome Desrosiers,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,103,1,5:38,1538,1838,Desmond Cambridge Defensive Rebound.,35,30,5,0,0.8625169892455745,0.6590286523810732,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,104,1,5:28,1528,1828,Foul on Jerome Desrosiers.,35,30,5,10,0.8624978493082297,0.6596713824910206,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,105,1,5:28,1528,1828,Brandon Anderson made Free Throw.,35,31,4,0,0.8460339115925216,0.6293581145843012,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,106,1,5:28,1528,1828,Brandon Anderson made Free Throw.,35,32,3,0,0.8279917918807256,0.5979902433320406,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,107,1,5:05,1505,1805,Mike LeBlanc made Three Point Jumper. Assisted by Amir Bell.,38,32,6,23,0.8775773183626269,0.6904648879416382,3,4,8.5,NA,NA,Princeton,made,Mike LeBlanc,Amir Bell,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,108,1,4:43,1483,1783,Desmond Cambridge made Three Point Jumper. Assisted by Tamenang Choh.,38,35,3,22,0.8271984534362522,0.5999314779868573,3,4,8.5,NA,NA,Brown,made,Desmond Cambridge,Tamenang Choh,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,109,1,4:20,1460,1760,Mike LeBlanc missed Three Point Jumper.,38,35,3,23,0.826837012657464,0.6009924299429911,3,4,8.5,NA,NA,Princeton,missed,Mike LeBlanc,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,110,1,4:20,1460,1760,Zach Hunsaker Defensive Rebound.,38,35,3,0,0.826837012657464,0.6009924299429911,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,111,1,4:10,1450,1750,Foul on Amir Bell.,38,35,3,10,0.8266926926428126,0.6014715782774209,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,112,1,4:10,1450,1750,Brandon Anderson made Free Throw.,38,36,2,0,0.8061470856354603,0.5681728541516072,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,113,1,4:10,1450,1750,Brandon Anderson made Free Throw.,38,37,1,0,0.7838027757707997,0.5342463348840679,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,114,1,4:10,1450,1750,Brandon Anderson made Free Throw.,38,38,0,0,0.7596508397424659,0.5,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,115,1,3:57,1437,1737,Sebastian Much missed Jumper.,38,38,0,13,0.7589334803276022,0.5,3,4,8.5,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,116,1,3:57,1437,1737,Joshua Howard Defensive Rebound.,38,38,0,0,0.7589334803276022,0.5,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,117,1,3:45,1425,1725,Matt DeWolf made Layup.,38,40,-2,12,0.703806912024403,0.4310216377475957,3,4,8.5,NA,NA,Brown,made,Matt DeWolf,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,118,1,3:29,1409,1709,Amir Bell missed Layup.,38,40,-2,16,0.7023519358906064,0.4305247142454546,3,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,119,1,3:29,1409,1709,Amir Bell Offensive Rebound.,38,40,-2,0,0.7023519358906064,0.4305247142454546,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,120,1,3:28,1408,1708,Amir Bell missed Two Point Tip Shot.,38,40,-2,1,0.7022607490788512,0.43049402343509324,3,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,121,1,3:27,1407,1707,Jerome Desrosiers Offensive Rebound.,38,40,-2,1,0.7021695299052821,0.43046336998919077,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,122,1,3:25,1405,1705,Aaron Young made Three Point Jumper. Assisted by Jerome Desrosiers.,41,40,1,2,0.7819546165338949,0.534969128346597,3,4,8.5,NA,NA,Princeton,made,Aaron Young,Jerome Desrosiers,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,123,1,3:12,1392,1692,Desmond Cambridge made Jumper.,41,42,-1,13,0.7294840882756132,0.4648305511455828,3,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,124,1,3:01,1381,1681,Amir Bell made Three Point Jumper. Assisted by Sebastian Much.,44,42,2,11,0.8041784582422522,0.570323669724665,3,4,8.5,NA,NA,Princeton,made,Amir Bell,Sebastian Much,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,125,1,2:37,1357,1657,Desmond Cambridge Turnover.,44,42,2,24,0.803435382620525,0.5710430052874311,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,126,1,2:36,1356,1656,Devin Cannady Steal.,44,42,2,1,0.8034041079783721,0.5710730333164341,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,127,1,2:35,1355,1655,Devin Cannady Turnover.,44,42,2,1,0.8033728158947665,0.5711030741531837,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,128,1,2:34,1354,1654,Official TV Timeout,44,42,2,1,0.8033415072507623,0.5711331287607592,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,129,1,2:19,1339,1639,Zach Hunsaker made Three Point Jumper.,44,45,-1,15,0.7254868006388471,0.46402154290519043,3,4,8.5,NA,NA,Brown,made,Zach Hunsaker,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,130,1,1:57,1317,1617,Foul on Zach Hunsaker.,44,45,-1,22,0.7237887324018258,0.4636775091464316,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,131,1,1:57,1317,1617,Devin Cannady made Free Throw.,45,45,0,0,0.7519202244004369,0.5,3,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,132,1,1:57,1317,1617,Devin Cannady made Free Throw.,46,45,1,0,0.7780651202641142,0.5363224908535684,3,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,133,1,1:44,1304,1604,Matt DeWolf made Layup. Assisted by Brandon Anderson.,46,47,-1,13,0.722774127050687,0.4634686856852727,3,4,8.5,NA,NA,Brown,made,Matt DeWolf,Brandon Anderson,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,134,1,1:25,1285,1585,Devin Cannady made Three Point Jumper. Assisted by Jerome Desrosiers.,49,47,2,19,0.8011920118585347,0.5732951248202566,3,4,8.5,NA,NA,Princeton,made,Devin Cannady,Jerome Desrosiers,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,135,1,1:05,1265,1565,Brandon Anderson missed Three Point Jumper.,49,47,2,20,0.8005969335146152,0.5739799384781094,3,4,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,TRUE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,136,1,1:05,1265,1565,Matt DeWolf Offensive Rebound.,49,47,2,0,0.8005969335146152,0.5739799384781094,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,137,1,0:57,1257,1557,Zach Hunsaker missed Jumper.,49,47,2,8,0.8003657097877617,0.5742646506108325,3,4,8.5,NA,NA,Brown,missed,Zach Hunsaker,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,138,1,0:57,1257,1557,Amir Bell Defensive Rebound.,49,47,2,0,0.8003657097877617,0.5742646506108325,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,139,1,0:56,1256,1556,Foul on Matt DeWolf.,49,47,2,1,0.8003371202451492,0.5743007145911925,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,140,1,0:56,1256,1556,Amir Bell missed Free Throw.,49,47,2,0,0.8003371202451492,0.5743007145911925,3,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,141,1,0:56,1256,1556,Zach Hunsaker Defensive Rebound.,49,47,2,0,0.8003371202451492,0.5743007145911925,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,142,1,0:42,1242,1542,Brandon Anderson made Jumper.,49,49,0,14,0.7473287985206759,0.5,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,143,1,0:32,1232,1532,Princeton  Timeout,49,49,0,10,0.7467134554617856,0.5,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,144,1,0:08,1208,1508,Amir Bell missed Layup.,49,49,0,24,0.7452383771390408,0.5,3,3,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,145,1,0:08,1208,1508,Desmond Cambridge Defensive Rebound.,49,49,0,0,0.7452383771390408,0.5,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,146,1,0:01,1201,1501,Joshua Howard missed Layup.,49,49,0,7,0.7448096332573074,0.5,3,3,8.5,NA,NA,Brown,missed,Joshua Howard,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,147,1,0:01,1201,1501,Amir Bell Defensive Rebound.,49,49,0,0,0.7448096332573074,0.5,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,148,1,0:00,1200,1500,End of 1st half,49,49,0,1,0.7447484792182275,0.5,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA
+400991601,2018-02-03,Princeton,Brown,149,2,20:00,1200,1500,PLAY,49,49,0,0,0.7447484792182275,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+400991601,2018-02-03,Princeton,Brown,150,2,19:52,1192,1492,Sebastian Much Turnover.,49,49,0,8,0.7442600229253256,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,151,2,19:42,1182,1482,Desmond Cambridge missed Jumper.,49,49,0,10,0.7436511547773023,0.5,4,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,152,2,19:42,1182,1482,Sebastian Much Defensive Rebound.,49,49,0,0,0.7436511547773023,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,153,2,19:30,1170,1470,Sebastian Much missed Layup.,49,49,0,12,0.7429224559848194,0.5,4,4,8.5,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,154,2,19:30,1170,1470,Brandon Anderson Defensive Rebound.,49,49,0,0,0.7429224559848194,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,155,2,19:21,1161,1461,Zach Hunsaker missed Jumper.,49,49,0,9,0.742376910740185,0.5,4,4,8.5,NA,NA,Brown,missed,Zach Hunsaker,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,156,2,19:21,1161,1461,Amir Bell Defensive Rebound.,49,49,0,0,0.742376910740185,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,157,2,18:55,1135,1435,Will Gladson made Layup. Assisted by Myles Stephens.,51,49,2,26,0.7972381708152108,0.5790750020014303,4,4,8.5,NA,NA,Princeton,made,Will Gladson,Myles Stephens,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,158,2,18:38,1118,1418,Foul on Amir Bell.,51,49,2,17,0.7968081569842617,0.5797337455372664,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,159,2,18:33,1113,1413,Foul on Will Gladson.,51,49,2,5,0.7966822862878598,0.5799286487915525,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,160,2,18:26,1106,1406,Obi Okolie missed Layup.,51,49,2,7,0.7965067401270755,0.5802029348486691,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,161,2,18:26,1106,1406,Devin Cannady Defensive Rebound.,51,49,2,0,0.7965067401270755,0.5802029348486691,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,162,2,18:02,1082,1382,Devin Cannady missed Jumper.,51,49,2,24,0.795913164443589,0.5811618567500779,4,4,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,163,2,18:02,1082,1382,Desmond Cambridge Defensive Rebound.,51,49,2,0,0.795913164443589,0.5811618567500779,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,164,2,17:53,1073,1373,Brandon Anderson made Layup.,51,51,0,9,0.737020211522327,0.5,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,165,2,17:35,1055,1355,Myles Stephens missed Three Point Jumper.,51,51,0,18,0.7359034643068223,0.5,4,4,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,166,2,17:35,1055,1355,Richmond Aririguzoh Offensive Rebound.,51,51,0,0,0.7359034643068223,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,167,2,17:30,1050,1350,Amir Bell made Three Point Jumper. Assisted by Richmond Aririguzoh.,54,51,3,5,0.8209512280643239,0.6223719432175817,4,4,8.5,NA,NA,Princeton,made,Amir Bell,Richmond Aririguzoh,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,168,2,17:14,1034,1334,Foul on Myles Stephens.,54,51,3,16,0.8208402060828366,0.6234095533496185,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,169,2,17:14,1034,1334,Brandon Anderson made Free Throw.,54,52,2,0,0.7947885508056518,0.5832259131374267,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,170,2,17:14,1034,1334,Brandon Anderson made Free Throw.,54,53,1,0,0.7660284979228081,0.5419052543552663,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,171,2,16:58,1018,1318,Mike LeBlanc missed Three Point Jumper.,54,53,1,16,0.7653682787628803,0.5422888945888786,4,4,8.5,NA,NA,Princeton,missed,Mike LeBlanc,NA,TRUE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,172,2,16:58,1018,1318,Sebastian Much Offensive Rebound.,54,53,1,0,0.7653682787628803,0.5422888945888786,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,173,2,16:55,1015,1315,Foul on Desmond Cambridge.,54,53,1,3,0.7652447697149911,0.5423630666011812,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,174,2,16:48,1008,1308,Foul on Zach Hunsaker.,54,53,1,7,0.7649569551735415,0.5425390898677398,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,175,2,16:34,994,1294,Mike LeBlanc made Layup.,56,53,3,14,0.820677192600292,0.6262403658972704,4,4,8.5,NA,NA,Princeton,made,Mike LeBlanc,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,176,2,16:14,974,1274,Obi Okolie missed Three Point Jumper.,56,53,3,20,0.8206703818822841,0.6278109426143734,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,177,2,16:14,974,1274,Princeton Defensive Rebound.,56,53,3,0,0.8206703818822841,0.6278109426143734,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,178,2,16:00,960,1260,Sebastian Much Turnover.,56,53,3,14,0.8206863968671977,0.6289425483603995,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,179,2,15:59,959,1259,Desmond Cambridge Steal.,56,53,3,1,0.8206867935467725,0.6290203305153268,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,180,2,15:55,955,1255,Brandon Anderson made Layup. Assisted by Obi Okolie.,56,55,1,4,0.7628056221294748,0.5439968566144212,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,Obi Okolie,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,181,2,15:36,936,1236,Aaron Young made Layup.,58,55,3,19,0.8206686099992201,0.6306999429139066,4,4,8.5,NA,NA,Princeton,made,Aaron Young,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,182,2,15:11,911,1211,Tamenang Choh made Layup.,58,57,1,25,0.761140182619594,0.5450677052811571,4,4,8.5,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,183,2,15:11,911,1211,Foul on Aaron Young.,58,57,1,0,0.761140182619594,0.5450677052811571,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,184,2,15:11,911,1211,Official TV Timeout,58,57,1,0,0.761140182619594,0.5450677052811571,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,185,2,15:11,911,1211,Tamenang Choh made Free Throw.,58,58,0,0,0.7267467995020828,0.5,4,4,8.5,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,186,2,14:43,883,1183,Amir Bell missed Layup.,58,58,0,28,0.7251522600325376,0.5,4,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,187,2,14:43,883,1183,Obi Okolie Defensive Rebound.,58,58,0,0,0.7251522600325376,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,188,2,14:32,872,1172,Foul on Mike LeBlanc.,58,58,0,11,0.7245343484785904,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,189,2,14:30,870,1170,Brandon Anderson Turnover.,58,58,0,2,0.7244220898282591,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,190,2,14:30,870,1170,Amir Bell Steal.,58,58,0,0,0.7244220898282591,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,191,2,14:30,870,1170,Foul on Desmond Cambridge.,58,58,0,0,0.7244220898282591,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,192,2,14:15,855,1155,Devin Cannady made Layup. Assisted by Sebastian Much.,60,58,2,15,0.7914488366206419,0.5917973377623946,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,Sebastian Much,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,193,2,14:10,850,1150,Foul on Amir Bell.,60,58,2,5,0.7913650827685218,0.5920164495216145,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,194,2,14:00,840,1140,Obi Okolie made Layup.,60,60,0,10,0.7227248017089913,0.5,4,4,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,195,2,13:46,826,1126,Myles Stephens Turnover.,60,60,0,14,0.7219125900938336,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,196,2,13:29,809,1109,Foul on Richmond Aririguzoh.,60,60,0,17,0.7208959009709283,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,197,2,13:29,809,1109,Tamenang Choh missed Free Throw.,60,60,0,0,0.7208959009709283,0.5,4,4,8.5,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,198,2,13:29,809,1109,Brown Deadball Team Rebound.,60,60,0,0,0.7208959009709283,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,199,2,13:29,809,1109,Tamenang Choh missed Free Throw.,60,60,0,0,0.7208959009709283,0.5,4,4,8.5,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,200,2,13:29,809,1109,Myles Stephens Defensive Rebound.,60,60,0,0,0.7208959009709283,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,201,2,13:10,790,1090,Foul on Joshua Howard.,60,60,0,19,0.7197059098557509,0.5,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,202,2,13:10,790,1090,Myles Stephens made Free Throw.,61,60,1,0,0.7568326797906348,0.5479494765024744,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,203,2,13:10,790,1090,Myles Stephens made Free Throw.,62,60,2,0,0.7904734431460164,0.595025044804859,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,204,2,12:51,771,1071,Obi Okolie Turnover.,62,60,2,19,0.7902486240749812,0.5962045156604113,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,205,2,12:40,760,1060,Sebastian Much missed Three Point Jumper.,62,60,2,11,0.7901343931674263,0.5969561405294912,4,4,8.5,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,206,2,12:40,760,1060,Obi Okolie Defensive Rebound.,62,60,2,0,0.7901343931674263,0.5969561405294912,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,207,2,12:22,742,1042,Brandon Anderson missed Layup.,62,60,2,18,0.7899754325556321,0.5983106879301958,4,4,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,208,2,12:22,742,1042,Myles Stephens Defensive Rebound.,62,60,2,0,0.7899754325556321,0.5983106879301958,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,209,2,12:11,731,1031,Sebastian Much made Layup. Assisted by Amir Bell.,64,60,4,11,0.8489680965907579,0.6909264813328339,4,4,8.5,NA,NA,Princeton,made,Sebastian Much,Amir Bell,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,210,2,11:59,719,1019,Chris Sullivan made Three Point Jumper. Assisted by Brandon Anderson.,64,63,1,12,0.7540905204448504,0.5506244657267529,4,4,8.5,NA,NA,Brown,made,Chris Sullivan,Brandon Anderson,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,211,2,11:37,697,997,Amir Bell made Three Point Jumper. Assisted by Jerome Desrosiers.,67,63,4,22,0.8500985279925216,0.6955851119505065,4,4,8.5,NA,NA,Princeton,made,Amir Bell,Jerome Desrosiers,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,212,2,11:17,677,977,Obi Okolie made Jumper.,67,65,2,20,0.789244946279129,0.6031829119735582,4,4,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,213,2,10:52,652,952,Devin Cannady made Layup.,69,65,4,25,0.8511078604028001,0.7007498362291675,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,214,2,10:52,652,952,Foul on Joshua Howard.,69,65,4,0,0.8511078604028001,0.7007498362291675,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,215,2,10:52,652,952,Official TV Timeout,69,65,4,0,0.8511078604028001,0.7007498362291675,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,216,2,10:52,652,952,Devin Cannady made Free Throw.,70,65,5,0,0.8761031514251507,0.7433757779721992,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,217,2,10:42,642,942,Foul on Amir Bell.,70,65,5,10,0.8764402947317004,0.744678108617619,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,218,2,10:42,642,942,Desmond Cambridge made Free Throw.,70,66,4,0,0.8513284756285034,0.7018957414320413,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,219,2,10:42,642,942,Desmond Cambridge made Free Throw.,70,67,3,0,0.8221486759248542,0.6552632978155842,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,220,2,10:21,621,921,Foul on Desmond Cambridge.,70,67,3,21,0.8223146928047302,0.6573346166217005,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,221,2,10:21,621,921,Myles Stephens missed Free Throw.,70,67,3,0,0.8223146928047302,0.6573346166217005,4,4,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,222,2,10:21,621,921,Princeton Deadball Team Rebound.,70,67,3,0,0.8223146928047302,0.6573346166217005,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,223,2,10:21,621,921,Myles Stephens made Free Throw.,71,67,4,0,0.8518588581704793,0.7044511907649676,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,224,2,9:57,597,897,Zach Hunsaker made Jumper.,71,69,2,24,0.7880602475979334,0.6088192519815162,4,4,8.5,NA,NA,Brown,made,Zach Hunsaker,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,225,2,9:41,581,881,Aaron Young made Jumper.,73,69,4,16,0.85336595211409,0.7103906984680445,4,4,8.5,NA,NA,Princeton,made,Aaron Young,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,226,2,9:17,557,857,Foul on Myles Stephens.,73,69,4,24,0.8547627105656939,0.7150020406612837,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,227,2,9:17,557,857,Obi Okolie missed Free Throw.,73,69,4,0,0.8547627105656939,0.7150020406612837,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,228,2,9:17,557,857,Brown Deadball Team Rebound.,73,69,4,0,0.8547627105656939,0.7150020406612837,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,229,2,9:17,557,857,Obi Okolie missed Free Throw.,73,69,4,0,0.8547627105656939,0.7150020406612837,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,230,2,9:17,557,857,Devin Cannady Defensive Rebound.,73,69,4,0,0.8547627105656939,0.7150020406612837,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,231,2,8:56,536,836,Jerome Desrosiers missed Three Point Jumper.,73,69,4,21,0.8561657990677564,0.719439743473581,4,4,8.5,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,232,2,8:56,536,836,Aaron Young Offensive Rebound.,73,69,4,0,0.8561657990677564,0.719439743473581,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,233,2,8:40,520,820,Sebastian Much made Layup.,75,69,6,16,0.9062022084209584,0.8074752760735444,4,4,8.5,NA,NA,Princeton,made,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,234,2,8:11,491,791,Chris Sullivan missed Layup.,75,69,6,29,0.9080012402759488,0.8128725420955305,4,4,8.5,NA,NA,Brown,missed,Chris Sullivan,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,235,2,8:11,491,791,Obi Okolie Offensive Rebound.,75,69,6,0,0.9080012402759488,0.8128725420955305,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,236,2,8:10,490,790,Obi Okolie made Layup.,75,71,4,1,0.8581760595805542,0.7271118801299634,4,4,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,237,2,8:10,490,790,Foul on Mike LeBlanc.,75,71,4,0,0.8581760595805542,0.7271118801299634,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,238,2,8:10,490,790,Obi Okolie made Free Throw.,75,72,3,0,0.8256661286622246,0.6759045613611845,4,4,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,239,2,7:50,470,770,Myles Stephens made Layup.,77,72,5,20,0.8867307546484882,0.7768671810609696,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,240,2,7:35,455,755,Obi Okolie missed Three Point Jumper.,77,72,5,15,0.8879607902762604,0.7803642570494889,4,4,8.5,NA,NA,Brown,missed,Obi Okolie,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,241,2,7:35,455,755,Devin Cannady Defensive Rebound.,77,72,5,0,0.8879607902762604,0.7803642570494889,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,242,2,7:20,440,740,Foul on Zach Hunsaker.,77,72,5,15,0.8895483763089427,0.7845675733730149,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,243,2,7:20,440,740,Official TV Timeout,77,72,5,0,0.8895483763089427,0.7845675733730149,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,244,2,7:20,440,740,Devin Cannady missed Free Throw.,77,72,5,0,0.8895483763089427,0.7845675733730149,4,4,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,245,2,7:20,440,740,Zach Hunsaker Defensive Rebound.,77,72,5,0,0.8895483763089427,0.7845675733730149,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,246,2,6:47,407,707,Brandon Anderson missed Layup.,77,72,5,33,0.8936831990839605,0.7952469972344326,4,4,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,247,2,6:47,407,707,Desmond Cambridge Offensive Rebound.,77,72,5,0,0.8936831990839605,0.7952469972344326,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,248,2,6:47,407,707,Foul on Devin Cannady.,77,72,5,0,0.8936831990839605,0.7952469972344326,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,249,2,6:47,407,707,Desmond Cambridge made Free Throw.,77,73,4,0,0.8650121000443353,0.7475293743283881,4,4,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,250,2,6:47,407,707,Desmond Cambridge missed Free Throw.,77,73,4,0,0.8650121000443353,0.7475293743283881,4,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,251,2,6:47,407,707,Sebastian Much Defensive Rebound.,77,73,4,0,0.8650121000443353,0.7475293743283881,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,252,2,6:18,378,678,Amir Bell missed Three Point Jumper.,77,73,4,29,0.867508848797091,0.7554922798421061,4,4,8.5,NA,NA,Princeton,missed,Amir Bell,NA,TRUE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,253,2,6:18,378,678,Sebastian Much Offensive Rebound.,77,73,4,0,0.867508848797091,0.7554922798421061,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,254,2,6:12,372,672,Sebastian Much made Layup.,79,73,6,6,0.9207442470945449,0.8463316453678879,4,4,8.5,NA,NA,Princeton,made,Sebastian Much,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,255,2,5:46,346,646,Desmond Cambridge missed Dunk.,79,73,6,26,0.92413459551664,0.8549983140613995,4,4,8.5,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,256,2,5:46,346,646,Brown Offensive Rebound.,79,73,6,0,0.92413459551664,0.8549983140613995,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,257,2,5:34,334,634,Zach Hunsaker made Three Point Jumper.,79,76,3,12,0.8350049449047318,0.7122001265264202,4,4,8.5,NA,NA,Brown,made,Zach Hunsaker,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,258,2,5:02,302,602,Myles Stephens made Jumper.,81,76,5,32,0.9086966761963554,0.8335144406752024,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,259,2,5:02,302,602,Foul on Obi Okolie.,81,76,5,0,0.9086966761963554,0.8335144406752024,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,260,2,5:02,302,602,Myles Stephens made Free Throw.,82,76,6,0,0.9321359761466598,0.8735690584045104,4,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,261,2,4:52,292,592,Brandon Anderson made Layup.,82,78,4,10,0.878344532637702,0.7856121062468007,4,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,262,2,4:23,263,563,Sebastian Much Turnover.,82,78,4,29,0.8734073330148457,0.7823016929504202,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,263,2,4:22,262,562,Zach Hunsaker Steal.,82,78,4,1,0.8731705260073556,0.7820915470155663,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,264,2,4:16,256,556,Brandon Anderson Turnover.,82,78,4,6,0.8717534444485204,0.780851929789235,4,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,265,2,4:02,242,542,Devin Cannady made Three Point Jumper. Assisted by Amir Bell.,85,78,7,14,0.9445251715904895,0.9004229797341594,4,4,8.5,NA,NA,Princeton,made,Devin Cannady,Amir Bell,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,266,2,3:49,229,529,Zach Hunsaker made Three Point Jumper. Assisted by Joshua Howard.,85,81,4,13,0.8675726674310756,0.7789455313960615,4,4,8.5,NA,NA,Brown,made,Zach Hunsaker,Joshua Howard,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,267,2,3:47,227,527,Brown  Timeout,85,81,4,2,0.8675515858176194,0.7792593194210347,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,268,2,3:47,227,527,Official TV Timeout,85,81,4,0,0.8675515858176194,0.7792593194210347,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,269,2,3:27,207,507,Myles Stephens made Layup.,87,81,6,20,0.9286651588363525,0.8775343885460694,3,4,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,270,2,3:18,198,498,Foul on Mike LeBlanc.,87,81,6,9,0.9326427552964597,0.8850432451272899,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,271,2,3:18,198,498,Official TV Timeout,87,81,6,0,0.9326427552964597,0.8850432451272899,3,4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,272,2,3:18,198,498,Brandon Anderson made Free Throw.,87,82,5,0,0.907864237532474,0.8456522974128022,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,273,2,3:18,198,498,Brandon Anderson made Free Throw.,87,83,4,0,0.8751903466731564,0.7958767453064896,3,4,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,274,2,3:01,181,481,Princeton  Timeout,87,83,4,17,0.8870696009246158,0.8167628851575134,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,275,2,2:49,169,469,Devin Cannady missed Three Point Jumper.,87,83,4,12,0.895640746208743,0.8317331208062391,3,3,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,TRUE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,276,2,2:49,169,469,Sebastian Much Offensive Rebound.,87,83,4,0,0.895640746208743,0.8317331208062391,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,277,2,2:19,139,439,Devin Cannady missed Layup.,87,83,4,30,0.9172381124257636,0.8690375103274751,3,3,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,278,2,2:19,139,439,Brandon Anderson Block.,87,83,4,0,0.9172381124257636,0.8690375103274751,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,279,2,2:19,139,439,Princeton Offensive Rebound.,87,83,4,0,0.9172381124257636,0.8690375103274751,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,280,2,2:15,135,435,Devin Cannady missed Three Point Jumper.,87,83,4,4,0.9202141194045372,0.8741017540171041,3,3,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,281,2,2:15,135,435,Desmond Cambridge Defensive Rebound.,87,83,4,0,0.9202141194045372,0.8741017540171041,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,282,2,1:54,114,414,Foul on Sebastian Much.,87,83,4,21,0.9362137515475633,0.9009652155473389,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,283,2,1:54,114,414,Obi Okolie missed Free Throw.,87,83,4,0,0.9362137515475633,0.9009652155473389,3,3,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,284,2,1:54,114,414,Brown Deadball Team Rebound.,87,83,4,0,0.9362137515475633,0.9009652155473389,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,285,2,1:54,114,414,Obi Okolie missed Free Throw.,87,83,4,0,0.9362137515475633,0.9009652155473389,3,3,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,286,2,1:54,114,414,Devin Cannady Defensive Rebound.,87,83,4,0,0.9362137515475633,0.9009652155473389,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,287,2,1:23,83,383,Amir Bell missed Layup.,87,83,4,31,0.9592557778866035,0.9385901133603047,3,3,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,288,2,1:23,83,383,Tamenang Choh Defensive Rebound.,87,83,4,0,0.9592557778866035,0.9385901133603047,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,289,2,1:00,60,360,Brandon Anderson made Layup.,87,85,2,23,0.879635802268174,0.8311073883410851,3,3,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,290,2,0:36,36,336,Devin Cannady made Jumper.,89,85,4,24,0.9835627614167962,0.9767147467015161,3,3,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,291,2,0:27,27,327,Brandon Anderson missed Layup.,89,85,4,9,0.9866260290169089,0.9813188194015151,3,3,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,292,2,0:27,27,327,Amir Bell Block.,89,85,4,0,0.9866260290169089,0.9813188194015151,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,293,2,0:27,27,327,Brown Offensive Rebound.,89,85,4,0,0.9866260290169089,0.9813188194015151,3,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,294,2,0:27,27,327,Brown  Timeout,89,85,4,0,0.9866260290169089,0.9813188194015151,2,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,295,2,0:25,25,325,Desmond Cambridge made Three Point Jumper. Assisted by Obi Okolie.,89,88,1,2,0.7923585421186995,0.7316708828961294,2,3,8.5,NA,NA,Brown,made,Desmond Cambridge,Obi Okolie,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,296,2,0:20,20,320,Foul on Zach Hunsaker.,89,88,1,5,0.7962134960670856,0.7379926915594887,2,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,297,2,0:20,20,320,Amir Bell made Free Throw.,90,88,2,0,0.9167018534241165,0.8880646474908184,2,3,8.5,NA,NA,Princeton,made,Amir Bell,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,298,2,0:20,20,320,Amir Bell missed Free Throw.,90,88,2,0,0.9167018534241165,0.8880646474908184,2,3,8.5,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,299,2,0:20,20,320,Desmond Cambridge Defensive Rebound.,90,88,2,0,0.9167018534241165,0.8880646474908184,2,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,300,2,0:06,6,306,Foul on Devin Cannady.,90,88,2,14,0.9286883487205276,0.9059288265680565,2,3,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,301,2,0:06,6,306,Desmond Cambridge made Free Throw.,90,89,1,0,0.8075640413691357,0.7562915917287648,2,3,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,302,2,0:06,6,306,Desmond Cambridge made Free Throw.,90,90,0,0,0.5748835584266293,0.5,2,3,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,303,2,0:06,6,306,Princeton  Timeout,90,90,0,0,0.5748835584266293,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,304,2,0:04,4,304,Princeton  Timeout,90,90,0,2,0.5739792398350642,0.5,2,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,305,2,0:00,300,300,Myles Stephens missed Layup.,90,90,0,4,0.6649190066406802,0.5,2,1,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,306,2,0:00,300,300,Desmond Cambridge Block.,90,90,0,0,0.6649190066406802,0.5,2,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,307,2,0:00,300,300,Brandon Anderson Defensive Rebound.,90,90,0,0,0.6649190066406802,0.5,2,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,308,2,0:00,300,300,End of 2nd half,90,90,0,0,0.6649190066406802,0.5,2,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,NA
+400991601,2018-02-03,Princeton,Brown,309,3,5:00,300,300,PLAY,90,90,0,0,0.6649190066406802,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+400991601,2018-02-03,Princeton,Brown,310,3,4:39,279,279,Myles Stephens made Layup.,92,90,2,21,0.7882835693409801,0.6565548719716765,3,2,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,311,3,4:13,253,253,Desmond Cambridge made Dunk.,92,92,0,26,0.6554648918543782,0.5,3,2,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,312,3,3:48,228,228,Devin Cannady missed Three Point Jumper.,92,92,0,25,0.650021074053285,0.5,3,2,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,TRUE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,313,3,3:48,228,228,Desmond Cambridge Defensive Rebound.,92,92,0,0,0.650021074053285,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,314,3,3:21,201,201,Obi Okolie made Layup.,92,94,-2,27,0.47975524670569325,0.3381860081245954,3,2,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,315,3,2:52,172,172,Mike LeBlanc missed Layup.,92,94,-2,29,0.4426693911583381,0.313067154790748,3,2,8.5,NA,NA,Princeton,missed,Mike LeBlanc,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,316,3,2:52,172,172,Tamenang Choh Block.,92,94,-2,0,0.4426693911583381,0.313067154790748,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,317,3,2:51,171,171,Desmond Cambridge Defensive Rebound.,92,94,-2,1,0.4412853881238992,0.3121289439511255,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,318,3,2:48,168,168,Zach Hunsaker missed Three Point Jumper.,92,94,-2,3,0.43710385200728513,0.30929632015572417,3,2,8.5,NA,NA,Brown,missed,Zach Hunsaker,NA,TRUE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,319,3,2:48,168,168,Myles Stephens Block.,92,94,-2,0,0.43710385200728513,0.30929632015572417,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,320,3,2:45,165,165,Amir Bell Defensive Rebound.,92,94,-2,3,0.432873430690185,0.30643282813851236,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,321,3,2:34,154,154,Devin Cannady made Layup.,94,94,0,11,0.6301040444940282,0.5,3,2,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,322,3,2:12,132,132,Foul on Amir Bell.,94,94,0,22,0.6232722512129236,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,323,3,2:12,132,132,Brandon Anderson made Free Throw.,94,95,-1,0,0.502562573443632,0.37913760331156826,3,2,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,324,3,2:12,132,132,Brandon Anderson made Free Throw.,94,96,-2,0,0.3815534362599772,0.2716196693436019,3,2,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,325,3,1:57,117,117,Devin Cannady made Jumper.,96,96,0,15,0.6183588663820864,0.5,3,2,8.5,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,326,3,1:34,94,94,Foul on Brandon Anderson.,96,96,0,23,0.6103633330202475,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,327,3,1:34,94,94,Brandon Anderson Turnover.,96,96,0,0,0.6103633330202475,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,328,3,1:16,76,76,Myles Stephens missed Layup.,96,96,0,18,0.6037553825633533,0.5,3,2,8.5,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,329,3,1:16,76,76,Tamenang Choh Defensive Rebound.,96,96,0,0,0.6037553825633533,0.5,3,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,330,3,1:11,71,71,Brown  Timeout,96,96,0,5,0.6018603382648073,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,331,3,0:59,59,59,Obi Okolie missed Layup.,96,96,0,12,0.5972111231794897,0.5,2,2,8.5,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,332,3,0:59,59,59,Obi Okolie Offensive Rebound.,96,96,0,0,0.5972111231794897,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,333,3,0:57,57,57,Obi Okolie made Layup.,96,98,-2,2,0.22527235429654482,0.16440853506850214,2,2,8.5,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Princeton
+400991601,2018-02-03,Princeton,Brown,334,3,0:44,44,44,Sebastian Much made Layup. Assisted by Mike LeBlanc.,98,98,0,13,0.5911997263284895,0.5,2,2,8.5,NA,NA,Princeton,made,Sebastian Much,Mike LeBlanc,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,335,3,0:44,44,44,Foul on Zach Hunsaker.,98,98,0,0,0.5911997263284895,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,336,3,0:44,44,44,Sebastian Much missed Free Throw.,98,98,0,0,0.5911997263284895,0.5,2,2,8.5,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,337,3,0:44,44,44,Sebastian Much Offensive Rebound.,98,98,0,0,0.5911997263284895,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,338,3,0:17,17,17,Devin Cannady missed Layup.,98,98,0,27,0.5797776732661284,0.5,2,2,8.5,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,339,3,0:17,17,17,Myles Stephens Offensive Rebound.,98,98,0,0,0.5797776732661284,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,340,3,0:15,15,15,Foul on Brandon Anderson.,98,98,0,2,0.5788987691009844,0.5,2,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,341,3,0:15,15,15,Myles Stephens made Free Throw.,99,98,1,0,0.8001887485653651,0.7444485703793552,2,2,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,342,3,0:15,15,15,Brown  Timeout,99,98,1,0,0.8001887485653651,0.7444485703793552,1,2,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991601,2018-02-03,Princeton,Brown,343,3,0:15,15,15,Myles Stephens made Free Throw.,100,98,2,0,0.9210496338968518,0.8945836042239772,1,2,8.5,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Brown
+400991601,2018-02-03,Princeton,Brown,344,3,0:05,5,5,Desmond Cambridge made Three Point Jumper.,100,101,-1,10,0.3015986096672038,0.2423839768081326,1,2,8.5,NA,NA,Brown,made,Desmond Cambridge,NA,TRUE,FALSE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,345,3,0:05,5,5,Princeton  Timeout,100,101,-1,0,0.3015986096672038,0.2423839768081326,1,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,346,3,0:05,5,5,Mike LeBlanc Turnover.,100,101,-1,0,0.3015986096672038,0.2423839768081326,1,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,347,3,0:02,2,2,Foul on Aaron Young.,100,101,-1,3,0.2958732318060626,0.23840948742742968,1,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,348,3,0:02,2,2,Brandon Anderson made Free Throw.,100,102,-2,0,0.11624841381685734,0.08924905907234798,1,1,8.5,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,349,3,0:02,2,2,Brandon Anderson missed Free Throw.,100,102,-2,0,0.11624841381685734,0.08924905907234798,1,1,8.5,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,TRUE,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,350,3,0:02,2,2,Brandon Anderson Offensive Rebound.,100,102,-2,0,0.11624841381685734,0.08924905907234798,1,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+400991601,2018-02-03,Princeton,Brown,351,3,0:00,0,0,End of Game,100,100,0,2,5.6920025675377114e-18,4.248354255291589e-18,1,1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,Brown,NA

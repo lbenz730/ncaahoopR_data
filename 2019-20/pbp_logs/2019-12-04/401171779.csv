@@ -1,0 +1,330 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171779,2019-12-04,Drexel,Princeton,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5873323391118696,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+401171779,2019-12-04,Drexel,Princeton,2,1,19:31,2371,2371,Richmond Aririguzoh made Jumper.,0,2,-2,29,0.5431129155666765,0.45536062082229806,4,4,2.2,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,3,1,19:03,2343,2343,Camren Wynter made Jumper.,2,2,0,28,0.5868317232936779,0.5,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,4,1,18:41,2321,2321,Ryan Langborg made Three Point Jumper. Assisted by Tosan Evbuomwan.,2,5,-3,22,0.5187259970229885,0.4316533888996481,4,4,2.2,NA,NA,Princeton,made,Ryan Langborg,Tosan Evbuomwan,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,5,1,18:30,2310,2310,Sam Green made Three Point Jumper. Assisted by Camren Wynter.,5,5,0,11,0.5865257720541966,0.5,4,4,2.2,NA,NA,Drexel,made,Sam Green,Camren Wynter,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,6,1,18:07,2287,2287,Foul on James Butler.,5,5,0,23,0.5863051861739925,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,7,1,18:04,2284,2284,Drew Friberg missed Three Point Jumper.,5,5,0,3,0.5862759578995365,0.5,4,4,2.2,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,8,1,18:00,2280,2280,Sam Green Defensive Rebound.,5,5,0,4,0.5862368210436163,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,9,1,17:37,2257,2257,Camren Wynter made Layup. Assisted by James Butler.,7,5,2,23,0.6310337476102806,0.5471512577612353,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,James Butler,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,10,1,17:15,2235,2235,Ryan Langborg missed Jumper.,7,5,2,22,0.6312869483558512,0.5476503503565374,4,4,2.2,NA,NA,Princeton,missed,Ryan Langborg,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,11,1,17:11,2231,2231,Sam Green Defensive Rebound.,7,5,2,4,0.6313327168875352,0.5477414654678265,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,12,1,17:06,2226,2226,Foul on Tosan Evbuomwan.,7,5,2,5,0.6313897970087706,0.5478555076754315,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,13,1,17:04,2224,2224,Camren Wynter made Jumper. Assisted by Matey Juric.,9,5,4,2,0.6749096592960127,0.5949310531391636,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,Matey Juric,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,14,1,16:44,2204,2204,Ryan Langborg missed Three Point Jumper.,9,5,4,20,0.6755285054288671,0.5958218238502964,4,4,2.2,NA,NA,Princeton,missed,Ryan Langborg,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,15,1,16:40,2200,2200,Sam Green Defensive Rebound.,9,5,4,4,0.6756521260112126,0.5960004322513307,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,16,1,16:31,2191,2191,James Butler missed Jumper.,9,5,4,9,0.6759300233281489,0.5964027882570464,4,4,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,17,1,16:27,2187,2187,Richmond Aririguzoh Defensive Rebound.,9,5,4,4,0.6760534070808816,0.5965818144258899,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,18,1,16:17,2177,2177,Tosan Evbuomwan made Layup.,9,7,2,10,0.6319399021225304,0.5489804998329268,4,4,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,19,1,16:17,2177,2177,Foul on Sam Green.,9,7,2,0,0.6319399021225304,0.5489804998329268,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,20,1,16:17,2177,2177,Tosan Evbuomwan missed Free Throw.,9,7,2,0,0.6319399021225304,0.5489804998329268,4,4,2.2,NA,NA,Princeton,missed,Tosan Evbuomwan,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,21,1,16:14,2174,2174,Mate Okros Defensive Rebound.,9,7,2,3,0.6319729420289342,0.5490497341659156,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,22,1,16:03,2163,2163,Camren Wynter made Jumper.,11,7,4,11,0.6767918368779935,0.5976583357494077,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,23,1,15:53,2153,2153,Ryan Schwieger made Layup. Assisted by Jaelin Llewellyn.,11,9,2,10,0.6322024865728646,0.5495358270404799,4,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,Jaelin Llewellyn,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,24,1,15:28,2128,2128,Mate Okros made Layup.,13,9,4,25,0.6778683573551088,0.5992408130354591,4,4,2.2,NA,NA,Drexel,made,Mate Okros,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,25,1,15:12,2112,2112,Richmond Aririguzoh made Layup.,13,11,2,16,0.6326452080409841,0.5504949846856952,4,4,2.2,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,26,1,15:01,2101,2101,Sam Green Turnover.,13,11,2,11,0.6327630764861581,0.5507548434398758,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,27,1,15:01,2101,2101,Ryan Schwieger Steal.,13,11,2,0,0.6327630764861581,0.5507548434398758,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,28,1,14:59,2099,2099,Foul on Sam Green.,13,11,2,2,0.6327844757405213,0.5508022130575281,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,29,1,14:59,2099,2099,Official TV Timeout,13,11,2,0,0.6327844757405213,0.5508022130575281,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,30,1,14:35,2075,2075,Ryan Schwieger made Layup.,13,13,0,24,0.5839624227632587,0.5,4,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,31,1,14:07,2047,2047,Camren Wynter Turnover.,13,13,0,28,0.5836117591736638,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,32,1,13:54,2034,2034,Jaelin Llewellyn Turnover.,13,13,0,13,0.583445915041016,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,33,1,13:39,2019,2019,Zach Walton missed Layup.,13,13,0,15,0.5832522073423579,0.5,4,4,2.2,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,34,1,13:35,2015,2015,Ethan Wright Defensive Rebound.,13,13,0,4,0.5832001313613958,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,35,1,13:30,2010,2010,Ethan Wright missed Layup.,13,13,0,5,0.5831347893377375,0.5,4,4,2.2,NA,NA,Princeton,missed,Ethan Wright,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,36,1,13:26,2006,2006,Ethan Wright Offensive Rebound.,13,13,0,4,0.5830823189428167,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,37,1,13:22,2002,2002,Jaelin Llewellyn missed Jumper.,13,13,0,4,0.5830296744021718,0.5,4,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,38,1,13:17,1997,1997,Ryan Schwieger Offensive Rebound.,13,13,0,5,0.5829636249116216,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,39,1,13:16,1996,1996,Ryan Schwieger Turnover.,13,13,0,1,0.5829503826154194,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,40,1,13:16,1996,1996,Camren Wynter Steal.,13,13,0,0,0.5829503826154194,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,41,1,13:10,1990,1990,Camren Wynter missed Jumper.,13,13,0,6,0.5828707029801892,0.5,4,4,2.2,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,42,1,13:05,1985,1985,Jerome Desrosiers Defensive Rebound.,13,13,0,5,0.582804008733898,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,43,1,13:01,1981,1981,Ethan Wright missed Three Point Jumper.,13,13,0,4,0.5827504615354852,0.5,4,4,2.2,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,44,1,12:57,1977,1977,T.J. Bickerstaff Defensive Rebound.,13,13,0,4,0.5826967446136868,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,45,1,12:32,1952,1952,Zach Walton missed Three Point Jumper.,13,13,0,25,0.5823572126638258,0.5,4,4,2.2,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,46,1,12:32,1952,1952,Drexel Offensive Rebound.,13,13,0,0,0.5823572126638258,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,47,1,12:32,1952,1952,Foul on Ryan Schwieger.,13,13,0,0,0.5823572126638258,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,48,1,12:18,1938,1938,Foul on Drew Friberg.,13,13,0,14,0.5821642553797108,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,49,1,12:18,1938,1938,T.J. Bickerstaff made Free Throw.,14,13,1,0,0.6086484837293507,0.5274649491446592,4,4,2.2,NA,NA,Drexel,made,T.J. Bickerstaff,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,50,1,12:18,1938,1938,T.J. Bickerstaff made Free Throw.,15,13,2,0,0.6345079326953761,0.5547646572326396,4,4,2.2,NA,NA,Drexel,made,T.J. Bickerstaff,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,51,1,12:02,1922,1922,Jerome Desrosiers missed Three Point Jumper.,15,13,2,16,0.6346821216618876,0.5551767080428265,4,4,2.2,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,52,1,12:00,1920,1920,Drexel Defensive Rebound.,15,13,2,2,0.6347036546224135,0.5552282092553373,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,53,1,12:00,1920,1920,Official TV Timeout,15,13,2,0,0.6347036546224135,0.5552282092553373,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,54,1,11:41,1901,1901,James Butler made Jumper. Assisted by Coletrane Washington.,17,13,4,19,0.6850578213446094,0.6100669666124228,4,4,2.2,NA,NA,Drexel,made,James Butler,Coletrane Washington,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,55,1,11:24,1884,1884,Foul on Coletrane Washington.,17,13,4,17,0.685602883803743,0.6109085812400424,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,56,1,11:13,1873,1873,Drew Friberg missed Three Point Jumper.,17,13,4,11,0.6859538771634967,0.6114532770714997,4,4,2.2,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,57,1,11:09,1869,1869,Richmond Aririguzoh Offensive Rebound.,17,13,4,4,0.6860812779755796,0.6116514663134278,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,58,1,11:07,1867,1867,Richmond Aririguzoh made Layup.,17,15,2,2,0.6352529667966365,0.5565910708502205,4,4,2.2,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,59,1,11:00,1860,1860,Foul on T.J. Bickerstaff.,17,15,2,7,0.6353232297243323,0.5567714618903822,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,60,1,11:00,1860,1860,T.J. Bickerstaff Turnover.,17,15,2,0,0.6353232297243323,0.5567714618903822,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,61,1,10:48,1848,1848,Richmond Aririguzoh missed Layup.,17,15,2,12,0.6354429316041077,0.5570813358575178,4,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,62,1,10:48,1848,1848,James Butler Block.,17,15,2,0,0.6354429316041077,0.5570813358575178,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,63,1,10:44,1844,1844,Richmond Aririguzoh Offensive Rebound.,17,15,2,4,0.6354826661978618,0.5571848422813509,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,64,1,10:44,1844,1844,Richmond Aririguzoh missed Layup.,17,15,2,0,0.6354826661978618,0.5571848422813509,4,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,65,1,10:44,1844,1844,Matey Juric Block.,17,15,2,0,0.6354826661978618,0.5571848422813509,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,66,1,10:44,1844,1844,Richmond Aririguzoh Offensive Rebound.,17,15,2,0,0.6354826661978618,0.5571848422813509,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,67,1,10:44,1844,1844,Richmond Aririguzoh made Layup.,17,17,0,0,0.5808018923025391,0.5,4,4,2.2,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,68,1,10:44,1844,1844,Foul on Matey Juric.,17,17,0,0,0.5808018923025391,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,69,1,10:44,1844,1844,Richmond Aririguzoh missed Free Throw.,17,17,0,0,0.5808018923025391,0.5,4,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,70,1,10:44,1844,1844,Drew Friberg Offensive Rebound.,17,17,0,0,0.5808018923025391,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,71,1,10:25,1825,1825,Ryan Schwieger missed Jumper.,17,17,0,19,0.5805124996218385,0.5,4,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,72,1,10:20,1820,1820,James Butler Defensive Rebound.,17,17,0,5,0.580435645102589,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,73,1,10:10,1810,1810,Matey Juric missed Three Point Jumper.,17,17,0,10,0.5802810942732233,0.5,4,4,2.2,NA,NA,Drexel,missed,Matey Juric,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,74,1,10:05,1805,1805,Drew Friberg Defensive Rebound.,17,17,0,5,0.5802034072010425,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,75,1,9:57,1797,1797,Richmond Aririguzoh Turnover.,17,17,0,8,0.5800785517891968,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,76,1,9:39,1779,1779,Foul on Drew Friberg.,17,17,0,18,0.5797952140877098,0.5,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,77,1,9:39,1779,1779,Camren Wynter made Free Throw.,18,17,1,0,0.6083220224791175,0.5295484249705857,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,78,1,9:39,1779,1779,Camren Wynter made Free Throw.,19,17,2,0,0.6361276083191525,0.558891176178879,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,79,1,9:26,1766,1766,Jaelin Llewellyn missed Three Point Jumper.,19,17,2,13,0.6362589181120011,0.5592400706774223,4,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,80,1,9:21,1761,1761,Tadas Kararinas Defensive Rebound.,19,17,2,5,0.6363098513708882,0.5593751282492502,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,81,1,9:08,1748,1748,Tadas Kararinas made Three Point Jumper. Assisted by Camren Wynter.,22,17,5,13,0.7150529310374049,0.6456912786474477,4,4,2.2,NA,NA,Drexel,made,Tadas Kararinas,Camren Wynter,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,82,1,8:51,1731,1731,Ryan Schwieger made Jumper.,22,19,3,17,0.6641208843970672,0.5897523384320297,4,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,83,1,8:40,1720,1720,Camren Wynter made Jumper.,24,19,5,11,0.7162734502485641,0.647487960188666,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,84,1,8:38,1718,1718,Princeton  Timeout,24,19,5,2,0.7163619089920831,0.6476179250663648,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,85,1,8:23,1703,1703,Ryan Schwieger made Layup.,24,21,3,15,0.6647706081523188,0.590911618888767,3,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,86,1,8:11,1691,1691,Foul on Ryan Schwieger.,24,21,3,12,0.6650567402718061,0.591418341511539,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,87,1,7:50,1670,1670,Zach Walton made Jumper.,26,21,5,21,0.7185116819517684,0.6507776210489441,3,4,2.2,NA,NA,Drexel,made,Zach Walton,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,88,1,7:33,1653,1653,Foul on Tadas Kararinas.,26,21,5,17,0.7192372003211237,0.6518665295980064,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,89,1,7:33,1653,1653,Official TV Timeout,26,21,5,0,0.7192372003211237,0.6518665295980064,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,90,1,7:33,1653,1653,Jerome Desrosiers made Free Throw.,26,22,4,0,0.6932229164985869,0.6228829755347673,3,4,2.2,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,91,1,7:33,1653,1653,Jerome Desrosiers made Free Throw.,26,23,3,0,0.6659178662593191,0.5929930298549655,3,4,2.2,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,92,1,7:13,1633,1633,Tadas Kararinas made Jumper.,28,23,5,20,0.7200624222555041,0.6531229715936346,3,4,2.2,NA,NA,Drexel,made,Tadas Kararinas,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,93,1,7:02,1622,1622,Tosan Evbuomwan made Jumper. Assisted by Jaelin Llewellyn.,28,25,3,11,0.6665564932801126,0.5942317242215156,3,4,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,Jaelin Llewellyn,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,94,1,6:53,1613,1613,Foul on Jaelin Llewellyn.,28,25,3,9,0.6667352425531184,0.5945873570401082,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,95,1,6:33,1593,1593,Zach Walton made Three Point Jumper.,31,25,6,20,0.7467688148299696,0.6840546633369663,3,4,2.2,NA,NA,Drexel,made,Zach Walton,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,96,1,6:18,1578,1578,Ryan Langborg made Three Point Jumper. Assisted by Richmond Aririguzoh.,31,28,3,15,0.6674186963859446,0.5959686771630336,3,4,2.2,NA,NA,Princeton,made,Ryan Langborg,Richmond Aririguzoh,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,97,1,6:05,1565,1565,Tadas Kararinas made Layup. Assisted by Camren Wynter.,33,28,5,13,0.7227695716855925,0.6573272434263856,3,4,2.2,NA,NA,Drexel,made,Tadas Kararinas,Camren Wynter,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,98,1,5:56,1556,1556,Jaelin Llewellyn made Three Point Jumper.,33,31,2,9,0.6382321946009688,0.5650201787497676,3,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,99,1,5:38,1538,1538,Camren Wynter made Jumper.,35,31,4,18,0.6967586446804728,0.6288239499790219,3,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,100,1,5:29,1529,1529,Foul on Tadas Kararinas.,35,31,4,9,0.6970448221583669,0.6293043814913973,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,101,1,5:29,1529,1529,Jerome Desrosiers missed Free Throw.,35,31,4,0,0.6970448221583669,0.6293043814913973,3,4,2.2,NA,NA,Princeton,missed,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,102,1,5:29,1529,1529,Princeton Offensive Rebound.,35,31,4,0,0.6970448221583669,0.6293043814913973,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,103,1,5:29,1529,1529,Jerome Desrosiers made Free Throw.,35,32,3,0,0.6683997861681052,0.5979487119987036,3,4,2.2,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,104,1,5:17,1517,1517,Zach Walton Turnover.,35,32,3,12,0.6686545186877969,0.5984511113328203,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,105,1,5:17,1517,1517,Tosan Evbuomwan Steal.,35,32,3,0,0.6686545186877969,0.5984511113328203,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,106,1,5:09,1509,1509,Jaelin Llewellyn made Layup.,35,34,1,8,0.6072911105932692,0.5333198342919355,3,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,107,1,4:42,1482,1482,T.J. Bickerstaff missed Jumper.,35,34,1,27,0.6071781368911242,0.53372929806661,3,4,2.2,NA,NA,Drexel,missed,T.J. Bickerstaff,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,108,1,4:36,1476,1476,Jerome Desrosiers Defensive Rebound.,35,34,1,6,0.6071562052733968,0.5338233842763527,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,109,1,4:33,1473,1473,Ryan Schwieger missed Three Point Jumper.,35,34,1,3,0.6071457384416103,0.5338708937168383,3,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,110,1,4:28,1468,1468,Camren Wynter Defensive Rebound.,35,34,1,5,0.6071290710930867,0.5339507925546603,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,111,1,4:24,1464,1464,Camren Wynter made Jumper.,37,34,3,4,0.6699041153666998,0.6008039404893467,3,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,112,1,4:08,1448,1448,Jaelin Llewellyn made Three Point Jumper. Assisted by Jerome Desrosiers.,37,37,0,16,0.5738776985986042,0.5,3,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,Jerome Desrosiers,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,113,1,3:41,1421,1421,Zach Walton Turnover.,37,37,0,27,0.5733574192786488,0.5,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,114,1,3:41,1421,1421,Official TV Timeout,37,37,0,0,0.5733574192786488,0.5,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,115,1,3:10,1390,1390,Jaelin Llewellyn missed Three Point Jumper.,37,37,0,31,0.572745765869529,0.5,3,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,116,1,3:06,1386,1386,Mate Okros Defensive Rebound.,37,37,0,4,0.5726658823009554,0.5,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,117,1,2:50,1370,1370,Foul on Ryan Langborg.,37,37,0,16,0.572344439616319,0.5,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,118,1,2:50,1370,1370,James Butler made Free Throw.,38,37,1,0,0.6067524467376887,0.5355048141624769,3,4,2.2,NA,NA,Drexel,made,James Butler,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,119,1,2:50,1370,1370,James Butler missed Free Throw.,38,37,1,0,0.6067524467376887,0.5355048141624769,3,4,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,120,1,2:50,1370,1370,Jerome Desrosiers Defensive Rebound.,38,37,1,0,0.6067524467376887,0.5355048141624769,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,121,1,2:28,1348,1348,Jaelin Llewellyn missed Layup.,38,37,1,22,0.6066390304691,0.5358401068002393,3,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,122,1,2:25,1345,1345,James Butler Defensive Rebound.,38,37,1,3,0.6066235163614523,0.5358861104097971,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,123,1,2:01,1321,1321,T.J. Bickerstaff missed Three Point Jumper.,38,37,1,24,0.6065020186461527,0.5362591638148022,3,4,2.2,NA,NA,Drexel,missed,T.J. Bickerstaff,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,124,1,1:58,1318,1318,Tosan Evbuomwan Defensive Rebound.,38,37,1,3,0.6064873904239225,0.536306621648807,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,125,1,1:53,1313,1313,Jerome Desrosiers missed Three Point Jumper.,38,37,1,5,0.6064634083751447,0.5363862303455025,3,4,2.2,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,126,1,1:50,1310,1310,Coletrane Washington Defensive Rebound.,38,37,1,3,0.6064492833618099,0.5364343244612586,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,127,1,1:28,1288,1288,James Butler missed Jumper.,38,37,1,22,0.6063533314947391,0.5367958962565669,3,4,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,128,1,1:23,1283,1283,James Butler Offensive Rebound.,38,37,1,5,0.6063337844825067,0.5368805816157569,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,129,1,1:21,1281,1281,James Butler missed Layup.,38,37,1,2,0.6063262388733546,0.5369147491179248,3,4,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,130,1,1:18,1278,1278,Richmond Aririguzoh Defensive Rebound.,38,37,1,3,0.6063152275057756,0.5369663268984698,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,131,1,1:15,1275,1275,Jaelin Llewellyn made Layup. Assisted by Tosan Evbuomwan.,38,39,-1,3,0.5337276104411572,0.462981691763151,3,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,Tosan Evbuomwan,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,132,1,0:53,1253,1253,Camren Wynter missed Jumper.,38,39,-1,22,0.5328696102589349,0.4625869106622496,3,4,2.2,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,133,1,0:49,1249,1249,Camren Wynter Offensive Rebound.,38,39,-1,4,0.532710837263278,0.462512318079211,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,134,1,0:44,1244,1244,T.J. Bickerstaff made Jumper.,40,39,1,5,0.6062208722597499,0.5375822538442269,3,4,2.2,NA,NA,Drexel,made,T.J. Bickerstaff,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,135,1,0:27,1227,1227,Jerome Desrosiers missed Jumper.,40,39,1,17,0.6061991484254884,0.5379156530394639,3,4,2.2,NA,NA,Princeton,missed,Jerome Desrosiers,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,136,1,0:27,1227,1227,Mate Okros Block.,40,39,1,0,0.6061991484254884,0.5379156530394639,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,137,1,0:20,1220,1220,Jerome Desrosiers Offensive Rebound.,40,39,1,7,0.6061960667157583,0.5380586563247943,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,138,1,0:17,1217,1217,Jaelin Llewellyn missed Three Point Jumper.,40,39,1,3,0.6061958704071324,0.5381210309496294,3,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,139,1,0:11,1211,1211,James Butler Defensive Rebound.,40,39,1,6,0.6061975842851359,0.5382478079203356,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,140,1,0:00,1200,1200,Coletrane Washington missed Jumper.,40,39,1,11,0.606202557262272,0.5384812553577752,3,4,2.2,NA,NA,Drexel,missed,Coletrane Washington,NA,FALSE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,141,1,0:00,1200,1200,Drexel Offensive Rebound.,40,39,1,0,0.606202557262272,0.5384812553577752,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,142,1,0:00,1200,1200,End of 1st half,40,39,1,0,0.606202557262272,0.5384812553577752,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,NA
+401171779,2019-12-04,Drexel,Princeton,143,2,20:00,1200,1200,PLAY,40,39,1,0,0.606202557262272,0.5384812553577752,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drexel
+401171779,2019-12-04,Drexel,Princeton,144,2,19:45,1185,1185,James Butler made Jumper. Assisted by Mate Okros.,42,39,3,15,0.6775075620007406,0.614540249785984,4,4,2.2,NA,NA,Drexel,made,James Butler,Mate Okros,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,145,2,19:45,1185,1185,Foul on Jaelin Llewellyn.,42,39,3,0,0.6775075620007406,0.614540249785984,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,146,2,19:45,1185,1185,James Butler made Free Throw.,43,39,4,0,0.7105013559293669,0.6506543839352416,4,4,2.2,NA,NA,Drexel,made,James Butler,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,147,2,19:23,1163,1163,Richmond Aririguzoh made Layup. Assisted by Drew Friberg.,43,41,2,22,0.6430477421493219,0.5779892744979779,4,4,2.2,NA,NA,Princeton,made,Richmond Aririguzoh,Drew Friberg,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,148,2,19:00,1140,1140,James Butler made Layup.,45,41,4,23,0.7127093780670286,0.6539322327370383,4,4,2.2,NA,NA,Drexel,made,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,149,2,18:51,1131,1131,Foul on Richmond Aririguzoh.,45,41,4,9,0.7131432254090528,0.6545779701122947,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,150,2,18:51,1131,1131,Richmond Aririguzoh Turnover.,45,41,4,0,0.7131432254090528,0.6545779701122947,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,151,2,18:23,1103,1103,Matey Juric made Jumper. Assisted by James Butler.,47,41,6,28,0.7758187444306264,0.7255727102355465,4,4,2.2,NA,NA,Drexel,made,Matey Juric,James Butler,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,152,2,18:05,1085,1085,Richmond Aririguzoh missed Jumper.,47,41,6,18,0.7771002868300351,0.7273329458538029,4,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,153,2,18:01,1081,1081,James Butler Defensive Rebound.,47,41,6,4,0.7773902996711516,0.727730129695696,4,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,154,2,17:50,1070,1070,Camren Wynter made Jumper.,49,41,8,11,0.8298809058409371,0.7888992914513211,4,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,155,2,17:33,1053,1053,Ryan Langborg made Three Point Jumper. Assisted by Richmond Aririguzoh.,49,44,5,17,0.7495927333738773,0.6966443916549729,4,4,2.2,NA,NA,Princeton,made,Ryan Langborg,Richmond Aririguzoh,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,156,2,17:31,1051,1051,Princeton  Timeout,49,44,5,2,0.749729464374305,0.6968334957050613,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,157,2,17:24,1044,1044,Sam Green missed Three Point Jumper.,49,44,5,7,0.7502145571560408,0.6975029308196204,3,4,2.2,NA,NA,Drexel,missed,Sam Green,NA,TRUE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,158,2,17:20,1040,1040,James Butler Offensive Rebound.,49,44,5,4,0.7504965382226786,0.6978910136804309,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,159,2,17:19,1039,1039,James Butler made Layup.,51,44,7,1,0.8079488738518914,0.7636568599051665,3,4,2.2,NA,NA,Drexel,made,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,160,2,17:08,1028,1028,Richmond Aririguzoh missed Layup.,51,44,7,11,0.8089306947700894,0.7649655773903515,3,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,161,2,17:08,1028,1028,James Butler Block.,51,44,7,0,0.8089306947700894,0.7649655773903515,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,162,2,17:02,1022,1022,James Butler Defensive Rebound.,51,44,7,6,0.8094805436925262,0.765696348496472,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,163,2,16:43,1003,1003,Camren Wynter Turnover.,51,44,7,19,0.8112954787798773,0.7680978125434558,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,164,2,16:31,991,991,Jaelin Llewellyn missed Three Point Jumper.,51,44,7,12,0.8125050707954777,0.7696896267359989,3,4,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,165,2,16:27,987,987,Sam Green Defensive Rebound.,51,44,7,4,0.8129200430354216,0.770234212654496,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,166,2,16:15,975,975,Matey Juric made Jumper.,53,44,9,12,0.8612697878076947,0.8274222432006684,3,4,2.2,NA,NA,Drexel,made,Matey Juric,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,167,2,15:54,954,954,Official TV Timeout,53,44,9,21,0.8636040809013198,0.8304706891270237,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,168,2,15:48,948,948,Ryan Schwieger Turnover.,53,44,9,6,0.864219124446751,0.8312760309681618,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,169,2,15:28,928,928,Sam Green missed Three Point Jumper.,53,44,9,20,0.866126352520515,0.8337794365217384,3,4,2.2,NA,NA,Drexel,missed,Sam Green,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,170,2,15:25,925,925,Ryan Langborg Defensive Rebound.,53,44,9,3,0.8663964420177236,0.8341346323063141,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,171,2,15:08,908,908,Ryan Langborg missed Jumper.,53,44,9,17,0.8678677340083313,0.83607180904888,3,4,2.2,NA,NA,Princeton,missed,Ryan Langborg,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,172,2,15:04,904,904,Zach Walton Defensive Rebound.,53,44,9,4,0.8682021210161639,0.8365124768160598,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,173,2,14:58,898,898,Camren Wynter Turnover.,53,44,9,6,0.8686975099043223,0.8371654617054148,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,174,2,14:37,877,877,Ryan Schwieger missed Three Point Jumper.,53,44,9,21,0.8703965083060411,0.8394047166916062,3,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,175,2,14:34,874,874,Zach Walton Defensive Rebound.,53,44,9,3,0.8706376499333958,0.8397223130982441,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,176,2,14:24,864,864,Camren Wynter made Layup.,55,44,11,10,0.9075083122311195,0.884307264006561,3,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,177,2,14:09,849,849,Foul on Sam Green.,55,44,11,15,0.9086547508927983,0.8858159535993043,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,178,2,13:58,838,838,Ethan Wright missed Three Point Jumper.,55,44,11,11,0.9095198527006123,0.8869518825968163,3,4,2.2,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,179,2,13:50,830,830,Tosan Evbuomwan made Layup.,55,46,9,8,0.8743078392690896,0.8445376156659009,3,4,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,180,2,13:50,830,830,Tosan Evbuomwan Offensive Rebound.,55,46,9,0,0.8743078392690896,0.8445376156659009,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,181,2,13:31,811,811,Foul on Jose Morales.,55,46,9,19,0.8760652115674753,0.8468269729500688,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,182,2,13:11,791,791,James Butler Turnover.,55,46,9,20,0.8781008538862536,0.8494652997245278,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,183,2,13:11,791,791,Jose Morales Steal.,55,46,9,0,0.8781008538862536,0.8494652997245278,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,184,2,13:06,786,786,Jose Morales made Layup.,55,48,7,5,0.8311644476941137,0.7941563771940531,3,4,2.2,NA,NA,Princeton,made,Jose Morales,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,185,2,13:00,780,780,James Butler made Layup. Assisted by Camren Wynter.,57,48,9,6,0.8793193871832259,0.8510383873569906,3,4,2.2,NA,NA,Drexel,made,James Butler,Camren Wynter,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,186,2,12:51,771,771,Foul on Matey Juric.,57,48,9,9,0.880375552591825,0.8523985603851264,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,187,2,12:45,765,765,Ryan Schwieger missed Three Point Jumper.,57,48,9,6,0.8811113687989274,0.8533445351102182,3,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,188,2,12:41,761,761,T.J. Bickerstaff Defensive Rebound.,57,48,9,4,0.8816166564576182,0.8539934189243221,3,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,189,2,12:35,755,755,Camren Wynter made Layup.,59,48,11,6,0.9175584962550262,0.8973962588111349,3,4,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,190,2,12:32,752,752,Princeton  Timeout,59,48,11,3,0.917920295747382,0.8978625030952535,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,191,2,12:21,741,741,Jaelin Llewellyn Turnover.,59,48,11,11,0.919299539163537,0.8996377426944883,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,192,2,12:08,728,728,Foul on Matey Juric.,59,48,11,13,0.9210359643307753,0.9018685116475139,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,193,2,12:08,728,728,Matey Juric Turnover.,59,48,11,0,0.9210359643307753,0.9018685116475139,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,194,2,11:46,706,706,Richmond Aririguzoh missed Layup.,59,48,11,22,0.9237175500611151,0.9053226575742461,2,4,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,195,2,11:46,706,706,T.J. Bickerstaff Block.,59,48,11,0,0.9237175500611151,0.9053226575742461,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,196,2,11:46,706,706,Drexel Defensive Rebound.,59,48,11,0,0.9237175500611151,0.9053226575742461,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,197,2,11:46,706,706,Official TV Timeout,59,48,11,0,0.9237175500611151,0.9053226575742461,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,198,2,11:35,695,695,James Butler Turnover.,59,48,11,11,0.9248917089706503,0.9068414265065595,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,199,2,11:35,695,695,Ryan Schwieger Steal.,59,48,11,0,0.9248917089706503,0.9068414265065595,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,200,2,11:30,690,690,Ryan Schwieger missed Dunk.,59,48,11,5,0.9253986050734836,0.9074982001562002,2,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,201,2,11:30,690,690,James Butler Block.,59,48,11,0,0.9253986050734836,0.9074982001562002,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,202,2,11:23,683,683,Tosan Evbuomwan Offensive Rebound.,59,48,11,7,0.9260860266594944,0.9083897915426427,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,203,2,11:22,682,682,Tosan Evbuomwan Turnover.,59,48,11,1,0.9261824214449601,0.9085148897036274,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,204,2,11:22,682,682,Camren Wynter Steal.,59,48,11,0,0.9261824214449601,0.9085148897036274,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,205,2,11:16,676,676,James Butler made Jumper. Assisted by T.J. Bickerstaff.,61,48,13,6,0.9505869212622273,0.9384046559725023,2,4,2.2,NA,NA,Drexel,made,James Butler,TJ Bickerstaff,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,206,2,10:52,652,652,Jaelin Llewellyn Turnover.,61,48,13,24,0.9524074587569122,0.9407733678170518,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,207,2,10:52,652,652,Camren Wynter Steal.,61,48,13,0,0.9524074587569122,0.9407733678170518,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,208,2,10:41,641,641,T.J. Bickerstaff missed Jumper.,61,48,13,11,0.9532401839507431,0.9418554173399449,2,4,2.2,NA,NA,Drexel,missed,T.J. Bickerstaff,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,209,2,10:35,635,635,Richmond Aririguzoh Defensive Rebound.,61,48,13,6,0.9537023903093603,0.9424552107793776,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,210,2,10:24,624,624,Ryan Schwieger missed Jumper.,61,48,13,11,0.9545740969689415,0.9435844541042112,2,4,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,211,2,10:18,618,618,James Butler Defensive Rebound.,61,48,13,6,0.95506690000953,0.9442216044583868,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,212,2,10:09,609,609,James Butler missed Layup.,61,48,13,9,0.9558346855873971,0.945212393216739,2,4,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,213,2,10:06,606,606,Ryan Langborg Defensive Rebound.,61,48,13,3,0.9560992033237836,0.9455532035551606,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,214,2,10:01,601,601,Jaelin Llewellyn made Three Point Jumper. Assisted by Ryan Langborg.,61,51,10,5,0.9191145735851955,0.9006554253939932,2,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,Ryan Langborg,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,215,2,9:35,575,575,Coletrane Washington missed Three Point Jumper.,61,51,10,26,0.9226619768500599,0.9051811507535572,2,4,2.2,NA,NA,Drexel,missed,Coletrane Washington,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,216,2,9:31,571,571,Richmond Aririguzoh Defensive Rebound.,61,51,10,4,0.9232701295230886,0.9059536009854431,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,217,2,9:26,566,566,Foul on Zach Walton.,61,51,10,5,0.9240560535566212,0.9069505693210996,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,218,2,9:26,566,566,Ryan Schwieger made Free Throw.,61,52,9,0,0.906453534779147,0.8858729636386782,2,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,219,2,9:26,566,566,Ryan Schwieger made Free Throw.,61,53,8,0,0.8852775821729878,0.860753888735872,2,4,2.2,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,220,2,9:10,550,550,T.J. Bickerstaff missed Three Point Jumper.,61,53,8,16,0.8883966240360435,0.8646774135972763,2,4,2.2,NA,NA,Drexel,missed,T.J. Bickerstaff,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,221,2,9:06,546,546,Jaelin Llewellyn Defensive Rebound.,61,53,8,4,0.889202489572563,0.8656899120609455,2,4,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,222,2,9:03,543,543,Jaelin Llewellyn made Layup.,61,55,6,3,0.8349420777998455,0.8025344687031245,2,4,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,223,2,8:56,536,536,Drexel  Timeout,61,55,6,7,0.8362362700500644,0.8041641146661168,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,224,2,8:36,516,516,James Butler missed Jumper.,61,55,6,20,0.8394448115748658,0.808241150453226,2,3,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,225,2,8:33,513,513,Ryan Langborg Defensive Rebound.,61,55,6,3,0.8398861543484845,0.8088054123084112,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,226,2,8:29,509,509,Ryan Schwieger missed Three Point Jumper.,61,55,6,4,0.8404664132798997,0.8095480499198049,2,3,2.2,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,227,2,8:24,504,504,Matey Juric Defensive Rebound.,61,55,6,5,0.841184143352742,0.8104673460730737,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,228,2,8:03,483,483,James Butler missed Jumper.,61,55,6,21,0.8442717302641825,0.81441472120447,2,3,2.2,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,229,2,7:59,479,479,Ryan Schwieger Defensive Rebound.,61,55,6,4,0.8449027138966003,0.8152172824120126,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,230,2,7:55,475,475,Jaelin Llewellyn missed Three Point Jumper.,61,55,6,4,0.8455562730431254,0.8160465326354724,2,3,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,231,2,7:51,471,471,James Butler Defensive Rebound.,61,55,6,4,0.8462359542191527,0.8169066637007325,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,232,2,7:31,451,451,Camren Wynter made Three Point Jumper. Assisted by Zach Walton.,64,55,9,20,0.9241471377900253,0.9082958452552183,2,3,2.2,NA,NA,Drexel,made,Camren Wynter,Zach Walton,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,233,2,7:18,438,438,Richmond Aririguzoh missed Layup.,64,55,9,13,0.9267787942719153,0.9115837473741015,2,3,2.2,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,234,2,7:14,434,434,Zach Walton Defensive Rebound.,64,55,9,4,0.9276723114973828,0.9126961100161282,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,235,2,7:11,431,431,Camren Wynter made Layup.,66,55,11,3,0.9563074553649289,0.9469458191320631,2,3,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,236,2,6:57,417,417,Foul on Zach Walton.,66,55,11,14,0.958725322201826,0.9499675209337796,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,237,2,6:57,417,417,Official TV Timeout,66,55,11,0,0.958725322201826,0.9499675209337796,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,238,2,6:41,401,401,Jaelin Llewellyn Turnover.,66,55,11,16,0.9611332328906649,0.9529893766260856,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,239,2,6:41,401,401,Matey Juric Steal.,66,55,11,0,0.9611332328906649,0.9529893766260856,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,240,2,6:17,377,377,Zach Walton made Jumper.,68,55,13,24,0.9794782892975143,0.975189394669909,2,3,2.2,NA,NA,Drexel,made,Zach Walton,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,241,2,6:02,362,362,Drew Friberg missed Three Point Jumper.,68,55,13,15,0.9809370360686305,0.9770138278525501,2,3,2.2,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,242,2,5:57,357,357,Zach Walton Defensive Rebound.,68,55,13,5,0.9814371858168478,0.9776372259970929,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,243,2,5:35,335,335,Zach Walton missed Three Point Jumper.,68,55,13,22,0.9837702338957084,0.9805287789010209,2,3,2.2,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,244,2,5:30,330,330,Mate Okros Offensive Rebound.,68,55,13,5,0.984334782570736,0.9812244141579489,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,245,2,5:24,324,324,Foul on Ryan Langborg.,68,55,13,6,0.9850292673705261,0.982078085780935,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,246,2,5:24,324,324,Zach Walton made Free Throw.,69,55,14,0,0.9889536458899206,0.9867656834744052,2,3,2.2,NA,NA,Drexel,made,Zach Walton,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,247,2,5:24,324,324,Zach Walton made Free Throw.,70,55,15,0,0.9918578041271748,0.9902393939383323,2,3,2.2,NA,NA,Drexel,made,Zach Walton,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,248,2,5:08,308,308,Ryan Langborg missed Three Point Jumper.,70,55,15,16,0.9930588827190255,0.9917076767741363,2,3,2.2,NA,NA,Princeton,missed,Ryan Langborg,NA,TRUE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,249,2,5:04,304,304,Princeton Offensive Rebound.,70,55,15,4,0.9932859882987105,0.9919860478653972,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,250,2,4:59,299,299,Foul on James Butler.,70,55,15,5,0.9934767684413954,0.9922224192108302,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,251,2,4:59,299,299,Jaelin Llewellyn made Free Throw.,70,56,14,0,0.9910098415345518,0.989286243643911,2,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,252,2,4:59,299,299,Jaelin Llewellyn made Free Throw.,70,57,13,0,0.9876216071221526,0.9852580782931439,2,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,253,2,4:48,288,288,Zach Walton missed Jumper.,70,57,13,11,0.9878448965673466,0.9855594494984639,2,3,2.2,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,254,2,4:45,285,285,James Butler Offensive Rebound.,70,57,13,3,0.9878194958189157,0.9855391627160369,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,255,2,4:43,283,283,James Butler Turnover.,70,57,13,2,0.9877858697275117,0.9855058959021589,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,256,2,4:43,283,283,Max Johns Steal.,70,57,13,0,0.9877858697275117,0.9855058959021589,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,257,2,4:37,277,277,Richmond Aririguzoh Turnover.,70,57,13,6,0.9876163191102376,0.9853251325316147,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,258,2,4:37,277,277,Matey Juric Steal.,70,57,13,0,0.9876163191102376,0.9853251325316147,2,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,259,2,4:07,247,247,Camren Wynter made Three Point Jumper.,73,57,16,30,0.9945740912987687,0.9936068534708071,2,3,2.2,NA,NA,Drexel,made,Camren Wynter,NA,TRUE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,260,2,3:57,237,237,Tosan Evbuomwan made Layup. Assisted by Jose Morales.,73,59,14,10,0.9896606949651696,0.9878579703235658,2,3,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,Jose Morales,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,261,2,3:56,236,236,Princeton  Timeout,73,59,14,1,0.9896572950868118,0.9878570030067518,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,262,2,3:56,236,236,Official TV Timeout,73,59,14,0,0.9896572950868118,0.9878570030067518,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,263,2,3:45,225,225,James Butler Turnover.,73,59,14,11,0.9898732410209884,0.9881432867060681,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,264,2,3:33,213,213,Foul on Zach Walton.,73,59,14,12,0.9907334887878823,0.9891835743828734,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,265,2,3:33,213,213,Jaelin Llewellyn made Free Throw.,73,60,13,0,0.9872511131163717,0.985127481096262,1,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,266,2,3:33,213,213,Jaelin Llewellyn made Free Throw.,73,61,12,0,0.9824831912562159,0.979581773617149,1,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,267,2,3:26,206,206,Matey Juric Turnover.,73,61,12,7,0.9837966194853819,0.9811450999955544,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,268,2,3:26,206,206,Tosan Evbuomwan Steal.,73,61,12,0,0.9837966194853819,0.9811450999955544,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,269,2,3:20,200,200,Max Johns missed Layup.,73,61,12,6,0.985198158192186,0.9828015086527567,1,3,2.2,NA,NA,Princeton,missed,Max Johns,NA,FALSE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,270,2,3:19,199,199,Princeton Offensive Rebound.,73,61,12,1,0.9854532578791722,0.983102126452146,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,271,2,3:19,199,199,Foul on Camren Wynter.,73,61,12,0,0.9854532578791722,0.983102126452146,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,272,2,3:18,198,198,Tosan Evbuomwan missed Free Throw.,73,61,12,1,0.9857138084571722,0.9834089390348517,1,3,2.2,NA,NA,Princeton,missed,Tosan Evbuomwan,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,273,2,3:10,190,190,James Butler Defensive Rebound.,73,61,12,8,0.987956327354188,0.986041743242326,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,274,2,3:10,190,190,Zach Walton Turnover.,73,61,12,0,0.987956327354188,0.986041743242326,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,275,2,3:10,190,190,Tosan Evbuomwan Steal.,73,61,12,0,0.987956327354188,0.986041743242326,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,276,2,3:08,188,188,Jaelin Llewellyn made Three Point Jumper. Assisted by Max Johns.,73,64,9,2,0.9670603188854417,0.961974667198865,1,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,Max Johns,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,277,2,3:03,183,183,James Butler made Layup. Assisted by Camren Wynter.,75,64,11,5,0.9853855312934464,0.9831057559668853,1,3,2.2,NA,NA,Drexel,made,James Butler,Camren Wynter,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,278,2,2:54,174,174,Foul on Mate Okros.,75,64,11,9,0.9880936756515495,0.9862692677390873,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,279,2,2:54,174,174,Tosan Evbuomwan made Free Throw.,75,65,10,0,0.9825384080507424,0.9798800987568868,1,3,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,280,2,2:54,174,174,Tosan Evbuomwan made Free Throw.,75,66,9,0,0.9744581585741924,0.9706065322058312,1,3,2.2,NA,NA,Princeton,made,Tosan Evbuomwan,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,281,2,2:47,167,167,James Butler made Jumper. Assisted by Matey Juric.,77,66,11,7,0.989903464916099,0.9883791002554638,1,3,2.2,NA,NA,Drexel,made,James Butler,Matey Juric,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,282,2,2:36,156,156,Jaelin Llewellyn missed Three Point Jumper.,77,66,11,11,0.9923200534459481,0.9911889590563381,1,3,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,283,2,2:32,152,152,James Butler Defensive Rebound.,77,66,11,4,0.9930860177240375,0.9920773593283401,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,284,2,2:07,127,127,Camren Wynter missed Jumper.,77,66,11,25,0.9967356935750056,0.9962896346021795,1,3,2.2,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,285,2,2:03,123,123,Tosan Evbuomwan Defensive Rebound.,77,66,11,4,0.9971581235562214,0.9967742298770742,1,3,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,286,2,1:57,117,117,Jaelin Llewellyn made Layup.,77,68,9,6,0.9932908800531052,0.9924050709706758,1,3,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,287,2,1:41,101,101,Mate Okros made Layup. Assisted by Matey Juric.,79,68,11,16,0.9988213129128917,0.9986727054024827,1,3,2.2,NA,NA,Drexel,made,Mate Okros,Matey Juric,FALSE,FALSE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,288,2,1:27,87,87,Max Johns made Three Point Jumper. Assisted by Jaelin Llewellyn.,79,71,8,14,0.9955964826768634,0.9950702545053633,1,3,2.2,NA,NA,Princeton,made,Max Johns,Jaelin Llewellyn,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,289,2,1:19,79,79,Drexel  Timeout,79,71,8,8,0.996709456116327,0.996327455172252,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,290,2,1:13,73,73,James Butler Turnover.,79,71,8,6,0.9973849859488958,0.9970882717211179,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,291,2,1:13,73,73,Max Johns Steal.,79,71,8,0,0.9973849859488958,0.9970882717211179,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,292,2,1:11,71,71,Foul on James Butler.,79,71,8,2,0.9975844580001603,0.9973125231327212,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,293,2,1:11,71,71,Max Johns missed Free Throw.,79,71,8,0,0.9975844580001603,0.9973125231327212,1,2,2.2,NA,NA,Princeton,missed,Max Johns,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,294,2,1:11,71,71,Princeton Offensive Rebound.,79,71,8,0,0.9975844580001603,0.9973125231327212,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,295,2,1:11,71,71,Max Johns made Free Throw.,79,72,7,0,0.9949527687786933,0.9943862330099739,1,2,2.2,NA,NA,Princeton,made,Max Johns,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,296,2,1:02,62,62,Foul on Tosan Evbuomwan.,79,72,7,9,0.9963379763882856,0.9959414655699769,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,297,2,0:58,58,58,Foul on Jaelin Llewellyn.,79,72,7,4,0.9968396099738892,0.996503108860495,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,298,2,0:57,57,57,Foul on Jose Morales.,79,72,7,1,0.9969554145333123,0.9966326258356815,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,299,2,0:57,57,57,Matey Juric missed Free Throw.,79,72,7,0,0.9969554145333123,0.9966326258356815,1,2,2.2,NA,NA,Drexel,missed,Matey Juric,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,300,2,0:57,57,57,Ryan Langborg Defensive Rebound.,79,72,7,0,0.9969554145333123,0.9966326258356815,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,301,2,0:51,51,51,Foul on Camren Wynter.,79,72,7,6,0.9975773215840087,0.9973271377819525,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,302,2,0:51,51,51,Jaelin Llewellyn made Free Throw.,79,73,6,0,0.9943726091659382,0.993793541879809,1,2,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,303,2,0:51,51,51,Jaelin Llewellyn made Free Throw.,79,74,5,0,0.9869840230130585,0.9856556264021654,1,2,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,304,2,0:47,47,47,Foul on Jaelin Llewellyn.,79,74,5,4,0.9883451646590999,0.9871758040321901,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,305,2,0:47,47,47,Zach Walton missed Free Throw.,79,74,5,0,0.9883451646590999,0.9871758040321901,1,2,2.2,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,306,2,0:47,47,47,Ryan Langborg Defensive Rebound.,79,74,5,0,0.9883451646590999,0.9871758040321901,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,307,2,0:39,39,39,Foul on Matey Juric.,79,74,5,8,0.9907382281184924,0.9898418777433137,1,2,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,308,2,0:39,39,39,Jaelin Llewellyn made Free Throw.,79,75,4,0,0.97717257591955,0.9749964808948618,1,2,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,309,2,0:39,39,39,Jaelin Llewellyn made Free Throw.,79,76,3,0,0.9448435846617748,0.9397755674176709,1,2,2.2,NA,NA,Princeton,made,Jaelin Llewellyn,NA,FALSE,TRUE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,310,2,0:34,34,34,Drexel  Timeout,79,76,3,5,0.9493225872992433,0.9447584372663004,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,311,2,0:33,33,33,Foul on Max Johns.,79,76,3,1,0.9501885360669968,0.9457209448213074,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,312,2,0:33,33,33,Camren Wynter missed Free Throw.,79,76,3,0,0.9501885360669968,0.9457209448213074,1,1,2.2,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,313,2,0:33,33,33,Ryan Schwieger Defensive Rebound.,79,76,3,0,0.9501885360669968,0.9457209448213074,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,314,2,0:25,25,25,Tosan Evbuomwan missed Dunk.,79,76,3,8,0.9567413629352972,0.9529947263900633,1,1,2.2,NA,NA,Princeton,missed,Tosan Evbuomwan,NA,FALSE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,315,2,0:25,25,25,James Butler Block.,79,76,3,0,0.9567413629352972,0.9529947263900633,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,316,2,0:24,24,24,Camren Wynter Defensive Rebound.,79,76,3,1,0.9575126849399518,0.9538497102658992,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,317,2,0:22,22,22,Foul on Ryan Schwieger.,79,76,3,2,0.9590251996309207,0.9555254534609796,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,318,2,0:22,22,22,Camren Wynter missed Free Throw.,79,76,3,0,0.9590251996309207,0.9555254534609796,1,1,2.2,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,319,2,0:22,22,22,Drexel Offensive Rebound.,79,76,3,0,0.9590251996309207,0.9555254534609796,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,320,2,0:22,22,22,Camren Wynter made Free Throw.,80,76,4,0,0.9848637118795076,0.98353299471110045,1,1,2.2,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,321,2,0:08,8,8,Jaelin Llewellyn missed Three Point Jumper.,80,76,4,14,0.9895605306424938,0.9887112925767356,1,1,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,322,2,0:05,5,5,Matey Juric Defensive Rebound.,80,76,4,3,0.9903990889426226,0.989632052843119,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Drexel
+401171779,2019-12-04,Drexel,Princeton,323,2,0:05,5,5,Foul on Tosan Evbuomwan.,80,76,4,0,0.9903990889426226,0.989632052843119,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,324,2,0:05,5,5,Matey Juric made Free Throw.,81,76,5,0,0.9969081947114801,0.99665943014498,1,1,2.2,NA,NA,Drexel,made,Matey Juric,NA,FALSE,TRUE,Drexel,Drexel
+401171779,2019-12-04,Drexel,Princeton,325,2,0:05,5,5,Matey Juric made Free Throw.,82,76,6,0,0.9990087549776268,0.9989288184707279,1,1,2.2,NA,NA,Drexel,made,Matey Juric,NA,FALSE,TRUE,Drexel,Princeton
+401171779,2019-12-04,Drexel,Princeton,326,2,0:01,1,1,Jaelin Llewellyn missed Three Point Jumper.,82,76,6,4,0.9991656882165523,0.9991001254907949,1,1,2.2,NA,NA,Princeton,missed,Jaelin Llewellyn,NA,TRUE,FALSE,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,327,2,0:01,1,1,Princeton Offensive Rebound.,82,76,6,0,0.9991656882165523,0.9991001254907949,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401171779,2019-12-04,Drexel,Princeton,328,2,0:00,0,0,End of 2nd half,82,82,0,1,1,1,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA
+401171779,2019-12-04,Drexel,Princeton,329,2,0:00,0,0,End of Game,82,82,0,0,1,1,1,1,2.2,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA

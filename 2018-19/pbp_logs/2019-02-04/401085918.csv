@@ -1,0 +1,310 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085918,2019-02-04,Canisius,Marist,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.6730339881822752,0.5,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401085918,2019-02-04,Canisius,Marist,2,1,19:44,2384,2684,Brian Parker made Jumper. Assisted by David Knudsen.,0,2,-2,16,0.6324781467701622,0.45563699013036496,4,4,4.5,NA,NA,Marist,made,Brian Parker,David Knudsen,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,3,1,19:20,2360,2660,Jalanni White made Dunk. Assisted by Takal Molson.,2,2,0,24,0.6723880105946873,0.5,4,4,4.5,NA,NA,Canisius,made,Jalanni White,Takal Molson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,4,1,19:05,2345,2645,David Knudsen made Layup.,2,4,-2,15,0.6310158785068956,0.45480091239566217,4,4,4.5,NA,NA,Marist,made,David Knudsen,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,5,1,18:46,2326,2626,Jalanni White missed Layup.,2,4,-2,19,0.6302841340008313,0.4543864532488971,4,4,4.5,NA,NA,Canisius,missed,Jalanni White,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,6,1,18:42,2322,2622,Tobias Sjoberg Defensive Rebound.,2,4,-2,4,0.6301284824553947,0.45429865275097875,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,7,1,18:29,2309,2609,Tobias Sjoberg made Layup. Assisted by Isaiah Lamb.,2,6,-4,13,0.5856736211422907,0.40879566776996445,4,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,Isaiah Lamb,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,8,1,18:15,2295,2595,Foul on David Knudsen.,2,6,-4,14,0.5847914647806437,0.40819000054984006,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,9,1,18:00,2280,2580,Malik Johnson missed Three Point Jumper.,2,6,-4,15,0.5838361921310417,0.40753708330480626,4,4,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,10,1,18:00,2280,2580,Marist Defensive Rebound.,2,6,-4,0,0.5838361921310417,0.40753708330480626,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,11,1,17:42,2262,2562,Isaiah Lamb missed Three Point Jumper.,2,6,-4,18,0.5826763877972441,0.4067486224997753,4,4,4.5,NA,NA,Marist,missed,Isaiah Lamb,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,12,1,17:38,2258,2558,Malik Johnson Defensive Rebound.,2,6,-4,4,0.582416694509897,0.4065727307217593,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,13,1,17:34,2254,2554,Takal Molson missed Three Point Jumper.,2,6,-4,4,0.582156298501562,0.4063966067392015,4,4,4.5,NA,NA,Canisius,missed,Takal Molson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,14,1,17:34,2254,2554,Isaiah Lamb Block.,2,6,-4,0,0.582156298501562,0.4063966067392015,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,15,1,17:29,2249,2549,Brian Parker Defensive Rebound.,2,6,-4,5,0.5818298220809274,0.4061761353658107,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,16,1,17:20,2240,2540,Foul on Malik Johnson.,2,6,-4,9,0.5812394429413713,0.40577844028351323,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,17,1,17:20,2240,2540,Tobias Sjoberg made Free Throw.,2,7,-5,0,0.557865130922746,0.38300658094773077,4,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,18,1,17:20,2240,2540,Tobias Sjoberg made Free Throw.,2,8,-6,0,0.5342316218877227,0.3607368537858645,4,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,19,1,16:58,2218,2518,Scott Hitchon missed Three Point Jumper.,2,8,-6,22,0.5322377622804014,0.35933692644085735,4,4,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,20,1,16:54,2214,2514,Brian Parker Defensive Rebound.,2,8,-6,4,0.5318727393939694,0.35908171655760157,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,21,1,16:40,2200,2500,Foul on Takal Molson.,2,8,-6,14,0.5305893127735548,0.35818709452503844,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,22,1,16:34,2194,2494,Brian Parker made Jumper.,2,10,-8,6,0.48133875580414653,0.31434513642642314,4,4,4.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,23,1,16:11,2171,2471,Jonathan Sanks missed Jumper.,2,10,-8,23,0.47866717562728844,0.3125022400544831,4,4,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,24,1,16:11,2171,2471,Canisius Offensive Rebound.,2,10,-8,0,0.47866717562728844,0.3125022400544831,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,25,1,15:59,2159,2459,Takal Molson missed Three Point Jumper.,2,10,-8,12,0.4772637242957221,0.31153939656493634,4,4,4.5,NA,NA,Canisius,missed,Takal Molson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,26,1,15:56,2156,2456,Ryan Funk Defensive Rebound.,2,10,-8,3,0.4769116286949877,0.3112983415797177,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,27,1,15:32,2132,2432,Aleksandar Dozic missed Layup.,2,10,-8,24,0.4740766822356406,0.30936449058584975,4,4,4.5,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,28,1,15:28,2128,2428,Malik Johnson Defensive Rebound.,2,10,-8,4,0.4736009932514541,0.30904118790783114,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,29,1,15:26,2126,2426,Foul on Aleksandar Dozic.,2,10,-8,2,0.4733628004077759,0.3088794239776287,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,30,1,15:21,2121,2421,Official TV Timeout,2,10,-8,5,0.4727662961871476,0.3084746793107175,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,31,1,15:08,2108,2408,Foul on David Knudsen.,2,10,-8,13,0.47120847794469656,0.30742002647779715,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,32,1,15:08,2108,2408,Jordan Henderson missed Free Throw.,2,10,-8,0,0.47120847794469656,0.30742002647779715,4,4,4.5,NA,NA,Canisius,missed,Jordan Henderson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,33,1,15:08,2108,2408,Canisius Offensive Rebound.,2,10,-8,0,0.47120847794469656,0.30742002647779715,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,34,1,15:08,2108,2408,Jordan Henderson made Free Throw.,3,10,-7,0,0.4965581695883404,0.3294480176564311,4,4,4.5,NA,NA,Canisius,made,Jordan Henderson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,35,1,14:45,2085,2385,Matthew Herasme missed Three Point Jumper.,3,10,-7,23,0.49404272955558315,0.3277453902104553,4,4,4.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,36,1,14:42,2082,2382,Jonathan Sanks Defensive Rebound.,3,10,-7,3,0.4937122960743972,0.3275224166536885,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,37,1,14:30,2070,2370,Jalanni White made Dunk. Assisted by Malik Johnson.,5,10,-5,12,0.5439475350950869,0.3736084303068185,4,4,4.5,NA,NA,Canisius,made,Jalanni White,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,38,1,13:57,2037,2337,Darius Hines missed Layup.,5,10,-5,33,0.5410772674165234,0.37172364495171323,4,4,4.5,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,39,1,13:54,2034,2334,Scott Hitchon Defensive Rebound.,5,10,-5,3,0.5408133581116259,0.3715510164178246,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,40,1,13:30,2010,2310,Malik Johnson missed Three Point Jumper.,5,10,-5,24,0.5386838349543155,0.3701618063788179,4,4,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,41,1,13:27,2007,2307,Aleksandar Dozic Defensive Rebound.,5,10,-5,3,0.5384153389473344,0.3699871028675368,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,42,1,13:20,2000,2300,Foul on Austin Williams.,5,10,-5,7,0.537786831783874,0.3695785231570212,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,43,1,13:20,2000,2300,Austin Williams Turnover.,5,10,-5,0,0.537786831783874,0.3695785231570212,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,44,1,13:00,1980,2280,Jonathan Sanks missed Three Point Jumper.,5,10,-5,20,0.5359753785689644,0.36840371994164894,4,4,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,45,1,12:57,1977,2277,Jalanni White Offensive Rebound.,5,10,-5,3,0.5357016313567083,0.36822652487668767,4,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,46,1,12:55,1975,2275,Malik Johnson made Three Point Jumper. Assisted by Jalanni White.,8,10,-2,2,0.614559682582081,0.44617526774321387,4,4,4.5,NA,NA,Canisius,made,Malik Johnson,Jalanni White,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,47,1,12:52,1972,2272,Marist  Timeout,8,10,-2,3,0.6144066864317468,0.44609978101680003,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,48,1,12:25,1945,2245,Foul on Jibreel Faulkner.,8,10,-2,27,0.6130147934455242,0.4454146872099188,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,49,1,12:25,1945,2245,Brian Parker missed Free Throw.,8,10,-2,0,0.6130147934455242,0.4454146872099188,3,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,50,1,12:25,1945,2245,Marist Offensive Rebound.,8,10,-2,0,0.6130147934455242,0.4454146872099188,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,51,1,12:25,1945,2245,Brian Parker made Free Throw.,8,11,-3,0,0.5867133964981371,0.4185271835470489,3,4,4.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,52,1,12:08,1928,2228,Jordan Henderson Turnover.,8,11,-3,17,0.5855889930661605,0.41788178644630847,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,53,1,11:56,1916,2216,Isaiah Lamb missed Layup.,8,11,-3,12,0.5847890589894511,0.41742519883617285,3,4,4.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,54,1,11:53,1913,2213,Austin Williams Offensive Rebound.,8,11,-3,3,0.5845884410170771,0.41731118974639103,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,55,1,11:51,1911,2211,Austin Williams made Layup.,8,13,-5,2,0.5295483607476017,0.36426753212859625,3,4,4.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,56,1,11:39,1899,2199,Foul on Ryan Funk.,8,13,-5,12,0.5284105700410642,0.36354454674116626,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,57,1,11:39,1899,2199,Official TV Timeout,8,13,-5,0,0.5284105700410642,0.36354454674116626,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,58,1,11:39,1899,2199,Jonathan Sanks made Free Throw.,9,13,-4,0,0.5562033095650385,0.38983399337674823,3,4,4.5,NA,NA,Canisius,made,Jonathan Sanks,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,59,1,11:39,1899,2199,Jonathan Sanks made Free Throw.,10,13,-3,0,0.5836486929989845,0.4167796147945738,3,4,4.5,NA,NA,Canisius,made,Jonathan Sanks,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,60,1,11:22,1882,2182,Foul on Luke Nedrow.,10,13,-3,17,0.5824992963782336,0.4161344881985581,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,61,1,11:22,1882,2182,Luke Nedrow Turnover.,10,13,-3,0,0.5824992963782336,0.4161344881985581,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,62,1,11:08,1868,2168,Jibreel Faulkner made Jumper. Assisted by Malik Johnson.,12,13,-1,14,0.6356086839335167,0.47162626263875645,3,4,4.5,NA,NA,Canisius,made,Jibreel Faulkner,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,63,1,10:55,1855,2155,Isaiah Lamb Turnover.,12,13,-1,13,0.635074303659612,0.4714570522650251,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,64,1,10:35,1835,2135,Jordan Henderson Turnover.,12,13,-1,20,0.6342425491514174,0.4711956212589743,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,65,1,10:35,1835,2135,Luke Nedrow Steal.,12,13,-1,0,0.6342425491514174,0.4711956212589743,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,66,1,10:35,1835,2135,Foul on Jordan Henderson.,12,13,-1,0,0.6342425491514174,0.4711956212589743,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,67,1,10:18,1818,2118,Foul on Dantai St. Louis.,12,13,-1,17,0.633526362780526,0.47097194278057414,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,68,1,10:09,1809,2109,Austin Williams made Layup.,12,15,-3,9,0.5774430508264519,0.4133429176165556,3,4,4.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,69,1,9:54,1794,2094,Foul on Austin Williams.,12,15,-3,15,0.5763763109791866,0.41275981226235475,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,70,1,9:54,1794,2094,Malik Johnson made Free Throw.,13,15,-2,0,0.604783760400133,0.4415076995759691,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,71,1,9:54,1794,2094,Malik Johnson made Free Throw.,14,15,-1,0,0.6325008601846235,0.47065309789275517,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,72,1,9:31,1771,2071,Brian Parker missed Layup.,14,15,-1,23,0.6315022136390075,0.4703432783343376,3,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,73,1,9:27,1767,2067,Dantai St. Louis Defensive Rebound.,14,15,-1,4,0.6313269472416863,0.47028889989093037,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,74,1,9:16,1756,2056,Malik Johnson made Jumper.,16,15,1,11,0.6846035465870598,0.5298614808173907,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,75,1,9:16,1756,2056,Foul on Darius Hines.,16,15,1,0,0.6846035465870598,0.5298614808173907,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,76,1,9:16,1756,2056,Malik Johnson made Free Throw.,17,15,2,0,0.7098380683963584,0.5595106969677803,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,77,1,8:50,1730,2030,Brian Parker made Layup.,17,17,0,26,0.6574374988975047,0.5,3,4,4.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,78,1,8:35,1715,2015,Malik Johnson made Layup. Assisted by Takal Molson.,19,17,2,15,0.7096361455552542,0.5606440865252885,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,Takal Molson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,79,1,8:03,1683,1983,Brian Parker missed Jumper.,19,17,2,32,0.7094879415281607,0.56155830985955,3,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,80,1,8:00,1680,1980,Malik Johnson Defensive Rebound.,19,17,2,3,0.7094725000170281,0.5616438491209147,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,81,1,7:53,1673,1973,Jibreel Faulkner missed Three Point Jumper.,19,17,2,7,0.7094336877097819,0.5618419905853336,3,4,4.5,NA,NA,Canisius,missed,Jibreel Faulkner,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,82,1,7:50,1670,1970,Ryan Funk Defensive Rebound.,19,17,2,3,0.709415907605659,0.5619263222591258,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,83,1,7:40,1660,1960,Ryan Funk missed Three Point Jumper.,19,17,2,10,0.7093519806479757,0.5622051239692175,3,4,4.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,84,1,7:36,1656,1956,Takal Molson Defensive Rebound.,19,17,2,4,0.7093245149819595,0.5623157385570979,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,85,1,7:30,1650,1950,Jordan Henderson missed Three Point Jumper.,19,17,2,6,0.7092814280417524,0.5624807984178459,3,4,4.5,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,86,1,7:26,1646,1946,Jordan Henderson Offensive Rebound.,19,17,2,4,0.7092515106318634,0.5625903143987508,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,87,1,7:11,1631,1931,Jordan Henderson made Three Point Jumper. Assisted by Jibreel Faulkner.,22,17,5,15,0.780944236218433,0.6532475126566645,3,4,4.5,NA,NA,Canisius,made,Jordan Henderson,Jibreel Faulkner,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,88,1,7:07,1627,1927,Marist  Timeout,22,17,5,4,0.7810288710567558,0.6534961239306544,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,89,1,7:07,1627,1927,Official TV Timeout,22,17,5,0,0.7810288710567558,0.6534961239306544,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,90,1,6:55,1615,1915,Ryan Funk missed Three Point Jumper.,22,17,5,12,0.7812782375615427,0.6542389133956332,2,4,4.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,91,1,6:51,1611,1911,Takal Molson Defensive Rebound.,22,17,5,4,0.7813600954396466,0.6544857621852754,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,92,1,6:40,1600,1900,Jonathan Sanks missed Three Point Jumper.,22,17,5,11,0.7815828077014714,0.6551635958780901,2,4,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,93,1,6:37,1597,1897,Tobias Sjoberg Defensive Rebound.,22,17,5,3,0.7816430833670722,0.65534836188932,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,94,1,6:08,1568,1868,Darius Hines missed Jumper.,22,17,5,29,0.7822231813196691,0.6571405250670624,2,4,4.5,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,95,1,6:08,1568,1868,Marist Offensive Rebound.,22,17,5,0,0.7822231813196691,0.6571405250670624,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,96,1,5:53,1553,1853,Darius Hines made Three Point Jumper. Assisted by Ryan Funk.,22,20,2,15,0.7083968686015999,0.5651024906265938,2,4,4.5,NA,NA,Marist,made,Darius Hines,Ryan Funk,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,97,1,5:30,1530,1830,Takal Molson made Three Point Jumper.,25,20,5,23,0.783010411155155,0.6595421789910721,2,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,98,1,4:59,1499,1799,Matthew Herasme missed Three Point Jumper.,25,20,5,31,0.7837152672448012,0.6615888354066563,2,4,4.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,99,1,4:55,1495,1795,Malik Johnson Defensive Rebound.,25,20,5,4,0.7838122448491444,0.6618606984281165,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,100,1,4:41,1481,1781,Scott Hitchon made Layup. Assisted by Malik Johnson.,27,20,7,14,0.8264214124295947,0.7203695730890826,2,4,4.5,NA,NA,Canisius,made,Scott Hitchon,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,101,1,4:18,1458,1758,Aleksandar Dozic made Three Point Jumper. Assisted by Darius Hines.,27,23,4,23,0.7608173035885409,0.6333611930867067,2,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,Darius Hines,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,102,1,4:02,1442,1742,Malik Johnson Turnover.,27,23,4,16,0.7611314639557774,0.6343534832022756,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,103,1,3:58,1438,1738,Official TV Timeout,27,23,4,4,0.7612067158257928,0.634598257561947,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,104,1,3:44,1424,1724,Ryan Funk made Dunk. Assisted by Aleksandar Dozic.,27,25,2,14,0.7074146966316912,0.5690097824007856,2,4,4.5,NA,NA,Marist,made,Ryan Funk,Aleksandar Dozic,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,105,1,3:15,1395,1695,Jordan Henderson missed Three Point Jumper.,27,25,2,29,0.7071805195447521,0.5699019086909004,2,4,4.5,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,106,1,3:12,1392,1692,Isaiah Lamb Defensive Rebound.,27,25,2,3,0.7071538024199434,0.5699926050585921,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,107,1,2:58,1378,1678,Aleksandar Dozic made Jumper.,27,27,0,14,0.6450700542308085,0.5,2,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,108,1,2:42,1362,1662,Jalanni White missed Jumper.,27,27,0,16,0.6444520757267509,0.5,2,4,4.5,NA,NA,Canisius,missed,Jalanni White,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,109,1,2:40,1360,1660,Matthew Herasme Defensive Rebound.,27,27,0,2,0.6443744475228333,0.5,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,110,1,2:11,1331,1631,Aleksandar Dozic made Jumper. Assisted by Ryan Funk.,27,29,-2,29,0.5744754656879149,0.42816960046610647,2,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,Ryan Funk,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,111,1,1:40,1300,1600,Scott Hitchon missed Jumper.,27,29,-2,31,0.5721986850578046,0.4271968039869442,2,4,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,112,1,1:39,1299,1599,Jalanni White Offensive Rebound.,27,29,-2,1,0.5721241338884847,0.4271645109218799,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,113,1,1:39,1299,1599,Foul on Jalanni White.,27,29,-2,0,0.5721241338884847,0.4271645109218799,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,114,1,1:39,1299,1599,Jalanni White Turnover.,27,29,-2,0,0.5721241338884847,0.4271645109218799,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,115,1,1:20,1280,1580,Aleksandar Dozic made Layup.,27,31,-4,19,0.4971703164846389,0.35617872198445405,2,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,116,1,0:49,1249,1549,Malik Johnson missed Three Point Jumper.,27,31,-4,31,0.49359544620365603,0.3541308141092794,2,4,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,117,1,0:47,1247,1547,Ryan Funk Defensive Rebound.,27,31,-4,2,0.49335770577494625,0.3539922705125843,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,118,1,0:33,1233,1533,Ryan Funk Turnover.,27,31,-4,14,0.4916663794976265,0.3529976159843984,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,119,1,0:33,1233,1533,Malik Johnson Steal.,27,31,-4,0,0.4916663794976265,0.3529976159843984,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,120,1,0:29,1229,1529,Takal Molson made Layup. Assisted by Malik Johnson.,29,31,-2,4,0.5666699498949289,0.4246813332238164,2,4,4.5,NA,NA,Canisius,made,Takal Molson,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,121,1,0:28,1228,1528,Foul on Isaiah Lamb.,29,31,-2,1,0.5665880219611624,0.42464186436920554,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,122,1,0:28,1228,1528,Takal Molson made Free Throw.,30,31,-1,0,0.6034394577412183,0.4621044931534604,2,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,123,1,0:03,1203,1503,David Knudsen missed Three Point Jumper.,30,31,-1,25,0.6019095411912587,0.4615818888583876,2,4,4.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,124,1,0:03,1203,1503,Jalanni White Block.,30,31,-1,0,0.6019095411912587,0.4615818888583876,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,125,1,0:00,1200,1500,Takal Molson Defensive Rebound.,30,31,-1,3,0.6017261442641028,0.4615187446422248,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,126,1,0:00,1200,1500,End of 1st half,30,31,-1,0,0.6017261442641028,0.4615187446422248,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA
+401085918,2019-02-04,Canisius,Marist,127,2,20:00,1200,1500,PLAY,30,31,-1,0,0.6017261442641028,0.4615187446422248,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius
+401085918,2019-02-04,Canisius,Marist,128,2,19:39,1179,1479,Foul on Brian Parker.,30,31,-1,21,0.6004557091617353,0.461086260048513,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,129,2,19:39,1179,1479,Takal Molson made Free Throw.,31,31,0,0,0.6372237594898205,0.5,3,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,130,2,19:39,1179,1479,Takal Molson made Free Throw.,32,31,1,0,0.6724539589699475,0.5389137399514871,3,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,131,2,19:19,1159,1459,Tobias Sjoberg made Layup. Assisted by Brian Parker.,32,33,-1,20,0.5992618614476306,0.4606857817780813,3,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,Brian Parker,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,132,2,19:06,1146,1446,Takal Molson Turnover.,32,33,-1,13,0.5984906596803853,0.46042881927252544,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,133,2,18:51,1131,1431,Isaiah Lamb made Three Point Jumper. Assisted by Brian Parker.,32,36,-4,15,0.4790290507275029,0.34542202988770526,3,4,4.5,NA,NA,Marist,made,Isaiah Lamb,Brian Parker,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,134,2,18:23,1103,1403,Takal Molson missed Three Point Jumper.,32,36,-4,28,0.47562700997891066,0.3433990440019498,3,4,4.5,NA,NA,Canisius,missed,Takal Molson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,135,2,18:20,1100,1400,Ryan Funk Defensive Rebound.,32,36,-4,3,0.47525899222619905,0.34317951743952047,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,136,2,18:13,1093,1393,Brian Parker missed Jumper.,32,36,-4,7,0.47439630785932246,0.3426641168549601,3,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,137,2,18:09,1089,1389,Jonathan Sanks Defensive Rebound.,32,36,-4,4,0.4739005379721428,0.3423673592607245,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,138,2,18:00,1080,1380,Scott Hitchon missed Jumper.,32,36,-4,9,0.47277642147955495,0.34169274627833973,3,4,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,139,2,17:57,1077,1377,Jonathan Sanks Offensive Rebound.,32,36,-4,3,0.4723987717464312,0.3414655178436248,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,140,2,17:39,1059,1359,Foul on Tobias Sjoberg.,32,36,-4,18,0.4700963056050701,0.34007284970516144,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,141,2,17:39,1059,1359,Malik Johnson made Free Throw.,33,36,-3,0,0.5114941486013836,0.37819250940431476,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,142,2,17:39,1059,1359,Malik Johnson made Free Throw.,34,36,-2,0,0.5527349188487841,0.41787939332645796,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,143,2,17:15,1035,1335,Darius Hines Turnover.,34,36,-2,24,0.5506441098982164,0.41681981063082846,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,144,2,17:15,1035,1335,Jonathan Sanks Steal.,34,36,-2,0,0.5506441098982164,0.41681981063082846,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,145,2,17:08,1028,1328,Jonathan Sanks made Layup.,36,36,0,7,0.6313260744004503,0.5,3,4,4.5,NA,NA,Canisius,made,Jonathan Sanks,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,146,2,16:53,1013,1313,Ryan Funk missed Three Point Jumper.,36,36,0,15,0.6307198486870003,0.5,3,4,4.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,147,2,16:51,1011,1311,Tobias Sjoberg Offensive Rebound.,36,36,0,2,0.6306384725662781,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,148,2,16:51,1011,1311,Foul on Jalanni White.,36,36,0,0,0.6306384725662781,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,149,2,16:51,1011,1311,Tobias Sjoberg made Free Throw.,36,37,-1,0,0.5901762838100756,0.4575368647468447,3,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,150,2,16:51,1011,1311,Tobias Sjoberg made Free Throw.,36,38,-2,0,0.5484553227916152,0.41568187158524655,3,4,4.5,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,151,2,16:36,996,1296,Jonathan Sanks made Three Point Jumper.,39,38,1,15,0.6691059099712786,0.5428510344356469,3,4,4.5,NA,NA,Canisius,made,Jonathan Sanks,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,152,2,16:06,966,1266,David Knudsen made Layup.,39,40,-1,30,0.5870357229319124,0.4563081407646855,3,4,4.5,NA,NA,Marist,made,David Knudsen,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,153,2,15:50,950,1250,Jalanni White made Layup. Assisted by Scott Hitchon.,41,40,1,16,0.6684381969599761,0.544129523481433,3,4,4.5,NA,NA,Canisius,made,Jalanni White,Scott Hitchon,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,154,2,15:33,933,1233,Foul on Jonathan Sanks.,41,40,1,17,0.6681955981756023,0.5445567961608494,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,155,2,15:33,933,1233,Official TV Timeout,41,40,1,0,0.6681955981756023,0.5445567961608494,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,156,2,15:33,933,1233,Ryan Funk made Free Throw.,41,41,0,0,0.6274596639203277,0.5,3,4,4.5,NA,NA,Marist,made,Ryan Funk,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,157,2,15:33,933,1233,Ryan Funk made Free Throw.,41,42,-1,0,0.5848299303755042,0.4554432038391506,3,4,4.5,NA,NA,Marist,made,Ryan Funk,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,158,2,15:12,912,1212,Scott Hitchon made Jumper.,43,42,1,21,0.6678961684768586,0.5450452456015694,3,4,4.5,NA,NA,Canisius,made,Scott Hitchon,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,159,2,14:50,890,1190,Aleksandar Dozic made Layup. Assisted by David Knudsen.,43,44,-1,22,0.5822563153516557,0.45447083673393884,3,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,David Knudsen,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,160,2,14:24,864,1164,Malik Johnson Turnover.,43,44,-1,26,0.5807585840071575,0.453906995932592,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,161,2,14:24,864,1164,Austin Williams Steal.,43,44,-1,0,0.5807585840071575,0.453906995932592,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,162,2,14:18,858,1158,Matthew Herasme missed Three Point Jumper.,43,44,-1,6,0.580410775936963,0.45377467754892037,3,4,4.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,163,2,14:14,854,1154,Malik Johnson Defensive Rebound.,43,44,-1,4,0.5801776046986926,0.4536855289243996,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,164,2,14:04,844,1144,Jonathan Sanks missed Three Point Jumper.,43,44,-1,10,0.5795884825306493,0.4534584514426452,3,4,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,165,2,14:03,843,1143,Marist Defensive Rebound.,43,44,-1,1,0.5795289865087028,0.4534353585169084,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,166,2,13:49,829,1129,Austin Williams made Layup. Assisted by Aleksandar Dozic.,43,46,-3,14,0.48527478091588716,0.36252457210074673,3,4,4.5,NA,NA,Marist,made,Austin Williams,Aleksandar Dozic,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,167,2,13:31,811,1111,Scott Hitchon missed Layup.,43,46,-3,18,0.48318341307248136,0.36124234633139907,3,4,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,168,2,13:31,811,1111,Canisius Offensive Rebound.,43,46,-3,0,0.48318341307248136,0.36124234633139907,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,169,2,13:31,811,1111,David Knudsen Block.,43,46,-3,0,0.48318341307248136,0.36124234633139907,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,170,2,13:24,804,1104,Jordan Henderson made Jumper.,45,46,-1,7,0.5770798338525973,0.4524542592932544,3,4,4.5,NA,NA,Canisius,made,Jordan Henderson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,171,2,12:45,765,1065,Foul on Aleksandar Dozic.,45,46,-1,39,0.5742371948680345,0.451236677246197,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,172,2,12:45,765,1065,Aleksandar Dozic Turnover.,45,46,-1,0,0.5742371948680345,0.451236677246197,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,173,2,12:16,736,1036,Malik Johnson made Three Point Jumper.,48,46,2,29,0.7088210101254128,0.598799747000911,3,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,174,2,11:49,709,1009,Brian Parker made Layup. Assisted by Aleksandar Dozic.,48,48,0,27,0.6186043397026875,0.5,3,4,4.5,NA,NA,Marist,made,Brian Parker,Aleksandar Dozic,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,175,2,11:25,685,985,Foul on Scott Hitchon.,48,48,0,24,0.6174860921934388,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,176,2,11:25,685,985,Scott Hitchon Turnover.,48,48,0,0,0.6174860921934388,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,177,2,11:24,684,984,Official TV Timeout,48,48,0,1,0.6174400895467409,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,178,2,10:54,654,954,Ryan Funk missed Three Point Jumper.,48,48,0,30,0.6160612007384971,0.5,3,4,4.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,179,2,10:48,648,948,Jibreel Faulkner Defensive Rebound.,48,48,0,6,0.6157824413295169,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,180,2,10:36,636,936,Foul on Aleksandar Dozic.,48,48,0,12,0.6152177046345838,0.5,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,181,2,10:36,636,936,Takal Molson made Free Throw.,49,48,1,0,0.6646814712340849,0.5535262415708168,3,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,182,2,10:36,636,936,Takal Molson made Free Throw.,50,48,2,0,0.7107759385172806,0.605839537262616,3,4,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,183,2,10:18,618,918,Brian Parker missed Layup.,50,48,2,18,0.7111217929926418,0.6071210894902115,3,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,184,2,10:15,615,915,Takal Molson Defensive Rebound.,50,48,2,3,0.7111879832714848,0.6073483318656971,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,185,2,10:07,607,907,Takal Molson missed Jumper.,50,48,2,8,0.7113793610607939,0.6079778080994711,3,4,4.5,NA,NA,Canisius,missed,Takal Molson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,186,2,10:04,604,904,Austin Williams Defensive Rebound.,50,48,2,3,0.7114572334656146,0.6082234724830198,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,187,2,9:56,596,896,Brian Parker Turnover.,50,48,2,8,0.7116830873388017,0.6089070935886853,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,188,2,9:56,596,896,Takal Molson Steal.,50,48,2,0,0.7116830873388017,0.6089070935886853,3,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,189,2,9:37,577,877,Takal Molson made Layup. Assisted by Jalanni White.,52,48,4,19,0.7952953139581626,0.7110949608935065,3,4,4.5,NA,NA,Canisius,made,Takal Molson,Jalanni White,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,190,2,9:34,574,874,Marist  Timeout,52,48,4,3,0.7956080756724211,0.7116390768359518,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,191,2,9:09,549,849,Foul on Austin Williams.,52,48,4,25,0.7986238430105671,0.7167613125563627,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,192,2,9:09,549,849,Austin Williams Turnover.,52,48,4,0,0.7986238430105671,0.7167613125563627,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,193,2,8:52,532,832,Takal Molson made Three Point Jumper. Assisted by Jibreel Faulkner.,55,48,7,17,0.8908289731195822,0.8394901097574398,2,4,4.5,NA,NA,Canisius,made,Takal Molson,Jibreel Faulkner,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,194,2,8:32,512,812,Luke Nedrow missed Three Point Jumper.,55,48,7,20,0.8931959167169753,0.8434403904774956,2,4,4.5,NA,NA,Marist,missed,Luke Nedrow,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,195,2,8:27,507,807,Malik Johnson Defensive Rebound.,55,48,7,5,0.8937427361401336,0.8443616553811706,2,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,196,2,8:14,494,794,Malik Johnson made Layup.,57,48,9,13,0.9329480124085459,0.9000371972557243,2,4,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,197,2,8:10,490,790,Marist  Timeout,57,48,9,4,0.9333464027818654,0.900701330662641,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,198,2,8:10,490,790,Official TV Timeout,57,48,9,0,0.9333464027818654,0.900701330662641,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,199,2,7:52,472,772,Ryan Funk missed Three Point Jumper.,57,48,9,18,0.9352703359691125,0.9038806241703224,1,4,4.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,200,2,7:49,469,769,Canisius Defensive Rebound.,57,48,9,3,0.9356216534283205,0.9044553648564525,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,201,2,7:22,442,742,Malik Johnson missed Three Point Jumper.,57,48,9,27,0.9393919056368762,0.9105201939565579,1,4,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,202,2,7:19,439,739,Brian Parker Defensive Rebound.,57,48,9,3,0.9398922278417331,0.91131335039223,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,203,2,7:11,431,731,Foul on Jalanni White.,57,48,9,8,0.9413186829356133,0.9135633747520234,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,204,2,6:53,413,713,Isaiah Lamb missed Jumper.,57,48,9,18,0.9444411262149464,0.9185059271247028,1,4,4.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,205,2,6:49,409,709,Malik Johnson Defensive Rebound.,57,48,9,4,0.945067556225415,0.9195072911812043,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,206,2,6:32,392,692,Jibreel Faulkner made Jumper. Assisted by Malik Johnson.,59,48,11,17,0.9691810378365215,0.9545758656540937,1,4,4.5,NA,NA,Canisius,made,Jibreel Faulkner,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,207,2,6:14,374,674,Aleksandar Dozic missed Layup.,59,48,11,18,0.9711179878985371,0.9576804973017462,1,4,4.5,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,208,2,6:10,370,670,Jibreel Faulkner Defensive Rebound.,59,48,11,4,0.9715548997213403,0.9583773237492618,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,209,2,6:06,366,666,Foul on Darius Hines.,59,48,11,4,0.9719977449668676,0.9590817105975685,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,210,2,5:56,356,656,Scott Hitchon made Layup. Assisted by Malik Johnson.,61,48,13,10,0.984812309750561,0.9777631819331591,1,4,4.5,NA,NA,Canisius,made,Scott Hitchon,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,211,2,5:44,344,644,Brian Parker missed Three Point Jumper.,61,48,13,12,0.9858054525764036,0.9793135161264577,1,4,4.5,NA,NA,Marist,missed,Brian Parker,NA,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,212,2,5:39,339,639,Malik Johnson Defensive Rebound.,61,48,13,5,0.986237527161664,0.9799828269097552,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,213,2,5:20,320,620,Jibreel Faulkner missed Jumper.,61,48,13,19,0.9879841352976425,0.9826580780623444,1,4,4.5,NA,NA,Canisius,missed,Jibreel Faulkner,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,214,2,5:16,316,616,Aleksandar Dozic Defensive Rebound.,61,48,13,4,0.9883720754403602,0.9832461076278571,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,215,2,5:12,312,612,Aleksandar Dozic made Layup.,61,50,11,4,0.9790691365538705,0.9700220812197634,1,4,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,216,2,4:55,295,595,Malik Johnson Turnover.,61,50,11,17,0.9806800217173222,0.9725261906609801,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,217,2,4:55,295,595,Austin Williams Steal.,61,50,11,0,0.9806800217173222,0.9725261906609801,1,4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,218,2,4:41,281,581,Darius Hines made Three Point Jumper. Assisted by Matthew Herasme.,61,53,8,14,0.9501867934628468,0.9305077599610053,1,4,4.5,NA,NA,Marist,made,Darius Hines,Matthew Herasme,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,219,2,4:31,271,571,Canisius  Timeout,61,53,8,10,0.9491317093076483,0.9293772193535154,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,220,2,4:09,249,549,Takal Molson Turnover.,61,53,8,22,0.9460907129046686,0.9259797893425721,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,221,2,3:53,233,533,David Knudsen missed Three Point Jumper.,61,53,8,16,0.9450618525217676,0.9251615361963482,1,3,4.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,222,2,3:50,230,530,Aleksandar Dozic Offensive Rebound.,61,53,8,3,0.9451345671426435,0.92536715611317,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,223,2,3:47,227,527,David Knudsen missed Three Point Jumper.,61,53,8,3,0.9453163019083844,0.9257186547509013,1,3,4.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,224,2,3:38,218,518,Austin Williams Offensive Rebound.,61,53,8,9,0.9466022443698727,0.9277585802924826,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,225,2,3:38,218,518,Austin Williams missed Layup.,61,53,8,0,0.9466022443698727,0.9277585802924826,1,3,4.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,226,2,3:35,215,515,Jibreel Faulkner Defensive Rebound.,61,53,8,3,0.9473014205348328,0.928796658891744,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,227,2,3:24,204,504,Scott Hitchon missed Layup.,61,53,8,11,0.9511095760679404,0.9342393651309612,1,3,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,228,2,3:20,200,500,David Knudsen Defensive Rebound.,61,53,8,4,0.9529790834498544,0.936852761046804,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,229,2,3:15,195,495,David Knudsen made Three Point Jumper. Assisted by Darius Hines.,61,56,5,5,0.8844091328572297,0.8488976477844373,1,3,4.5,NA,NA,Marist,made,David Knudsen,Darius Hines,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,230,2,2:49,169,469,Jordan Henderson missed Three Point Jumper.,61,56,5,26,0.9080076953984035,0.880529128367831,1,3,4.5,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,231,2,2:46,166,466,Darius Hines Defensive Rebound.,61,56,5,3,0.910598565398027,0.8839994994293658,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,232,2,2:43,163,463,David Knudsen missed Three Point Jumper.,61,56,5,3,0.913168124077473,0.887439489188492,1,3,4.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,233,2,2:39,159,459,Matthew Herasme Offensive Rebound.,61,56,5,4,0.916566123178508,0.8919849355627872,1,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,234,2,2:38,158,458,David Knudsen made Three Point Jumper. Assisted by Matthew Herasme.,61,59,2,1,0.756559202229085,0.700395801758826,1,3,4.5,NA,NA,Marist,made,David Knudsen,Matthew Herasme,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,235,2,2:26,146,446,Canisius  Timeout,61,59,2,12,0.7658646080218436,0.7127206434835947,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,236,2,2:26,146,446,Official TV Timeout,61,59,2,0,0.7658646080218436,0.7127206434835947,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,237,2,2:22,142,442,Malik Johnson Turnover.,61,59,2,4,0.769145864419689,0.7170400168077965,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,238,2,2:22,142,442,Darius Hines Steal.,61,59,2,0,0.769145864419689,0.7170400168077965,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,239,2,2:12,132,432,Darius Hines Turnover.,61,59,2,10,0.7778115751822561,0.7283803306563982,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,240,2,2:12,132,432,Malik Johnson Steal.,61,59,2,0,0.7778115751822561,0.7283803306563982,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,241,2,2:02,122,422,Takal Molson missed Three Point Jumper.,61,59,2,10,0.7872120709395881,0.7405791344064003,1,2,4.5,NA,NA,Canisius,missed,Takal Molson,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,242,2,1:59,119,419,Darius Hines Defensive Rebound.,61,59,2,3,0.7901863791375562,0.7444184944788205,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,243,2,1:42,102,402,Foul on Jonathan Sanks.,61,59,2,17,0.8084511243334368,0.7678136564668471,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,244,2,1:36,96,396,Matthew Herasme made Three Point Jumper. Assisted by Aleksandar Dozic.,61,62,-1,6,0.40512587779372217,0.34901448967326015,1,2,4.5,NA,NA,NA,made,Matthew Herasme,Aleksandar Dozic,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,245,2,1:17,77,377,Jonathan Sanks missed Three Point Jumper.,61,62,-1,19,0.3807984209786005,0.329610664835415,1,2,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,246,2,1:13,73,373,Jibreel Faulkner Offensive Rebound.,61,62,-1,4,0.3754132196723882,0.3253019211384115,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,247,2,0:55,55,355,Jibreel Faulkner made Dunk. Assisted by Malik Johnson.,63,62,1,18,0.7366909998771439,0.6950427154887114,1,2,4.5,NA,NA,Canisius,made,Jibreel Faulkner,Malik Johnson,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,248,2,0:36,36,336,David Knudsen made Three Point Jumper. Assisted by Aleksandar Dozic.,63,65,-2,19,0.15708095530939842,0.13375161876967864,1,2,4.5,NA,NA,Marist,made,David Knudsen,Aleksandar Dozic,TRUE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,249,2,0:25,25,325,Malik Johnson missed Three Point Jumper.,63,65,-2,11,0.1384402141735854,0.11855004383725477,1,2,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,250,2,0:23,23,323,Jibreel Faulkner Offensive Rebound.,63,65,-2,2,0.13518341126017666,0.11588951215446809,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,251,2,0:22,22,322,Jibreel Faulkner made Layup.,65,65,0,1,0.5436692259075996,0.5,1,2,4.5,NA,NA,Canisius,made,Jibreel Faulkner,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,252,2,0:22,22,322,Canisius  Timeout,65,65,0,0,0.5436692259075996,0.5,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,253,2,0:18,18,318,Foul on Malik Johnson.,65,65,0,4,0.5427324042375895,0.5,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,254,2,0:00,300,300,Matthew Herasme Turnover.,65,65,0,18,0.5897185878173744,0.5,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,255,2,0:00,300,300,Jalanni White Steal.,65,65,0,0,0.5897185878173744,0.5,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,256,2,0:00,300,300,End of 2nd half,65,65,0,0,0.5897185878173744,0.5,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA
+401085918,2019-02-04,Canisius,Marist,257,3,5:00,300,300,PLAY,65,65,0,0,0.5897185878173744,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius
+401085918,2019-02-04,Canisius,Marist,258,3,4:43,283,283,Jalanni White Turnover.,65,65,0,17,0.5877818280169412,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,259,3,4:24,264,264,Aleksandar Dozic Turnover.,65,65,0,19,0.585601848358899,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,260,3,4:24,264,264,Takal Molson Steal.,65,65,0,0,0.585601848358899,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,261,3,4:12,252,252,Jalanni White Turnover.,65,65,0,12,0.5841905587688608,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,262,3,3:43,223,223,Aleksandar Dozic missed Jumper.,65,65,0,29,0.5805648547841199,0.5,2,2,4.5,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,263,3,3:40,220,220,Takal Molson Defensive Rebound.,65,65,0,3,0.5801661695749621,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,264,3,3:22,202,202,Jonathan Sanks missed Jumper.,65,65,0,18,0.577652984661119,0.5,2,2,4.5,NA,NA,Canisius,missed,Jonathan Sanks,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,265,3,3:22,202,202,Canisius Offensive Rebound.,65,65,0,0,0.577652984661119,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,266,3,3:15,195,195,Takal Molson missed Jumper.,65,65,0,7,0.5766122586900376,0.5,2,2,4.5,NA,NA,Canisius,missed,Takal Molson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,267,3,3:12,192,192,Aleksandar Dozic Defensive Rebound.,65,65,0,3,0.5761541094794747,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,268,3,2:58,178,178,David Knudsen missed Three Point Jumper.,65,65,0,14,0.5739555862322429,0.5,2,2,4.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,269,3,2:54,174,174,Aleksandar Dozic Offensive Rebound.,65,65,0,4,0.573316201825019,0.5,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,270,3,2:38,158,158,Aleksandar Dozic made Layup.,65,67,-2,16,0.3625162054632121,0.29960419824117396,2,2,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,271,3,2:09,129,129,Scott Hitchon missed Layup.,65,67,-2,29,0.32297057720073064,0.2680543311870606,2,2,4.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,272,3,2:07,127,127,Jibreel Faulkner Offensive Rebound.,65,67,-2,2,0.3199528137400514,0.26563318464307695,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,273,3,2:07,127,127,Canisius  Turnover.,65,67,-2,0,0.3199528137400514,0.26563318464307695,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,274,3,1:53,113,113,David Knudsen made Layup. Assisted by Aleksandar Dozic.,65,69,-4,14,0.12239278258543247,0.0977544533344432,2,2,4.5,NA,NA,Marist,made,David Knudsen,Aleksandar Dozic,FALSE,FALSE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,275,3,1:35,95,95,Foul on Matthew Herasme.,65,69,-4,18,0.09341392379280407,0.07508591296209673,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,276,3,1:35,95,95,Takal Molson made Free Throw.,66,69,-3,0,0.16180232379651235,0.13201018320776053,2,2,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,277,3,1:35,95,95,Takal Molson made Free Throw.,67,69,-2,0,0.26559040289702585,0.22174365665862406,2,2,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,TRUE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,278,3,1:20,80,80,Austin Williams missed Jumper.,67,69,-2,15,0.23774351908629826,0.19919150539601063,2,2,4.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,FALSE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,279,3,1:16,76,76,Tobias Sjoberg Offensive Rebound.,67,69,-2,4,0.23030362231942056,0.19316839301624314,2,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,280,3,1:08,68,68,Marist  Timeout,67,69,-2,8,0.2152591452086196,0.1809780323151103,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,281,3,0:55,55,55,Foul on Jalanni White.,67,69,-2,13,0.19114853863471232,0.1614331501511825,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,282,3,0:55,55,55,Aleksandar Dozic made Free Throw.,67,70,-3,0,0.09394708030818656,0.07788728376247109,1,2,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,283,3,0:55,55,55,Aleksandar Dozic made Free Throw.,67,71,-4,0,0.04351465642663153,0.035736006092767954,1,2,4.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,284,3,0:44,44,44,Takal Molson missed Layup.,67,71,-4,11,0.03392313803094346,0.02807332633832223,1,2,4.5,NA,NA,Canisius,missed,Takal Molson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,285,3,0:41,41,41,Austin Williams Defensive Rebound.,67,71,-4,3,0.03159026138372133,0.026200609267929203,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,286,3,0:39,39,39,Foul on Jordan Henderson.,67,71,-4,2,0.03010167607226237,0.025003519105138164,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,287,3,0:39,39,39,Darius Hines made Free Throw.,67,72,-5,0,0.012267423794619857,0.010158122256686277,1,2,4.5,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,288,3,0:39,39,39,Darius Hines made Free Throw.,67,73,-6,0,0.004945501990294188,0.004089942967555818,1,2,4.5,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,289,3,0:25,25,25,Takal Molson missed Three Point Jumper.,67,73,-6,14,0.0028981741014813887,0.0024269280025252284,1,2,4.5,NA,NA,Canisius,missed,Takal Molson,NA,TRUE,FALSE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,290,3,0:22,22,22,Malik Johnson Offensive Rebound.,67,73,-6,3,0.0025743882552418463,0.00216171630890053,1,2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,291,3,0:21,21,21,Malik Johnson made Layup.,69,73,-4,1,0.019044853068608317,0.016049256467977793,1,2,4.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,292,3,0:21,21,21,Canisius  Timeout,69,73,-4,0,0.019044853068608317,0.016049256467977793,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,293,3,0:19,19,19,Foul on Takal Molson.,69,73,-4,2,0.01804832552134981,0.015235341616680557,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,294,3,0:19,19,19,Matthew Herasme made Free Throw.,69,74,-5,0,0.0064405152004696035,0.005426708213685131,1,1,4.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,295,3,0:19,19,19,Matthew Herasme made Free Throw.,69,75,-6,0,0.0022809456548369337,0.001920634346292939,1,1,4.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,296,3,0:11,11,11,Malik Johnson missed Layup.,69,75,-6,8,0.0016308009101959726,0.0013835869582565457,1,1,4.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,297,3,0:11,11,11,Matthew Herasme made Free Throw.,69,76,-7,0,5.45097596432897e-4,4.623897448740618e-4,1,1,4.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Canisius,Canisius
+401085918,2019-02-04,Canisius,Marist,298,3,0:11,11,11,Matthew Herasme Defensive Rebound.,69,75,-6,0,0.0016308009101959726,0.0013835869582565457,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,299,3,0:11,11,11,Foul on Malik Johnson.,69,75,-6,0,0.0016308009101959726,0.0013835869582565457,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,300,3,0:11,11,11,Matthew Herasme made Free Throw.,69,77,-8,0,1.8206785661282508e-4,1.544341249034924e-4,1,1,4.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,301,3,0:08,8,8,Takal Molson made Layup.,71,77,-6,3,0.0014321148718583639,0.0012185197287773533,1,1,4.5,NA,NA,Canisius,made,Takal Molson,NA,FALSE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,302,3,0:05,5,5,Foul on Malik Johnson.,71,77,-6,3,0.0012553048770651265,0.001071181529272076,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085918,2019-02-04,Canisius,Marist,303,3,0:05,5,5,Matthew Herasme missed Free Throw.,71,77,-6,0,0.0012553048770651265,0.001071181529272076,1,1,4.5,NA,NA,NA,missed,Matthew Herasme,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,304,3,0:05,5,5,Marist Offensive Rebound.,71,77,-6,0,0.0012553048770651265,0.001071181529272076,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,305,3,0:05,5,5,Matthew Herasme made Free Throw.,71,78,-7,0,4.019526397583694e-4,3.429527742934268e-4,1,1,4.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Canisius
+401085918,2019-02-04,Canisius,Marist,306,3,0:01,1,1,Jibreel Faulkner missed Three Point Jumper.,71,78,-7,4,3.266770629317097e-4,2.798209438706408e-4,1,1,4.5,NA,NA,Canisius,missed,Jibreel Faulkner,NA,TRUE,FALSE,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,307,3,0:00,0,0,Austin Williams Defensive Rebound.,71,71,0,1,1.8451484562102503e-61,1.580420060273613e-61,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Marist
+401085918,2019-02-04,Canisius,Marist,308,3,0:00,0,0,End of 1st overtime,71,71,0,0,1.8451484562102503e-61,1.580420060273613e-61,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401085918,2019-02-04,Canisius,Marist,309,3,0:00,0,0,End of Game,71,71,0,0,1.8451484562102503e-61,1.580420060273613e-61,1,1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA

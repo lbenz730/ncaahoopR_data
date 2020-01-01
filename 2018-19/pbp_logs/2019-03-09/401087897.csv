@@ -1,0 +1,320 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401087897,2019-03-09,Pennsylvania,Brown,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,2,1,19:27,2367,2367,Max Rothschild missed Layup.,0,0,0,33,0.722996116283761,0.5,4,4,6,NA,NA,Pennsylvania,missed,Max Rothschild,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,3,1,19:23,2363,2363,Zach Hunsaker Defensive Rebound.,0,0,0,4,0.7229163540406149,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,4,1,19:08,2348,2348,Tamenang Choh made Layup.,0,2,-2,15,0.6849111850336893,0.45486594659906016,4,4,6,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,5,1,18:47,2327,2327,AJ Brodeur made Layup.,2,2,0,21,0.7221803422502652,0.5,4,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,6,1,18:33,2313,2313,Tamenang Choh Turnover.,2,2,0,14,0.7218850653711583,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,7,1,18:33,2313,2313,Jake Silpe Steal.,2,2,0,0,0.7218850653711583,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,8,1,18:24,2304,2304,Jackson Donahue missed Three Point Jumper.,2,2,0,9,0.7216924948303465,0.5,4,4,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,9,1,18:20,2300,2300,Tamenang Choh Defensive Rebound.,2,2,0,4,0.7216062086988387,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,10,1,18:08,2288,2288,Tamenang Choh made Layup. Assisted by Desmond Cambridge.,2,4,-2,12,0.6823918417315686,0.4535453277550481,4,4,6,NA,NA,Brown,made,Tamenang Choh,Desmond Cambridge,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,11,1,17:52,2272,2272,Antonio Woods missed Three Point Jumper.,2,4,-2,16,0.6816955191231013,0.45318685350934135,4,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,12,1,17:51,2271,2271,Max Rothschild Offensive Rebound.,2,4,-2,1,0.6816516571039819,0.4531643721419195,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,13,1,17:51,2271,2271,Foul on Joshua Howard.,2,4,-2,0,0.6816516571039819,0.4531643721419195,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,14,1,17:47,2267,2267,Foul on Desmond Cambridge.,2,4,-2,4,0.6814758070440367,0.453074360085721,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,15,1,17:47,2267,2267,Jake Silpe made Free Throw.,3,4,-1,0,0.701550179257887,0.47648528574854293,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,NA,FALSE,TRUE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,16,1,17:43,2263,2263,Jake Silpe missed Free Throw.,3,4,-1,4,0.701418032334141,0.47643991116827855,4,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,FALSE,TRUE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,17,1,17:42,2262,2262,AJ Brodeur Offensive Rebound.,3,4,-1,1,0.7013849103251846,0.47642855684274604,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,18,1,17:39,2259,2259,AJ Brodeur missed Layup.,3,4,-1,3,0.7012853393448248,0.4763944686544839,4,4,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,19,1,17:34,2254,2254,AJ Brodeur Offensive Rebound.,3,4,-1,5,0.7011187034576875,0.47633757254891607,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,20,1,17:34,2254,2254,AJ Brodeur made Layup.,5,4,1,0,0.7392495335340874,0.523662427451084,4,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,21,1,17:21,2241,2241,Joshua Howard Turnover.,5,4,1,13,0.7390767800604199,0.5238108181357399,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,22,1,17:21,2241,2241,Max Rothschild Steal.,5,4,1,0,0.7390767800604199,0.5238108181357399,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,23,1,17:07,2227,2227,AJ Brodeur made Layup.,7,4,3,14,0.7741867462683372,0.5714761792196995,4,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,24,1,16:46,2206,2206,Obi Okolie missed Jumper.,7,4,3,21,0.7742583873213613,0.5721886558870166,4,4,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,25,1,16:41,2201,2201,Jake Silpe Defensive Rebound.,7,4,3,5,0.7742742021614116,0.5723588062278907,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,26,1,16:19,2179,2179,Jake Silpe made Three Point Jumper. Assisted by Max Rothschild.,10,4,6,22,0.8216428115229769,0.6431581645096554,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,Max Rothschild,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,27,1,16:07,2167,2167,Foul on Jake Silpe.,10,4,6,12,0.8219140255366785,0.6439282582920025,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,28,1,16:01,2161,2161,Desmond Cambridge made Three Point Jumper. Assisted by Tamenang Choh.,10,7,3,6,0.7743821161602139,0.5737258080799493,4,4,6,NA,NA,Brown,made,Desmond Cambridge,Tamenang Choh,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,29,1,15:34,2134,2134,Antonio Woods missed Three Point Jumper.,10,7,3,27,0.7744385568465455,0.5746566555022267,4,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,30,1,15:30,2130,2130,Zach Hunsaker Defensive Rebound.,10,7,3,4,0.7744459729699332,0.574795283759689,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,31,1,15:25,2125,2125,Desmond Cambridge missed Three Point Jumper.,10,7,3,5,0.7744549157821644,0.5749688454359582,4,4,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,32,1,15:21,2121,2121,Antonio Woods Defensive Rebound.,10,7,3,4,0.7744618127109754,0.575107919690846,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,33,1,15:13,2113,2113,Devon Goodman missed Three Point Jumper.,10,7,3,8,0.7744749362506101,0.5753866813203414,4,4,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,34,1,15:09,2109,2109,Zach Hunsaker Defensive Rebound.,10,7,3,4,0.7744811703282142,0.5755263749734004,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,35,1,14:51,2091,2091,Foul on Tamenang Choh.,10,7,3,18,0.7745066356702022,0.5761576743561939,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,36,1,14:51,2091,2091,Tamenang Choh Turnover.,10,7,3,0,0.7745066356702022,0.5761576743561939,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,37,1,14:51,2091,2091,Official TV Timeout,10,7,3,0,0.7745066356702022,0.5761576743561939,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,38,1,14:40,2080,2080,Foul on AJ Brodeur.,10,7,3,11,0.7745202152970576,0.5765457115339635,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,39,1,14:40,2080,2080,AJ Brodeur Turnover.,10,7,3,0,0.7745202152970576,0.5765457115339635,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,40,1,14:27,2067,2067,Desmond Cambridge missed Three Point Jumper.,10,7,3,13,0.7745344521532905,0.577006601573104,4,4,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,41,1,14:24,2064,2064,Brown Offensive Rebound.,10,7,3,3,0.7745374714219609,0.5771133253031837,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,42,1,14:20,2060,2060,Obi Okolie missed Jumper.,10,7,3,4,0.7745413472871236,0.5772558407813325,4,4,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,43,1,14:18,2058,2058,Tamenang Choh Offensive Rebound.,10,7,3,2,0.7745432220560834,0.5773271924711609,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,44,1,14:17,2057,2057,Foul on Max Rothschild.,10,7,3,1,0.7745441438533602,0.5773628919742989,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,45,1,14:17,2057,2057,Tamenang Choh made Free Throw.,10,8,2,0,0.7558692703016088,0.5518062549456831,4,4,6,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,46,1,14:17,2057,2057,Tamenang Choh made Free Throw.,10,9,1,0,0.7361744223053016,0.5259730242636912,4,4,6,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,47,1,14:00,2040,2040,Foul on David Mitchell.,10,9,1,17,0.7358666314318061,0.5261805984850774,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,48,1,13:58,2038,2038,AJ Brodeur Turnover.,10,9,1,2,0.735830028240242,0.5262051299966672,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,49,1,13:58,2038,2038,David Mitchell Steal.,10,9,1,0,0.735830028240242,0.5262051299966672,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,50,1,13:49,2029,2029,Desmond Cambridge made Layup.,10,11,-1,9,0.6927128251888544,0.4736841811083096,4,4,6,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,51,1,13:49,2029,2029,Foul on Bryce Washington.,10,11,-1,0,0.6927128251888544,0.4736841811083096,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,52,1,13:49,2029,2029,Desmond Cambridge made Free Throw.,10,12,-2,0,0.669842357576592,0.44751375380537767,4,4,6,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,53,1,13:27,2007,2007,Antonio Woods Turnover.,10,12,-2,22,0.6686473800963395,0.4469729450400265,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,54,1,13:27,2007,2007,Brandon Anderson Steal.,10,12,-2,0,0.6686473800963395,0.4469729450400265,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,55,1,13:22,2002,2002,Tamenang Choh Turnover.,10,12,-2,5,0.6683728990478084,0.44684919122501826,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,56,1,13:22,2002,2002,Eddie Scott Steal.,10,12,-2,0,0.6683728990478084,0.44684919122501826,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,57,1,13:06,1986,1986,AJ Brodeur missed Layup.,10,12,-2,16,0.6674873278655308,0.4464510012097531,4,4,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,58,1,13:05,1985,1985,AJ Brodeur Offensive Rebound.,10,12,-2,1,0.6674316130998235,0.4464260020688232,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,59,1,13:05,1985,1985,Foul on Eddie Scott.,10,12,-2,0,0.6674316130998235,0.4464260020688232,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,60,1,12:51,1971,1971,Obi Okolie missed Three Point Jumper.,10,12,-2,14,0.666647066503852,0.4460745911378282,4,4,6,NA,NA,Brown,missed,Obi Okolie,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,61,1,12:51,1971,1971,Pennsylvania Defensive Rebound.,10,12,-2,0,0.666647066503852,0.4460745911378282,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,62,1,12:51,1971,1971,Foul on David Mitchell.,10,12,-2,0,0.666647066503852,0.4460745911378282,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,63,1,12:39,1959,1959,Jake Silpe missed Three Point Jumper.,10,12,-2,12,0.6659678378657393,0.4457712209062565,4,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,64,1,12:35,1955,1955,Desmond Cambridge Defensive Rebound.,10,12,-2,4,0.6657400381647833,0.44566964359135686,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,65,1,12:30,1950,1950,Brandon Anderson Turnover.,10,12,-2,5,0.665454309379262,0.4455423475571626,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,66,1,12:30,1950,1950,Max Rothschild Steal.,10,12,-2,0,0.665454309379262,0.4455423475571626,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,67,1,12:03,1923,1923,Jake Silpe made Three Point Jumper. Assisted by Max Rothschild.,13,12,1,27,0.7335965708120786,0.5276598640407679,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,Max Rothschild,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,68,1,11:50,1910,1910,Brandon Anderson Turnover.,13,12,1,13,0.7333262241473819,0.5278286919419152,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,69,1,11:50,1910,1910,Official TV Timeout,13,12,1,0,0.7333262241473819,0.5278286919419152,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,70,1,11:36,1896,1896,Max Rothschild Turnover.,13,12,1,14,0.7330287398497526,0.528010304397139,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,71,1,11:36,1896,1896,Tamenang Choh Steal.,13,12,1,0,0.7330287398497526,0.528010304397139,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,72,1,11:06,1866,1866,Chris Sullivan missed Three Point Jumper.,13,12,1,30,0.7323708575061902,0.5283997416370915,4,4,6,NA,NA,Brown,missed,Chris Sullivan,NA,TRUE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,73,1,11:03,1863,1863,Obi Okolie Offensive Rebound.,13,12,1,3,0.7323036453153391,0.5284387656502132,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,74,1,11:01,1861,1861,Obi Okolie missed Layup.,13,12,1,2,0.7322587014384898,0.5284647942974876,4,4,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,75,1,10:56,1856,1856,Obi Okolie Offensive Rebound.,13,12,1,5,0.7321458747219823,0.5285299146784808,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,76,1,10:56,1856,1856,Obi Okolie missed Layup.,13,12,1,0,0.7321458747219823,0.5285299146784808,4,4,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,77,1,10:55,1855,1855,Jake Silpe Defensive Rebound.,13,12,1,1,0.732123230428692,0.5285429477349748,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,78,1,10:45,1845,1845,Jake Silpe missed Three Point Jumper.,13,12,1,10,0.7318953808633561,0.5286734657058288,4,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,79,1,10:41,1841,1841,Brandon Anderson Defensive Rebound.,13,12,1,4,0.73180354441741,0.5287257791662856,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,80,1,10:34,1834,1834,Brandon Anderson made Jumper.,13,14,-1,7,0.6839908172459761,0.4711825052391752,4,4,6,NA,NA,Brown,made,Brandon Anderson,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,81,1,10:10,1810,1810,Devon Goodman made Three Point Jumper. Assisted by Max Rothschild.,16,14,2,24,0.753389819291257,0.558070640203388,4,4,6,NA,NA,Pennsylvania,made,Devon Goodman,Max Rothschild,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,82,1,9:53,1793,1793,Tamenang Choh missed Layup.,16,14,2,17,0.7531756522742707,0.5585187786108389,4,4,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,83,1,9:42,1782,1782,Jake Silpe Defensive Rebound.,16,14,2,11,0.7530355461346582,0.5588110990017319,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,84,1,9:30,1770,1770,Jake Silpe made Layup. Assisted by Max Rothschild.,18,14,4,12,0.7944045588757861,0.6166334595330472,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,Max Rothschild,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,85,1,9:10,1750,1750,Tamenang Choh made Layup.,18,16,2,20,0.7526237928124616,0.5596740810082438,4,4,6,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,86,1,8:56,1736,1736,Jake Silpe made Layup. Assisted by Jackson Donahue.,20,16,4,14,0.7946332173805706,0.6184085223956917,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,Jackson Donahue,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,87,1,8:23,1703,1703,Brandon Anderson Turnover.,20,16,4,33,0.794874762109475,0.6201803175656188,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,88,1,8:03,1683,1683,Devon Goodman missed Three Point Jumper.,20,16,4,20,0.795031226060743,0.6212783190930349,4,4,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,89,1,8:00,1680,1680,David Mitchell Defensive Rebound.,20,16,4,3,0.7950526919182646,0.6214418002995874,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,90,1,7:36,1656,1656,Desmond Cambridge missed Jumper.,20,16,4,24,0.7951932021011847,0.6227251861729859,4,4,6,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,91,1,7:33,1653,1653,Pennsylvania Defensive Rebound.,20,16,4,3,0.7952072667988417,0.6228829755347673,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,92,1,7:32,1652,1652,Official TV Timeout,20,16,4,1,0.7952118007886964,0.6229354614340316,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,93,1,7:19,1639,1639,AJ Brodeur missed Layup.,20,16,4,13,0.7952642363601914,0.6236132857176387,4,4,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,94,1,7:19,1639,1639,Desmond Cambridge Block.,20,16,4,0,0.7952642363601914,0.6236132857176387,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,95,1,7:13,1633,1633,David Mitchell Defensive Rebound.,20,16,4,6,0.7952847388857582,0.623923709604715,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,96,1,7:04,1624,1624,Joshua Howard made Three Point Jumper. Assisted by Zach Hunsaker.,20,19,1,9,0.726331163894279,0.5317205655619778,4,4,6,NA,NA,Brown,made,Joshua Howard,Zach Hunsaker,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,97,1,6:42,1602,1602,Antonio Woods missed Three Point Jumper.,20,19,1,22,0.7256769818675398,0.5320196042679948,4,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,98,1,6:38,1598,1598,Brandon Anderson Defensive Rebound.,20,19,1,4,0.7255560757265078,0.5320739026692098,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,99,1,6:32,1592,1592,Zach Hunsaker missed Jumper.,20,19,1,6,0.7253737573763179,0.5321553964350793,4,4,6,NA,NA,Brown,missed,Zach Hunsaker,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,100,1,6:28,1588,1588,AJ Brodeur Defensive Rebound.,20,19,1,4,0.7252516232295841,0.5322097820108966,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,101,1,6:14,1574,1574,Antonio Woods missed Layup.,20,19,1,14,0.7248209958421253,0.532400763533179,4,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,FALSE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,102,1,6:09,1569,1569,Devon Goodman Offensive Rebound.,20,19,1,5,0.7246662090410891,0.5324693094295908,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,103,1,6:09,1569,1569,Devon Goodman made Layup.,22,19,3,0,0.7734416201718597,0.5963262221181337,4,4,6,NA,NA,Pennsylvania,made,Devon Goodman,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,104,1,5:52,1552,1552,Joshua Howard Turnover.,22,19,3,17,0.773308171218936,0.597007775129961,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,105,1,5:52,1552,1552,Jake Silpe Steal.,22,19,3,0,0.773308171218936,0.597007775129961,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,106,1,5:47,1547,1547,Jake Silpe made Layup. Assisted by Antonio Woods.,24,19,5,5,0.8159935332469171,0.658456633753785,4,4,6,NA,NA,Pennsylvania,made,Jake Silpe,Antonio Woods,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,107,1,5:46,1546,1546,Brown  Timeout,24,19,5,1,0.8160038700560784,0.6585199193539275,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,108,1,5:43,1543,1543,Desmond Cambridge made Dunk.,24,21,3,3,0.7732390315845002,0.5973729562093391,3,4,6,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,109,1,5:11,1511,1511,Max Rothschild Turnover.,24,21,3,32,0.7730127388988628,0.5987058439163156,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,110,1,4:57,1497,1497,Obi Okolie made Layup.,24,23,1,14,0.7224257199044191,0.5334991778821079,3,4,6,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,111,1,4:24,1464,1464,Bryce Washington missed Three Point Jumper.,24,23,1,33,0.7214268790367514,0.5340153761412025,3,4,6,NA,NA,Pennsylvania,missed,Bryce Washington,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,112,1,4:19,1459,1459,Joshua Howard Defensive Rebound.,24,23,1,5,0.721279026806699,0.5340969650295512,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,113,1,4:00,1440,1440,Foul on Max Rothschild.,24,23,1,19,0.720721719571463,0.534412266693522,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,114,1,4:00,1440,1440,Official TV Timeout,24,23,1,0,0.720721719571463,0.534412266693522,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,115,1,3:57,1437,1437,Foul on AJ Brodeur.,24,23,1,3,0.7206321186817685,0.5344613525169652,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,116,1,3:57,1437,1437,Zach Hunsaker made Free Throw.,24,24,0,0,0.6920104025135212,0.5,3,4,6,NA,NA,Brown,made,Zach Hunsaker,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,117,1,3:57,1437,1437,Zach Hunsaker made Free Throw.,24,25,-1,0,0.6618323896603685,0.46553864748303486,3,4,6,NA,NA,Brown,made,Zach Hunsaker,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,118,1,3:43,1423,1423,Foul on Joshua Howard.,24,25,-1,14,0.6609530893630964,0.46531328895126245,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,119,1,3:28,1408,1408,Jake Silpe missed Three Point Jumper.,24,25,-1,15,0.6600061211075656,0.46507747513848,3,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,120,1,3:24,1404,1404,Joshua Howard Defensive Rebound.,24,25,-1,4,0.6597526719884158,0.4650153723824115,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,121,1,3:04,1384,1384,Joshua Howard missed Jumper.,24,25,-1,20,0.6584790266039398,0.46470826279026495,3,4,6,NA,NA,Brown,missed,Joshua Howard,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,122,1,2:59,1379,1379,AJ Brodeur Defensive Rebound.,24,25,-1,5,0.6581588393306184,0.46463207607255963,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,123,1,2:52,1372,1372,Jake Silpe missed Layup.,24,25,-1,7,0.6577093024180619,0.46452559227823725,3,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,FALSE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,124,1,2:52,1372,1372,Zach Hunsaker Block.,24,25,-1,0,0.6577093024180619,0.46452559227823725,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,125,1,2:52,1372,1372,Pennsylvania Offensive Rebound.,24,25,-1,0,0.6577093024180619,0.46452559227823725,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,126,1,2:44,1364,1364,Antonio Woods missed Three Point Jumper.,24,25,-1,8,0.6571936520629018,0.46440395444890575,3,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,127,1,2:41,1361,1361,David Mitchell Defensive Rebound.,24,25,-1,3,0.6569997442986082,0.4643583077411053,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,128,1,2:33,1353,1353,Obi Okolie Turnover.,24,25,-1,8,0.6564811689552519,0.46423636008834385,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,129,1,2:13,1333,1333,Jackson Donahue missed Three Point Jumper.,24,25,-1,20,0.6551747308878408,0.4639286555442341,3,4,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,130,1,2:10,1330,1330,Brown Defensive Rebound.,24,25,-1,3,0.6549774674821996,0.46388197609251486,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,131,1,2:00,1320,1320,Foul on Tamenang Choh.,24,25,-1,10,0.6543173458655994,0.46372504138159276,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,132,1,2:00,1320,1320,Tamenang Choh Turnover.,24,25,-1,0,0.6543173458655994,0.46372504138159276,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,133,1,1:46,1306,1306,Devon Goodman made Three Point Jumper.,27,25,2,14,0.745114625093576,0.57261080326151,3,4,6,NA,NA,Pennsylvania,made,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,134,1,1:32,1292,1292,Desmond Cambridge Turnover.,27,25,2,14,0.7448540577325224,0.5730634866740758,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,135,1,1:32,1292,1292,Antonio Woods Steal.,27,25,2,0,0.7448540577325224,0.5730634866740758,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,136,1,1:15,1275,1275,AJ Brodeur missed Layup.,27,25,2,17,0.7445518244705012,0.5736330030156834,3,4,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,137,1,1:11,1271,1271,David Mitchell Defensive Rebound.,27,25,2,4,0.7444834499823676,0.5737706367643391,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,138,1,1:08,1268,1268,Obi Okolie missed Layup.,27,25,2,3,0.7444329364317376,0.5738748499188054,3,4,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,139,1,1:04,1264,1264,Joshua Howard Offensive Rebound.,27,25,2,4,0.7443666585886063,0.5740151669926442,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,140,1,1:04,1264,1264,Joshua Howard made Dunk.,27,27,0,0,0.6836371541969672,0.5,3,4,6,NA,NA,Brown,made,Joshua Howard,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,141,1,1:04,1264,1264,Pennsylvania  Timeout,27,27,0,0,0.6836371541969672,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,142,1,0:55,1255,1255,Jackson Donahue missed Three Point Jumper.,27,27,0,9,0.6831883794958742,0.5,3,3,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,TRUE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,143,1,0:54,1254,1254,Pennsylvania Offensive Rebound.,27,27,0,1,0.6831385124878177,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,144,1,0:54,1254,1254,Foul on David Mitchell.,27,27,0,0,0.6831385124878177,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,145,1,0:52,1252,1252,AJ Brodeur missed Free Throw.,27,27,0,2,0.6830387796684835,0.5,3,3,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,TRUE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,146,1,0:50,1250,1250,Tamenang Choh Defensive Rebound.,27,27,0,2,0.6829390501625354,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,147,1,0:44,1244,1244,Zach Hunsaker Turnover.,27,27,0,6,0.6826399021560744,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,148,1,0:32,1232,1232,Jackson Donahue missed Three Point Jumper.,27,27,0,12,0.6820419744629658,0.5,3,3,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,149,1,0:28,1228,1228,George Mawanda-Kalema Defensive Rebound.,27,27,0,4,0.6818428351120039,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,150,1,0:03,1203,1203,Obi Okolie Turnover.,27,27,0,25,0.6806017246732362,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,151,1,0:00,1200,1200,Devon Goodman missed Three Point Jumper.,27,27,0,3,0.6804535252979187,0.5,3,3,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,152,1,0:00,1200,1200,Pennsylvania Offensive Rebound.,27,27,0,0,0.6804535252979187,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,153,1,0:00,1200,1200,End of 1st half,27,27,0,0,0.6804535252979187,0.5,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,NA
+401087897,2019-03-09,Pennsylvania,Brown,154,2,20:00,1200,1200,PLAY,27,27,0,0,0.6804535252979187,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Brown
+401087897,2019-03-09,Pennsylvania,Brown,155,2,19:39,1179,1179,Tamenang Choh missed Jumper.,27,27,0,21,0.6794211353402015,0.5,4,4,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,156,2,19:39,1179,1179,Pennsylvania Defensive Rebound.,27,27,0,0,0.6794211353402015,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,157,2,19:28,1168,1168,Max Rothschild made Layup.,29,27,2,11,0.7431423974102046,0.5777934660014936,4,4,6,NA,NA,Pennsylvania,made,Max Rothschild,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,158,2,19:14,1154,1154,Tamenang Choh missed Layup.,29,27,2,14,0.7429722926818184,0.5783397249868103,4,4,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,159,2,19:11,1151,1151,Tamenang Choh Offensive Rebound.,29,27,2,3,0.7429355736594181,0.5784561050861952,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,160,2,19:10,1150,1150,Tamenang Choh missed Layup.,29,27,2,1,0.742923321801869,0.5784948614835138,4,4,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,161,2,19:07,1147,1147,Devon Goodman Defensive Rebound.,29,27,2,3,0.7428865399954165,0.5786110384287257,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,162,2,19:04,1144,1144,AJ Brodeur made Layup. Assisted by Devon Goodman.,31,27,4,3,0.798731240400741,0.6536450678440313,4,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,Devon Goodman,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,163,2,18:30,1110,1110,Brown  Turnover.,31,27,4,34,0.7992536927368336,0.6560914168015014,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,164,2,18:04,1084,1084,Jake Silpe missed Three Point Jumper.,31,27,4,26,0.7996852546756344,0.6580061723160412,4,4,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,165,2,18:01,1081,1081,Pennsylvania Offensive Rebound.,31,27,4,3,0.7997381942419749,0.6582317857063557,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,166,2,17:53,1073,1073,AJ Brodeur made Jumper.,33,27,6,8,0.8474357016721367,0.7285325668428716,4,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,167,2,17:36,1056,1056,Tamenang Choh missed Layup.,33,27,6,17,0.8480832775313882,0.7302798175271844,4,4,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,168,2,17:35,1055,1055,Brown Offensive Rebound.,33,27,6,1,0.8481226472122352,0.7303846178496279,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,169,2,17:35,1055,1055,Foul on Max Rothschild.,33,27,6,0,0.8481226472122352,0.7303846178496279,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,170,2,17:29,1049,1049,Joshua Howard Turnover.,33,27,6,6,0.8483621487522878,0.7310186451105881,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,171,2,17:29,1049,1049,Devon Goodman Steal.,33,27,6,0,0.8483621487522878,0.7310186451105881,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,172,2,17:25,1045,1045,Devon Goodman made Layup.,35,27,8,4,0.8866601457777626,0.7918256741982044,4,4,6,NA,NA,Pennsylvania,made,Devon Goodman,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,173,2,17:25,1045,1045,Brown  Timeout,35,27,8,0,0.8866601457777626,0.7918256741982044,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,174,2,17:25,1045,1045,Official TV Timeout,35,27,8,0,0.8866601457777626,0.7918256741982044,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,175,2,17:23,1043,1043,Official TV Timeout,35,27,8,2,0.8867613834826503,0.79206683098436,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,176,2,17:11,1031,1031,Desmond Cambridge made Jumper.,35,29,6,12,0.8491176422947848,0.732979865041721,3,4,6,NA,NA,Brown,made,Desmond Cambridge,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,177,2,16:39,999,999,AJ Brodeur made Layup. Assisted by Jake Silpe.,37,29,8,32,0.8891921422936705,0.7977112702339664,3,4,6,NA,NA,Pennsylvania,made,AJ Brodeur,Jake Silpe,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,178,2,16:15,975,975,Joshua Howard made Three Point Jumper. Assisted by Zach Hunsaker.,37,32,5,24,0.8285759409140119,0.7049152817406917,3,4,6,NA,NA,Brown,made,Joshua Howard,Zach Hunsaker,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,179,2,15:54,954,954,Devon Goodman made Layup. Assisted by AJ Brodeur.,39,32,7,21,0.8738726471464873,0.7748431000679895,3,4,6,NA,NA,Pennsylvania,made,Devon Goodman,AJ Brodeur,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,180,2,15:43,943,943,Foul on Jarrod Simmons.,39,32,7,11,0.8744875031545849,0.7762478572703019,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,181,2,15:43,943,943,Official TV Timeout,39,32,7,0,0.8744875031545849,0.7762478572703019,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,182,2,15:43,943,943,Obi Okolie made Free Throw.,39,33,6,0,0.8536509629472521,0.74387896867327985,3,4,6,NA,NA,Brown,made,Obi Okolie,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,183,2,15:43,943,943,Obi Okolie made Free Throw.,39,34,5,0,0.8300276536747675,0.7085853866478283,3,4,6,NA,NA,Brown,made,Obi Okolie,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,184,2,15:34,934,934,Foul on Desmond Cambridge.,39,34,5,9,0.8303832647880928,0.7095125283609721,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,185,2,15:22,922,922,Antonio Woods missed Three Point Jumper.,39,34,5,12,0.8308300755301123,0.7106932089851494,3,4,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,186,2,15:19,919,919,Tamenang Choh Defensive Rebound.,39,34,5,3,0.8309377157751953,0.7109799976040713,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,187,2,15:14,914,914,Desmond Cambridge made Three Point Jumper.,39,37,2,5,0.741173525004241,0.5892771424475891,3,4,6,NA,NA,Brown,made,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,188,2,14:54,894,894,AJ Brodeur missed Jumper.,39,37,2,20,0.7410758700708968,0.5901401604334477,3,4,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,189,2,14:51,891,891,Brandon Anderson Defensive Rebound.,39,37,2,3,0.7410610946074412,0.5902672327458226,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,190,2,14:34,874,874,Obi Okolie made Three Point Jumper.,39,40,-1,17,0.6222275670374746,0.4541248426661231,3,4,6,NA,NA,Brown,made,Obi Okolie,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,191,2,14:26,866,866,Pennsylvania  Timeout,39,40,-1,8,0.6216890923646529,0.4539507912028006,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,192,2,14:25,865,865,Jackson Donahue Turnover.,39,40,-1,1,0.621621635153388,0.45392891067405794,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,193,2,14:25,865,865,Tamenang Choh Steal.,39,40,-1,0,0.621621635153388,0.45392891067405794,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,194,2,14:10,850,850,Devon Goodman made Three Point Jumper. Assisted by AJ Brodeur.,42,40,2,15,0.7408835459895167,0.5920164495216145,3,3,6,NA,NA,Pennsylvania,made,Devon Goodman,AJ Brodeur,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,195,2,13:51,831,831,Desmond Cambridge missed Three Point Jumper.,42,40,2,19,0.7408339258593833,0.5928814025750985,3,3,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,196,2,13:47,827,827,Max Rothschild Defensive Rebound.,42,40,2,4,0.7408275298251152,0.5930716785543344,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,197,2,13:43,823,823,Foul on Brandon Anderson.,42,40,2,4,0.7408227501783969,0.5932653553954909,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,198,2,13:32,812,812,AJ Brodeur made Layup.,44,40,4,11,0.806900942203431,0.6812536488781407,3,3,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,199,2,13:07,787,787,Tamenang Choh missed Jumper.,44,40,4,25,0.8078338888149222,0.6837428238918423,3,3,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,200,2,13:04,784,784,Max Rothschild Defensive Rebound.,44,40,4,3,0.8079598457718843,0.6840664745213006,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,201,2,12:42,762,762,Zach Hunsaker missed Three Point Jumper.,44,40,4,22,0.8089911416909681,0.6866333959811891,3,3,6,NA,NA,Brown,missed,Zach Hunsaker,NA,TRUE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,202,2,12:39,759,759,Obi Okolie Offensive Rebound.,44,40,4,3,0.8091476430615151,0.68701207729517,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,203,2,12:18,738,738,Tamenang Choh made Jumper.,44,42,2,21,0.7412719598204076,0.598634531417445,3,3,6,NA,NA,Brown,made,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,204,2,12:02,722,722,Jackson Donahue missed Three Point Jumper.,44,42,2,16,0.7414945436823501,0.5999801950494589,3,3,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,205,2,11:58,718,718,David Mitchell Defensive Rebound.,44,42,2,4,0.7415403209531,0.6003007952078363,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,206,2,11:49,709,709,Tamenang Choh Turnover.,44,42,2,9,0.7416245571046796,0.6009898795913388,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,207,2,11:49,709,709,Jackson Donahue Steal.,44,42,2,0,0.7416245571046796,0.6009898795913388,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,208,2,11:31,691,691,Antonio Woods made Three Point Jumper. Assisted by Devon Goodman.,47,42,5,18,0.8425492243177373,0.7383161395274492,3,3,6,NA,NA,Pennsylvania,made,Antonio Woods,Devon Goodman,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,209,2,11:04,664,664,Brandon Anderson missed Jumper.,47,42,5,27,0.8440454082039837,0.7418406550861776,3,3,6,NA,NA,Brown,missed,Brandon Anderson,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,210,2,10:59,659,659,Max Rothschild Defensive Rebound.,47,42,5,5,0.8443133100004573,0.7424786846395824,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,211,2,10:53,653,653,Devon Goodman missed Three Point Jumper.,47,42,5,6,0.8446363334686906,0.7432471168573895,3,3,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,212,2,10:52,652,652,Official TV Timeout,47,42,5,1,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,213,2,10:52,652,652,David Mitchell Defensive Rebound.,47,42,5,0,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,214,2,10:52,652,652,Foul on Devon Goodman.,47,42,5,0,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,215,2,10:52,652,652,Official TV Timeout,47,42,5,0,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,216,2,10:52,652,652,Technical Foul on Brown.,47,42,5,0,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,217,2,10:52,652,652,Technical Foul on Pennsylvania.,47,42,5,0,0.8446905105300347,0.7433757779721992,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,218,2,10:39,639,639,Desmond Cambridge missed Three Point Jumper.,47,42,5,13,0.8454112335935833,0.7450762548997344,3,3,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,219,2,10:34,634,634,Max Rothschild Defensive Rebound.,47,42,5,5,0.8457000917056147,0.7457499239833566,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,220,2,10:20,620,620,Foul on Max Rothschild.,47,42,5,14,0.846560756854752,0.7477230050821305,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,221,2,10:20,620,620,Max Rothschild Turnover.,47,42,5,0,0.846560756854752,0.7477230050821305,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,222,2,10:00,600,600,Obi Okolie made Jumper.,47,44,3,20,0.7820326192718454,0.6596857878916322,3,3,6,NA,NA,Brown,made,Obi Okolie,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,223,2,9:36,576,576,AJ Brodeur made Layup.,49,44,5,24,0.8500814570854358,0.7552810069202037,3,3,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,224,2,9:22,562,562,Tamenang Choh missed Layup.,49,44,5,14,0.85157166371074,0.7582990230637648,3,3,6,NA,NA,Brown,missed,Tamenang Choh,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,225,2,9:22,562,562,Jarrod Simmons Block.,49,44,5,0,0.85157166371074,0.7582990230637648,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,226,2,9:16,556,556,Jake Silpe Defensive Rebound.,49,44,5,6,0.8522785879754318,0.7597053751177723,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,227,2,9:04,544,544,Devon Goodman made Three Point Jumper. Assisted by AJ Brodeur.,52,44,8,12,0.9216363297347306,0.8661756231109613,3,3,6,NA,NA,Pennsylvania,made,Devon Goodman,AJ Brodeur,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,228,2,8:51,531,531,Brandon Anderson Turnover.,52,44,8,13,0.9231063303120061,0.8690515329861012,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,229,2,8:51,531,531,Devon Goodman Steal.,52,44,8,0,0.9231063303120061,0.8690515329861012,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,230,2,8:42,522,522,Jake Silpe missed Three Point Jumper.,52,44,8,9,0.9239960475352125,0.8708213736624352,3,3,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,231,2,8:37,517,517,AJ Brodeur Offensive Rebound.,52,44,8,5,0.9244594131957813,0.8717509496855109,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,232,2,8:37,517,517,Foul on Zach Hunsaker.,52,44,8,0,0.9244594131957813,0.8717509496855109,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,233,2,8:34,514,514,Devon Goodman made Layup. Assisted by AJ Brodeur.,54,44,10,3,0.9520641787198784,0.9169614271212684,3,3,6,NA,NA,Pennsylvania,made,Devon Goodman,AJ Brodeur,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,234,2,8:33,513,513,Brown  Timeout,54,44,10,1,0.9521409991772803,0.9171149246462592,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,235,2,8:19,499,499,Foul on Jake Silpe.,54,44,10,14,0.9531906695820609,0.9192147729447868,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,236,2,8:15,495,495,Zach Hunsaker Turnover.,54,44,10,4,0.9534894347511442,0.919811374537521,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,237,2,8:15,495,495,Jarrod Simmons Steal.,54,44,10,0,0.9534894347511442,0.919811374537521,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,238,2,7:59,479,479,AJ Brodeur missed Layup.,54,44,10,16,0.9547375150106902,0.9222838589339643,2,3,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,239,2,7:52,472,472,AJ Brodeur Offensive Rebound.,54,44,10,7,0.9553318368497788,0.9234461591440339,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,240,2,7:52,472,472,AJ Brodeur missed Layup.,54,44,10,0,0.9553318368497788,0.9234461591440339,2,3,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,241,2,7:51,471,471,Joshua Howard Defensive Rebound.,54,44,10,1,0.9554200404314942,0.923617751720904,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,242,2,7:47,467,467,Zach Hunsaker made Three Point Jumper. Assisted by Obi Okolie.,54,47,7,4,0.9107347349525352,0.8521770416987446,2,3,6,NA,NA,Brown,made,Zach Hunsaker,Obi Okolie,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,243,2,7:28,448,448,Devon Goodman Turnover.,54,47,7,19,0.9132279747106006,0.8569469262166213,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,244,2,7:28,448,448,Zach Hunsaker Steal.,54,47,7,0,0.9132279747106006,0.8569469262166213,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,245,2,7:25,445,445,Foul on Jake Silpe.,54,47,7,3,0.9136840984001331,0.8578023250785641,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,246,2,7:25,445,445,Official TV Timeout,54,47,7,0,0.9136840984001331,0.8578023250785641,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,247,2,7:25,445,445,Zach Hunsaker missed Free Throw.,54,47,7,0,0.9136840984001331,0.8578023250785641,2,3,6,NA,NA,Brown,missed,Zach Hunsaker,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,248,2,7:25,445,445,Brown Offensive Rebound.,54,47,7,0,0.9136840984001331,0.8578023250785641,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,249,2,7:25,445,445,Zach Hunsaker made Free Throw.,54,48,6,0,0.8911686779697157,0.8235256292434606,2,3,6,NA,NA,Brown,made,Zach Hunsaker,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,250,2,7:03,423,423,AJ Brodeur missed Three Point Jumper.,54,48,6,22,0.8951297346076044,0.8308428071621996,2,3,6,NA,NA,Pennsylvania,missed,AJ Brodeur,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,251,2,6:59,419,419,Joshua Howard Defensive Rebound.,54,48,6,4,0.8958380245079696,0.8321650361640544,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,252,2,6:43,403,403,Desmond Cambridge missed Jumper.,54,48,6,16,0.8984432340917553,0.8371292964237941,2,3,6,NA,NA,Brown,missed,Desmond Cambridge,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,253,2,6:39,399,399,Desmond Cambridge Offensive Rebound.,54,48,6,4,0.8990568136256964,0.8383177314512436,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,254,2,6:29,389,389,Desmond Cambridge Turnover.,54,48,6,10,0.9005649473361077,0.8412561005540823,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,255,2,6:29,389,389,Devon Goodman Steal.,54,48,6,0,0.9005649473361077,0.8412561005540823,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,256,2,6:27,387,387,Foul on Zach Hunsaker.,54,48,6,2,0.9008656690506023,0.8418433447980755,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,257,2,6:10,370,370,Foul on Tamenang Choh.,54,48,6,17,0.9034917079455521,0.8469491953957645,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,258,2,6:02,362,362,Antonio Woods missed Three Point Jumper.,54,48,6,8,0.9048155389108383,0.8494876546775018,2,3,6,NA,NA,Pennsylvania,missed,Antonio Woods,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,259,2,6:01,361,361,Brown Defensive Rebound.,54,48,6,1,0.9049868290462658,0.8498137329389575,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,260,2,6:01,361,361,Foul on Jarrod Simmons.,54,48,6,0,0.9049868290462658,0.8498137329389575,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,261,2,6:01,361,361,Joshua Howard made Free Throw.,54,49,5,0,0.8770782298984635,0.8091171876521646,2,3,6,NA,NA,Brown,made,Joshua Howard,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,262,2,6:01,361,361,Joshua Howard made Free Throw.,54,50,4,0,0.8423995293806313,0.7605008307198514,2,3,6,NA,NA,Brown,made,Joshua Howard,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,263,2,5:40,340,340,Foul on Joshua Howard.,54,50,4,21,0.8460184165783361,0.7676524512718775,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,264,2,5:25,325,325,Max Rothschild Turnover.,54,50,4,15,0.8492718169137274,0.7737117032016189,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,265,2,5:25,325,325,Joshua Howard Steal.,54,50,4,0,0.8492718169137274,0.7737117032016189,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,266,2,5:03,303,303,Joshua Howard missed Layup.,54,50,4,22,0.8547649702899753,0.7836121758039871,2,3,6,NA,NA,Brown,missed,Joshua Howard,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,267,2,4:59,299,299,Max Rothschild Defensive Rebound.,54,50,4,4,0.8552137705948891,0.7846523726876814,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,268,2,4:47,287,287,Jake Silpe missed Three Point Jumper.,54,50,4,12,0.855072951319778,0.7857307067734332,2,3,6,NA,NA,Pennsylvania,missed,Jake Silpe,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,269,2,4:44,284,284,Tamenang Choh Defensive Rebound.,54,50,4,3,0.8547530130756621,0.7856127034086154,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,270,2,4:39,279,279,Obi Okolie Turnover.,54,50,4,5,0.854024492269856,0.7851539073677951,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,271,2,4:20,260,260,Foul on Tamenang Choh.,54,50,4,19,0.8499178836901472,0.7816717754753404,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,272,2,3:59,239,239,Devon Goodman missed Three Point Jumper.,54,50,4,21,0.8457702369226853,0.7785331486909061,2,3,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,TRUE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,273,2,3:56,236,236,Obi Okolie Defensive Rebound.,54,50,4,3,0.8454576922550177,0.7784740309067586,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,274,2,3:46,226,226,Zach Hunsaker missed Three Point Jumper.,54,50,4,10,0.8452826125551797,0.7794490926766819,2,3,6,NA,NA,Brown,missed,Zach Hunsaker,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,275,2,3:41,221,221,Jake Silpe Defensive Rebound.,54,50,4,5,0.8458020151260383,0.780750128814572,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,276,2,3:40,220,220,Official TV Timeout,54,50,4,1,0.845961730690684,0.7810847440511174,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,277,2,3:33,213,213,Foul on Zach Hunsaker.,54,50,4,7,0.8476515795615381,0.7841865546690908,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,278,2,3:33,213,213,Max Rothschild Turnover.,54,50,4,0,0.8476515795615381,0.7841865546690908,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,279,2,3:18,198,198,Joshua Howard Turnover.,54,50,4,15,0.8550814360887485,0.7958767453064896,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,280,2,3:18,198,198,Max Rothschild Steal.,54,50,4,0,0.8550814360887485,0.7958767453064896,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,281,2,3:05,185,185,AJ Brodeur made Layup.,56,50,6,13,0.9305267073756026,0.8994769140896962,2,3,6,NA,NA,Pennsylvania,made,AJ Brodeur,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,282,2,2:43,163,163,Obi Okolie missed Jumper.,56,50,6,22,0.9459330333037324,0.9225721653614386,2,3,6,NA,NA,Brown,missed,Obi Okolie,NA,FALSE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,283,2,2:41,161,161,Pennsylvania Defensive Rebound.,56,50,6,2,0.9472384971103639,0.9245218269589321,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,284,2,2:28,148,148,Antonio Woods Turnover.,56,50,6,13,0.9554441512660662,0.9367279416540241,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,285,2,2:28,148,148,Desmond Cambridge Steal.,56,50,6,0,0.9554441512660662,0.9367279416540241,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,286,2,2:14,134,134,Zach Hunsaker missed Layup.,56,50,6,14,0.9637807852900473,0.949018687531729,2,3,6,NA,NA,Brown,missed,Zach Hunsaker,NA,FALSE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,287,2,2:14,134,134,David Mitchell Offensive Rebound.,56,50,6,0,0.9637807852900473,0.949018687531729,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,288,2,2:14,134,134,AJ Brodeur Block.,56,50,6,0,0.9637807852900473,0.949018687531729,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,289,2,2:13,133,133,Foul on Devon Goodman.,56,50,6,1,0.9643557730202432,0.9498615226481447,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,290,2,2:13,133,133,David Mitchell missed Free Throw.,56,50,6,0,0.9643557730202432,0.9498615226481447,2,3,6,NA,NA,Brown,missed,David Mitchell,NA,FALSE,TRUE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,291,2,2:13,133,133,Brown Offensive Rebound.,56,50,6,0,0.9643557730202432,0.9498615226481447,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,292,2,2:13,133,133,David Mitchell made Free Throw.,56,51,5,0,0.9430861281267667,0.9206544859576531,2,3,6,NA,NA,Brown,made,David Mitchell,NA,FALSE,TRUE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,293,2,1:41,101,101,Devon Goodman missed Layup.,56,51,5,32,0.9656045536412483,0.9530499839696769,2,3,6,NA,NA,Pennsylvania,missed,Devon Goodman,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,294,2,1:36,96,96,Tamenang Choh Defensive Rebound.,56,51,5,5,0.9688058098987088,0.9575832660763629,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,295,2,1:34,94,94,Obi Okolie missed Three Point Jumper.,56,51,5,2,0.970048434459667,0.9593374889039392,2,3,6,NA,NA,Brown,missed,Obi Okolie,NA,TRUE,FALSE,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,296,2,1:30,90,90,David Mitchell Offensive Rebound.,56,51,5,4,0.9724106718336836,0.962666245735249,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,297,2,1:28,88,88,Desmond Cambridge missed Three Point Jumper.,56,51,5,2,0.973533096973243,0.9642448308526215,2,3,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,298,2,1:24,84,84,Max Rothschild Defensive Rebound.,56,51,5,4,0.9756733754561031,0.967248340021246,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,299,2,0:54,54,54,Max Rothschild missed Layup.,56,51,5,30,0.9880939092861627,0.9844267896415257,2,3,6,NA,NA,Pennsylvania,missed,Max Rothschild,NA,FALSE,FALSE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,300,2,0:51,51,51,Tamenang Choh Defensive Rebound.,56,51,5,3,0.9889984789396844,0.9856556264021654,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,301,2,0:49,49,49,Desmond Cambridge Turnover.,56,51,5,2,0.989571692009549,0.9864321606874447,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,302,2,0:27,27,27,Foul on David Mitchell.,56,51,5,22,0.9944668174295939,0.9929784569081344,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,303,2,0:27,27,27,Jackson Donahue missed Free Throw.,56,51,5,0,0.9944668174295939,0.9929784569081344,2,3,6,NA,NA,Pennsylvania,missed,Jackson Donahue,NA,FALSE,TRUE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,304,2,0:25,25,25,Tamenang Choh Defensive Rebound.,56,51,5,2,0.9947944917560344,0.9934099508758157,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,305,2,0:16,16,16,Zach Hunsaker missed Three Point Jumper.,56,51,5,9,0.9960806265175541,0.9950920147273049,2,3,6,NA,NA,Brown,missed,Zach Hunsaker,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,306,2,0:15,15,15,Antonio Woods Defensive Rebound.,56,51,5,1,0.9962068216101925,0.9952559108828367,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,307,2,0:12,12,12,Foul on Obi Okolie.,56,51,5,3,0.9965659834495125,0.995721129015984,2,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,308,2,0:12,12,12,Pennsylvania  Timeout,56,51,5,0,0.9965659834495125,0.995721129015984,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,309,2,0:12,12,12,Antonio Woods made Free Throw.,57,51,6,0,0.9988427378871093,0.9985572113565686,2,2,6,NA,NA,Pennsylvania,made,Antonio Woods,NA,FALSE,TRUE,Pennsylvania,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,310,2,0:12,12,12,Antonio Woods made Free Throw.,58,51,7,0,0.999610592992681,0.9995144241014755,2,2,6,NA,NA,Pennsylvania,made,Antonio Woods,NA,FALSE,TRUE,Pennsylvania,Brown
+401087897,2019-03-09,Pennsylvania,Brown,311,2,0:06,6,6,Desmond Cambridge missed Three Point Jumper.,58,51,7,6,0.9997085120029918,0.9996393283371705,2,2,6,NA,NA,Brown,missed,Desmond Cambridge,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,312,2,0:03,3,3,Jake Silpe Defensive Rebound.,58,51,7,3,0.9997485662837995,0.9996901033844948,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,313,2,0:03,3,3,Jake Silpe Turnover.,58,51,7,0,0.9997485662837995,0.9996901033844948,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,314,2,0:03,3,3,Zach Hunsaker Steal.,58,51,7,0,0.9997485662837995,0.9996901033844948,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,315,2,0:03,3,3,Brown  Timeout,58,51,7,0,0.9997485662837995,0.9996901033844948,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Brown
+401087897,2019-03-09,Pennsylvania,Brown,316,2,0:01,1,1,Joshua Howard missed Three Point Jumper.,58,51,7,2,0.9997723726113812,0.9997201790561293,1,2,6,NA,NA,Brown,missed,Joshua Howard,NA,TRUE,FALSE,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,317,2,0:00,0,0,Pennsylvania Defensive Rebound.,58,58,0,1,1,1,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Brown,Pennsylvania
+401087897,2019-03-09,Pennsylvania,Brown,318,2,0:00,0,0,End of 2nd half,58,58,0,0,1,1,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,NA
+401087897,2019-03-09,Pennsylvania,Brown,319,2,0:00,0,0,End of Game,58,58,0,0,1,1,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Pennsylvania,NA
