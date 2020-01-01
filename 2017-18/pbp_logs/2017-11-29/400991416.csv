@@ -1,0 +1,318 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991416,2017-11-29,Drexel,Lafayette,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6972509872768149,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drexel
+400991416,2017-11-29,Drexel,Lafayette,2,1,19:36,2376,2376,Tramaine Isabell missed Jumper.,0,0,0,24,0.6968255173029352,0.5,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,3,1,19:36,2376,2376,Eric Stafford Defensive Rebound.,0,0,0,0,0.6968255173029352,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,4,1,19:35,2375,2375,Foul on Austin Williams.,0,0,0,1,0.6968075162247099,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,5,1,19:23,2363,2363,Eric Stafford missed Layup.,0,0,0,12,0.6965897680700953,0.5,4,4,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,6,1,19:23,2363,2363,Austin Williams Block.,0,0,0,0,0.6965897680700953,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,7,1,19:21,2361,2361,Jarvis Doles Defensive Rebound.,0,0,0,2,0.6965531630251582,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,8,1,19:11,2351,2351,Jarvis Doles missed Three Point Jumper.,0,0,0,10,0.6963687780750818,0.5,4,4,5.2,NA,NA,Drexel,missed,Jarvis Doles,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,9,1,19:11,2351,2351,Austin Williams Offensive Rebound.,0,0,0,0,0.6963687780750818,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,10,1,19:05,2345,2345,Foul on Lukas Jarrett.,0,0,0,6,0.6962570500961672,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,11,1,19:00,2340,2340,Kurk Lee made Layup.,2,0,2,5,0.7331812451645799,0.5453077293526352,4,4,5.2,NA,NA,Drexel,made,Kurk Lee,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,12,1,18:45,2325,2325,Matt Klinewski missed Jumper.,2,0,2,15,0.7331765866426251,0.5456354795997193,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,FALSE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,13,1,18:45,2325,2325,Paulius Zalys Offensive Rebound.,2,0,2,0,0.7331765866426251,0.5456354795997193,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,14,1,18:40,2320,2320,Paulius Zalys Turnover.,2,0,2,5,0.7331744425200968,0.545745316074961,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,15,1,18:39,2319,2319,Sammy Mojica Steal.,2,0,2,1,0.7331739767724886,0.5457673174479175,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,16,1,18:20,2300,2300,Kurk Lee Turnover.,2,0,2,19,0.7331626800447044,0.5461874184583804,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,17,1,18:18,2298,2298,Paulius Zalys Steal.,2,0,2,2,0.7331612097905897,0.546231860846261,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,18,1,18:15,2295,2295,Justin Jaworski missed Three Point Jumper.,2,0,2,3,0.7331588998736089,0.5462986002811664,4,4,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,19,1,18:15,2295,2295,Drexel Defensive Rebound.,2,0,2,0,0.7331588998736089,0.5462986002811664,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,20,1,18:03,2283,2283,Jarvis Doles made Jumper. Assisted by Kurk Lee.,4,0,4,12,0.7680730534994915,0.5923320194906242,4,4,5.2,NA,NA,Drexel,made,Jarvis Doles,Kurk Lee,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,21,1,17:46,2266,2266,Matt Klinewski missed Layup.,4,0,4,17,0.7683303865554109,0.5930757245876026,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,FALSE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,22,1,17:46,2266,2266,Lafayette Offensive Rebound.,4,0,4,0,0.7683303865554109,0.5930757245876026,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,23,1,17:44,2264,2264,Paulius Zalys missed Three Point Jumper.,4,0,4,2,0.7683604967690661,0.5931635207693176,4,4,5.2,NA,NA,Lafayette,missed,Paulius Zalys,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,24,1,17:44,2264,2264,Tramaine Isabell Defensive Rebound.,4,0,4,0,0.7683604967690661,0.5931635207693176,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,25,1,17:27,2247,2247,Austin Williams Turnover.,4,0,4,17,0.7686148454743671,0.5939121489487891,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,26,1,17:18,2238,2238,Matt Klinewski Turnover.,4,0,4,9,0.7687482422522415,0.5943100781269467,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,27,1,17:08,2228,2228,Sammy Mojica missed Three Point Jumper.,4,0,4,10,0.7688953266441966,0.5947533996242493,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,28,1,17:08,2228,2228,Austin Williams Offensive Rebound.,4,0,4,0,0.7688953266441966,0.5947533996242493,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,29,1,17:02,2222,2222,Austin Williams made Two Point Tip Shot.,6,0,6,6,0.8013822489831379,0.6404080576134128,4,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,30,1,16:42,2202,2202,Alex Petrie made Jumper. Assisted by Eric Stafford.,6,2,4,20,0.7692714677054683,0.5959111106401285,4,4,5.2,NA,NA,Lafayette,made,Alex Petrie,Eric Stafford,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,31,1,16:10,2170,2170,Tramaine Isabell missed Three Point Jumper.,6,2,4,32,0.7697198980630564,0.597343873385936,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,32,1,16:10,2170,2170,Eric Stafford Defensive Rebound.,6,2,4,0,0.7697198980630564,0.597343873385936,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,33,1,16:03,2163,2163,Eric Stafford Turnover.,6,2,4,7,0.7698157461822199,0.5976583357494077,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,34,1,15:43,2143,2143,Sammy Mojica missed Three Point Jumper.,6,2,4,20,0.7700866511541751,0.5985604481955343,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,35,1,15:43,2143,2143,Paulius Zalys Defensive Rebound.,6,2,4,0,0.7700866511541751,0.5985604481955343,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,36,1,15:33,2133,2133,Paulius Zalys made Layup.,6,4,2,10,0.7328006560506152,0.5500019309142038,4,4,5.2,NA,NA,Lafayette,made,Paulius Zalys,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,37,1,15:16,2116,2116,Kurk Lee Turnover.,6,4,2,17,0.7327348235182704,0.5504007677468735,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,38,1,15:14,2114,2114,Alex Petrie Steal.,6,4,2,2,0.7327267777764751,0.550447858030201,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,39,1,15:12,2112,2112,Justin Jaworski made Layup. Assisted by Alex Petrie.,6,6,0,2,0.6912114862031096,0.5,4,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,Alex Petrie,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,40,1,14:54,2094,2094,Sammy Mojica missed Layup.,6,6,0,18,0.6907614928875554,0.5,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,41,1,14:54,2094,2094,Lukas Jarrett Defensive Rebound.,6,6,0,0,0.6907614928875554,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,42,1,14:33,2073,2073,Justin Jaworski made Jumper.,6,8,-2,21,0.6444565705240699,0.4485783912387449,4,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,43,1,14:33,2073,2073,Foul on Tyshawn Myles.,6,8,-2,0,0.6444565705240699,0.4485783912387449,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,44,1,14:33,2073,2073,Official TV Timeout,6,8,-2,0,0.6444565705240699,0.4485783912387449,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,45,1,14:33,2073,2073,Justin Jaworski missed Free Throw.,6,8,-2,0,0.6444565705240699,0.4485783912387449,4,4,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,46,1,14:33,2073,2073,Tramaine Isabell Defensive Rebound.,6,8,-2,0,0.6444565705240699,0.4485783912387449,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,47,1,14:07,2047,2047,Kurk Lee missed Jumper.,6,8,-2,26,0.6431486641567846,0.4479519194647577,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,48,1,14:07,2047,2047,Paulius Zalys Defensive Rebound.,6,8,-2,0,0.6431486641567846,0.4479519194647577,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,49,1,13:59,2039,2039,Dylan Hastings made Layup. Assisted by Paulius Zalys.,6,10,-4,8,0.5932810086693494,0.3966436356576595,4,4,5.2,NA,NA,Lafayette,made,Dylan Hastings,Paulius Zalys,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,50,1,13:34,2014,2014,Foul on Dylan Hastings.,6,10,-4,25,0.5913274281921567,0.3954595070586404,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,51,1,13:34,2014,2014,Alihan Demir missed Free Throw.,6,10,-4,0,0.5913274281921567,0.3954595070586404,4,4,5.2,NA,NA,Drexel,missed,Alihan Demir,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,52,1,13:34,2014,2014,Drexel Deadball Team Rebound.,6,10,-4,0,0.5913274281921567,0.3954595070586404,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,53,1,13:34,2014,2014,Alihan Demir made Free Throw.,7,10,-3,0,0.6166990461691019,0.42108640328208347,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,54,1,13:17,1997,1997,Alex Petrie missed Jumper.,7,10,-3,17,0.6155815887738546,0.4204644062843387,4,4,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,55,1,13:17,1997,1997,Austin Williams Defensive Rebound.,7,10,-3,0,0.6155815887738546,0.4204644062843387,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,56,1,12:54,1974,1974,Jarvis Doles missed Jumper.,7,10,-3,23,0.6140476864784558,0.41961421237485375,4,4,5.2,NA,NA,Drexel,missed,Jarvis Doles,NA,FALSE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,57,1,12:54,1974,1974,Alihan Demir Offensive Rebound.,7,10,-3,0,0.6140476864784558,0.41961421237485375,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,58,1,12:38,1958,1958,Austin Williams made Jumper.,9,10,-1,16,0.6632182929926603,0.4727926015739934,4,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,59,1,12:26,1946,1946,Matt Klinewski missed Three Point Jumper.,9,10,-1,12,0.6627228196071394,0.47263843140301287,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,60,1,12:26,1946,1946,Jarvis Doles Defensive Rebound.,9,10,-1,0,0.6627228196071394,0.47263843140301287,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,61,1,11:58,1918,1918,Alihan Demir missed Layup.,9,10,-1,28,0.6615490978374953,0.4722751693621137,4,4,5.2,NA,NA,Drexel,missed,Alihan Demir,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,62,1,11:58,1918,1918,Dylan Hastings Defensive Rebound.,9,10,-1,0,0.6615490978374953,0.4722751693621137,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,63,1,11:46,1906,1906,Foul on Kurk Lee.,9,10,-1,12,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,64,1,11:46,1906,1906,Official TV Timeout,9,10,-1,0,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,65,1,11:46,1906,1906,E.J. Stephens missed Free Throw.,9,10,-1,0,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,66,1,11:46,1906,1906,Lafayette Deadball Team Rebound.,9,10,-1,0,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,67,1,11:46,1906,1906,E.J. Stephens missed Free Throw.,9,10,-1,0,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,68,1,11:46,1906,1906,Tramaine Isabell Defensive Rebound.,9,10,-1,0,0.6610382159266571,0.4721194061896508,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,69,1,11:18,1878,1878,Tadas Kararinas missed Three Point Jumper.,9,10,-1,28,0.6598276248480138,0.4717561665119255,4,4,5.2,NA,NA,Drexel,missed,Tadas Kararinas,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,70,1,11:18,1878,1878,Lafayette Deadball Team Rebound.,9,10,-1,0,0.6598276248480138,0.4717561665119255,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,71,1,11:17,1877,1877,Foul on Jarvis Doles.,9,10,-1,1,0.6597839107841212,0.47174318365662943,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,72,1,11:12,1872,1872,Matt Klinewski made Jumper. Assisted by Eric Stafford.,9,12,-3,5,0.6069569719001122,0.4157547667141279,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,Eric Stafford,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,73,1,10:40,1840,1840,Tramaine Isabell missed Layup.,9,12,-3,32,0.6046472345821782,0.41453549642681625,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,74,1,10:40,1840,1840,Lafayette Deadball Team Rebound.,9,12,-3,0,0.6046472345821782,0.41453549642681625,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,75,1,10:16,1816,1816,Alex Petrie missed Three Point Jumper.,9,12,-3,24,0.6028850791536084,0.41361354444576404,4,4,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,76,1,10:16,1816,1816,Eric Stafford Offensive Rebound.,9,12,-3,0,0.6028850791536084,0.41361354444576404,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,77,1,10:10,1810,1810,Paulius Zalys made Layup.,9,14,-5,6,0.545451152196112,0.35816470978401005,4,4,5.2,NA,NA,Lafayette,made,Paulius Zalys,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,78,1,9:47,1787,1787,Austin Williams made Layup. Assisted by Sammy Mojica.,11,14,-3,23,0.6007185738861458,0.4124860403794488,4,4,5.2,NA,NA,Drexel,made,Austin Williams,Sammy Mojica,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,79,1,9:32,1772,1772,Matt Klinewski made Three Point Jumper. Assisted by Justin Jaworski.,11,17,-6,15,0.5118936912719542,0.3290972417148808,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,Justin Jaworski,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,80,1,9:11,1751,1751,Tramaine Isabell made Three Point Jumper. Assisted by Jarvis Doles.,14,17,-3,21,0.5979674692741954,0.4110580727473581,4,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,Jarvis Doles,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,81,1,8:57,1737,1737,Alex Petrie missed Layup.,14,17,-3,14,0.596877828748463,0.4104922231725536,4,4,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,82,1,8:57,1737,1737,Austin Williams Defensive Rebound.,14,17,-3,0,0.596877828748463,0.4104922231725536,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,83,1,8:46,1726,1726,Jarvis Doles missed Three Point Jumper.,14,17,-3,11,0.596013513828886,0.4100428675384056,4,4,5.2,NA,NA,Drexel,missed,Jarvis Doles,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,84,1,8:46,1726,1726,Lafayette Deadball Team Rebound.,14,17,-3,0,0.596013513828886,0.4100428675384056,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,85,1,8:43,1723,1723,Foul on Tadas Kararinas.,14,17,-3,3,0.5957765156210175,0.4099195455009772,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,86,1,8:30,1710,1710,Kyle Stout Turnover.,14,17,-3,13,0.5947430686862841,0.4093811263522718,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,87,1,8:30,1710,1710,Foul on Kyle Stout.,14,17,-3,0,0.5947430686862841,0.4093811263522718,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,88,1,8:10,1690,1690,Alihan Demir missed Layup.,14,17,-3,20,0.5931320938975297,0.4085391441373022,4,4,5.2,NA,NA,Drexel,missed,Alihan Demir,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,89,1,8:10,1690,1690,Lukas Jarrett Block.,14,17,-3,0,0.5931320938975297,0.4085391441373022,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,90,1,8:07,1687,1687,Myles Cherry Defensive Rebound.,14,17,-3,3,0.5928884805640782,0.40841184843396305,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,91,1,7:58,1678,1678,Justin Jaworski missed Layup.,14,17,-3,9,0.5921574854428578,0.4080335689048973,4,4,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,92,1,7:58,1678,1678,Austin Williams Defensive Rebound.,14,17,-3,0,0.5921574854428578,0.4080335689048973,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,93,1,7:36,1656,1656,Austin Williams missed Jumper.,14,17,-3,22,0.5903679000423142,0.4071285585956243,4,4,5.2,NA,NA,Drexel,missed,Austin Williams,NA,FALSE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,94,1,7:36,1656,1656,Alihan Demir Offensive Rebound.,14,17,-3,0,0.5903679000423142,0.4071285585956243,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,95,1,7:30,1650,1650,Lukas Jarrett Turnover.,14,17,-3,6,0.5898786995235027,0.40688575158717183,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,96,1,7:23,1643,1643,Kyle Stout missed Three Point Jumper.,14,17,-3,7,0.5893071138633086,0.40660422519935224,4,4,5.2,NA,NA,Lafayette,missed,Kyle Stout,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,97,1,7:23,1643,1643,Austin Williams Defensive Rebound.,14,17,-3,0,0.5893071138633086,0.40660422519935224,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,98,1,7:20,1640,1640,Foul on Paulius Zalys.,14,17,-3,3,0.589061831742631,0.40648408335447606,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,99,1,7:20,1640,1640,Official TV Timeout,14,17,-3,0,0.589061831742631,0.40648408335447606,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,100,1,7:00,1620,1620,Sammy Mojica missed Three Point Jumper.,14,17,-3,20,0.5874207208394873,0.40568915270468314,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,101,1,7:00,1620,1620,E.J. Stephens Defensive Rebound.,14,17,-3,0,0.5874207208394873,0.40568915270468314,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,102,1,6:47,1607,1607,Foul on Myles Cherry.,14,17,-3,13,0.5863473342536737,0.4051760002462054,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,103,1,6:47,1607,1607,Myles Cherry Turnover.,14,17,-3,0,0.5863473342536737,0.4051760002462054,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,104,1,6:31,1591,1591,Kurk Lee missed Jumper.,14,17,-3,16,0.5850173146943024,0.404545246656597,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,105,1,6:31,1591,1591,Lukas Jarrett Defensive Rebound.,14,17,-3,0,0.5850173146943024,0.404545246656597,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,106,1,6:22,1582,1582,Myles Cherry Turnover.,14,17,-3,9,0.58426420030536,0.4041897097353757,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,107,1,5:56,1556,1556,Kurk Lee missed Three Point Jumper.,14,17,-3,26,0.5820648676627767,0.40315346971467114,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,108,1,5:56,1556,1556,Austin Williams Offensive Rebound.,14,17,-3,0,0.5820648676627767,0.40315346971467114,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,109,1,5:41,1541,1541,Foul on Kyle Stout.,14,17,-3,15,0.5807776764767297,0.4025454013762496,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,110,1,5:41,1541,1541,Austin Williams missed Free Throw.,14,17,-3,0,0.5807776764767297,0.4025454013762496,4,4,5.2,NA,NA,Drexel,missed,Austin Williams,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,111,1,5:41,1541,1541,Drexel Deadball Team Rebound.,14,17,-3,0,0.5807776764767297,0.4025454013762496,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,112,1,5:41,1541,1541,Austin Williams made Free Throw.,15,17,-2,0,0.6124423281317296,0.4345657071928335,4,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,113,1,5:30,1530,1530,Matt Klinewski Turnover.,15,17,-2,11,0.6116616185208404,0.4342573719522673,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,114,1,5:29,1529,1529,Sammy Mojica Steal.,15,17,-2,1,0.6115903351331816,0.43422911713129225,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,115,1,5:24,1524,1524,Alihan Demir made Layup. Assisted by Sammy Mojica.,17,17,0,5,0.6720987962402091,0.5,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,Sammy Mojica,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,116,1,5:09,1509,1509,Eric Stafford missed Jumper.,17,17,0,15,0.6714854881082005,0.5,4,4,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,117,1,5:09,1509,1509,Austin Williams Defensive Rebound.,17,17,0,0,0.6714854881082005,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,118,1,4:58,1498,1498,Austin Williams made Layup. Assisted by Tramaine Isabell.,19,17,2,11,0.7273351981486099,0.5666691650524704,4,4,5.2,NA,NA,Drexel,made,Austin Williams,Tramaine Isabell,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,119,1,4:58,1498,1498,Foul on Alex Petrie.,19,17,2,0,0.7273351981486099,0.5666691650524704,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,120,1,4:58,1498,1498,Austin Williams made Free Throw.,20,17,3,0,0.7531123999041167,0.5992668486976279,4,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,121,1,4:42,1482,1482,Justin Jaworski made Three Point Jumper. Assisted by Paulius Zalys.,20,20,0,16,0.6703797262251918,0.5,4,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,Paulius Zalys,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,122,1,4:13,1453,1453,Sammy Mojica missed Three Point Jumper.,20,20,0,29,0.6691956001791387,0.5,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,123,1,4:13,1453,1453,Eric Stafford Defensive Rebound.,20,20,0,0,0.6691956001791387,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,124,1,3:52,1432,1432,Alex Petrie missed Three Point Jumper.,20,20,0,21,0.6683353545407489,0.5,4,4,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,125,1,3:52,1432,1432,Alihan Demir Defensive Rebound.,20,20,0,0,0.6683353545407489,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,126,1,3:37,1417,1417,Foul on Matt Klinewski.,20,20,0,15,0.6677104374135966,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,127,1,3:37,1417,1417,Official TV Timeout,20,20,0,0,0.6677104374135966,0.5,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,128,1,3:37,1417,1417,Alihan Demir made Free Throw.,21,20,1,0,0.6978750706815794,0.5347816487510241,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,129,1,3:37,1417,1417,Alihan Demir made Free Throw.,22,20,2,0,0.7264233558112063,0.5692282981425869,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,130,1,3:29,1409,1409,Foul on Tyshawn Myles.,22,20,2,8,0.7263221013547528,0.5694752857545454,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,131,1,3:14,1394,1394,Alex Petrie made Three Point Jumper. Assisted by Matt Klinewski.,22,23,-1,15,0.6347562415138949,0.4648612226383159,4,4,5.2,NA,NA,Lafayette,made,Alex Petrie,Matt Klinewski,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,132,1,2:43,1363,1363,Kurk Lee missed Three Point Jumper.,22,23,-1,31,0.6329200783864403,0.4643887423188608,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,133,1,2:43,1363,1363,Matt Klinewski Defensive Rebound.,22,23,-1,0,0.6329200783864403,0.4643887423188608,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,134,1,2:37,1357,1357,Foul on Tramaine Isabell.,22,23,-1,6,0.6325616894102148,0.464297383612598,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,135,1,2:37,1357,1357,Paulius Zalys missed Free Throw.,22,23,-1,0,0.6325616894102148,0.464297383612598,4,4,5.2,NA,NA,Lafayette,missed,Paulius Zalys,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,136,1,2:37,1357,1357,Alihan Demir Defensive Rebound.,22,23,-1,0,0.6325616894102148,0.464297383612598,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,137,1,2:13,1333,1333,Tramaine Isabell missed Layup.,22,23,-1,24,0.6311167629472989,0.4639286555442341,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,138,1,2:13,1333,1333,Tyshawn Myles Offensive Rebound.,22,23,-1,0,0.6311167629472989,0.4639286555442341,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,139,1,2:12,1332,1332,Tyshawn Myles Turnover.,22,23,-1,1,0.6310561339446443,0.46391311433281557,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,140,1,1:57,1317,1317,Foul on Tadas Kararinas.,22,23,-1,15,0.6301422717382541,0.4636775091464316,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,141,1,1:57,1317,1317,Matt Klinewski missed Free Throw.,22,23,-1,0,0.6301422717382541,0.4636775091464316,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,142,1,1:57,1317,1317,Sammy Mojica Defensive Rebound.,22,23,-1,0,0.6301422717382541,0.4636775091464316,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,143,1,1:39,1299,1299,Tramaine Isabell made Layup.,24,23,1,18,0.6945554867336635,0.5366130183959077,4,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,144,1,1:22,1282,1282,Matt Klinewski made Three Point Jumper. Assisted by Eric Stafford.,24,26,-2,17,0.5928299988273026,0.4266044058059054,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,Eric Stafford,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,145,1,1:06,1266,1266,Foul on E.J. Stephens.,24,26,-2,16,0.5915156178198299,0.4260551899019354,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,146,1,1:06,1266,1266,Tramaine Isabell made Free Throw.,25,26,-1,0,0.6269645584091796,0.46282319450828335,4,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,147,1,1:06,1266,1266,Tramaine Isabell missed Free Throw.,25,26,-1,0,0.6269645584091796,0.46282319450828335,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,148,1,1:06,1266,1266,Lukas Jarrett Defensive Rebound.,25,26,-1,0,0.6269645584091796,0.46282319450828335,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,149,1,0:56,1256,1256,Matt Klinewski missed Jumper.,25,26,-1,10,0.626326932135791,0.46264225437775996,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,150,1,0:56,1256,1256,Alihan Demir Defensive Rebound.,25,26,-1,0,0.626326932135791,0.46264225437775996,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,151,1,0:34,1234,1234,Sammy Mojica Turnover.,25,26,-1,22,0.6249051428284599,0.4622239331614002,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,152,1,0:34,1234,1234,Eric Stafford Steal.,25,26,-1,0,0.6249051428284599,0.4622239331614002,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,153,1,0:17,1217,1217,Alex Petrie made Three Point Jumper. Assisted by Matt Klinewski.,25,29,-4,17,0.5118260662801645,0.35180319266562377,4,4,5.2,NA,NA,Lafayette,made,Alex Petrie,Matt Klinewski,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,154,1,0:06,1206,1206,Kurk Lee missed Three Point Jumper.,25,29,-4,11,0.5103428526633988,0.3509465604153632,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,155,1,0:06,1206,1206,Matt Klinewski Defensive Rebound.,25,29,-4,0,0.5103428526633988,0.3509465604153632,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,156,1,0:00,1200,1200,End of 1st half,25,29,-4,6,0.5095377992962992,0.3504822574627354,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,NA
+400991416,2017-11-29,Drexel,Lafayette,157,2,20:00,1200,1200,PLAY,25,29,-4,0,0.5095377992962992,0.3504822574627354,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,158,2,19:51,1191,1191,Eric Stafford missed Layup.,25,29,-4,9,0.5083429989062512,0.34979647943582354,4,4,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,159,2,19:51,1191,1191,Austin Williams Block.,25,29,-4,0,0.5083429989062512,0.34979647943582354,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,160,2,19:48,1188,1188,Jarvis Doles Defensive Rebound.,25,29,-4,3,0.5079478102100127,0.3495704609323905,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,161,2,19:31,1171,1171,Tramaine Isabell missed Three Point Jumper.,25,29,-4,17,0.5057324565091753,0.3483098638399503,4,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,162,2,19:31,1171,1171,Lafayette Deadball Team Rebound.,25,29,-4,0,0.5057324565091753,0.3483098638399503,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,163,2,19:31,1171,1171,Foul on Austin Williams.,25,29,-4,0,0.5057324565091753,0.3483098638399503,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,164,2,19:22,1162,1162,Alex Petrie missed Three Point Jumper.,25,29,-4,9,0.504572714900186,0.3476535370742541,4,4,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,165,2,19:22,1162,1162,Tramaine Isabell Defensive Rebound.,25,29,-4,0,0.504572714900186,0.3476535370742541,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,166,2,19:10,1150,1150,Tramaine Isabell made Layup.,27,29,-2,12,0.5814528365587001,0.42150513851648624,4,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,167,2,19:10,1150,1150,Foul on Eric Stafford.,27,29,-2,0,0.5814528365587001,0.42150513851648624,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,168,2,19:10,1150,1150,Tramaine Isabell made Free Throw.,28,29,-1,0,0.6194086794197579,0.4605077218008498,4,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,169,2,18:53,1133,1133,Eric Stafford made Layup.,28,31,-3,17,0.5406881629570945,0.38250202869934846,4,4,5.2,NA,NA,Lafayette,made,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,170,2,18:26,1106,1106,Sammy Mojica made Layup.,30,31,-1,27,0.6165763094053102,0.4596372065355794,4,4,5.2,NA,NA,Drexel,made,Sammy Mojica,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,171,2,18:18,1098,1098,Matt Klinewski made Three Point Jumper. Assisted by Paulius Zalys.,30,34,-4,8,0.4963725683817068,0.343032733509974,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,Paulius Zalys,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,172,2,17:55,1075,1075,Sammy Mojica missed Three Point Jumper.,30,34,-4,23,0.49334771292860513,0.3413133211609682,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,173,2,17:55,1075,1075,Paulius Zalys Defensive Rebound.,30,34,-4,0,0.49334771292860513,0.3413133211609682,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,174,2,17:45,1065,1065,Paulius Zalys missed Layup.,30,34,-4,10,0.49200338455400694,0.34054308439977116,4,4,5.2,NA,NA,Lafayette,missed,Paulius Zalys,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,175,2,17:45,1065,1065,Jarvis Doles Block.,30,34,-4,0,0.49200338455400694,0.34054308439977116,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,176,2,17:43,1063,1063,Sammy Mojica Defensive Rebound.,30,34,-4,2,0.4917319694200665,0.34038705214932596,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,177,2,17:34,1054,1054,Tramaine Isabell Turnover.,30,34,-4,9,0.49049902723750394,0.33967589127657755,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,178,2,17:12,1032,1032,Matt Klinewski made Layup.,30,36,-6,22,0.4044775381091826,0.2671316124601422,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,179,2,16:47,1007,1007,Foul on Justin Jaworski.,30,36,-6,25,0.3997119378354531,0.2642434386593164,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,180,2,16:37,997,997,Alihan Demir made Dunk. Assisted by Kurk Lee.,32,36,-4,10,0.482120782238823,0.33472854190953066,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,Kurk Lee,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,181,2,16:21,981,981,Justin Jaworski made Three Point Jumper.,32,39,-7,16,0.35381780404288654,0.22893519325743733,4,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,182,2,15:54,954,954,Kurk Lee missed Jumper.,32,39,-7,27,0.34764942456860354,0.22515689993201046,4,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,183,2,15:54,954,954,Drexel Deadball Team Rebound.,32,39,-7,0,0.34764942456860354,0.22515689993201046,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,184,2,15:53,953,953,Foul on Eric Stafford.,32,39,-7,1,0.34743376987031604,0.22502561512791217,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,185,2,15:53,953,953,Official TV Timeout,32,39,-7,0,0.34743376987031604,0.22502561512791217,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,186,2,15:29,929,929,Alihan Demir missed Three Point Jumper.,32,39,-7,24,0.3425547404478547,0.2220748530458753,4,4,5.2,NA,NA,Drexel,missed,Alihan Demir,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,187,2,15:29,929,929,Austin Williams Offensive Rebound.,32,39,-7,0,0.3425547404478547,0.2220748530458753,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,188,2,15:25,925,925,Austin Williams Turnover.,32,39,-7,4,0.3417888079732417,0.2216147657978201,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,189,2,15:23,923,923,Justin Jaworski Steal.,32,39,-7,2,0.3414100086160441,0.221387502311883,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,190,2,15:18,918,918,Lukas Jarrett made Three Point Jumper. Assisted by Justin Jaworski.,32,42,-10,5,0.23119995893681927,0.14170250475963908,4,4,5.2,NA,NA,Lafayette,made,Lukas Jarrett,Justin Jaworski,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,191,2,15:18,918,918,Foul on Tramaine Isabell.,32,42,-10,0,0.23119995893681927,0.14170250475963908,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,192,2,15:18,918,918,Lukas Jarrett made Free Throw.,32,43,-11,0,0.2007409168695852,0.12117574162185114,4,4,5.2,NA,NA,Lafayette,made,Lukas Jarrett,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,193,2,14:58,898,898,Sammy Mojica made Three Point Jumper. Assisted by Kurk Lee.,35,43,-8,20,0.2974965608753787,0.18917705196129403,4,4,5.2,NA,NA,Drexel,made,Sammy Mojica,Kurk Lee,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,194,2,14:36,876,876,Justin Jaworski missed Layup.,35,43,-8,22,0.2935007021647045,0.1868290136556067,4,4,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,195,2,14:36,876,876,Drexel Defensive Rebound.,35,43,-8,0,0.2935007021647045,0.1868290136556067,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,196,2,14:07,847,847,Sammy Mojica made Three Point Jumper. Assisted by Tramaine Isabell.,38,43,-5,29,0.41463383534060283,0.2824897859433471,4,4,5.2,NA,NA,Drexel,made,Sammy Mojica,Tramaine Isabell,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,197,2,13:51,831,831,Matt Klinewski missed Three Point Jumper.,38,43,-5,16,0.4121148836966784,0.28095597233638564,4,4,5.2,NA,NA,Lafayette,missed,Matt Klinewski,NA,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,198,2,13:51,831,831,Tramaine Isabell Defensive Rebound.,38,43,-5,0,0.4121148836966784,0.28095597233638564,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,199,2,13:38,818,818,Alihan Demir made Three Point Jumper. Assisted by Kurk Lee.,41,43,-2,13,0.550738803478904,0.4064873905483151,4,4,5.2,NA,NA,Drexel,made,Alihan Demir,Kurk Lee,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,200,2,13:32,812,812,Foul on Tyshawn Myles.,41,43,-2,6,0.5501543990474629,0.406182485653765,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,201,2,13:09,789,789,Matt Klinewski made Jumper.,41,45,-4,23,0.45181429054675776,0.3164697190962592,4,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,202,2,12:38,758,758,Sammy Mojica missed Three Point Jumper.,41,45,-4,31,0.44609084889473283,0.31286005689559426,4,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,203,2,12:38,758,758,Tramaine Isabell Offensive Rebound.,41,45,-4,0,0.44609084889473283,0.31286005689559426,4,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,204,2,12:32,752,752,Kurk Lee made Three Point Jumper. Assisted by Tramaine Isabell.,44,45,-1,6,0.5917905187711261,0.45075792944845605,4,4,5.2,NA,NA,Drexel,made,Kurk Lee,Tramaine Isabell,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,205,2,12:16,736,736,Lafayette  Timeout,44,45,-1,16,0.5902653872899263,0.4501082647544962,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,206,2,12:03,723,723,Justin Jaworski made Layup.,44,47,-3,13,0.4886506715609073,0.35261517993908387,3,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,207,2,11:39,699,699,Tramaine Isabell made Three Point Jumper.,47,47,0,24,0.6356556993027925,0.5,3,4,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,208,2,11:26,686,686,E.J. Stephens missed Layup.,47,47,0,13,0.6349729586827261,0.5,3,4,5.2,NA,NA,Lafayette,missed,E.J. Stephens,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,209,2,11:26,686,686,Sammy Mojica Block.,47,47,0,0,0.6349729586827261,0.5,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,210,2,11:24,684,684,Kurk Lee Defensive Rebound.,47,47,0,2,0.6348685898299089,0.5,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,211,2,11:22,682,682,Foul on Paulius Zalys.,47,47,0,2,0.6347643365599637,0.5,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,212,2,11:22,682,682,Official TV Timeout,47,47,0,0,0.6347643365599637,0.5,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,213,2,11:22,682,682,Tyshawn Myles missed Free Throw.,47,47,0,0,0.6347643365599637,0.5,3,4,5.2,NA,NA,Drexel,missed,Tyshawn Myles,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,214,2,11:22,682,682,Drexel Deadball Team Rebound.,47,47,0,0,0.6347643365599637,0.5,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,215,2,11:22,682,682,Tyshawn Myles made Free Throw.,48,47,1,0,0.6816587191269851,0.5519849844656243,3,4,5.2,NA,NA,Drexel,made,Tyshawn Myles,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,216,2,11:07,667,667,Foul on Tyshawn Myles.,48,47,1,15,0.6813663085091012,0.5524838899079085,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,217,2,11:07,667,667,Foul on Kurk Lee.,48,47,1,0,0.6813663085091012,0.5524838899079085,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,218,2,11:03,663,663,Foul on Alihan Demir.,48,47,1,4,0.6812870416980704,0.5526156694966685,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,219,2,11:03,663,663,Matt Klinewski made Free Throw.,48,48,0,0,0.6337754620883581,0.5,3,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,220,2,11:03,663,663,Matt Klinewski made Free Throw.,48,49,-1,0,0.5835110239244397,0.44738433050333154,3,4,5.2,NA,NA,Lafayette,made,Matt Klinewski,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,221,2,10:34,634,634,Kurk Lee missed Three Point Jumper.,48,49,-1,29,0.5809369778029302,0.44640311274671096,3,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,222,2,10:34,634,634,Tramaine Isabell Offensive Rebound.,48,49,-1,0,0.5809369778029302,0.44640311274671096,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,223,2,10:05,605,605,Sammy Mojica missed Three Point Jumper.,48,49,-1,29,0.5781257240178563,0.4452819542750466,3,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,224,2,10:05,605,605,Lafayette Deadball Team Rebound.,48,49,-1,0,0.5781257240178563,0.4452819542750466,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,225,2,10:02,602,602,Foul on Alihan Demir.,48,49,-1,3,0.5778132288455333,0.4451526810602755,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,226,2,10:02,602,602,Justin Jaworski made Free Throw.,48,50,-2,0,0.5233647791137452,0.3916096142649499,3,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,227,2,10:02,602,602,Justin Jaworski made Free Throw.,48,51,-3,0,0.4683552497548814,0.34055387447890334,3,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,228,2,9:53,593,593,Sammy Mojica missed Three Point Jumper.,48,51,-3,9,0.46654763160899937,0.33944506550242637,3,4,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,229,2,9:53,593,593,Tadas Kararinas Offensive Rebound.,48,51,-3,0,0.46654763160899937,0.33944506550242637,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,230,2,9:50,590,590,Foul on Paulius Zalys.,48,51,-3,3,0.4659205111344908,0.3390572753260272,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,231,2,9:50,590,590,Tadas Kararinas made Free Throw.,49,51,-2,0,0.5214792073625738,0.39055051156281106,3,4,5.2,NA,NA,Drexel,made,Tadas Kararinas,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,232,2,9:50,590,590,Tadas Kararinas made Free Throw.,50,51,-1,0,0.5765115465275629,0.44460350480030275,3,4,5.2,NA,NA,Drexel,made,Tadas Kararinas,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,233,2,9:37,577,577,Matt Klinewski Turnover.,50,51,-1,13,0.5749952789363751,0.44394241950673563,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,234,2,9:21,561,561,Tramaine Isabell missed Three Point Jumper.,50,51,-1,16,0.5729508325038332,0.4430171934711206,3,4,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,235,2,9:21,561,561,Lukas Jarrett Defensive Rebound.,50,51,-1,0,0.5729508325038332,0.4430171934711206,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,236,2,8:59,539,539,Foul on Tramaine Isabell.,50,51,-1,22,0.5698843041328752,0.44159277775882516,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,237,2,8:59,539,539,Lukas Jarrett made Free Throw.,50,52,-2,0,0.5116675783540033,0.38475810202472255,3,4,5.2,NA,NA,Lafayette,made,Lukas Jarrett,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,238,2,8:59,539,539,Lukas Jarrett made Free Throw.,50,53,-3,0,0.4531326010495395,0.33090360352942777,3,4,5.2,NA,NA,Lafayette,made,Lukas Jarrett,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,239,2,8:47,527,527,Foul on Myles Cherry.,50,53,-3,12,0.450199155083542,0.3290726540277661,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,240,2,8:47,527,527,Austin Williams made Free Throw.,51,53,-2,0,0.5093975691964947,0.38345204698489327,3,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,241,2,8:47,527,527,Austin Williams made Free Throw.,52,53,-1,0,0.5683335917507324,0.4409121998764276,3,4,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,242,2,8:35,515,515,Justin Jaworski made Three Point Jumper. Assisted by Matt Klinewski.,52,56,-4,12,0.3891553312182302,0.2768993741502958,3,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,Matt Klinewski,TRUE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,243,2,8:11,491,491,Alihan Demir missed Three Point Jumper.,52,56,-4,24,0.3829317998870612,0.27305262163974753,3,4,5.2,NA,NA,Drexel,missed,Alihan Demir,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,244,2,8:11,491,491,Drexel Offensive Rebound.,52,56,-4,0,0.3829317998870612,0.27305262163974753,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,245,2,7:42,462,462,Foul on Matt Klinewski.,52,56,-4,29,0.37445547967958964,0.267707784555892,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,246,2,7:42,462,462,Official TV Timeout,52,56,-4,0,0.37445547967958964,0.267707784555892,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,247,2,7:42,462,462,Sammy Mojica made Free Throw.,53,56,-3,0,0.43497567216669114,0.31979529434612125,3,4,5.2,NA,NA,Drexel,made,Sammy Mojica,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,248,2,7:42,462,462,Sammy Mojica made Free Throw.,54,56,-2,0,0.4974980750556343,0.37680261797105874,3,4,5.2,NA,NA,Drexel,made,Sammy Mojica,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,249,2,7:22,442,442,Eric Stafford missed Three Point Jumper.,54,56,-2,20,0.4926762515090518,0.37389191762272606,3,4,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,TRUE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,250,2,7:22,442,442,Matt Klinewski Offensive Rebound.,54,56,-2,0,0.4926762515090518,0.37389191762272606,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,251,2,7:18,438,438,Justin Jaworski made Layup. Assisted by Matt Klinewski.,54,58,-4,4,0.36536372619207613,0.2617397668945837,3,4,5.2,NA,NA,Lafayette,made,Justin Jaworski,Matt Klinewski,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,252,2,6:58,418,418,Kurk Lee missed Three Point Jumper.,54,58,-4,20,0.35617686782630414,0.25560932739556896,3,4,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,253,2,6:58,418,418,Alex Petrie Defensive Rebound.,54,58,-4,0,0.35617686782630414,0.25560932739556896,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,254,2,6:46,406,406,Paulius Zalys Turnover.,54,58,-4,12,0.3509090644623736,0.2521928100437618,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,255,2,6:29,389,389,Foul on Justin Jaworski.,54,58,-4,17,0.34360332246734154,0.24754739556869013,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,256,2,6:29,389,389,Austin Williams missed Free Throw.,54,58,-4,0,0.34360332246734154,0.24754739556869013,3,4,5.2,NA,NA,Drexel,missed,Austin Williams,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,257,2,6:29,389,389,Matt Klinewski Defensive Rebound.,54,58,-4,0,0.34360332246734154,0.24754739556869013,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,258,2,6:13,373,373,Foul on Kurk Lee.,54,58,-4,16,0.33653959599770794,0.24308507196487278,3,4,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,259,2,6:13,373,373,Eric Stafford made Free Throw.,54,59,-5,0,0.2763352938633358,0.1946930579130556,3,4,5.2,NA,NA,Lafayette,made,Eric Stafford,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,260,2,6:13,373,373,Eric Stafford made Free Throw.,54,60,-6,0,0.2232765794445878,0.1539749435997418,3,4,5.2,NA,NA,Lafayette,made,Eric Stafford,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,261,2,6:13,373,373,Drexel  Timeout,54,60,-6,0,0.2232765794445878,0.1539749435997418,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,262,2,6:03,363,363,Tramaine Isabell missed Layup.,54,60,-6,10,0.21827370246886338,0.15083632332147812,3,3,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,263,2,6:03,363,363,Eric Stafford Defensive Rebound.,54,60,-6,0,0.21827370246886338,0.15083632332147812,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,264,2,6:02,362,362,Foul on Alihan Demir.,54,60,-6,1,0.21775926921087554,0.1505123453224983,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,265,2,6:02,362,362,Eric Stafford made Free Throw.,54,61,-7,0,0.17261538711215677,0.11722039588396144,3,3,5.2,NA,NA,Lafayette,made,Eric Stafford,NA,FALSE,TRUE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,266,2,6:02,362,362,Eric Stafford made Free Throw.,54,62,-8,0,0.13521262635746495,0.09050774415720768,3,3,5.2,NA,NA,Lafayette,made,Eric Stafford,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,267,2,5:31,331,331,Kurk Lee missed Jumper.,54,62,-8,31,0.11985069234358833,0.08091774392737189,3,3,5.2,NA,NA,Drexel,missed,Kurk Lee,NA,FALSE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,268,2,5:31,331,331,Austin Williams Offensive Rebound.,54,62,-8,0,0.11985069234358833,0.08091774392737189,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,269,2,5:29,329,329,Austin Williams missed Jumper.,54,62,-8,2,0.11875281303726093,0.08022201319298393,3,3,5.2,NA,NA,Drexel,missed,Austin Williams,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,270,2,5:29,329,329,Eric Stafford Defensive Rebound.,54,62,-8,0,0.11875281303726093,0.08022201319298393,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,271,2,5:23,323,323,Eric Stafford Turnover.,54,62,-8,6,0.11537181639568615,0.07807135380084813,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,272,2,5:23,323,323,Tramaine Isabell Steal.,54,62,-8,0,0.11537181639568615,0.07807135380084813,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,273,2,5:00,300,300,Sammy Mojica missed Three Point Jumper.,54,62,-8,23,0.10302209273049676,0.07021928213315237,3,3,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,274,2,5:00,300,300,Lukas Jarrett Defensive Rebound.,54,62,-8,0,0.10302209273049676,0.07021928213315237,3,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,275,2,4:49,289,289,Lafayette  Timeout,54,62,-8,11,0.10105609809581935,0.06921594866926511,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,276,2,4:28,268,268,Eric Stafford missed Jumper.,54,62,-8,21,0.10261080109263172,0.07107066670544183,2,3,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,277,2,4:28,268,268,Alihan Demir Defensive Rebound.,54,62,-8,0,0.10261080109263172,0.07107066670544183,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,278,2,4:19,259,259,Alihan Demir made Layup.,56,62,-6,9,0.18027366410096116,0.12883237559070504,2,3,5.2,NA,NA,Drexel,made,Alihan Demir,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,279,2,4:03,243,243,Justin Jaworski made Layup.,56,64,-8,16,0.10623199538930812,0.07463763310496503,2,3,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,280,2,3:46,226,226,Tramaine Isabell Turnover.,56,64,-8,17,0.10457562801938732,0.07412971522521332,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,281,2,3:45,225,225,Official TV Timeout,56,64,-8,1,0.104286361084292,0.07396016856920938,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,282,2,3:14,194,194,Lafayette  Turnover.,56,64,-8,31,0.0816818294072609,0.058639184195008534,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,283,2,2:55,175,175,Sammy Mojica missed Three Point Jumper.,56,64,-8,19,0.060129983353879174,0.043466105891998855,2,3,5.2,NA,NA,Drexel,missed,Sammy Mojica,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,284,2,2:55,175,175,Tramaine Isabell Offensive Rebound.,56,64,-8,0,0.060129983353879174,0.043466105891998855,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,285,2,2:47,167,167,Tramaine Isabell made Three Point Jumper.,59,64,-5,8,0.15661092329729873,0.11715372201925144,2,3,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,286,2,2:37,157,157,Lukas Jarrett Turnover.,59,64,-5,10,0.1410504090304359,0.10575807360450196,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,287,2,2:12,132,132,Kurk Lee Turnover.,59,64,-5,25,0.10358119975915152,0.07827264227366668,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,288,2,2:10,130,130,Eric Stafford Turnover.,59,64,-5,2,0.10067635989413153,0.0761349828844444,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,289,2,2:06,126,126,Tramaine Isabell Steal.,59,64,-5,4,0.09492003848765403,0.0718947678276439,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,290,2,2:02,122,122,Tramaine Isabell made Layup.,61,64,-3,4,0.21858574264264044,0.17172211026492332,2,3,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,291,2,1:29,89,89,Lafayette  Turnover.,61,64,-3,33,0.15533219965073913,0.1231089458477905,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,292,2,1:05,65,65,Tramaine Isabell made Jumper.,63,64,-1,24,0.3720394115058806,0.31639594328274107,2,3,5.2,NA,NA,Drexel,made,Tramaine Isabell,NA,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,293,2,1:05,65,65,Foul on Lukas Jarrett.,63,64,-1,0,0.3720394115058806,0.31639594328274107,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,294,2,1:05,65,65,Austin Williams made Free Throw.,64,64,0,0,0.5614150272499963,0.5,2,3,5.2,NA,NA,Drexel,made,Austin Williams,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,295,2,1:05,65,65,Austin Williams missed Free Throw.,64,64,0,0,0.5614150272499963,0.5,2,3,5.2,NA,NA,Drexel,missed,Austin Williams,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,296,2,1:05,65,65,Matt Klinewski Defensive Rebound.,64,64,0,0,0.5614150272499963,0.5,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,297,2,0:41,41,41,Alex Petrie missed Three Point Jumper.,64,64,0,24,0.5554161039847844,0.5,2,3,5.2,NA,NA,Lafayette,missed,Alex Petrie,NA,TRUE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,298,2,0:41,41,41,Drexel Deadball Team Rebound.,64,64,0,0,0.5554161039847844,0.5,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,299,2,0:40,40,40,Foul on Eric Stafford.,64,64,0,1,0.5551582425266868,0.5,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,300,2,0:40,40,40,Kurk Lee made Free Throw.,65,64,1,0,0.7560921821466943,0.712967086612961,2,3,5.2,NA,NA,Drexel,made,Kurk Lee,NA,FALSE,TRUE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,301,2,0:40,40,40,Kurk Lee made Free Throw.,66,64,2,0,0.885056553981114,0.8605273332907485,2,3,5.2,NA,NA,Drexel,made,Kurk Lee,NA,FALSE,TRUE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,302,2,0:31,31,31,Justin Jaworski made Layup.,66,66,0,9,0.5528105951877132,0.5,2,3,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,303,2,0:31,31,31,Foul on Tramaine Isabell.,66,66,0,0,0.5528105951877132,0.5,2,3,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,304,2,0:31,31,31,Drexel  Timeout,66,66,0,0,0.5528105951877132,0.5,2,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,305,2,0:31,31,31,Justin Jaworski made Free Throw.,66,67,-1,0,0.32015735034577175,0.2758618507441576,2,2,5.2,NA,NA,Lafayette,made,Justin Jaworski,NA,FALSE,TRUE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,306,2,0:18,18,18,Tramaine Isabell missed Three Point Jumper.,66,67,-1,13,0.2992484553701952,0.25944005544852056,2,2,5.2,NA,NA,Drexel,missed,Tramaine Isabell,NA,TRUE,FALSE,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,307,2,0:18,18,18,Sammy Mojica Offensive Rebound.,66,67,-1,0,0.2992484553701952,0.25944005544852056,2,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+400991416,2017-11-29,Drexel,Lafayette,308,2,0:13,13,13,Austin Williams made Dunk. Assisted by Tramaine Isabell.,68,67,1,5,0.781679586085667,0.7470617047139647,2,2,5.2,NA,NA,Drexel,made,Austin Williams,Tramaine Isabell,FALSE,FALSE,Drexel,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,309,2,0:06,6,6,Justin Jaworski missed Jumper.,68,67,1,7,0.7886967882243041,0.7562915917287648,2,2,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,FALSE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,310,2,0:06,6,6,Austin Williams Block.,68,67,1,0,0.7886967882243041,0.7562915917287648,2,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,311,2,0:06,6,6,Lafayette Offensive Rebound.,68,67,1,0,0.7886967882243041,0.7562915917287648,2,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,312,2,0:05,5,5,Lafayette  Timeout,68,67,1,1,0.7897063676390437,0.7576160231918674,1,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,313,2,0:03,3,3,Justin Jaworski missed Three Point Jumper.,68,67,1,2,0.7917279793612563,0.7602658201596585,1,2,5.2,NA,NA,Lafayette,missed,Justin Jaworski,NA,TRUE,FALSE,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,314,2,0:03,3,3,Eric Stafford Offensive Rebound.,68,67,1,0,0.7917279793612563,0.7602658201596585,1,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Lafayette
+400991416,2017-11-29,Drexel,Lafayette,315,2,0:01,1,1,Eric Stafford missed Jumper.,68,67,1,2,0.7937510003929488,0.762914625658515,1,2,5.2,NA,NA,Lafayette,missed,Eric Stafford,NA,FALSE,FALSE,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,316,2,0:01,1,1,Drexel Defensive Rebound.,68,67,1,0,0.7937510003929488,0.762914625658515,1,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Lafayette,Drexel
+400991416,2017-11-29,Drexel,Lafayette,317,2,0:00,0,0,End of Game,68,68,0,1,0.999999998276588,0.9999999979388464,1,2,5.2,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,NA
