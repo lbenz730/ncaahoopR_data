@@ -1,0 +1,448 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401087932,2019-02-08,Harvard,Columbia,1,1,20:00,2400,3300,PLAY,0,0,0,0,0.8538024751604798,0.5,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401087932,2019-02-08,Harvard,Columbia,2,1,19:32,2372,3272,Foul on Gabe Stefanini.,0,0,0,28,0.853179220569174,0.5,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,3,1,19:32,2372,3272,Christian Juzang made Free Throw.,1,0,1,0,0.8640367939656575,0.5223536071496834,6,6,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,4,1,19:32,2372,3272,Christian Juzang missed Free Throw.,1,0,1,0,0.8640367939656575,0.5223536071496834,6,6,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,5,1,19:32,2372,3272,Patrick Tape Defensive Rebound.,1,0,1,0,0.8640367939656575,0.5223536071496834,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,6,1,19:09,2349,3249,Randy Brumant made Dunk. Assisted by Patrick Tape.,1,2,-1,23,0.8409167850829823,0.47739770703372547,6,6,11,NA,NA,Columbia,made,Randy Brumant,Patrick Tape,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,7,1,18:57,2337,3237,Bryce Aiken made Jumper.,3,2,1,12,0.8634545475390456,0.5227334298642733,6,6,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,8,1,18:42,2322,3222,Gabe Stefanini Turnover.,3,2,1,15,0.86319554847964,0.5228986002520256,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,9,1,18:42,2322,3222,Chris Lewis Steal.,3,2,1,0,0.86319554847964,0.5228986002520256,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,10,1,18:42,2322,3222,Foul on Patrick Tape.,3,2,1,0,0.86319554847964,0.5228986002520256,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,11,1,18:19,2299,3199,Christian Juzang Turnover.,3,2,1,23,0.8627867981598635,0.5231543655278497,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,12,1,18:09,2289,3189,Gabe Stefanini Turnover.,3,2,1,10,0.8626045458797912,0.5232664437104748,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,13,1,18:08,2288,3188,Chris Lewis Steal.,3,2,1,1,0.8625861659749386,0.5232776790827,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,14,1,18:04,2284,3184,Justin Bassey made Three Point Jumper. Assisted by Bryce Aiken.,6,2,4,4,0.8924860958661888,0.5922884211854506,6,6,11,NA,NA,Harvard,made,Justin Bassey,Bryce Aiken,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,15,1,17:53,2273,3173,Jake Killingsworth made Three Point Jumper. Assisted by Randy Brumant.,6,5,1,11,0.862307033486838,0.52344678344423,6,6,11,NA,NA,Columbia,made,Jake Killingsworth,Randy Brumant,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,16,1,17:33,2253,3153,Christian Juzang made Three Point Jumper. Assisted by Robert Baker.,9,5,4,20,0.8924165601323413,0.5936474597581194,6,6,11,NA,NA,Harvard,made,Christian Juzang,Robert Baker,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,17,1,17:10,2230,3130,Quinton Adlesh missed Three Point Jumper.,9,5,4,23,0.8923538648761883,0.5946646408323303,6,6,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,18,1,17:10,2230,3130,Robert Baker Defensive Rebound.,9,5,4,0,0.8923538648761883,0.5946646408323303,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,19,1,16:58,2218,3118,Bryce Aiken missed Three Point Jumper.,9,5,4,12,0.8923170743015726,0.5951978608019828,6,6,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,20,1,16:58,2218,3118,Randy Brumant Defensive Rebound.,9,5,4,0,0.8923170743015726,0.5951978608019828,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,21,1,16:43,2203,3103,Quinton Adlesh Turnover.,9,5,4,15,0.892266913359647,0.595866462840868,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,22,1,16:42,2202,3102,Christian Juzang Steal.,9,5,4,1,0.8922633991572463,0.5959111106401285,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,23,1,16:24,2184,3084,Bryce Aiken missed Layup.,9,5,4,18,0.8921963690248692,0.5967161595591195,6,6,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,24,1,16:24,2184,3084,Patrick Tape Defensive Rebound.,9,5,4,0,0.8921963690248692,0.5967161595591195,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,25,1,16:14,2174,3074,Jake Killingsworth missed Three Point Jumper.,9,5,4,10,0.8921559433409352,0.5971644061169916,6,6,11,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,26,1,16:14,2174,3074,Chris Lewis Defensive Rebound.,9,5,4,0,0.8921559433409352,0.5971644061169916,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,27,1,16:07,2167,3067,Justin Bassey made Jumper.,11,5,6,7,0.909712636699517,0.6439282582920025,6,6,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,28,1,15:48,2148,3048,Randy Brumant missed Three Point Jumper.,11,5,6,19,0.9097859768072527,0.6451516325709856,6,6,11,NA,NA,Columbia,missed,Randy Brumant,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,29,1,15:48,2148,3048,Bryce Aiken Defensive Rebound.,11,5,6,0,0.9097859768072527,0.6451516325709856,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,30,1,15:45,2145,3045,Foul on Jake Killingsworth.,11,5,6,3,0.9097971214380811,0.645345355159311,6,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,31,1,15:45,2145,3045,Harvard  Timeout,11,5,6,0,0.9097971214380811,0.645345355159311,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,32,1,15:37,2137,3037,Christian Juzang missed Three Point Jumper.,11,5,6,8,0.9098262838448636,0.6458627311999575,5,6,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,33,1,15:37,2137,3037,Quinton Adlesh Defensive Rebound.,11,5,6,0,0.9098262838448636,0.6458627311999575,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,34,1,15:26,2126,3026,Randy Brumant Turnover.,11,5,6,11,0.9098651017457893,0.6465760478157083,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,35,1,15:26,2126,3026,Robert Baker Steal.,11,5,6,0,0.9098651017457893,0.6465760478157083,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,36,1,15:00,2100,3000,Chris Lewis missed Layup.,11,5,6,26,0.909951349649838,0.6482715473701611,5,6,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,37,1,15:00,2100,3000,Randy Brumant Defensive Rebound.,11,5,6,0,0.909951349649838,0.6482715473701611,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,38,1,14:49,2089,2989,Quinton Adlesh made Layup.,11,7,4,11,0.8917350901776683,0.6010265695027724,5,6,11,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,39,1,14:39,2079,2979,Bryce Aiken Turnover.,11,7,4,10,0.8916776214601229,0.6014886956381457,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,40,1,14:19,2059,2959,Quinton Adlesh missed Jumper.,11,7,4,20,0.8915581999431014,0.6024185723153839,5,6,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,41,1,14:19,2059,2959,Robert Baker Defensive Rebound.,11,7,4,0,0.8915581999431014,0.6024185723153839,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,42,1,13:51,2031,2931,Christian Juzang missed Jumper.,11,7,4,28,0.8913815753591071,0.6037338089534718,5,6,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,43,1,13:51,2031,2931,Ike Nweke Defensive Rebound.,11,7,4,0,0.8913815753591071,0.6037338089534718,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,44,1,13:37,2017,2917,Ike Nweke missed Jumper.,11,7,4,14,0.8912894212758442,0.6043976714293702,5,6,11,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,45,1,13:37,2017,2917,Henry Welsh Defensive Rebound.,11,7,4,0,0.8912894212758442,0.6043976714293702,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,46,1,13:24,2004,2904,Robert Baker missed Three Point Jumper.,11,7,4,13,0.8912017080109628,0.605018041627282,5,6,11,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,47,1,13:24,2004,2904,Henry Welsh Offensive Rebound.,11,7,4,0,0.8912017080109628,0.605018041627282,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,48,1,13:20,2000,2900,Christian Juzang made Jumper. Assisted by Henry Welsh.,13,7,6,4,0.910226437960354,0.6549411613245077,5,6,11,NA,NA,Harvard,made,Christian Juzang,Henry Welsh,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,49,1,13:00,1980,2880,Randy Brumant Turnover.,13,7,6,20,0.9102737847779201,0.6563082042364197,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,50,1,12:33,1953,2853,Noah Kirkwood made Three Point Jumper.,16,7,9,27,0.9337218913378068,0.7276534435283193,5,6,11,NA,NA,Harvard,made,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,51,1,12:20,1940,2840,Ike Nweke made Jumper.,16,9,7,13,0.918934441560361,0.6833188804601862,5,6,11,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,52,1,12:02,1922,2822,Foul on Ike Nweke.,16,9,7,18,0.9190395202774493,0.6847381033105912,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,53,1,12:02,1922,2822,Danilo Djuricic made Free Throw.,17,9,8,0,0.9269105252980971,0.7081544297063592,5,6,11,NA,NA,Harvard,made,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,54,1,12:02,1922,2822,Danilo Djuricic missed Free Throw.,17,9,8,0,0.9269105252980971,0.7081544297063592,5,6,11,NA,NA,Harvard,missed,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,55,1,12:02,1922,2822,Patrick Tape Defensive Rebound.,17,9,8,0,0.9269105252980971,0.7081544297063592,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,56,1,11:41,1901,2801,Gabe Stefanini made Layup.,17,11,6,21,0.9104378553536703,0.66181446247740106,5,6,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,57,1,11:23,1883,2783,Henry Welsh Turnover.,17,11,6,18,0.910459242059674,0.6630714605843182,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,58,1,11:23,1883,2783,Foul on Henry Welsh.,17,11,6,0,0.910459242059674,0.6630714605843182,5,6,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,59,1,11:23,1883,2783,Columbia  Timeout,17,11,6,0,0.910459242059674,0.6630714605843182,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,60,1,11:08,1868,2768,Foul on Danilo Djuricic.,17,11,6,15,0.9104719306039356,0.6641184786207668,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,61,1,11:08,1868,2768,Gabe Stefanini made Free Throw.,17,12,5,0,0.9007685958304285,0.6383211974253052,5,5,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,62,1,11:08,1868,2768,Gabe Stefanini made Free Throw.,17,13,4,0,0.890140480760212,0.6117010273841258,5,5,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,63,1,10:59,1859,2759,Danilo Djuricic missed Three Point Jumper.,17,13,4,9,0.8900553841480889,0.6121473864392227,5,5,11,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,64,1,10:59,1859,2759,Peter Barba Defensive Rebound.,17,13,4,0,0.8900553841480889,0.6121473864392227,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,65,1,10:43,1843,2743,Peter Barba missed Three Point Jumper.,17,13,4,16,0.8898999018025073,0.6129427976650662,5,5,11,NA,NA,Columbia,missed,Peter Barba,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,66,1,10:43,1843,2743,Christian Juzang Defensive Rebound.,17,13,4,0,0.8898999018025073,0.6129427976650662,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,67,1,10:28,1828,2728,Justin Bassey missed Jumper.,17,13,4,15,0.8897498521562874,0.6136915940430909,5,5,11,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,68,1,10:28,1828,2728,Peter Barba Defensive Rebound.,17,13,4,0,0.8897498521562874,0.6136915940430909,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,69,1,10:16,1816,2716,Gabe Stefanini missed Jumper.,17,13,4,12,0.8896272755643402,0.6142934684937315,5,5,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,70,1,10:16,1816,2716,Danilo Djuricic Defensive Rebound.,17,13,4,0,0.8896272755643402,0.6142934684937315,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,71,1,10:04,1804,2704,Foul on Tai Bibbs.,17,13,4,12,0.889502807246465,0.6148984104962276,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,72,1,10:04,1804,2704,Justin Bassey made Free Throw.,18,13,5,0,0.9004881275694312,0.642202703114832,5,5,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,73,1,10:04,1804,2704,Justin Bassey made Free Throw.,19,13,6,0,0.9104912169178991,0.6686143978318136,5,5,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,74,1,9:42,1782,2682,Quinton Adlesh Turnover.,19,13,6,22,0.9104916478293081,0.6701834911341782,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,75,1,9:41,1781,2681,Robert Baker Steal.,19,13,6,1,0.9104916636839111,0.6702552342384621,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,76,1,9:37,1777,2677,Robert Baker missed Three Point Jumper.,19,13,6,4,0.9104917431831114,0.670542608106261,5,5,11,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,77,1,9:37,1777,2677,Patrick Tape Defensive Rebound.,19,13,6,0,0.9104917431831114,0.670542608106261,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,78,1,9:30,1770,2670,Tai Bibbs missed Dunk.,19,13,6,7,0.9104919772868347,0.671047118682106,5,5,11,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,79,1,9:30,1770,2670,Chris Lewis Block.,19,13,6,0,0.9104919772868347,0.671047118682106,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,80,1,9:24,1764,2664,Peter Barba Offensive Rebound.,19,13,6,6,0.9104923216165971,0.671481270423598,5,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,81,1,9:23,1763,2663,Tai Bibbs made Three Point Jumper. Assisted by Quinton Adlesh.,19,16,3,1,0.8767547939712721,0.5884618847325426,5,5,11,NA,NA,Columbia,made,Tai Bibbs,Quinton Adlesh,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,82,1,9:22,1762,2662,Harvard  Timeout,19,16,3,1,0.8767371218990067,0.5885017232232406,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,83,1,9:02,1742,2642,Foul on Quinton Adlesh.,19,16,3,20,0.8763821373528614,0.5893049355659337,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,84,1,9:02,1742,2642,Bryce Aiken made Free Throw.,20,16,4,0,0.888842449206111,0.6180918693293256,4,5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,85,1,9:02,1742,2642,Bryce Aiken made Free Throw.,21,16,5,0,0.9001898388977246,0.6460728741137368,4,5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,86,1,8:45,1725,2625,Quinton Adlesh made Three Point Jumper. Assisted by Peter Barba.,21,19,2,17,0.8622958637091699,0.5603637953895624,4,5,11,NA,NA,Columbia,made,Quinton Adlesh,Peter Barba,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,87,1,8:28,1708,2608,Noah Kirkwood Turnover.,21,19,2,17,0.8618480625150069,0.5608419150207969,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,88,1,8:26,1706,2606,Quinton Adlesh Steal.,21,19,2,2,0.8617952265260028,0.5608986918759065,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,89,1,8:20,1700,2600,Quinton Adlesh missed Layup.,21,19,2,6,0.861636557326016,0.561069719170043,4,5,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,90,1,8:20,1700,2600,Noah Kirkwood Defensive Rebound.,21,19,2,0,0.861636557326016,0.561069719170043,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,91,1,8:04,1684,2584,Foul on CJ Davis.,21,19,2,16,0.8612108692432132,0.5615297099129639,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,92,1,8:04,1684,2584,Bryce Aiken made Free Throw.,22,19,3,0,0.87534519547744,0.5917148315158343,4,5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,93,1,8:04,1684,2584,Bryce Aiken made Free Throw.,23,19,4,0,0.888226897393369,0.6212236547652163,4,5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,94,1,7:45,1665,2565,Quinton Adlesh made Three Point Jumper. Assisted by Patrick Tape.,23,22,1,19,0.8450349426091525,0.5311535498262757,4,5,11,NA,NA,Columbia,made,Quinton Adlesh,Patrick Tape,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,95,1,7:24,1644,2544,Justin Bassey made Jumper. Assisted by Noah Kirkwood.,25,22,3,21,0.8745439632827555,0.5933556624129448,4,5,11,NA,NA,Harvard,made,Justin Bassey,Noah Kirkwood,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,96,1,7:01,1621,2521,Quinton Adlesh made Layup. Assisted by CJ Davis.,25,24,1,23,0.8432574304712291,0.5317614431760985,4,5,11,NA,NA,Columbia,made,Quinton Adlesh,CJ Davis,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,97,1,6:47,1607,2507,Bryce Aiken Turnover.,25,24,1,14,0.8426657727334529,0.5319517350031371,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,98,1,6:46,1606,2506,Patrick Tape Steal.,25,24,1,1,0.8426231053031386,0.5319653099882755,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,99,1,6:27,1587,2487,Patrick Tape made Layup. Assisted by Quinton Adlesh.,25,26,-1,19,0.8043271529416578,0.4677766120289617,4,5,11,NA,NA,Columbia,made,Patrick Tape,Quinton Adlesh,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,100,1,6:03,1563,2463,Bryce Aiken missed Jumper.,25,26,-1,24,0.8026612656153556,0.46744812505622324,4,5,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,101,1,6:03,1563,2463,Patrick Tape Defensive Rebound.,25,26,-1,0,0.8026612656153556,0.46744812505622324,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,102,1,5:50,1550,2450,Patrick Tape made Layup. Assisted by Quinton Adlesh.,25,28,-3,13,0.7567617710511404,0.4029113694052053,4,5,11,NA,NA,Columbia,made,Patrick Tape,Quinton Adlesh,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,103,1,5:28,1528,2428,Christian Juzang Turnover.,25,28,-3,22,0.7544828520148008,0.40200975666795924,4,5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,104,1,5:28,1528,2428,Columbia  Timeout,25,28,-3,0,0.7544828520148008,0.40200975666795924,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,105,1,5:15,1515,2415,Tai Bibbs made Three Point Jumper. Assisted by Quinton Adlesh.,25,31,-6,13,0.6717105385666484,0.31029607261524444,4,4,11,NA,NA,Columbia,made,Tai Bibbs,Quinton Adlesh,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,106,1,4:47,1487,2387,Christian Juzang missed Layup.,25,31,-6,28,0.6670365050783792,0.3081321562030315,4,4,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,107,1,4:47,1487,2387,Patrick Tape Defensive Rebound.,25,31,-6,0,0.6670365050783792,0.3081321562030315,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,108,1,4:30,1470,2370,Tai Bibbs missed Three Point Jumper.,25,31,-6,17,0.6641222733143262,0.3067619168373749,4,4,11,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,109,1,4:30,1470,2370,Bryce Aiken Defensive Rebound.,25,31,-6,0,0.6641222733143262,0.3067619168373749,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,110,1,4:21,1461,2361,Bryce Aiken missed Three Point Jumper.,25,31,-6,9,0.6625542035105808,0.3060164256419379,4,4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,111,1,4:21,1461,2361,Justin Bassey Offensive Rebound.,25,31,-6,0,0.6625542035105808,0.3060164256419379,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,112,1,4:07,1447,2347,Justin Bassey made Layup. Assisted by Danilo Djuricic.,27,31,-4,14,0.718787099342677,0.36595556182813915,4,4,11,NA,NA,Harvard,made,Justin Bassey,Danilo Djuricic,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,113,1,3:53,1433,2333,CJ Davis Turnover.,27,31,-4,14,0.7169271962426627,0.3650986572067591,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,114,1,3:50,1430,2330,Henry Welsh Steal.,27,31,-4,3,0.7165285533944367,0.3649182547784468,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,116,1,3:46,1426,2326,Bryce Aiken made Layup.,29,31,-2,0,0.7689241483367664,0.4310531117022923,4,3,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,117,1,3:46,1426,2326,Foul on Tai Bibbs.,29,31,-2,0,0.7689241483367664,0.4310531117022923,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,118,1,3:46,1426,2326,Bryce Aiken made Free Throw.,30,31,-1,0,0.7926583198266316,0.46536110356949495,4,3,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,119,1,3:33,1413,2313,Gabe Stefanini Turnover.,30,31,-1,13,0.7916682345379431,0.4651555292396723,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,120,1,3:32,1412,2312,Noah Kirkwood Steal.,30,31,-1,1,0.7915916739231899,0.46513987797119055,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,121,1,3:29,1409,2309,Noah Kirkwood Turnover.,30,31,-1,3,0.7913616491350653,0.46509304649005123,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,122,1,3:29,1409,2309,Quinton Adlesh Steal.,30,31,-1,0,0.7913616491350653,0.46509304649005123,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,123,1,3:23,1403,2303,Jake Killingsworth made Three Point Jumper. Assisted by Gabe Stefanini.,30,34,-4,6,0.7129326137518786,0.363334816208233,4,3,11,NA,NA,Columbia,made,Jake Killingsworth,Gabe Stefanini,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,124,1,2:59,1379,2279,Bryce Aiken made Three Point Jumper.,33,34,-1,24,0.7890331251521409,0.46463207607255963,4,3,11,NA,NA,Harvard,made,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,125,1,2:40,1360,2260,Patrick Tape Turnover.,33,34,-1,19,0.7875318292505641,0.4643430843146437,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,126,1,2:29,1349,2249,Foul on Ike Nweke.,33,34,-1,11,0.7866532545236009,0.4641752058521849,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,127,1,2:29,1349,2249,Chris Lewis missed Free Throw.,33,34,-1,0,0.7866532545236009,0.4641752058521849,4,3,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,128,1,2:29,1349,2249,Jake Killingsworth Defensive Rebound.,33,34,-1,0,0.7866532545236009,0.4641752058521849,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,129,1,2:17,1337,2237,Gabe Stefanini missed Layup.,33,34,-1,12,0.7856869529316425,0.46399064574443627,4,3,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,130,1,2:17,1337,2237,Justin Bassey Defensive Rebound.,33,34,-1,0,0.7856869529316425,0.46399064574443627,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,131,1,2:06,1326,2226,Chris Lewis made Dunk. Assisted by Bryce Aiken.,35,34,1,11,0.8297387012100028,0.5361805373525096,4,3,11,NA,NA,Harvard,made,Chris Lewis,Bryce Aiken,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,132,1,1:51,1311,2211,Jake Killingsworth missed Three Point Jumper.,35,34,1,15,0.8289817672071396,0.5364182645403744,4,3,11,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,133,1,1:51,1311,2211,Justin Bassey Defensive Rebound.,35,34,1,0,0.8289817672071396,0.5364182645403744,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,134,1,1:41,1301,2201,Foul on Peter Barba.,35,34,1,10,0.8284760844153247,0.536580236450934,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,135,1,1:41,1301,2201,Bryce Aiken made Free Throw.,36,34,2,0,0.8483152680512995,0.5727709695768035,4,3,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,136,1,1:41,1301,2201,Bryce Aiken made Free Throw.,37,34,3,0,0.8662302782599627,0.608199110865432,4,3,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,137,1,1:28,1288,2188,Quinton Adlesh missed Jumper.,37,34,3,13,0.8658955615199682,0.608818956791439,4,3,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,138,1,1:28,1288,2188,Bryce Aiken Defensive Rebound.,37,34,3,0,0.8658955615199682,0.608818956791439,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,139,1,1:12,1272,2172,Justin Bassey Turnover.,37,34,3,16,0.8654949423074615,0.6096083600351868,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,140,1,1:12,1272,2172,Columbia  Timeout,37,34,3,0,0.8654949423074615,0.6096083600351868,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,141,1,0:55,1255,2155,Randy Brumant made Layup.,37,36,1,17,0.8261571572276932,0.5373761372922001,4,2,11,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,142,1,0:54,1254,2154,Foul on Chris Lewis.,37,36,1,1,0.8261071474368296,0.5373945850346329,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,143,1,0:54,1254,2154,Randy Brumant missed Free Throw.,37,36,1,0,0.8261071474368296,0.5373945850346329,4,2,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,144,1,0:54,1254,2154,Robert Baker Defensive Rebound.,37,36,1,0,0.8261071474368296,0.5373945850346329,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,145,1,0:45,1245,2145,Bryce Aiken missed Layup.,37,36,1,9,0.8256583439836068,0.5375632185278707,4,2,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,146,1,0:45,1245,2145,Randy Brumant Block.,37,36,1,0,0.8256583439836068,0.5375632185278707,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,147,1,0:43,1243,2143,Jake Killingsworth Defensive Rebound.,37,36,1,2,0.8255589512519925,0.5376013506025611,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,148,1,0:28,1228,2128,Quinton Adlesh missed Layup.,37,36,1,15,0.824818152988215,0.5378955068465396,4,2,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,149,1,0:28,1228,2128,Christian Juzang Defensive Rebound.,37,36,1,0,0.824818152988215,0.5378955068465396,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,151,2,20:00,1200,2100,PLAY,39,36,3,0,0.863942370040645,0.6136521367497382,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Columbia
+401087932,2019-02-08,Harvard,Columbia,152,2,19:43,1183,2083,Patrick Tape made Jumper.,37,38,-1,17,0.7725993642184605,0.46116750696500763,4,2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,153,2,19:19,1159,2059,Foul on Randy Brumant.,37,38,-1,24,0.7705182491340398,0.4606857817780813,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,154,2,19:19,1159,2059,Robert Baker missed Free Throw.,37,38,-1,0,0.7705182491340398,0.4606857817780813,4,2,11,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,155,2,19:19,1159,2059,Harvard Deadball Team Rebound.,37,38,-1,0,0.7705182491340398,0.4606857817780813,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,156,2,19:19,1159,2059,Robert Baker made Free Throw.,38,38,0,0,0.7971897611413579,0.5,4,2,11,NA,NA,Harvard,made,Robert Baker,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,157,2,19:03,1143,2043,Foul on Christian Juzang.,38,38,0,16,0.7961294998057351,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,158,2,19:03,1143,2043,Patrick Tape missed Free Throw.,38,38,0,0,0.7961294998057351,0.5,4,2,11,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,159,2,19:03,1143,2043,Columbia Deadball Team Rebound.,38,38,0,0,0.7961294998057351,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,160,2,19:03,1143,2043,Patrick Tape made Free Throw.,38,39,-1,0,0.769133059759408,0.46036969936837513,4,2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,161,2,18:45,1125,2025,Foul on Jake Killingsworth.,38,39,-1,18,0.7675710096022312,0.46001493704236834,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,162,2,18:39,1119,2019,Foul on Patrick Tape.,38,39,-1,6,0.7670484895936126,0.4598962269586672,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,163,2,18:39,1119,2019,Christian Juzang made Free Throw.,39,39,0,0,0.794534801701646,0.5,4,2,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,164,2,18:39,1119,2019,Christian Juzang missed Free Throw.,39,39,0,0,0.794534801701646,0.5,4,2,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,165,2,18:39,1119,2019,Randy Brumant Defensive Rebound.,39,39,0,0,0.794534801701646,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,166,2,18:37,1117,2017,Foul on Robert Baker.,39,39,0,2,0.794401504048794,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,167,2,18:21,1101,2001,Gabe Stefanini missed Layup.,39,39,0,16,0.7933319024149805,0.5,4,2,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,168,2,18:21,1101,2001,Randy Brumant Offensive Rebound.,39,39,0,0,0.7933319024149805,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,169,2,18:17,1097,1997,Randy Brumant missed Layup.,39,39,0,4,0.7930634646157653,0.5,4,2,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,170,2,18:17,1097,1997,Bryce Aiken Defensive Rebound.,39,39,0,0,0.7930634646157653,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,171,2,18:10,1090,1990,Bryce Aiken missed Layup.,39,39,0,7,0.79259253010067,0.5,4,2,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,172,2,18:10,1090,1990,Randy Brumant Defensive Rebound.,39,39,0,0,0.79259253010067,0.5,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,173,2,18:00,1080,1980,Patrick Tape made Layup. Assisted by Jake Killingsworth.,39,41,-2,10,0.7327537104898456,0.4187565601869328,4,2,11,NA,NA,Columbia,made,Patrick Tape,Jake Killingsworth,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,174,2,17:48,1068,1968,Bryce Aiken missed Three Point Jumper.,39,41,-2,12,0.7313839648222005,0.41826024885698593,4,2,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,175,2,17:48,1068,1968,Chris Lewis Offensive Rebound.,39,41,-2,0,0.7313839648222005,0.41826024885698593,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,176,2,17:32,1052,1952,Chris Lewis missed Layup.,39,41,-2,16,0.7295257535716198,0.4175773729614239,4,2,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,177,2,17:32,1052,1952,Robert Baker Offensive Rebound.,39,41,-2,0,0.7295257535716198,0.4175773729614239,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,178,2,17:26,1046,1946,Justin Bassey Turnover.,39,41,-2,6,0.7288182256452947,0.4173140823539477,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,179,2,17:25,1045,1945,Gabe Stefanini Steal.,39,41,-2,1,0.7286996897408157,0.4172697827570298,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,180,2,17:07,1027,1927,Gabe Stefanini made Layup.,39,43,-4,18,0.6546951490641532,0.3374392778408114,4,2,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,181,2,16:55,1015,1915,Christian Juzang missed Jumper.,39,43,-4,12,0.6524760859107769,0.33638675220363323,4,2,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,182,2,16:55,1015,1915,Patrick Tape Defensive Rebound.,39,43,-4,0,0.6524760859107769,0.33638675220363323,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,183,2,16:33,993,1893,Randy Brumant missed Jumper.,39,43,-4,22,0.648243898511727,0.3343459595661499,4,2,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,184,2,16:33,993,1893,Harvard Defensive Rebound.,39,43,-4,0,0.648243898511727,0.3343459595661499,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,185,2,16:13,973,1873,Henry Welsh made Three Point Jumper. Assisted by Robert Baker.,42,43,-1,20,0.7533887312750371,0.45651128808956615,4,2,11,NA,NA,Harvard,made,Henry Welsh,Robert Baker,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,186,2,15:52,952,1852,Patrick Tape made Layup.,42,45,-3,21,0.6795690449243885,0.37044714411879864,4,2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,187,2,15:32,932,1832,Noah Kirkwood made Layup.,44,45,-1,20,0.7493555877842317,0.4554190776307455,4,2,11,NA,NA,Harvard,made,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,188,2,15:11,911,1811,Jake Killingsworth missed Three Point Jumper.,44,45,-1,21,0.7474612339289278,0.45493229471884294,4,2,11,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,189,2,15:11,911,1811,Rio Haskett Defensive Rebound.,44,45,-1,0,0.7474612339289278,0.45493229471884294,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,190,2,15:08,908,1808,Rio Haskett Turnover.,44,45,-1,3,0.747196838071294,0.4548652522479662,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,191,2,15:07,907,1807,Jake Killingsworth Steal.,44,45,-1,1,0.7471089795671715,0.45484301030203417,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,192,2,14:41,881,1781,Gabe Stefanini missed Jumper.,44,45,-1,26,0.7448571968948434,0.45427624740315753,4,2,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,193,2,14:41,881,1781,Henry Welsh Defensive Rebound.,44,45,-1,0,0.7448571968948434,0.45427624740315753,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,194,2,14:28,868,1768,Bryce Aiken made Layup.,46,45,1,13,0.8076148704019883,0.5460055424152337,4,2,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,195,2,14:16,856,1756,Foul on Noah Kirkwood.,46,45,1,12,0.807100610414554,0.546269792512417,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,196,2,14:16,856,1756,Columbia  Timeout,46,45,1,0,0.807100610414554,0.546269792512417,4,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,197,2,13:44,824,1724,Quinton Adlesh missed Three Point Jumper.,46,45,1,32,0.8057188385099885,0.5470204920870995,4,1,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,198,2,13:44,824,1724,Robert Baker Block.,46,45,1,0,0.8057188385099885,0.5470204920870995,4,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,199,2,13:43,823,1723,Noah Kirkwood Defensive Rebound.,46,45,1,1,0.805675115804489,0.5470455226127717,4,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,200,2,13:23,803,1703,Bryce Aiken missed Three Point Jumper.,46,45,1,20,0.8047892380739492,0.5475735037612766,4,1,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,201,2,13:23,803,1703,Robert Baker Offensive Rebound.,46,45,1,0,0.8047892380739492,0.5475735037612766,4,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,202,2,13:21,801,1701,Robert Baker made Two Point Tip Shot.,48,45,3,2,0.857920270452879,0.6395225176363374,4,1,11,NA,NA,Harvard,made,Robert Baker,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,203,2,13:16,796,1696,Gabe Stefanini made Jumper.,48,47,1,5,0.8044729541896795,0.5477723657085629,4,1,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,204,2,12:51,771,1671,Rio Haskett made Three Point Jumper. Assisted by Bryce Aiken.,51,47,4,25,0.8799138378296658,0.6855401073430151,4,1,11,NA,NA,Harvard,made,Rio Haskett,Bryce Aiken,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,205,2,12:22,742,1642,Quinton Adlesh made Three Point Jumper.,51,50,1,29,0.8018689416037298,0.5496398414218167,4,1,11,NA,NA,Columbia,made,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,206,2,11:56,716,1616,Bryce Aiken made Three Point Jumper.,54,50,4,26,0.8808401021400786,0.6931196233526227,4,1,11,NA,NA,Harvard,made,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,207,2,11:34,694,1594,Foul on Henry Welsh.,54,50,4,22,0.8811129919229008,0.6959501889803879,4,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,208,2,11:34,694,1594,Columbia  Timeout,54,50,4,0,0.8811129919229008,0.6959501889803879,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,209,2,11:34,694,1594,Peter Barba missed Layup.,54,50,4,0,0.8811129919229008,0.6959501889803879,4,0,11,NA,NA,Columbia,missed,Peter Barba,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,210,2,11:34,694,1594,Robert Baker Block.,54,50,4,0,0.8811129919229008,0.6959501889803879,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,211,2,11:34,694,1594,Christian Juzang Defensive Rebound.,54,50,4,0,0.8811129919229008,0.6959501889803879,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,212,2,11:11,671,1571,Noah Kirkwood missed Three Point Jumper.,54,50,4,23,0.8812883772305619,0.6986150706058066,4,0,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,213,2,11:11,671,1571,Justin Bassey Offensive Rebound.,54,50,4,0,0.8812883772305619,0.6986150706058066,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,214,2,11:05,665,1565,Justin Bassey missed Layup.,54,50,4,6,0.8813254356384166,0.6992887028224141,4,0,11,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,215,2,11:05,665,1565,Harvard Offensive Rebound.,54,50,4,0,0.8813254356384166,0.6992887028224141,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,216,2,10:43,643,1543,Noah Kirkwood missed Three Point Jumper.,54,50,4,22,0.8814650047977391,0.7017796878718116,4,0,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,217,2,10:43,643,1543,Peter Barba Defensive Rebound.,54,50,4,0,0.8814650047977391,0.7017796878718116,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,218,2,10:25,625,1525,Foul on Peter Barba.,54,50,4,18,0.8816197217170658,0.7039433548183792,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,219,2,10:25,625,1525,Peter Barba Turnover.,54,50,4,0,0.8816197217170658,0.7039433548183792,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,220,2,10:14,614,1514,Noah Kirkwood missed Jumper.,54,50,4,11,0.8817499445289656,0.7053701851882305,4,0,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,221,2,10:14,614,1514,Chris Lewis Offensive Rebound.,54,50,4,0,0.8817499445289656,0.7053701851882305,4,0,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,222,2,10:05,605,1505,Christian Juzang made Layup.,56,50,6,9,0.9205539978769377,0.788934307627574,4,0,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,223,2,10:02,602,1502,Columbia  Timeout,56,50,6,3,0.92066635495037,0.7894567388462341,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,224,2,10:02,602,1502,Columbia  Timeout,56,50,6,0,0.92066635495037,0.7894567388462341,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,225,2,9:51,591,1491,Foul on Noah Kirkwood.,56,50,6,11,0.92111508498913,0.7914739955450083,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,226,2,9:50,590,1490,Patrick Tape Turnover.,56,50,6,1,0.9211589549406343,0.7916658770928207,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,227,2,9:48,588,1488,Christian Juzang Steal.,56,50,6,2,0.9212483306720052,0.7920541494924569,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,228,2,9:26,566,1466,Christian Juzang made Three Point Jumper.,59,50,9,22,0.9592369470017371,0.8858729636386782,4,-1,11,NA,NA,Harvard,made,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,229,2,9:09,549,1449,Gabe Stefanini made Jumper.,59,52,7,17,0.9383696744371398,0.8354550309006548,4,-1,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,230,2,8:35,515,1415,Chris Lewis missed Layup.,59,52,7,34,0.9402855353628047,0.8428800174474573,4,-1,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,231,2,8:35,515,1415,Patrick Tape Block.,59,52,7,0,0.9402855353628047,0.8428800174474573,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,232,2,8:33,513,1413,Justin Bassey Offensive Rebound.,59,52,7,2,0.940375762700426,0.843254381643345,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,233,2,8:31,511,1411,Justin Bassey missed Layup.,59,52,7,2,0.9404649251790319,0.8436257159599467,4,-1,11,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,234,2,8:31,511,1411,Tai Bibbs Defensive Rebound.,59,52,7,0,0.9404649251790319,0.8436257159599467,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,235,2,8:12,492,1392,Noah Kirkwood Offensive Rebound.,59,52,7,19,0.9413002021550549,0.8471134970720342,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,236,2,8:09,489,1389,Foul on Patrick Tape.,59,52,7,3,0.94143714927722,0.8476763195213739,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,237,2,8:09,489,1389,Patrick Tape Turnover.,59,52,7,0,0.94143714927722,0.8476763195213739,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,238,2,7:42,462,1362,Chris Lewis missed Jumper.,59,52,7,27,0.942900447615399,0.8533343971934374,4,-1,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,239,2,7:42,462,1362,Patrick Tape Defensive Rebound.,59,52,7,0,0.942900447615399,0.8533343971934374,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,240,2,7:16,436,1336,Quinton Adlesh missed Three Point Jumper.,59,52,7,26,0.9450025895750005,0.860563376071169,4,-1,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,241,2,7:16,436,1336,Patrick Tape Offensive Rebound.,59,52,7,0,0.9450025895750005,0.860563376071169,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,242,2,7:12,432,1332,Foul on Christian Juzang.,59,52,7,4,0.9454101266778405,0.8618903246135766,4,-1,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,243,2,7:12,432,1332,Columbia  Timeout,59,52,7,0,0.9454101266778405,0.8618903246135766,4,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,244,2,7:12,432,1332,Patrick Tape made Free Throw.,59,53,6,0,0.9302273935366915,0.8277118992184253,4,-2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,245,2,7:12,432,1332,Patrick Tape made Free Throw.,59,54,5,0,0.9112185263782274,0.7871639203724771,4,-2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,246,2,6:52,412,1312,Bryce Aiken missed Layup.,59,54,5,20,0.9130275405958855,0.7937298312849671,4,-2,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,247,2,6:52,412,1312,Gabe Stefanini Defensive Rebound.,59,54,5,0,0.9130275405958855,0.7937298312849671,4,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,248,2,6:45,405,1305,Gabe Stefanini made Layup.,59,56,3,7,0.8598052845394879,0.6934535662900246,4,-2,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,249,2,6:27,387,1287,Chris Lewis Turnover.,59,56,3,18,0.8601580645006393,0.6976229364138901,4,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,250,2,6:25,385,1285,Randy Brumant Steal.,59,56,3,2,0.8601933152034161,0.6980896894762822,4,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,251,2,6:12,372,1272,Patrick Tape made Layup.,59,58,1,13,0.7773459001292312,0.5706129547338968,4,-2,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,252,2,6:09,369,1269,Harvard  Timeout,59,58,1,3,0.7770304332093183,0.5709052396697252,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,253,2,5:58,358,1258,Robert Baker missed Three Point Jumper.,59,58,1,11,0.7758737726967383,0.5720340932137669,3,-2,11,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,254,2,5:58,358,1258,Randy Brumant Defensive Rebound.,59,58,1,0,0.7758737726967383,0.5720340932137669,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,255,2,5:38,338,1238,Foul on Henry Welsh.,59,58,1,20,0.773834848539226,0.5744026589463046,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,256,2,5:38,338,1238,Patrick Tape missed Free Throw.,59,58,1,0,0.773834848539226,0.5744026589463046,3,-2,11,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,257,2,5:38,338,1238,Robert Baker Defensive Rebound.,59,58,1,0,0.773834848539226,0.5744026589463046,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,258,2,5:28,328,1228,Bryce Aiken missed Jumper.,59,58,1,10,0.7728841895228741,0.5757898943693279,3,-2,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,259,2,5:28,328,1228,Gabe Stefanini Defensive Rebound.,59,58,1,0,0.7728841895228741,0.5757898943693279,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,260,2,5:10,310,1210,Quinton Adlesh made Three Point Jumper. Assisted by Gabe Stefanini.,59,61,-2,18,0.5654716582715675,0.34635794489870403,3,-2,11,NA,NA,Columbia,made,Quinton Adlesh,Gabe Stefanini,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,261,2,4:42,282,1182,Foul on Gabe Stefanini.,59,61,-2,28,0.554098631875156,0.343236818191074,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,262,2,4:42,282,1182,Justin Bassey made Free Throw.,60,61,-1,0,0.6322069451225029,0.41959128513270405,3,-2,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,263,2,4:42,282,1182,Justin Bassey made Free Throw.,61,61,0,0,0.7039435005864021,0.5,3,-2,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,264,2,4:20,260,1160,Foul on Henry Welsh.,61,61,0,22,0.6985964626013951,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,265,2,4:20,260,1160,Gabe Stefanini missed Free Throw.,61,61,0,0,0.6985964626013951,0.5,3,-2,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,266,2,4:20,260,1160,Columbia Deadball Team Rebound.,61,61,0,0,0.6985964626013951,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,267,2,4:20,260,1160,Gabe Stefanini missed Free Throw.,61,61,0,0,0.6985964626013951,0.5,3,-2,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,268,2,4:20,260,1160,Justin Bassey Defensive Rebound.,61,61,0,0,0.6985964626013951,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,269,2,4:01,241,1141,Foul on Bryce Aiken.,61,61,0,19,0.6937492301380885,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,270,2,4:01,241,1141,Bryce Aiken Turnover.,61,61,0,0,0.6937492301380885,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,271,2,3:43,223,1123,Patrick Tape missed Layup.,61,61,0,18,0.6888333627836507,0.5,3,-2,11,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,272,2,3:43,223,1123,Robert Baker Block.,61,61,0,0,0.6888333627836507,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,273,2,3:43,223,1123,Columbia Offensive Rebound.,61,61,0,0,0.6888333627836507,0.5,3,-2,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,274,2,3:43,223,1123,Columbia  Timeout,61,61,0,0,0.6888333627836507,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,275,2,3:40,220,1120,Gabe Stefanini missed Layup.,61,61,0,3,0.6879749968636952,0.5,3,-3,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,276,2,3:40,220,1120,Noah Kirkwood Defensive Rebound.,61,61,0,0,0.6879749968636952,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,277,2,3:16,196,1096,Christian Juzang missed Three Point Jumper.,61,61,0,24,0.6806056812655236,0.5,3,-3,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,278,2,3:16,196,1096,Patrick Tape Defensive Rebound.,61,61,0,0,0.6806056812655236,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,279,2,2:59,179,1079,Gabe Stefanini missed Jumper.,61,61,0,17,0.6748173542079061,0.5,3,-3,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,280,2,2:59,179,1079,Robert Baker Defensive Rebound.,61,61,0,0,0.6748173542079061,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,281,2,2:54,174,1074,Robert Baker Turnover.,61,61,0,5,0.6730637085276953,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,282,2,2:53,173,1073,Patrick Tape Steal.,61,61,0,1,0.6727103616977466,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,283,2,2:50,170,1070,Quinton Adlesh missed Three Point Jumper.,61,61,0,3,0.6716449347855907,0.5,3,-3,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,284,2,2:50,170,1070,Chris Lewis Defensive Rebound.,61,61,0,0,0.6716449347855907,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,285,2,2:32,152,1052,Noah Kirkwood Turnover.,61,61,0,18,0.6650709340469918,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,286,2,2:31,151,1051,Patrick Tape Steal.,61,61,0,1,0.6646959945162336,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,287,2,2:09,129,1029,Foul on Robert Baker.,61,61,0,22,0.6561583458852629,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,288,2,2:09,129,1029,Randy Brumant made Free Throw.,61,62,-1,0,0.5359286183055062,0.37701010686729713,3,-3,11,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,289,2,2:09,129,1029,Randy Brumant missed Free Throw.,61,62,-1,0,0.5359286183055062,0.37701010686729713,3,-3,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,290,2,2:09,129,1029,Robert Baker Defensive Rebound.,61,62,-1,0,0.5359286183055062,0.37701010686729713,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,291,2,2:06,126,1026,Foul on Patrick Tape.,61,62,-1,3,0.5322736055049386,0.3748212586596703,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,292,2,2:06,126,1026,Robert Baker made Free Throw.,62,62,0,0,0.6549483997237139,0.5,3,-3,11,NA,NA,Harvard,made,Robert Baker,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,293,2,2:06,126,1026,Robert Baker missed Free Throw.,62,62,0,0,0.6549483997237139,0.5,3,-3,11,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,294,2,2:06,126,1026,Columbia Defensive Rebound.,62,62,0,0,0.6549483997237139,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,295,2,1:56,116,1016,Quinton Adlesh missed Layup.,62,62,0,10,0.6508291618527081,0.5,3,-3,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,296,2,1:56,116,1016,Randy Brumant Offensive Rebound.,62,62,0,0,0.6508291618527081,0.5,3,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,297,2,1:50,110,1010,Randy Brumant made Two Point Tip Shot.,62,64,-2,6,0.37243093571147023,0.24354545775906564,3,-3,11,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,298,2,1:38,98,998,Bryce Aiken made Three Point Jumper.,65,64,1,12,0.7691268860609995,0.6490192467191523,3,-3,11,NA,NA,Harvard,made,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,299,2,1:34,94,994,Harvard  Timeout,65,64,1,4,0.7708361673801999,0.6529852541795719,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,300,2,1:21,81,981,Patrick Tape made Dunk. Assisted by Quinton Adlesh.,65,66,-1,13,0.46608007293604703,0.33381313742127333,2,-3,11,NA,NA,Columbia,made,Patrick Tape,Quinton Adlesh,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,301,2,0:46,46,946,Bryce Aiken made Jumper.,67,66,1,35,0.7951535262244119,0.7056747815331167,2,-3,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,302,2,0:28,28,928,Quinton Adlesh missed Jumper.,67,66,1,18,0.8062373386219766,0.7278998449677002,2,-3,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,303,2,0:28,28,928,Columbia Offensive Rebound.,67,66,1,0,0.8062373386219766,0.7278998449677002,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,304,2,0:23,23,923,Columbia  Timeout,67,66,1,5,0.8094346377336245,0.7341873282778076,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,305,2,0:06,6,906,Gabe Stefanini Turnover.,67,66,1,17,0.82098348724971,0.7562915917287648,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,306,2,0:06,6,906,Robert Baker Steal.,67,66,1,0,0.82098348724971,0.7562915917287648,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,307,2,0:06,6,906,Foul on Randy Brumant.,67,66,1,0,0.82098348724971,0.7562915917287648,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,308,2,0:05,5,905,Robert Baker made Free Throw.,68,66,2,1,0.9350805969442026,0.9071486990502441,2,-4,11,NA,NA,Harvard,made,Robert Baker,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,309,2,0:05,5,905,Columbia  Timeout,68,66,2,0,0.9350805969442026,0.9071486990502441,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,310,2,0:05,5,905,Robert Baker made Free Throw.,69,66,3,0,0.9782710162816983,0.968291875526715,2,-5,11,NA,NA,Harvard,made,Robert Baker,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,311,2,0:01,1,901,Gabe Stefanini made Three Point Jumper.,69,69,0,4,0.5935278751448385,0.5,2,-5,11,NA,NA,Columbia,made,Gabe Stefanini,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,312,2,0:00,300,900,End of 2nd half,69,69,0,1,0.7082396376561281,0.5,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,NA
+401087932,2019-02-08,Harvard,Columbia,313,3,5:00,300,900,PLAY,69,69,0,0,0.7082396376561281,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401087932,2019-02-08,Harvard,Columbia,314,3,4:40,280,880,Justin Bassey Turnover.,69,69,0,20,0.7034642440241157,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,315,3,4:39,279,879,Gabe Stefanini Steal.,69,69,0,1,0.7032242802368793,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,316,3,4:35,275,875,Quinton Adlesh made Three Point Jumper. Assisted by Gabe Stefanini.,69,72,-3,4,0.47218047678031044,0.2749832412073097,3,-4,11,NA,NA,Columbia,made,Quinton Adlesh,Gabe Stefanini,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,317,3,4:16,256,856,Foul on Randy Brumant.,69,72,-3,19,0.47076099343271366,0.2782862282524966,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,318,3,4:16,256,856,Bryce Aiken missed Free Throw.,69,72,-3,0,0.47076099343271366,0.2782862282524966,3,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,319,3,4:16,256,856,Harvard Deadball Team Rebound.,69,72,-3,0,0.47076099343271366,0.2782862282524966,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,320,3,4:16,256,856,Bryce Aiken missed Free Throw.,69,72,-3,0,0.47076099343271366,0.2782862282524966,3,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,321,3,4:16,256,856,Gabe Stefanini Defensive Rebound.,69,72,-3,0,0.47076099343271366,0.2782862282524966,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,322,3,4:03,243,843,Foul on Gabe Stefanini.,69,72,-3,13,0.4690641907421627,0.2800774002725086,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,323,3,4:03,243,843,Gabe Stefanini Turnover.,69,72,-3,0,0.4690641907421627,0.2800774002725086,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,324,3,3:50,230,830,Bryce Aiken made Layup.,71,72,-1,13,0.6198979161164425,0.4219676366364322,3,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,325,3,3:28,208,808,Patrick Tape made Layup. Assisted by Gabe Stefanini.,71,74,-3,22,0.4483499702347081,0.2726039737868216,3,-4,11,NA,NA,Columbia,made,Patrick Tape,Gabe Stefanini,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,326,3,3:07,187,787,Bryce Aiken missed Layup.,71,74,-3,21,0.41568809044711025,0.25290629712609997,3,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,327,3,3:07,187,787,Patrick Tape Defensive Rebound.,71,74,-3,0,0.41568809044711025,0.25290629712609997,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,328,3,2:37,157,757,Gabe Stefanini missed Three Point Jumper.,71,74,-3,30,0.35742405071778244,0.21739820028247495,3,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,329,3,2:37,157,757,Justin Bassey Defensive Rebound.,71,74,-3,0,0.35742405071778244,0.21739820028247495,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,330,3,2:20,140,740,Robert Baker missed Three Point Jumper.,71,74,-3,17,0.32179002693449826,0.19606474652344638,3,-4,11,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,331,3,2:20,140,740,Quinton Adlesh Defensive Rebound.,71,74,-3,0,0.32179002693449826,0.19606474652344638,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,332,3,1:46,106,706,Gabe Stefanini made Three Point Jumper.,71,77,-6,34,0.05275179361994448,0.02954181973561888,3,-4,11,NA,NA,Columbia,made,Gabe Stefanini,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,333,3,1:37,97,697,Harvard  Timeout,71,77,-6,9,0.04198869829469679,0.02379556756180867,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,334,3,1:37,97,697,Harvard  Timeout,71,77,-6,0,0.04198869829469679,0.02379556756180867,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,335,3,1:30,90,690,Noah Kirkwood Turnover.,71,77,-6,7,0.03466381011894064,0.019844765348135254,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,336,3,0:59,59,659,Gabe Stefanini missed Jumper.,71,77,-6,31,0.013348560613768955,0.008061135560424947,2,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,337,3,0:59,59,659,Robert Baker Defensive Rebound.,71,77,-6,0,0.013348560613768955,0.008061135560424947,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,338,3,0:48,48,648,Foul on Randy Brumant.,71,77,-6,11,0.009087852570594083,0.005608540256019785,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,339,3,0:48,48,648,Bryce Aiken made Free Throw.,72,77,-5,0,0.021275087471969698,0.013191971985376541,2,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,340,3,0:48,48,648,Bryce Aiken made Free Throw.,73,77,-4,0,0.04899782607334176,0.030712436917938523,2,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,341,3,0:48,48,648,Bryce Aiken made Free Throw.,74,77,-3,0,0.10882817365902524,0.0698549082448537,2,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,342,3,0:20,20,620,Columbia  Timeout,74,77,-3,28,0.06397159622427412,0.04283236356086821,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,343,3,0:17,17,617,Gabe Stefanini missed Jumper.,74,77,-3,3,0.06006877177995469,0.04043274873834274,2,-5,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,344,3,0:17,17,617,Henry Welsh Defensive Rebound.,74,77,-3,0,0.06006877177995469,0.04043274873834274,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,345,3,0:11,11,611,Foul on Tai Bibbs.,74,77,-3,6,0.05273029743947433,0.03588657491023283,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,346,3,0:11,11,611,Bryce Aiken made Free Throw.,75,77,-2,0,0.14289564200910154,0.10029986994839347,2,-5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,347,3,0:11,11,611,Bryce Aiken made Free Throw.,76,77,-1,0,0.33303354437476684,0.25031207879760475,2,-5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,348,3,0:09,9,609,Foul on Robert Baker.,76,77,-1,2,0.3288629565113409,0.24767571268535712,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,349,3,0:09,9,609,Patrick Tape made Free Throw.,76,78,-2,0,0.1389092067247222,0.0977838788911445,2,-5,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,350,3,0:09,9,609,Patrick Tape made Free Throw.,76,79,-3,0,0.05042982816041292,0.03445157466119594,2,-5,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,351,3,0:06,6,606,Foul on Tai Bibbs.,76,79,-3,3,0.04711991974722523,0.032377959509609616,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,352,3,0:06,6,606,Bryce Aiken made Free Throw.,77,79,-2,0,0.13304049846670649,0.09407117343194349,2,-5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,353,3,0:06,6,606,Bryce Aiken made Free Throw.,78,79,-1,0,0.3225922715942969,0.2437084082712352,2,-5,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,354,3,0:05,5,605,Foul on Justin Bassey.,78,79,-1,1,0.32050011099389675,0.2423839768081326,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,355,3,0:05,5,605,Gabe Stefanini made Free Throw.,78,80,-2,0,0.1311159102963253,0.09285130094975595,2,-5,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,356,3,0:05,5,605,Gabe Stefanini made Free Throw.,78,81,-3,0,0.046054479477167204,0.031708124473284936,2,-5,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,357,3,0:00,300,600,Bryce Aiken made Three Point Jumper.,81,81,0,5,0.7082396376561281,0.5,2,-5,11,NA,NA,Harvard,made,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,358,3,0:00,300,600,End of 1st overtime,81,81,0,0,0.7082396376561281,0.5,2,-5,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,NA
+401087932,2019-02-08,Harvard,Columbia,359,4,5:00,300,600,PLAY,81,81,0,0,0.7082396376561281,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401087932,2019-02-08,Harvard,Columbia,360,4,4:41,281,581,Justin Bassey missed Three Point Jumper.,81,81,0,19,0.7037039779782205,0.5,3,-4,11,NA,NA,Harvard,missed,Justin Bassey,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,361,4,4:41,281,581,Tai Bibbs Defensive Rebound.,81,81,0,0,0.7037039779782205,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,362,4,4:14,254,554,Quinton Adlesh missed Three Point Jumper.,81,81,0,27,0.6970957160694999,0.5,3,-4,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,363,4,4:14,254,554,Robert Baker Defensive Rebound.,81,81,0,0,0.6970957160694999,0.5,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,364,4,4:02,242,542,Bryce Aiken made Layup.,83,81,2,12,0.8097007619784516,0.6522907543065937,3,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,365,4,3:43,223,523,Gabe Stefanini missed Layup.,83,81,2,19,0.8065834996670689,0.6532352482125773,3,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,366,4,3:43,223,523,Robert Baker Defensive Rebound.,83,81,2,0,0.8065834996670689,0.6532352482125773,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,367,4,3:24,204,504,Bryce Aiken missed Layup.,83,81,2,19,0.8071825258623769,0.660029979777004,3,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,368,4,3:24,204,504,Gabe Stefanini Defensive Rebound.,83,81,2,0,0.8071825258623769,0.660029979777004,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,369,4,3:00,180,480,Foul on Robert Baker.,83,81,2,24,0.8150482120417414,0.6795076201741087,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,370,4,3:00,180,480,Randy Brumant missed Free Throw.,83,81,2,0,0.8150482120417414,0.6795076201741087,3,-4,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,371,4,3:00,180,480,Columbia Deadball Team Rebound.,83,81,2,0,0.8150482120417414,0.6795076201741087,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,372,4,3:00,180,480,Randy Brumant missed Free Throw.,83,81,2,0,0.8150482120417414,0.6795076201741087,3,-4,11,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,373,4,3:00,180,480,Justin Bassey Defensive Rebound.,83,81,2,0,0.8150482120417414,0.6795076201741087,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,374,4,2:51,171,471,Bryce Aiken made Layup.,85,81,4,9,0.9086796724494484,0.8292569175755539,3,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,375,4,2:34,154,454,Gabe Stefanini missed Layup.,85,81,4,17,0.918794769786056,0.8502743301012602,3,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,376,4,2:34,154,454,Patrick Tape Offensive Rebound.,85,81,4,0,0.918794769786056,0.8502743301012602,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,377,4,2:32,152,452,Foul on Justin Bassey.,85,81,4,2,0.9200014250925667,0.8527571399607713,3,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,378,4,2:32,152,452,Harvard  Timeout,85,81,4,0,0.9200014250925667,0.8527571399607713,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,379,4,2:32,152,452,Patrick Tape missed Free Throw.,85,81,4,0,0.9200014250925667,0.8527571399607713,2,-4,11,NA,NA,Columbia,missed,Patrick Tape,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,380,4,2:32,152,452,Columbia Deadball Team Rebound.,85,81,4,0,0.9200014250925667,0.8527571399607713,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,381,4,2:32,152,452,Patrick Tape made Free Throw.,85,82,3,0,0.8811398260529242,0.7887310790358614,2,-4,11,NA,NA,Columbia,made,Patrick Tape,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,382,4,2:09,129,429,Noah Kirkwood Turnover.,85,82,3,23,0.8959483911490288,0.8185827552869425,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,383,4,1:56,116,416,Quinton Adlesh made Layup. Assisted by Patrick Tape.,85,84,1,13,0.7627081372076828,0.6329512408256482,2,-4,11,NA,NA,Columbia,made,Quinton Adlesh,Patrick Tape,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,384,4,1:33,93,393,Harvard  Timeout,85,84,1,23,0.7712716147837648,0.6539879024318105,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,385,4,1:24,84,384,Bryce Aiken missed Three Point Jumper.,85,84,1,9,0.7752506915043741,0.663091213256606,1,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,386,4,1:24,84,384,Noah Kirkwood Offensive Rebound.,85,84,1,0,0.7752506915043741,0.663091213256606,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,387,4,1:19,79,379,Foul on Patrick Tape.,85,84,1,5,0.7775551589695403,0.6682762057943562,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,388,4,1:19,79,379,Noah Kirkwood missed Free Throw.,85,84,1,0,0.7775551589695403,0.6682762057943562,1,-4,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,389,4,1:19,79,379,Harvard Deadball Team Rebound.,85,84,1,0,0.7775551589695403,0.6682762057943562,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,390,4,1:19,79,379,Noah Kirkwood missed Free Throw.,85,84,1,0,0.7775551589695403,0.6682762057943562,1,-4,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,391,4,1:19,79,379,Quinton Adlesh Defensive Rebound.,85,84,1,0,0.7775551589695403,0.6682762057943562,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,392,4,1:06,66,366,Quinton Adlesh missed Three Point Jumper.,85,84,1,13,0.7840755902592648,0.6824790952627514,1,-4,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,TRUE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,393,4,1:06,66,366,Columbia Offensive Rebound.,85,84,1,0,0.7840755902592648,0.6824790952627514,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,394,4,0:56,56,356,Gabe Stefanini made Layup.,85,86,-1,10,0.4218957140681882,0.30611780384985204,1,-4,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,395,4,0:42,42,342,Bryce Aiken made Layup.,87,86,1,14,0.7975336802732698,0.7105192038279043,1,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,396,4,0:30,30,330,Gabe Stefanini missed Jumper.,87,86,1,12,0.8049676380892435,0.725390658569219,1,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,397,4,0:30,30,330,Christian Juzang Defensive Rebound.,87,86,1,0,0.8049676380892435,0.725390658569219,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,398,4,0:27,27,327,Foul on Gabe Stefanini.,87,86,1,3,0.8068744333964003,0.7291560988925342,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,399,4,0:27,27,327,Christian Juzang made Free Throw.,88,86,2,0,0.9183526924567053,0.8787547382590568,1,-4,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,400,4,0:27,27,327,Christian Juzang made Free Throw.,89,86,3,0,0.9680316323674,0.9512483242711521,1,-4,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,401,4,0:19,19,319,Jake Killingsworth made Three Point Jumper. Assisted by Quinton Adlesh.,89,89,0,8,0.6037625137806714,0.5,1,-4,11,NA,NA,Columbia,made,Jake Killingsworth,Quinton Adlesh,TRUE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,402,4,0:02,2,302,Bryce Aiken missed Jumper.,89,89,0,17,0.5941089279752647,0.5,1,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,403,4,0:02,2,302,Columbia Defensive Rebound.,89,89,0,0,0.5941089279752647,0.5,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,404,4,0:00,300,300,End of 2nd overtime,89,89,0,2,0.7082396376561281,0.5,1,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,NA
+401087932,2019-02-08,Harvard,Columbia,405,5,5:00,300,300,PLAY,89,89,0,0,0.7082396376561281,0.5,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401087932,2019-02-08,Harvard,Columbia,406,5,4:45,285,285,Justin Bassey made Jumper.,91,89,2,15,0.8204047495572896,0.6568975978012273,2,-3,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,407,5,4:20,260,260,Gabe Stefanini made Jumper. Assisted by Jake Killingsworth.,91,91,0,25,0.6985964626013951,0.5,2,-3,11,NA,NA,Columbia,made,Gabe Stefanini,Jake Killingsworth,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,408,5,3:45,225,225,Foul on Noah Kirkwood.,91,91,0,35,0.6893988632572776,0.5,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,409,5,3:45,225,225,Noah Kirkwood Turnover.,91,91,0,0,0.6893988632572776,0.5,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,410,5,3:32,212,212,Gabe Stefanini missed Layup.,91,91,0,13,0.6856227296882742,0.5,2,-3,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,411,5,3:32,212,212,Quinton Adlesh Offensive Rebound.,91,91,0,0,0.6856227296882742,0.5,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,412,5,3:12,192,192,Gabe Stefanini made Layup.,91,93,-2,20,0.5122281369678487,0.33147199062688937,2,-3,11,NA,NA,Columbia,made,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,413,5,2:58,178,178,Bryce Aiken missed Three Point Jumper.,91,93,-2,14,0.49211747492773206,0.3186467575696597,2,-3,11,NA,NA,Harvard,missed,Bryce Aiken,NA,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,414,5,2:58,178,178,Gabe Stefanini Defensive Rebound.,91,93,-2,0,0.49211747492773206,0.3186467575696597,2,-3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,415,5,2:54,174,174,Columbia  Timeout,91,93,-2,4,0.48623610529824574,0.31493571200350956,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,416,5,2:54,174,174,Columbia  Timeout,91,93,-2,0,0.48623610529824574,0.31493571200350956,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,417,5,2:45,165,165,Jake Killingsworth missed Layup.,91,93,-2,9,0.4726923587705928,0.30643282813851236,2,-4,11,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,418,5,2:45,165,165,Robert Baker Block.,91,93,-2,0,0.4726923587705928,0.30643282813851236,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,419,5,2:43,163,163,Columbia Offensive Rebound.,91,93,-2,2,0.46961173610246276,0.3045042714980945,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,420,5,2:33,153,153,Gabe Stefanini missed Layup.,91,93,-2,10,0.45372943785826214,0.29457493565986465,2,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,421,5,2:33,153,153,Justin Bassey Defensive Rebound.,91,93,-2,0,0.45372943785826214,0.29457493565986465,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,422,5,2:23,143,143,Justin Bassey made Layup.,93,93,0,10,0.6616568418913465,0.5,2,-4,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,423,5,2:07,127,127,Foul on Quinton Adlesh.,93,93,0,16,0.6553530061406975,0.5,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,424,5,2:07,127,127,Quinton Adlesh Turnover.,93,93,0,0,0.6553530061406975,0.5,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,425,5,1:49,109,109,Bryce Aiken missed Layup.,93,93,0,18,0.6478632653365378,0.5,2,-4,11,NA,NA,Harvard,missed,Bryce Aiken,NA,FALSE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,426,5,1:49,109,109,Tai Bibbs Block.,93,93,0,0,0.6478632653365378,0.5,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,427,5,1:46,106,106,Gabe Stefanini Defensive Rebound.,93,93,0,3,0.646570463669712,0.5,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,428,5,1:29,89,89,Tai Bibbs missed Layup.,93,93,0,17,0.6389979952307753,0.5,2,-4,11,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,429,5,1:29,89,89,Robert Baker Defensive Rebound.,93,93,0,0,0.6389979952307753,0.5,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,430,5,1:08,68,68,Noah Kirkwood made Three Point Jumper. Assisted by Christian Juzang.,96,93,3,21,0.9423046069085069,0.9059027276229703,2,-4,11,NA,NA,Harvard,made,Noah Kirkwood,Christian Juzang,TRUE,FALSE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,431,5,0:50,50,50,Foul on Christian Juzang.,96,93,3,18,0.9545805698963413,0.9278988280641667,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,432,5,0:50,50,50,Quinton Adlesh made Free Throw.,96,94,2,0,0.8996836574901624,0.8459567642953214,2,-4,11,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,433,5,0:50,50,50,Quinton Adlesh made Free Throw.,96,95,1,0,0.7928346009997017,0.7009063333906441,2,-4,11,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Harvard
+401087932,2019-02-08,Harvard,Columbia,434,5,0:24,24,24,Christian Juzang missed Layup.,96,95,1,26,0.808793078587658,0.7329290000397786,2,-4,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,435,5,0:24,24,24,Randy Brumant Block.,96,95,1,0,0.808793078587658,0.7329290000397786,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,436,5,0:23,23,23,Harvard Offensive Rebound.,96,95,1,1,0.8094346377336245,0.7341873282778076,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,437,5,0:21,21,21,Christian Juzang missed Three Point Jumper.,96,95,1,2,0.8107299418105373,0.7367177756567828,2,-4,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,438,5,0:21,21,21,Justin Bassey Offensive Rebound.,96,95,1,0,0.8107299418105373,0.7367177756567828,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,439,5,0:15,15,15,Foul on Randy Brumant.,96,95,1,6,0.814735454102734,0.7444485703793552,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,440,5,0:15,15,15,Bryce Aiken made Free Throw.,97,95,2,0,0.9275935839600592,0.8945836042239772,2,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Harvard
+401087932,2019-02-08,Harvard,Columbia,441,5,0:15,15,15,Bryce Aiken made Free Throw.,98,95,3,0,0.9739036994481823,0.9611215313636329,2,-4,11,NA,NA,Harvard,made,Bryce Aiken,NA,FALSE,TRUE,Harvard,Columbia
+401087932,2019-02-08,Harvard,Columbia,442,5,0:06,6,6,Gabe Stefanini missed Three Point Jumper.,98,95,3,9,0.977858992105193,0.9676220404903904,2,-4,11,NA,NA,Columbia,missed,Gabe Stefanini,NA,TRUE,FALSE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,443,5,0:06,6,6,Robert Baker Block.,98,95,3,0,0.977858992105193,0.9676220404903904,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,444,5,0:04,4,4,Gabe Stefanini Offensive Rebound.,98,95,3,2,0.9786772663408961,0.9689509260912796,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,445,5,0:01,1,1,Foul on Christian Juzang.,98,95,3,3,0.9798608779575948,0.9708630270713,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,446,5,0:01,1,1,Quinton Adlesh missed Free Throw.,98,95,3,0,0.9798608779575948,0.9708630270713,2,-4,11,NA,NA,Columbia,missed,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,447,5,0:01,1,1,Columbia Deadball Team Rebound.,98,95,3,0,0.9798608779575948,0.9708630270713,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,448,5,0:01,1,1,Quinton Adlesh made Free Throw.,98,96,2,0,0.93796538328824,0.9119316362211413,2,-4,11,NA,NA,Columbia,made,Quinton Adlesh,NA,FALSE,TRUE,Columbia,Columbia
+401087932,2019-02-08,Harvard,Columbia,449,5,0:01,1,1,Quinton Adlesh Turnover.,98,96,2,0,0.93796538328824,0.9119316362211413,2,-4,11,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard

@@ -1,0 +1,313 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171780,2019-12-20,Drexel,Quinnipiac,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5559159907723693,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,2,1,19:38,2378,2378,James Butler missed Jumper.,0,0,0,22,0.5557933805441311,0.5,4,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,3,1,19:34,2374,2374,Jacob Rigoni Defensive Rebound.,0,0,0,4,0.5557707392713166,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,4,1,19:13,2353,2353,Jacob Rigoni Turnover.,0,0,0,21,0.5556500745704864,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,5,1,19:13,2353,2353,Mate Okros Steal.,0,0,0,0,0.5556500745704864,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,6,1,19:09,2349,2349,Camren Wynter missed Layup.,0,0,0,4,0.5556267437838848,0.5,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,7,1,19:09,2349,2349,Tyrese Williams Block.,0,0,0,0,0.5556267437838848,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,8,1,19:09,2349,2349,Drexel Offensive Rebound.,0,0,0,0,0.5556267437838848,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,9,1,18:49,2329,2329,Zach Walton missed Three Point Jumper.,0,0,0,20,0.5555083901586996,0.5,4,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,10,1,18:45,2325,2325,Rich Kelly Defensive Rebound.,0,0,0,4,0.5554843752721436,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,11,1,18:38,2318,2318,Jacob Rigoni missed Three Point Jumper.,0,0,0,7,0.5554420694237182,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,12,1,18:34,2314,2314,James Butler Defensive Rebound.,0,0,0,4,0.5554177337319942,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,13,1,18:32,2312,2312,Mate Okros made Three Point Jumper. Assisted by Camren Wynter.,3,0,3,2,0.6221877289179726,0.5686409702844453,4,4,1.4,NA,NA,Drexel,made,Mate Okros,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,14,1,18:03,2283,2283,Rich Kelly missed Layup.,3,0,3,29,0.6229329729445005,0.5695978763155807,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,15,1,18:03,2283,2283,James Butler Block.,3,0,3,0,0.6229329729445005,0.5695978763155807,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,16,1,17:58,2278,2278,Camren Wynter Defensive Rebound.,3,0,3,5,0.6230619954617354,0.5697640624117907,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,17,1,17:57,2277,2277,Mate Okros made Three Point Jumper. Assisted by Camren Wynter.,6,0,6,1,0.6864769118185691,0.6369264377290652,4,4,1.4,NA,NA,Drexel,made,Mate Okros,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,18,1,17:28,2248,2248,Jacob Rigoni made Three Point Jumper. Assisted by Rich Kelly.,6,3,3,29,0.6238384786165503,0.5707677243841381,4,4,1.4,NA,NA,Quinnipiac,made,Jacob Rigoni,Rich Kelly,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,19,1,17:02,2222,2222,Camren Wynter missed Three Point Jumper.,6,3,3,26,0.6245134487148007,0.5716454788876979,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,20,1,16:59,2219,2219,Kevin Marfo Defensive Rebound.,6,3,3,3,0.6245913790408494,0.5717471640502922,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,21,1,16:46,2206,2206,Rich Kelly made Layup.,6,5,1,13,0.5785113671903523,0.5242132490649751,4,4,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,22,1,16:28,2188,2188,Foul on Rich Kelly.,6,5,1,18,0.5785902373468488,0.5244215939560287,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,23,1,16:18,2178,2178,James Butler missed Jumper.,6,5,1,10,0.5786332012348608,0.5245376688636048,4,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,24,1,16:14,2174,2174,James Butler Offensive Rebound.,6,5,1,4,0.5786502057899813,0.5245841565133473,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,25,1,16:05,2165,2165,Sam Green missed Layup.,6,5,1,9,0.5786881034498497,0.5246888872821309,4,4,1.4,NA,NA,Drexel,missed,Sam Green,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,26,1,16:05,2165,2165,Jacob Rigoni Block.,6,5,1,0,0.5786881034498497,0.5246888872821309,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,27,1,16:01,2161,2161,Sam Green Offensive Rebound.,6,5,1,4,0.5787048259331714,0.5247355256734755,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,28,1,15:58,2158,2158,Sam Green made Three Point Jumper. Assisted by James Butler.,9,5,4,3,0.6490805636280156,0.5978833475821144,4,4,1.4,NA,NA,Drexel,made,Sam Green,James Butler,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,29,1,15:41,2141,2141,Rich Kelly made Layup. Assisted by Tyrese Williams.,9,7,2,17,0.6029470194772675,0.5498150985748921,4,4,1.4,NA,NA,Quinnipiac,made,Rich Kelly,Tyrese Williams,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,30,1,15:28,2128,2128,Zach Walton missed Three Point Jumper.,9,7,2,13,0.6031459191055136,0.5501189748240702,4,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,31,1,15:23,2123,2123,Tyrese Williams Defensive Rebound.,9,7,2,5,0.6032224475451126,0.5502362343092052,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,32,1,15:14,2114,2114,Tyrese Williams made Jumper.,9,9,0,9,0.5540395171545565,0.5,4,4,1.4,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,33,1,14:53,2093,2093,James Butler made Jumper. Assisted by Sam Green.,11,9,2,21,0.6036822863111856,0.550944553294396,4,4,1.4,NA,NA,Drexel,made,James Butler,Sam Green,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,34,1,14:29,2069,2069,Jacob Rigoni made Three Point Jumper. Assisted by Rich Kelly.,11,12,-1,24,0.528012963810743,0.4741725126841792,4,4,1.4,NA,NA,Quinnipiac,made,Jacob Rigoni,Rich Kelly,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,35,1,14:01,2041,2041,Camren Wynter made Jumper. Assisted by James Butler.,13,12,1,28,0.5791821669872698,0.5261683416298986,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,James Butler,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,36,1,13:42,2022,2022,Rich Kelly made Three Point Jumper.,13,15,-2,19,0.5006483972238084,0.44734232206351526,4,4,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,37,1,13:21,2001,2001,Mate Okros made Three Point Jumper. Assisted by James Butler.,16,15,1,21,0.5793350059642132,0.5266634079983812,4,4,1.4,NA,NA,Drexel,made,Mate Okros,James Butler,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,38,1,13:03,1983,1983,Tyrese Williams missed Layup.,16,15,1,18,0.579403501659137,0.5268895638080849,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,39,1,13:00,1980,1980,Kevin Marfo Offensive Rebound.,16,15,1,3,0.5794149159321053,0.5269274710676524,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,40,1,12:59,1979,1979,Aaron Falzon made Three Point Jumper. Assisted by Kevin Marfo.,16,18,-2,1,0.4991982036215572,0.4462757244970491,4,4,1.4,NA,NA,Quinnipiac,made,Aaron Falzon,Kevin Marfo,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,41,1,12:42,1962,1962,Mate Okros missed Layup.,16,18,-2,17,0.4986143391575219,0.44584725390703656,4,4,1.4,NA,NA,Drexel,missed,Mate Okros,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,42,1,12:39,1959,1959,Kevin Marfo Defensive Rebound.,16,18,-2,3,0.49851066799596966,0.4457712209062565,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,43,1,12:35,1955,1955,Tyrese Williams missed Three Point Jumper.,16,18,-2,4,0.49837213989083007,0.44566964359135686,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,44,1,12:31,1951,1951,Sam Green Defensive Rebound.,16,18,-2,4,0.49823326749926605,0.44556783577606635,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,45,1,12:23,1943,1943,Camren Wynter made Jumper.,18,18,0,8,0.5526144836851243,0.5,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,46,1,11:59,1919,1919,Rich Kelly missed Three Point Jumper.,18,18,0,24,0.5523981399769357,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,47,1,11:56,1916,1916,Kevin Marfo Offensive Rebound.,18,18,0,3,0.5523707380323881,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,48,1,11:54,1914,1914,Kevin Marfo made Layup.,18,20,-2,2,0.49693424331750113,0.4446173765687488,4,4,1.4,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,49,1,11:36,1896,1896,Foul on Kevin Marfo.,18,20,-2,18,0.49629738464277884,0.44415465114484476,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,50,1,11:36,1896,1896,Official TV Timeout,18,20,-2,0,0.49629738464277884,0.44415465114484476,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,51,1,11:36,1896,1896,Camren Wynter missed Free Throw.,18,20,-2,0,0.49629738464277884,0.44415465114484476,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,52,1,11:36,1896,1896,Drexel Offensive Rebound.,18,20,-2,0,0.49629738464277884,0.44415465114484476,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,53,1,11:36,1896,1896,Camren Wynter made Free Throw.,19,20,-1,0,0.524317777161143,0.47198969560286097,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,54,1,11:36,1896,1896,Camren Wynter made Free Throw.,20,20,0,0,0.5521858962118635,0.5,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,55,1,11:20,1880,1880,Matt Balanc made Jumper.,20,22,-2,16,0.4957288255067001,0.4437434330471567,4,4,1.4,NA,NA,Quinnipiac,made,Matt Balanc,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,56,1,10:51,1851,1851,Foul on Aaron Falzon.,20,22,-2,29,0.4946906084626634,0.4429962185474866,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,57,1,10:51,1851,1851,Official TV Timeout,20,22,-2,0,0.4946906084626634,0.4429962185474866,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,58,1,10:51,1851,1851,James Butler missed Free Throw.,20,22,-2,0,0.4946906084626634,0.4429962185474866,4,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,59,1,10:51,1851,1851,Drexel Offensive Rebound.,20,22,-2,0,0.4946906084626634,0.4429962185474866,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,60,1,10:51,1851,1851,James Butler made Free Throw.,21,22,-1,0,0.5232998707374733,0.4714048875175046,4,4,1.4,NA,NA,Drexel,made,James Butler,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,61,1,10:22,1822,1822,Seth Pinkney made Dunk. Assisted by Matt Balanc.,21,24,-3,29,0.46469048849788025,0.41384483790795645,4,4,1.4,NA,NA,Quinnipiac,made,Seth Pinkney,Matt Balanc,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,62,1,9:58,1798,1798,Matey Juric made Layup. Assisted by James Butler.,23,24,-1,24,0.5220704218525187,0.4707065260419012,4,4,1.4,NA,NA,Drexel,made,Matey Juric,James Butler,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,63,1,9:31,1771,1771,Aaron Falzon missed Layup.,23,24,-1,27,0.5214289723512002,0.4703432783343376,4,4,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,64,1,9:29,1769,1769,Seth Pinkney Offensive Rebound.,23,24,-1,2,0.521381008952362,0.47031610880414665,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,65,1,9:29,1769,1769,Foul on T.J. Bickerstaff.,23,24,-1,0,0.521381008952362,0.47031610880414665,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,66,1,9:29,1769,1769,Seth Pinkney missed Free Throw.,23,24,-1,0,0.521381008952362,0.47031610880414665,4,4,1.4,NA,NA,Quinnipiac,missed,Seth Pinkney,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,67,1,9:29,1769,1769,Quinnipiac Offensive Rebound.,23,24,-1,0,0.521381008952362,0.47031610880414665,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,68,1,9:29,1769,1769,Seth Pinkney made Free Throw.,23,25,-2,0,0.4916759856964874,0.440840726454833,4,4,1.4,NA,NA,Quinnipiac,made,Seth Pinkney,NA,FALSE,TRUE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,71,1,9:14,1754,1754,Matt Balanc Defensive Rebound.,23,25,-2,4,0.4911079045097646,0.4404349281495561,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,72,1,9:06,1746,1746,Tyrese Williams missed Layup.,23,25,-2,8,0.4908024039795775,0.44021655583996494,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,73,1,9:03,1743,1743,Camren Wynter Defensive Rebound.,23,25,-2,3,0.49068736992350975,0.440134295294614,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,74,1,8:59,1739,1739,Camren Wynter made Layup.,25,25,0,4,0.5506242616661132,0.5,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,75,1,8:43,1723,1723,Brendan Mcguire made Dunk. Assisted by Jacob Rigoni.,25,27,-2,16,0.4899135950583719,0.43958035874101997,4,4,1.4,NA,NA,Quinnipiac,made,Brendan Mcguire,Jacob Rigoni,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,76,1,8:15,1695,1695,Camren Wynter Turnover.,25,27,-2,28,0.4888087124089334,0.4387869416284818,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,77,1,8:15,1695,1695,Jacob Rigoni Steal.,25,27,-2,0,0.4888087124089334,0.4387869416284818,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,78,1,8:10,1690,1690,Matt Balanc Turnover.,25,27,-2,5,0.48860857003731095,0.4386428399251379,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,79,1,7:50,1670,1670,Zach Walton made Jumper.,27,27,0,20,0.5498885304028548,0.5,4,4,1.4,NA,NA,Drexel,made,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,80,1,7:29,1649,1649,Foul on Tadas Kararinas.,27,27,0,21,0.549653482187958,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,81,1,7:29,1649,1649,Official TV Timeout,27,27,0,0,0.549653482187958,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,82,1,7:27,1647,1647,Rich Kelly missed Layup.,27,27,0,2,0.549630759609256,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,83,1,7:15,1635,1635,Kevin Marfo Offensive Rebound.,27,27,0,12,0.549493287091809,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,84,1,7:14,1634,1634,Kevin Marfo made Layup.,27,29,-2,1,0.48639560151775474,0.43708326980961426,4,4,1.4,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,85,1,7:09,1629,1629,Zach Walton Turnover.,27,29,-2,5,0.4861998802206217,0.4369480454900342,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,86,1,7:09,1629,1629,Rich Kelly Steal.,27,29,-2,0,0.4861998802206217,0.4369480454900342,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,87,1,7:01,1621,1621,Jacob Rigoni missed Three Point Jumper.,27,29,-2,8,0.48588681939103334,0.4367324083189744,4,4,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,88,1,6:58,1618,1618,Kevin Marfo Offensive Rebound.,27,29,-2,3,0.48576941124423345,0.4366517256120925,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,89,1,6:54,1614,1614,Rich Kelly missed Three Point Jumper.,27,29,-2,4,0.4856128265244298,0.43654426444487016,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,90,1,6:52,1612,1612,T.J. Bickerstaff Defensive Rebound.,27,29,-2,2,0.4855345086322889,0.43649057371072647,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,91,1,6:32,1592,1592,Zach Walton missed Jumper.,27,29,-2,20,0.4847495287870695,0.4359540931918966,4,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,92,1,6:28,1588,1588,Kevin Marfo Defensive Rebound.,27,29,-2,4,0.4845919512466406,0.4358466646362419,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,93,1,6:23,1583,1583,Rich Kelly missed Layup.,27,29,-2,5,0.4843946080963569,0.4357121989662213,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,94,1,6:20,1580,1580,Kevin Marfo Offensive Rebound.,27,29,-2,3,0.4842759824605767,0.43563139757227176,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,95,1,6:19,1579,1579,Kevin Marfo missed Layup.,27,29,-2,1,0.48423640123803313,0.435604440192275,4,4,1.4,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,96,1,6:16,1576,1576,James Butler Defensive Rebound.,27,29,-2,3,0.4841175331930736,0.43552348972416444,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,97,1,6:15,1575,1575,Foul on T.J. Bickerstaff.,27,29,-2,1,0.48407786754155474,0.43549647832037314,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,98,1,6:15,1575,1575,T.J. Bickerstaff Turnover.,27,29,-2,0,0.48407786754155474,0.43549647832037314,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,99,1,5:55,1555,1555,Aaron Falzon missed Three Point Jumper.,27,29,-2,20,0.48327928137196174,0.43495240982014094,4,4,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,100,1,5:51,1551,1551,Tim Perry Jr. Defensive Rebound.,27,29,-2,4,0.483118177619002,0.4348425018729785,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,101,1,5:40,1540,1540,Tim Perry Jr. made Layup. Assisted by Camren Wynter.,29,29,0,11,0.5483538619504871,0.5,4,4,1.4,NA,NA,Drexel,made,Tim Perry Jr.,Camren Wynter,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,102,1,5:24,1524,1524,Rich Kelly Turnover.,29,29,0,16,0.5481565216448301,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,103,1,5:00,1500,1500,Zach Walton missed Layup.,29,29,0,24,0.5478596448374318,0.5,4,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,104,1,4:57,1497,1497,Kevin Marfo Defensive Rebound.,29,29,0,3,0.5478225178774676,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,105,1,4:39,1479,1479,Jacob Rigoni missed Three Point Jumper.,29,29,0,18,0.5475999474029499,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,106,1,4:35,1475,1475,Kevin Marfo Offensive Rebound.,29,29,0,4,0.547550567055075,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,107,1,4:23,1463,1463,Tyrese Williams missed Three Point Jumper.,29,29,0,12,0.5474027045699863,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,108,1,4:20,1460,1460,Zach Walton Defensive Rebound.,29,29,0,3,0.5473658179305452,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,109,1,4:03,1443,1443,Camren Wynter missed Jumper.,29,29,0,17,0.5471571397590517,0.5,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,110,1,3:59,1439,1439,Tyrese Williams Defensive Rebound.,29,29,0,4,0.5471077351456898,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,111,1,3:41,1421,1421,Jacob Rigoni made Layup.,29,31,-2,18,0.47748773305137154,0.43089627031507555,4,4,1.4,NA,NA,Quinnipiac,made,Jacob Rigoni,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,112,1,3:14,1394,1394,Sam Green Turnover.,29,31,-2,27,0.4762995902611499,0.4300678356695426,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,113,1,3:14,1394,1394,Tyrese Williams Steal.,29,31,-2,0,0.4762995902611499,0.4300678356695426,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,114,1,3:10,1390,1390,Tyrese Williams made Layup.,29,33,-4,4,0.4066962255914382,0.3625913694567498,4,4,1.4,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,115,1,3:10,1390,1390,Drexel  Timeout,29,33,-4,0,0.4066962255914382,0.3625913694567498,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,116,1,3:09,1389,1389,James Butler missed Layup.,29,33,-4,1,0.4066243496857884,0.36253451618857224,3,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,117,1,3:09,1389,1389,Seth Pinkney Block.,29,33,-4,0,0.4066243496857884,0.36253451618857224,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,118,1,3:06,1386,1386,James Butler Offensive Rebound.,29,33,-4,3,0.40640891027493825,0.36236418138472415,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,119,1,3:05,1385,1385,James Butler missed Layup.,29,33,-4,1,0.4063371537933165,0.36230747203675856,3,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,120,1,3:05,1385,1385,Seth Pinkney Block.,29,33,-4,0,0.4063371537933165,0.36230747203675856,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,121,1,3:05,1385,1385,Quinnipiac Defensive Rebound.,29,33,-4,0,0.4063371537933165,0.36230747203675856,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,122,1,2:31,1351,1351,Aaron Falzon missed Three Point Jumper.,29,33,-4,34,0.4039004959127927,0.3603861464999899,3,4,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,123,1,2:26,1346,1346,James Butler Defensive Rebound.,29,33,-4,5,0.4035402924114407,0.36010235345144176,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,124,1,2:14,1334,1334,James Butler missed Three Point Jumper.,29,33,-4,12,0.40267069009303713,0.3594168132664419,3,4,1.4,NA,NA,Drexel,missed,James Butler,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,125,1,2:09,1329,1329,Aaron Falzon Defensive Rebound.,29,33,-4,5,0.4023056596324596,0.35912876171457214,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,126,1,2:04,1324,1324,Foul on Camren Wynter.,29,33,-4,5,0.40193871119153385,0.35883896321559444,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,127,1,1:53,1313,1313,Brendan Mcguire Turnover.,29,33,-4,11,0.4011235601867117,0.3581941531952391,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,128,1,1:53,1313,1313,Zach Walton Steal.,29,33,-4,0,0.4011235601867117,0.3581941531952391,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,129,1,1:44,1304,1304,Zach Walton missed Layup.,29,33,-4,9,0.4004472227368341,0.357657822111005,3,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,130,1,1:41,1301,1301,Rich Kelly Defensive Rebound.,29,33,-4,3,0.40021964939394233,0.35747704703407934,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,131,1,1:36,1296,1296,Foul on Mate Okros.,29,33,-4,5,0.3998377929981255,0.3571733334671609,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,132,1,1:25,1285,1285,Rich Kelly missed Jumper.,29,33,-4,11,0.39898541298332896,0.35649351827833475,3,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,133,1,1:22,1282,1282,Camren Wynter Defensive Rebound.,29,33,-4,3,0.3987497734641987,0.35630509946474964,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,134,1,1:19,1279,1279,Sam Green made Three Point Jumper. Assisted by Camren Wynter.,32,33,-1,3,0.5081324627035964,0.4630509098834276,3,4,1.4,NA,NA,Drexel,made,Sam Green,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,135,1,0:53,1253,1253,Matt Balanc missed Three Point Jumper.,32,33,-1,26,0.5073164765726781,0.4625869106622496,3,4,1.4,NA,NA,Quinnipiac,missed,Matt Balanc,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,136,1,0:50,1250,1250,James Butler Defensive Rebound.,32,33,-1,3,0.5072200191810607,0.4625310535068909,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,137,1,0:44,1244,1244,Camren Wynter missed Three Point Jumper.,32,33,-1,6,0.5070255403646159,0.46241774615577314,3,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,TRUE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,138,1,0:40,1240,1240,James Butler Offensive Rebound.,32,33,-1,4,0.5068946926141631,0.4623409855902041,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,139,1,0:37,1237,1237,Sam Green missed Three Point Jumper.,32,33,-1,3,0.5067959100698741,0.4622827512365301,3,4,1.4,NA,NA,Drexel,missed,Sam Green,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,140,1,0:34,1234,1234,Brendan Mcguire Defensive Rebound.,32,33,-1,3,0.5066965604931463,0.4622239331614002,3,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,141,1,0:32,1232,1232,Quinnipiac  Timeout,32,33,-1,2,0.5066300067834245,0.4621843903160427,3,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,142,1,0:20,1220,1220,Tyrese Williams missed Layup.,32,33,-1,12,0.5062250960930447,0.4619413436752057,3,3,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,143,1,0:17,1217,1217,Mate Okros Defensive Rebound.,32,33,-1,3,0.5061223175811118,0.4618789690503707,3,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,144,1,0:00,1200,1200,Camren Wynter missed Jumper.,32,33,-1,17,0.5055339164616045,0.4615187446422248,3,3,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,145,1,0:00,1200,1200,Kevin Marfo Defensive Rebound.,32,33,-1,0,0.5055339164616045,0.4615187446422248,3,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,146,1,0:00,1200,1200,End of 1st half,32,33,-1,0,0.5055339164616045,0.4615187446422248,3,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA
+401171780,2019-12-20,Drexel,Quinnipiac,147,2,20:00,1200,1200,PLAY,32,33,-1,0,0.5055339164616045,0.4615187446422248,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,148,2,19:46,1186,1186,Tyrese Williams made Layup.,32,35,-3,14,0.4278659690926232,0.3855182299633913,4,4,1.4,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,149,2,19:27,1167,1167,Sam Green made Three Point Jumper. Assisted by Camren Wynter.,35,35,0,19,0.5435472182666884,0.5,4,4,1.4,NA,NA,Drexel,made,Sam Green,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,150,2,19:14,1154,1154,Rich Kelly Turnover.,35,35,0,13,0.5433789484606445,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,151,2,18:54,1134,1134,Camren Wynter missed Jumper.,35,35,0,20,0.5431208537920709,0.5,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,152,2,18:51,1131,1131,Tyrese Williams Defensive Rebound.,35,35,0,3,0.5430821829481619,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,153,2,18:34,1114,1114,Tyrese Williams missed Three Point Jumper.,35,35,0,17,0.5428630515492875,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,154,2,18:30,1110,1110,Sam Green Defensive Rebound.,35,35,0,4,0.5428114608823787,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,155,2,18:14,1094,1094,Sam Green missed Three Point Jumper.,35,35,0,16,0.5426047995265605,0.5,4,4,1.4,NA,NA,Drexel,missed,Sam Green,NA,TRUE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,156,2,18:11,1091,1091,James Butler Offensive Rebound.,35,35,0,3,0.5425659770391852,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,157,2,18:10,1090,1090,James Butler missed Layup.,35,35,0,1,0.5425530298157286,0.5,4,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,158,2,18:10,1090,1090,Rich Kelly Block.,35,35,0,0,0.5425530298157286,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,159,2,17:58,1078,1078,Sam Green Offensive Rebound.,35,35,0,12,0.5423973751361949,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,160,2,17:57,1077,1077,Kevin Marfo missed Layup.,35,35,0,1,0.5423843770968737,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,161,2,17:57,1077,1077,James Butler Block.,35,35,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,162,2,17:57,1077,1077,Kevin Marfo Offensive Rebound.,35,35,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,163,2,17:57,1077,1077,Kevin Marfo missed Layup.,35,35,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,164,2,17:57,1077,1077,James Butler Block.,35,35,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,165,2,17:57,1077,1077,James Butler Defensive Rebound.,35,35,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,166,2,17:57,1077,1077,Sam Green Turnover.,38,38,0,0,0.5423843770968737,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,167,2,17:53,1073,1073,Mate Okros made Three Point Jumper. Assisted by Sam Green.,38,35,3,4,0.6600082016932142,0.6209529734601266,4,4,1.4,NA,NA,Drexel,made,Mate Okros,Sam Green,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,168,2,17:13,1033,1033,Foul on Camren Wynter.,38,35,3,40,0.6619388382061905,0.6234759938471366,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,169,2,17:13,1033,1033,Rich Kelly missed Free Throw.,38,35,3,0,0.6619388382061905,0.6234759938471366,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,170,2,17:13,1033,1033,Quinnipiac Offensive Rebound.,38,35,3,0,0.6619388382061905,0.6234759938471366,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,171,2,17:13,1033,1033,Rich Kelly missed Free Throw.,38,35,3,0,0.6619388382061905,0.6234759938471366,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,172,2,17:13,1033,1033,James Butler Defensive Rebound.,38,35,3,0,0.6619388382061905,0.6234759938471366,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,173,2,16:59,1019,1019,James Butler missed Jumper.,38,35,3,14,0.6626777100648497,0.6244278396872737,4,4,1.4,NA,NA,Drexel,missed,James Butler,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,174,2,16:55,1015,1015,Kevin Marfo Defensive Rebound.,38,35,3,4,0.6628960198449744,0.6247076555072557,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,175,2,16:51,1011,1011,Aaron Falzon made Three Point Jumper. Assisted by Rich Kelly.,38,38,0,4,0.5415119775173528,0.5,4,4,1.4,NA,NA,Quinnipiac,made,Aaron Falzon,Rich Kelly,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,176,2,16:18,978,978,Zach Walton missed Three Point Jumper.,38,38,0,33,0.5410599841115761,0.5,4,4,1.4,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,177,2,16:12,972,972,Drexel Offensive Rebound.,38,38,0,6,0.5409762915776358,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,178,2,16:09,969,969,Drexel  Turnover.,38,38,0,3,0.5409342854409279,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,179,2,15:58,958,958,Rich Kelly missed Jumper.,38,38,0,11,0.5407834946966422,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,180,2,15:58,958,958,Camren Wynter Defensive Rebound.,38,38,0,0,0.5407834946966422,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,181,2,15:58,958,958,Camren Wynter Turnover.,38,38,0,0,0.5407834946966422,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,182,2,15:58,958,958,Official TV Timeout,38,38,0,0,0.5407834946966422,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,183,2,15:37,937,937,Tyrese Williams missed Three Point Jumper.,38,38,0,21,0.5405098512308839,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,184,2,15:35,935,935,Drexel Defensive Rebound.,38,38,0,2,0.5404846347391787,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,185,2,15:19,919,919,Foul on Rich Kelly.,38,38,0,16,0.5402872633243808,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,186,2,15:18,918,918,Camren Wynter missed Jumper.,38,38,0,1,0.5402751582936278,0.5,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,187,2,15:15,915,915,Drexel Offensive Rebound.,38,38,0,3,0.5402389861885004,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,188,2,14:58,898,898,Foul on Tyrese Williams.,38,38,0,17,0.5400374716657538,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,189,2,14:58,898,898,Camren Wynter made Free Throw.,39,38,1,0,0.584776865274849,0.5453551811468756,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,190,2,14:58,898,898,Camren Wynter made Free Throw.,40,38,2,0,0.6281608959156566,0.5899700554044858,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,191,2,14:50,890,890,Brendan Mcguire Turnover.,40,38,2,8,0.628400982933236,0.590309514461411,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,192,2,14:50,890,890,Matey Juric Steal.,40,38,2,0,0.628400982933236,0.590309514461411,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,193,2,14:45,885,885,Foul on Matt Balanc.,40,38,2,5,0.628550270575511,0.5905205301027686,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,194,2,14:45,885,885,Zach Walton made Free Throw.,41,38,3,0,0.6701937060691556,0.6339445005554973,4,4,1.4,NA,NA,Drexel,made,Zach Walton,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,195,2,14:45,885,885,Zach Walton made Free Throw.,42,38,4,0,0.7093274944988938,0.675295595352952,4,4,1.4,NA,NA,Drexel,made,Zach Walton,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,196,2,14:24,864,864,Foul on James Butler.,42,38,4,21,0.7106409194652836,0.6769057356851473,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,197,2,14:24,864,864,Kevin Marfo missed Free Throw.,42,38,4,0,0.7106409194652836,0.6769057356851473,4,4,1.4,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,198,2,14:24,864,864,Quinnipiac Offensive Rebound.,42,38,4,0,0.7106409194652836,0.6769057356851473,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,199,2,14:24,864,864,Kevin Marfo made Free Throw.,42,39,3,0,0.6711965546164124,0.6352232358515866,4,4,1.4,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,TRUE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,200,2,13:52,832,832,Camren Wynter missed Jumper.,42,39,3,32,0.6728170851545667,0.6372717592005049,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,201,2,13:48,828,828,Quinnipiac Defensive Rebound.,42,39,3,4,0.6730341120327051,0.637543892466035,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,202,2,13:34,814,814,Aaron Falzon made Three Point Jumper. Assisted by Brendan Mcguire.,42,42,0,14,0.5390550989047359,0.5,4,4,1.4,NA,NA,Quinnipiac,made,Aaron Falzon,Brendan Mcguire,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,203,2,13:13,793,793,T.J. Bickerstaff missed Three Point Jumper.,42,42,0,21,0.5387907044442031,0.5,4,4,1.4,NA,NA,Drexel,missed,T.J. Bickerstaff,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,204,2,13:10,790,790,Brendan Mcguire Defensive Rebound.,42,42,0,3,0.5387516758448355,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,205,2,13:03,783,783,Matt Balanc missed Layup.,42,42,0,7,0.5386592062796061,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Matt Balanc,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,206,2,13:00,780,780,Brendan Mcguire Offensive Rebound.,42,42,0,3,0.5386189429296756,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,207,2,12:58,778,778,Aaron Falzon missed Three Point Jumper.,42,42,0,2,0.5385918795717038,0.5,4,4,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,208,2,12:58,778,778,Seth Pinkney Offensive Rebound.,42,42,0,0,0.5385918795717038,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,209,2,12:58,778,778,Foul on James Butler.,42,42,0,0,0.5385918795717038,0.5,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,210,2,12:51,771,771,Rich Kelly made Layup.,42,44,-2,7,0.4414234425708971,0.40379548433958873,4,4,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,211,2,12:28,748,748,Foul on Rich Kelly.,42,44,-2,23,0.4394161423688492,0.40215905808116587,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,212,2,12:25,745,745,Foul on Tyrese Williams.,42,44,-2,3,0.4391325698941873,0.4019265485404912,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,213,2,12:05,725,725,Camren Wynter missed Three Point Jumper.,42,44,-2,20,0.4371160933854218,0.4002666447891116,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,TRUE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,214,2,12:01,721,721,Zach Walton Offensive Rebound.,42,44,-2,4,0.436716567656637,0.3999387634857926,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,215,2,11:55,715,715,Foul on Seth Pinkney.,42,44,-2,6,0.4361366749956569,0.399464770218895,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,216,2,11:55,715,715,Technical Foul on Seth Pinkney.,42,44,-2,0,0.4361366749956569,0.399464770218895,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,217,2,11:55,715,715,Official TV Timeout,42,44,-2,0,0.4361366749956569,0.399464770218895,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,218,2,11:55,715,715,Camren Wynter made Free Throw.,43,44,-1,0,0.48675101312401464,0.44921377602766893,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,219,2,11:55,715,715,Camren Wynter missed Free Throw.,43,44,-1,0,0.48675101312401464,0.44921377602766893,4,4,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,220,2,11:55,715,715,Drexel Offensive Rebound.,43,44,-1,0,0.48675101312401464,0.44921377602766893,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,221,2,11:40,700,700,Zach Walton made Jumper.,45,44,1,15,0.5880855821096628,0.5513564629837687,4,4,1.4,NA,NA,Drexel,made,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,222,2,11:23,683,683,Brendan Mcguire Turnover.,45,44,1,17,0.5884168794030908,0.5519511677185919,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,223,2,11:01,661,661,Zach Walton Turnover.,45,44,1,22,0.5888103044611738,0.5526815889280128,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,224,2,11:01,661,661,Kevin Marfo Steal.,45,44,1,0,0.5888103044611738,0.5526815889280128,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,225,2,10:53,653,653,Tyrese Williams missed Layup.,45,44,1,8,0.588952061946561,0.5529464810564814,4,4,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,226,2,10:49,649,649,Drexel Defensive Rebound.,45,44,1,4,0.5890239187444499,0.5530802656998836,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,227,2,10:27,627,627,Zach Walton made Layup. Assisted by Camren Wynter.,47,44,3,22,0.6887213938083455,0.6567201730620184,4,4,1.4,NA,NA,Drexel,made,Zach Walton,Camren Wynter,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,228,2,10:07,607,607,Brendan Mcguire Turnover.,47,44,3,20,0.6904789104661395,0.6588626473273629,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,229,2,10:07,607,607,Matey Juric Steal.,47,44,3,0,0.6904789104661395,0.6588626473273629,4,4,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,230,2,10:02,602,602,Camren Wynter made Layup. Assisted by Matey Juric.,49,44,5,5,0.7764624047093315,0.7505182572354953,4,4,1.4,NA,NA,Drexel,made,Camren Wynter,Matey Juric,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,231,2,10:01,601,601,Quinnipiac  Timeout,49,44,5,1,0.7766042652250088,0.7506841071132255,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,232,2,9:38,578,578,Jacob Rigoni missed Jumper.,49,44,5,23,0.7802077996393811,0.7548780177253415,4,3,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,233,2,9:37,577,577,Drexel Defensive Rebound.,49,44,5,1,0.7803809247710423,0.7550786751677042,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,234,2,9:24,564,564,Zach Walton missed Three Point Jumper.,49,44,5,13,0.7827739986579954,0.7578458184072355,4,3,1.4,NA,NA,Drexel,missed,Zach Walton,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,235,2,9:20,560,560,Kevin Marfo Defensive Rebound.,49,44,5,4,0.7835666262219072,0.7587599319777902,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,236,2,9:03,543,543,Foul on Tim Perry Jr..,49,44,5,17,0.7871415026124562,0.7628753989636861,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,237,2,8:56,536,536,Jacob Rigoni made Three Point Jumper. Assisted by Kevin Marfo.,49,47,2,7,0.6478367763224737,0.615583057284083,4,3,1.4,NA,NA,Quinnipiac,made,Jacob Rigoni,Kevin Marfo,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,238,2,8:32,512,512,Zach Walton missed Layup.,49,47,2,24,0.64975699797654,0.6180212419111969,4,3,1.4,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,239,2,8:29,509,509,Tim Perry Jr. Offensive Rebound.,49,47,2,3,0.6499772289977783,0.6183047001285601,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,240,2,8:27,507,507,Zach Walton missed Layup.,49,47,2,2,0.6501232387642143,0.6184928334975283,4,3,1.4,NA,NA,Drexel,missed,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,241,2,8:25,505,505,Kevin Marfo Defensive Rebound.,49,47,2,2,0.6502689141768625,0.6186806409786187,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,242,2,8:25,505,505,Foul on Zach Walton.,49,47,2,0,0.6502689141768625,0.6186806409786187,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,243,2,8:15,495,495,Rich Kelly made Layup. Assisted by Aaron Falzon.,49,49,0,10,0.5338202239306159,0.5,4,3,1.4,NA,NA,Quinnipiac,made,Rich Kelly,Aaron Falzon,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,244,2,7:51,471,471,Matey Juric missed Three Point Jumper.,49,49,0,24,0.5333357305193891,0.5,4,3,1.4,NA,NA,Drexel,missed,Matey Juric,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,245,2,7:47,467,467,Jacob Rigoni Defensive Rebound.,49,49,0,4,0.5332510335773117,0.5,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,246,2,7:36,456,456,Jacob Rigoni missed Layup.,49,49,0,11,0.5330099890412506,0.5,4,3,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,247,2,7:33,453,453,James Butler Defensive Rebound.,49,49,0,3,0.5329419090428963,0.5,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,248,2,7:29,449,449,Matey Juric made Three Point Jumper. Assisted by Camren Wynter.,52,49,3,4,0.7105026335144696,0.6827068253182516,4,3,1.4,NA,NA,Drexel,made,Matey Juric,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,249,2,7:07,427,427,Foul on Kevin Marfo.,52,49,3,22,0.7151108642857417,0.6880373796582594,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,250,2,7:07,427,427,Kevin Marfo Turnover.,52,49,3,0,0.7151108642857417,0.6880373796582594,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,251,2,7:05,425,425,Official TV Timeout,52,49,3,2,0.7155641482547143,0.6885609321070836,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,252,2,6:41,401,401,Matey Juric made Layup. Assisted by James Butler.,54,49,5,24,0.816723536676589,0.7970296363988869,4,3,1.4,NA,NA,Drexel,made,Matey Juric,James Butler,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,253,2,6:20,380,380,Rich Kelly made Jumper.,54,51,3,21,0.7246728212769947,0.6992688360598689,4,3,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,254,2,6:01,361,361,Camren Wynter missed Jumper.,54,51,3,19,0.7287089224941586,0.7040315775300787,4,3,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,255,2,5:58,358,358,Seth Pinkney Defensive Rebound.,54,51,3,3,0.7294001120575601,0.7048424816599355,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,256,2,5:41,341,341,Aaron Falzon missed Three Point Jumper.,54,51,3,17,0.7337190560895527,0.7098717059474245,4,3,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,257,2,5:36,336,336,Camren Wynter Defensive Rebound.,54,51,3,5,0.7351443710558243,0.7115174950606639,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,258,2,5:33,333,333,Matey Juric missed Layup.,54,51,3,3,0.7360386706057412,0.7125468687634497,4,3,1.4,NA,NA,Drexel,missed,Matey Juric,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,259,2,5:30,330,330,Tyrese Williams Defensive Rebound.,54,51,3,3,0.7369639902476188,0.7136094401519373,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,260,2,5:29,329,329,Tyrese Williams Turnover.,54,51,3,1,0.7372795582160971,0.7139712545307383,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,261,2,5:24,324,324,Zach Walton Turnover.,54,51,3,5,0.7389130824156618,0.7158398429034915,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,262,2,5:12,312,312,Rich Kelly missed Layup.,54,51,3,12,0.743241393061554,0.7207598696323805,4,3,1.4,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,263,2,5:12,312,312,Zach Walton Block.,54,51,3,0,0.743241393061554,0.7207598696323805,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,264,2,5:08,308,308,Zach Walton Defensive Rebound.,54,51,3,4,0.744763178132003,0.7224845927913807,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,265,2,5:02,302,302,Camren Wynter missed Jumper.,54,51,3,6,0.7464205262819386,0.7244104382247627,4,3,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,266,2,4:57,297,297,Kevin Marfo Defensive Rebound.,54,51,3,5,0.7472230508777126,0.725403495604033,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,267,2,4:35,275,275,Brendan Mcguire missed Jumper.,54,51,3,22,0.746247183070978,0.7250167587926902,4,3,1.4,NA,NA,Quinnipiac,missed,Brendan Mcguire,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,268,2,4:32,272,272,Drexel Defensive Rebound.,54,51,3,3,0.7457385125179262,0.7245692869844504,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,269,2,4:11,251,251,Matey Juric made Three Point Jumper. Assisted by Zach Walton.,57,51,6,21,0.8811529078230965,0.8696387628635677,4,3,1.4,NA,NA,Drexel,made,Matey Juric,Zach Walton,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,270,2,3:56,236,236,Foul on Matey Juric.,57,51,6,15,0.8795812204729726,0.8682065488073258,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,271,2,3:56,236,236,Official TV Timeout,57,51,6,0,0.8795812204729726,0.8682065488073258,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,272,2,3:56,236,236,Rich Kelly made Free Throw.,57,52,5,0,0.8421444870169283,0.8279253729841266,4,3,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,273,2,3:56,236,236,Rich Kelly made Free Throw.,57,53,4,0,0.7957714818125142,0.7784740309067586,4,3,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,274,2,3:31,211,211,Camren Wynter made Jumper.,59,53,6,25,0.8853988164804375,0.874957192796394,4,3,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,275,2,3:08,188,188,Tyrese Williams missed Layup.,59,53,6,23,0.9045249294256291,0.8960255455346585,4,3,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,276,2,3:07,187,187,James Butler Defensive Rebound.,59,53,6,1,0.9055836157675277,0.8971861345276805,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,277,2,3:07,187,187,Foul on Kevin Marfo.,59,53,6,0,0.9055836157675277,0.8971861345276805,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,278,2,3:07,187,187,James Butler made Free Throw.,60,53,7,0,0.9322591970047471,0.9260404993094348,4,3,1.4,NA,NA,Drexel,made,James Butler,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,279,2,3:07,187,187,James Butler made Free Throw.,61,53,8,0,0.9517992413342252,0.9472728915971552,4,3,1.4,NA,NA,Drexel,made,James Butler,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,280,2,2:57,177,177,Tyrese Williams missed Three Point Jumper.,61,53,8,10,0.9588912595192535,0.9550857467172944,4,3,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,281,2,2:53,173,173,Camren Wynter Defensive Rebound.,61,53,8,4,0.961490691304423,0.9579480902220433,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,282,2,2:34,154,154,Matey Juric missed Three Point Jumper.,61,53,8,19,0.9723809348019339,0.9699245357682681,4,3,1.4,NA,NA,Drexel,missed,Matey Juric,NA,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,283,2,2:30,150,150,Rich Kelly Defensive Rebound.,61,53,8,4,0.9744084476274343,0.9721503801600477,4,3,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,284,2,2:26,146,146,Aaron Falzon made Three Point Jumper. Assisted by Rich Kelly.,61,56,5,4,0.9135363763258225,0.9064963112161142,4,3,1.4,NA,NA,Quinnipiac,made,Aaron Falzon,Rich Kelly,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,285,2,2:26,146,146,Quinnipiac  Timeout,61,56,5,0,0.9135363763258225,0.9064963112161142,4,2,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,286,2,1:56,116,116,Matey Juric made Three Point Jumper. Assisted by Camren Wynter.,64,56,8,30,0.9883236000599335,0.9873727386417774,4,2,1.4,NA,NA,Drexel,made,Matey Juric,Camren Wynter,TRUE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,287,2,1:38,98,98,Tyrese Williams missed Layup.,64,56,8,18,0.9932588971818143,0.9927382621562711,4,2,1.4,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,288,2,1:36,96,96,Kevin Marfo Offensive Rebound.,64,56,8,2,0.9937033199287578,0.9932201109391972,4,2,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,289,2,1:35,95,95,Kevin Marfo made Layup.,64,58,6,1,0.978974665905367,0.9773923946787585,4,2,1.4,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,290,2,1:01,61,61,Zach Walton made Jumper.,66,58,8,34,0.9983358688965577,0.99822358311674,4,2,1.4,NA,NA,Drexel,made,Zach Walton,NA,FALSE,FALSE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,291,2,0:53,53,53,Rich Kelly made Three Point Jumper.,66,61,5,8,0.985760699337479,0.9848451252732019,4,2,1.4,NA,NA,Quinnipiac,made,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,292,2,0:53,53,53,Quinnipiac  Timeout,66,61,5,0,0.985760699337479,0.9848451252732019,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,293,2,0:51,51,51,Foul on Tyrese Williams.,66,61,5,2,0.9865156342203694,0.9856556264021654,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,294,2,0:51,51,51,Camren Wynter missed Free Throw.,66,61,5,0,0.9865156342203694,0.9856556264021654,4,1,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,295,2,0:51,51,51,Drexel Offensive Rebound.,66,61,5,0,0.9865156342203694,0.9856556264021654,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,296,2,0:51,51,51,Camren Wynter made Free Throw.,67,61,6,0,0.994168532738792,0.993793541879809,4,1,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,297,2,0:39,39,39,Jacob Rigoni missed Three Point Jumper.,67,61,6,12,0.996144870374873,0.9959100570324442,4,1,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,298,2,0:36,36,36,James Butler Defensive Rebound.,67,61,6,3,0.9965401858959179,0.9963324662847965,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,299,2,0:35,35,35,Foul on Rich Kelly.,67,61,6,1,0.9966639812388796,0.9964646692060322,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,300,2,0:35,35,35,Camren Wynter missed Free Throw.,67,61,6,0,0.9966639812388796,0.9964646692060322,4,1,1.4,NA,NA,Drexel,missed,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,301,2,0:35,35,35,Drexel Offensive Rebound.,67,61,6,0,0.9966639812388796,0.9964646692060322,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,302,2,0:35,35,35,Camren Wynter made Free Throw.,68,61,7,0,0.9986945094222333,0.9986163438447522,4,1,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,303,2,0:26,26,26,Aaron Falzon missed Three Point Jumper.,68,61,7,9,0.9991182184792549,0.9990678080725697,4,1,1.4,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,304,2,0:23,23,23,James Butler Defensive Rebound.,68,61,7,3,0.9992286378398659,0.9991852439679113,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,305,2,0:23,23,23,Foul on Aaron Falzon.,68,61,7,0,0.9992286378398659,0.9991852439679113,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,306,2,0:23,23,23,Camren Wynter made Free Throw.,69,61,8,0,0.9997205906782073,0.9997048640088042,4,1,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,307,2,0:23,23,23,Camren Wynter made Free Throw.,70,61,9,0,0.9998988217632109,0.999893125831806,4,1,1.4,NA,NA,Drexel,made,Camren Wynter,NA,FALSE,TRUE,Drexel,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,308,2,0:15,15,15,Jacob Rigoni missed Three Point Jumper.,70,61,9,8,0.9999371941283762,0.9999338143579094,4,1,1.4,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,309,2,0:13,13,13,Foul on Tyrese Williams.,70,61,9,2,0.9999444871886614,0.9999415347753691,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,310,2,0:13,13,13,Mate Okros made Free Throw.,71,61,10,0,0.9999812039201611,0.999980204224043,4,1,1.4,NA,NA,Drexel,made,Mate Okros,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,311,2,0:13,13,13,Mate Okros made Free Throw.,72,61,11,0,0.9999936359908843,0.9999932975076173,4,1,1.4,NA,NA,Drexel,made,Mate Okros,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171780,2019-12-20,Drexel,Quinnipiac,313,2,0:05,5,5,Kevin Marfo made Layup. Assisted by Rich Kelly.,72,63,9,7,0.9999665787927017,0.9999648862227778,4,1,1.4,NA,NA,Quinnipiac,made,Kevin Marfo,Rich Kelly,FALSE,FALSE,Quinnipiac,Drexel
+401171780,2019-12-20,Drexel,Quinnipiac,314,2,0:00,0,0,End of 2nd half,72,72,0,5,1,1,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,NA
+401171780,2019-12-20,Drexel,Quinnipiac,315,2,0:00,0,0,End of Game,72,72,0,0,1,1,4,1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,Drexel,NA

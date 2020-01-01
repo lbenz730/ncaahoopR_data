@@ -1,0 +1,294 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172053,2019-12-21,Buffalo,Niagara,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.9287004596160722,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,2,1,19:46,2386,2386,Jayvon Graves missed Layup.,0,0,0,14,0.9284620677132928,0.5,4,4,16,NA,NA,Buffalo,missed,Jayvon Graves,NA,FALSE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,3,1,19:46,2386,2386,Raheem Solomon Block.,0,0,0,0,0.9284620677132928,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,4,1,19:42,2382,2382,Josh Mballa Offensive Rebound.,0,0,0,4,0.9283930853559601,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,5,1,19:41,2381,2381,Josh Mballa missed Layup.,0,0,0,1,0.9283757786408907,0.5,4,4,16,NA,NA,Buffalo,missed,Josh Mballa,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,6,1,19:39,2379,2379,Raheem Solomon Defensive Rebound.,0,0,0,2,0.9283410915564854,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,7,1,19:25,2365,2365,Marcus Hammond missed Jumper.,0,0,0,14,0.9280955045409238,0.5,4,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,8,1,19:22,2362,2362,Antwain Johnson Defensive Rebound.,0,0,0,3,0.9280422393130503,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,9,1,19:12,2352,2352,Antwain Johnson Turnover.,0,0,0,10,0.9278630327632965,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,10,1,19:12,2352,2352,Raheem Solomon Steal.,0,0,0,0,0.9278630327632965,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,11,1,18:46,2326,2326,Raheem Solomon made Three Point Jumper. Assisted by Steven Levnaic.,0,3,-3,26,0.9065950466450123,0.4318163477183905,4,4,16,NA,NA,Niagara,made,Raheem Solomon,Steven Levnaic,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,12,1,18:33,2313,2313,Josh Mballa made Dunk. Assisted by Antwain Johnson.,2,3,-1,13,0.9206705115105831,0.4770016653934843,4,4,16,NA,NA,Buffalo,made,Josh Mballa,Antwain Johnson,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,13,1,18:19,2299,2299,Foul on Josh Mballa.,2,3,-1,14,0.9203327618716534,0.4768456344721503,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,14,1,18:06,2286,2286,Nicholas Kratholm made Jumper. Assisted by Steven Levnaic.,2,5,-3,13,0.9051659888885133,0.4305016737873946,4,4,16,NA,NA,Niagara,made,Nicholas Kratholm,Steven Levnaic,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,15,1,17:54,2274,2274,Jeenathan Williams made Three Point Jumper. Assisted by Jayvon Graves.,5,5,0,12,0.9263730563999755,0.5,4,4,16,NA,NA,Buffalo,made,Jeenathan Williams,Jayvon Graves,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,16,1,17:32,2252,2252,Marcus Hammond made Three Point Jumper. Assisted by Justin Roberts.,5,8,-3,22,0.9038910813276643,0.42936670331146465,4,4,16,NA,NA,Niagara,made,Marcus Hammond,Justin Roberts,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,17,1,17:14,2234,2234,Foul on Antwain Johnson.,5,8,-3,18,0.9031930033528018,0.42876045509782373,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,18,1,17:14,2234,2234,Antwain Johnson Turnover.,5,8,-3,0,0.9031930033528018,0.42876045509782373,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,19,1,16:53,2213,2213,Marcus Hammond made Jumper.,5,10,-5,21,0.8839615286804016,0.38153819842965125,4,4,16,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,20,1,16:42,2202,2202,Josh Mballa Turnover.,5,10,-5,11,0.8833367797864452,0.38093752888264587,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,21,1,16:42,2202,2202,Steven Levnaic Steal.,5,10,-5,0,0.8833367797864452,0.38093752888264587,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,22,1,16:37,2197,2197,Marcus Hammond missed Layup.,5,10,-5,5,0.8830500126638063,0.38066410369058673,4,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,23,1,16:35,2195,2195,Josh Mballa Defensive Rebound.,5,10,-5,2,0.8829348151834762,0.38055467009761923,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,24,1,16:29,2189,2189,Jayvon Graves made Three Point Jumper. Assisted by Josh Mballa.,8,10,-2,6,0.9097279676095462,0.4512960834893763,4,4,16,NA,NA,Buffalo,made,Jayvon Graves,Josh Mballa,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,25,1,15:58,2158,2158,Raheem Solomon missed Layup.,8,10,-2,31,0.908633633917377,0.4505802019918857,4,4,16,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,26,1,15:55,2155,2155,Jeenathan Williams Defensive Rebound.,8,10,-2,3,0.9085253645431695,0.4505106076857768,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,27,1,15:45,2145,2145,Jeenathan Williams missed Three Point Jumper.,8,10,-2,10,0.9081614419734846,0.4502781200489009,4,4,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,28,1,15:42,2142,2142,Josh Mballa Offensive Rebound.,8,10,-2,3,0.9080513554476369,0.45020821827645324,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,29,1,15:41,2141,2141,Josh Mballa made Layup.,10,10,0,1,0.9234062525449279,0.5,4,4,16,NA,NA,Buffalo,made,Josh Mballa,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,30,1,15:23,2123,2123,Official TV Timeout,10,10,0,18,0.9229597202773845,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,31,1,14:59,2099,2099,James Towns missed Jumper.,10,10,0,24,0.9223476003541604,0.5,4,4,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,32,1,14:57,2097,2097,Davonta Jordan Defensive Rebound.,10,10,0,2,0.922295726302121,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,33,1,14:50,2090,2090,Ronaldo Segu Turnover.,10,10,0,7,0.9221131199816492,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,34,1,14:32,2072,2072,Greg Kuakumensah missed Layup.,10,10,0,18,0.9216360794567854,0.5,4,4,16,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,35,1,14:30,2070,2070,Davonta Jordan Defensive Rebound.,10,10,0,2,0.9215824097695932,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,36,1,14:23,2063,2063,Davonta Jordan Turnover.,10,10,0,7,0.9213935179237556,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,37,1,14:23,2063,2063,Nick MacDonald Steal.,10,10,0,0,0.9213935179237556,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,38,1,14:10,2050,2050,Raheem Solomon made Layup. Assisted by Greg Kuakumensah.,10,12,-2,13,0.9044679065479345,0.4480245846669113,4,4,16,NA,NA,Niagara,made,Raheem Solomon,Greg Kuakumensah,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,39,1,13:51,2031,2031,David Nickelberry missed Layup.,10,12,-2,19,0.9036768122385379,0.44756262634629046,4,4,16,NA,NA,Buffalo,missed,David Nickelberry,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,40,1,13:50,2030,2030,Shandon Brown Defensive Rebound.,10,12,-2,1,0.9036346823833414,0.44753819602888806,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,41,1,13:50,2030,2030,Foul on LaQuill Hardnett.,10,12,-2,0,0.9036346823833414,0.44753819602888806,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,42,1,13:29,2009,2009,Greg Kuakumensah made Layup.,10,14,-4,21,0.882396269628499,0.39522101880453764,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,43,1,13:16,1996,1996,Ronaldo Segu Turnover.,10,14,-4,13,0.8815916281278653,0.3945982523478556,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,44,1,12:54,1974,1974,Greg Kuakumensah missed Three Point Jumper.,10,14,-4,22,0.8802017694339551,0.393535149773912,4,4,16,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,45,1,12:52,1972,1972,David Nickelberry Defensive Rebound.,10,14,-4,2,0.8800736447118126,0.3934379130582212,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,46,1,12:41,1961,1961,Foul on Greg Kuakumensah.,10,14,-4,11,0.8793636207080388,0.3929012993987763,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,47,1,12:34,1954,1954,Ronaldo Segu made Three Point Jumper. Assisted by Antwain Johnson.,13,14,-1,7,0.909664839250813,0.4727413301522449,4,4,16,NA,NA,Buffalo,made,Ronaldo Segu,Antwain Johnson,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,48,1,12:13,1933,1933,James Towns missed Jumper.,13,14,-1,21,0.9088603096160177,0.4724701894804893,4,4,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,49,1,12:10,1930,1930,Greg Kuakumensah Offensive Rebound.,13,14,-1,3,0.9087438660882604,0.47243117980132204,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,50,1,12:09,1929,1929,Greg Kuakumensah made Layup.,13,16,-3,1,0.888651986308371,0.4179198831102903,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,51,1,12:03,1923,1923,Antwain Johnson missed Three Point Jumper.,13,16,-3,6,0.8883101893764106,0.41769142115690044,4,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,52,1,12:01,1921,1921,David Nickelberry Offensive Rebound.,13,16,-3,2,0.8881957179062366,0.41761532587524786,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,53,1,12:00,1920,1920,David Nickelberry missed Layup.,13,16,-3,1,0.8881383808705471,0.41757728821762613,4,4,16,NA,NA,Buffalo,missed,David Nickelberry,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,54,1,11:57,1917,1917,Nick MacDonald Defensive Rebound.,13,16,-3,3,0.8879659640043862,0.41746321244888296,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,55,1,11:40,1900,1900,Nick MacDonald missed Three Point Jumper.,13,16,-3,17,0.8869773831000562,0.416817566772299,4,4,16,NA,NA,Niagara,missed,Nick MacDonald,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,56,1,11:37,1897,1897,David Nickelberry Defensive Rebound.,13,16,-3,3,0.8868008782771137,0.4167037153591141,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,57,1,11:24,1884,1884,Foul on Greg Kuakumensah.,13,16,-3,13,0.8860288655145704,0.41621039799145243,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,58,1,11:24,1884,1884,Official TV Timeout,13,16,-3,0,0.8860288655145704,0.41621039799145243,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,59,1,11:24,1884,1884,Josh Mballa made Free Throw.,14,16,-2,0,0.8969316749098691,0.44384626622761136,4,4,16,NA,NA,Buffalo,made,Josh Mballa,NA,FALSE,TRUE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,60,1,11:24,1884,1884,Josh Mballa made Free Throw.,15,16,-1,0,0.9069010818949417,0.47183403718956746,4,4,16,NA,NA,Buffalo,made,Josh Mballa,NA,FALSE,TRUE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,62,1,11:24,1884,1884,Technical Foul on Greg Kuakumensah.,43,26,17,0,0.986698258671163,0.8718387503210004,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,64,1,10:55,1855,1855,Nicholas Kratholm Offensive Rebound.,15,16,-1,2,0.9056839674763084,0.4714570522650251,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,65,1,10:48,1848,1848,James Towns made Layup.,15,18,-3,7,0.8838295412066415,0.4148411543563198,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,66,1,10:28,1828,1828,Gabe Grant made Three Point Jumper. Assisted by Ronaldo Segu.,18,18,0,20,0.9140499811199124,0.5,4,4,16,NA,NA,Buffalo,made,Gabe Grant,Ronaldo Segu,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,67,1,10:08,1808,1808,Nick MacDonald Turnover.,18,18,0,20,0.9133236164372317,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,68,1,10:08,1808,1808,LaQuill Hardnett Steal.,18,18,0,0,0.9133236164372317,0.5,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,69,1,10:04,1804,1804,LaQuill Hardnett made Layup.,20,18,2,4,0.9300219179305222,0.558228340477635,4,4,16,NA,NA,Buffalo,made,LaQuill Hardnett,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,70,1,9:42,1782,1782,Nicholas Kratholm Turnover.,20,18,2,22,0.9295032776761226,0.5588110990017319,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,71,1,9:42,1782,1782,Davonta Jordan Steal.,20,18,2,0,0.9295032776761226,0.5588110990017319,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,72,1,9:35,1775,1775,Foul on Steven Levnaic.,20,18,2,7,0.9293359960831681,0.5589981942113165,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,73,1,9:35,1775,1775,Davonta Jordan made Free Throw.,21,18,3,0,0.9367358598198506,0.5879860242513557,4,4,16,NA,NA,Buffalo,made,Davonta Jordan,NA,FALSE,TRUE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,74,1,9:35,1775,1775,Davonta Jordan made Free Throw.,22,18,4,0,0.943408005221816,0.6163760672517774,4,4,16,NA,NA,Buffalo,made,Davonta Jordan,NA,FALSE,TRUE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,75,1,9:27,1767,1767,Foul on James Towns.,22,18,4,8,0.9432981981382084,0.6167883080439943,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,76,1,9:27,1767,1767,James Towns Turnover.,22,18,4,0,0.9432981981382084,0.6167883080439943,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,77,1,9:06,1746,1746,Davonta Jordan Turnover.,22,18,4,21,0.9430073340158832,0.6178816242361526,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,78,1,9:06,1746,1746,Nicholas Kratholm Steal.,22,18,4,0,0.9430073340158832,0.6178816242361526,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,79,1,8:48,1728,1728,Marcus Hammond missed Three Point Jumper.,22,18,4,18,0.9427556772402738,0.6188332219470309,4,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,80,1,8:45,1725,1725,Nicholas Kratholm Offensive Rebound.,22,18,4,3,0.9427135788722272,0.6189932462265295,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,81,1,8:45,1725,1725,Nicholas Kratholm missed Layup.,22,18,4,0,0.9427135788722272,0.6189932462265295,4,4,16,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,82,1,8:45,1725,1725,LaQuill Hardnett Block.,22,18,4,0,0.9427135788722272,0.6189932462265295,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,83,1,8:45,1725,1725,Buffalo Defensive Rebound.,22,18,4,0,0.9427135788722272,0.6189932462265295,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,84,1,8:34,1714,1714,Jeenathan Williams made Layup. Assisted by Davonta Jordan.,24,18,6,11,0.9544241389268271,0.6751721947828667,4,4,16,NA,NA,Buffalo,made,Jeenathan Williams,Davonta Jordan,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,85,1,8:32,1712,1712,Niagara  Timeout,24,18,6,2,0.9544114897907281,0.675322931272273,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,86,1,8:15,1695,1695,Foul on LaQuill Hardnett.,24,18,6,17,0.9543048759421064,0.6766152367311364,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,87,1,8:05,1685,1685,Nicholas Kratholm missed Jumper.,24,18,6,10,0.9542422240627925,0.6773825384771891,3,4,16,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,88,1,8:03,1683,1683,Jeenathan Williams Defensive Rebound.,24,18,6,2,0.9542291384668854,0.6775349466245136,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,89,1,7:49,1669,1669,LaQuill Hardnett made Layup. Assisted by Jeenathan Williams.,26,18,8,14,0.9638797412693417,0.7303482377569754,3,4,16,NA,NA,Buffalo,made,LaQuill Hardnett,Jeenathan Williams,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,90,1,7:37,1657,1657,Steven Levnaic Turnover.,26,18,8,12,0.9638536673339861,0.7314151162674083,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,91,1,7:37,1657,1657,LaQuill Hardnett Steal.,26,18,8,0,0.9638536673339861,0.7314151162674083,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,92,1,7:34,1654,1654,LaQuill Hardnett made Dunk.,28,18,10,3,0.9716381800815103,0.7779826369035417,3,4,16,NA,NA,Buffalo,made,LaQuill Hardnett,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,93,1,7:12,1632,1632,Justin Roberts missed Three Point Jumper.,28,18,10,22,0.9716542724348675,0.7800812842970255,3,4,16,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,94,1,7:10,1630,1630,Jeenathan Williams Defensive Rebound.,28,18,10,2,0.9716550789019833,0.7802697488138324,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,95,1,6:59,1619,1619,Antwain Johnson made Three Point Jumper. Assisted by Jeenathan Williams.,31,18,13,11,0.9804806236918305,0.839598457559428,3,4,16,NA,NA,Buffalo,made,Antwain Johnson,Jeenathan Williams,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,96,1,6:45,1605,1605,James Towns missed Jumper.,31,18,13,14,0.9805246922212193,0.8409314595294869,3,4,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,97,1,6:41,1601,1601,Jeenathan Williams Defensive Rebound.,31,18,13,4,0.9805368937166112,0.8413103038174224,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,98,1,6:24,1584,1584,Jayvon Graves made Three Point Jumper. Assisted by Davonta Jordan.,34,18,16,17,0.9867438389651391,0.8877323114021058,3,4,16,NA,NA,Buffalo,made,Jayvon Graves,Davonta Jordan,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,99,1,5:58,1558,1558,Marcus Hammond made Layup.,34,20,14,26,0.9829927002122724,0.8616870558717754,3,4,16,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,100,1,5:35,1535,1535,Antwain Johnson missed Layup.,34,20,14,23,0.9830776793513787,0.8638338289580372,3,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,101,1,5:35,1535,1535,Nicholas Kratholm Block.,34,20,14,0,0.9830776793513787,0.8638338289580372,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,102,1,5:32,1532,1532,James Towns Defensive Rebound.,34,20,14,3,0.9830892372425019,0.8641161084452549,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,103,1,5:29,1529,1529,James Towns missed Layup.,34,20,14,3,0.9831009324299431,0.8643990528394989,3,4,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,104,1,5:27,1527,1527,Nicholas Kratholm Offensive Rebound.,34,20,14,2,0.9831088097533225,0.8645880731534847,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,105,1,5:26,1526,1526,Nicholas Kratholm made Layup.,34,22,12,1,0.9781016741079319,0.8305847792523764,3,4,16,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,106,1,5:11,1511,1511,Jeenathan Williams missed Three Point Jumper.,34,22,12,15,0.9781437971788519,0.8320606925180832,3,4,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,107,1,5:07,1507,1507,Nicholas Kratholm Defensive Rebound.,34,22,12,4,0.9781559255675408,0.8324587354495027,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,108,1,4:57,1497,1497,Marcus Hammond missed Three Point Jumper.,34,22,12,10,0.9781881448132903,0.8334631613893471,3,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,109,1,4:55,1495,1495,Jeenathan Williams Defensive Rebound.,34,22,12,2,0.978194937438436,0.8336657453917399,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,110,1,4:48,1488,1488,Jayvon Graves missed Three Point Jumper.,34,22,12,7,0.9782196995874067,0.8343795601353515,3,4,16,NA,NA,Buffalo,missed,Jayvon Graves,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,111,1,4:45,1485,1485,James Towns Defensive Rebound.,34,22,12,3,0.9782308040566214,0.8346878448246057,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,112,1,4:42,1482,1482,James Towns made Layup.,34,24,10,3,0.971682276570678,0.7943296767205635,3,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,113,1,4:40,1480,1480,Buffalo  Timeout,34,24,10,2,0.971685438165493,0.7945345934096217,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,114,1,4:40,1480,1480,Official TV Timeout,34,24,10,0,0.971685438165493,0.7945345934096217,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,115,1,4:25,1465,1465,Gabe Grant made Layup. Assisted by Josh Mballa.,36,24,12,15,0.9783132025588638,0.836782787079044,3,3,16,NA,NA,Buffalo,made,Gabe Grant,Josh Mballa,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,116,1,4:03,1443,1443,James Towns missed Jumper.,36,24,12,22,0.9784206592324981,0.8391641490256208,3,3,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,117,1,4:00,1440,1440,Jayvon Graves Defensive Rebound.,36,24,12,3,0.9784348852911331,0.8394854177018833,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,118,1,3:56,1436,1436,Gabe Grant made Layup. Assisted by Jayvon Graves.,38,24,14,4,0.9835687909139823,0.8736713212020879,3,3,16,NA,NA,Buffalo,made,Gabe Grant,Jayvon Graves,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,119,1,3:28,1408,1408,Raheem Solomon missed Jumper.,38,24,14,28,0.9837106875639055,0.8764085346811687,3,3,16,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,120,1,3:25,1405,1405,Davonta Jordan Defensive Rebound.,38,24,14,3,0.9837245262399992,0.8766923261922771,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,121,1,3:17,1397,1397,Davonta Jordan missed Three Point Jumper.,38,24,14,8,0.9837604326683983,0.8774419994326311,3,3,16,NA,NA,Buffalo,missed,Davonta Jordan,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,122,1,3:15,1395,1395,Steven Levnaic Defensive Rebound.,38,24,14,2,0.9837692047616123,0.8776279409470888,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,123,1,3:07,1387,1387,Shandon Brown missed Jumper.,38,24,14,8,0.9838035962271642,0.8783665527742016,3,3,16,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,124,1,3:07,1387,1387,Davonta Jordan Block.,38,24,14,0,0.9838035962271642,0.8783665527742016,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,125,1,3:04,1384,1384,Ronaldo Segu Defensive Rebound.,38,24,14,3,0.9838162414293613,0.8786416274332238,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,126,1,3:02,1382,1382,Gabe Grant made Layup. Assisted by Ronaldo Segu.,40,24,16,2,0.987763327975885,0.9058849753718001,3,3,16,NA,NA,Buffalo,made,Gabe Grant,Ronaldo Segu,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,127,1,2:45,1365,1365,James Towns made Jumper.,40,26,14,17,0.9838941805474672,0.8803659800258421,3,3,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,128,1,2:36,1356,1356,Jayvon Graves made Three Point Jumper.,43,26,17,9,0.9894807608306018,0.9193062925309138,3,3,16,NA,NA,Buffalo,made,Jayvon Graves,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,129,1,2:15,1335,1335,Nicholas Kratholm Turnover.,43,26,17,21,0.9895772285725494,0.9209262575689595,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,130,1,2:15,1335,1335,Jayvon Graves Steal.,43,26,17,0,0.9895772285725494,0.9209262575689595,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,131,1,2:08,1328,1328,Jayvon Graves missed Three Point Jumper.,43,26,17,7,0.9896099906016896,0.9214667623439121,3,3,16,NA,NA,Buffalo,missed,Jayvon Graves,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,132,1,2:06,1326,1326,Buffalo Offensive Rebound.,43,26,17,2,0.9896194397876126,0.9216214438718605,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,133,1,2:06,1326,1326,Official TV Timeout,43,26,17,0,0.9896194397876126,0.9216214438718605,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,134,1,2:03,1323,1323,Jeenathan Williams missed Layup.,43,26,17,3,0.9896336982152125,0.9218537417391528,3,3,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,FALSE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,135,1,2:00,1320,1320,Jeenathan Williams Offensive Rebound.,43,26,17,3,0.9896480668053186,0.9220864222444789,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,136,1,2:00,1320,1320,Jeenathan Williams made Layup.,45,26,19,0,0.9922392597506262,0.940573478440078,3,3,16,NA,NA,Buffalo,made,Jeenathan Williams,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,137,1,1:36,1296,1296,Nick MacDonald made Three Point Jumper. Assisted by Shandon Brown.,45,29,16,24,0.9881680463066114,0.9129831545808003,3,3,16,NA,NA,Niagara,made,Nick MacDonald,Shandon Brown,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,138,1,1:14,1274,1274,Ronaldo Segu Turnover.,45,29,16,22,0.9882902020467188,0.9148725948703909,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,139,1,0:47,1247,1247,Nick MacDonald missed Three Point Jumper.,45,29,16,27,0.9884615849933309,0.917294734524068,3,3,16,NA,NA,Niagara,missed,Nick MacDonald,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,140,1,0:44,1244,1244,Ronaldo Segu Defensive Rebound.,45,29,16,3,0.988482353158511,0.9175722627131897,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,141,1,0:39,1239,1239,Jeenathan Williams missed Three Point Jumper.,45,29,16,5,0.9885178091003385,0.9180389201573746,3,3,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,142,1,0:38,1238,1238,Buffalo Offensive Rebound.,45,29,16,1,0.9885250294379353,0.918132881838843,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,143,1,0:36,1236,1236,Jayvon Graves made Layup. Assisted by Davonta Jordan.,47,29,18,2,0.9915054591011224,0.938325453157244,3,3,16,NA,NA,Buffalo,made,Jayvon Graves,Davonta Jordan,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,144,1,0:05,1205,1205,James Towns missed Layup.,47,29,18,31,0.9917327483430307,0.940949816393285,3,3,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,145,1,0:03,1203,1203,Jayvon Graves Defensive Rebound.,47,29,18,2,0.9917479126385149,0.9411198724573197,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,146,1,0:00,1200,1200,Ronaldo Segu missed Three Point Jumper.,47,29,18,3,0.9917704344875677,0.9413727903516481,3,3,16,NA,NA,Buffalo,missed,Ronaldo Segu,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,147,1,0:00,1200,1200,Niagara Defensive Rebound.,47,29,18,0,0.9917704344875677,0.9413727903516481,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,148,1,0:00,1200,1200,End of 1st half,47,29,18,0,0.9917704344875677,0.9413727903516481,3,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,NA
+401172053,2019-12-21,Buffalo,Niagara,149,2,20:00,1200,1200,PLAY,47,29,18,0,0.9917704344875677,0.9413727903516481,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara
+401172053,2019-12-21,Buffalo,Niagara,150,2,19:53,1193,1193,Marcus Hammond missed Jumper.,47,29,18,7,0.9918219978926374,0.9419533158833588,4,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,151,2,19:51,1191,1191,Jeenathan Williams Defensive Rebound.,47,29,18,2,0.9918364917112671,0.9421168320924971,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,152,2,19:38,1178,1178,Jeenathan Williams made Three Point Jumper. Assisted by Jayvon Graves.,50,29,21,13,0.9949306307847494,0.9636343965799484,4,4,16,NA,NA,Buffalo,made,Jeenathan Williams,Jayvon Graves,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,153,2,19:17,1157,1157,Steven Levnaic missed Jumper.,50,29,21,21,0.9950450391682397,0.9648577511932308,4,4,16,NA,NA,Niagara,missed,Steven Levnaic,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,154,2,19:14,1154,1154,Davonta Jordan Defensive Rebound.,50,29,21,3,0.995060952005499,0.9650275405861578,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,155,2,18:45,1125,1125,Jeenathan Williams made Layup. Assisted by Jayvon Graves.,52,29,23,29,0.9965202303905174,0.9755530218193622,4,4,16,NA,NA,Buffalo,made,Jeenathan Williams,Jayvon Graves,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,156,2,18:22,1102,1102,Raheem Solomon made Three Point Jumper.,52,32,20,23,0.9945119624352634,0.9624040270095569,4,4,16,NA,NA,Niagara,made,Raheem Solomon,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,157,2,18:07,1087,1087,Davonta Jordan Turnover.,52,32,20,15,0.9945967148331165,0.9632834906534656,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,158,2,18:07,1087,1087,Steven Levnaic Steal.,52,32,20,0,0.9945967148331165,0.9632834906534656,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,159,2,18:02,1082,1082,Justin Roberts missed Layup.,52,32,20,5,0.9946253388418108,0.9635768430940815,4,4,16,NA,NA,Niagara,missed,Justin Roberts,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,160,2,18:02,1082,1082,Davonta Jordan Block.,52,32,20,0,0.9946253388418108,0.9635768430940815,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,161,2,17:59,1079,1079,Josh Mballa Defensive Rebound.,52,32,20,3,0.9946426242119796,0.9637530498221192,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,162,2,17:48,1068,1068,Antwain Johnson missed Layup.,52,32,20,11,0.9947068244614882,0.9644011295908324,4,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,163,2,17:48,1068,1068,Raheem Solomon Block.,52,32,20,0,0.9947068244614882,0.9644011295908324,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,164,2,17:47,1067,1067,Niagara Defensive Rebound.,52,32,20,1,0.9947127312833256,0.9644602443825601,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,165,2,17:34,1054,1054,Justin Roberts missed Three Point Jumper.,52,32,20,13,0.9947907458658891,0.9652327842029073,4,4,16,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,166,2,17:32,1052,1052,Josh Mballa Defensive Rebound.,52,32,20,2,0.9948029661229398,0.9653524067678353,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,167,2,17:23,1043,1043,Jayvon Graves Turnover.,52,32,20,9,0.9948587523883395,0.9658937311337147,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,168,2,17:23,1043,1043,Justin Roberts Steal.,52,32,20,0,0.9948587523883395,0.9658937311337147,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,169,2,17:16,1036,1036,Raheem Solomon made Layup. Assisted by Justin Roberts.,52,34,18,7,0.9928846392781522,0.9535090780936741,4,4,16,NA,NA,Niagara,made,Raheem Solomon,Justin Roberts,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,170,2,17:02,1022,1022,Ronaldo Segu made Jumper.,54,34,20,14,0.9949945702197893,0.9671796791076704,4,4,16,NA,NA,Buffalo,made,Ronaldo Segu,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,171,2,16:45,1005,1005,Steven Levnaic missed Three Point Jumper.,54,34,20,17,0.9951111095998689,0.9682488058680846,4,4,16,NA,NA,Niagara,missed,Steven Levnaic,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,172,2,16:43,1003,1003,Jayvon Graves Defensive Rebound.,54,34,20,2,0.99512524305725,0.9683764346538726,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,173,2,16:34,994,994,Jeenathan Williams missed Three Point Jumper.,54,34,20,9,0.9951900005043021,0.9689558635782899,4,4,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,174,2,16:31,991,991,Josh Mballa Offensive Rebound.,54,34,20,3,0.9952120159015172,0.9691509034538357,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,175,2,16:30,990,990,Josh Mballa Turnover.,54,34,20,1,0.9952194029593601,0.9692161314676884,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,176,2,16:16,976,976,Raheem Solomon Turnover.,54,34,20,14,0.9953254278037087,0.9701408262460925,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,177,2,16:16,976,976,Jayvon Graves Steal.,54,34,20,0,0.9953254278037087,0.9701408262460925,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,178,2,15:53,953,953,Ronaldo Segu Turnover.,54,34,20,23,0.9954977069765248,0.9716174549817115,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,179,2,15:53,953,953,Greg Kuakumensah Steal.,54,34,20,0,0.9954977069765248,0.9716174549817115,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,180,2,15:49,949,949,Greg Kuakumensah made Layup.,54,36,18,4,0.9936349990713101,0.9603615397583365,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,181,2,15:20,920,920,Ronaldo Segu missed Three Point Jumper.,54,36,18,29,0.993849963539077,0.9622709406567403,4,4,16,NA,NA,Buffalo,missed,Ronaldo Segu,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,182,2,15:18,918,918,Jeenathan Williams Offensive Rebound.,54,36,18,2,0.9938635003514837,0.9623917338662727,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,183,2,15:17,917,917,Jeenathan Williams made Layup.,56,36,20,1,0.995717285196631,0.973513704502878,4,4,16,NA,NA,Buffalo,made,Jeenathan Williams,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,184,2,15:04,904,904,Marcus Hammond missed Jumper.,56,36,20,13,0.9957865232881462,0.9741130492387615,4,4,16,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,185,2,15:02,902,902,Josh Mballa Defensive Rebound.,56,36,20,2,0.9957968748119924,0.9742025382395714,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,186,2,14:55,895,895,Josh Mballa Turnover.,56,36,20,7,0.9958326195209779,0.9745111130012273,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,187,2,14:55,895,895,Official TV Timeout,56,36,20,0,0.9958326195209779,0.9745111130012273,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,188,2,14:40,880,880,Raheem Solomon missed Three Point Jumper.,56,36,20,15,0.9959074664328156,0.9751538232045025,4,4,16,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,189,2,14:38,878,878,Gabe Grant Defensive Rebound.,56,36,20,2,0.995917345240085,0.9752381795398378,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,190,2,14:25,865,865,Jayvon Graves missed Three Point Jumper.,56,36,20,13,0.995981524140517,0.9757826682961551,4,4,16,NA,NA,Buffalo,missed,Jayvon Graves,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,191,2,14:23,863,863,Greg Kuakumensah Defensive Rebound.,56,36,20,2,0.9959914383411712,0.9758661650628914,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,192,2,14:10,850,850,Greg Kuakumensah made Three Point Jumper. Assisted by James Towns.,56,39,17,13,0.9931273088032886,0.9594807195667185,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,James Towns,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,193,2,13:53,833,833,LaQuill Hardnett made Layup. Assisted by Davonta Jordan.,58,39,19,17,0.9953526200032645,0.9725420181125342,4,4,16,NA,NA,Buffalo,made,LaQuill Hardnett,Davonta Jordan,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,194,2,13:39,819,819,James Towns made Layup.,58,41,17,14,0.9933559259807907,0.9614148334997595,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,195,2,13:11,791,791,Ronaldo Segu Turnover.,58,41,17,28,0.9935948291672099,0.9633342996627015,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,196,2,12:54,774,774,Greg Kuakumensah made Jumper.,58,43,15,17,0.9908214607006252,0.9486543647835565,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,197,2,12:31,751,751,Antwain Johnson missed Jumper.,58,43,15,23,0.9911328328501877,0.9510361529023298,4,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,198,2,12:29,749,749,Damani Thomas Defensive Rebound.,58,43,15,2,0.9911621323125229,0.9512556037313891,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,199,2,12:23,743,743,Foul on Raheem Solomon.,58,43,15,6,0.9912522544863684,0.9519261894648587,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,200,2,12:23,743,743,Raheem Solomon Turnover.,58,43,15,0,0.9912522544863684,0.9519261894648587,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,201,2,12:14,734,734,Antwain Johnson made Three Point Jumper. Assisted by Davonta Jordan.,61,43,18,9,0.9952666340247669,0.9736727955259707,4,4,16,NA,NA,Buffalo,made,Antwain Johnson,Davonta Jordan,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,202,2,11:50,710,710,Official TV Timeout,61,43,18,24,0.9955207396635711,0.9754820137382291,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,203,2,11:42,702,702,Greg Kuakumensah made Layup.,61,45,16,8,0.993362200763157,0.964212621560651,4,4,16,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,204,2,11:14,674,674,Antwain Johnson missed Three Point Jumper.,61,45,16,28,0.9936412460837948,0.9663143824003281,4,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,205,2,11:12,672,672,Greg Kuakumensah Defensive Rebound.,61,45,16,2,0.9936595970163399,0.9664536880915814,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,206,2,10:53,653,653,Greg Kuakumensah missed Jumper.,61,45,16,19,0.9938303304381956,0.9677459633324706,4,4,16,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,207,2,10:50,650,650,Antwain Johnson Defensive Rebound.,61,45,16,3,0.9938572123377284,0.9679478419475016,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,208,2,10:45,645,645,Antwain Johnson missed Jumper.,61,45,16,5,0.9939023091053706,0.9682849132201184,4,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,209,2,10:43,643,643,James Towns Defensive Rebound.,61,45,16,2,0.9939204927091904,0.9684201880057504,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,210,2,10:38,638,638,James Towns missed Jumper.,61,45,16,5,0.9939664373583933,0.9687601689606752,4,4,16,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,211,2,10:33,633,633,James Towns Offensive Rebound.,61,45,16,5,0.9940132470612671,0.9691036435972497,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,212,2,10:33,633,633,James Towns made Layup.,61,47,14,0,0.990819809053782,0.9532479365466601,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,213,2,10:33,633,633,Foul on Antwain Johnson.,61,47,14,0,0.990819809053782,0.9532479365466601,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,214,2,10:33,633,633,James Towns made Free Throw.,61,48,13,0,0.9886388151433663,0.9426573570118448,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,215,2,10:24,624,624,Jayvon Graves Turnover.,61,48,13,9,0.988758973874367,0.9435844541042112,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,216,2,10:24,624,624,Damani Thomas Steal.,61,48,13,0,0.988758973874367,0.9435844541042112,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,217,2,10:19,619,619,Foul on Davonta Jordan.,61,48,13,5,0.9888288716792939,0.9441142098960573,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,218,2,10:19,619,619,James Towns made Free Throw.,61,49,12,0,0.9861528505975676,0.9314692294057276,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,219,2,10:19,619,619,James Towns made Free Throw.,61,50,11,0,0.9828469140632128,0.9162170384244102,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,220,2,10:02,602,602,Jayvon Graves made Three Point Jumper. Assisted by Davonta Jordan.,64,50,14,17,0.9912262423505754,0.95622201579507,4,4,16,NA,NA,Buffalo,made,Jayvon Graves,Davonta Jordan,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,221,2,9:38,578,578,Greg Kuakumensah missed Three Point Jumper.,64,50,14,24,0.9916174387234439,0.9588866722913805,4,4,16,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,222,2,9:36,576,576,Ronaldo Segu Defensive Rebound.,64,50,14,2,0.9916538254034534,0.9591265379106894,4,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,223,2,9:26,566,566,Jayvon Graves made Three Point Jumper. Assisted by Davonta Jordan.,67,50,17,10,0.9958647527449663,0.9795843591774934,4,4,16,NA,NA,Buffalo,made,Jayvon Graves,Davonta Jordan,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,224,2,9:10,550,550,James Towns made Layup.,67,52,15,16,0.9937932675598804,0.9700422977673863,4,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,225,2,9:09,549,549,Niagara  Timeout,67,52,15,1,0.9938128625091059,0.9701625256166523,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,226,2,8:59,539,539,Davonta Jordan Turnover.,67,52,15,10,0.9939908340863509,0.9712656062479558,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,227,2,8:59,539,539,Shandon Brown Steal.,67,52,15,0,0.9939908340863509,0.9712656062479558,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,228,2,8:54,534,534,Greg Kuakumensah made Layup. Assisted by Shandon Brown.,67,54,13,5,0.9905279204981186,0.9554921420634473,3,4,16,NA,NA,Niagara,made,Greg Kuakumensah,Shandon Brown,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,229,2,8:33,513,513,Jeenathan Williams made Three Point Jumper. Assisted by Jayvon Graves.,70,54,16,21,0.9955505445459853,0.9790828003159869,3,4,16,NA,NA,Buffalo,made,Jeenathan Williams,Jayvon Graves,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,230,2,8:14,494,494,Raheem Solomon missed Three Point Jumper.,70,54,16,19,0.9957409608481105,0.9802936627050096,3,4,16,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,231,2,8:11,491,491,James Towns Offensive Rebound.,70,54,16,3,0.9957711169745872,0.9804829775311841,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,232,2,8:09,489,489,James Towns Turnover.,70,54,16,2,0.9957914231009991,0.9806098277506943,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,233,2,8:09,489,489,Jeenathan Williams Steal.,70,54,16,0,0.9957914231009991,0.9806098277506943,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,234,2,8:03,483,483,Ronaldo Segu made Three Point Jumper. Assisted by Davonta Jordan.,73,54,19,6,0.9980164080007112,0.9908368347290649,3,4,16,NA,NA,Buffalo,made,Ronaldo Segu,Davonta Jordan,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,235,2,7:33,453,453,Raheem Solomon missed Jumper.,73,54,19,30,0.9982337675581275,0.9920691951890642,3,4,16,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,236,2,7:30,450,450,Shandon Brown Offensive Rebound.,73,54,19,3,0.9982592529779971,0.9922075354492919,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,237,2,7:22,442,442,Justin Roberts made Jumper. Assisted by James Towns.,73,56,17,8,0.9972085816357833,0.9876567771995075,3,4,16,NA,NA,Niagara,made,Justin Roberts,James Towns,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,238,2,6:48,408,408,Davonta Jordan made Three Point Jumper. Assisted by Ronaldo Segu.,76,56,20,34,0.9989673988535522,0.9955924092110944,3,4,16,NA,NA,Buffalo,made,Davonta Jordan,Ronaldo Segu,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,239,2,6:34,394,394,Foul on Ronaldo Segu.,76,56,20,14,0.999050081714463,0.9960189224338268,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,240,2,6:34,394,394,Official TV Timeout,76,56,20,0,0.999050081714463,0.9960189224338268,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,241,2,6:34,394,394,James Towns made Free Throw.,76,57,19,0,0.998748391717113,0.9947595988160683,3,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,242,2,6:34,394,394,James Towns made Free Throw.,76,58,18,0,0.9983510444085698,0.9931046745170917,3,4,16,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,243,2,6:16,376,376,Josh Mballa made Layup. Assisted by Jayvon Graves.,78,58,20,18,0.9991476611991263,0.9965154302463505,3,4,16,NA,NA,Buffalo,made,Josh Mballa,Jayvon Graves,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,244,2,5:43,343,343,Raheem Solomon missed Jumper.,78,58,20,33,0.9993286509602782,0.9973867066880325,3,4,16,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,245,2,5:41,341,341,Jayvon Graves Defensive Rebound.,78,58,20,2,0.999340216659568,0.9974397161893036,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,246,2,5:35,335,335,Jayvon Graves missed Jumper.,78,58,20,6,0.9993753948799823,0.9975990055772884,3,4,16,NA,NA,Buffalo,missed,Jayvon Graves,NA,FALSE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,247,2,5:34,334,334,Jayvon Graves Offensive Rebound.,78,58,20,1,0.9993813258618534,0.9976255779141012,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,248,2,5:34,334,334,Foul on Raheem Solomon.,78,58,20,0,0.9993813258618534,0.9976255779141012,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,249,2,5:34,334,334,Jayvon Graves made Free Throw.,79,58,21,0,0.9995425311497408,0.9982434668846145,3,4,16,NA,NA,Buffalo,made,Jayvon Graves,NA,FALSE,TRUE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,250,2,5:34,334,334,Jayvon Graves made Free Throw.,80,58,22,0,0.999661746078656,0.9987007738026871,3,4,16,NA,NA,Buffalo,made,Jayvon Graves,NA,FALSE,TRUE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,251,2,5:17,317,317,Nicholas Kratholm missed Layup.,80,58,22,17,0.9997240696365632,0.9989691641141337,3,4,16,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,252,2,5:15,315,315,Antwain Johnson Defensive Rebound.,80,58,22,2,0.9997314275575893,0.9989999985077267,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,253,2,5:06,306,306,Jeenathan Williams missed Three Point Jumper.,80,58,22,9,0.9997621859141791,0.9991278652166667,3,4,16,NA,NA,Buffalo,missed,Jeenathan Williams,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,254,2,5:01,301,301,Josh Mballa Offensive Rebound.,80,58,22,5,0.9997724116223594,0.9991723552041892,3,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,255,2,5:01,301,301,Josh Mballa made Layup.,82,58,24,0,0.9998805919079065,0.9995656382381163,3,4,16,NA,NA,Buffalo,made,Josh Mballa,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,256,2,4:59,299,299,Niagara  Timeout,82,58,24,2,0.9998821765639275,0.9995728393493063,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,257,2,4:44,284,284,Foul on Josh Mballa.,82,58,24,15,0.9998832397271815,0.9995871769110931,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,258,2,4:31,271,271,Justin Roberts missed Three Point Jumper.,82,58,24,13,0.9998732152998453,0.9995614007875512,2,4,16,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,259,2,4:28,268,268,Nicholas Kratholm Offensive Rebound.,82,58,24,3,0.9998699442245408,0.9995523602067995,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,260,2,4:27,267,267,Nicholas Kratholm made Layup.,82,60,22,1,0.9997507078582535,0.9991436590997633,2,4,16,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,261,2,4:12,252,252,Antwain Johnson missed Three Point Jumper.,82,60,22,15,0.9997179116737971,0.9990556970579831,2,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,TRUE,FALSE,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,262,2,4:05,245,245,Jeenathan Williams Offensive Rebound.,82,60,22,7,0.999704540232019,0.9990230800626896,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,263,2,4:05,245,245,Jeenathan Williams made Layup.,84,60,24,0,0.9998426206532708,0.9994794688389299,2,4,16,NA,NA,Buffalo,made,Jeenathan Williams,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,264,2,3:51,231,231,Shandon Brown missed Jumper.,84,60,24,14,0.9998367776736048,0.9994737335712166,2,4,16,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,265,2,3:47,227,227,Jeenathan Williams Defensive Rebound.,84,60,24,4,0.9998386323263826,0.9994836098960572,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,266,2,3:34,214,214,Jayvon Graves made Three Point Jumper.,87,60,27,13,0.9999459862597044,0.9998314363605584,2,4,16,NA,NA,Buffalo,made,Jayvon Graves,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,267,2,3:23,203,203,Raheem Solomon made Three Point Jumper. Assisted by Shandon Brown.,87,63,24,11,0.9998891470210289,0.9996618440374279,2,4,16,NA,NA,Niagara,made,Raheem Solomon,Shandon Brown,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,268,2,3:02,182,182,Josh Mballa made Layup.,89,63,26,21,0.9999780933944084,0.9999362124943729,2,4,16,NA,NA,Buffalo,made,Josh Mballa,NA,FALSE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,269,2,2:36,156,156,Justin Roberts missed Jumper.,89,63,26,26,0.9999948201723539,0.9999858136657166,2,4,16,NA,NA,Niagara,missed,Justin Roberts,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,270,2,2:34,154,154,Josh Mballa Defensive Rebound.,89,63,26,2,0.9999954097110139,0.9999874891635393,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,271,2,2:29,149,149,Antwain Johnson missed Three Point Jumper.,89,63,26,5,0.9999966358239794,0.999990942446435,2,4,16,NA,NA,Buffalo,missed,Antwain Johnson,NA,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,272,2,2:26,146,146,Justin Roberts Defensive Rebound.,89,63,26,3,0.9999972261099466,0.9999925868491544,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,273,2,2:19,139,139,Damani Thomas missed Jumper.,89,63,26,7,0.9999982686267183,0.9999954532337509,2,4,16,NA,NA,Niagara,missed,Damani Thomas,NA,FALSE,FALSE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,274,2,2:16,136,136,Nicholas Kratholm Offensive Rebound.,89,63,26,3,0.99999859925844,0.9999963493396329,2,4,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,275,2,2:12,132,132,Shandon Brown made Jumper.,89,65,24,4,0.9999971967744017,0.9999927684242512,2,4,16,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,276,2,2:08,128,128,Buffalo  Timeout,89,65,24,4,0.9999978828506529,0.9999945944091996,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,277,2,2:08,128,128,Official TV Timeout,89,65,24,0,0.9999978828506529,0.9999945944091996,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,278,2,1:48,108,108,David Nickelberry Turnover.,89,65,24,20,0.999999572789212,0.9999989658678125,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,279,2,1:48,108,108,Greg Kuakumensah Steal.,89,65,24,0,0.999999572789212,0.9999989658678125,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,280,2,1:29,89,89,Foul on Savion Gallion.,89,65,24,19,0.9999999342282798,0.9999998490782894,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,281,2,1:29,89,89,Shandon Brown missed Free Throw.,89,65,24,0,0.9999999342282798,0.9999998490782894,2,3,16,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,TRUE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,282,2,1:29,89,89,Niagara Offensive Rebound.,89,65,24,0,0.9999999342282798,0.9999998490782894,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,283,2,1:29,89,89,Shandon Brown made Free Throw.,89,66,23,0,0.999999873451253,0.9999997096175709,2,3,16,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,TRUE,Niagara,Niagara
+401172053,2019-12-21,Buffalo,Niagara,284,2,1:29,89,89,Shandon Brown made Free Throw.,89,67,22,0,0.99999975651261,0.9999994412868501,2,3,16,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,TRUE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,285,2,1:21,81,81,Savion Gallion Turnover.,89,67,22,8,0.9999998884924265,0.9999997499874415,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,286,2,1:21,81,81,James Towns Steal.,89,67,22,0,0.9999998884924265,0.9999997499874415,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,287,2,1:18,78,78,James Towns made Layup.,89,69,20,3,0.9999996625068381,0.9999992499251177,2,3,16,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,288,2,1:00,60,60,Gabe Grant made Three Point Jumper. Assisted by Savion Gallion.,92,69,23,18,0.9999999947741838,0.9999999889981596,2,3,16,NA,NA,Buffalo,made,Gabe Grant,Savion Gallion,TRUE,FALSE,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,289,2,0:47,47,47,Shandon Brown missed Jumper.,92,69,23,13,0.999999998960099,0.9999999978975583,2,3,16,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,290,2,0:45,45,45,Savion Gallion Defensive Rebound.,92,69,23,2,0.9999999991980089,0.9999999983888058,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,291,2,0:38,38,38,Foul on David Nickelberry.,92,69,23,7,0.9999999996851608,0.9999999993815238,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,292,2,0:38,38,38,David Nickelberry Turnover.,92,69,23,0,0.9999999996851608,0.9999999993815238,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,Niagara
+401172053,2019-12-21,Buffalo,Niagara,293,2,0:19,19,19,Nick MacDonald made Three Point Jumper. Assisted by Shandon Brown.,92,72,20,19,0.999999999519662,0.9999999991136633,2,3,16,NA,NA,Niagara,made,Nick MacDonald,Shandon Brown,TRUE,FALSE,Niagara,Buffalo
+401172053,2019-12-21,Buffalo,Niagara,294,2,0:00,0,0,End of 2nd half,92,92,0,19,1,1,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,NA
+401172053,2019-12-21,Buffalo,Niagara,295,2,0:00,0,0,End of Game,92,92,0,0,1,1,2,3,16,NA,NA,NA,NA,NA,NA,NA,NA,Buffalo,NA
