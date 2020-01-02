@@ -1,0 +1,333 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085959,2019-01-08,Marist,Manhattan,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401085959,2019-01-08,Marist,Manhattan,2,1,19:48,2388,2388,David Knudsen Turnover.,0,0,0,12,0.7234084411285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,3,1,19:33,2373,2373,Tyler Reynolds missed Three Point Jumper.,0,0,0,15,0.7231150197948808,0.5,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,4,1,19:33,2373,2373,Pauly Paulicap Offensive Rebound.,0,0,0,0,0.7231150197948808,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,5,1,19:29,2369,2369,Foul on Isaiah Lamb.,0,0,0,4,0.723035849149086,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,6,1,19:16,2356,2356,Tyler Reynolds Turnover.,0,0,0,13,0.7227758128431487,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,7,1,19:15,2355,2355,Darius Hines Steal.,0,0,0,1,0.7227556355001873,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,8,1,19:13,2353,2353,Foul on Darius Hines.,0,0,0,2,0.7227152054345255,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,9,1,19:13,2353,2353,Darius Hines Turnover.,0,0,0,0,0.7227152054345255,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,10,1,19:02,2342,2342,Warren Williams missed Layup.,0,0,0,11,0.7224910315624161,0.5,4,4,6,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,11,1,19:02,2342,2342,Tobias Sjoberg Block.,0,0,0,0,0.7224910315624161,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,12,1,19:01,2341,2341,Pauly Paulicap Offensive Rebound.,0,0,0,1,0.7224704993516562,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,13,1,19:00,2340,2340,Pauly Paulicap missed Layup.,0,0,0,1,0.722449941523947,0.5,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,14,1,19:00,2340,2340,Nehemiah Mack Offensive Rebound.,0,0,0,0,0.722449941523947,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,15,1,18:55,2335,2335,Tyler Reynolds made Three Point Jumper. Assisted by Thomas Capuano.,0,3,-3,5,0.6643809770531349,0.43210860221201436,4,4,6,NA,NA,Manhattan,made,Tyler Reynolds,Thomas Capuano,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,16,1,18:33,2313,2313,Brian Parker made Jumper.,2,3,-1,22,0.7030309887308084,0.4770016653934843,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,17,1,18:03,2283,2283,Thomas Capuano missed Jumper.,2,3,-1,30,0.7020733291451777,0.4766660710166698,4,4,6,NA,NA,Manhattan,missed,Thomas Capuano,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,18,1,18:03,2283,2283,David Knudsen Defensive Rebound.,2,3,-1,0,0.7020733291451777,0.4766660710166698,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,19,1,17:39,2259,2259,Darius Hines made Three Point Jumper. Assisted by Brian Parker.,5,3,2,24,0.7571106016081035,0.5471060687074408,4,4,6,NA,NA,Marist,made,Darius Hines,Brian Parker,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,20,1,17:21,2241,2241,Pauly Paulicap missed Jumper.,5,3,2,18,0.7570347988945493,0.5475138833251382,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,21,1,17:21,2241,2241,Isaiah Lamb Defensive Rebound.,5,3,2,0,0.7570347988945493,0.5475138833251382,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,22,1,17:05,2225,2225,Brian Parker made Jumper.,7,3,4,16,0.7905422033916463,0.5948866230282157,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,23,1,16:46,2206,2206,Nehemiah Mack made Three Point Jumper. Assisted by Thomas Capuano.,7,6,1,19,0.7385907874343638,0.5242132490649751,4,4,6,NA,NA,Manhattan,made,Nehemiah Mack,Thomas Capuano,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,24,1,16:31,2191,2191,Darius Hines missed Jumper.,7,6,1,15,0.7383727526619874,0.5243868145672748,4,4,6,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,25,1,16:31,2191,2191,Tobias Sjoberg Offensive Rebound.,7,6,1,0,0.7383727526619874,0.5243868145672748,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,26,1,16:28,2188,2188,Foul on Warren Williams.,7,6,1,3,0.738328417553564,0.5244215939560287,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,27,1,16:20,2180,2180,Foul on Nehemiah Mack.,7,6,1,8,0.7382089831240733,0.5245144369789915,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,28,1,16:11,2171,2171,Ryan Funk missed Three Point Jumper.,7,6,1,9,0.7380724920879235,0.5246190423169371,4,4,6,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,29,1,16:11,2171,2171,Tobias Sjoberg Offensive Rebound.,7,6,1,0,0.7380724920879235,0.5246190423169371,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,30,1,15:59,2159,2159,Aleksandar Dozic made Layup.,9,6,3,12,0.7743866923067678,0.57379447931884775,4,4,6,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,31,1,15:40,2140,2140,Pauly Paulicap made Layup.,9,8,1,19,0.7375864514531227,0.5249814172567296,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,32,1,15:22,2122,2122,Foul on Pauly Paulicap.,9,8,1,18,0.7372935794272267,0.5251936579520097,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,33,1,15:22,2122,2122,Official TV Timeout,9,8,1,0,0.7372935794272267,0.5251936579520097,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,34,1,15:22,2122,2122,Tobias Sjoberg made Free Throw.,10,8,2,0,0.7563569297436131,0.5502597124446706,4,4,6,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,35,1,15:22,2122,2122,Tobias Sjoberg missed Free Throw.,10,8,2,0,0.7563569297436131,0.5502597124446706,4,4,6,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,36,1,15:22,2122,2122,Tykei Greene Defensive Rebound.,10,8,2,0,0.7563569297436131,0.5502597124446706,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,37,1,15:21,2121,2121,Foul on Aleksandar Dozic.,10,8,2,1,0.7563499815874573,0.5502831994046297,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,38,1,15:05,2105,2105,Samir Stewart Turnover.,10,8,2,16,0.7562363516262706,0.5506602182867172,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,39,1,15:04,2104,2104,Darius Hines Steal.,10,8,2,1,0.7562290984668886,0.5506838603985946,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,40,1,14:52,2092,2092,Aleksandar Dozic missed Jumper.,10,8,2,12,0.7561407082029459,0.5509683107627823,4,4,6,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,41,1,14:52,2092,2092,Tykei Greene Defensive Rebound.,10,8,2,0,0.7561407082029459,0.5509683107627823,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,42,1,14:29,2069,2069,Pauly Paulicap missed Layup.,10,8,2,23,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,43,1,14:29,2069,2069,Ryan Funk Defensive Rebound.,10,8,2,0,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,44,1,14:26,2066,2066,Foul on Pauly Paulicap.,10,8,2,3,0.7559409372161459,0.5515895536493832,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,45,1,14:06,2046,2046,Luke Nedrow Turnover.,10,8,2,20,0.7557800011006283,0.5520723249003605,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,46,1,14:05,2045,2045,Ebube Ebube Steal.,10,8,2,1,0.7557717962894795,0.5520965806367524,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,47,1,13:54,2034,2034,Tykei Greene Turnover.,10,8,2,11,0.7556805838184895,0.5523641538040125,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,48,1,13:54,2034,2034,Luke Nedrow Steal.,10,8,2,0,0.7556805838184895,0.5523641538040125,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,49,1,13:32,2012,2012,Ryan Funk Turnover.,10,8,2,22,0.7554930780308213,0.552903617996376,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,50,1,13:18,1998,1998,Foul on Austin Williams.,10,8,2,14,0.755370417846268,0.5532500427623905,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,51,1,13:05,1985,1985,Christian Hinckson missed Three Point Jumper.,10,8,2,13,0.7552543314809023,0.5535739979311768,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,52,1,13:05,1985,1985,Darius Hines Defensive Rebound.,10,8,2,0,0.7552543314809023,0.5535739979311768,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,53,1,12:40,1960,1960,Isaiah Lamb missed Three Point Jumper.,10,8,2,25,0.7550255623961599,0.5542034205312676,4,4,6,NA,NA,Marist,missed,Isaiah Lamb,NA,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,54,1,12:40,1960,1960,Tykei Greene Defensive Rebound.,10,8,2,0,0.7550255623961599,0.5542034205312676,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,55,1,12:35,1955,1955,Foul on Austin Williams.,10,8,2,5,0.7549789876526334,0.5543303564086433,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,56,1,12:10,1930,1930,Elijah Buchanan made Layup.,10,10,0,25,0.7116256655876136,0.5,4,4,6,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,57,1,11:54,1914,1914,Aleksandar Dozic made Layup. Assisted by Austin Williams.,12,10,2,16,0.7545845289810348,0.5553826234312512,4,4,6,NA,NA,Marist,made,Aleksandar Dozic,Austin Williams,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,58,1,11:38,1898,1898,Foul on Ryan Funk.,12,10,2,16,0.7544183573906282,0.5557939551736549,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,59,1,11:38,1898,1898,Official TV Timeout,12,10,2,0,0.7544183573906282,0.5557939551736549,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,60,1,11:38,1898,1898,Christian Hinckson made Free Throw.,12,11,1,0,0.7330716264806612,0.5279843648328633,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,61,1,11:38,1898,1898,Christian Hinckson missed Free Throw.,12,11,1,0,0.7330716264806612,0.5279843648328633,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,62,1,11:38,1898,1898,Aleksandar Dozic Defensive Rebound.,12,11,1,0,0.7330716264806612,0.5279843648328633,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,63,1,11:07,1867,1867,Marist  Turnover.,12,11,1,31,0.7323932067148694,0.5283867383776285,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,64,1,10:47,1847,1847,Tyler Reynolds missed Three Point Jumper.,12,11,1,20,0.7319411520383732,0.5286473329899295,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,65,1,10:47,1847,1847,Christian Hinckson Offensive Rebound.,12,11,1,0,0.7319411520383732,0.5286473329899295,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,66,1,10:45,1845,1845,Foul on Isaiah Lamb.,12,11,1,2,0.7318953808633561,0.5286734657058288,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,67,1,10:45,1845,1845,Christian Hinckson made Free Throw.,12,12,0,0,0.7087746908075568,0.5,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,68,1,10:45,1845,1845,Christian Hinckson missed Free Throw.,12,12,0,0,0.7087746908075568,0.5,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,69,1,10:45,1845,1845,Brian Parker Defensive Rebound.,12,12,0,0,0.7087746908075568,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,70,1,10:34,1834,1834,Foul on Nehemiah Mack.,12,12,0,11,0.7083886762500199,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,71,1,10:34,1834,1834,Brian Parker missed Free Throw.,12,12,0,0,0.7083886762500199,0.5,4,4,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,72,1,10:34,1834,1834,Marist Deadball Team Rebound.,12,12,0,0,0.7083886762500199,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,73,1,10:34,1834,1834,Brian Parker made Free Throw.,13,12,1,0,0.7316419103319889,0.5288174947608248,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,74,1,10:23,1823,1823,Tyler Reynolds Turnover.,13,12,1,11,0.7313856487229461,0.5289621051302998,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,75,1,10:05,1805,1805,David Knudsen made Jumper.,15,12,3,18,0.7744080090039114,0.5868121336014099,4,4,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,76,1,9:52,1792,1792,Samir Stewart Turnover.,15,12,3,13,0.774375249980819,0.5873182943858248,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,77,1,9:51,1791,1791,Matthew Herasme Steal.,15,12,3,1,0.7743727045202772,0.5873573814285875,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,78,1,9:49,1789,1789,David Knudsen made Layup. Assisted by Darius Hines.,17,12,5,2,0.8128631415226061,0.6431258766738039,4,4,6,NA,NA,Marist,made,David Knudsen,Darius Hines,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,79,1,9:49,1789,1789,Foul on Samir Stewart.,17,12,5,0,0.8128631415226061,0.6431258766738039,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,80,1,9:49,1789,1789,David Knudsen made Free Throw.,18,12,6,0,0.8301250838856371,0.6696823691968643,4,4,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,81,1,9:37,1777,1777,Christian Hinckson missed Jumper.,18,12,6,12,0.8303745470775885,0.670542608106261,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,82,1,9:37,1777,1777,Tyler Reynolds Offensive Rebound.,18,12,6,0,0.8303745470775885,0.670542608106261,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,83,1,9:21,1761,1761,Christian Hinckson missed Layup.,18,12,6,16,0.830710478508702,0.6716989678872901,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,84,1,9:21,1761,1761,David Knudsen Defensive Rebound.,18,12,6,0,0.830710478508702,0.6716989678872901,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,85,1,8:57,1737,1737,Foul on Tobias Sjoberg.,18,12,6,24,0.8312241055277393,0.6734568566258469,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,86,1,8:57,1737,1737,Tobias Sjoberg Turnover.,18,12,6,0,0.8312241055277393,0.6734568566258469,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,87,1,8:27,1707,1707,Thomas Capuano missed Three Point Jumper.,18,12,6,30,0.8318884771901236,0.6757009428509324,4,4,6,NA,NA,Manhattan,missed,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,88,1,8:27,1707,1707,Christian Hinckson Offensive Rebound.,18,12,6,0,0.8318884771901236,0.6757009428509324,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,89,1,8:22,1702,1702,Foul on Darius Hines.,18,12,6,5,0.8320021531177442,0.6760806642709845,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,90,1,8:22,1702,1702,Christian Hinckson missed Free Throw.,18,12,6,0,0.8320021531177442,0.6760806642709845,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,91,1,8:22,1702,1702,Manhattan Deadball Team Rebound.,18,12,6,0,0.8320021531177442,0.6760806642709845,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,92,1,8:22,1702,1702,Christian Hinckson made Free Throw.,18,13,5,0,0.8141564798740759,0.6486662172130523,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,93,1,8:11,1691,1691,Darius Hines made Three Point Jumper.,21,13,8,11,0.8639218435982648,0.728340300772597,4,4,6,NA,NA,Marist,made,Darius Hines,NA,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,94,1,7:48,1668,1668,Warren Williams Turnover.,21,13,8,23,0.8646603968250335,0.7304378344618927,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,95,1,7:47,1667,1667,Matthew Herasme Steal.,21,13,8,1,0.8646911386337819,0.7305272996809612,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,96,1,7:45,1665,1665,Darius Hines missed Jumper.,21,13,8,2,0.8647523125207223,0.7307058428757237,4,4,6,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,97,1,7:45,1665,1665,Warren Williams Defensive Rebound.,21,13,8,0,0.8647523125207223,0.7307058428757237,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,98,1,7:37,1657,1657,Official TV Timeout,21,13,8,8,0.8649930661109186,0.7314151162674083,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,99,1,7:16,1636,1636,Elijah Buchanan Turnover.,21,13,8,21,0.8655990378285829,0.7332452856560684,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,100,1,7:03,1623,1623,Foul on Elijah Buchanan.,21,13,8,13,0.8659591887416276,0.7343607397266407,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,101,1,7:03,1623,1623,David Knudsen made Free Throw.,22,13,9,0,0.8800391663501104,0.7584075699358425,4,4,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,102,1,7:03,1623,1623,David Knudsen made Free Throw.,23,13,10,0,0.8928231985799789,0.7809269616274915,4,4,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,103,1,6:56,1616,1616,Tykei Greene Turnover.,23,13,10,7,0.8930532564049294,0.7815809241810682,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,104,1,6:56,1616,1616,Aleksandar Dozic made Free Throw.,25,13,12,0,0.9150795333917282,0.8219893023155742,4,4,6,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,106,1,6:56,1616,1616,Aleksandar Dozic made Free Throw.,24,13,11,0,0.9046337601180469,0.8025634137843198,4,4,6,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,108,1,6:46,1606,1606,Elijah Buchanan Offensive Rebound.,25,13,12,0,0.9154287249775509,0.8229452052411088,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,109,1,6:42,1602,1602,Thomas Capuano missed Three Point Jumper.,25,13,12,4,0.9155675192665986,0.8233261732373509,4,4,6,NA,NA,Manhattan,missed,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,110,1,6:42,1602,1602,Ryan Funk Defensive Rebound.,25,13,12,0,0.9155675192665986,0.8233261732373509,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,111,1,6:18,1578,1578,Aleksandar Dozic Turnover.,25,13,12,24,0.9163946575391857,0.8256034458395913,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,112,1,6:17,1577,1577,Tyler Reynolds Steal.,25,13,12,1,0.9164290510964881,0.8256982431565337,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,113,1,5:52,1552,1552,Elijah Buchanan missed Three Point Jumper.,25,13,12,25,0.9172931540805915,0.8280758653862823,4,4,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,114,1,5:52,1552,1552,Luke Nedrow Defensive Rebound.,25,13,12,0,0.9172931540805915,0.8280758653862823,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,115,1,5:51,1551,1551,Foul on Warren Williams.,25,13,12,1,0.917328017920247,0.8281714890285258,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,116,1,5:51,1551,1551,Luke Nedrow missed Free Throw.,25,13,12,0,0.917328017920247,0.8281714890285258,4,4,6,NA,NA,Marist,missed,Luke Nedrow,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,117,1,5:51,1551,1551,Tyler Reynolds Defensive Rebound.,25,13,12,0,0.917328017920247,0.8281714890285258,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,118,1,5:36,1536,1536,Samir Stewart missed Three Point Jumper.,25,13,12,15,0.9178555225117352,0.8296135344840682,4,4,6,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,119,1,5:36,1536,1536,Luke Nedrow Defensive Rebound.,25,13,12,0,0.9178555225117352,0.8296135344840682,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,120,1,5:23,1523,1523,Brian Parker missed Jumper.,25,13,12,13,0.918321456776282,0.8308780036388828,4,4,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,121,1,5:23,1523,1523,Luke Nedrow Offensive Rebound.,25,13,12,0,0.918321456776282,0.8308780036388828,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,122,1,5:19,1519,1519,Ryan Funk made Three Point Jumper. Assisted by Austin Williams.,28,13,15,4,0.9437661987362402,0.8800941881899257,4,4,6,NA,NA,Marist,made,Ryan Funk,Austin Williams,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,123,1,5:17,1517,1517,Manhattan  Timeout,28,13,15,2,0.9438366058608841,0.8802793013732481,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,124,1,4:56,1496,1496,Elijah Buchanan missed Jumper.,28,13,15,21,0.9445900660812357,0.8822464920347765,4,3,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,125,1,4:56,1496,1496,Matthew Herasme Defensive Rebound.,28,13,15,0,0.9445900660812357,0.8822464920347765,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,126,1,4:33,1473,1473,Brian Parker made Layup.,30,13,17,23,0.9578699295833011,0.9094348290115284,4,3,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,127,1,4:33,1473,1473,Foul on Tyler Reynolds.,30,13,17,0,0.9578699295833011,0.9094348290115284,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,128,1,4:33,1473,1473,Brian Parker missed Free Throw.,30,13,17,0,0.9578699295833011,0.9094348290115284,4,3,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,129,1,4:33,1473,1473,Tyler Reynolds Defensive Rebound.,30,13,17,0,0.9578699295833011,0.9094348290115284,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,130,1,4:07,1447,1447,Christian Hinckson missed Three Point Jumper.,30,13,17,26,0.9588100849347297,0.9118013359808662,4,3,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,131,1,4:07,1447,1447,Marist Deadball Team Rebound.,30,13,17,0,0.9588100849347297,0.9118013359808662,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,132,1,4:04,1444,1444,Brian Parker Turnover.,30,13,17,3,0.9589191960177144,0.912074736770254,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,133,1,4:03,1443,1443,Samir Stewart Steal.,30,13,17,1,0.9589552917051607,0.9121652988943179,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,134,1,4:01,1441,1441,Foul on Brian Parker.,30,13,17,2,0.9590270809907643,0.9123455857122021,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,135,1,4:01,1441,1441,Elijah Buchanan made Free Throw.,30,14,16,0,0.9532564186863541,0.9006811460540417,4,3,6,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,136,1,4:01,1441,1441,Elijah Buchanan missed Free Throw.,30,14,16,0,0.9532564186863541,0.9006811460540417,4,3,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,137,1,4:01,1441,1441,Brian Parker Defensive Rebound.,30,14,16,0,0.9532564186863541,0.9006811460540417,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,138,1,3:43,1423,1423,Matthew Herasme made Jumper.,32,14,18,18,0.9647014137318302,0.9242441964447654,4,3,6,NA,NA,NA,made,Matthew Herasme,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,139,1,3:24,1404,1404,Ebube Ebube made Jumper.,32,16,16,19,0.9545679302888275,0.9040173221786373,4,3,6,NA,NA,Manhattan,made,Ebube Ebube,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,140,1,3:24,1404,1404,Foul on Tobias Sjoberg.,32,16,16,0,0.9545679302888275,0.9040173221786373,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,141,1,3:24,1404,1404,Official TV Timeout,32,16,16,0,0.9545679302888275,0.9040173221786373,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,142,1,3:24,1404,1404,Ebube Ebube missed Free Throw.,32,16,16,0,0.9545679302888275,0.9040173221786373,4,3,6,NA,NA,Manhattan,missed,Ebube Ebube,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,143,1,3:24,1404,1404,Manhattan Offensive Rebound.,32,16,16,0,0.9545679302888275,0.9040173221786373,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,144,1,3:06,1386,1386,Christian Hinckson made Jumper.,32,18,14,18,0.9413806714867946,0.8784583505456818,4,3,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,145,1,2:48,1368,1368,Foul on Samir Stewart.,32,18,14,18,0.942006032367848,0.8800953031066884,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,146,1,2:48,1368,1368,Darius Hines made Free Throw.,33,18,15,0,0.9493122545558836,0.8943262280948417,4,3,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,147,1,2:48,1368,1368,Darius Hines made Free Throw.,34,18,16,0,0.9557412671914614,0.9070465395910349,4,3,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,148,1,2:37,1357,1357,Foul on Tykei Greene.,34,18,16,11,0.9560904222794999,0.9079504537648623,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,149,1,2:37,1357,1357,Tykei Greene Turnover.,34,18,16,0,0.9560904222794999,0.9079504537648623,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,150,1,2:32,1352,1352,Foul on Elijah Buchanan.,34,18,16,5,0.9562486570193806,0.908359842185954,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,151,1,2:32,1352,1352,David Knudsen made Free Throw.,35,18,17,0,0.9618692088171188,0.9196153103799736,4,3,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,152,1,2:32,1352,1352,David Knudsen made Free Throw.,36,18,18,0,0.9667927861246438,0.9295955023853316,4,3,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,153,1,2:15,1335,1335,Christian Hinckson Turnover.,36,18,18,17,0.9672726079779145,0.9308236508556567,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,154,1,2:11,1331,1331,Foul on Tyler Reynolds.,36,18,18,4,0.9673858555551317,0.9311126411500915,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,155,1,2:11,1331,1331,David Knudsen made Free Throw.,37,18,19,0,0.971653973850918,0.939832487124928,4,3,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,156,1,2:11,1331,1331,David Knudsen made Free Throw.,38,18,20,0,0.9753777524811498,0.9475107866338337,4,3,6,NA,NA,Marist,made,David Knudsen,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,157,1,2:04,1324,1324,Tyler Reynolds made Three Point Jumper. Assisted by Elijah Buchanan.,38,21,17,7,0.9627116233748374,0.9217762694757013,4,3,6,NA,NA,Manhattan,made,Tyler Reynolds,Elijah Buchanan,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,158,1,1:30,1290,1290,Aleksandar Dozic made Three Point Jumper. Assisted by David Knudsen.,41,21,20,34,0.9764047534755239,0.9500883812794536,4,3,6,NA,NA,Marist,made,Aleksandar Dozic,David Knudsen,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,159,1,1:11,1271,1271,Thomas Capuano made Three Point Jumper. Assisted by Tyler Reynolds.,41,24,17,19,0.9643874253439626,0.925988613683996,4,3,6,NA,NA,Manhattan,made,Thomas Capuano,Tyler Reynolds,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,160,1,0:58,1258,1258,Foul on Thomas Capuano.,41,24,17,13,0.9648287038740845,0.927072482580789,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,161,1,0:58,1258,1258,Brian Parker made Free Throw.,42,24,18,0,0.9695658472295989,0.9365605582393725,4,3,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,162,1,0:58,1258,1258,Brian Parker made Free Throw.,43,24,19,0,0.9736823590156408,0.9448875923584606,4,3,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,163,1,0:49,1249,1249,Warren Williams Turnover.,43,24,19,9,0.9739540467650111,0.9455467290788047,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,164,1,0:47,1247,1247,Ryan Funk Steal.,43,24,19,2,0.974015290244635,0.9456946945609875,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,165,1,0:25,1225,1225,Aleksandar Dozic missed Jumper.,43,24,19,22,0.97471154974261,0.9473612608673182,4,3,6,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,166,1,0:25,1225,1225,Thomas Capuano Defensive Rebound.,43,24,19,0,0.97471154974261,0.9473612608673182,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,167,1,0:05,1205,1205,Warren Williams made Layup.,43,26,17,20,0.9668079665669944,0.931801451835129,4,3,6,NA,NA,Manhattan,made,Warren Williams,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,168,1,0:04,1204,1204,Warren Williams missed Free Throw.,43,26,17,1,0.9668471316223212,0.9318934587631523,4,3,6,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,169,1,0:04,1204,1204,Aleksandar Dozic Defensive Rebound.,43,26,17,0,0.9668471316223212,0.9318934587631523,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,170,1,0:04,1204,1204,Foul on Aleksandar Dozic.,43,26,17,0,0.9668471316223212,0.9318934587631523,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,171,1,0:00,1200,1200,End of 1st half,43,26,17,4,0.9670024301802058,0.9322584459832474,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,NA
+401085959,2019-01-08,Marist,Manhattan,172,2,20:00,1200,1200,PLAY,43,26,17,0,0.9670024301802058,0.9322584459832474,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401085959,2019-01-08,Marist,Manhattan,173,2,19:45,1185,1185,Tyler Reynolds missed Three Point Jumper.,43,26,17,15,0.9675670685086569,0.933587331089285,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,174,2,19:45,1185,1185,Pauly Paulicap Offensive Rebound.,43,26,17,0,0.9675670685086569,0.933587331089285,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,175,2,19:42,1182,1182,Foul on Brian Parker.,43,26,17,3,0.9676769765717154,0.933846276282771,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,176,2,19:41,1181,1181,Samson Usilo made Layup. Assisted by Thomas Capuano.,43,28,15,1,0.9564229563909378,0.9119039489163225,4,4,6,NA,NA,Manhattan,made,Samson Usilo,Thomas Capuano,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,177,2,19:41,1181,1181,Foul on Isaiah Lamb.,43,28,15,0,0.9564229563909378,0.9119039489163225,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,178,2,19:41,1181,1181,Samson Usilo missed Free Throw.,43,28,15,0,0.9564229563909378,0.9119039489163225,4,4,6,NA,NA,Manhattan,missed,Samson Usilo,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,179,2,19:41,1181,1181,Marist Defensive Rebound.,43,28,15,0,0.9564229563909378,0.9119039489163225,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,180,2,19:15,1155,1155,Brian Parker made Layup.,45,28,17,26,0.968630763055437,0.9360949882751955,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,181,2,19:04,1144,1144,Foul on Tobias Sjoberg.,45,28,17,11,0.9690054780708895,0.9369780528562234,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,182,2,19:04,1144,1144,Samson Usilo missed Free Throw.,45,28,17,0,0.9690054780708895,0.9369780528562234,4,4,6,NA,NA,Manhattan,missed,Samson Usilo,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,183,2,19:04,1144,1144,Manhattan Deadball Team Rebound.,45,28,17,0,0.9690054780708895,0.9369780528562234,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,184,2,19:04,1144,1144,Samson Usilo made Free Throw.,45,29,16,0,0.9638648384720031,0.9269260413201653,4,4,6,NA,NA,Manhattan,made,Samson Usilo,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,185,2,18:43,1123,1123,Matthew Herasme missed Jumper.,45,29,16,21,0.9646229207443733,0.9287117091353575,4,4,6,NA,NA,NA,missed,Matthew Herasme,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,186,2,18:43,1123,1123,Tyler Reynolds Defensive Rebound.,45,29,16,0,0.9646229207443733,0.9287117091353575,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,187,2,18:32,1112,1112,Nehemiah Mack Turnover.,45,29,16,11,0.9650170463056732,0.9296370339606007,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,188,2,18:05,1085,1085,Darius Hines missed Jumper.,45,29,16,27,0.9659895443311904,0.9319067290090275,4,4,6,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,189,2,18:05,1085,1085,Tobias Sjoberg Offensive Rebound.,45,29,16,0,0.9659895443311904,0.9319067290090275,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,190,2,17:39,1059,1059,Foul on Luke Nedrow.,45,29,16,26,0.9669511398113204,0.9341266683900422,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,191,2,17:39,1059,1059,Luke Nedrow Turnover.,45,29,16,0,0.9669511398113204,0.9341266683900422,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,192,2,17:20,1040,1040,Pauly Paulicap missed Layup.,45,29,16,19,0.9676809400417555,0.9357928985006735,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,193,2,17:20,1040,1040,Darius Hines Defensive Rebound.,45,29,16,0,0.9676809400417555,0.9357928985006735,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,194,2,16:51,1011,1011,Brian Parker missed Jumper.,45,29,16,29,0.9688555207288878,0.9384397746295335,4,4,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,195,2,16:51,1011,1011,Tyler Reynolds Defensive Rebound.,45,29,16,0,0.9688555207288878,0.9384397746295335,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,196,2,16:43,1003,1003,Foul on Luke Nedrow.,45,29,16,8,0.969194726797488,0.939196344544917,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,197,2,16:42,1002,1002,Tyler Reynolds missed Three Point Jumper.,45,29,16,1,0.9692376304159392,0.9392917957687451,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,198,2,16:42,1002,1002,Marist Deadball Team Rebound.,45,29,16,0,0.9692376304159392,0.9392917957687451,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,199,2,16:18,978,978,Aleksandar Dozic missed Three Point Jumper.,45,29,16,24,0.9703028295403974,0.9416449456033487,4,4,6,NA,NA,Marist,missed,Aleksandar Dozic,NA,TRUE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,200,2,16:18,978,978,Luke Nedrow Offensive Rebound.,45,29,16,0,0.9703028295403974,0.9416449456033487,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,201,2,16:14,974,974,Foul on Thomas Capuano.,45,29,16,4,0.9704872769383223,0.9420492855818109,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,202,2,16:07,967,967,Brian Parker made Jumper.,47,29,18,7,0.9792573077276824,0.958978653093641,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,203,2,15:38,938,938,Nehemiah Mack made Three Point Jumper. Assisted by Thomas Capuano.,47,32,15,29,0.9667320534447664,0.9354222705379268,4,4,6,NA,NA,Manhattan,made,Nehemiah Mack,Thomas Capuano,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,204,2,15:23,923,923,Ryan Funk missed Layup.,47,32,15,15,0.9673221435395414,0.9367223551334346,4,4,6,NA,NA,Marist,missed,Ryan Funk,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,205,2,15:23,923,923,Tyler Reynolds Defensive Rebound.,47,32,15,0,0.9673221435395414,0.9367223551334346,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,206,2,15:15,915,915,Thomas Capuano missed Three Point Jumper.,47,32,15,8,0.9676191378475496,0.9373776936441519,4,4,6,NA,NA,Manhattan,missed,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,207,2,15:15,915,915,Ryan Funk Defensive Rebound.,47,32,15,0,0.9676191378475496,0.9373776936441519,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,208,2,15:08,908,908,Foul on Tyler Reynolds.,47,32,15,7,0.9678710060370918,0.9379337364906581,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,209,2,15:08,908,908,Official TV Timeout,47,32,15,0,0.9678710060370918,0.9379337364906581,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,210,2,14:37,877,877,Luke Nedrow missed Jumper.,47,32,15,31,0.9689306297561207,0.9402705561283553,4,4,6,NA,NA,Marist,missed,Luke Nedrow,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,211,2,14:37,877,877,Warren Williams Defensive Rebound.,47,32,15,0,0.9689306297561207,0.9402705561283553,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,212,2,14:18,858,858,Foul on Luke Nedrow.,47,32,15,19,0.9695668291470642,0.9416658052712891,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,213,2,14:08,848,848,Samir Stewart made Three Point Jumper. Assisted by Christian Hinckson.,47,35,12,10,0.9485293677901782,0.9034398602219618,4,4,6,NA,NA,Manhattan,made,Samir Stewart,Christian Hinckson,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,214,2,13:54,834,834,Foul on Warren Williams.,47,35,12,14,0.949159039202894,0.9048094481367358,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,215,2,13:54,834,834,Darius Hines made Free Throw.,48,35,13,0,0.957488035264688,0.9197900093778176,4,4,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,216,2,13:54,834,834,Darius Hines missed Free Throw.,48,35,13,0,0.957488035264688,0.9197900093778176,4,4,6,NA,NA,Marist,missed,Darius Hines,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,217,2,13:54,834,834,Nehemiah Mack Defensive Rebound.,48,35,13,0,0.957488035264688,0.9197900093778176,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,218,2,13:36,816,816,Nehemiah Mack made Three Point Jumper.,48,38,10,18,0.9286356245479287,0.8692805928573439,4,4,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,219,2,13:10,790,790,Brian Parker Turnover.,48,38,10,26,0.9301853983326575,0.8725717420433353,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,220,2,13:00,780,780,Foul on Pauly Paulicap.,48,38,10,10,0.9308467637224562,0.873957164682306,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,221,2,13:00,780,780,Pauly Paulicap Turnover.,48,38,10,0,0.9308467637224562,0.873957164682306,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,222,2,12:43,763,763,Darius Hines Turnover.,48,38,10,17,0.9320685920494054,0.8764917382623351,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,223,2,12:42,762,762,Thomas Capuano Steal.,48,38,10,1,0.9321445565181407,0.8766483678890308,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,224,2,12:20,740,740,Foul on Luke Nedrow.,48,38,10,22,0.9339404404356438,0.8803240497509374,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,225,2,12:20,740,740,Warren Williams missed Free Throw.,48,38,10,0,0.9339404404356438,0.8803240497509374,4,4,6,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,226,2,12:20,740,740,Manhattan Deadball Team Rebound.,48,38,10,0,0.9339404404356438,0.8803240497509374,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,227,2,12:20,740,740,Warren Williams made Free Throw.,48,39,9,0,0.9205106613380706,0.8576554797833256,4,4,6,NA,NA,Manhattan,made,Warren Williams,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,228,2,11:59,719,719,Brian Parker missed Jumper.,48,39,9,21,0.9224629660451404,0.8616123889239337,4,4,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,229,2,11:59,719,719,Tykei Greene Defensive Rebound.,48,39,9,0,0.9224629660451404,0.8616123889239337,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,230,2,11:32,692,692,Thomas Capuano made Jumper.,48,41,7,27,0.8900729199385665,0.8101739312738281,4,4,6,NA,NA,Manhattan,made,Thomas Capuano,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,231,2,11:13,673,673,Brian Parker made Jumper.,50,41,9,19,0.9258488588220389,0.8686633928468586,4,4,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,232,2,10:59,659,659,Thomas Capuano made Three Point Jumper.,50,44,6,14,0.8701692879124165,0.7808574195496293,4,4,6,NA,NA,Manhattan,made,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,233,2,10:45,645,645,Official TV Timeout,50,44,6,14,0.8710358061363146,0.7827943142056784,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,234,2,10:19,619,619,Darius Hines made Jumper.,52,44,8,26,0.9137847458689684,0.8506430529214929,4,4,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,235,2,10:00,600,600,Warren Williams missed Jumper.,52,44,8,19,0.9153443277785045,0.8538411921100788,4,4,6,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,236,2,10:00,600,600,Brian Parker Defensive Rebound.,52,44,8,0,0.9153443277785045,0.8538411921100788,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,237,2,9:53,593,593,Ryan Funk missed Three Point Jumper.,52,44,8,7,0.9159807401789398,0.855125672090186,4,4,6,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,238,2,9:53,593,593,Christian Hinckson Defensive Rebound.,52,44,8,0,0.9159807401789398,0.855125672090186,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,239,2,9:50,590,590,Foul on Tobias Sjoberg.,52,44,8,3,0.9162651860953351,0.8556962533547391,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,240,2,9:50,590,590,Christian Hinckson made Free Throw.,52,45,7,0,0.8975369110016506,0.825993702646781,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,241,2,9:50,590,590,Christian Hinckson missed Free Throw.,52,45,7,0,0.8975369110016506,0.825993702646781,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,242,2,9:50,590,590,Brian Parker Defensive Rebound.,52,45,7,0,0.8975369110016506,0.825993702646781,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,243,2,9:32,572,572,Ryan Funk made Three Point Jumper. Assisted by Aleksandar Dozic.,55,45,10,18,0.946336745248233,0.9057584230244423,4,4,6,NA,NA,Marist,made,Ryan Funk,Aleksandar Dozic,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,244,2,9:10,550,550,Warren Williams made Layup. Assisted by Samir Stewart.,55,47,8,22,0.920858797268072,0.8646774135972763,4,4,6,NA,NA,Manhattan,made,Warren Williams,Samir Stewart,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,245,2,8:57,537,537,Foul on Samir Stewart.,55,47,8,13,0.9224599229736918,0.8677795178845806,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,246,2,8:47,527,527,Aleksandar Dozic Turnover.,55,47,8,10,0.9235120760189182,0.8698559963636746,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,247,2,8:47,527,527,Tykei Greene Steal.,55,47,8,0,0.9235120760189182,0.8698559963636746,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,248,2,8:24,504,504,Warren Williams Turnover.,55,47,8,23,0.9256063323876563,0.8740661878919136,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,249,2,8:18,498,498,Foul on Tykei Greene.,55,47,8,6,0.9261265096854389,0.8751175759391732,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,250,2,8:11,491,491,Ryan Funk made Three Point Jumper. Assisted by Brian Parker.,58,47,11,7,0.9634584459320741,0.9365987448846186,4,4,6,NA,NA,Marist,made,Ryan Funk,Brian Parker,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,251,2,7:48,468,468,Foul on Austin Williams.,58,47,11,23,0.965149904116257,0.9399133700630272,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,252,2,7:48,468,468,Official TV Timeout,58,47,11,0,0.965149904116257,0.9399133700630272,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,253,2,7:48,468,468,Pauly Paulicap made Free Throw.,58,48,10,0,0.9556901821642981,0.9241418428152506,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,254,2,7:48,468,468,Pauly Paulicap made Free Throw.,58,49,9,0,0.9438121958877258,0.9046505603897947,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,255,2,7:22,442,442,Aleksandar Dozic Turnover.,58,49,9,26,0.9469027555159356,0.9105201939565579,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,256,2,7:21,441,441,Thomas Capuano Steal.,58,49,9,1,0.9470429552686623,0.9107816022052947,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,257,2,7:08,428,428,Pauly Paulicap missed Dunk.,58,49,9,13,0.9490255191700634,0.9144465774018036,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,258,2,7:08,428,428,Aleksandar Dozic Defensive Rebound.,58,49,9,0,0.9490255191700634,0.9144465774018036,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,259,2,6:43,403,403,Aleksandar Dozic made Layup. Assisted by Brian Parker.,60,49,11,25,0.9719203983052698,0.9526286151915184,4,4,6,NA,NA,Marist,made,Aleksandar Dozic,Brian Parker,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,260,2,6:19,379,379,Pauly Paulicap made Layup.,60,51,9,24,0.955447095697547,0.9265496413000239,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,261,2,5:50,350,350,Austin Williams made Dunk. Assisted by Aleksandar Dozic.,62,51,11,29,0.9769379003937857,0.9620118811084057,4,4,6,NA,NA,Marist,made,Austin Williams,Aleksandar Dozic,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,262,2,5:32,332,332,Nehemiah Mack missed Three Point Jumper.,62,51,11,18,0.9789302306904754,0.9656043383464777,4,4,6,NA,NA,Manhattan,missed,Nehemiah Mack,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,263,2,5:32,332,332,Aleksandar Dozic Defensive Rebound.,62,51,11,0,0.9789302306904754,0.9656043383464777,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,264,2,5:16,316,316,Ryan Funk missed Three Point Jumper.,62,51,11,16,0.9809158140933558,0.9691036074227821,4,4,6,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,265,2,5:16,316,316,Austin Williams Offensive Rebound.,62,51,11,0,0.9809158140933558,0.9691036074227821,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,266,2,5:02,302,302,Ryan Funk made Three Point Jumper. Assisted by Brian Parker.,65,51,14,14,0.9932743458732523,0.9891220385957721,4,4,6,NA,NA,Marist,made,Ryan Funk,Brian Parker,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,267,2,4:59,299,299,Manhattan  Timeout,65,51,14,3,0.9933638237844862,0.989286243643911,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,268,2,4:50,290,290,Samir Stewart Turnover.,65,51,14,9,0.9934704576205483,0.9895164892935778,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,269,2,4:49,289,289,Aleksandar Dozic Steal.,65,51,14,1,0.9934695089135341,0.9895214691658294,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,270,2,4:32,272,272,Aleksandar Dozic missed Three Point Jumper.,65,51,14,17,0.9931725423125866,0.9891619254173817,4,3,6,NA,NA,Marist,missed,Aleksandar Dozic,NA,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,271,2,4:32,272,272,Ebube Ebube Defensive Rebound.,65,51,14,0,0.9931725423125866,0.9891619254173817,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,272,2,4:00,240,240,Thomas Capuano missed Three Point Jumper.,65,51,14,32,0.992204193356133,0.9878835191047693,4,3,6,NA,NA,Manhattan,missed,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,273,2,4:00,240,240,Brian Parker Defensive Rebound.,65,51,14,0,0.992204193356133,0.9878835191047693,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,274,2,3:58,238,238,Foul on Ebube Ebube.,65,51,14,2,0.9921802675866458,0.9878628183532495,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,275,2,3:58,238,238,Official TV Timeout,65,51,14,0,0.9921802675866458,0.9878628183532495,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,276,2,3:58,238,238,Brian Parker made Free Throw.,66,51,15,0,0.9942768029333595,0.9911065220471259,4,3,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,277,2,3:58,238,238,Brian Parker made Free Throw.,67,51,16,0,0.995813611412533,0.9934890483640576,4,3,6,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,278,2,3:44,224,224,Thomas Capuano Turnover.,67,51,16,14,0.9959073079702463,0.9936961632456685,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,279,2,3:43,223,223,Matthew Herasme Steal.,67,51,16,1,0.9959289808217187,0.9937339650862201,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,280,2,3:16,196,196,Brian Parker missed Three Point Jumper.,67,51,16,27,0.997289983839581,0.9959112535382464,4,3,6,NA,NA,Marist,missed,Brian Parker,NA,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,281,2,3:16,196,196,Pauly Paulicap Defensive Rebound.,67,51,16,0,0.997289983839581,0.9959112535382464,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,282,2,3:07,187,187,Foul on Brian Parker.,67,51,16,9,0.9979379875775806,0.9969113107609964,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,283,2,3:06,186,186,Technical Foul on Brian Parker.,67,51,16,1,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,284,2,3:06,186,186,Foul on Brian Parker.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,285,2,3:06,186,186,Technical Foul on Marist.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,286,2,3:06,186,186,Technical Foul on Aleksandar Dozic.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,287,2,3:06,186,186,Foul on Aleksandar Dozic.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,288,2,3:06,186,186,Technical Foul on Pauly Paulicap.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,289,2,3:06,186,186,Foul on Pauly Paulicap.,67,51,16,0,0.9980039268675259,0.9970125303833172,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,290,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,52,15,0,0.9971324607348996,0.9957100907123263,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,291,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,53,14,0,0.995882090846835,0.9938433360298576,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,292,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,54,13,0,0.9940897377845367,0.991171465242737,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,293,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,55,12,0,0.9915238885060961,0.9873548086363291,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,294,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,56,11,0,0.9878577212865615,0.9819182764928265,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,295,2,3:06,186,186,Nehemiah Mack made Free Throw.,67,57,10,0,0.9826336027893882,0.9742054847519612,4,3,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,296,2,2:48,168,168,Foul on Ebube Ebube.,67,57,10,18,0.9879388887960617,0.9823125746593295,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,297,2,2:48,168,168,Ryan Funk made Free Throw.,68,57,11,0,0.9918966396674423,0.9880943036081392,4,3,6,NA,NA,Marist,made,Ryan Funk,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,298,2,2:48,168,168,Ryan Funk made Free Throw.,69,57,12,0,0.9945628357771712,0.9920014693225357,4,3,6,NA,NA,Marist,made,Ryan Funk,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,299,2,2:40,160,160,Tykei Greene missed Three Point Jumper.,69,57,12,8,0.9955931960499266,0.9935599147006708,4,3,6,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,300,2,2:40,160,160,Pauly Paulicap Offensive Rebound.,69,57,12,0,0.9955931960499266,0.9935599147006708,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,301,2,2:35,155,155,Pauly Paulicap missed Two Point Tip Shot.,69,57,12,5,0.9961585547119637,0.9944098795696423,4,3,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,302,2,2:35,155,155,Brian Parker Defensive Rebound.,69,57,12,0,0.9961585547119637,0.9944098795696423,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,303,2,2:34,154,154,Foul on Ebube Ebube.,69,57,12,1,0.9962649811633792,0.9945694140673582,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,304,2,2:34,154,154,Brian Parker missed Free Throw.,69,57,12,0,0.9962649811633792,0.9945694140673582,4,3,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,305,2,2:34,154,154,Marist Deadball Team Rebound.,69,57,12,0,0.9962649811633792,0.9945694140673582,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,306,2,2:34,154,154,Brian Parker missed Free Throw.,69,57,12,0,0.9962649811633792,0.9945694140673582,4,3,6,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,307,2,2:34,154,154,Pauly Paulicap Defensive Rebound.,69,57,12,0,0.9962649811633792,0.9945694140673582,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,308,2,2:21,141,141,Foul on Ebube Ebube.,69,57,12,13,0.9974660159912089,0.9963576389389346,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,309,2,2:21,141,141,Ebube Ebube Turnover.,69,57,12,0,0.9974660159912089,0.9963576389389346,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,310,2,1:51,111,111,Aleksandar Dozic Turnover.,69,57,12,30,0.9991672028068422,0.9988366658087897,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,311,2,1:33,93,93,Foul on Matthew Herasme.,69,57,12,18,0.9996492688228312,0.9995191053764887,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,312,2,1:33,93,93,Tykei Greene missed Free Throw.,69,57,12,0,0.9996492688228312,0.9995191053764887,4,3,6,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,313,2,1:33,93,93,Manhattan Deadball Team Rebound.,69,57,12,0,0.9996492688228312,0.9995191053764887,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,314,2,1:33,93,93,Tykei Greene made Free Throw.,69,58,11,0,0.9993372995748945,0.9990914632451129,4,3,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,TRUE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,315,2,1:17,77,77,Ryan Funk made Three Point Jumper. Assisted by Darius Hines.,72,58,14,16,0.9999642037577271,0.9999517588927416,4,3,6,NA,NA,Marist,made,Ryan Funk,Darius Hines,TRUE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,316,2,1:01,61,61,Tykei Greene Turnover.,72,58,14,16,0.9999883504557625,0.9999845812854065,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,317,2,0:38,38,38,Darius Hines made Jumper.,74,58,16,23,0.999999695209924,0.9999996073879375,4,3,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,FALSE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,318,2,0:23,23,23,Tykei Greene missed Three Point Jumper.,74,58,16,15,0.9999999310789882,0.9999999128433157,4,3,6,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,319,2,0:23,23,23,Nehemiah Mack Offensive Rebound.,74,58,16,0,0.9999999310789882,0.9999999128433157,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,320,2,0:18,18,18,Nehemiah Mack missed Three Point Jumper.,74,58,16,5,0.9999999590354195,0.9999999485211375,4,3,6,NA,NA,Manhattan,missed,Nehemiah Mack,NA,TRUE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,321,2,0:18,18,18,Tykei Greene Offensive Rebound.,74,58,16,0,0.9999999590354195,0.9999999485211375,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,322,2,0:17,17,17,Tykei Greene made Layup.,74,60,14,1,0.9999996958648654,0.9999996182874278,4,3,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,FALSE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,323,2,0:17,17,17,Foul on Aleksandar Dozic.,74,60,14,0,0.9999996958648654,0.9999996182874278,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,324,2,0:17,17,17,Tykei Greene made Free Throw.,74,61,13,0,0.9999991259953764,0.9999989030583232,4,3,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,TRUE,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,325,2,0:17,17,17,Manhattan  Timeout,74,61,13,0,0.9999991259953764,0.9999989030583232,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085959,2019-01-08,Marist,Manhattan,326,2,0:10,10,10,Foul on Nehemiah Mack.,74,61,13,7,0.9999995297323664,0.9999994150474827,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,327,2,0:10,10,10,Darius Hines made Free Throw.,75,61,14,0,0.9999998440831741,0.9999998060594856,4,2,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Marist
+401085959,2019-01-08,Marist,Manhattan,328,2,0:10,10,10,Darius Hines made Free Throw.,76,61,15,0,0.9999999483059225,0.9999999356992026,4,2,6,NA,NA,Marist,made,Darius Hines,NA,FALSE,TRUE,Marist,Manhattan
+401085959,2019-01-08,Marist,Manhattan,329,2,0:05,5,5,Nehemiah Mack made Layup.,76,63,13,5,0.99999970231513,0.9999996321153548,4,2,6,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,FALSE,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,330,2,0:05,5,5,Manhattan  Timeout,76,63,13,0,0.99999970231513,0.9999996321153548,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401085959,2019-01-08,Marist,Manhattan,331,2,0:04,4,4,Foul on Tykei Greene.,76,63,13,1,0.999999728658873,0.9999996651094031,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401085959,2019-01-08,Marist,Manhattan,332,2,0:04,4,4,Matthew Herasme made Free Throw.,77,63,14,0,0.999999913815071,0.9999998936301184,4,1,6,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,NA
+401085959,2019-01-08,Marist,Manhattan,333,2,0:04,4,4,Matthew Herasme made Free Throw.,78,63,15,0,0.9999999726254508,0.9999999662141904,4,1,6,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,NA
+401085959,2019-01-08,Marist,Manhattan,334,2,0:00,0,0,End of Game,78,78,0,4,1,1,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA

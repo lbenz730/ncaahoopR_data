@@ -1,0 +1,320 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401082426,2018-12-06,Purdue,Maryland,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8090546505682268,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
+401082426,2018-12-06,Purdue,Maryland,2,1,19:29,2369,2369,Nojel Eastern missed Jumper.,0,0,0,31,0.80835491839947,0.5,4,4,9,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,3,1,19:25,2365,2365,Nojel Eastern Offensive Rebound.,0,0,0,4,0.8082625830190991,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,4,1,19:24,2364,2364,Carsen Edwards missed Three Point Jumper.,0,0,0,1,0.8082394246955776,0.5,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,5,1,19:20,2360,2360,Eric Ayala Defensive Rebound.,0,0,0,4,0.8081464921223888,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,6,1,19:00,2340,2340,Darryl Morsell made Jumper.,0,2,-2,20,0.7778603588779689,0.4546922706473648,4,4,9,NA,NA,Maryland,made,Darryl Morsell,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,7,1,18:50,2330,2330,Grady Eifert made Three Point Jumper. Assisted by Ryan Cline.,3,2,1,10,0.8212334814922472,0.5228103413139579,4,4,9,NA,NA,Purdue,made,Grady Eifert,Ryan Cline,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,8,1,18:24,2304,2304,Jalen Smith made Three Point Jumper. Assisted by Anthony Cowan Jr..,3,5,-2,26,0.7763270549143644,0.4539013430582895,4,4,9,NA,NA,Maryland,made,Jalen Smith,Anthony Cowan Jr,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,9,1,17:31,2251,2251,Darryl Morsell Turnover.,5,5,0,53,0.8054189495109346,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,10,1,17:31,2251,2251,Nojel Eastern Steal.,5,5,0,0,0.8054189495109346,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,11,1,17:24,2244,2244,Nojel Eastern made Layup.,7,5,2,7,0.8333649119022136,0.5474457454180928,4,4,9,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,12,1,17:06,2226,2226,Eric Ayala missed Three Point Jumper.,7,5,2,18,0.8331579644401403,0.5478555076754315,4,4,9,NA,NA,Maryland,missed,Eric Ayala,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,13,1,17:02,2222,2222,Jalen Smith Offensive Rebound.,7,5,2,4,0.8331108217403648,0.5479468560005873,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,14,1,17:01,2221,2221,Jalen Smith missed Jumper.,7,5,2,1,0.8330989691810599,0.5479697085553288,4,4,9,NA,NA,Maryland,missed,Jalen Smith,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,15,1,16:57,2217,2217,Matt Haarms Defensive Rebound.,7,5,2,4,0.8330512893747581,0.5480611790931701,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,16,1,16:55,2215,2215,Ryan Cline missed Three Point Jumper.,7,5,2,2,0.8330272867811169,0.5481069498185104,4,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,17,1,16:51,2211,2211,Darryl Morsell Defensive Rebound.,7,5,2,4,0.832978953498584,0.5481985600824828,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,18,1,16:44,2204,2204,Anthony Cowan Jr. missed Jumper.,7,5,2,7,0.8328933062766901,0.5483590900647362,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,19,1,16:44,2204,2204,Matt Haarms Block.,7,5,2,0,0.8328933062766901,0.5483590900647362,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,20,1,16:37,2197,2197,Ryan Cline Defensive Rebound.,7,5,2,7,0.8328062848830579,0.5485198744639151,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,21,1,16:34,2194,2194,Foul on Jalen Smith.,7,5,2,3,0.8327685635360309,0.5485888554868421,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,22,1,16:34,2194,2194,Matt Haarms missed Free Throw.,7,5,2,0,0.8327685635360309,0.5485888554868421,4,4,9,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,23,1,16:34,2194,2194,Purdue Deadball Team Rebound.,7,5,2,0,0.8327685635360309,0.5485888554868421,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,24,1,16:34,2194,2194,Matt Haarms made Free Throw.,8,5,3,0,0.8459082142975142,0.5725973120619123,4,4,9,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,25,1,16:16,2176,2176,Anthony Cowan Jr. made Jumper.,8,7,1,18,0.8183770904798746,0.524560908778585,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,26,1,16:02,2162,2162,Grady Eifert missed Jumper.,8,7,1,14,0.8180806632150409,0.5247238603202675,4,4,9,NA,NA,Purdue,missed,Grady Eifert,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,27,1,15:59,2159,2159,Bruno Fernando Defensive Rebound.,8,7,1,3,0.8180163372250975,0.5247588679929944,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,28,1,15:52,2152,2152,Official TV Timeout,8,7,1,7,0.8178651617581786,0.524840689840124,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,29,1,15:40,2140,2140,Bruno Fernando made Layup.,8,9,-1,12,0.7858636039059745,0.4750185827432703,4,4,9,NA,NA,Maryland,made,Bruno Fernando,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,30,1,15:18,2118,2118,Carsen Edwards Turnover.,8,9,-1,22,0.7849562695154765,0.47475898160724683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,31,1,14:59,2099,2099,Darryl Morsell made Three Point Jumper.,8,12,-4,19,0.7279372988824713,0.39943376532622993,4,4,9,NA,NA,Maryland,made,Darryl Morsell,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,32,1,14:39,2079,2079,Evan Boudreaux Turnover.,8,12,-4,20,0.7263589560808227,0.3985113043618543,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,33,1,14:20,2060,2060,Bruno Fernando missed Jumper.,8,12,-4,19,0.7248335665866578,0.3976281053635682,4,4,9,NA,NA,Maryland,missed,Bruno Fernando,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,34,1,14:16,2056,2056,Aaron Wiggins Offensive Rebound.,8,12,-4,4,0.7245091789983914,0.3974412756655394,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,35,1,14:07,2047,2047,Anthony Cowan Jr. missed Jumper.,8,12,-4,9,0.7237751420495523,0.3970197341967573,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,36,1,14:03,2043,2043,Carsen Edwards Defensive Rebound.,8,12,-4,4,0.7234470457226125,0.39683185120046743,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,37,1,14:01,2041,2041,Carsen Edwards missed Layup.,8,12,-4,2,0.7232825675109078,0.3967377852457384,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,38,1,14:01,2041,2041,Darryl Morsell Block.,8,12,-4,0,0.7232825675109078,0.3967377852457384,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,39,1,14:00,2040,2040,Purdue Offensive Rebound.,8,12,-4,1,0.7232002207349821,0.3966907209369003,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,40,1,13:55,2035,2035,Ryan Cline missed Three Point Jumper.,8,12,-4,5,0.7227874083464982,0.3964550835959324,4,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,41,1,13:51,2031,2031,Evan Boudreaux Offensive Rebound.,8,12,-4,4,0.7224558615095561,0.39626619104652805,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,42,1,13:50,2030,2030,Evan Boudreaux Turnover.,8,12,-4,1,0.7223727942941074,0.39621891424323763,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,43,1,13:50,2030,2030,Anthony Cowan Jr. Steal.,8,12,-4,0,0.7223727942941074,0.39621891424323763,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,44,1,13:42,2022,2022,Aaron Wiggins made Three Point Jumper.,8,15,-7,8,0.6538070533170339,0.32301479108230846,4,4,9,NA,NA,Maryland,made,Aaron Wiggins,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,45,1,13:27,2007,2007,Foul on Ricky Lindo Jr..,8,15,-7,15,0.6518753714652159,0.32187224220108956,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,46,1,13:26,2006,2006,Carsen Edwards missed Layup.,8,15,-7,1,0.6517457546106369,0.3217958318953455,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,47,1,13:26,2006,2006,Aaron Wheeler Offensive Rebound.,8,15,-7,0,0.6517457546106369,0.3217958318953455,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,48,1,13:26,2006,2006,Aaron Wheeler made Dunk.,10,15,-5,0,0.698408478343014,0.3699288150431631,4,4,9,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,49,1,13:26,2006,2006,Ricky Lindo Jr. made Three Point Jumper. Assisted by Serrel Smith Jr..,10,18,-8,0,0.6271985754694728,0.29900603191963626,4,4,9,NA,NA,NA,made,Ricky Lindo Jr.,Serrel Smith Jr,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,50,1,13:24,2004,2004,Foul on Carsen Edwards.,10,18,-8,2,0.6269077894384635,0.2988382009460382,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,51,1,13:24,2004,2004,Carsen Edwards Turnover.,10,18,-8,0,0.6269077894384635,0.2988382009460382,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,52,1,12:18,1938,1938,Jalen Smith missed Layup.,10,18,-8,66,0.6170496886942137,0.2932267026449202,4,4,9,NA,NA,Maryland,missed,Jalen Smith,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,53,1,12:18,1938,1938,Matt Haarms Defensive Rebound.,10,18,-8,0,0.6170496886942137,0.2932267026449202,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,54,1,12:18,1938,1938,Matt Haarms Block.,10,18,-8,0,0.6170496886942137,0.2932267026449202,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,55,1,12:06,1926,1926,Sasha Stefanovic missed Three Point Jumper.,10,18,-8,12,0.6152018032037908,0.2921906586357105,4,4,9,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,56,1,12:02,1922,1922,Anthony Cowan Jr. Defensive Rebound.,10,18,-8,4,0.6145831443890867,0.2918455702936408,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,57,1,12:02,1922,1922,Aaron Wiggins Turnover.,10,18,-8,0,0.6145831443890867,0.2918455702936408,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,58,1,11:53,1913,1913,Matt Haarms Turnover.,10,18,-8,9,0.6131871736247347,0.2910707193554816,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,59,1,11:53,1913,1913,Official TV Timeout,10,18,-8,0,0.6131871736247347,0.2910707193554816,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,60,1,11:41,1901,1901,Serrel Smith Jr. Turnover.,10,18,-8,12,0.6113168313149172,0.2900404841526619,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,61,1,11:22,1882,1882,Nojel Eastern missed Jumper.,10,18,-8,19,0.608332588866503,0.28841404312329266,4,4,9,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,62,1,11:22,1882,1882,Bruno Fernando Block.,10,18,-8,0,0.608332588866503,0.28841404312329266,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,63,1,11:17,1877,1877,Bruno Fernando Defensive Rebound.,10,18,-8,5,0.6075422862818186,0.28798663701442784,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,64,1,11:09,1869,1869,Serrel Smith Jr. missed Three Point Jumper.,10,18,-8,8,0.606273244786756,0.2873030314906793,4,4,9,NA,NA,Maryland,missed,Serrel Smith Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,65,1,11:03,1863,1863,Aaron Wheeler Defensive Rebound.,10,18,-8,6,0.6053176647135531,0.28679039134831197,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,66,1,10:40,1840,1840,Aaron Wheeler made Three Point Jumper. Assisted by Ryan Cline.,13,18,-5,23,0.6808058283756488,0.3599890711338369,4,4,9,NA,NA,Purdue,made,Aaron Wheeler,Ryan Cline,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,67,1,10:09,1809,1809,Joshua Tomaic Turnover.,13,18,-5,31,0.6772783512941208,0.3581035421597241,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,68,1,9:46,1786,1786,Matt Haarms made Jumper.,15,18,-3,23,0.7241207923050915,0.41244683720585124,4,4,9,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,69,1,9:21,1761,1761,Aaron Wiggins missed Layup.,15,18,-3,25,0.7219686406794081,0.41145840902046776,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,70,1,9:21,1761,1761,Aaron Wheeler Block.,15,18,-3,0,0.7219686406794081,0.41145840902046776,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,71,1,9:16,1756,1756,Matt Haarms Defensive Rebound.,15,18,-3,5,0.7215328365481241,0.41125862344198505,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,72,1,9:15,1755,1755,Sasha Stefanovic Turnover.,15,18,-3,1,0.7214454579615691,0.41121857540469137,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,73,1,9:15,1755,1755,Darryl Morsell Steal.,15,18,-3,0,0.7214454579615691,0.41121857540469137,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,74,1,9:09,1749,1749,Aaron Wiggins missed Three Point Jumper.,15,18,-3,6,0.7209196544716169,0.41097763199191734,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,75,1,9:06,1746,1746,Maryland Offensive Rebound.,15,18,-3,3,0.7206557637823455,0.4108567290597538,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,76,1,9:04,1744,1744,Anthony Cowan Jr. missed Three Point Jumper.,15,18,-3,2,0.7204794687048633,0.41077596330601296,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,77,1,9:01,1741,1741,Carsen Edwards Defensive Rebound.,15,18,-3,3,0.7202144723301502,0.41065456452204235,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,78,1,8:56,1736,1736,Sasha Stefanovic missed Three Point Jumper.,15,18,-3,5,0.7197713289001383,0.4104515512970753,4,4,9,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,79,1,8:51,1731,1731,Matt Haarms Offensive Rebound.,15,18,-3,5,0.7193263220037399,0.41024766156797043,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,80,1,8:40,1720,1720,Carsen Edwards missed Three Point Jumper.,15,18,-3,11,0.7183406906100408,0.4097958819199593,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,81,1,8:37,1717,1717,Bruno Fernando Defensive Rebound.,15,18,-3,3,0.7180702908684108,0.4096718708022683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,82,1,8:37,1717,1717,Foul on Matt Haarms.,15,18,-3,0,0.7180702908684108,0.4096718708022683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,83,1,8:15,1695,1695,Foul on Eric Hunter Jr..,15,18,-3,22,0.7160662154261292,0.40875126774425313,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,84,1,8:15,1695,1695,Anthony Cowan Jr. made Free Throw.,15,19,-4,0,0.6903996285574079,0.3793817284928576,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,85,1,8:15,1695,1695,Anthony Cowan Jr. missed Free Throw.,15,19,-4,0,0.6903996285574079,0.3793817284928576,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,86,1,8:15,1695,1695,Jalen Smith Offensive Rebound.,15,19,-4,0,0.6903996285574079,0.3793817284928576,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,87,1,7:56,1676,1676,Foul on Bruno Fernando.,15,19,-4,19,0.688313806329451,0.3783413796970827,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,88,1,7:56,1676,1676,Bruno Fernando Turnover.,15,19,-4,0,0.688313806329451,0.3783413796970827,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,89,1,7:56,1676,1676,Official TV Timeout,15,19,-4,0,0.688313806329451,0.3783413796970827,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,90,1,7:38,1658,1658,Carsen Edwards made Three Point Jumper. Assisted by Eric Hunter Jr..,18,19,-1,18,0.7610587164283689,0.46874813716322183,4,4,9,NA,NA,Purdue,made,Carsen Edwards,Eric Hunter Jr,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,91,1,7:14,1634,1634,Aaron Wiggins missed Three Point Jumper.,18,19,-1,24,0.7595222726506716,0.46841611073538614,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,92,1,7:10,1630,1630,Eric Hunter Jr. Defensive Rebound.,18,19,-1,4,0.75926245946893,0.46836135323666955,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,93,1,7:05,1625,1625,Eric Hunter Jr. missed Jumper.,18,19,-1,5,0.7589362462163253,0.46829307151024974,4,4,9,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,94,1,7:05,1625,1625,Jalen Smith Block.,18,19,-1,0,0.7589362462163253,0.46829307151024974,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,95,1,7:01,1621,1621,Darryl Morsell Defensive Rebound.,18,19,-1,4,0.7586741358345169,0.46823855682390153,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,96,1,6:58,1618,1618,Anthony Cowan Jr. missed Layup.,18,19,-1,3,0.758476897704256,0.4681977238463864,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,97,1,6:52,1612,1612,Jalen Smith Offensive Rebound.,18,19,-1,6,0.7580807629059712,0.4681161621424265,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,98,1,6:52,1612,1612,Jalen Smith made Layup.,18,21,-3,0,0.7082228971639082,0.4053731843877757,4,4,9,NA,NA,Maryland,made,Jalen Smith,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,99,1,6:40,1600,1600,Foul on Anthony Cowan Jr..,18,21,-3,12,0.7070521179182184,0.4049001017541032,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,100,1,6:40,1600,1600,Carsen Edwards made Free Throw.,19,21,-2,0,0.7329169303664533,0.43616871375925254,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,101,1,6:40,1600,1600,Carsen Edwards made Free Throw.,20,21,-1,0,0.7572820320711664,0.4679532481447939,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,102,1,6:40,1600,1600,Carsen Edwards made Free Throw.,21,21,0,0,0.7800913125671705,0.5,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,103,1,6:29,1589,1589,Darryl Morsell missed Three Point Jumper.,21,21,0,11,0.7795042797772915,0.5,4,4,9,NA,NA,Maryland,missed,Darryl Morsell,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,104,1,6:24,1584,1584,Aaron Wiggins Offensive Rebound.,21,21,0,5,0.7792355690226876,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,105,1,6:22,1582,1582,Eric Ayala made Layup.,21,23,-2,2,0.7314317225570167,0.43568527641762095,4,4,9,NA,NA,Maryland,made,Eric Ayala,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,106,1,6:07,1567,1567,Evan Boudreaux missed Jumper.,21,23,-2,15,0.7301781986234063,0.43527980666719035,4,4,9,NA,NA,Purdue,missed,Evan Boudreaux,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,107,1,6:02,1562,1562,Anthony Cowan Jr. Defensive Rebound.,21,23,-2,5,0.7297571748107324,0.4351437807975589,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,108,1,5:58,1558,1558,Darryl Morsell made Layup. Assisted by Anthony Cowan Jr..,21,25,-4,4,0.6748796303884541,0.37222621910240133,4,4,9,NA,NA,Maryland,made,Darryl Morsell,Anthony Cowan Jr,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,109,1,5:43,1543,1543,Grady Eifert missed Three Point Jumper.,21,25,-4,15,0.6730912776386025,0.3714406714863181,4,4,9,NA,NA,Purdue,missed,Grady Eifert,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,110,1,5:38,1538,1538,Anthony Cowan Jr. Defensive Rebound.,21,25,-4,5,0.6724900936559511,0.3711760500209782,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,111,1,5:32,1532,1532,Eric Ayala Turnover.,21,25,-4,6,0.6717651985328921,0.3708563834300123,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,112,1,5:23,1523,1523,Ryan Cline missed Three Point Jumper.,21,25,-4,9,0.6706705427208798,0.3703720884259338,4,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,113,1,5:15,1515,1515,Nojel Eastern Offensive Rebound.,21,25,-4,8,0.6696899077162006,0.369936244833351,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,114,1,5:15,1515,1515,Nojel Eastern made Layup.,23,25,-2,0,0.7257226429314769,0.4338291323327681,4,4,9,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,115,1,5:03,1503,1503,Anthony Cowan Jr. missed Three Point Jumper.,23,25,-2,12,0.7246705182022922,0.4334789679037415,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,116,1,5:00,1500,1500,Bruno Fernando Offensive Rebound.,23,25,-2,3,0.7244061023317516,0.4333902537036293,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,117,1,4:59,1499,1499,Foul on Ryan Cline.,23,25,-2,1,0.7243178409908604,0.4333605722803351,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,118,1,4:59,1499,1499,Bruno Fernando made Free Throw.,23,26,-3,0,0.6967576169918495,0.4007767751478578,4,4,9,NA,NA,Maryland,made,Bruno Fernando,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,119,1,4:59,1499,1499,Bruno Fernando made Free Throw.,23,27,-4,0,0.6677061778038071,0.36904729070710635,4,4,9,NA,NA,Maryland,made,Bruno Fernando,NA,FALSE,TRUE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,120,1,4:41,1481,1481,Carsen Edwards made Jumper.,25,27,-2,18,0.7227186880544252,0.43281622433503275,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,121,1,4:24,1464,1464,Bruno Fernando made Dunk. Assisted by Anthony Cowan Jr..,25,29,-4,17,0.6632541370420055,0.3670047840167009,4,4,9,NA,NA,Maryland,made,Bruno Fernando,Anthony Cowan Jr,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,122,1,4:09,1449,1449,Foul on Matt Haarms.,25,29,-4,15,0.6612949795216365,0.3660801847224355,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,123,1,4:09,1449,1449,Matt Haarms Turnover.,25,29,-4,0,0.6612949795216365,0.3660801847224355,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,124,1,3:57,1437,1437,Anthony Cowan Jr. Turnover.,25,29,-4,12,0.6597196756294619,0.36534087531580206,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,125,1,3:57,1437,1437,Official TV Timeout,25,29,-4,0,0.6597196756294619,0.36534087531580206,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,126,1,3:48,1428,1428,Foul on Darryl Morsell.,25,29,-4,9,0.6585410161661551,0.3647985593416411,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,127,1,3:48,1428,1428,Carsen Edwards made Free Throw.,26,29,-3,0,0.6890000212181632,0.39748684697140607,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,128,1,3:48,1428,1428,Carsen Edwards made Free Throw.,27,29,-2,0,0.7179058749586879,0.43111622490188006,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,129,1,3:20,1400,1400,Serrel Smith Jr. missed Jumper.,27,29,-2,28,0.7153240782574567,0.43024976089094946,4,4,9,NA,NA,Maryland,missed,Serrel Smith Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,130,1,3:16,1396,1396,Purdue Defensive Rebound.,27,29,-2,4,0.7149529011156438,0.4301283717531999,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,131,1,3:06,1386,1386,Ryan Cline Turnover.,27,29,-2,10,0.7140219493428983,0.4298265676490916,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,132,1,3:06,1386,1386,Aaron Wiggins Steal.,27,29,-2,0,0.7140219493428983,0.4298265676490916,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,133,1,3:01,1381,1381,Aaron Wiggins made Three Point Jumper. Assisted by Anthony Cowan Jr..,27,32,-5,5,0.6196243323242853,0.33005648622952743,4,4,9,NA,NA,Maryland,made,Aaron Wiggins,Anthony Cowan Jr,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,134,1,2:43,1363,1363,Aaron Wheeler Turnover.,27,32,-5,18,0.6168941752572705,0.3288406901790264,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,135,1,2:27,1347,1347,Foul on Carsen Edwards.,27,32,-5,16,0.6144467524025234,0.3277582697610661,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,136,1,2:22,1342,1342,Foul on Serrel Smith Jr..,27,32,-5,5,0.6136766500271394,0.3274182082858763,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,137,1,2:22,1342,1342,Serrel Smith Jr. Turnover.,27,32,-5,0,0.6136766500271394,0.3274182082858763,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,138,1,2:06,1326,1326,Nojel Eastern missed Three Point Jumper.,27,32,-5,16,0.6111914304227056,0.32631978539108847,4,4,9,NA,NA,Purdue,missed,Nojel Eastern,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,139,1,2:03,1323,1323,Bruno Fernando Defensive Rebound.,27,32,-5,3,0.6107214664549078,0.32611160882987483,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,140,1,1:58,1318,1318,Eric Ayala missed Layup.,27,32,-5,5,0.6099350857445269,0.32576274746838085,4,4,9,NA,NA,Maryland,missed,Eric Ayala,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,141,1,1:54,1314,1314,Aaron Wheeler Defensive Rebound.,27,32,-5,4,0.6093030441503188,0.3254817950831473,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,142,1,1:39,1299,1299,Aaron Wheeler missed Three Point Jumper.,27,32,-5,15,0.6069074070514308,0.3244110595132529,4,4,9,NA,NA,Purdue,missed,Aaron Wheeler,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,143,1,1:36,1296,1296,Bruno Fernando Defensive Rebound.,27,32,-5,3,0.6064230630572222,0.3241932425880233,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,144,1,1:22,1282,1282,Bruno Fernando Turnover.,27,32,-5,14,0.6041372973670275,0.3231579245916235,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,145,1,1:12,1272,1272,Carsen Edwards missed Three Point Jumper.,27,32,-5,10,0.6024767598505655,0.32239716065435847,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,146,1,1:08,1268,1268,Anthony Cowan Jr. Defensive Rebound.,27,32,-5,4,0.6018055273513991,0.32208735367072144,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,147,1,1:03,1263,1263,Foul on Aaron Wheeler.,27,32,-5,5,0.6009605631991735,0.3216953797106816,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,148,1,1:03,1263,1263,Anthony Cowan Jr. made Free Throw.,27,33,-6,0,0.5647028546412758,0.2900400199655673,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,149,1,1:03,1263,1263,Anthony Cowan Jr. made Free Throw.,27,34,-7,0,0.5277396119115275,0.2603042198420416,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,150,1,0:55,1255,1255,Sasha Stefanovic Turnover.,27,34,-7,8,0.5260282575342449,0.25951560736848217,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,151,1,0:55,1255,1255,Aaron Wiggins Steal.,27,34,-7,0,0.5260282575342449,0.25951560736848217,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,152,1,0:45,1245,1245,Maryland  Timeout,27,34,-7,10,0.5238531852219909,0.25850458060239256,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,153,1,0:26,1226,1226,Anthony Cowan Jr. missed Three Point Jumper.,27,34,-7,19,0.5196006507847556,0.256498188460126,3,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,154,1,0:26,1226,1226,Nojel Eastern Block.,27,34,-7,0,0.5196006507847556,0.256498188460126,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,155,1,0:23,1223,1223,Purdue Deadball Team Rebound.,27,34,-7,3,0.5189137950692275,0.2561703277727274,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,156,1,0:06,1206,1206,Aaron Wheeler made Three Point Jumper. Assisted by Nojel Eastern.,30,34,-4,17,0.6273700596704704,0.3509465604153632,3,4,9,NA,NA,Purdue,made,Aaron Wheeler,Nojel Eastern,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,157,1,0:00,1200,1200,End of 1st half,30,34,-4,6,0.6264144378339693,0.3504822574627354,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,NA
+401082426,2018-12-06,Purdue,Maryland,158,2,20:00,1200,1200,PLAY,30,34,-4,0,0.6264144378339693,0.3504822574627354,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
+401082426,2018-12-06,Purdue,Maryland,159,2,19:38,1178,1178,Nojel Eastern Turnover.,30,34,-4,22,0.6229585043053161,0.34882516065978947,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,160,2,19:24,1164,1164,Eric Ayala missed Three Point Jumper.,30,34,-4,14,0.6207879087938514,0.3477988665421915,4,4,9,NA,NA,Maryland,missed,Eric Ayala,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,161,2,19:20,1160,1160,Nojel Eastern Defensive Rebound.,30,34,-4,4,0.6201703681011251,0.3475084686907841,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,162,2,19:08,1148,1148,Carsen Edwards made Three Point Jumper.,33,34,-1,12,0.7226819776103101,0.4604682574188011,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,163,2,18:43,1123,1123,Anthony Cowan Jr. missed Jumper.,33,34,-1,25,0.7206058181465782,0.4599754104356033,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,164,2,18:40,1120,1120,Bruno Fernando Offensive Rebound.,33,34,-1,3,0.7203559496120938,0.45991604080643717,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,165,2,18:32,1112,1112,Darryl Morsell missed Jumper.,33,34,-1,8,0.7196883233089785,0.4597571247978038,4,4,9,NA,NA,Maryland,missed,Darryl Morsell,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,166,2,18:28,1108,1108,Carsen Edwards Defensive Rebound.,33,34,-1,4,0.7193536704883507,0.4596772597820231,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,167,2,18:11,1091,1091,Carsen Edwards missed Three Point Jumper.,33,34,-1,17,0.7179233430999558,0.459333636443864,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,168,2,18:07,1087,1087,Jalen Smith Defensive Rebound.,33,34,-1,4,0.717584531804565,0.45925155911673254,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,169,2,17:43,1063,1063,Darryl Morsell made Layup. Assisted by Jalen Smith.,33,36,-3,24,0.643732619347733,0.378439414513745,4,4,9,NA,NA,Maryland,made,Darryl Morsell,Jalen Smith,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,170,2,17:22,1042,1042,Foul on Eric Ayala.,33,36,-3,21,0.6407960289440353,0.37711505626141645,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,171,2,17:22,1042,1042,Ryan Cline made Free Throw.,34,36,-2,0,0.6783264180711304,0.4171361413531615,4,4,9,NA,NA,Purdue,made,Ryan Cline,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,172,2,17:22,1042,1042,Ryan Cline made Free Throw.,35,36,-1,0,0.7136875983128209,0.45827960646416704,4,4,9,NA,NA,Purdue,made,Ryan Cline,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,173,2,17:02,1022,1022,Jalen Smith missed Three Point Jumper.,35,36,-1,20,0.7118891305772989,0.4578088634829192,4,4,9,NA,NA,Maryland,missed,Jalen Smith,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,174,2,16:57,1017,1017,Matt Haarms Defensive Rebound.,35,36,-1,5,0.7114315176565951,0.4576864638151887,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,175,2,16:48,1008,1008,Grady Eifert missed Layup.,35,36,-1,9,0.7105989585519681,0.4574609101322602,4,4,9,NA,NA,Purdue,missed,Grady Eifert,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,176,2,16:48,1008,1008,Bruno Fernando Block.,35,36,-1,0,0.7105989585519681,0.4574609101322602,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,177,2,16:44,1004,1004,Bruno Fernando Defensive Rebound.,35,36,-1,4,0.710225102340406,0.45735839846629023,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,178,2,16:42,1002,1002,Darryl Morsell made Dunk. Assisted by Anthony Cowan Jr..,35,38,-3,2,0.6348740064495141,0.374356685757639,4,4,9,NA,NA,Maryland,made,Darryl Morsell,Anthony Cowan Jr,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,179,2,16:19,979,979,Ryan Cline missed Three Point Jumper.,35,38,-3,23,0.63122155381795,0.3725926700813277,4,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,180,2,16:16,976,976,Bruno Fernando Defensive Rebound.,35,38,-3,3,0.6307295948579543,0.37235141295364627,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,181,2,16:07,967,967,Bruno Fernando made Three Point Jumper.,35,41,-6,9,0.5009110559489597,0.25911142220757405,4,4,9,NA,NA,Maryland,made,Bruno Fernando,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,182,2,15:43,943,943,Carsen Edwards missed Jumper.,35,41,-6,24,0.4949305158005103,0.2561210313267202,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,183,2,15:40,940,940,Matt Haarms Offensive Rebound.,35,41,-6,3,0.49422657619724136,0.2557739984739504,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,184,2,15:34,934,934,Matt Haarms made Three Point Jumper. Assisted by Carsen Edwards.,38,41,-3,6,0.6241455826853386,0.36916267502101396,4,4,9,NA,NA,Purdue,made,Matt Haarms,Carsen Edwards,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,185,2,15:15,915,915,Bruno Fernando Turnover.,38,41,-3,19,0.6214639076582839,0.36791011567761356,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,186,2,15:15,915,915,Grady Eifert Steal.,38,41,-3,0,0.6214639076582839,0.36791011567761356,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,187,2,15:06,906,906,Grady Eifert made Three Point Jumper. Assisted by Eric Hunter Jr..,41,41,0,9,0.7377256859569311,0.5,4,4,9,NA,NA,Purdue,made,Grady Eifert,Eric Hunter Jr,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,188,2,14:52,892,892,Anthony Cowan Jr. missed Three Point Jumper.,41,41,0,14,0.7369027059424121,0.5,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,189,2,14:47,887,887,Eric Hunter Jr. Defensive Rebound.,41,41,0,5,0.7366114330156199,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,190,2,14:42,882,882,Eric Hunter Jr. Turnover.,41,41,0,5,0.736321060690657,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,191,2,14:42,882,882,Anthony Cowan Jr. Steal.,41,41,0,0,0.736321060690657,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,192,2,14:37,877,877,Foul on Carsen Edwards.,41,41,0,5,0.7360312793202305,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,193,2,14:37,877,877,Official TV Timeout,41,41,0,0,0.7360312793202305,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,194,2,14:37,877,877,Anthony Cowan Jr. made Free Throw.,41,42,-1,0,0.6988201528992298,0.4541897883512107,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,195,2,14:37,877,877,Anthony Cowan Jr. made Free Throw.,41,43,-2,0,0.6587951623391344,0.40914226397449643,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,196,2,14:22,862,862,Evan Boudreaux made Jumper. Assisted by Ryan Cline.,43,43,0,15,0.7351623711922626,0.5,4,4,9,NA,NA,Purdue,made,Evan Boudreaux,Ryan Cline,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,197,2,13:50,830,830,Anthony Cowan Jr. made Three Point Jumper.,43,46,-3,32,0.6099710412773334,0.36259274550246423,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,198,2,13:29,809,809,Ryan Cline made Jumper.,45,46,-1,21,0.6930718257783087,0.45259078187039065,4,4,9,NA,NA,Purdue,made,Ryan Cline,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,199,2,13:09,789,789,Eric Ayala Turnover.,45,46,-1,20,0.6911763620292996,0.45202037513937826,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,200,2,13:09,789,789,Grady Eifert Steal.,45,46,-1,0,0.6911763620292996,0.45202037513937826,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,201,2,13:04,784,784,Nojel Eastern Turnover.,45,46,-1,5,0.6906791052259251,0.45186681480218693,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,202,2,13:04,784,784,Eric Ayala Steal.,45,46,-1,0,0.6906791052259251,0.45186681480218693,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,203,2,12:50,770,770,Darryl Morsell missed Three Point Jumper.,45,46,-1,14,0.6892289575582897,0.45141009693184303,4,4,9,NA,NA,Maryland,missed,Darryl Morsell,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,204,2,12:45,765,765,Bruno Fernando Offensive Rebound.,45,46,-1,5,0.688688608292613,0.451236677246197,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,205,2,12:44,764,764,Bruno Fernando missed Layup.,45,46,-1,1,0.6885790266750967,0.45120130278461806,4,4,9,NA,NA,Maryland,missed,Bruno Fernando,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,206,2,12:44,764,764,Aaron Wheeler Block.,45,46,-1,0,0.6885790266750967,0.45120130278461806,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,207,2,12:41,761,761,Maryland Offensive Rebound.,45,46,-1,3,0.6882471727560908,0.4510937627215034,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,208,2,12:27,747,747,Foul on Sasha Stefanovic.,45,46,-1,14,0.6866334460914807,0.45056239914520996,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,209,2,12:21,741,741,Anthony Cowan Jr. Turnover.,45,46,-1,6,0.68590682661925,0.45031888350509447,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,210,2,12:21,741,741,Sasha Stefanovic Steal.,45,46,-1,0,0.68590682661925,0.45031888350509447,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,211,2,12:17,737,737,Sasha Stefanovic missed Layup.,45,46,-1,4,0.6854099649540631,0.45015096086822265,4,4,9,NA,NA,Purdue,missed,Sasha Stefanovic,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,212,2,12:13,733,733,Maryland Defensive Rebound.,45,46,-1,4,0.6849027801451493,0.4499784277530285,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,213,2,11:52,712,712,Anthony Cowan Jr. missed Three Point Jumper.,45,46,-1,21,0.6822518318358035,0.4490953655878289,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,214,2,11:49,709,709,Purdue Defensive Rebound.,45,46,-1,3,0.6818879056767503,0.44897928397378145,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,215,2,11:49,709,709,Official TV Timeout,45,46,-1,0,0.6818879056767503,0.44897928397378145,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,216,2,11:39,699,699,Aaron Wheeler made Layup. Assisted by Ryan Cline.,47,46,1,10,0.7630677402900526,0.551392729325626,4,4,9,NA,NA,Purdue,made,Aaron Wheeler,Ryan Cline,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,217,2,11:18,678,678,Eric Ayala Turnover.,47,46,1,21,0.7621128438985675,0.5521193560550683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,218,2,11:18,678,678,Sasha Stefanovic Steal.,47,46,1,0,0.7621128438985675,0.5521193560550683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,219,2,11:18,678,678,Foul on Serrel Smith Jr..,47,46,1,0,0.7621128438985675,0.5521193560550683,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,220,2,11:07,667,667,Evan Boudreaux missed Jumper.,47,46,1,11,0.761605747865537,0.5524838899079085,4,4,9,NA,NA,Purdue,missed,Evan Boudreaux,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,221,2,11:03,663,663,Bruno Fernando Defensive Rebound.,47,46,1,4,0.761420254661299,0.5526156694966685,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,222,2,10:44,644,644,Aaron Wiggins made Three Point Jumper. Assisted by Bruno Fernando.,47,49,-2,19,0.6257838318741585,0.39469547423078477,4,4,9,NA,NA,Maryland,made,Aaron Wiggins,Bruno Fernando,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,223,2,10:19,619,619,Ryan Cline missed Three Point Jumper.,47,49,-2,25,0.6216901332542057,0.39295367313355817,4,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,224,2,10:17,617,617,Maryland Defensive Rebound.,47,49,-2,2,0.6213452266472036,0.3928036624075061,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,225,2,9:54,594,594,Jalen Smith missed Jumper.,47,49,-2,23,0.61711869015431,0.39091507225555056,4,4,9,NA,NA,Maryland,missed,Jalen Smith,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,226,2,9:54,594,594,Matt Haarms Block.,47,49,-2,0,0.61711869015431,0.39091507225555056,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,227,2,9:45,585,585,Jalen Smith Offensive Rebound.,47,49,-2,9,0.6153088071274838,0.3900772884249705,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,228,2,9:40,580,580,Aaron Wiggins missed Jumper.,47,49,-2,5,0.6142585312297371,0.38958339805283015,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,229,2,9:40,580,580,Jalen Smith Offensive Rebound.,47,49,-2,0,0.6142585312297371,0.38958339805283015,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,230,2,9:32,572,572,Anthony Cowan Jr. missed Three Point Jumper.,47,49,-2,8,0.6125054280034723,0.3887469921961607,4,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,231,2,9:28,568,568,Carsen Edwards Defensive Rebound.,47,49,-2,4,0.6115931429672289,0.3883060878066032,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,232,2,9:22,562,562,Foul on Anthony Cowan Jr..,47,49,-2,6,0.6101771243732963,0.3876145261232724,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,233,2,9:22,562,562,Carsen Edwards made Free Throw.,48,49,-1,0,0.6630089473832875,0.44307900527163785,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,234,2,9:22,562,562,Carsen Edwards made Free Throw.,49,49,0,0,0.7120594559747364,0.5,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,235,2,8:59,539,539,Aaron Wiggins missed Three Point Jumper.,49,49,0,23,0.7095530827330807,0.5,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,236,2,8:55,535,535,Darryl Morsell Offensive Rebound.,49,49,0,4,0.7091249601479225,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,237,2,8:53,533,533,Anthony Cowan Jr. made Three Point Jumper. Assisted by Darryl Morsell.,49,52,-3,2,0.5453124175419004,0.32996134532871335,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,Darryl Morsell,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,238,2,8:32,512,512,Carsen Edwards missed Three Point Jumper.,49,52,-3,21,0.539362884211522,0.32701065490476894,4,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,239,2,8:32,512,512,Darryl Morsell Block.,49,52,-3,0,0.539362884211522,0.32701065490476894,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,240,2,8:31,511,511,Purdue Offensive Rebound.,49,52,-3,1,0.5390892959543764,0.32687823338887073,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,241,2,8:21,501,501,Aaron Wheeler made Three Point Jumper. Assisted by Nojel Eastern.,52,52,0,10,0.7055803840874945,0.5,4,4,9,NA,NA,Purdue,made,Aaron Wheeler,Nojel Eastern,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,242,2,7:49,469,469,Anthony Cowan Jr. made Jumper.,52,54,-2,32,0.5885298454483622,0.37765872971610065,4,4,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,243,2,7:33,453,453,Aaron Wheeler Turnover.,52,54,-2,16,0.584187284505626,0.37558748027524436,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,244,2,7:33,453,453,Official TV Timeout,52,54,-2,0,0.584187284505626,0.37558748027524436,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,245,2,7:20,440,440,Aaron Wiggins missed Three Point Jumper.,52,54,-2,13,0.5801385144466275,0.373555366946044,4,4,9,NA,NA,Maryland,missed,Aaron Wiggins,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,246,2,7:17,437,437,Nojel Eastern Defensive Rebound.,52,54,-2,3,0.5791243042070255,0.3730328163526508,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,247,2,7:16,436,436,Foul on Bruno Fernando.,52,54,-2,1,0.5787789702585383,0.37285376536745934,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,248,2,7:08,428,428,Foul on Aaron Wiggins.,52,54,-2,8,0.5758877891974226,0.37133730967932765,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,249,2,6:55,415,415,Carsen Edwards made Three Point Jumper.,55,54,1,13,0.7486977601212039,0.566694770645198,4,4,9,NA,NA,Purdue,made,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,250,2,6:22,382,382,Bruno Fernando Turnover.,55,54,1,33,0.7462827667803098,0.5696741290798589,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,251,2,6:22,382,382,Aaron Wheeler Steal.,55,54,1,0,0.7462827667803098,0.5696741290798589,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,252,2,6:15,375,375,Aaron Wheeler made Layup. Assisted by Carsen Edwards.,57,54,3,7,0.8378454388433617,0.700471731495197,4,4,9,NA,NA,Purdue,made,Aaron Wheeler,Carsen Edwards,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,253,2,6:07,367,367,Maryland  Timeout,57,54,3,8,0.8382458537496541,0.7024650008412249,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,254,2,5:52,352,352,Bruno Fernando missed Jumper.,57,54,3,15,0.8391654522463451,0.7065275018802603,3,4,9,NA,NA,Maryland,missed,Bruno Fernando,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,255,2,5:46,346,346,Darryl Morsell Offensive Rebound.,57,54,3,6,0.8396193896271912,0.7083072742888412,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,256,2,5:46,346,346,Darryl Morsell missed Dunk.,57,54,3,0,0.8396193896271912,0.7083072742888412,3,4,9,NA,NA,Maryland,missed,Darryl Morsell,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,257,2,5:45,345,345,Anthony Cowan Jr. Offensive Rebound.,57,54,3,1,0.8397008439322166,0.7086139852446883,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,258,2,5:37,337,337,Bruno Fernando missed Dunk.,57,54,3,8,0.8404190957049437,0.7111814983914941,3,4,9,NA,NA,Maryland,missed,Bruno Fernando,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,259,2,5:33,333,333,Ryan Cline Defensive Rebound.,57,54,3,4,0.8408266040579316,0.7125468687634497,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,260,2,5:18,318,318,Matt Haarms made Dunk. Assisted by Carsen Edwards.,59,54,5,15,0.9090543971680447,0.8262692035912539,3,4,9,NA,NA,Purdue,made,Matt Haarms,Carsen Edwards,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,261,2,4:44,284,284,Maryland  Turnover.,59,54,5,34,0.9116456078079848,0.8352565748613903,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,262,2,4:35,275,275,Foul on Jalen Smith.,59,54,5,9,0.9103472740422321,0.8342161475611947,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,263,2,4:33,273,273,Carsen Edwards missed Jumper.,59,54,5,2,0.9099931719526355,0.833878231902327,3,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,264,2,4:29,269,269,Grady Eifert Offensive Rebound.,59,54,5,4,0.9092340161173122,0.833122973137256,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,265,2,4:29,269,269,Foul on Jalen Smith.,59,54,5,0,0.9092340161173122,0.833122973137256,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,266,2,4:29,269,269,Grady Eifert missed Free Throw.,59,54,5,0,0.9092340161173122,0.833122973137256,3,4,9,NA,NA,Purdue,missed,Grady Eifert,NA,FALSE,TRUE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,267,2,4:29,269,269,Jalen Smith Defensive Rebound.,59,54,5,0,0.9092340161173122,0.833122973137256,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,268,2,4:20,260,260,Jalen Smith made Jumper. Assisted by Anthony Cowan Jr..,59,56,3,9,0.8381272208818709,0.7224358471590752,3,4,9,NA,NA,Maryland,made,Jalen Smith,Anthony Cowan Jr,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,269,2,3:47,227,227,Carsen Edwards missed Three Point Jumper.,59,56,3,33,0.8320887163662086,0.7203133471989596,3,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,270,2,3:43,223,223,Bruno Fernando Defensive Rebound.,59,56,3,4,0.8320353361082642,0.7211023232247908,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,271,2,3:39,219,219,Anthony Cowan Jr. Turnover.,59,56,3,4,0.8322129243344181,0.7222364301728721,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,272,2,3:39,219,219,Carsen Edwards Steal.,59,56,3,0,0.8322129243344181,0.7222364301728721,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,273,2,3:39,219,219,Official TV Timeout,59,56,3,0,0.8322129243344181,0.7222364301728721,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,274,2,3:18,198,198,Foul on Ryan Cline.,59,56,3,21,0.8378064707301067,0.7350778198008854,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,275,2,3:18,198,198,Ryan Cline Turnover.,59,56,3,0,0.8378064707301067,0.7350778198008854,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,276,2,3:05,185,185,Jalen Smith missed Jumper.,59,56,3,13,0.8456374402692822,0.7494559872030223,3,4,9,NA,NA,Maryland,missed,Jalen Smith,NA,FALSE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,277,2,3:03,183,183,Maryland Deadball Team Rebound.,59,56,3,2,0.8469388997835235,0.7518108756050759,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,278,2,3:03,183,183,Foul on Ryan Cline.,59,56,3,0,0.8469388997835235,0.7518108756050759,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,279,2,2:35,155,155,Anthony Cowan Jr. missed Jumper.,59,56,3,28,0.8653727906679833,0.7850407515438279,3,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,280,2,2:31,151,151,Ryan Cline Defensive Rebound.,59,56,3,4,0.8681410435306884,0.7899702218737857,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,281,2,2:10,130,130,Carsen Edwards missed Jumper.,59,56,3,21,0.8836866585657195,0.817221460766769,3,4,9,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,282,2,2:06,126,126,Jalen Smith Defensive Rebound.,59,56,3,4,0.8868646019386055,0.8227024180728182,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,283,2,1:42,102,102,Aaron Wiggins Turnover.,59,56,3,24,0.907371159676627,0.857418238058785,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,284,2,1:42,102,102,Carsen Edwards Steal.,59,56,3,0,0.907371159676627,0.857418238058785,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,285,2,1:23,83,83,Ryan Cline missed Three Point Jumper.,59,56,3,19,0.9243207807384906,0.8854521745230831,3,4,9,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,286,2,1:19,79,79,Jalen Smith Defensive Rebound.,59,56,3,4,0.9277129571721747,0.8910194350686628,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,287,2,1:12,72,72,Maryland  Timeout,59,56,3,7,0.9335627102491166,0.9005663705991794,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,288,2,0:48,48,48,Anthony Cowan Jr. missed Three Point Jumper.,59,56,3,24,0.9519688231755116,0.9301450917551463,2,4,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,289,2,0:47,47,47,Purdue Deadball Team Rebound.,59,56,3,1,0.9526686349198654,0.9312536898885019,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,290,2,0:26,26,26,Carsen Edwards Turnover.,59,56,3,21,0.9660352349274164,0.9521275880889845,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,291,2,0:26,26,26,Bruno Fernando Steal.,59,56,3,0,0.9660352349274164,0.9521275880889845,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,292,2,0:18,18,18,Foul on Matt Haarms.,59,56,3,8,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,293,2,0:18,18,18,Darryl Morsell missed Free Throw.,59,56,3,0,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,Maryland,missed,Darryl Morsell,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,294,2,0:18,18,18,Maryland Deadball Team Rebound.,59,56,3,0,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,295,2,0:18,18,18,Darryl Morsell made Free Throw.,59,57,2,0,0.919860786833907,0.8906854484093576,2,4,9,NA,NA,Maryland,made,Darryl Morsell,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,296,2,0:18,18,18,Foul on Anthony Cowan Jr..,59,57,2,0,0.919860786833907,0.8906854484093576,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,297,2,0:18,18,18,Grady Eifert made Free Throw.,60,57,3,0,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,Purdue,made,Grady Eifert,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,298,2,0:18,18,18,Grady Eifert missed Free Throw.,60,57,3,0,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,Purdue,missed,Grady Eifert,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,299,2,0:18,18,18,Bruno Fernando Defensive Rebound.,60,57,3,0,0.9703828747240961,0.9587762315563105,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,300,2,0:12,12,12,Foul on Nojel Eastern.,60,57,3,6,0.9734308731991165,0.9633804737910664,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,301,2,0:12,12,12,Purdue  Timeout,60,57,3,0,0.9734308731991165,0.9633804737910664,2,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,302,2,0:12,12,12,Maryland  Timeout,60,57,3,0,0.9734308731991165,0.9633804737910664,1,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,303,2,0:07,7,7,Foul on Nojel Eastern.,60,57,3,5,0.9758109464425689,0.9669414740491673,1,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,304,2,0:07,7,7,Anthony Cowan Jr. made Free Throw.,60,58,2,0,0.9290431019863206,0.9046998900167958,1,3,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,305,2,0:07,7,7,Anthony Cowan Jr. made Free Throw.,60,59,1,0,0.8095049003462857,0.7549679269988582,1,3,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,306,2,0:07,7,7,Foul on Darryl Morsell.,60,59,1,0,0.8095049003462857,0.7549679269988582,1,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,307,2,0:07,7,7,Carsen Edwards made Free Throw.,61,59,2,0,0.9290431019863206,0.9046998900167958,1,3,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,308,2,0:07,7,7,Carsen Edwards made Free Throw.,62,59,3,0,0.9758109464425689,0.9669414740491673,1,3,9,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082426,2018-12-06,Purdue,Maryland,309,2,0:07,7,7,Purdue  Timeout,62,59,3,0,0.9758109464425689,0.9669414740491673,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Maryland
+401082426,2018-12-06,Purdue,Maryland,310,2,0:04,4,4,Foul on Carsen Edwards.,62,59,3,3,0.9771633187568962,0.9689509260912796,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,311,2,0:04,4,4,Anthony Cowan Jr. made Free Throw.,62,60,2,0,0.9314643628031364,0.9083592012774075,1,2,9,NA,NA,Maryland,made,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,312,2,0:04,4,4,Anthony Cowan Jr. missed Free Throw.,62,60,2,0,0.9314643628031364,0.9083592012774075,1,2,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,FALSE,TRUE,Maryland,Maryland
+401082426,2018-12-06,Purdue,Maryland,313,2,0:02,2,2,Maryland Offensive Rebound.,62,60,2,2,0.933052188033941,0.910750940927652,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,314,2,0:02,2,2,Purdue  Timeout,62,60,2,0,0.933052188033941,0.910750940927652,1,1,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,315,2,0:02,2,2,Anthony Cowan Jr. missed Three Point Jumper.,62,60,2,0,0.933052188033941,0.910750940927652,1,1,9,NA,NA,Maryland,missed,Anthony Cowan Jr.,NA,TRUE,FALSE,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,316,2,0:02,2,2,Nojel Eastern Block.,62,60,2,0,0.933052188033941,0.910750940927652,1,1,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,317,2,0:02,2,2,Grady Eifert Defensive Rebound.,62,60,2,0,0.933052188033941,0.910750940927652,1,1,9,NA,NA,NA,NA,NA,NA,NA,NA,Maryland,Purdue
+401082426,2018-12-06,Purdue,Maryland,318,2,0:00,0,0,End of 2nd half,62,62,0,2,1,1,1,1,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA
+401082426,2018-12-06,Purdue,Maryland,319,2,0:00,0,0,End of Game,62,62,0,0,1,1,1,1,9,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA

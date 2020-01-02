@@ -1,0 +1,325 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085967,2019-02-05,Manhattan,Rider,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.23090064092102094,0.5,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401085967,2019-02-05,Manhattan,Rider,2,1,19:47,2387,2387,Samir Stewart missed Three Point Jumper.,0,0,0,13,0.2311784505851867,0.5,4,4,-7.5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,3,1,19:47,2387,2387,Christian Hinckson Offensive Rebound.,0,0,0,0,0.2311784505851867,0.5,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,4,1,19:26,2366,2366,Tyler Reynolds made Three Point Jumper. Assisted by Nehemiah Mack.,3,0,3,21,0.28294639975614666,0.5668960207063117,4,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Nehemiah Mack,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,5,1,19:02,2342,2342,Tyere Marshall missed Layup.,3,0,3,24,0.2841977392682103,0.5676650719849222,4,4,-7.5,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,6,1,19:02,2342,2342,Tyler Reynolds Defensive Rebound.,3,0,3,0,0.2841977392682103,0.5676650719849222,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,7,1,18:51,2331,2331,Christian Hinckson missed Three Point Jumper.,3,0,3,11,0.28478142100214976,0.5680211159857175,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,8,1,18:51,2331,2331,Dimencio Vaughn Defensive Rebound.,3,0,3,0,0.28478142100214976,0.5680211159857175,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,9,1,18:42,2322,2322,Foul on Warren Williams.,3,0,3,9,0.28526371412921664,0.5683139860077305,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,10,1,18:42,2322,2322,Tyere Marshall made Free Throw.,3,1,2,0,0.2669489121700189,0.5457013472490212,4,4,-7.5,NA,NA,Rider,made,Tyere Marshall,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,11,1,18:42,2322,2322,Tyere Marshall made Free Throw.,3,2,1,0,0.24939967035798424,0.5228986002520256,4,4,-7.5,NA,NA,Rider,made,Tyere Marshall,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,12,1,18:33,2313,2313,Foul on Warren Williams.,3,2,1,9,0.2496966058387348,0.5229983346065157,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,13,1,18:33,2313,2313,Warren Williams Turnover.,3,2,1,0,0.2496966058387348,0.5229983346065157,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,14,1,18:13,2293,2293,Stevie Jordan made Three Point Jumper.,3,5,-2,20,0.20173044940171156,0.4536568568073095,4,4,-7.5,NA,NA,Rider,made,Stevie Jordan,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,15,1,17:44,2264,2264,Samir Stewart Turnover.,3,5,-2,29,0.2019530489666825,0.45300676159973796,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,16,1,17:38,2258,2258,Anthony Durham Turnover.,3,5,-2,6,0.20200135933101682,0.4528713407795984,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,17,1,17:37,2257,2257,Samir Stewart Steal.,3,5,-2,1,0.20200948911716354,0.4528487422387647,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,18,1,17:34,2254,2254,Foul on Anthony Durham.,3,5,-2,3,0.20203401366588106,0.45278089897456814,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,19,1,17:34,2254,2254,Christian Hinckson missed Free Throw.,3,5,-2,0,0.20203401366588106,0.45278089897456814,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,20,1,17:34,2254,2254,Manhattan Deadball Team Rebound.,3,5,-2,0,0.20203401366588106,0.45278089897456814,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,21,1,17:34,2254,2254,Christian Hinckson missed Free Throw.,3,5,-2,0,0.20203401366588106,0.45278089897456814,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,22,1,17:34,2254,2254,Tyere Marshall Defensive Rebound.,3,5,-2,0,0.20203401366588106,0.45278089897456814,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,23,1,17:29,2249,2249,Foul on Nehemiah Mack.,3,5,-2,5,0.20207534267684793,0.4526676712149446,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,24,1,17:17,2237,2237,Jordan Allen missed Three Point Jumper.,3,5,-2,12,0.20217689843810144,0.4523951664921712,4,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,25,1,17:17,2237,2237,Ebube Ebube Defensive Rebound.,3,5,-2,0,0.20217689843810144,0.4523951664921712,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,26,1,16:57,2217,2217,Samir Stewart Turnover.,3,5,-2,20,0.20235385364811934,0.45193882090682996,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,27,1,16:56,2216,2216,Jordan Allen Steal.,3,5,-2,1,0.20236296191000674,0.451915938455119,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,28,1,16:53,2213,2213,Jordan Allen made Jumper.,3,7,-4,3,0.17298323403206986,0.4045795136145856,4,4,-7.5,NA,NA,Rider,made,Jordan Allen,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,29,1,16:43,2203,2203,Samir Stewart Turnover.,3,7,-4,10,0.17293342413961668,0.40413353715913203,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,30,1,16:41,2201,2201,Anthony Durham Steal.,3,7,-4,2,0.17292369879442546,0.40404423285527197,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,31,1,16:40,2200,2200,Anthony Durham made Layup.,3,9,-6,1,0.14685371340200049,0.35818709452503844,4,4,-7.5,NA,NA,Rider,made,Anthony Durham,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,32,1,16:39,2199,2199,Manhattan  Timeout,3,9,-6,1,0.1468378755798099,0.3581231175414363,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,33,1,16:29,2189,2189,Tyler Reynolds missed Jumper.,3,9,-6,10,0.1466804219952193,0.35748286379845584,3,4,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,FALSE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,34,1,16:26,2186,2186,Ebube Ebube Offensive Rebound.,3,9,-6,3,0.14663352288603682,0.35729062980008475,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,35,1,16:24,2184,2184,Samir Stewart made Three Point Jumper. Assisted by Tyler Reynolds.,6,9,-3,2,0.18729989171520958,0.42706141630147587,3,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,Tyler Reynolds,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,36,1,16:11,2171,2171,Jordan Allen made Three Point Jumper. Assisted by Anthony Durham.,6,12,-6,13,0.14640148644578566,0.35632855599709495,3,4,-7.5,NA,NA,Rider,made,Jordan Allen,Anthony Durham,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,37,1,16:03,2163,2163,Ebube Ebube made Layup. Assisted by Samir Stewart.,8,12,-4,8,0.17275486263112255,0.40234166425059226,3,4,-7.5,NA,NA,Manhattan,made,Ebube Ebube,Samir Stewart,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,38,1,15:40,2140,2140,Dimencio Vaughn made Layup.,8,14,-6,23,0.14593207053344032,0.3543314199211484,3,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,39,1,15:13,2113,2113,Ebube Ebube made Layup. Assisted by Christian Hinckson.,10,14,-4,27,0.17257101579288958,0.40007534425902447,3,4,-7.5,NA,NA,Manhattan,made,Ebube Ebube,Christian Hinckson,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,40,1,14:54,2094,2094,Dimencio Vaughn Turnover.,10,14,-4,19,0.17251025720513294,0.39920381790398657,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,41,1,14:53,2093,2093,Thomas Capuano Steal.,10,14,-4,1,0.17250718368441081,0.3991577758725239,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,42,1,14:44,2084,2084,Thomas Capuano missed Layup.,10,14,-4,9,0.17248005422716947,0.39874259526184463,3,4,-7.5,NA,NA,Manhattan,missed,Thomas Capuano,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,43,1,14:44,2084,2084,Tyere Marshall Defensive Rebound.,10,14,-4,0,0.17248005422716947,0.39874259526184463,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,44,1,14:29,2069,2069,Dimencio Vaughn made Three Point Jumper. Assisted by Tyere Marshall.,10,17,-7,15,0.1325428514867739,0.32655369575211907,3,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,Tyere Marshall,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,45,1,14:03,2043,2043,Tyler Reynolds made Three Point Jumper. Assisted by Thomas Capuano.,13,17,-4,26,0.1723675027329461,0.39683185120046743,3,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Thomas Capuano,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,46,1,13:40,2020,2020,Dimencio Vaughn missed Dunk.,13,17,-4,23,0.17231117673602936,0.3957449485380729,3,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,47,1,13:40,2020,2020,Christian Hinckson Block.,13,17,-4,0,0.17231117673602936,0.3957449485380729,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,48,1,13:38,2018,2018,Christian Hinckson Defensive Rebound.,13,17,-4,2,0.17230647608293886,0.3956498908713166,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,49,1,13:19,1999,1999,Tyler Reynolds missed Three Point Jumper.,13,17,-4,19,0.17226321257515279,0.39474231806772825,3,4,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,50,1,13:19,1999,1999,Tyere Marshall Defensive Rebound.,13,17,-4,0,0.17226321257515279,0.39474231806772825,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,51,1,13:16,1996,1996,Foul on Ebube Ebube.,13,17,-4,3,0.17225659550607317,0.3945982523478556,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,52,1,13:03,1983,1983,Jordan Allen missed Three Point Jumper.,13,17,-4,13,0.17222852084539156,0.3939714828795191,3,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,53,1,13:03,1983,1983,Anthony Durham Offensive Rebound.,13,17,-4,0,0.17222852084539156,0.3939714828795191,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,54,1,12:54,1974,1974,Devine Eke missed Layup.,13,17,-4,9,0.1722096039607031,0.393535149773912,3,4,-7.5,NA,NA,Rider,missed,Devine Eke,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,55,1,12:54,1974,1974,Tykei Greene Defensive Rebound.,13,17,-4,0,0.1722096039607031,0.393535149773912,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,56,1,12:29,1949,1949,Tykei Greene made Jumper.,15,17,-2,25,0.20560856408034375,0.44551684476573233,3,4,-7.5,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,57,1,12:07,1927,1927,Frederick Scott Turnover.,15,17,-2,22,0.20593304832876047,0.444952121893725,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,58,1,12:06,1926,1926,Nehemiah Mack Steal.,15,17,-2,1,0.20594803618037,0.4449263465014464,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,59,1,11:58,1918,1918,Elijah Buchanan missed Three Point Jumper.,15,17,-2,8,0.20606930425208472,0.44472030526328493,3,4,-7.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,60,1,11:58,1918,1918,Devine Eke Defensive Rebound.,15,17,-2,0,0.20606930425208472,0.44472030526328493,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,61,1,11:49,1909,1909,Jordan Allen missed Three Point Jumper.,15,17,-2,9,0.20620854879079578,0.44448878225763816,3,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,62,1,11:49,1909,1909,Ebube Ebube Defensive Rebound.,15,17,-2,0,0.20620854879079578,0.44448878225763816,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,63,1,11:20,1880,1880,Foul on Frederick Scott.,15,17,-2,29,0.20667598771744428,0.4437434330471567,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,64,1,11:20,1880,1880,Official TV Timeout,15,17,-2,0,0.20667598771744428,0.4437434330471567,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,65,1,11:20,1880,1880,Christian Hinckson made Free Throw.,16,17,-1,0,0.22581620510232048,0.4717821281327981,3,4,-7.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,66,1,11:20,1880,1880,Christian Hinckson missed Free Throw.,16,17,-1,0,0.22581620510232048,0.4717821281327981,3,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,67,1,11:20,1880,1880,Frederick Scott Defensive Rebound.,16,17,-1,0,0.22581620510232048,0.4717821281327981,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,68,1,10:58,1858,1858,Foul on Devine Eke.,16,17,-1,22,0.2264134236423648,0.47149614222135666,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,69,1,10:58,1858,1858,Devine Eke Turnover.,16,17,-1,0,0.2264134236423648,0.47149614222135666,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,70,1,10:53,1853,1853,Tyler Reynolds Turnover.,16,17,-1,5,0.22655130222400457,0.47143097655080335,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,71,1,10:52,1852,1852,Dimencio Vaughn Steal.,16,17,-1,1,0.2265789694897042,0.4714179337378455,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,72,1,10:49,1849,1849,Dimencio Vaughn made Layup.,16,19,-3,3,0.18900694541979182,0.414879314416943,3,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,73,1,10:33,1833,1833,Samir Stewart Turnover.,16,19,-3,16,0.1891409062759163,0.41426743215406525,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,74,1,10:29,1829,1829,Foul on Samir Stewart.,16,19,-3,4,0.18917507747193738,0.41411396404448386,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,75,1,10:18,1818,1818,Dimencio Vaughn made Three Point Jumper. Assisted by Devine Eke.,16,22,-6,11,0.1414270482743427,0.3323761347401781,3,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,Devine Eke,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,76,1,9:52,1792,1792,Tyler Reynolds made Three Point Jumper. Assisted by Tykei Greene.,19,22,-3,26,0.18950087550505101,0.41268170561417516,3,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Tykei Greene,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,77,1,9:34,1774,1774,Foul on Ebube Ebube.,19,22,-3,18,0.18966354540251373,0.41197447101952894,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,78,1,9:21,1761,1761,Frederick Scott made Layup.,19,24,-5,13,0.15576852454926507,0.3551297107516849,3,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,79,1,8:55,1735,1735,Tyler Reynolds missed Three Point Jumper.,19,24,-5,26,0.15559084838000634,0.35347965932080166,3,4,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,80,1,8:55,1735,1735,Frederick Scott Defensive Rebound.,19,24,-5,0,0.15559084838000634,0.35347965932080166,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,81,1,8:36,1716,1716,Devine Eke made Layup.,19,26,-7,19,0.1260752722307426,0.2988421333512124,3,4,-7.5,NA,NA,Rider,made,Devine Eke,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,82,1,8:09,1689,1689,Foul on Elijah Buchanan.,19,26,-7,27,0.12555535262749581,0.29655397995256855,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,83,1,8:09,1689,1689,Elijah Buchanan Turnover.,19,26,-7,0,0.12555535262749581,0.29655397995256855,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,84,1,7:53,1673,1673,Dimencio Vaughn missed Jumper.,19,26,-7,16,0.12525647574750592,0.29520359543641633,3,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,85,1,7:53,1673,1673,Tyler Reynolds Defensive Rebound.,19,26,-7,0,0.12525647574750592,0.29520359543641633,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,86,1,7:45,1665,1665,Tyler Reynolds made Three Point Jumper. Assisted by Thomas Capuano.,22,26,-4,8,0.17214311161366957,0.377751411294888,3,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Thomas Capuano,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,87,1,7:31,1651,1651,Foul on Kimar Williams.,22,26,-4,14,0.17217903664743947,0.3770121062045914,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,88,1,7:31,1651,1651,Kimar Williams Turnover.,22,26,-4,0,0.17217903664743947,0.3770121062045914,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,89,1,7:31,1651,1651,Official TV Timeout,22,26,-4,0,0.17217903664743947,0.3770121062045914,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,90,1,7:04,1624,1624,Thomas Capuano missed Layup.,22,26,-4,27,0.1722870248403479,0.3756128628723938,3,4,-7.5,NA,NA,Manhattan,missed,Thomas Capuano,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,91,1,6:56,1616,1616,Dimencio Vaughn Block.,22,26,-4,8,0.17232670351937793,0.375202610814745,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,92,1,6:55,1615,1615,Frederick Scott Defensive Rebound.,22,26,-4,1,0.1723318604964892,0.37515141272700603,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,93,1,6:42,1602,1602,Tyere Marshall missed Layup.,22,26,-4,13,0.17240227218364224,0.3744868338754607,3,4,-7.5,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,94,1,6:42,1602,1602,Daniel Schreier Block.,22,26,-4,0,0.17240227218364224,0.3744868338754607,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,95,1,6:40,1600,1600,Tyere Marshall Offensive Rebound.,22,26,-4,2,0.17241358656713698,0.3743846725128115,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,96,1,6:36,1596,1596,Foul on Thomas Capuano.,22,26,-4,4,0.17243653060843755,0.37418033655168453,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,97,1,6:36,1596,1596,Frederick Scott made Free Throw.,22,27,-5,0,0.1548525584072232,0.34459004631132123,3,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,98,1,6:36,1596,1596,Frederick Scott missed Free Throw.,22,27,-5,0,0.1548525584072232,0.34459004631132123,3,4,-7.5,NA,NA,Rider,missed,Frederick Scott,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,99,1,6:36,1596,1596,Christian Hinckson Defensive Rebound.,22,27,-5,0,0.1548525584072232,0.34459004631132123,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,100,1,6:09,1569,1569,Samir Stewart missed Layup.,22,27,-5,27,0.1548071406429026,0.34292163629223105,3,4,-7.5,NA,NA,Manhattan,missed,Samir Stewart,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,101,1,6:09,1569,1569,Frederick Scott Block.,22,27,-5,0,0.1548071406429026,0.34292163629223105,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,102,1,6:09,1569,1569,Tyere Marshall Defensive Rebound.,22,27,-5,0,0.1548071406429026,0.34292163629223105,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,103,1,6:03,1563,1563,Foul on Daniel Schreier.,22,27,-5,6,0.15479707250149433,0.3425480701470659,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,104,1,6:03,1563,1563,Stevie Jordan made Free Throw.,22,28,-6,0,0.13849416546143878,0.313813287587758,3,4,-7.5,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,105,1,6:03,1563,1563,Stevie Jordan missed Free Throw.,22,28,-6,0,0.13849416546143878,0.313813287587758,3,4,-7.5,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,106,1,6:02,1562,1562,Daniel Schreier Defensive Rebound.,22,28,-6,1,0.13848598722749056,0.3137416815414643,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,107,1,5:52,1552,1552,Tyler Reynolds missed Three Point Jumper.,22,28,-6,10,0.1384030735120245,0.3130226571873452,3,4,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,108,1,5:52,1552,1552,Dimencio Vaughn Defensive Rebound.,22,28,-6,0,0.1384030735120245,0.3130226571873452,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,109,1,5:43,1543,1543,Dimencio Vaughn made Three Point Jumper. Assisted by Stevie Jordan.,22,31,-9,9,0.09763404717825983,0.23440680632495653,3,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,Stevie Jordan,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,110,1,5:22,1522,1522,Tyler Reynolds made Jumper.,24,31,-7,21,0.12307874410138364,0.28312900832392784,3,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,111,1,5:09,1509,1509,Dimencio Vaughn Turnover.,24,31,-7,13,0.12287711755493436,0.2820450347877813,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,112,1,5:08,1508,1508,Christian Hinckson Steal.,24,31,-7,1,0.12286111025111113,0.2819607707783236,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,113,1,5:05,1505,1505,Christian Hinckson missed Layup.,24,31,-7,3,0.12281262678655043,0.2817071728277558,3,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,114,1,5:05,1505,1505,Daniel Schreier Offensive Rebound.,24,31,-7,0,0.12281262678655043,0.2817071728277558,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,115,1,4:34,1474,1474,Christian Hinckson made Layup.,26,31,-5,31,0.1544782501559747,0.33667699689153374,3,4,-7.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,116,1,4:20,1460,1460,Jordan Allen missed Three Point Jumper.,26,31,-5,14,0.15437329412553724,0.33566566582816004,3,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,117,1,4:20,1460,1460,Elijah Buchanan Defensive Rebound.,26,31,-5,0,0.15437329412553724,0.33566566582816004,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,118,1,3:59,1439,1439,Foul on Anthony Durham.,26,31,-5,21,0.1541887271936633,0.33410768748560465,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,119,1,3:59,1439,1439,Official TV Timeout,26,31,-5,0,0.1541887271936633,0.33410768748560465,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,120,1,3:59,1439,1439,Elijah Buchanan missed Free Throw.,26,31,-5,0,0.1541887271936633,0.33410768748560465,3,4,-7.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,121,1,3:59,1439,1439,Manhattan Deadball Team Rebound.,26,31,-5,0,0.1541887271936633,0.33410768748560465,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,122,1,3:59,1439,1439,Elijah Buchanan made Free Throw.,27,31,-4,0,0.17304680669746322,0.3654627382968564,3,4,-7.5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,123,1,3:37,1417,1417,Frederick Scott missed Three Point Jumper.,27,31,-4,22,0.17308516481624844,0.364147722982871,3,4,-7.5,NA,NA,Rider,missed,Frederick Scott,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,124,1,3:37,1417,1417,Daniel Schreier Defensive Rebound.,27,31,-4,0,0.17308516481624844,0.364147722982871,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,125,1,3:17,1397,1397,Elijah Buchanan Turnover.,27,31,-4,20,0.17315563847784055,0.3629905797600046,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,126,1,3:16,1396,1396,Devine Eke Steal.,27,31,-4,1,0.17315985135021164,0.3629334043478855,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,127,1,3:13,1393,1393,Foul on Stevie Jordan.,27,31,-4,3,0.17317281971701076,0.3627621798127394,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,128,1,3:13,1393,1393,Stevie Jordan Turnover.,27,31,-4,0,0.17317281971701076,0.3627621798127394,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,129,1,2:55,1375,1375,Elijah Buchanan missed Layup.,27,31,-4,18,0.17325916604173264,0.3617418061495518,3,4,-7.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,130,1,2:55,1375,1375,Tyere Marshall Defensive Rebound.,27,31,-4,0,0.17325916604173264,0.3617418061495518,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,131,1,2:49,1369,1369,Frederick Scott made Layup. Assisted by Tyere Marshall.,27,33,-6,6,0.1362108373502557,0.29861143994577294,3,4,-7.5,NA,NA,Rider,made,Frederick Scott,Tyere Marshall,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,132,1,2:15,1335,1335,Manhattan  Turnover.,27,33,-6,34,0.13586799985986808,0.2959892957081585,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,133,1,1:56,1316,1316,Jordan Allen missed Three Point Jumper.,27,33,-6,19,0.1356618910869751,0.2944929637002198,3,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,134,1,1:56,1316,1316,Devine Eke Offensive Rebound.,27,33,-6,0,0.1356618910869751,0.2944929637002198,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,135,1,1:49,1309,1309,Devine Eke missed Layup.,27,33,-6,7,0.13558050875917987,0.2939316847244797,3,4,-7.5,NA,NA,Rider,missed,Devine Eke,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,136,1,1:49,1309,1309,Christian Hinckson Defensive Rebound.,27,33,-6,0,0.13558050875917987,0.2939316847244797,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,137,1,1:29,1289,1289,Foul on Tyere Marshall.,27,33,-6,20,0.13532544440361186,0.29228850600394535,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,138,1,1:29,1289,1289,Christian Hinckson made Free Throw.,28,33,-5,0,0.1535157932067212,0.32367963305616343,3,4,-7.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,139,1,1:29,1289,1289,Christian Hinckson missed Free Throw.,28,33,-5,0,0.1535157932067212,0.32367963305616343,3,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,140,1,1:29,1289,1289,Devine Eke Defensive Rebound.,28,33,-5,0,0.1535157932067212,0.32367963305616343,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,141,1,1:13,1273,1273,Devine Eke Turnover.,28,33,-5,16,0.15339856575166433,0.32247410568020995,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,142,1,0:47,1247,1247,Daniel Schreier missed Three Point Jumper.,28,33,-5,26,0.15313822111725897,0.3204029801056483,3,4,-7.5,NA,NA,Manhattan,missed,Daniel Schreier,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,143,1,0:47,1247,1247,Jordan Allen Defensive Rebound.,28,33,-5,0,0.15313822111725897,0.3204029801056483,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,144,1,0:23,1223,1223,Foul on Christian Hinckson.,28,33,-5,24,0.15280208716962165,0.3183409146209901,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,145,1,0:23,1223,1223,Frederick Scott made Free Throw.,28,34,-6,0,0.13411294590235864,0.2862457211246323,3,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,146,1,0:23,1223,1223,Frederick Scott made Free Throw.,28,35,-7,0,0.11739292090062349,0.2561703277727274,3,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,147,1,0:02,1202,1202,Samir Stewart made Three Point Jumper.,31,35,-4,21,0.17341257440705227,0.35063635532794507,3,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,148,1,0:00,1200,1200,End of 1st half,31,35,-4,2,0.17339695682093723,0.3504822574627354,3,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,NA
+401085967,2019-02-05,Manhattan,Rider,149,2,20:00,1200,1200,PLAY,31,35,-4,0,0.17339695682093723,0.3504822574627354,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rider
+401085967,2019-02-05,Manhattan,Rider,150,2,19:43,1183,1183,Tyere Marshall made Layup.,31,37,-6,17,0.13309377431368172,0.28214215990688907,4,4,-7.5,NA,NA,Rider,made,Tyere Marshall,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,151,2,19:19,1159,1159,Nehemiah Mack made Three Point Jumper. Assisted by Samir Stewart.,34,37,-3,24,0.1968603224709738,0.3839663971285067,4,4,-7.5,NA,NA,Manhattan,made,Nehemiah Mack,Samir Stewart,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,152,2,19:04,1144,1144,Foul on Tyere Marshall.,34,37,-3,15,0.19695602031333764,0.38312022150592084,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,153,2,19:04,1144,1144,Tyere Marshall Turnover.,34,37,-3,0,0.19695602031333764,0.38312022150592084,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,154,2,18:37,1117,1117,Foul on Anthony Durham.,34,37,-3,27,0.19712684814124223,0.38160051704545783,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,155,2,18:37,1117,1117,Samir Stewart made Free Throw.,35,37,-2,0,0.22383964954852098,0.42022733176445787,4,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,156,2,18:37,1117,1117,Samir Stewart made Free Throw.,36,37,-1,0,0.2530314924676018,0.4598565592368034,4,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,157,2,18:37,1117,1117,Samir Stewart made Free Throw.,37,37,0,0,0.28463424619437894,0.5,4,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,158,2,18:33,1113,1113,Foul on Samir Stewart.,37,37,0,4,0.28486100847368934,0.5,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,159,2,18:23,1103,1103,Foul on Warren Williams.,37,37,0,10,0.2854288040667272,0.5,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,160,2,18:23,1103,1103,Devine Eke made Free Throw.,37,38,-1,0,0.2535560105502299,0.45957696048811814,4,4,-7.5,NA,NA,Rider,made,Devine Eke,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,161,2,18:23,1103,1103,Devine Eke missed Free Throw.,37,38,-1,0,0.2535560105502299,0.45957696048811814,4,4,-7.5,NA,NA,Rider,missed,Devine Eke,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,162,2,18:23,1103,1103,Tyler Reynolds Defensive Rebound.,37,38,-1,0,0.2535560105502299,0.45957696048811814,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,163,2,18:06,1086,1086,Christian Hinckson missed Layup.,37,38,-1,17,0.254191258200409,0.4592309544568675,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,164,2,18:06,1086,1086,Samir Stewart Offensive Rebound.,37,38,-1,0,0.254191258200409,0.4592309544568675,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,165,2,17:45,1065,1065,Christian Hinckson missed Layup.,37,38,-1,21,0.25497247294866937,0.4587890159439579,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,166,2,17:45,1065,1065,Dimencio Vaughn Defensive Rebound.,37,38,-1,0,0.25497247294866937,0.4587890159439579,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,167,2,17:37,1057,1057,Stevie Jordan Turnover.,37,38,-1,8,0.2552688071384661,0.4586152324047573,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,168,2,17:31,1051,1051,Samir Stewart made Three Point Jumper. Assisted by Christian Hinckson.,40,38,2,6,0.36119491148624233,0.5824662169431565,4,4,-7.5,NA,NA,Manhattan,made,Samir Stewart,Christian Hinckson,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,169,2,17:16,1036,1036,Devine Eke made Dunk. Assisted by Tyere Marshall.,40,40,0,15,0.28929458937889724,0.5,4,4,-7.5,NA,NA,Rider,made,Devine Eke,Tyere Marshall,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,170,2,16:48,1008,1008,Ebube Ebube made Layup. Assisted by Christian Hinckson.,42,40,2,28,0.36596134985133094,0.5844667840936933,4,4,-7.5,NA,NA,Manhattan,made,Ebube Ebube,Christian Hinckson,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,171,2,16:35,995,995,Foul on Samir Stewart.,42,40,2,13,0.36748152177446775,0.5851292424936513,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,172,2,16:21,981,981,Dimencio Vaughn missed Layup.,42,40,2,14,0.3691677063545918,0.5858783535073853,4,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,173,2,16:21,981,981,Christian Hinckson Block.,42,40,2,0,0.3691677063545918,0.5858783535073853,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,174,2,16:20,980,980,Tyere Marshall Offensive Rebound.,42,40,2,1,0.36929022339447176,0.5859333690871245,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,175,2,16:19,979,979,Foul on Christian Hinckson.,42,40,2,1,0.3694130269153443,0.5859885926243179,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,176,2,16:19,979,979,Tyere Marshall missed Free Throw.,42,40,2,0,0.3694130269153443,0.5859885926243179,4,4,-7.5,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,177,2,16:19,979,979,Rider Deadball Team Rebound.,42,40,2,0,0.3694130269153443,0.5859885926243179,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,178,2,16:19,979,979,Tyere Marshall missed Free Throw.,42,40,2,0,0.3694130269153443,0.5859885926243179,4,4,-7.5,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,179,2,16:19,979,979,Christian Hinckson Defensive Rebound.,42,40,2,0,0.3694130269153443,0.5859885926243179,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,180,2,15:57,957,957,Christian Hinckson missed Layup.,42,40,2,22,0.3721191006062071,0.5872119604963634,4,4,-7.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,181,2,15:57,957,957,Dimencio Vaughn Block.,42,40,2,0,0.3721191006062071,0.5872119604963634,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,182,2,15:55,955,955,Tyere Marshall Defensive Rebound.,42,40,2,2,0.3723557514882162,0.5873176221737576,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,183,2,15:49,949,949,Anthony Durham missed Layup.,42,40,2,6,0.3730545558167064,0.5876278867008967,4,4,-7.5,NA,NA,Rider,missed,Anthony Durham,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,184,2,15:49,949,949,Ebube Ebube Block.,42,40,2,0,0.3730545558167064,0.5876278867008967,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,185,2,15:46,946,946,Tykei Greene Defensive Rebound.,42,40,2,3,0.37339798758816606,0.5877794328886166,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,186,2,15:42,942,942,Tykei Greene Turnover.,42,40,2,4,0.37385007436060663,0.5879780134404895,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,187,2,15:42,942,942,Anthony Durham Steal.,42,40,2,0,0.37385007436060663,0.5879780134404895,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,188,2,15:38,938,938,Dimencio Vaughn made Layup. Assisted by Anthony Durham.,42,42,0,4,0.2952026615536275,0.5,4,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,Anthony Durham,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,189,2,15:07,907,907,Tykei Greene missed Three Point Jumper.,42,42,0,31,0.29690639513427786,0.5,4,4,-7.5,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,190,2,15:07,907,907,Thomas Capuano Offensive Rebound.,42,42,0,0,0.29690639513427786,0.5,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,191,2,15:04,904,904,Thomas Capuano made Three Point Jumper.,45,42,3,3,0.42137304533631637,0.6327815257753515,4,4,-7.5,NA,NA,Manhattan,made,Thomas Capuano,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,192,2,14:48,888,888,Foul on Tykei Greene.,45,42,3,16,0.4233872888557778,0.6337623277051396,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,193,2,14:48,888,888,Official TV Timeout,45,42,3,0,0.4233872888557778,0.6337623277051396,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,194,2,14:48,888,888,Dimencio Vaughn missed Free Throw.,45,42,3,0,0.4233872888557778,0.6337623277051396,4,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,195,2,14:48,888,888,Rider Deadball Team Rebound.,45,42,3,0,0.4233872888557778,0.6337623277051396,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,196,2,14:48,888,888,Dimencio Vaughn made Free Throw.,45,43,2,0,0.37949772662631687,0.5903939876423138,4,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,197,2,14:18,858,858,Tykei Greene missed Jumper.,45,43,2,30,0.3824986286956721,0.5916671545722123,4,4,-7.5,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,198,2,14:18,858,858,Dimencio Vaughn Defensive Rebound.,45,43,2,0,0.3824986286956721,0.5916671545722123,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,199,2,14:00,840,840,Dimencio Vaughn made Three Point Jumper. Assisted by Kimar Williams.,45,46,-1,18,0.26262075714474653,0.45336560384830044,4,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,Kimar Williams,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,200,2,13:34,814,814,Tyler Reynolds missed Three Point Jumper.,45,46,-1,26,0.26341863222604445,0.4527236653103354,4,4,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,201,2,13:34,814,814,Dimencio Vaughn Defensive Rebound.,45,46,-1,0,0.26341863222604445,0.4527236653103354,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,202,2,13:24,804,804,Foul on Kimar Williams.,45,46,-1,10,0.2637269296818084,0.4524542592932544,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,203,2,13:24,804,804,Kimar Williams Turnover.,45,46,-1,0,0.2637269296818084,0.4524542592932544,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,204,2,13:04,784,784,Tyler Reynolds made Three Point Jumper. Assisted by Samir Stewart.,48,46,2,20,0.3907658552737396,0.5953824408973922,4,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Samir Stewart,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,205,2,12:55,775,775,Foul on Kimar Williams.,48,46,2,9,0.39194588467718716,0.5959442720709494,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,206,2,12:55,775,775,Kimar Williams Turnover.,48,46,2,0,0.39194588467718716,0.5959442720709494,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,207,2,12:31,751,751,Elijah Buchanan missed Layup.,48,46,2,24,0.3953701305392094,0.5976130577874013,4,4,-7.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,208,2,12:31,751,751,Stevie Jordan Defensive Rebound.,48,46,2,0,0.3953701305392094,0.5976130577874013,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,209,2,12:25,745,745,Foul on Tyler Reynolds.,48,46,2,6,0.39629703489554924,0.5980734514595089,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,210,2,12:25,745,745,Stevie Jordan made Free Throw.,48,47,1,0,0.3498632439364145,0.5495176780213549,4,4,-7.5,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,211,2,12:25,745,745,Stevie Jordan made Free Throw.,48,48,0,0,0.3061113667950071,0.5,4,4,-7.5,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,212,2,12:07,727,727,Ebube Ebube made Layup.,50,48,2,18,0.3992625461240228,0.5995655920734435,4,4,-7.5,NA,NA,Manhattan,made,Ebube Ebube,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,213,2,11:57,717,717,Foul on Ebube Ebube.,50,48,2,10,0.4009035738182805,0.6003794951684979,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,214,2,11:57,717,717,Official TV Timeout,50,48,2,0,0.4009035738182805,0.6003794951684979,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,215,2,11:57,717,717,Dimencio Vaughn missed Free Throw.,50,48,2,0,0.4009035738182805,0.6003794951684979,4,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,216,2,11:57,717,717,Rider Deadball Team Rebound.,50,48,2,0,0.4009035738182805,0.6003794951684979,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,217,2,11:57,717,717,Dimencio Vaughn made Free Throw.,50,49,1,0,0.3531492252989281,0.5507059170209166,4,4,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,218,2,11:47,707,707,Christian Hinckson Turnover.,50,49,1,10,0.35428065200979914,0.5510968828290804,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,219,2,11:47,707,707,Stevie Jordan Steal.,50,49,1,0,0.35428065200979914,0.5510968828290804,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,220,2,11:42,702,702,Anthony Durham made Layup. Assisted by Stevie Jordan.,50,51,-1,5,0.2670629833087459,0.4487166548003999,4,4,-7.5,NA,NA,Rider,made,Anthony Durham,Stevie Jordan,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,221,2,11:26,686,686,Christian Hinckson Turnover.,50,51,-1,16,0.26764145584906046,0.44815090702255195,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,222,2,11:25,685,685,Stevie Jordan Steal.,50,51,-1,1,0.26767807059639276,0.44811677257113924,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,223,2,11:16,676,676,Foul on Elijah Buchanan.,50,51,-1,9,0.26800967777380774,0.4478139190471863,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,224,2,11:16,676,676,Frederick Scott missed Free Throw.,50,51,-1,0,0.26800967777380774,0.4478139190471863,4,4,-7.5,NA,NA,Rider,missed,Frederick Scott,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,225,2,11:16,676,676,Rider Deadball Team Rebound.,50,51,-1,0,0.26800967777380774,0.4478139190471863,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,226,2,11:16,676,676,Frederick Scott Turnover.,50,51,-1,0,0.26800967777380774,0.4478139190471863,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,227,2,10:44,644,644,Warren Williams made Layup. Assisted by Samir Stewart.,52,51,1,32,0.3610026057078303,0.5532494455777598,4,4,-7.5,NA,NA,Manhattan,made,Warren Williams,Samir Stewart,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,228,2,10:34,634,634,Foul on Elijah Buchanan.,52,51,1,10,0.3620958905083288,0.5535968872532889,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,229,2,10:34,634,634,Frederick Scott made Free Throw.,52,52,0,0,0.31399813428485973,0.5,4,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,230,2,10:34,634,634,Frederick Scott made Free Throw.,52,53,-1,0,0.2695892188818819,0.44640311274671096,4,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,231,2,10:18,618,618,Christian Hinckson Turnover.,52,53,-1,16,0.2701950977438167,0.4458103287098084,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,232,2,10:17,617,617,Frederick Scott Steal.,52,53,-1,1,0.27023288322726047,0.4457713568581576,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,233,2,10:14,614,614,Foul on Warren Williams.,52,53,-1,3,0.2703461438322785,0.44565286669253057,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,234,2,10:14,614,614,Anthony Durham missed Free Throw.,52,53,-1,0,0.2703461438322785,0.44565286669253057,4,4,-7.5,NA,NA,Rider,missed,Anthony Durham,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,235,2,10:14,614,614,Rider Deadball Team Rebound.,52,53,-1,0,0.2703461438322785,0.44565286669253057,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,236,2,10:14,614,614,Anthony Durham made Free Throw.,52,54,-2,0,0.22950331797013734,0.39257490115603605,4,4,-7.5,NA,NA,Rider,made,Anthony Durham,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,237,2,10:02,602,602,Tykei Greene missed Dunk.,52,54,-2,12,0.22954947330220046,0.3916096142649499,4,4,-7.5,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,238,2,10:02,602,602,Stevie Jordan Block.,52,54,-2,0,0.22954947330220046,0.3916096142649499,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,239,2,10:01,601,601,Dimencio Vaughn Defensive Rebound.,52,54,-2,1,0.22955165403731695,0.39152518548246845,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,240,2,9:50,590,590,Jordan Allen missed Three Point Jumper.,52,54,-2,11,0.22955622168711662,0.39055051156281106,4,4,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,241,2,9:50,590,590,Anthony Durham Offensive Rebound.,52,54,-2,0,0.22955622168711662,0.39055051156281106,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,242,2,9:28,568,568,Frederick Scott made Dunk.,52,56,-4,22,0.15896897301238627,0.2872298568471654,4,4,-7.5,NA,NA,Rider,made,Frederick Scott,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,243,2,9:27,567,567,Nehemiah Mack missed Free Throw.,52,56,-4,1,0.1588980246774816,0.28703560565744196,4,4,-7.5,NA,NA,Manhattan,missed,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,244,2,9:27,567,567,Manhattan Deadball Team Rebound.,52,56,-4,0,0.1588980246774816,0.28703560565744196,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,245,2,9:14,554,554,Tykei Greene missed Jumper.,52,56,-4,13,0.157892411212351,0.28435151999125874,4,4,-7.5,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,246,2,9:14,554,554,Frederick Scott Block.,52,56,-4,0,0.157892411212351,0.28435151999125874,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,247,2,9:12,552,552,Anthony Durham Defensive Rebound.,52,56,-4,2,0.15772330907989957,0.2839111654181728,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,248,2,9:06,546,546,Dimencio Vaughn missed Three Point Jumper.,52,56,-4,6,0.15721278365293914,0.2825824260673855,4,4,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,249,2,9:06,546,546,Tyler Reynolds Defensive Rebound.,52,56,-4,0,0.15721278365293914,0.2825824260673855,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,250,2,8:51,531,531,Tykei Greene missed Three Point Jumper.,52,56,-4,15,0.15614413614521352,0.27962967524028093,4,4,-7.5,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,251,2,8:51,531,531,Tyler Reynolds Offensive Rebound.,52,56,-4,0,0.15614413614521352,0.27962967524028093,4,4,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,252,2,8:39,519,519,Tyler Reynolds made Two Point Tip Shot.,54,56,-2,12,0.22896636554062513,0.3826512159023196,4,4,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,253,2,8:39,519,519,Rider  Timeout,54,56,-2,0,0.22896636554062513,0.3826512159023196,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,254,2,8:15,495,495,Anthony Durham missed Three Point Jumper.,54,56,-2,24,0.22903206483605132,0.3803748725830296,4,3,-7.5,NA,NA,Rider,missed,Anthony Durham,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,255,2,8:15,495,495,Manhattan Defensive Rebound.,54,56,-2,0,0.22903206483605132,0.3803748725830296,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,256,2,7:53,473,473,Ebube Ebube made Jumper.,56,56,0,22,0.3282085496991507,0.5,4,3,-7.5,NA,NA,Manhattan,made,Ebube Ebube,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,257,2,7:34,454,454,Tyere Marshall missed Jumper.,56,56,0,19,0.33017070563762513,0.5,4,3,-7.5,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,258,2,7:34,454,454,Ebube Ebube Defensive Rebound.,56,56,0,0,0.33017070563762513,0.5,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,259,2,7:16,436,436,Ebube Ebube missed Layup.,56,56,0,18,0.3322268866661703,0.5,4,3,-7.5,NA,NA,Manhattan,missed,Ebube Ebube,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,260,2,7:16,436,436,Tyere Marshall Defensive Rebound.,56,56,0,0,0.3322268866661703,0.5,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,261,2,7:08,428,428,Official TV Timeout,56,56,0,8,0.3332181292739183,0.5,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,262,2,6:48,408,408,Jordan Allen missed Three Point Jumper.,56,56,0,20,0.3358466349705468,0.5,4,3,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,263,2,6:48,408,408,Thomas Capuano Defensive Rebound.,56,56,0,0,0.3358466349705468,0.5,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,264,2,6:29,389,389,Foul on Anthony Durham.,56,56,0,19,0.3385210053873571,0.5,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,265,2,6:26,386,386,Tyler Reynolds made Three Point Jumper. Assisted by Ebube Ebube.,59,56,3,3,0.5421925157500325,0.6978560251652797,4,3,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,Ebube Ebube,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,266,2,6:17,377,377,Frederick Scott Turnover.,59,56,3,9,0.5461861569902224,0.6999872275813099,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,267,2,5:53,353,353,Samir Stewart made Three Point Jumper. Assisted by Nehemiah Mack.,62,56,6,24,0.7519656814517485,0.8525054154821728,4,3,-7.5,NA,NA,Manhattan,made,Samir Stewart,Nehemiah Mack,TRUE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,268,2,5:27,327,327,Foul on Frederick Scott.,62,56,6,26,0.7704367078268058,0.8625589367489045,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,269,2,5:27,327,327,Frederick Scott Turnover.,62,56,6,0,0.7704367078268058,0.8625589367489045,4,3,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,270,2,4:59,299,299,Nehemiah Mack made Layup.,64,56,8,28,0.8789039943851876,0.929953441361593,4,3,-7.5,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,271,2,4:58,298,298,Rider  Timeout,64,56,8,1,0.8792404699009425,0.9301081915165547,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,272,2,4:42,282,282,Foul on Ebube Ebube.,64,56,8,16,0.8813269175482348,0.9305786044423914,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,273,2,4:42,282,282,Dimencio Vaughn made Free Throw.,64,57,7,0,0.8429845863596673,0.9064601911312894,4,2,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,274,2,4:42,282,282,Dimencio Vaughn made Free Throw.,64,58,6,0,0.7951337915928661,0.8750873018033312,4,2,-7.5,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,275,2,4:30,270,270,Tykei Greene made Dunk. Assisted by Ebube Ebube.,66,58,8,12,0.8801476889799446,0.9292318323431203,4,2,-7.5,NA,NA,Manhattan,made,Tykei Greene,Ebube Ebube,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,276,2,4:08,248,248,Stevie Jordan missed Jumper.,66,58,8,22,0.8766797692290451,0.9258576645117051,4,2,-7.5,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,277,2,4:08,248,248,Devine Eke Offensive Rebound.,66,58,8,0,0.8766797692290451,0.9258576645117051,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,278,2,4:04,244,244,Devine Eke missed Layup.,66,58,8,4,0.8763897840955037,0.9254442608945531,4,2,-7.5,NA,NA,Rider,missed,Devine Eke,NA,FALSE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,279,2,4:04,244,244,Rider Offensive Rebound.,66,58,8,0,0.8763897840955037,0.9254442608945531,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,280,2,3:55,235,235,Devine Eke made Dunk. Assisted by Kimar Williams.,66,60,6,9,0.7913192601654593,0.8682190940174732,4,2,-7.5,NA,NA,Rider,made,Devine Eke,Kimar Williams,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,281,2,3:40,220,220,Samir Stewart Turnover.,66,60,6,15,0.797203314027577,0.8707941151763672,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,282,2,3:38,218,218,Stevie Jordan Steal.,66,60,6,2,0.7985593798443181,0.8715315245574938,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,283,2,3:37,217,217,Stevie Jordan made Layup.,66,62,4,1,0.6775384234765283,0.7822472357926172,4,2,-7.5,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,284,2,3:26,206,206,Foul on Nehemiah Mack.,66,62,4,11,0.6881442119414204,0.7887347862550862,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,285,2,3:26,206,206,Nehemiah Mack Turnover.,66,62,4,0,0.6881442119414204,0.7887347862550862,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,286,2,3:26,206,206,Official TV Timeout,66,62,4,0,0.6881442119414204,0.7887347862550862,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,287,2,3:15,195,195,Stevie Jordan Turnover.,66,62,4,11,0.7039089935189982,0.7991170369321715,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,288,2,3:15,195,195,Samir Stewart Steal.,66,62,4,0,0.7039089935189982,0.7991170369321715,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,289,2,3:11,191,191,Tykei Greene made Layup. Assisted by Samir Stewart.,68,62,6,4,0.832840206190806,0.8924978531284166,4,2,-7.5,NA,NA,Manhattan,made,Tykei Greene,Samir Stewart,FALSE,FALSE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,290,2,2:55,175,175,Stevie Jordan missed Three Point Jumper.,68,62,6,16,0.8611751728275262,0.9103977428694429,4,2,-7.5,NA,NA,Rider,missed,Stevie Jordan,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,291,2,2:55,175,175,Manhattan Defensive Rebound.,68,62,6,0,0.8611751728275262,0.9103977428694429,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,292,2,2:26,146,146,Foul on Devine Eke.,68,62,6,29,0.9059465930842735,0.938537944630103,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,293,2,2:26,146,146,Samir Stewart made Free Throw.,69,62,7,0,0.9381637526715171,0.9600831173356043,4,2,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,294,2,2:26,146,146,Samir Stewart made Free Throw.,70,62,8,0,0.9598344826657361,0.9742827031654072,4,2,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,295,2,2:14,134,134,Jordan Allen missed Three Point Jumper.,70,62,8,12,0.9692905759384322,0.9801329529322418,4,2,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,296,2,2:14,134,134,Dimencio Vaughn Offensive Rebound.,70,62,8,0,0.9692905759384322,0.9801329529322418,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,297,2,2:04,124,124,Foul on Christian Hinckson.,70,62,8,10,0.9760903650636505,0.9843848215930374,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401085967,2019-02-05,Manhattan,Rider,298,2,2:04,124,124,Anthony Durham made Free Throw.,70,63,7,0,0.9605056397538383,0.9740629074169067,4,2,-7.5,NA,NA,Rider,made,Anthony Durham,NA,FALSE,TRUE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,299,2,1:38,98,98,Tyler Reynolds missed Three Point Jumper.,70,63,7,26,0.9801938923879604,0.9866541867627782,4,2,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,300,2,1:38,98,98,Ebube Ebube Offensive Rebound.,70,63,7,0,0.9801938923879604,0.9866541867627782,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,301,2,1:18,78,78,Foul on Anthony Durham.,70,63,7,20,0.9896639253027861,0.9928685394919513,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,302,2,1:18,78,78,Samir Stewart missed Free Throw.,70,63,7,0,0.9896639253027861,0.9928685394919513,4,2,-7.5,NA,NA,Manhattan,missed,Samir Stewart,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,303,2,1:18,78,78,Dimencio Vaughn Defensive Rebound.,70,63,7,0,0.9896639253027861,0.9928685394919513,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,304,2,1:11,71,71,Foul on Stevie Jordan.,70,63,7,7,0.991936373513985,0.9943862330099739,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,305,2,1:11,71,71,Stevie Jordan Turnover.,70,63,7,0,0.991936373513985,0.9943862330099739,4,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,306,2,1:05,65,65,Manhattan  Timeout,70,63,7,6,0.9935459703145791,0.9954708939197109,3,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,307,2,0:45,45,45,Ebube Ebube missed Three Point Jumper.,70,63,7,20,0.9970848039072616,0.997896221785585,3,2,-7.5,NA,NA,Manhattan,missed,Ebube Ebube,NA,TRUE,FALSE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,308,2,0:45,45,45,Manhattan Offensive Rebound.,70,63,7,0,0.9970848039072616,0.997896221785585,3,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,309,2,0:41,41,41,Manhattan  Turnover.,70,63,7,4,0.9975420399659136,0.9982157827115955,3,2,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,310,2,0:35,35,35,Jordan Allen made Three Point Jumper. Assisted by Kimar Williams.,70,66,4,6,0.9692012470531991,0.9772669019809318,3,2,-7.5,NA,NA,Rider,made,Jordan Allen,Kimar Williams,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,311,2,0:34,34,34,Rider  Timeout,70,66,4,1,0.9699739661807693,0.9778087971889909,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,312,2,0:32,32,32,Foul on Kimar Williams.,70,66,4,2,0.9714730450149922,0.9788619621873176,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,313,2,0:32,32,32,Samir Stewart made Free Throw.,71,66,5,0,0.9888686186550553,0.9917898951845678,3,1,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,314,2,0:32,32,32,Samir Stewart made Free Throw.,72,66,6,0,0.995703386831096,0.9968367111496156,3,1,-7.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,315,2,0:28,28,28,Jordan Allen missed Three Point Jumper.,72,66,6,4,0.9963258981003393,0.99727880563173,3,1,-7.5,NA,NA,Rider,missed,Jordan Allen,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,316,2,0:28,28,28,Tyler Reynolds Defensive Rebound.,72,66,6,0,0.9963258981003393,0.99727880563173,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,317,2,0:22,22,22,Foul on Devine Eke.,72,66,6,6,0.9971077292795266,0.9978382836910995,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,318,2,0:22,22,22,Tyler Reynolds made Free Throw.,73,66,7,0,0.9989576816780267,0.9992213242439689,3,1,-7.5,NA,NA,Manhattan,made,Tyler Reynolds,NA,FALSE,TRUE,Manhattan,Manhattan
+401085967,2019-02-05,Manhattan,Rider,319,2,0:22,22,22,Tyler Reynolds missed Free Throw.,73,66,7,0,0.9989576816780267,0.9992213242439689,3,1,-7.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,FALSE,TRUE,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,320,2,0:22,22,22,Kimar Williams Defensive Rebound.,73,66,7,0,0.9989576816780267,0.9992213242439689,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Rider
+401085967,2019-02-05,Manhattan,Rider,321,2,0:12,12,12,Dimencio Vaughn missed Three Point Jumper.,73,66,7,10,0.9993601782097146,0.9995144241014755,3,1,-7.5,NA,NA,Rider,missed,Dimencio Vaughn,NA,TRUE,FALSE,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,322,2,0:12,12,12,Ebube Ebube Block.,73,66,7,0,0.9993601782097146,0.9995144241014755,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,323,2,0:09,9,9,Tyler Reynolds Defensive Rebound.,73,66,7,3,0.999450614699197,0.9995810459576618,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Manhattan
+401085967,2019-02-05,Manhattan,Rider,324,2,0:00,0,0,End of Game,73,73,0,9,1,1,3,1,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,NA

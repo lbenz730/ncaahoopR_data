@@ -1,0 +1,349 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991921,2018-02-15,Stetson,Lipscomb,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.24545205977134696,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,2,1,19:37,2377,2377,Garrison Mathews Turnover.,0,0,0,23,0.24593347094792875,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,3,1,19:36,2376,2376,B.J. Glasford Steal.,0,0,0,1,0.2459547175896542,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,4,1,19:29,2369,2369,Luke Doyle missed Three Point Jumper.,0,0,0,7,0.2461041922051437,0.5,4,4,-7,NA,NA,Stetson,missed,Luke Doyle,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,5,1,19:29,2369,2369,Rob Marberry Defensive Rebound.,0,0,0,0,0.2461041922051437,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,6,1,19:17,2357,2357,Eli Pepper Turnover.,0,0,0,12,0.24636351049508054,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,7,1,18:58,2338,2338,Divine Myles made Jumper.,2,0,2,19,0.2821253958966474,0.5453512728162102,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,8,1,18:32,2312,2312,Garrison Mathews made Three Point Jumper. Assisted by Eli Pepper.,2,3,-1,26,0.23062552819747983,0.47699055563160475,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,Eli Pepper,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,9,1,18:13,2293,2293,Abayomi Iyiola made Layup. Assisted by Angel Rivera.,4,3,1,19,0.26554439577214795,0.5232215517927618,4,4,-7,NA,NA,Stetson,made,Abayomi Iyiola,Angel Rivera,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,10,1,18:00,2280,2280,Foul on Abayomi Iyiola.,4,3,1,13,0.2659825661622474,0.5233677364068907,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,11,1,18:00,2280,2280,Rob Marberry made Free Throw.,4,4,0,0,0.24812431586143954,0.5,4,4,-7,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,12,1,18:00,2280,2280,Rob Marberry made Free Throw.,4,5,-1,0,0.23108759979097465,0.47663226359310934,4,4,-7,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,13,1,17:44,2264,2264,Foul on Garrison Mathews.,4,5,-1,16,0.23132807525840318,0.47645126124796555,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,14,1,17:36,2256,2256,Abayomi Iyiola Turnover.,4,5,-1,8,0.23145077279529633,0.4763603432018731,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,15,1,17:26,2246,2246,Foul on B.J. Glasford.,4,5,-1,10,0.23160650788870044,0.4762463316928163,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,16,1,17:26,2246,2246,Garrison Mathews made Free Throw.,4,6,-2,0,0.21511771390716478,0.4525996434796062,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,17,1,17:26,2246,2246,Garrison Mathews made Free Throw.,4,7,-3,0,0.19949803206327757,0.4291649968576118,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,18,1,17:26,2246,2246,Garrison Mathews made Free Throw.,4,8,-4,0,0.18474553946844374,0.40604368878856145,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,19,1,17:12,2232,2232,Abayomi Iyiola made Jumper. Assisted by Luke Doyle.,6,8,-2,14,0.21522032089781543,0.4522813233554353,4,4,-7,NA,NA,Stetson,made,Abayomi Iyiola,Luke Doyle,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,20,1,16:51,2211,2211,Rob Marberry made Layup.,6,10,-4,21,0.18449674654948425,0.40449039375625734,4,4,-7,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,21,1,16:32,2192,2192,Divine Myles made Three Point Jumper. Assisted by Angel Rivera.,9,10,-1,19,0.23249518674219047,0.4756247738977838,4,4,-7,NA,NA,Stetson,made,Divine Myles,Angel Rivera,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,22,1,16:19,2179,2179,Michael Buckland missed Three Point Jumper.,9,10,-1,13,0.2327217856379272,0.4754739480956594,4,4,-7,NA,NA,Lipscomb,missed,Michael Buckland,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,23,1,16:19,2179,2179,Luke Doyle Defensive Rebound.,9,10,-1,0,0.2327217856379272,0.4754739480956594,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,24,1,16:12,2172,2172,Divine Myles missed Layup.,9,10,-1,7,0.23284593348807522,0.4753925881426893,4,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,25,1,16:12,2172,2172,Michael Buckland Defensive Rebound.,9,10,-1,0,0.23284593348807522,0.4753925881426893,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,26,1,16:04,2164,2164,Rob Marberry Turnover.,9,10,-1,8,0.23298961441549879,0.47529945885834446,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,27,1,16:03,2163,2163,Divine Myles Steal.,9,10,-1,1,0.2330076998635034,0.47528780118465236,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,28,1,16:01,2161,2161,Foul on Michael Buckland.,9,10,-1,2,0.23304395339447728,0.4752644743265245,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,29,1,16:01,2161,2161,B.J. Glasford made Free Throw.,10,10,0,0,0.25120809044913706,0.5,4,4,-7,NA,NA,Stetson,made,B.J. Glasford,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,30,1,16:01,2161,2161,B.J. Glasford made Free Throw.,11,10,1,0,0.2702890526688009,0.5247355256734755,4,4,-7,NA,NA,Stetson,made,B.J. Glasford,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,31,1,15:44,2144,2144,Rob Marberry Turnover.,11,10,1,17,0.27094895294355426,0.5249344419963612,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,32,1,15:44,2144,2144,Luke Doyle Steal.,11,10,1,0,0.27094895294355426,0.5249344419963612,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,33,1,15:44,2144,2144,Official TV Timeout,11,10,1,0,0.27094895294355426,0.5249344419963612,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,34,1,15:28,2128,2128,Abayomi Iyiola made Jumper. Assisted by Luke Doyle.,13,10,3,16,0.31314254065924935,0.5748646712882423,4,4,-7,NA,NA,Stetson,made,Abayomi Iyiola,Luke Doyle,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,35,1,15:13,2113,2113,Matt Rose missed Three Point Jumper.,13,10,3,15,0.31410246615773085,0.5753866813203414,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,36,1,15:13,2113,2113,Rob Marberry Offensive Rebound.,13,10,3,0,0.31410246615773085,0.5753866813203414,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,37,1,15:04,2104,2104,Garrison Mathews made Layup.,13,12,1,9,0.27254577098501875,0.5254073665373863,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,38,1,15:04,2104,2104,Foul on Abayomi Iyiola.,13,12,1,0,0.27254577098501875,0.5254073665373863,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,39,1,15:04,2104,2104,Garrison Mathews missed Free Throw.,13,12,1,0,0.27254577098501875,0.5254073665373863,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,40,1,15:04,2104,2104,Divine Myles Defensive Rebound.,13,12,1,0,0.27254577098501875,0.5254073665373863,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,41,1,14:45,2085,2085,Angel Rivera Turnover.,13,12,1,19,0.2733258565830608,0.5256346501751078,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,42,1,14:44,2084,2084,Garrison Mathews Steal.,13,12,1,1,0.27336729775605517,0.5256466630622313,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,43,1,14:42,2082,2082,Garrison Mathews made Layup.,13,14,-1,2,0.2345610808482069,0.47432929561141235,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,44,1,14:14,2054,2054,Larry Dennis missed Layup.,13,14,-1,28,0.2351367638792995,0.4739904657841277,4,4,-7,NA,NA,Stetson,missed,Larry Dennis,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,45,1,14:14,2054,2054,Aaron Korn Defensive Rebound.,13,14,-1,0,0.2351367638792995,0.4739904657841277,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,46,1,14:05,2045,2045,Matt Rose made Three Point Jumper. Assisted by Kenny Cooper.,13,17,-4,9,0.1835922033526263,0.3969258340185105,4,4,-7,NA,NA,Lipscomb,made,Matt Rose,Kenny Cooper,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,47,1,13:52,2032,2032,Foul on Aaron Korn.,13,17,-4,13,0.18353468235541573,0.39631344632150267,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,48,1,13:38,2018,2018,Divine Myles missed Jumper.,13,17,-4,14,0.18347407786805414,0.3956498908713166,4,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,49,1,13:38,2018,2018,Kenny Cooper Defensive Rebound.,13,17,-4,0,0.18347407786805414,0.3956498908713166,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,50,1,13:32,2012,2012,Kenny Cooper Turnover.,13,17,-4,6,0.18344848827008575,0.3953641799254241,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,51,1,13:09,1989,1989,Larry Dennis missed Jumper.,13,17,-4,23,0.1833522238122653,0.3942612671039791,4,4,-7,NA,NA,Stetson,missed,Larry Dennis,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,52,1,13:09,1989,1989,Aaron Korn Defensive Rebound.,13,17,-4,0,0.1833522238122653,0.3942612671039791,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,53,1,13:01,1981,1981,Matt Rose missed Three Point Jumper.,13,17,-4,8,0.1833193233969735,0.3938746929222732,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,54,1,13:01,1981,1981,Stetson Defensive Rebound.,13,17,-4,0,0.1833193233969735,0.3938746929222732,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,55,1,12:45,1965,1965,Divine Myles made Jumper.,15,17,-2,16,0.2180107380800064,0.44592315934692306,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,56,1,12:32,1952,1952,Kenny Cooper missed Layup.,15,17,-2,13,0.2181787806536306,0.44559330945568887,4,4,-7,NA,NA,Lipscomb,missed,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,57,1,12:32,1952,1952,Divine Myles Defensive Rebound.,15,17,-2,0,0.2181787806536306,0.44559330945568887,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,58,1,12:26,1946,1946,Christiaan Jones missed Three Point Jumper.,15,17,-2,6,0.2182570870095214,0.44544024862386306,4,4,-7,NA,NA,Stetson,missed,Christiaan Jones,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,59,1,12:26,1946,1946,Kenny Cooper Defensive Rebound.,15,17,-2,0,0.2182570870095214,0.44544024862386306,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,60,1,12:13,1933,1933,Garrison Mathews missed Three Point Jumper.,15,17,-2,13,0.21842830994261733,0.4451067911198845,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,61,1,12:13,1933,1933,Larry Dennis Defensive Rebound.,15,17,-2,0,0.21842830994261733,0.4451067911198845,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,62,1,11:56,1916,1916,Larry Dennis made Jumper.,17,17,0,17,0.25898120636860883,0.5,4,4,-7,NA,NA,Stetson,made,Larry Dennis,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,63,1,11:36,1896,1896,Garrison Mathews missed Three Point Jumper.,17,17,0,20,0.25969915356754797,0.5,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,64,1,11:36,1896,1896,Stetson Defensive Rebound.,17,17,0,0,0.25969915356754797,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,65,1,11:35,1895,1895,Official TV Timeout,17,17,0,1,0.2597354592824434,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,66,1,11:08,1868,1868,Kenny Aninye made Layup.,19,17,2,27,0.30683789907462095,0.5565653187903247,4,4,-7,NA,NA,Stetson,made,Kenny Aninye,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,67,1,10:53,1853,1853,Rob Marberry missed Jumper.,19,17,2,15,0.307793899106426,0.556952112125646,4,4,-7,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,68,1,10:53,1853,1853,Stetson Defensive Rebound.,19,17,2,0,0.307793899106426,0.556952112125646,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,69,1,10:32,1832,1832,Christiaan Jones made Three Point Jumper. Assisted by Angel Rivera.,22,17,5,21,0.3875588739067089,0.640495643290806,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,Angel Rivera,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,70,1,10:18,1818,1818,Foul on Larry Dennis.,22,17,5,14,0.3891040424643383,0.6413468676539791,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,71,1,10:15,1815,1815,Eli Pepper Turnover.,22,17,5,3,0.38943703365826915,0.6415298400236693,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,72,1,10:13,1813,1813,Christiaan Jones Steal.,22,17,5,2,0.38965940548924527,0.6416519439139304,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,73,1,10:12,1812,1812,Christiaan Jones Turnover.,22,17,5,1,0.38977070550833115,0.6417130336025192,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,74,1,10:11,1811,1811,Garrison Mathews Steal.,22,17,5,1,0.3898820819491444,0.6417741489199523,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,75,1,10:08,1808,1808,Kenny Cooper made Layup. Assisted by Garrison Mathews.,22,19,3,3,0.3362724697696454,0.5866958165178315,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,Garrison Mathews,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,76,1,9:54,1794,1794,Christiaan Jones made Three Point Jumper. Assisted by Kenny Aninye.,25,19,6,14,0.4201196271795461,0.6693255303821953,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,Kenny Aninye,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,77,1,9:38,1778,1778,Foul on Larry Dennis.,25,19,6,16,0.422185028162604,0.6704707036322993,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,78,1,9:38,1778,1778,Garrison Mathews made Free Throw.,25,20,5,0,0.39360211274421264,0.6438076152099191,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,79,1,9:38,1778,1778,Garrison Mathews missed Free Throw.,25,20,5,0,0.39360211274421264,0.6438076152099191,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,80,1,9:38,1778,1778,Kenny Aninye Defensive Rebound.,25,20,5,0,0.39360211274421264,0.6438076152099191,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,81,1,9:32,1772,1772,Foul on Eli Pepper.,25,20,5,6,0.39428820017084715,0.644181353321751,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,82,1,9:21,1761,1761,Christiaan Jones made Layup.,27,20,7,11,0.4537828788389714,0.6974517412425733,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,83,1,8:55,1735,1735,Aaron Korn Turnover.,27,20,7,26,0.45764428854651684,0.6995782230845098,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,84,1,8:54,1734,1734,Keith Matthews Steal.,27,20,7,1,0.45779439003013767,0.6996607875797753,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,85,1,8:48,1728,1728,Kenny Aninye missed Layup.,27,20,7,6,0.45869756063882167,0.7001574802550292,4,4,-7,NA,NA,Stetson,missed,Kenny Aninye,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,86,1,8:48,1728,1728,Garrison Mathews Block.,27,20,7,0,0.45869756063882167,0.7001574802550292,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,87,1,8:46,1726,1726,Adam Webb Offensive Rebound.,27,20,7,2,0.45899960326372213,0.7003235519463573,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,88,1,8:44,1724,1724,Keith Matthews Turnover.,27,20,7,2,0.45930214424675364,0.7004898829446943,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,89,1,8:44,1724,1724,Foul on Keith Matthews.,27,20,7,0,0.45930214424675364,0.7004898829446943,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,90,1,8:32,1712,1712,Eli Pepper missed Layup.,27,20,7,12,0.46112803971935834,0.701493500820919,4,4,-7,NA,NA,Lipscomb,missed,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,91,1,8:32,1712,1712,Adam Webb Block.,27,20,7,0,0.46112803971935834,0.701493500820919,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,92,1,8:31,1711,1711,Angel Rivera Defensive Rebound.,27,20,7,1,0.4612810350961287,0.7015775849219473,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,93,1,8:27,1707,1707,Angel Rivera missed Layup.,27,20,7,4,0.4618943282016915,0.7019146359275591,4,4,-7,NA,NA,Stetson,missed,Angel Rivera,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,94,1,8:27,1707,1707,Matt Rose Block.,27,20,7,0,0.4618943282016915,0.7019146359275591,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,95,1,8:26,1706,1706,Matt Rose Defensive Rebound.,27,20,7,1,0.4620479814288806,0.7019990793864772,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,96,1,8:16,1696,1696,Aaron Korn made Three Point Jumper. Assisted by Matt Rose.,27,23,4,10,0.3740582802808185,0.6205633341797067,4,4,-7,NA,NA,Lipscomb,made,Aaron Korn,Matt Rose,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,97,1,7:57,1677,1677,Adam Webb made Layup. Assisted by Kenny Aninye.,29,23,6,19,0.4358290790210335,0.6779892209330605,4,4,-7,NA,NA,Stetson,made,Adam Webb,Kenny Aninye,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,98,1,7:41,1661,1661,Eli Pepper made Layup. Assisted by Michael Buckland.,29,25,4,16,0.37775785578624016,0.622461035702219,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,Michael Buckland,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,99,1,7:28,1648,1648,Angel Rivera Turnover.,29,25,4,13,0.3791386000375391,0.6231448800842986,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,100,1,7:28,1648,1648,Official TV Timeout,29,25,4,0,0.3791386000375391,0.6231448800842986,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,101,1,7:23,1643,1643,Matt Rose missed Three Point Jumper.,29,25,4,5,0.37967098561422535,0.6234055504732094,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,102,1,7:23,1643,1643,Kenny Aninye Defensive Rebound.,29,25,4,0,0.37967098561422535,0.6234055504732094,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,103,1,6:56,1616,1616,Adam Webb Turnover.,29,25,4,27,0.38256240139401365,0.6247973891852551,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,104,1,6:56,1616,1616,Foul on Adam Webb.,29,25,4,0,0.38256240139401365,0.6247973891852551,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,105,1,6:41,1601,1601,Rob Marberry missed Layup.,29,25,4,15,0.3841836839179189,0.6255642471140835,4,4,-7,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,106,1,6:41,1601,1601,Adam Webb Block.,29,25,4,0,0.3841836839179189,0.6255642471140835,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,107,1,6:40,1600,1600,Angel Rivera Defensive Rebound.,29,25,4,1,0.3842922162036932,0.6256153274871885,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,108,1,6:35,1595,1595,Luke Doyle missed Three Point Jumper.,29,25,4,5,0.38483577730866175,0.6258707562120632,4,4,-7,NA,NA,Stetson,missed,Luke Doyle,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,109,1,6:35,1595,1595,Aaron Korn Defensive Rebound.,29,25,4,0,0.38483577730866175,0.6258707562120632,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,110,1,6:09,1569,1569,Garrison Mathews Turnover.,29,25,4,26,0.3876890141354352,0.6272041335939563,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,111,1,5:49,1549,1549,Divine Myles made Jumper.,31,25,6,20,0.4538051123656238,0.687194228036915,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,112,1,5:29,1529,1529,Kenny Cooper made Jumper.,31,27,4,20,0.39218476506519956,0.6293043814913973,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,113,1,5:06,1506,1506,B.J. Glasford missed Jumper.,31,27,4,23,0.39484101944789046,0.6305607788785816,4,4,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,114,1,5:06,1506,1506,Andrew Fleming Defensive Rebound.,31,27,4,0,0.39484101944789046,0.6305607788785816,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,115,1,4:57,1497,1497,Foul on B.J. Glasford.,31,27,4,9,0.3958966716321933,0.6310656046504992,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,116,1,4:57,1497,1497,Kenny Cooper made Free Throw.,31,28,3,0,0.3642905729001721,0.5993105544797167,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,117,1,4:57,1497,1497,Kenny Cooper made Free Throw.,31,29,2,0,0.3338134340626657,0.5666989588334532,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,118,1,4:46,1486,1486,Foul on Michael Buckland.,31,29,2,11,0.33472517095915133,0.5670305700193528,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,119,1,4:32,1472,1472,Larry Dennis Turnover.,31,29,2,14,0.3358961457297622,0.5674637237186487,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,120,1,4:31,1471,1471,Kenny Cooper Steal.,31,29,2,1,0.33598024514438896,0.5674951740796679,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,121,1,4:28,1468,1468,Kenny Cooper made Layup.,31,31,0,3,0.2784522178423085,0.5,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,122,1,4:20,1460,1460,Foul on Kenny Cooper.,31,31,0,8,0.27885154372392945,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,123,1,4:03,1443,1443,Larry Dennis made Layup.,33,31,2,17,0.33835863448776043,0.5684026606318309,4,4,-7,NA,NA,Stetson,made,Larry Dennis,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,124,1,3:53,1433,1433,Foul on Larry Dennis.,33,31,2,10,0.3392128428187555,0.5687249827343209,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,125,1,3:53,1433,1433,Official TV Timeout,33,31,2,0,0.3392128428187555,0.5687249827343209,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,126,1,3:53,1433,1433,Andrew Fleming made Free Throw.,33,32,1,0,0.3089293345478962,0.5345263411042163,4,4,-7,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,127,1,3:53,1433,1433,Andrew Fleming made Free Throw.,33,33,0,0,0.28020297189874444,0.5,4,4,-7,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,128,1,3:40,1420,1420,Adam Webb missed Jumper.,33,33,0,13,0.28086540607584437,0.5,4,4,-7,NA,NA,Stetson,missed,Adam Webb,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,129,1,3:40,1420,1420,Aaron Korn Defensive Rebound.,33,33,0,0,0.28086540607584437,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,130,1,3:13,1393,1393,Aaron Korn missed Three Point Jumper.,33,33,0,27,0.28226592544893186,0.5,4,4,-7,NA,NA,Lipscomb,missed,Aaron Korn,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,131,1,3:13,1393,1393,Aaron Korn Offensive Rebound.,33,33,0,0,0.28226592544893186,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,132,1,3:01,1381,1381,Andrew Fleming Turnover.,33,33,0,12,0.2828979974895959,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,133,1,3:00,1380,1380,Leo Goodman Steal.,33,33,0,1,0.2829509140961813,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,134,1,2:48,1368,1368,Angel Rivera Turnover.,33,33,0,12,0.28358866514557196,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,135,1,2:48,1368,1368,Foul on Angel Rivera.,33,33,0,0,0.28358866514557196,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,136,1,2:32,1352,1352,Andrew Fleming missed Layup.,33,33,0,16,0.2844463150964386,0.5,4,4,-7,NA,NA,Lipscomb,missed,Andrew Fleming,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,137,1,2:32,1352,1352,Luke Doyle Defensive Rebound.,33,33,0,0,0.2844463150964386,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,138,1,2:26,1346,1346,Luke Doyle missed Three Point Jumper.,33,33,0,6,0.2847698855011457,0.5,4,4,-7,NA,NA,Stetson,missed,Luke Doyle,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,139,1,2:26,1346,1346,Matt Rose Defensive Rebound.,33,33,0,0,0.2847698855011457,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,140,1,2:16,1336,1336,Kenny Cooper missed Layup.,33,33,0,10,0.28531130159267604,0.5,4,4,-7,NA,NA,Lipscomb,missed,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,141,1,2:16,1336,1336,Adam Webb Block.,33,33,0,0,0.28531130159267604,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,142,1,2:15,1335,1335,Adam Webb Defensive Rebound.,33,33,0,1,0.2853655812185505,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,143,1,2:08,1328,1328,Luke Doyle missed Layup.,33,33,0,7,0.2857461949374394,0.5,4,4,-7,NA,NA,Stetson,missed,Luke Doyle,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,144,1,2:08,1328,1328,Rob Marberry Block.,33,33,0,0,0.2857461949374394,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,145,1,2:07,1327,1327,Garrison Mathews Defensive Rebound.,33,33,0,1,0.2858006587744195,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,146,1,2:00,1320,1320,Garrison Mathews missed Three Point Jumper.,33,33,0,7,0.2861825000379675,0.5,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,147,1,2:00,1320,1320,Adam Webb Defensive Rebound.,33,33,0,0,0.2861825000379675,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,148,1,1:52,1312,1312,Christiaan Jones missed Three Point Jumper.,33,33,0,8,0.286620075002017,0.5,4,4,-7,NA,NA,Stetson,missed,Christiaan Jones,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,149,1,1:52,1312,1312,Garrison Mathews Defensive Rebound.,33,33,0,0,0.286620075002017,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,150,1,1:38,1298,1298,Rob Marberry missed Layup.,33,33,0,14,0.28738845811780533,0.5,4,4,-7,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,151,1,1:38,1298,1298,Christiaan Jones Defensive Rebound.,33,33,0,0,0.28738845811780533,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,152,1,1:31,1291,1291,Christiaan Jones Turnover.,33,33,0,7,0.28777370480665965,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,153,1,1:30,1290,1290,Andrew Fleming Steal.,33,33,0,1,0.2878287892408904,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,154,1,1:25,1285,1285,Garrison Mathews missed Three Point Jumper.,33,33,0,5,0.2881043775936822,0.5,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,155,1,1:25,1285,1285,Leo Goodman Defensive Rebound.,33,33,0,0,0.2881043775936822,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,156,1,1:01,1261,1261,Divine Myles missed Three Point Jumper.,33,33,0,24,0.2894300736010419,0.5,4,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,157,1,1:01,1261,1261,Garrison Mathews Defensive Rebound.,33,33,0,0,0.2894300736010419,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,158,1,0:56,1256,1256,Foul on Christiaan Jones.,33,33,0,5,0.289706625438782,0.5,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,159,1,0:56,1256,1256,Garrison Mathews made Free Throw.,33,34,-1,0,0.2598940520972354,0.46264225437775996,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,160,1,0:56,1256,1256,Garrison Mathews missed Free Throw.,33,34,-1,0,0.2598940520972354,0.46264225437775996,4,4,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,161,1,0:56,1256,1256,Christiaan Jones Defensive Rebound.,33,34,-1,0,0.2598940520972354,0.46264225437775996,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,162,1,0:48,1248,1248,Stetson  Timeout,33,34,-1,8,0.26019258198492135,0.46249352365000934,3,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,163,1,0:41,1241,1241,Divine Myles missed Three Point Jumper.,33,34,-1,7,0.2604512349161103,0.4623602696026748,3,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,164,1,0:41,1241,1241,Eli Pepper Defensive Rebound.,33,34,-1,0,0.2604512349161103,0.4623602696026748,3,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,165,1,0:34,1234,1234,Lipscomb  Timeout,33,34,-1,7,0.2607072608847374,0.4622239331614002,3,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,166,1,0:20,1220,1220,Rob Marberry made Layup. Assisted by Garrison Mathews.,33,36,-3,14,0.20673072434961795,0.38755794074368843,3,3,-7,NA,NA,Lipscomb,made,Rob Marberry,Garrison Mathews,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,167,1,0:03,1203,1203,Adam Webb missed Jumper.,33,36,-3,17,0.20676182167772877,0.3865285927396723,3,3,-7,NA,NA,Stetson,missed,Adam Webb,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,168,1,0:03,1203,1203,Divine Myles Offensive Rebound.,33,36,-3,0,0.20676182167772877,0.3865285927396723,3,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,169,1,0:01,1201,1201,Divine Myles missed Layup.,33,36,-3,2,0.20676537216493265,0.38640798088719136,3,3,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,170,1,0:01,1201,1201,Garrison Mathews Defensive Rebound.,33,36,-3,0,0.20676537216493265,0.38640798088719136,3,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,171,1,0:00,1200,1200,End of 1st half,33,36,-3,1,0.2067672391869563,0.38634786325026177,3,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,NA
+400991921,2018-02-15,Stetson,Lipscomb,172,2,20:00,1200,1200,PLAY,33,36,-3,0,0.2067672391869563,0.38634786325026177,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,173,2,19:36,1176,1176,Luke Doyle missed Layup.,33,36,-3,24,0.20682760563093877,0.3849374070098033,4,4,-7,NA,NA,Stetson,missed,Luke Doyle,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,174,2,19:36,1176,1176,Abayomi Iyiola Offensive Rebound.,33,36,-3,0,0.20682760563093877,0.3849374070098033,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,175,2,19:34,1174,1174,Abayomi Iyiola missed Jumper.,33,36,-3,2,0.20683374203366212,0.38482221636942043,4,4,-7,NA,NA,Stetson,missed,Abayomi Iyiola,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,176,2,19:34,1174,1174,Luke Doyle Offensive Rebound.,33,36,-3,0,0.20683374203366212,0.38482221636942043,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,177,2,19:31,1171,1171,Luke Doyle made Layup.,35,36,-1,3,0.26292484671590144,0.4609250478693004,4,4,-7,NA,NA,Stetson,made,Luke Doyle,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,178,2,19:10,1150,1150,Eli Pepper made Three Point Jumper. Assisted by Garrison Mathews.,35,39,-4,21,0.18213939791683728,0.34678634598821395,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,Garrison Mathews,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,179,2,18:47,1127,1127,Abayomi Iyiola missed Jumper.,35,39,-4,23,0.18194264852060185,0.34513484255265464,4,4,-7,NA,NA,Stetson,missed,Abayomi Iyiola,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,180,2,18:47,1127,1127,Rob Marberry Defensive Rebound.,35,39,-4,0,0.18194264852060185,0.34513484255265464,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,181,2,18:41,1121,1121,Garrison Mathews Turnover.,35,39,-4,6,0.18189034861552356,0.34470337127948114,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,182,2,18:41,1121,1121,Foul on Garrison Mathews.,35,39,-4,0,0.18189034861552356,0.34470337127948114,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,183,2,18:26,1106,1106,Divine Myles made Three Point Jumper. Assisted by Angel Rivera.,38,39,-1,15,0.2652038690430607,0.4596372065355794,4,4,-7,NA,NA,Stetson,made,Divine Myles,Angel Rivera,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,184,2,18:02,1082,1082,Eli Pepper made Layup.,38,41,-3,24,0.20712350121089979,0.3795833362229449,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,185,2,17:48,1068,1068,Foul on Kenny Cooper.,38,41,-3,14,0.20714113073552004,0.37874487263453277,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,186,2,17:48,1068,1068,B.J. Glasford missed Free Throw.,38,41,-3,0,0.20714113073552004,0.37874487263453277,4,4,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,187,2,17:48,1068,1068,Stetson Deadball Team Rebound.,38,41,-3,0,0.20714113073552004,0.37874487263453277,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,188,2,17:48,1068,1068,B.J. Glasford made Free Throw.,39,41,-2,0,0.23554067327267073,0.41826024885698593,4,4,-7,NA,NA,Stetson,made,B.J. Glasford,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,189,2,17:32,1052,1052,Foul on Abayomi Iyiola.,39,41,-2,16,0.23579507901496555,0.4175773729614239,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,190,2,17:20,1040,1040,Garrison Mathews made Layup. Assisted by Rob Marberry.,39,43,-4,12,0.18097152516799914,0.3385371262733652,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,Rob Marberry,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,191,2,17:08,1028,1028,Foul on Garrison Mathews.,39,43,-4,12,0.1807771718857881,0.3375252320433732,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,192,2,16:53,1013,1013,B.J. Glasford missed Layup.,39,43,-4,15,0.18050347422839383,0.33620738573189096,4,4,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,193,2,16:53,1013,1013,Aaron Korn Defensive Rebound.,39,43,-4,0,0.18050347422839383,0.33620738573189096,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,194,2,16:52,1012,1012,Foul on Eli Pepper.,39,43,-4,1,0.18048391527691407,0.33611726236895045,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,195,2,16:52,1012,1012,Technical Foul on Eli Pepper.,39,43,-4,0,0.18048391527691407,0.33611726236895045,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,196,2,16:52,1012,1012,Luke Doyle made Free Throw.,40,43,-3,0,0.20703175263816717,0.37508005278921713,4,4,-7,NA,NA,Stetson,made,Luke Doyle,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,197,2,16:52,1012,1012,Luke Doyle made Free Throw.,41,43,-2,0,0.23635833288764488,0.41573108668477615,4,4,-7,NA,NA,Stetson,made,Luke Doyle,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,198,2,16:31,991,991,Matt Rose missed Jumper.,41,43,-2,21,0.2366016277791393,0.41466065072917446,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,199,2,16:31,991,991,Rob Marberry Offensive Rebound.,41,43,-2,0,0.2366016277791393,0.41466065072917446,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,200,2,16:26,986,986,Aaron Korn made Jumper.,41,45,-4,5,0.17991144336691142,0.3336632610118589,4,4,-7,NA,NA,Lipscomb,made,Aaron Korn,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,201,2,16:06,966,966,Abayomi Iyiola made Jumper.,43,45,-2,20,0.23683485148031863,0.4132784796229255,4,4,-7,NA,NA,Stetson,made,Abayomi Iyiola,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,202,2,15:50,950,950,Kenny Cooper made Layup.,43,47,-4,16,0.17898188903756382,0.3300598569779778,4,4,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,203,2,15:28,928,928,B.J. Glasford missed Layup.,43,47,-4,22,0.1785140812812022,0.32811240698979616,4,4,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,204,2,15:28,928,928,Aaron Korn Defensive Rebound.,43,47,-4,0,0.1785140812812022,0.32811240698979616,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,205,2,15:18,918,918,Foul on Angel Rivera.,43,47,-4,10,0.1783245198757141,0.3272854476225352,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,206,2,15:18,918,918,Official TV Timeout,43,47,-4,0,0.1783245198757141,0.3272854476225352,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,207,2,15:18,918,918,Aaron Korn missed Free Throw.,43,47,-4,0,0.1783245198757141,0.3272854476225352,4,4,-7,NA,NA,Lipscomb,missed,Aaron Korn,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,208,2,15:18,918,918,Lipscomb Deadball Team Rebound.,43,47,-4,0,0.1783245198757141,0.3272854476225352,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,209,2,15:18,918,918,Aaron Korn made Free Throw.,43,48,-5,0,0.15344115412588047,0.28892506099924614,4,4,-7,NA,NA,Lipscomb,made,Aaron Korn,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,210,2,15:08,908,908,Larry Dennis made Layup. Assisted by Angel Rivera.,45,48,-3,10,0.206208050254458,0.3674678204841126,4,4,-7,NA,NA,Stetson,made,Larry Dennis,Angel Rivera,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,211,2,14:35,875,875,Aaron Korn made Three Point Jumper. Assisted by Kenny Cooper.,45,51,-6,33,0.13003073223325384,0.24906884518908332,4,4,-7,NA,NA,Lipscomb,made,Aaron Korn,Kenny Cooper,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,212,2,14:09,849,849,Angel Rivera missed Three Point Jumper.,45,51,-6,26,0.12914504633217314,0.24648060936241284,4,4,-7,NA,NA,Stetson,missed,Angel Rivera,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,213,2,14:09,849,849,Matt Rose Defensive Rebound.,45,51,-6,0,0.12914504633217314,0.24648060936241284,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,214,2,13:58,838,838,Matt Rose missed Three Point Jumper.,45,51,-6,11,0.1287442515020056,0.24533970238109176,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,215,2,13:58,838,838,Larry Dennis Defensive Rebound.,45,51,-6,0,0.1287442515020056,0.24533970238109176,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,216,2,13:50,830,830,Divine Myles missed Layup.,45,51,-6,8,0.12843825627425218,0.24448291173008144,4,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,217,2,13:50,830,830,Michael Buckland Block.,45,51,-6,0,0.12843825627425218,0.24448291173008144,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,218,2,13:49,829,829,Aaron Korn Defensive Rebound.,45,51,-6,1,0.12839902401214462,0.24437395507081638,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,219,2,13:38,818,818,Kenny Cooper missed Three Point Jumper.,45,51,-6,11,0.12795125596455859,0.24314445968842235,4,4,-7,NA,NA,Lipscomb,missed,Kenny Cooper,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,220,2,13:38,818,818,Luke Doyle Defensive Rebound.,45,51,-6,0,0.12795125596455859,0.24314445968842235,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,221,2,13:29,809,809,Luke Doyle Turnover.,45,51,-6,9,0.12756024400436886,0.24209100273512038,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,222,2,13:28,808,808,George Brammeier Steal.,45,51,-6,1,0.1275152881309163,0.2419710225832219,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,223,2,13:11,791,791,George Brammeier made Jumper. Assisted by Michael Buckland.,45,53,-8,17,0.08988836157794615,0.17680505461685242,4,4,-7,NA,NA,Lipscomb,made,George Brammeier,Michael Buckland,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,224,2,12:54,774,774,Angel Rivera missed Layup.,45,53,-8,17,0.08885278987301085,0.1743008314874429,4,4,-7,NA,NA,Stetson,missed,Angel Rivera,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,225,2,12:54,774,774,Kenny Cooper Block.,45,53,-8,0,0.08885278987301085,0.1743008314874429,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,226,2,12:52,772,772,Kenny Cooper Defensive Rebound.,45,53,-8,2,0.08872285701605508,0.17398993862071857,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,227,2,12:50,770,770,Aaron Korn Turnover.,45,53,-8,2,0.08859112053272097,0.17367541503246103,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,228,2,12:50,770,770,Foul on Aaron Korn.,45,53,-8,0,0.08859112053272097,0.17367541503246103,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,229,2,12:19,739,739,Divine Myles missed Three Point Jumper.,45,53,-8,31,0.08629909331486132,0.16829574338988437,4,4,-7,NA,NA,Stetson,missed,Divine Myles,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,230,2,12:19,739,739,Greg Jones Defensive Rebound.,45,53,-8,0,0.08629909331486132,0.16829574338988437,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,231,2,12:03,723,723,Eli Pepper made Layup.,45,55,-10,16,0.05830664201442943,0.11658114271465823,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,232,2,11:39,699,699,Foul on Greg Jones.,45,55,-10,24,0.05666807521573321,0.11274589661732938,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,233,2,11:39,699,699,Official TV Timeout,45,55,-10,0,0.05666807521573321,0.11274589661732938,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,234,2,11:30,690,690,Keith Matthews missed Three Point Jumper.,45,55,-10,9,0.056129024593101776,0.11146376271170329,4,4,-7,NA,NA,Stetson,missed,Keith Matthews,NA,TRUE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,235,2,11:30,690,690,Kenny Aninye Offensive Rebound.,45,55,-10,0,0.056129024593101776,0.11146376271170329,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,236,2,11:21,681,681,Keith Matthews missed Layup.,45,55,-10,9,0.055617353064534025,0.11023876256335885,4,4,-7,NA,NA,Stetson,missed,Keith Matthews,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,237,2,11:21,681,681,Keith Matthews Offensive Rebound.,45,55,-10,0,0.055617353064534025,0.11023876256335885,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,238,2,11:17,677,677,Keith Matthews made Layup.,47,55,-8,4,0.08184768958652004,0.15776131879980568,4,4,-7,NA,NA,Stetson,made,Keith Matthews,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,239,2,10:58,658,658,John Matt Merritt made Three Point Jumper. Assisted by Greg Jones.,47,58,-11,19,0.044454650792179085,0.08858531709189121,4,4,-7,NA,NA,Lipscomb,made,John Matt Merritt,Greg Jones,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,240,2,10:31,631,631,Christiaan Jones made Three Point Jumper. Assisted by Larry Dennis.,50,58,-8,27,0.07917303216883223,0.15120431305243653,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,Larry Dennis,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,241,2,10:12,612,612,Rob Marberry made Layup. Assisted by Greg Jones.,50,60,-10,19,0.051755810808434735,0.10103650843814994,4,4,-7,NA,NA,Lipscomb,made,Rob Marberry,Greg Jones,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,242,2,9:58,598,598,Kenny Aninye missed Jumper.,50,60,-10,14,0.05081052005515355,0.0988623827308995,4,4,-7,NA,NA,Stetson,missed,Kenny Aninye,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,243,2,9:58,598,598,Andrew Fleming Defensive Rebound.,50,60,-10,0,0.05081052005515355,0.0988623827308995,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,244,2,9:39,579,579,Andrew Fleming Turnover.,50,60,-10,19,0.049349890211714355,0.09556964471856626,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,245,2,9:38,578,578,Divine Myles Steal.,50,60,-10,1,0.04926656352892773,0.09538393970101282,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,246,2,9:34,574,574,Keith Matthews missed Layup.,50,60,-10,4,0.04892631368190076,0.09462779225800928,4,4,-7,NA,NA,Stetson,missed,Keith Matthews,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,247,2,9:34,574,574,Rob Marberry Block.,50,60,-10,0,0.04892631368190076,0.09462779225800928,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,248,2,9:32,572,572,Keith Matthews Offensive Rebound.,50,60,-10,2,0.04875194479592257,0.09424157697555771,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,249,2,9:18,558,558,Christiaan Jones made Three Point Jumper. Assisted by Kenny Aninye.,53,60,-7,14,0.0902628861185787,0.1668890593202559,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,Kenny Aninye,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,250,2,8:58,538,538,Greg Jones made Three Point Jumper. Assisted by Eli Pepper.,53,63,-10,20,0.04548814783718345,0.08711097891674144,4,4,-7,NA,NA,Lipscomb,made,Greg Jones,Eli Pepper,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,251,2,8:34,514,514,Larry Dennis missed Layup.,53,63,-10,24,0.04366321059317224,0.08303857287873163,4,4,-7,NA,NA,Stetson,missed,Larry Dennis,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,252,2,8:34,514,514,Eli Pepper Defensive Rebound.,53,63,-10,0,0.04366321059317224,0.08303857287873163,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,253,2,8:30,510,510,Foul on Keith Matthews.,53,63,-10,4,0.04339332818295637,0.08242872322792492,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,254,2,8:20,500,500,Michael Buckland missed Three Point Jumper.,53,63,-10,10,0.04273250954130355,0.08093398457326244,4,4,-7,NA,NA,Lipscomb,missed,Michael Buckland,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,255,2,8:20,500,500,Kenny Aninye Defensive Rebound.,53,63,-10,0,0.04273250954130355,0.08093398457326244,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,256,2,7:54,474,474,Keith Matthews missed Jumper.,53,63,-10,26,0.040922232938994406,0.07689263503675746,4,4,-7,NA,NA,Stetson,missed,Keith Matthews,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,257,2,7:54,474,474,Aaron Korn Defensive Rebound.,53,63,-10,0,0.040922232938994406,0.07689263503675746,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,258,2,7:34,454,454,Matt Rose missed Three Point Jumper.,53,63,-10,20,0.03921007166629227,0.07319813030731373,4,4,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,259,2,7:34,454,454,Keith Matthews Defensive Rebound.,53,63,-10,0,0.03921007166629227,0.07319813030731373,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,260,2,7:24,444,444,Kenny Aninye missed Jumper.,53,63,-10,10,0.03818638422703022,0.07104221311544921,4,4,-7,NA,NA,Stetson,missed,Kenny Aninye,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,261,2,7:24,444,444,Kenny Aninye Offensive Rebound.,53,63,-10,0,0.03818638422703022,0.07104221311544921,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,262,2,7:17,437,437,Divine Myles made Layup.,55,63,-8,7,0.06128332736881752,0.11136126532389236,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,263,2,6:39,399,399,Garrison Mathews made Three Point Jumper. Assisted by Michael Buckland.,55,66,-11,38,0.025371517593808603,0.046653336775916716,4,4,-7,NA,NA,Lipscomb,made,Garrison Mathews,Michael Buckland,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,264,2,6:23,383,383,Foul on Aaron Korn.,55,66,-11,16,0.024051817629477397,0.043871273506581605,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,265,2,6:23,383,383,Official TV Timeout,55,66,-11,0,0.024051817629477397,0.043871273506581605,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,266,2,6:23,383,383,Christiaan Jones made Free Throw.,56,66,-10,0,0.03158279487931801,0.0572440158201003,4,4,-7,NA,NA,Stetson,made,Christiaan Jones,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,267,2,6:23,383,383,Christiaan Jones missed Free Throw.,56,66,-10,0,0.03158279487931801,0.0572440158201003,4,4,-7,NA,NA,Stetson,missed,Christiaan Jones,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,268,2,6:23,383,383,Garrison Mathews Defensive Rebound.,56,66,-10,0,0.03158279487931801,0.0572440158201003,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,269,2,6:03,363,363,Eli Pepper made Layup.,56,68,-12,20,0.016873705177996478,0.030587069257452325,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,270,2,5:40,340,340,Foul on Michael Buckland.,56,68,-12,23,0.015087573793405095,0.026980011102691333,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,271,2,5:40,340,340,Divine Myles made Free Throw.,57,68,-11,0,0.02023486941403957,0.03603609880755212,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,272,2,5:40,340,340,Divine Myles made Free Throw.,58,68,-10,0,0.027089922668099353,0.04798204715154122,4,4,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,273,2,5:23,323,323,Kenny Cooper Turnover.,58,68,-10,17,0.024907212002949982,0.04368611862800662,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,274,2,5:22,322,322,B.J. Glasford Steal.,58,68,-10,1,0.024769703263381192,0.04341944439428566,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,275,2,5:18,318,318,Angel Rivera made Three Point Jumper. Assisted by Divine Myles.,61,68,-7,4,0.05947636311566294,0.1012712094189706,4,4,-7,NA,NA,Stetson,made,Angel Rivera,Divine Myles,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,276,2,4:56,296,296,Michael Buckland missed Three Point Jumper.,61,68,-7,22,0.05573980385436478,0.09378380024979958,4,4,-7,NA,NA,Lipscomb,missed,Michael Buckland,NA,TRUE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,277,2,4:56,296,296,Divine Myles Defensive Rebound.,61,68,-7,0,0.05573980385436478,0.09378380024979958,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,278,2,4:50,290,290,B.J. Glasford missed Three Point Jumper.,61,68,-7,6,0.05568563911418506,0.09332412248254893,4,4,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,279,2,4:50,290,290,Michael Buckland Defensive Rebound.,61,68,-7,0,0.05568563911418506,0.09332412248254893,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,280,2,4:20,260,260,Garrison Mathews Turnover.,61,68,-7,30,0.059136263984374014,0.09691241446486107,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,281,2,4:19,259,259,Angel Rivera Steal.,61,68,-7,1,0.059297086640688085,0.09709951394411306,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,282,2,4:16,256,256,Angel Rivera missed Layup.,61,68,-7,3,0.05977421788929456,0.09764968750894519,4,4,-7,NA,NA,Stetson,missed,Angel Rivera,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,283,2,4:16,256,256,Kenny Cooper Block.,61,68,-7,0,0.05977421788929456,0.09764968750894519,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,284,2,4:11,251,251,Michael Buckland Defensive Rebound.,61,68,-7,5,0.06052937753012333,0.09849468710773084,4,4,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,285,2,4:02,242,242,Eli Pepper made Layup. Assisted by Matt Rose.,61,70,-9,9,0.033823109131831536,0.05566880620350639,4,4,-7,NA,NA,Lipscomb,made,Eli Pepper,Matt Rose,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,286,2,4:02,242,242,Lipscomb  Timeout,61,70,-9,0,0.033823109131831536,0.05566880620350639,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,287,2,4:02,242,242,Official TV Timeout,61,70,-9,0,0.033823109131831536,0.05566880620350639,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,288,2,3:43,223,223,Abayomi Iyiola made Jumper. Assisted by Luke Doyle.,63,70,-7,19,0.06167503360415601,0.09827698519535255,4,3,-7,NA,NA,Stetson,made,Abayomi Iyiola,Luke Doyle,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,289,2,3:29,209,209,Eli Pepper Turnover.,63,70,-7,14,0.058609030508768076,0.09254469940106559,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,290,2,3:27,207,207,B.J. Glasford Steal.,63,70,-7,2,0.05790998131038597,0.0913302060227295,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,291,2,3:21,201,201,Luke Doyle made Jumper.,65,70,-5,6,0.10296975639425224,0.15729801552972764,4,3,-7,NA,NA,Stetson,made,Luke Doyle,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,292,2,3:03,183,183,Rob Marberry made Layup.,65,72,-7,18,0.045018089702551355,0.07004366929775739,4,3,-7,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,293,2,2:37,157,157,Divine Myles missed Jumper.,65,72,-7,26,0.031352760449697516,0.0479366575357651,4,3,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,294,2,2:37,157,157,Eli Pepper Defensive Rebound.,65,72,-7,0,0.031352760449697516,0.0479366575357651,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,295,2,2:17,137,137,Garrison Mathews missed Three Point Jumper.,65,72,-7,20,0.022505426300447395,0.033861097746369556,4,3,-7,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,296,2,2:17,137,137,Lipscomb Offensive Rebound.,65,72,-7,0,0.022505426300447395,0.033861097746369556,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,297,2,2:17,137,137,Official TV Timeout,65,72,-7,0,0.022505426300447395,0.033861097746369556,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,298,2,1:57,117,117,Kenny Cooper made Jumper.,65,74,-9,20,0.005116901354653024,0.007594929029324219,4,3,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,FALSE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,299,2,1:41,101,101,Foul on Garrison Mathews.,65,74,-9,16,0.003026436758063707,0.0044118004442637495,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,300,2,1:41,101,101,B.J. Glasford missed Free Throw.,65,74,-9,0,0.003026436758063707,0.0044118004442637495,4,3,-7,NA,NA,Stetson,missed,B.J. Glasford,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,301,2,1:41,101,101,Matt Rose Defensive Rebound.,65,74,-9,0,0.003026436758063707,0.0044118004442637495,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,302,2,1:26,86,86,Foul on B.J. Glasford.,65,74,-9,15,0.0017069493983876088,0.002443826597046684,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,303,2,1:25,85,85,Foul on Angel Rivera.,65,74,-9,1,0.0016406056151553473,0.002345948585453154,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,304,2,1:24,84,84,Foul on Divine Myles.,65,74,-9,1,0.0015765053967553852,0.002251503696238808,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,305,2,1:23,83,83,Foul on Luke Doyle.,65,74,-9,1,0.0015145637028796633,0.0021603592360477527,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,306,2,1:23,83,83,Matt Rose missed Free Throw.,65,74,-9,0,0.0015145637028796633,0.0021603592360477527,4,3,-7,NA,NA,Lipscomb,missed,Matt Rose,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,307,2,1:23,83,83,Divine Myles Defensive Rebound.,65,74,-9,0,0.0015145637028796633,0.0021603592360477527,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,308,2,1:18,78,78,Christiaan Jones missed Three Point Jumper.,65,74,-9,5,0.0012345773426694535,0.0017499939538804167,4,3,-7,NA,NA,Stetson,missed,Christiaan Jones,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,309,2,1:18,78,78,Stetson Deadball Team Rebound.,65,74,-9,0,0.0012345773426694535,0.0017499939538804167,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,310,2,1:18,78,78,Foul on Garrison Mathews.,65,74,-9,0,0.0012345773426694535,0.0017499939538804167,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,311,2,1:18,78,78,Divine Myles made Free Throw.,66,74,-8,0,0.0024958258474274573,0.003535929710097243,4,3,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,312,2,1:18,78,78,Divine Myles missed Free Throw.,66,74,-8,0,0.0024958258474274573,0.003535929710097243,4,3,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,313,2,1:18,78,78,Matt Rose Defensive Rebound.,66,74,-8,0,0.0024958258474274573,0.003535929710097243,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,314,2,1:10,70,70,Foul on Christiaan Jones.,66,74,-8,8,0.001840092321444218,0.0025806970216117595,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,315,2,1:10,70,70,Michael Buckland made Free Throw.,66,75,-9,0,8.74715550209602e-4,0.001227250853035585,4,3,-7,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,316,2,1:10,70,70,Michael Buckland missed Free Throw.,66,75,-9,0,8.74715550209602e-4,0.001227250853035585,4,3,-7,NA,NA,Lipscomb,missed,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,317,2,1:10,70,70,Luke Doyle Defensive Rebound.,66,75,-9,0,8.74715550209602e-4,0.001227250853035585,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,318,2,1:04,64,64,Foul on Michael Buckland.,66,75,-9,6,6.6737326913369e-4,9.290218859999551e-4,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,319,2,1:04,64,64,Divine Myles made Free Throw.,67,75,-8,0,0.001448339696971248,0.0020155544251960226,4,3,-7,NA,NA,Stetson,made,Divine Myles,NA,FALSE,TRUE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,320,2,1:04,64,64,Divine Myles missed Free Throw.,67,75,-8,0,0.001448339696971248,0.0020155544251960226,4,3,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,TRUE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,321,2,1:04,64,64,Michael Buckland Defensive Rebound.,67,75,-8,0,0.001448339696971248,0.0020155544251960226,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,322,2,1:01,61,61,Foul on B.J. Glasford.,67,75,-8,3,0.0012815310424427293,0.0017764168832600062,4,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,323,2,1:01,61,61,Michael Buckland made Free Throw.,67,76,-9,0,5.811967788685179e-4,8.058543976864187e-4,4,3,-7,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,324,2,1:01,61,61,Michael Buckland made Free Throw.,67,77,-10,0,2.634819518785679e-4,3.6537398664093876e-4,4,3,-7,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,325,2,0:53,53,53,Christiaan Jones made Three Point Jumper. Assisted by Divine Myles.,70,77,-7,8,0.002107684499102207,0.0028893591376448666,4,3,-7,NA,NA,Stetson,made,Christiaan Jones,Divine Myles,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,326,2,0:53,53,53,Stetson  Timeout,70,77,-7,0,0.002107684499102207,0.0028893591376448666,3,3,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,327,2,0:53,53,53,Lipscomb  Timeout,70,77,-7,0,0.002107684499102207,0.0028893591376448666,3,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,328,2,0:50,50,50,Foul on Angel Rivera.,70,77,-7,3,0.0018821705073447633,0.0025698815462143485,3,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,329,2,0:50,50,50,Kenny Cooper missed Free Throw.,70,77,-7,0,0.0018821705073447633,0.0025698815462143485,3,2,-7,NA,NA,Lipscomb,missed,Kenny Cooper,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,330,2,0:50,50,50,Lipscomb Deadball Team Rebound.,70,77,-7,0,0.0018821705073447633,0.0025698815462143485,3,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,331,2,0:50,50,50,Kenny Cooper made Free Throw.,70,78,-8,0,8.040351856863487e-4,0.0010982485408034177,3,2,-7,NA,NA,Lipscomb,made,Kenny Cooper,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,332,2,0:37,37,37,Divine Myles missed Layup.,70,78,-8,13,4.446202183653789e-4,5.964837233524553e-4,3,2,-7,NA,NA,Stetson,missed,Divine Myles,NA,FALSE,FALSE,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,333,2,0:37,37,37,Eli Pepper Block.,70,78,-8,0,4.446202183653789e-4,5.964837233524553e-4,3,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,334,2,0:37,37,37,Stetson Offensive Rebound.,70,78,-8,0,4.446202183653789e-4,5.964837233524553e-4,3,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,335,2,0:37,37,37,Stetson  Timeout,70,78,-8,0,4.446202183653789e-4,5.964837233524553e-4,2,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,336,2,0:27,27,27,Christiaan Jones made Three Point Jumper.,73,78,-5,10,0.0053176259694894985,0.007021543091865667,2,2,-7,NA,NA,Stetson,made,Christiaan Jones,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,337,2,0:27,27,27,Stetson  Timeout,73,78,-5,0,0.0053176259694894985,0.007021543091865667,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,338,2,0:25,25,25,Foul on Christiaan Jones.,73,78,-5,2,0.0050047116580301376,0.006590049124184278,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,339,2,0:25,25,25,Aaron Korn made Free Throw.,73,79,-6,0,0.0018412369846177153,0.0024269280025252284,1,2,-7,NA,NA,Lipscomb,made,Aaron Korn,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,340,2,0:25,25,25,Aaron Korn made Free Throw.,73,80,-7,0,6.76033781462482e-4,8.914087604280627e-4,1,2,-7,NA,NA,Lipscomb,made,Aaron Korn,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,341,2,0:15,15,15,Christiaan Jones missed Three Point Jumper.,73,80,-7,10,4.3200881305138783e-4,5.61385805020292e-4,1,2,-7,NA,NA,Stetson,missed,Christiaan Jones,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,342,2,0:15,15,15,Lipscomb Defensive Rebound.,73,80,-7,0,4.3200881305138783e-4,5.61385805020292e-4,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,343,2,0:12,12,12,Foul on Christiaan Jones.,73,80,-7,3,3.753421600049534e-4,4.8557589852446476e-4,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,344,2,0:12,12,12,Michael Buckland made Free Throw.,73,81,-8,0,1.2623327696919146e-4,1.6331851271579942e-4,1,2,-7,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,345,2,0:12,12,12,Michael Buckland made Free Throw.,73,82,-9,0,4.244715050714471e-5,5.4918768830159034e-5,1,2,-7,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Stetson
+400991921,2018-02-15,Stetson,Lipscomb,346,2,0:05,5,5,Luke Doyle missed Three Point Jumper.,73,82,-9,7,2.7428378594874637e-5,3.511377722218329e-5,1,2,-7,NA,NA,Stetson,missed,Luke Doyle,NA,TRUE,FALSE,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,347,2,0:05,5,5,Eli Pepper Defensive Rebound.,73,82,-9,0,2.7428378594874637e-5,3.511377722218329e-5,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Stetson,Lipscomb
+400991921,2018-02-15,Stetson,Lipscomb,348,2,0:00,0,0,End of Game,73,73,0,5,5.27677392016578e-79,6.714184288211594e-79,1,2,-7,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,NA
