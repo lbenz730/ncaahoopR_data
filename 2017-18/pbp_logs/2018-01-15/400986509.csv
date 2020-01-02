@@ -1,0 +1,334 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400986509,2018-01-15,Nebraska,Illinois,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,2,1,19:37,2377,2377,Isaiah Roby Turnover.,0,0,0,23,0.7231937988960027,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,3,1,19:36,2376,2376,Trent Frazier Steal.,0,0,0,1,0.7231741407033019,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,4,1,19:31,2371,2371,Trent Frazier made Three Point Jumper. Assisted by Mark Alstork.,0,3,-3,5,0.6662376760360743,0.4332627804088775,4,4,6,NA,NA,Illinois,made,Trent Frazier,Mark Alstork,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,5,1,19:07,2347,2347,James Palmer Jr. made Layup.,2,3,-1,24,0.7040801912819685,0.47737591477232977,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,6,1,18:49,2329,2329,Michael Finke missed Jumper.,2,3,-1,18,0.7035294764243798,0.47717864708090213,4,4,6,NA,NA,Illinois,missed,Michael Finke,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,7,1,18:49,2329,2329,Isaac Copeland Defensive Rebound.,2,3,-1,0,0.7035294764243798,0.47717864708090213,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,8,1,18:31,2311,2311,Anton Gill missed Three Point Jumper.,2,3,-1,18,0.7029680808419602,0.4769794403329548,4,4,6,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,9,1,18:31,2311,2311,Trent Frazier Defensive Rebound.,2,3,-1,0,0.7029680808419602,0.4769794403329548,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,10,1,18:23,2303,2303,Leron Black Turnover.,2,3,-1,8,0.7027151167145519,0.4768903217819385,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,11,1,18:22,2302,2302,Isaiah Roby Steal.,2,3,-1,1,0.702683345994661,0.4768791578380667,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,12,1,18:20,2300,2300,Foul on Leron Black.,2,3,-1,2,0.7026197042255579,0.4768568141568248,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,13,1,18:20,2300,2300,Isaiah Roby made Free Throw.,3,3,0,0,0.7216062086988387,0.5,4,4,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,14,1,18:20,2300,2300,Isaiah Roby made Free Throw.,4,3,1,0,0.7398293682747201,0.5231431858431752,4,4,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,15,1,18:09,2289,2289,Foul on Glynn Watson Jr..,4,3,1,11,0.7396950074576538,0.5232664437104748,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,16,1,17:58,2278,2278,Da'Monte Williams missed Layup.,4,3,1,11,0.7395579986916359,0.5233902982015151,4,4,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,17,1,17:58,2278,2278,Michael Finke Offensive Rebound.,4,3,1,0,0.7395579986916359,0.5233902982015151,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,18,1,17:55,2275,2275,Michael Finke missed Jumper.,4,3,1,3,0.7395201637179443,0.5234241756349494,4,4,6,NA,NA,Illinois,missed,Michael Finke,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,19,1,17:55,2275,2275,Glynn Watson Jr. Defensive Rebound.,4,3,1,0,0.7395201637179443,0.5234241756349494,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,20,1,17:33,2253,2253,Isaiah Roby Turnover.,4,3,1,22,0.7392363889115412,0.5236738188039088,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,21,1,17:32,2252,2252,Kipper Nichols Steal.,4,3,1,1,0.7392232204692779,0.523685214139179,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,22,1,17:25,2245,2245,Da'Monte Williams missed Jumper.,4,3,1,7,0.739130369886668,0.5237650907820912,4,4,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,23,1,17:25,2245,2245,Isaiah Roby Defensive Rebound.,4,3,1,0,0.739130369886668,0.5237650907820912,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,24,1,17:18,2238,2238,Foul on Anton Gill.,4,3,1,7,0.7390363309654032,0.5238451522402601,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,25,1,17:18,2238,2238,Anton Gill Turnover.,4,3,1,0,0.7390363309654032,0.5238451522402601,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,26,1,17:08,2228,2228,Foul on Isaac Copeland.,4,3,1,10,0.738899891459828,0.5239598284409085,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,27,1,17:01,2221,2221,Kipper Nichols missed Jumper.,4,3,1,7,0.7388028892819842,0.5240403011281468,4,4,6,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,28,1,17:01,2221,2221,Glynn Watson Jr. Defensive Rebound.,4,3,1,0,0.7388028892819842,0.5240403011281468,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,29,1,16:55,2215,2215,James Palmer Jr. missed Dunk.,4,3,1,6,0.738718748727731,0.5241094005077541,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,30,1,16:55,2215,2215,Da'Monte Williams Defensive Rebound.,4,3,1,0,0.738718748727731,0.5241094005077541,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,31,1,16:55,2215,2215,Technical Foul on James Palmer Jr..,4,3,1,0,0.738718748727731,0.5241094005077541,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,32,1,16:55,2215,2215,Mark Smith made Free Throw.,4,4,0,0,0.7196663900416065,0.5,4,4,6,NA,NA,Illinois,made,Mark Smith,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,33,1,16:38,2198,2198,Kipper Nichols missed Three Point Jumper.,4,4,0,17,0.719252946131531,0.5,4,4,6,NA,NA,Illinois,missed,Kipper Nichols,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,34,1,16:38,2198,2198,Da'Monte Williams Offensive Rebound.,4,4,0,0,0.719252946131531,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,35,1,16:34,2194,2194,Da'Monte Williams missed Jumper.,4,4,0,4,0.7191543757271298,0.5,4,4,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,36,1,16:34,2194,2194,Isaiah Roby Defensive Rebound.,4,4,0,0,0.7191543757271298,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,37,1,16:23,2183,2183,Isaac Copeland Turnover.,4,4,0,11,0.7188807411927244,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,38,1,16:23,2183,2183,Mark Smith Steal.,4,4,0,0,0.7188807411927244,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,39,1,15:58,2158,2158,Trent Frazier missed Jumper.,4,4,0,25,0.7182447746531168,0.5,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,40,1,15:58,2158,2158,Isaiah Roby Block.,4,4,0,0,0.7182447746531168,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,41,1,15:55,2155,2155,Anton Gill Defensive Rebound.,4,4,0,3,0.7181671845996165,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,42,1,15:51,2151,2151,James Palmer Jr. missed Three Point Jumper.,4,4,0,4,0.7180633151348148,0.5,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,43,1,15:51,2151,2151,Mark Alstork Defensive Rebound.,4,4,0,0,0.7180633151348148,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,44,1,15:43,2143,2143,Mark Smith missed Three Point Jumper.,4,4,0,8,0.7178541547708246,0.5,4,4,6,NA,NA,Illinois,missed,Mark Smith,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,45,1,15:43,2143,2143,James Palmer Jr. Defensive Rebound.,4,4,0,0,0.7178541547708246,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,46,1,15:32,2132,2132,Foul on Trent Frazier.,4,4,0,11,0.7175634815790464,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,47,1,15:30,2130,2130,Official TV Timeout,4,4,0,2,0.7175102509563521,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,48,1,15:16,2116,2116,Glynn Watson Jr. made Free Throw.,5,4,1,14,0.7371942623626517,0.5252647261373411,4,4,6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,49,1,15:16,2116,2116,Glynn Watson Jr. made Free Throw.,6,4,2,0,0.7563149669224412,0.5504007677468735,4,4,6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,50,1,15:05,2105,2105,Trent Frazier missed Three Point Jumper.,6,4,2,11,0.7562363516262706,0.5506602182867172,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,51,1,15:05,2105,2105,Greg Eboigbodin Offensive Rebound.,6,4,2,0,0.7562363516262706,0.5506602182867172,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,52,1,14:56,2096,2096,Illinois  Turnover.,6,4,2,9,0.7561704467420659,0.5508733395399744,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,53,1,14:45,2085,2085,Evan Taylor made Jumper.,8,4,4,11,0.7919314958128141,0.6012112014885441,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,54,1,14:29,2069,2069,Greg Eboigbodin made Jumper. Assisted by Mark Smith.,8,6,2,16,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,Illinois,made,Greg Eboigbodin,Mark Smith,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,55,1,14:29,2069,2069,Foul on Isaac Copeland.,8,6,2,0,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,56,1,14:29,2069,2069,Greg Eboigbodin missed Free Throw.,8,6,2,0,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,Illinois,missed,Greg Eboigbodin,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,57,1,14:29,2069,2069,Evan Taylor Defensive Rebound.,8,6,2,0,0.7559645452953516,0.5515175137260641,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,58,1,14:12,2052,2052,James Palmer Jr. Turnover.,8,6,2,17,0.7558289186368211,0.5519270281081794,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,59,1,14:01,2041,2041,Trent Frazier missed Layup.,8,6,2,11,0.7557388305438063,0.5521937179638567,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,60,1,14:01,2041,2041,Evan Taylor Block.,8,6,2,0,0.7557388305438063,0.5521937179638567,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,61,1,14:01,2041,2041,Illinois Offensive Rebound.,8,6,2,0,0.7557388305438063,0.5521937179638567,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,62,1,13:55,2035,2035,Trent Frazier Turnover.,8,6,2,6,0.7556889476782437,0.5523397707768947,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,63,1,13:54,2034,2034,Isaiah Roby Steal.,8,6,2,1,0.7556805838184895,0.5523641538040125,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,64,1,13:49,2029,2029,Foul on Aaron Jordan.,8,6,2,5,0.7556385528929475,0.5524862461946224,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,65,1,13:49,2029,2029,Isaiah Roby made Free Throw.,9,6,3,0,0.774565979353125,0.578369085746656,4,4,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,66,1,13:49,2029,2029,Isaiah Roby missed Free Throw.,9,6,3,0,0.774565979353125,0.578369085746656,4,4,6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,67,1,13:49,2029,2029,Mark Alstork Defensive Rebound.,9,6,3,0,0.774565979353125,0.578369085746656,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,68,1,13:34,2014,2014,Mark Smith missed Jumper.,9,6,3,15,0.774574794745336,0.5789135967179166,4,4,6,NA,NA,Illinois,missed,Mark Smith,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,69,1,13:34,2014,2014,Isaiah Roby Defensive Rebound.,9,6,3,0,0.774574794745336,0.5789135967179166,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,70,1,13:24,2004,2004,Foul on Mark Alstork.,9,6,3,10,0.7745796829647984,0.5792788346545766,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,71,1,13:24,2004,2004,Evan Taylor missed Free Throw.,9,6,3,0,0.7745796829647984,0.5792788346545766,4,4,6,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,72,1,13:24,2004,2004,Nebraska Deadball Team Rebound.,9,6,3,0,0.7745796829647984,0.5792788346545766,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,73,1,13:24,2004,2004,Evan Taylor missed Free Throw.,9,6,3,0,0.7745796829647984,0.5792788346545766,4,4,6,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,74,1,13:24,2004,2004,Michael Finke Defensive Rebound.,9,6,3,0,0.7745796829647984,0.5792788346545766,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,75,1,13:16,1996,1996,Mark Alstork missed Jumper.,9,6,3,8,0.7745830700888883,0.5795723481879878,4,4,6,NA,NA,Illinois,missed,Mark Alstork,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,76,1,13:16,1996,1996,Evan Taylor Defensive Rebound.,9,6,3,0,0.7745830700888883,0.5795723481879878,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,77,1,13:03,1983,1983,James Palmer Jr. made Dunk.,11,6,5,13,0.8099559179592511,0.6314193428984108,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,78,1,12:49,1969,1969,Mark Smith made Layup.,11,8,3,14,0.7745914784445818,0.580571982196121,4,4,6,NA,NA,Illinois,made,Mark Smith,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,79,1,12:34,1954,1954,Evan Taylor made Dunk. Assisted by Isaiah Roby.,13,8,5,15,0.8104173225904557,0.633140745586343,4,4,6,NA,NA,Nebraska,made,Evan Taylor,Isaiah Roby,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,80,1,12:21,1941,1941,Leron Black made Jumper.,13,10,3,13,0.7745962112523678,0.5816241276708837,4,4,6,NA,NA,Illinois,made,Leron Black,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,81,1,12:21,1941,1941,Foul on Thomas Allen.,13,10,3,0,0.7745962112523678,0.5816241276708837,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,82,1,12:21,1941,1941,Leron Black made Free Throw.,13,11,2,0,0.7548472163588521,0.5546877061653551,4,4,6,NA,NA,Illinois,made,Leron Black,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,83,1,12:05,1925,1925,Foul on Michael Finke.,13,11,2,16,0.7546939690929201,0.5550994240343908,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,84,1,12:05,1925,1925,James Palmer Jr. made Free Throw.,14,11,3,0,0.7745971767361362,0.5822324554233181,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,85,1,12:05,1925,1925,James Palmer Jr. made Free Throw.,15,11,4,0,0.7933277440975304,0.6088766730384156,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,86,1,11:51,1911,1911,Aaron Jordan missed Jumper.,15,11,4,14,0.7934430331801532,0.6095715007730128,4,4,6,NA,NA,Illinois,missed,Aaron Jordan,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,87,1,11:51,1911,1911,Isaiah Roby Defensive Rebound.,15,11,4,0,0.7934430331801532,0.6095715007730128,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,88,1,11:35,1895,1895,Glynn Watson Jr. missed Three Point Jumper.,15,11,4,16,0.7935676680907405,0.6103640524229491,4,4,6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,89,1,11:35,1895,1895,Michael Finke Defensive Rebound.,15,11,4,0,0.7935676680907405,0.6103640524229491,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,90,1,11:25,1885,1885,Mark Smith missed Layup.,15,11,4,10,0.7936421826817779,0.6108590776173012,4,4,6,NA,NA,Illinois,missed,Mark Smith,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,91,1,11:25,1885,1885,Michael Finke Offensive Rebound.,15,11,4,0,0.7936421826817779,0.6108590776173012,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,92,1,11:24,1884,1884,Foul on Isaiah Roby.,15,11,4,1,0.7936495046388241,0.6109085812400424,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,93,1,11:24,1884,1884,Official TV Timeout,15,11,4,0,0.7936495046388241,0.6109085812400424,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,94,1,11:24,1884,1884,Michael Finke made Free Throw.,15,12,3,0,0.7745672375829472,0.5837896020085477,4,4,6,NA,NA,Illinois,made,Michael Finke,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,95,1,11:24,1884,1884,Michael Finke missed Free Throw.,15,12,3,0,0.7745672375829472,0.5837896020085477,4,4,6,NA,NA,Illinois,missed,Michael Finke,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,96,1,11:24,1884,1884,James Palmer Jr. Defensive Rebound.,15,12,3,0,0.7745672375829472,0.5837896020085477,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,97,1,11:13,1873,1873,Foul on Michael Finke.,15,12,3,11,0.7745515495400446,0.5842072444630011,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,98,1,11:02,1862,1862,Evan Taylor missed Jumper.,15,12,3,11,0.7745332218428526,0.5846254082738366,4,4,6,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,99,1,11:02,1862,1862,Kipper Nichols Defensive Rebound.,15,12,3,0,0.7745332218428526,0.5846254082738366,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,100,1,10:51,1851,1851,Leron Black Turnover.,15,12,3,11,0.774512568359091,0.5850443944335846,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,101,1,10:50,1850,1850,Evan Taylor Steal.,15,12,3,1,0.7745105862893972,0.585082535254923,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,102,1,10:47,1847,1847,Evan Taylor made Layup.,17,12,5,3,0.812045039492251,0.6395876388398287,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,103,1,10:27,1827,1827,Leron Black made Jumper. Assisted by Aaron Jordan.,17,14,3,20,0.7744609520663557,0.5859628545555444,4,4,6,NA,NA,Illinois,made,Leron Black,Aaron Jordan,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,104,1,10:05,1805,1805,Anton Gill missed Jumper.,17,14,3,22,0.7744080090039114,0.5868121336014099,4,4,6,NA,NA,Nebraska,missed,Anton Gill,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,105,1,10:05,1805,1805,Leron Black Defensive Rebound.,17,14,3,0,0.7744080090039114,0.5868121336014099,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,106,1,9:53,1793,1793,Leron Black made Layup. Assisted by Trent Frazier.,17,16,1,12,0.7306740585935931,0.5293602787187939,4,4,6,NA,NA,Illinois,made,Leron Black,Trent Frazier,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,107,1,9:32,1772,1772,James Palmer Jr. missed Layup.,17,16,1,21,0.7301664458499153,0.5296431514753851,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,108,1,9:32,1772,1772,Leron Black Defensive Rebound.,17,16,1,0,0.7301664458499153,0.5296431514753851,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,109,1,9:11,1751,1751,Aaron Jordan missed Three Point Jumper.,17,16,1,21,0.7296525029063398,0.5299302636232491,4,4,6,NA,NA,Illinois,missed,Aaron Jordan,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,110,1,9:11,1751,1751,Evan Taylor Defensive Rebound.,17,16,1,0,0.7296525029063398,0.5299302636232491,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,111,1,8:44,1724,1724,James Palmer Jr. missed Three Point Jumper.,17,16,1,27,0.7289845317285625,0.5303067924039676,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,112,1,8:44,1724,1724,Evan Taylor Offensive Rebound.,17,16,1,0,0.7289845317285625,0.5303067924039676,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,113,1,8:29,1709,1709,James Palmer Jr. Turnover.,17,16,1,15,0.728610885600439,0.5305200773813787,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,114,1,8:27,1707,1707,Trent Frazier Steal.,17,16,1,2,0.7285609641130614,0.5305487560888571,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,115,1,8:27,1707,1707,Foul on Glynn Watson Jr..,17,16,1,0,0.7285609641130614,0.5305487560888571,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,116,1,8:27,1707,1707,Trent Frazier made Free Throw.,17,17,0,0,0.7037013866127617,0.5,4,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,117,1,8:27,1707,1707,Trent Frazier missed Free Throw.,17,17,0,0,0.7037013866127617,0.5,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,118,1,8:27,1707,1707,Isaac Copeland Defensive Rebound.,17,17,0,0,0.7037013866127617,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,119,1,8:07,1687,1687,Thomas Allen missed Three Point Jumper.,17,17,0,20,0.7029306902080907,0.5,4,4,6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,120,1,8:07,1687,1687,Kipper Nichols Defensive Rebound.,17,17,0,0,0.7029306902080907,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,121,1,8:01,1681,1681,Foul on Evan Taylor.,17,17,0,6,0.7026963897919533,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,122,1,8:01,1681,1681,Trent Frazier made Free Throw.,17,18,-1,0,0.6761885941100729,0.46907445395022607,4,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,123,1,8:01,1681,1681,Trent Frazier made Free Throw.,17,19,-2,0,0.6484995837046517,0.43838462108117643,4,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,124,1,7:44,1664,1664,Anton Gill missed Three Point Jumper.,17,19,-2,17,0.6473180900681228,0.43790599097705385,4,4,6,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,125,1,7:44,1664,1664,Kipper Nichols Defensive Rebound.,17,19,-2,0,0.6473180900681228,0.43790599097705385,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,126,1,7:37,1657,1657,Mark Smith Turnover.,17,19,-2,7,0.6468285515624558,0.4377118700852333,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,127,1,7:37,1657,1657,Official TV Timeout,17,19,-2,0,0.6468285515624558,0.4377118700852333,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,128,1,7:15,1635,1635,Foul on Kipper Nichols.,17,19,-2,22,0.645277815918421,0.43711036391576624,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,129,1,7:15,1635,1635,Evan Taylor made Free Throw.,18,19,-1,0,0.6736620286245083,0.46842982074859985,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,130,1,7:15,1635,1635,Evan Taylor made Free Throw.,19,19,0,0,0.70082801624437,0.5,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,131,1,6:58,1618,1618,Mark Alstork missed Three Point Jumper.,19,19,0,17,0.7001093965016115,0.5,4,4,6,NA,NA,Illinois,missed,Mark Alstork,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,132,1,6:58,1618,1618,Mark Smith Offensive Rebound.,19,19,0,0,0.7001093965016115,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,133,1,6:52,1612,1612,Mark Smith missed Jumper.,19,19,0,6,0.6998526766721357,0.5,4,4,6,NA,NA,Illinois,missed,Mark Smith,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,134,1,6:52,1612,1612,James Palmer Jr. Defensive Rebound.,19,19,0,0,0.6998526766721357,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,135,1,6:44,1604,1604,James Palmer Jr. made Layup. Assisted by Evan Taylor.,21,19,2,8,0.7504935417598839,0.5637240248420919,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,Evan Taylor,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,136,1,6:30,1590,1590,Foul on Anton Gill.,21,19,2,14,0.750237299636212,0.5640996076167397,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,137,1,6:30,1590,1590,Mark Alstork missed Free Throw.,21,19,2,0,0.750237299636212,0.5640996076167397,4,4,6,NA,NA,Illinois,missed,Mark Alstork,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,138,1,6:30,1590,1590,Leron Black Offensive Rebound.,21,19,2,0,0.750237299636212,0.5640996076167397,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,139,1,6:28,1588,1588,Foul on Leron Black.,21,19,2,2,0.7502002869854413,0.5641533353637581,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,140,1,6:28,1588,1588,Leron Black Turnover.,21,19,2,0,0.7502002869854413,0.5641533353637581,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,141,1,5:59,1559,1559,Evan Taylor missed Three Point Jumper.,21,19,2,29,0.7496570485596877,0.5649380931428692,4,4,6,NA,NA,Nebraska,missed,Evan Taylor,NA,TRUE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,142,1,5:59,1559,1559,Nebraska Offensive Rebound.,21,19,2,0,0.7496570485596877,0.5649380931428692,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,143,1,5:45,1545,1545,Evan Taylor missed Three Point Jumper.,21,19,2,14,0.7493936759654907,0.5653232062025131,4,4,6,NA,NA,Nebraska,missed,Evan Taylor,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,144,1,5:45,1545,1545,Mark Alstork Defensive Rebound.,21,19,2,0,0.7493936759654907,0.5653232062025131,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,145,1,5:12,1512,1512,Kipper Nichols missed Three Point Jumper.,21,19,2,33,0.7487842681624337,0.5662577340269302,4,4,6,NA,NA,Illinois,missed,Kipper Nichols,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,146,1,5:12,1512,1512,Mark Alstork Offensive Rebound.,21,19,2,0,0.7487842681624337,0.5662577340269302,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,147,1,5:04,1504,1504,Mark Alstork Turnover.,21,19,2,8,0.748641138491043,0.566491568923502,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,148,1,5:03,1503,1503,James Palmer Jr. Steal.,21,19,2,1,0.7486234197649877,0.5665210320962585,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,149,1,5:01,1501,1501,Evan Taylor made Free Throw.,22,19,3,2,0.7729513975525971,0.5991362198311965,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,151,1,5:01,1501,1501,Evan Taylor made Free Throw.,23,19,4,0,0.7955983985550426,0.630840227415524,4,4,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,152,1,4:35,1475,1475,Kipper Nichols missed Three Point Jumper.,23,19,4,26,0.795740091044743,0.6323370395499477,4,4,6,NA,NA,Illinois,missed,Kipper Nichols,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,153,1,4:35,1475,1475,Da'Monte Williams Offensive Rebound.,23,19,4,0,0.795740091044743,0.6323370395499477,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,154,1,4:18,1458,1458,Foul on Evan Taylor.,23,19,4,17,0.795867952472248,0.6333611930867067,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,155,1,4:18,1458,1458,Mark Alstork missed Free Throw.,23,19,4,0,0.795867952472248,0.6333611930867067,4,4,6,NA,NA,Illinois,missed,Mark Alstork,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,156,1,4:18,1458,1458,Illinois Deadball Team Rebound.,23,19,4,0,0.795867952472248,0.6333611930867067,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,157,1,4:18,1458,1458,Mark Alstork made Free Throw.,23,20,3,0,0.7727667594324518,0.6010873414715954,4,4,6,NA,NA,Illinois,made,Mark Alstork,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,158,1,3:57,1437,1437,James Palmer Jr. made Three Point Jumper. Assisted by Isaiah Roby.,26,20,6,21,0.8372518232091609,0.6960135140855629,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,Isaiah Roby,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,159,1,3:45,1425,1425,Trent Frazier made Jumper.,26,22,4,12,0.7961359171257362,0.6353801614423773,4,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,160,1,3:26,1406,1406,Isaac Copeland made Jumper. Assisted by Thomas Allen.,28,22,6,19,0.8379504983002852,0.6985193943223253,4,4,6,NA,NA,Nebraska,made,Isaac Copeland,Thomas Allen,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,161,1,3:06,1386,1386,Trent Frazier missed Layup.,28,22,6,20,0.8383562072775507,0.7000794781989634,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,162,1,3:06,1386,1386,Trent Frazier Offensive Rebound.,28,22,6,0,0.8383562072775507,0.7000794781989634,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,163,1,3:00,1380,1380,Kipper Nichols missed Jumper.,28,22,6,6,0.8384736767467891,0.7005425767721605,4,4,6,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,164,1,3:00,1380,1380,Isaiah Roby Defensive Rebound.,28,22,6,0,0.8384736767467891,0.7005425767721605,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,165,1,2:54,1374,1374,Isaac Copeland missed Three Point Jumper.,28,22,6,6,0.8385898688548102,0.7010043595396457,4,4,6,NA,NA,Nebraska,missed,Isaac Copeland,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,166,1,2:54,1374,1374,Greg Eboigbodin Defensive Rebound.,28,22,6,0,0.8385898688548102,0.7010043595396457,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,167,1,2:39,1359,1359,Kipper Nichols made Layup. Assisted by Trent Frazier.,28,24,4,15,0.7964147349074486,0.6391612647187289,4,4,6,NA,NA,Illinois,made,Kipper Nichols,Trent Frazier,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,168,1,2:39,1359,1359,Foul on Isaac Copeland.,28,24,4,0,0.7964147349074486,0.6391612647187289,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,169,1,2:39,1359,1359,Official TV Timeout,28,24,4,0,0.7964147349074486,0.6391612647187289,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,170,1,2:39,1359,1359,Kipper Nichols made Free Throw.,28,25,3,0,0.7722577307550995,0.6055857069580813,4,4,6,NA,NA,Illinois,made,Kipper Nichols,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,171,1,2:16,1336,1336,Thomas Allen made Three Point Jumper. Assisted by Anton Gill.,31,25,6,23,0.8393206303111466,0.7039328326701416,4,4,6,NA,NA,Nebraska,made,Thomas Allen,Anton Gill,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,172,1,2:16,1336,1336,Foul on Mark Smith.,31,25,6,0,0.8393206303111466,0.7039328326701416,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,173,1,2:16,1336,1336,Thomas Allen made Free Throw.,32,25,7,0,0.8578481606644512,0.7331074292033977,4,4,6,NA,NA,Nebraska,made,Thomas Allen,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,174,1,1:47,1307,1307,Trent Frazier missed Three Point Jumper.,32,25,7,29,0.8586080248327973,0.7356214591210952,4,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,175,1,1:47,1307,1307,Greg Eboigbodin Offensive Rebound.,32,25,7,0,0.8586080248327973,0.7356214591210952,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,176,1,1:42,1302,1302,Kipper Nichols made Jumper.,32,27,5,5,0.8193394835745461,0.6753724226114791,4,4,6,NA,NA,Illinois,made,Kipper Nichols,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,177,1,1:21,1281,1281,Isaiah Roby missed Jumper.,32,27,5,21,0.8196676731845131,0.67691730805775,4,4,6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,178,1,1:21,1281,1281,Greg Eboigbodin Defensive Rebound.,32,27,5,0,0.8196676731845131,0.67691730805775,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,179,1,1:11,1271,1271,Kipper Nichols Turnover.,32,27,5,10,0.8198426231215044,0.6776799849934592,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,180,1,1:09,1269,1269,Evan Taylor Steal.,32,27,5,2,0.8198792697579398,0.6778348864205724,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,181,1,1:05,1265,1265,James Palmer Jr. missed Layup.,32,27,5,4,0.8199543217007913,0.6781471875837867,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,182,1,1:05,1265,1265,Da'Monte Williams Defensive Rebound.,32,27,5,0,0.8199543217007913,0.6781471875837867,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,183,1,0:58,1258,1258,Illinois  Timeout,32,27,5,7,0.8200915701756505,0.678702073510611,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,184,1,0:35,1235,1235,Trent Frazier made Jumper.,32,29,3,23,0.7716764742096582,0.6115758028102006,3,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,185,1,0:06,1206,1206,Thomas Allen missed Three Point Jumper.,32,29,3,29,0.7717786960789776,0.6132895185893584,3,4,6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,186,1,0:06,1206,1206,Trent Frazier Defensive Rebound.,32,29,3,0,0.7717786960789776,0.6132895185893584,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,187,1,0:02,1202,1202,Foul on Isaiah Roby.,32,29,3,4,0.7717983297471654,0.6135317766038629,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,188,1,0:02,1202,1202,Trent Frazier made Free Throw.,32,30,2,0,0.7435367331095573,0.576426700548488,3,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,189,1,0:02,1202,1202,Trent Frazier missed Free Throw.,32,30,2,0,0.7435367331095573,0.576426700548488,3,4,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,190,1,0:02,1202,1202,Isaiah Roby Defensive Rebound.,32,30,2,0,0.7435367331095573,0.576426700548488,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,191,1,0:00,1200,1200,End of 1st half,32,30,2,2,0.7435146334530238,0.5765093285143758,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,NA
+400986509,2018-01-15,Nebraska,Illinois,192,2,20:00,1200,1200,PLAY,32,30,2,0,0.7435146334530238,0.5765093285143758,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,193,2,19:33,1173,1173,Glynn Watson Jr. missed Jumper.,32,30,2,27,0.743202393531263,0.5775966506103395,4,4,6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,194,2,19:33,1173,1173,Mark Alstork Defensive Rebound.,32,30,2,0,0.743202393531263,0.5775966506103395,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,195,2,18:59,1139,1139,Leron Black missed Jumper.,32,30,2,34,0.742788392550039,0.5789204016439486,4,4,6,NA,NA,Illinois,missed,Leron Black,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,196,2,18:59,1139,1139,Michael Finke Offensive Rebound.,32,30,2,0,0.742788392550039,0.5789204016439486,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,197,2,18:56,1136,1136,Michael Finke made Jumper.,32,32,0,3,0.6773239644819895,0.5,4,4,6,NA,NA,Illinois,made,Michael Finke,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,198,2,18:45,1125,1125,Isaac Copeland missed Layup.,32,32,0,11,0.6767885301836098,0.5,4,4,6,NA,NA,Nebraska,missed,Isaac Copeland,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,199,2,18:45,1125,1125,Michael Finke Defensive Rebound.,32,32,0,0,0.6767885301836098,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,200,2,18:32,1112,1112,Leron Black made Layup.,32,34,-2,13,0.6019308449852457,0.42003227698815065,4,4,6,NA,NA,Illinois,made,Leron Black,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,201,2,18:18,1098,1098,James Palmer Jr. made Layup.,34,34,0,14,0.675471267182917,0.5,4,4,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,202,2,17:58,1078,1078,Trent Frazier made Layup.,34,36,-2,20,0.5987706166673994,0.4186746703290426,4,4,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,203,2,17:42,1062,1062,James Palmer Jr. missed Three Point Jumper.,34,36,-2,16,0.5972455308988707,0.41800723763296493,4,4,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,204,2,17:42,1062,1062,Mark Alstork Defensive Rebound.,34,36,-2,0,0.5972455308988707,0.41800723763296493,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,205,2,17:28,1048,1048,Leron Black made Jumper. Assisted by Trent Frazier.,34,38,-4,14,0.5137204569735692,0.33919298075044024,4,4,6,NA,NA,Illinois,made,Leron Black,Trent Frazier,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,206,2,17:21,1041,1041,Nebraska  Timeout,34,38,-4,7,0.5126829738064991,0.33861989230989864,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,207,2,17:21,1041,1041,Official TV Timeout,34,38,-4,0,0.5126829738064991,0.33861989230989864,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,208,2,17:08,1028,1028,Anton Gill missed Three Point Jumper.,34,38,-4,13,0.510716109731755,0.3375252320433732,4,3,6,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,209,2,17:08,1028,1028,Leron Black Defensive Rebound.,34,38,-4,0,0.510716109731755,0.3375252320433732,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,210,2,17:02,1022,1022,Leron Black Turnover.,34,38,-4,6,0.5097892002588374,0.33700553543885414,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,211,2,16:44,1004,1004,Glynn Watson Jr. Turnover.,34,38,-4,18,0.5069276974718809,0.3353854076795946,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,212,2,16:17,977,977,Foul on Tanner Borchardt.,34,38,-4,27,0.5023761512561677,0.332759772028803,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,213,2,16:11,971,971,Foul on Anton Gill.,34,38,-4,6,0.5013172183507062,0.3321406203215298,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,214,2,16:02,962,962,Leron Black missed Jumper.,34,38,-4,9,0.4997391071399564,0.3312180851508733,4,3,6,NA,NA,Illinois,missed,Leron Black,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,215,2,16:02,962,962,Da'Monte Williams Offensive Rebound.,34,38,-4,0,0.4997391071399564,0.3312180851508733,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,216,2,15:58,958,958,Official TV Timeout,34,38,-4,4,0.4990596646951481,0.3308233120228149,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,217,2,15:42,942,942,Foul on Tanner Borchardt.,34,38,-4,16,0.49646320525150045,0.32932806553890004,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,218,2,15:42,942,942,Da'Monte Williams made Free Throw.,34,39,-5,0,0.45215834979628544,0.2913096075006315,4,3,6,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,219,2,15:42,942,942,Da'Monte Williams made Free Throw.,34,40,-6,0,0.4085989532741248,0.2560047740404088,4,3,6,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,220,2,15:18,918,918,Isaiah Roby made Layup. Assisted by Evan Taylor.,36,40,-4,24,0.49286098530659295,0.3272854476225352,4,3,6,NA,NA,Nebraska,made,Isaiah Roby,Evan Taylor,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,221,2,15:05,905,905,Trent Frazier Turnover.,36,40,-4,13,0.49101316692338215,0.32624868137530044,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,222,2,15:05,905,905,Isaiah Roby Steal.,36,40,-4,0,0.49101316692338215,0.32624868137530044,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,223,2,15:05,905,905,Nebraska  Timeout,36,40,-4,0,0.49101316692338215,0.32624868137530044,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,224,2,14:51,891,891,Foul on Leron Black.,36,40,-4,14,0.4890718130816205,0.32516391344309953,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,225,2,14:42,882,882,James Palmer Jr. made Jumper.,38,40,-2,9,0.5788324068472958,0.40935303493264297,4,2,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,226,2,14:23,863,863,Mark Alstork Turnover.,38,40,-2,19,0.577099374276263,0.4085480131603325,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,227,2,14:21,861,861,Isaiah Roby Steal.,38,40,-2,2,0.5769156929975698,0.40846219346744717,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,228,2,14:19,859,859,Evan Taylor made Layup. Assisted by Glynn Watson Jr..,40,40,0,2,0.6637505769367793,0.5,4,2,6,NA,NA,Nebraska,made,Evan Taylor,Glynn Watson Jr,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,229,2,14:16,856,856,Illinois  Timeout,40,40,0,3,0.6636172750058514,0.5,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,230,2,13:45,825,825,Illinois  Turnover.,40,40,0,31,0.6622154993469471,0.5,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,231,2,13:34,814,814,Glynn Watson Jr. made Jumper.,42,40,2,11,0.7408183836177952,0.5937148392902294,3,2,6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,232,2,13:21,801,801,Foul on Glynn Watson Jr..,42,40,2,13,0.7408294758099888,0.5944023751206697,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,233,2,13:02,782,782,Michael Finke missed Three Point Jumper.,42,40,2,19,0.7408886550420531,0.5955045520683807,3,2,6,NA,NA,Illinois,missed,Michael Finke,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,234,2,13:02,782,782,Greg Eboigbodin Offensive Rebound.,42,40,2,0,0.7408886550420531,0.5955045520683807,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,235,2,12:42,762,762,Michael Finke Turnover.,42,40,2,20,0.741015779344779,0.5968154111847702,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,236,2,12:40,760,760,Glynn Watson Jr. Steal.,42,40,2,2,0.7410325795618781,0.5969561405294912,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,237,2,12:36,756,756,James Palmer Jr. made Dunk. Assisted by Glynn Watson Jr..,44,40,4,4,0.8093082370035374,0.6873981707489135,3,2,6,NA,NA,Nebraska,made,James Palmer Jr.,Glynn Watson Jr,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,238,2,12:15,735,735,Aaron Jordan missed Jumper.,44,40,4,21,0.8105544904848692,0.6903225733635496,3,2,6,NA,NA,Illinois,missed,Aaron Jordan,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,239,2,12:15,735,735,Isaac Copeland Block.,44,40,4,0,0.8105544904848692,0.6903225733635496,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,240,2,12:15,735,735,Nebraska Defensive Rebound.,44,40,4,0,0.8105544904848692,0.6903225733635496,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,241,2,12:00,720,720,Foul on Aaron Jordan.,44,40,4,15,0.8115218837072794,0.69255914690391,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,242,2,12:00,720,720,Official TV Timeout,44,40,4,0,0.8115218837072794,0.69255914690391,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,243,2,12:00,720,720,Evan Taylor made Free Throw.,45,40,5,0,0.8406345697731552,0.7340245873649408,3,2,6,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,244,2,12:00,720,720,Evan Taylor missed Free Throw.,45,40,5,0,0.8406345697731552,0.7340245873649408,3,2,6,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,245,2,12:00,720,720,Greg Eboigbodin Defensive Rebound.,45,40,5,0,0.8406345697731552,0.7340245873649408,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,246,2,11:30,690,690,Trent Frazier missed Three Point Jumper.,45,40,5,30,0.8426078576660818,0.7384519354160238,3,2,6,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,247,2,11:30,690,690,Isaiah Roby Block.,45,40,5,0,0.8426078576660818,0.7384519354160238,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,248,2,11:29,689,689,James Palmer Jr. Defensive Rebound.,45,40,5,1,0.8426661351624172,0.738587146628762,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,249,2,11:06,666,666,Glynn Watson Jr. made Three Point Jumper. Assisted by Isaac Copeland.,48,40,8,23,0.9105494418460133,0.8437976045384648,3,2,6,NA,NA,Nebraska,made,Glynn Watson Jr.,Isaac Copeland,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,250,2,10:31,631,631,Trent Frazier made Jumper.,48,42,6,35,0.8719460069047198,0.7848048652918971,3,2,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,251,2,10:24,624,624,Foul on Greg Eboigbodin.,48,42,6,7,0.8724285237289858,0.7858563003912632,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,252,2,10:24,624,624,James Palmer Jr. missed Layup.,48,42,6,0,0.8724285237289858,0.7858563003912632,3,2,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,253,2,10:24,624,624,Evan Taylor Offensive Rebound.,48,42,6,0,0.8724285237289858,0.7858563003912632,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,254,2,10:17,617,617,Foul on Michael Finke.,48,42,6,7,0.8729350789856044,0.7869481638497103,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,255,2,10:17,617,617,Isaiah Roby made Free Throw.,49,42,7,0,0.8951944463448747,0.8211852000434579,3,2,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,256,2,10:17,617,617,Isaiah Roby made Free Throw.,50,42,8,0,0.9139388312374263,0.8509623816613446,3,2,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,257,2,10:00,600,600,Michael Finke made Three Point Jumper. Assisted by Trent Frazier.,50,45,5,17,0.8479759955838626,0.7508511955786001,3,2,6,NA,NA,Illinois,made,Michael Finke,Trent Frazier,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,258,2,9:36,576,576,Isaac Copeland missed Jumper.,50,45,5,24,0.8500814570854358,0.7552810069202037,3,2,6,NA,NA,Nebraska,missed,Isaac Copeland,NA,FALSE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,259,2,9:36,576,576,Isaiah Roby Offensive Rebound.,50,45,5,0,0.8500814570854358,0.7552810069202037,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,260,2,9:31,571,571,Thomas Allen missed Three Point Jumper.,50,45,5,5,0.8505892075154239,0.7563183845023131,3,2,6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,261,2,9:31,571,571,Trent Frazier Defensive Rebound.,50,45,5,0,0.8505892075154239,0.7563183845023131,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,262,2,9:30,570,570,Foul on Isaiah Roby.,50,45,5,1,0.8506939377679056,0.7565311235560576,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,263,2,9:20,560,560,Foul on Evan Taylor.,50,45,5,10,0.8518025424478548,0.7587599319777902,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,264,2,9:11,551,551,Trent Frazier made Jumper.,50,47,3,9,0.7848942719827441,0.667007234737816,3,2,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,265,2,8:44,524,524,James Palmer Jr. missed Three Point Jumper.,50,47,3,27,0.7866205770743571,0.6713551681176607,3,2,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,266,2,8:44,524,524,Leron Black Defensive Rebound.,50,47,3,0,0.7866205770743571,0.6713551681176607,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,267,2,8:21,501,501,Leron Black Turnover.,50,47,3,23,0.7876795106264253,0.6744360519610074,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,268,2,8:06,486,486,Anton Gill made Three Point Jumper. Assisted by James Palmer Jr..,53,47,6,15,0.886217692221767,0.8138277524097407,3,2,6,NA,NA,Nebraska,made,Anton Gill,James Palmer Jr,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,269,2,7:48,468,468,Mark Smith missed Three Point Jumper.,53,47,6,18,0.8880750183054599,0.8175745053445861,3,2,6,NA,NA,Illinois,missed,Mark Smith,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,270,2,7:48,468,468,Michael Finke Offensive Rebound.,53,47,6,0,0.8880750183054599,0.8175745053445861,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,271,2,7:45,465,465,Michael Finke made Jumper.,53,49,4,3,0.8282403118669114,0.7316647822318822,3,2,6,NA,NA,Illinois,made,Michael Finke,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,272,2,7:21,441,441,Foul on Mark Smith.,53,49,4,24,0.8310641405967022,0.7374081056486841,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,273,2,7:21,441,441,Official TV Timeout,53,49,4,0,0.8310641405967022,0.7374081056486841,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,274,2,7:03,423,423,Glynn Watson Jr. missed Three Point Jumper.,53,49,4,18,0.8339254526015966,0.7428958871622494,3,2,6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,275,2,7:03,423,423,Leron Black Defensive Rebound.,53,49,4,0,0.8339254526015966,0.7428958871622494,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,276,2,6:52,412,412,Da'Monte Williams missed Dunk.,53,49,4,11,0.8355485652632324,0.746123851961776,3,2,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,277,2,6:52,412,412,Isaac Copeland Block.,53,49,4,0,0.8355485652632324,0.746123851961776,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,278,2,6:50,410,410,Isaac Copeland Defensive Rebound.,53,49,4,2,0.8358261865120697,0.7466896623055245,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,279,2,6:29,389,389,James Palmer Jr. made Layup.,55,49,6,21,0.9005649473361077,0.8412561005540823,3,2,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,280,2,6:09,369,369,Michael Finke made Jumper. Assisted by Mark Smith.,55,51,4,20,0.8412287786886009,0.7580800020231662,3,2,6,NA,NA,Illinois,made,Michael Finke,Mark Smith,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,281,2,5:51,351,351,Anton Gill missed Three Point Jumper.,55,51,4,18,0.8440082708616853,0.7637411897891152,3,2,6,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,282,2,5:51,351,351,Isaiah Roby Offensive Rebound.,55,51,4,0,0.8440082708616853,0.7637411897891152,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,283,2,5:48,348,348,Isaiah Roby missed Dunk.,55,51,4,3,0.8445290522004004,0.7647686155421715,3,2,6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,284,2,5:48,348,348,Michael Finke Defensive Rebound.,55,51,4,0,0.8445290522004004,0.7647686155421715,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,285,2,5:27,327,327,Mark Smith missed Three Point Jumper.,55,51,4,21,0.8487994491502981,0.7728496140323794,3,2,6,NA,NA,Illinois,missed,Mark Smith,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,286,2,5:27,327,327,Anton Gill Defensive Rebound.,55,51,4,0,0.8487994491502981,0.7728496140323794,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,287,2,5:04,304,304,Foul on Leron Black.,55,51,4,23,0.8546073982596841,0.7832895004771492,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,288,2,4:52,292,292,Isaiah Roby Turnover.,55,51,4,12,0.855373571066927,0.7856121062468007,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,289,2,4:50,290,290,Trent Frazier Steal.,55,51,4,2,0.8552908169819367,0.785710551343732,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,290,2,4:48,288,288,Trent Frazier made Layup.,55,53,2,2,0.755085220203445,0.656946987835273,3,2,6,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,291,2,4:33,273,273,James Palmer Jr. missed Three Point Jumper.,55,53,2,15,0.7525272414549007,0.6559610489528255,3,2,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,292,2,4:33,273,273,Isaiah Roby Offensive Rebound.,55,53,2,0,0.7525272414549007,0.6559610489528255,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,293,2,4:30,270,270,Isaiah Roby made Jumper.,57,53,4,3,0.8522514884585489,0.7837194126291137,3,2,6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,294,2,4:16,256,256,Trent Frazier missed Jumper.,57,53,4,14,0.8489740928062103,0.780851929789235,3,2,6,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,295,2,4:16,256,256,Michael Finke Offensive Rebound.,57,53,4,0,0.8489740928062103,0.780851929789235,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,296,2,4:10,250,250,Da'Monte Williams missed Three Point Jumper.,57,53,4,6,0.8476408675656086,0.7797475321473003,3,2,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,297,2,4:10,250,250,Glynn Watson Jr. Defensive Rebound.,57,53,4,0,0.8476408675656086,0.7797475321473003,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,298,2,4:02,242,242,James Palmer Jr. Turnover.,57,53,4,8,0.8461793268341248,0.7787242857790659,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,299,2,4:00,240,240,Official TV Timeout,57,53,4,2,0.8458965310742191,0.7785830450081012,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,300,2,3:41,221,221,Mark Alstork missed Jumper.,57,53,4,19,0.8458020151260383,0.780750128814572,3,2,6,NA,NA,Illinois,missed,Mark Alstork,NA,FALSE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,301,2,3:41,221,221,Illinois Offensive Rebound.,57,53,4,0,0.8458020151260383,0.780750128814572,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,302,2,3:33,213,213,Foul on Anton Gill.,57,53,4,8,0.8476515795615381,0.7841865546690908,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,303,2,3:33,213,213,Da'Monte Williams made Free Throw.,57,54,3,0,0.8011888636448807,0.7246557221037593,3,2,6,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,304,2,3:33,213,213,Da'Monte Williams made Free Throw.,57,55,2,0,0.7448218714278888,0.6559090884581229,3,2,6,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,305,2,3:13,193,193,Foul on Greg Eboigbodin.,57,55,2,20,0.7517323910749965,0.6676763921532414,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,306,2,3:13,193,193,Anton Gill missed Free Throw.,57,55,2,0,0.7517323910749965,0.6676763921532414,3,2,6,NA,NA,Nebraska,missed,Anton Gill,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,307,2,3:13,193,193,Nebraska Deadball Team Rebound.,57,55,2,0,0.7517323910749965,0.6676763921532414,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,308,2,2:55,175,175,Anton Gill made Free Throw.,59,55,4,18,0.8743961045219094,0.8242870860533258,3,2,6,NA,NA,Nebraska,made,Anton Gill,NA,FALSE,TRUE,Nebraska,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,309,2,2:55,175,175,Anton Gill made Free Throw.,58,55,3,0,0.8254883094861842,0.7611965067694487,3,2,6,NA,NA,Nebraska,made,Anton Gill,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,311,2,2:55,175,175,Isaiah Roby Defensive Rebound.,59,55,4,0,0.8743961045219094,0.8242870860533258,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,312,2,2:52,172,172,Isaac Copeland missed Layup.,59,55,4,3,0.8769375208765046,0.828016940661324,3,2,6,NA,NA,Nebraska,missed,Isaac Copeland,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,313,2,2:52,172,172,Leron Black Defensive Rebound.,59,55,4,0,0.8769375208765046,0.828016940661324,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,314,2,2:20,140,140,Da'Monte Williams missed Three Point Jumper.,59,55,4,32,0.9041699043156248,0.8677754904369822,3,2,6,NA,NA,Illinois,missed,Da'Monte Williams,NA,TRUE,FALSE,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,315,2,2:20,140,140,Leron Black Offensive Rebound.,59,55,4,0,0.9041699043156248,0.8677754904369822,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,316,2,2:14,134,134,Leron Black made Jumper.,59,57,2,6,0.7911648549926457,0.7260466532636572,3,2,6,NA,NA,Illinois,made,Leron Black,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,317,2,1:43,103,103,Glynn Watson Jr. missed Three Point Jumper.,59,57,2,31,0.8196840147995444,0.7663598677580039,3,2,6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,318,2,1:43,103,103,Da'Monte Williams Defensive Rebound.,59,57,2,0,0.8196840147995444,0.7663598677580039,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,319,2,1:38,98,98,Da'Monte Williams Turnover.,59,57,2,5,0.8249927855804812,0.7737243922903321,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,320,2,1:22,82,82,James Palmer Jr. Turnover.,59,57,2,16,0.8424454675106554,0.7978098716309224,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,321,2,1:03,63,63,Da'Monte Williams Turnover.,59,57,2,19,0.8634580739348694,0.8265976357461318,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,322,2,1:01,61,61,James Palmer Jr. Steal.,59,57,2,2,0.8656652479390822,0.8296070243859399,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,323,2,0:59,59,59,James Palmer Jr. made Dunk.,61,57,4,2,0.9702989611715446,0.9611493385849996,3,2,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,324,2,0:51,51,51,Illinois  Timeout,61,57,4,8,0.974733123428413,0.9671994484742473,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,325,2,0:30,30,30,Michael Finke made Jumper.,61,59,2,21,0.8989983915923461,0.8746508435907537,2,2,6,NA,NA,Illinois,made,Michael Finke,NA,FALSE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,326,2,0:18,18,18,Foul on Trent Frazier.,61,59,2,12,0.9110258428633143,0.8906854484093576,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,327,2,0:18,18,18,James Palmer Jr. missed Free Throw.,61,59,2,0,0.9110258428633143,0.8906854484093576,2,2,6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,328,2,0:18,18,18,Michael Finke Defensive Rebound.,61,59,2,0,0.9110258428633143,0.8906854484093576,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,329,2,0:13,13,13,Illinois  Timeout,61,59,2,5,0.9159150104310834,0.8971548885029107,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+400986509,2018-01-15,Nebraska,Illinois,330,2,0:08,8,8,Michael Finke made Three Point Jumper.,61,62,-1,5,0.28853482054122304,0.24635462456246857,1,2,6,NA,NA,Illinois,made,Michael Finke,NA,TRUE,FALSE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,331,2,0:06,6,6,Foul on Isaiah Roby.,61,62,-1,2,0.28507687444394214,0.2437084082712352,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,332,2,0:06,6,6,Michael Finke made Free Throw.,61,63,-2,0,0.11386349549919968,0.09407117343194349,1,2,6,NA,NA,Illinois,made,Michael Finke,NA,FALSE,TRUE,Illinois,Nebraska
+400986509,2018-01-15,Nebraska,Illinois,333,2,0:06,6,6,Nebraska  Timeout,61,63,-2,0,0.11386349549919968,0.09407117343194349,1,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,334,2,0:06,6,6,James Palmer Jr. made Three Point Jumper.,64,63,1,0,0.7933918028011501,0.7562915917287648,1,1,6,NA,NA,Nebraska,made,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Illinois
+400986509,2018-01-15,Nebraska,Illinois,335,2,0:00,0,0,End of Game,64,64,0,6,0.9999999983233903,0.9999999979388464,1,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA

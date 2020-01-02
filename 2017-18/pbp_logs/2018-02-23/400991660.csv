@@ -1,0 +1,292 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991660,2018-02-23,Princeton,Harvard,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.5400219518269808,0.5,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+400991660,2018-02-23,Princeton,Harvard,2,1,19:37,2377,2677,Christian Juzang missed Three Point Jumper.,0,0,0,23,0.539929772706308,0.5,4,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,3,1,19:37,2377,2677,Myles Stephens Defensive Rebound.,0,0,0,0,0.539929772706308,0.5,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,4,1,19:23,2363,2663,Foul on Seth Towns.,0,0,0,14,0.5398724104701594,0.5,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,5,1,19:15,2355,2655,Sebastian Much missed Three Point Jumper.,0,0,0,8,0.5398391973358024,0.5,4,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,6,1,19:15,2355,2655,Seth Towns Defensive Rebound.,0,0,0,0,0.5398391973358024,0.5,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,7,1,18:56,2336,2636,Foul on Aaron Young.,0,0,0,19,0.5397590253744468,0.5,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,8,1,18:56,2336,2636,Christian Juzang made Free Throw.,0,1,-1,0,0.5170763949392415,0.4772556011616318,4,4,1,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,9,1,18:56,2336,2636,Christian Juzang made Free Throw.,0,2,-2,0,0.4943231767622922,0.4546051347726533,4,4,1,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,10,1,18:55,2335,2635,Myles Stephens Turnover.,0,2,-2,1,0.49429688664277743,0.45458332034341126,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,11,1,18:47,2327,2627,Seth Towns missed Three Point Jumper.,0,2,-2,8,0.49408593989327976,0.45440837449252225,4,4,1,NA,NA,Harvard,missed,Seth Towns,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,12,1,18:47,2327,2627,Justin Bassey Offensive Rebound.,0,2,-2,0,0.49408593989327976,0.45440837449252225,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,13,1,18:40,2320,2620,Justin Bassey missed Layup.,0,2,-2,7,0.49390046179354397,0.45425468392503904,4,4,1,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,14,1,18:40,2320,2620,Aaron Young Defensive Rebound.,0,2,-2,0,0.49390046179354397,0.45425468392503904,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,15,1,18:19,2299,2599,Myles Stephens made Three Point Jumper. Assisted by Devin Cannady.,3,2,1,21,0.5625226069930015,0.5231543655278497,4,4,1,NA,NA,Princeton,made,Myles Stephens,Devin Cannady,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,16,1,18:00,2280,2580,Chris Lewis missed Layup.,3,2,1,19,0.5626481330743595,0.5233677364068907,4,4,1,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,17,1,18:00,2280,2580,Amir Bell Defensive Rebound.,3,2,1,0,0.5626481330743595,0.5233677364068907,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,18,1,17:52,2272,2572,Aaron Young missed Three Point Jumper.,3,2,1,8,0.5627009101127811,0.5234580941259385,4,4,1,NA,NA,Princeton,missed,Aaron Young,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,19,1,17:52,2272,2572,Seth Towns Defensive Rebound.,3,2,1,0,0.5627009101127811,0.5234580941259385,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,20,1,17:29,2249,2549,Corey Johnson missed Three Point Jumper.,3,2,1,23,0.5628521993124016,0.5237194237762728,4,4,1,NA,NA,Harvard,missed,Corey Johnson,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,21,1,17:29,2249,2549,Princeton Defensive Rebound.,3,2,1,0,0.5628521993124016,0.5237194237762728,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,22,1,17:09,2229,2529,Devin Cannady made Three Point Jumper. Assisted by Amir Bell.,6,2,4,20,0.6320165144818017,0.5947090144780959,4,4,1,NA,NA,Princeton,made,Devin Cannady,Amir Bell,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,23,1,16:44,2204,2504,Seth Towns Turnover.,6,2,4,25,0.6329748503182462,0.5958218238502964,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,24,1,16:23,2183,2483,Myles Stephens made Layup.,8,2,6,21,0.6779718254746097,0.642901669850931,4,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,25,1,15:51,2151,2451,Rio Haskett missed Three Point Jumper.,8,2,6,32,0.679780212560177,0.6449580663965286,4,4,1,NA,NA,Harvard,missed,Rio Haskett,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,26,1,15:51,2151,2451,Harvard Deadball Team Rebound.,8,2,6,0,0.679780212560177,0.6449580663965286,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,27,1,15:50,2150,2450,Harvard  Turnover.,8,2,6,1,0.6798368651413879,0.6450225712198908,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,28,1,15:50,2150,2450,Official TV Timeout,8,2,6,0,0.6798368651413879,0.6450225712198908,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,29,1,15:49,2149,2449,Official TV Timeout,8,2,6,1,0.6798935287404206,0.6450870932491254,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,30,1,15:19,2119,2419,Amir Bell made Layup.,10,2,8,30,0.7237490102039779,0.6916873545983454,4,4,1,NA,NA,Princeton,made,Amir Bell,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,31,1,14:46,2086,2386,Seth Towns made Layup. Assisted by Christian Juzang.,10,4,6,33,0.6834893814451112,0.6491904326352234,4,4,1,NA,NA,Harvard,made,Seth Towns,Christian Juzang,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,32,1,14:32,2072,2372,Amir Bell Turnover.,10,4,6,14,0.6842966426890099,0.6501137636418993,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,33,1,14:31,2071,2371,Seth Towns Steal.,10,4,6,1,0.6843544348779619,0.6501798920786201,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,34,1,14:26,2066,2366,Seth Towns missed Jumper.,10,4,6,5,0.6846436657009298,0.6505108950915935,4,4,1,NA,NA,Harvard,missed,Seth Towns,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,35,1,14:26,2066,2366,Amir Bell Defensive Rebound.,10,4,6,0,0.6846436657009298,0.6505108950915935,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,36,1,14:06,2046,2346,Devin Cannady Turnover.,10,4,6,20,0.6858052709759654,0.6518411017619841,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,37,1,14:06,2046,2346,Seth Towns Steal.,10,4,6,0,0.6858052709759654,0.6518411017619841,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,38,1,13:52,2032,2332,Justin Bassey made Layup. Assisted by Rio Haskett.,10,6,4,14,0.6396750674547732,0.6036865536784973,4,4,1,NA,NA,Harvard,made,Justin Bassey,Rio Haskett,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,39,1,13:52,2032,2332,Foul on Myles Stephens.,10,6,4,0,0.6396750674547732,0.6036865536784973,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,40,1,13:52,2032,2332,Justin Bassey made Free Throw.,10,7,3,0,0.6150858915828495,0.5782606531511949,4,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,41,1,13:37,2017,2317,Jerome Desrosiers missed Three Point Jumper.,10,7,3,15,0.6155278250950287,0.5788043770931707,4,4,1,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,42,1,13:37,2017,2317,Henry Welsh Defensive Rebound.,10,7,3,0,0.6155278250950287,0.5788043770931707,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,43,1,13:16,1996,2296,Foul on Justin Bassey.,10,7,3,21,0.6161512657831916,0.5795723481879878,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,44,1,13:16,1996,2296,Justin Bassey Turnover.,10,7,3,0,0.6161512657831916,0.5795723481879878,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,45,1,13:04,1984,2284,Sebastian Much missed Three Point Jumper.,10,7,3,12,0.6165101628120598,0.5800148818043652,4,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,46,1,13:04,1984,2284,Christian Juzang Defensive Rebound.,10,7,3,0,0.6165101628120598,0.5800148818043652,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,47,1,12:53,1973,2273,Christian Juzang missed Three Point Jumper.,10,7,3,11,0.6168409385368895,0.5804229866308455,4,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,48,1,12:53,1973,2273,Devin Cannady Defensive Rebound.,10,7,3,0,0.6168409385368895,0.5804229866308455,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,49,1,12:38,1958,2258,Foul on Corey Johnson.,10,7,3,15,0.6172948792490852,0.580983387401631,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,50,1,12:26,1946,2246,Sebastian Much missed Layup.,10,7,3,12,0.6176605334680809,0.5814350418975857,4,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,51,1,12:26,1946,2246,Henry Welsh Block.,10,7,3,0,0.6176605334680809,0.5814350418975857,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,52,1,12:26,1946,2246,Henry Welsh Defensive Rebound.,10,7,3,0,0.6176605334680809,0.5814350418975857,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,53,1,12:07,1927,2227,Danilo Djuricic made Layup. Assisted by Rio Haskett.,10,9,1,19,0.5648856316593982,0.5276078533301112,4,4,1,NA,NA,Harvard,made,Danilo Djuricic,Rio Haskett,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,54,1,11:40,1900,2200,Sebastian Much made Three Point Jumper. Assisted by Ryan Schwieger.,13,9,4,27,0.6450972063408369,0.6101164882901792,4,4,1,NA,NA,Princeton,made,Sebastian Much,Ryan Schwieger,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,55,1,11:23,1883,2183,Rio Haskett missed Layup.,13,9,4,17,0.6458018267428995,0.6109580862436181,4,4,1,NA,NA,Harvard,missed,Rio Haskett,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,56,1,11:23,1883,2183,Jerome Desrosiers Defensive Rebound.,13,9,4,0,0.6458018267428995,0.6109580862436181,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,57,1,11:11,1871,2171,Sebastian Much made Layup. Assisted by Jerome Desrosiers.,15,9,6,12,0.6962975827185263,0.6639090355464442,4,4,1,NA,NA,Princeton,made,Sebastian Much,Jerome Desrosiers,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,58,1,10:55,1855,2155,Danilo Djuricic Turnover.,15,9,6,16,0.6972628007705136,0.6650266926222506,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,59,1,10:54,1854,2154,Devin Cannady Steal.,15,9,6,1,0.6973231490277932,0.6650966137311689,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,60,1,10:50,1850,2150,Ryan Schwieger missed Layup.,15,9,6,4,0.6975645964194171,0.665376406281083,4,4,1,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,61,1,10:50,1850,2150,Christian Juzang Block.,15,9,6,0,0.6975645964194171,0.665376406281083,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,62,1,10:49,1849,2149,Danilo Djuricic Defensive Rebound.,15,9,6,1,0.6976249738762894,0.6654463834889561,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,63,1,10:42,1842,2142,Corey Johnson made Three Point Jumper. Assisted by Christian Juzang.,15,12,3,7,0.6208334274150203,0.585388023025359,4,4,1,NA,NA,Harvard,made,Corey Johnson,Christian Juzang,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,64,1,10:21,1821,2121,Jerome Desrosiers made Three Point Jumper. Assisted by Sebastian Much.,18,12,6,21,0.6993198732142639,0.6674122833303127,4,4,1,NA,NA,Princeton,made,Jerome Desrosiers,Sebastian Much,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,65,1,9:59,1799,2099,Corey Johnson missed Three Point Jumper.,18,12,6,22,0.7006611812204746,0.6689695565139627,4,4,1,NA,NA,Harvard,missed,Corey Johnson,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,66,1,9:59,1799,2099,Aaron Young Defensive Rebound.,18,12,6,0,0.7006611812204746,0.6689695565139627,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,67,1,9:37,1777,2077,Devin Cannady missed Layup.,18,12,6,22,0.702015537226713,0.670542608106261,4,4,1,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,68,1,9:37,1777,2077,Henry Welsh Defensive Rebound.,18,12,6,0,0.702015537226713,0.670542608106261,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,69,1,9:19,1759,2059,Henry Welsh missed Layup.,18,12,6,18,0.7031362637479107,0.6718443369251405,4,4,1,NA,NA,Harvard,missed,Henry Welsh,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,70,1,9:19,1759,2059,Devin Cannady Defensive Rebound.,18,12,6,0,0.7031362637479107,0.6718443369251405,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,71,1,9:00,1740,2040,Official TV Timeout,18,12,6,19,0.704334248383093,0.673235437000404,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,72,1,8:51,1731,2031,Aaron Young missed Three Point Jumper.,18,12,6,9,0.7049078310083504,0.6739012433451843,4,4,1,NA,NA,Princeton,missed,Aaron Young,NA,TRUE,FALSE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,73,1,8:51,1731,2031,Myles Stephens Offensive Rebound.,18,12,6,0,0.7049078310083504,0.6739012433451843,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,74,1,8:29,1709,2009,Richmond Aririguzoh made Layup.,20,12,8,22,0.7543750363987388,0.7266830203379666,4,4,1,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,75,1,8:14,1694,1994,Corey Johnson Turnover.,20,12,8,15,0.7555765010329192,0.7280623219532288,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,76,1,7:58,1678,1978,Foul on Corey Johnson.,20,12,8,16,0.7568590348489486,0.7295356521497544,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,77,1,7:58,1678,1978,Official TV Timeout,20,12,8,0,0.7568590348489486,0.7295356521497544,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,78,1,7:43,1663,1963,Myles Stephens missed Three Point Jumper.,20,12,8,15,0.7580287147359749,0.7308838817545174,4,4,1,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,79,1,7:43,1663,1963,Harvard Defensive Rebound.,20,12,8,0,0.7580287147359749,0.7308838817545174,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,80,1,7:27,1647,1947,Rio Haskett made Layup.,20,14,6,16,0.710328829952676,0.6802043258938137,4,4,1,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,81,1,6:52,1612,1912,Myles Stephens made Jumper.,22,14,8,35,0.7618354070519513,0.7352975974899028,4,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,82,1,6:36,1596,1896,Chris Lewis missed Layup.,22,14,8,16,0.7630003333007589,0.7366538488517688,4,4,1,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,83,1,6:36,1596,1896,Chris Lewis Offensive Rebound.,22,14,8,0,0.7630003333007589,0.7366538488517688,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,84,1,6:35,1595,1895,Foul on Richmond Aririguzoh.,22,14,8,1,0.7630729975918747,0.7367384968577204,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,85,1,6:35,1595,1895,Chris Lewis missed Free Throw.,22,14,8,0,0.7630729975918747,0.7367384968577204,4,4,1,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,86,1,6:35,1595,1895,Harvard Deadball Team Rebound.,22,14,8,0,0.7630729975918747,0.7367384968577204,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,87,1,6:35,1595,1895,Chris Lewis made Free Throw.,22,15,7,0,0.7390363469389392,0.7110418695926274,4,4,1,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,88,1,6:12,1572,1872,Amir Bell missed Layup.,22,15,7,23,0.7405791756548672,0.7128496735842447,4,4,1,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,89,1,6:12,1572,1872,Robert Baker Block.,22,15,7,0,0.7405791756548672,0.7128496735842447,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,90,1,6:11,1571,1871,Chris Lewis Defensive Rebound.,22,15,7,1,0.7406464950531851,0.7129285711938463,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,91,1,5:55,1555,1855,Justin Bassey Turnover.,22,15,7,16,0.7417290711489082,0.7141971229403054,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,92,1,5:37,1537,1837,Aaron Young missed Three Point Jumper.,22,15,7,18,0.742964620029036,0.7156436655152765,4,4,1,NA,NA,Princeton,missed,Aaron Young,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,93,1,5:37,1537,1837,Justin Bassey Defensive Rebound.,22,15,7,0,0.742964620029036,0.7156436655152765,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,94,1,5:19,1519,1819,Chris Lewis made Layup. Assisted by Justin Bassey.,22,17,5,18,0.6904620851483602,0.6602572459703835,4,4,1,NA,NA,Harvard,made,Chris Lewis,Justin Bassey,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,95,1,5:05,1505,1805,Foul on Chris Lewis.,22,17,5,14,0.6912390168324773,0.661184674282958,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,96,1,5:05,1505,1805,Myles Stephens missed Free Throw.,22,17,5,0,0.6912390168324773,0.661184674282958,4,4,1,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,97,1,5:05,1505,1805,Princeton Deadball Team Rebound.,22,17,5,0,0.6912390168324773,0.661184674282958,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,98,1,5:05,1505,1805,Myles Stephens made Free Throw.,23,17,6,0,0.7190256810986738,0.6904648879416382,4,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,99,1,4:53,1493,1793,Foul on Jerome Desrosiers.,23,17,6,12,0.7198185154828771,0.6913950887852507,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,100,1,4:39,1479,1779,Foul on Amir Bell.,23,17,6,14,0.7207687203860157,0.6925067729182237,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,101,1,4:39,1479,1779,Justin Bassey made Free Throw.,23,18,5,0,0.692741411658107,0.6629691817201717,4,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,102,1,4:39,1479,1779,Justin Bassey made Free Throw.,23,19,4,0,0.6632153982628496,0.6321015946834977,4,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,103,1,4:27,1467,1767,Devin Cannady made Dunk. Assisted by Aaron Young.,25,19,6,12,0.7216074116428779,0.6934849570754132,4,4,1,NA,NA,Princeton,made,Devin Cannady,Aaron Young,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,104,1,4:15,1455,1755,Justin Bassey made Layup.,25,21,4,12,0.6644126273421149,0.6335461164903512,4,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,105,1,3:59,1439,1739,Jerome Desrosiers missed Three Point Jumper.,25,21,4,16,0.6652381226531539,0.6345372617031436,4,4,1,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,106,1,3:59,1439,1739,Christian Juzang Defensive Rebound.,25,21,4,0,0.6652381226531539,0.6345372617031436,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,107,1,3:44,1424,1724,Justin Bassey Turnover.,25,21,4,15,0.6659846566540113,0.6354395231136698,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,108,1,3:44,1424,1724,Official TV Timeout,25,21,4,0,0.6659846566540113,0.6354395231136698,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,109,1,3:22,1402,1702,Myles Stephens made Layup.,27,21,6,22,0.7261954954662074,0.6988340201173426,4,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,110,1,2:58,1378,1678,Foul on Amir Bell.,27,21,6,24,0.727778650782627,0.7006966240597006,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,111,1,2:55,1375,1675,Seth Towns missed Three Point Jumper.,27,21,6,3,0.7279745263720779,0.7009274643550919,4,4,1,NA,NA,Harvard,missed,Seth Towns,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,112,1,2:55,1375,1675,Justin Bassey Offensive Rebound.,27,21,6,0,0.7279745263720779,0.7009274643550919,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,113,1,2:29,1349,1649,Seth Towns missed Layup.,27,21,6,26,0.7296692033801296,0.702926114963647,4,4,1,NA,NA,Harvard,missed,Seth Towns,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,114,1,2:29,1349,1649,Devin Cannady Defensive Rebound.,27,21,6,0,0.7296692033801296,0.702926114963647,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,115,1,2:07,1327,1627,Foul on Myles Stephens.,27,21,6,22,0.7311202443238368,0.7046365370999681,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,116,1,2:07,1327,1627,Myles Stephens Turnover.,27,21,6,0,0.7311202443238368,0.7046365370999681,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,117,1,1:46,1306,1606,Chris Lewis made Dunk. Assisted by Christian Juzang.,27,23,4,21,0.6715178009544209,0.6422222369674488,4,4,1,NA,NA,Harvard,made,Chris Lewis,Christian Juzang,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,118,1,1:33,1293,1593,Princeton  Timeout,27,23,4,13,0.6721645375038162,0.643010425914239,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,119,1,1:28,1288,1588,Amir Bell missed Three Point Jumper.,27,23,4,5,0.6724188480445383,0.6433193973855099,3,4,1,NA,NA,Princeton,missed,Amir Bell,NA,TRUE,FALSE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,120,1,1:28,1288,1588,Myles Stephens Offensive Rebound.,27,23,4,0,0.6724188480445383,0.6433193973855099,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,121,1,1:26,1286,1586,Myles Stephens Turnover.,27,23,4,2,0.6725215195092795,0.6434439743585297,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,122,1,1:05,1265,1565,Foul on Sebastian Much.,27,23,4,21,0.6736361692801677,0.6447901136618193,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,123,1,1:05,1265,1565,Justin Bassey made Free Throw.,27,24,3,0,0.6400597184738857,0.6099642651731945,3,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,124,1,1:05,1265,1565,Justin Bassey made Free Throw.,27,25,2,0,0.605054162932835,0.5739799384781094,3,4,1,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,125,1,0:53,1253,1553,Myles Stephens Turnover.,27,25,2,12,0.6053638834340599,0.5744095627322446,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,126,1,0:52,1252,1552,Chris Lewis Steal.,27,25,2,1,0.6053903858105179,0.5744460673606648,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,127,1,0:50,1250,1550,Chris Lewis made Dunk.,27,27,0,2,0.5319278141528861,0.5,3,4,1,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,128,1,0:17,1217,1517,Foul on Christian Juzang.,27,27,0,33,0.5316133278891891,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,129,1,0:02,1202,1502,Myles Stephens made Three Point Jumper.,30,27,3,15,0.6429599011824103,0.6135317766038629,3,4,1,NA,NA,Princeton,made,Myles Stephens,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,130,1,0:00,1200,1500,End of 1st half,30,27,3,2,0.6430590480619935,0.6136521367497382,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,NA
+400991660,2018-02-23,Princeton,Harvard,131,2,20:00,1200,1500,PLAY,30,27,3,0,0.6430590480619935,0.6136521367497382,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+400991660,2018-02-23,Princeton,Harvard,132,2,19:44,1184,1484,Devin Cannady made Layup.,32,27,5,16,0.7116025457178274,0.685207256592678,4,4,1,NA,NA,Princeton,made,Devin Cannady,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,133,2,19:19,1159,1459,Corey Johnson missed Three Point Jumper.,32,27,5,25,0.7134806303062982,0.6873825596237274,4,4,1,NA,NA,Harvard,missed,Corey Johnson,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,134,2,19:19,1159,1459,Sebastian Much Defensive Rebound.,32,27,5,0,0.7134806303062982,0.6873825596237274,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,135,2,18:47,1127,1427,Aaron Young missed Layup.,32,27,5,32,0.7158294262267167,0.6901065974524085,4,4,1,NA,NA,Princeton,missed,Aaron Young,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,136,2,18:47,1127,1427,Seth Towns Defensive Rebound.,32,27,5,0,0.7158294262267167,0.6901065974524085,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,137,2,18:28,1108,1408,Foul on Aaron Young.,32,27,5,19,0.7172283116370195,0.6917279286720982,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,138,2,18:28,1108,1408,Foul on Amir Bell.,32,27,5,0,0.7172283116370195,0.6917279286720982,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,139,2,18:19,1099,1399,Justin Bassey Turnover.,32,27,5,9,0.7178988615265857,0.6925042461080666,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,140,2,18:18,1098,1398,Sebastian Much Steal.,32,27,5,1,0.7179738105876864,0.6925909722842625,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,141,2,18:14,1094,1394,Myles Stephens made Layup. Assisted by Sebastian Much.,34,27,7,4,0.7792803150738491,0.7575792721970503,4,4,1,NA,NA,Princeton,made,Myles Stephens,Sebastian Much,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,142,2,17:59,1079,1379,Chris Lewis made Layup.,34,29,5,15,0.7194195671615135,0.6942618039410059,4,4,1,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,143,2,17:38,1058,1358,Sebastian Much missed Three Point Jumper.,34,29,5,21,0.7210806147437853,0.6961756132160999,4,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,144,2,17:38,1058,1358,Justin Bassey Defensive Rebound.,34,29,5,0,0.7210806147437853,0.6961756132160999,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,145,2,17:19,1039,1339,Justin Bassey Turnover.,34,29,5,19,0.7226599697968288,0.6979886921823673,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,146,2,17:00,1020,1320,Jerome Desrosiers missed Three Point Jumper.,34,29,5,19,0.7243301238366598,0.6998986896790245,4,4,1,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,147,2,17:00,1020,1320,Corey Johnson Defensive Rebound.,34,29,5,0,0.7243301238366598,0.6998986896790245,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,148,2,16:43,1003,1303,Corey Johnson missed Three Point Jumper.,34,29,5,17,0.7259154833559542,0.701704878428278,4,4,1,NA,NA,Harvard,missed,Corey Johnson,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,149,2,16:43,1003,1303,Seth Towns Offensive Rebound.,34,29,5,0,0.7259154833559542,0.701704878428278,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,150,2,16:38,998,1298,Seth Towns made Two Point Tip Shot.,34,31,3,5,0.653216676736916,0.6259397310776742,4,4,1,NA,NA,Harvard,made,Seth Towns,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,151,2,16:20,980,1280,Myles Stephens made Three Point Jumper. Assisted by Jerome Desrosiers.,37,31,6,18,0.7611866789800769,0.7391465626638178,4,4,1,NA,NA,Princeton,made,Myles Stephens,Jerome Desrosiers,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,152,2,15:57,957,1257,Seth Towns missed Layup.,37,31,6,23,0.763885292838195,0.7421847232251916,4,4,1,NA,NA,Harvard,missed,Seth Towns,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,153,2,15:57,957,1257,Myles Stephens Block.,37,31,6,0,0.763885292838195,0.7421847232251916,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,154,2,15:56,956,1256,Devin Cannady Defensive Rebound.,37,31,6,1,0.7639965866181688,0.7423101625481475,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,155,2,15:50,950,1250,Foul on Henry Welsh.,37,31,6,6,0.7646509184885751,0.743048032776889,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,156,2,15:50,950,1250,Official TV Timeout,37,31,6,0,0.7646509184885751,0.743048032776889,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,157,2,15:50,950,1250,Jerome Desrosiers made Free Throw.,38,31,7,0,0.7949993480963736,0.7753637953184734,4,4,1,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,158,2,15:50,950,1250,Jerome Desrosiers made Free Throw.,39,31,8,0,0.8223435645478316,0.8046836541768286,4,4,1,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,159,2,15:39,939,1239,Christian Juzang missed Jumper.,39,31,8,11,0.8236012376562112,0.8061007053199466,4,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,160,2,15:39,939,1239,Myles Stephens Defensive Rebound.,39,31,8,0,0.8236012376562112,0.8061007053199466,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,161,2,15:20,920,1220,Myles Stephens made Layup.,41,31,10,19,0.8715530906699851,0.8580721912137547,4,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,162,2,14:56,896,1196,Christian Juzang missed Three Point Jumper.,41,31,10,24,0.8738612581529945,0.8606822670698696,4,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,163,2,14:56,896,1196,Henry Welsh Offensive Rebound.,41,31,10,0,0.8738612581529945,0.8606822670698696,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,164,2,14:49,889,1189,Justin Bassey made Three Point Jumper. Assisted by Henry Welsh.,41,34,7,7,0.8011194669759242,0.7822742429725402,4,4,1,NA,NA,Harvard,made,Justin Bassey,Henry Welsh,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,165,2,14:21,861,1161,Foul on Myles Stephens.,41,34,7,28,0.8036950070529311,0.7851849434317186,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,166,2,14:21,861,1161,Myles Stephens Turnover.,41,34,7,0,0.8036950070529311,0.7851849434317186,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,167,2,14:06,846,1146,Danilo Djuricic missed Jumper.,41,34,7,15,0.8051122745010715,0.7867841104860085,4,4,1,NA,NA,Harvard,missed,Danilo Djuricic,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,168,2,14:06,846,1146,Amir Bell Defensive Rebound.,41,34,7,0,0.8051122745010715,0.7867841104860085,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,169,2,13:58,838,1138,Sebastian Much missed Jumper.,41,34,7,8,0.8058920119385353,0.7876628119724383,4,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,170,2,13:58,838,1138,Henry Welsh Defensive Rebound.,41,34,7,0,0.8058920119385353,0.7876628119724383,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,171,2,13:41,821,1121,Henry Welsh missed Layup.,41,34,7,17,0.8076272526647617,0.7896151205619165,4,4,1,NA,NA,Harvard,missed,Henry Welsh,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,172,2,13:41,821,1121,Sebastian Much Defensive Rebound.,41,34,7,0,0.8076272526647617,0.7896151205619165,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,173,2,13:39,819,1119,Foul on Henry Welsh.,41,34,7,2,0.8078397715979262,0.7898539164051435,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,174,2,13:20,800,1100,Devin Cannady missed Three Point Jumper.,41,34,7,19,0.809966405259352,0.7922398884055285,4,4,1,NA,NA,Princeton,missed,Devin Cannady,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,175,2,13:20,800,1100,Christian Juzang Defensive Rebound.,41,34,7,0,0.809966405259352,0.7922398884055285,4,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,176,2,13:15,795,1095,Danilo Djuricic made Three Point Jumper. Assisted by Christian Juzang.,41,37,4,5,0.7064685920318773,0.6829075473663458,4,4,1,NA,NA,Harvard,made,Danilo Djuricic,Christian Juzang,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,177,2,13:11,791,1091,Princeton  Timeout,41,37,4,4,0.7068329392468954,0.683320255721984,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,178,2,13:11,791,1091,Official TV Timeout,41,37,4,0,0.7068329392468954,0.683320255721984,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,179,2,12:53,773,1073,Sebastian Much missed Three Point Jumper.,41,37,4,18,0.7085904484721566,0.6853055350377721,3,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,180,2,12:53,773,1073,Justin Bassey Defensive Rebound.,41,37,4,0,0.7085904484721566,0.6853055350377721,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,181,2,12:45,765,1065,Danilo Djuricic missed Three Point Jumper.,41,37,4,8,0.7094397158519663,0.6862619554588159,3,4,1,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,182,2,12:45,765,1065,Devin Cannady Defensive Rebound.,41,37,4,0,0.7094397158519663,0.6862619554588159,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,183,2,12:37,757,1057,Foul on Justin Bassey.,41,37,4,8,0.7103351908898837,0.6872686388172929,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,184,2,12:22,742,1042,Myles Stephens made Layup. Assisted by Devin Cannady.,43,37,6,15,0.786553677436896,0.7676864991652175,3,4,1,NA,NA,Princeton,made,Myles Stephens,Devin Cannady,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,185,2,12:02,722,1022,Christian Juzang missed Three Point Jumper.,43,37,6,20,0.7898811497757264,0.7713849171279173,3,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,186,2,12:02,722,1022,Amir Bell Defensive Rebound.,43,37,6,0,0.7898811497757264,0.7713849171279173,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,187,2,11:41,701,1001,Sebastian Much missed Three Point Jumper.,43,37,6,21,0.7930076740606548,0.7748727226161987,3,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,188,2,11:41,701,1001,Rio Haskett Defensive Rebound.,43,37,6,0,0.7930076740606548,0.7748727226161987,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,189,2,11:15,675,975,Danilo Djuricic missed Layup.,43,37,6,26,0.796383006505892,0.7786559518698289,3,4,1,NA,NA,Harvard,missed,Danilo Djuricic,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,190,2,11:15,675,975,Chris Lewis Offensive Rebound.,43,37,6,0,0.796383006505892,0.7786559518698289,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,191,2,11:02,662,962,Justin Bassey Turnover.,43,37,6,13,0.7979766007805864,0.7804461455573333,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,192,2,11:02,662,962,Official TV Timeout,43,37,6,0,0.7979766007805864,0.7804461455573333,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,193,2,10:48,648,948,Foul on Chris Lewis.,43,37,6,14,0.799693567978179,0.7823751115510301,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,194,2,10:47,647,947,Devin Cannady missed Jumper.,43,37,6,1,0.7998176904853201,0.7825145057582183,3,4,1,NA,NA,Princeton,missed,Devin Cannady,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,195,2,10:47,647,947,Danilo Djuricic Defensive Rebound.,43,37,6,0,0.7998176904853201,0.7825145057582183,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,196,2,10:28,628,928,Chris Lewis made Layup. Assisted by Rio Haskett.,43,39,4,19,0.7247773716091547,0.7035698663828656,3,4,1,NA,NA,Harvard,made,Chris Lewis,Rio Haskett,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,197,2,10:08,608,908,Foul on Chris Lewis.,43,39,4,20,0.7271003542637673,0.7061924678769088,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,198,2,10:08,608,908,Foul on Rio Haskett.,43,39,4,0,0.7271003542637673,0.7061924678769088,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,199,2,9:57,597,897,Richmond Aririguzoh made Layup.,45,39,6,11,0.8068259514907621,0.7903530988436429,3,4,1,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,200,2,9:42,582,882,Rio Haskett missed Layup.,45,39,6,15,0.8094379958991337,0.7932563574735093,3,4,1,NA,NA,Harvard,missed,Rio Haskett,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,201,2,9:42,582,882,Chris Lewis Offensive Rebound.,45,39,6,0,0.8094379958991337,0.7932563574735093,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,202,2,9:34,574,874,Christian Juzang missed Layup.,45,39,6,8,0.8109669912206894,0.7949518881235009,3,4,1,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,203,2,9:34,574,874,Rio Haskett Offensive Rebound.,45,39,6,0,0.8109669912206894,0.7949518881235009,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,204,2,9:11,551,851,Rio Haskett made Three Point Jumper. Assisted by Chris Lewis.,45,42,3,23,0.6888260447921373,0.667007234737816,3,4,1,NA,NA,Harvard,made,Rio Haskett,Chris Lewis,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,205,2,8:55,535,835,Foul on Chris Lewis.,45,42,3,16,0.6912531414994297,0.669731085327957,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,206,2,8:55,535,835,Richmond Aririguzoh missed Free Throw.,45,42,3,0,0.6912531414994297,0.669731085327957,3,4,1,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,207,2,8:55,535,835,Princeton Deadball Team Rebound.,45,42,3,0,0.6912531414994297,0.669731085327957,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,208,2,8:55,535,835,Richmond Aririguzoh missed Free Throw.,45,42,3,0,0.6912531414994297,0.669731085327957,3,4,1,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,209,2,8:55,535,835,Seth Towns Defensive Rebound.,45,42,3,0,0.6912531414994297,0.669731085327957,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,210,2,8:25,505,805,Danilo Djuricic made Layup. Assisted by Christian Juzang.,45,44,1,30,0.5840232277322707,0.5602005427814128,3,4,1,NA,NA,Harvard,made,Danilo Djuricic,Christian Juzang,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,211,2,7:54,474,774,Richmond Aririguzoh Turnover.,45,44,1,31,0.5851860482441572,0.5618155235004082,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,212,2,7:53,473,773,Seth Towns Steal.,45,44,1,1,0.5852293063197134,0.56187408453082,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,213,2,7:39,459,759,Christian Juzang Turnover.,45,44,1,14,0.5859007543723117,0.5627673221822006,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,214,2,7:39,459,759,Myles Stephens Steal.,45,44,1,0,0.5859007543723117,0.5627673221822006,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,215,2,7:30,450,750,Foul on Christian Juzang.,45,44,1,9,0.5864117197334354,0.5634297672347335,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,216,2,7:30,450,750,Official TV Timeout,45,44,1,0,0.5864117197334354,0.5634297672347335,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,217,2,7:30,450,750,Myles Stephens made Free Throw.,46,44,2,0,0.646626796926516,0.6248502763377656,3,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,218,2,7:30,450,750,Myles Stephens made Free Throw.,47,44,3,0,0.7025223256852523,0.6824990404712643,3,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,219,2,7:13,433,733,Seth Towns missed Three Point Jumper.,47,44,3,17,0.706075254516791,0.6864412285015804,3,4,1,NA,NA,Harvard,missed,Seth Towns,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,220,2,7:13,433,733,Devin Cannady Defensive Rebound.,47,44,3,0,0.706075254516791,0.6864412285015804,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,221,2,6:58,418,718,Sebastian Much made Three Point Jumper. Assisted by Aaron Young.,50,44,6,15,0.8448922272034215,0.8324893741621553,3,4,1,NA,NA,Princeton,made,Sebastian Much,Aaron Young,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,222,2,6:35,395,695,Henry Welsh made Layup.,50,46,4,23,0.7672454145860794,0.7508197162066859,3,4,1,NA,NA,Harvard,made,Henry Welsh,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,223,2,6:01,361,661,Myles Stephens made Three Point Jumper. Assisted by Devin Cannady.,53,46,7,34,0.891754752883906,0.8830874173660618,3,4,1,NA,NA,Princeton,made,Myles Stephens,Devin Cannady,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,224,2,5:44,344,644,Danilo Djuricic made Three Point Jumper. Assisted by Seth Towns.,53,49,4,17,0.7810927298356102,0.7661832131752562,3,4,1,NA,NA,Harvard,made,Danilo Djuricic,Seth Towns,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,225,2,5:40,340,640,Harvard  Timeout,53,49,4,4,0.7824277051828064,0.7676524512718775,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,226,2,5:20,320,620,Myles Stephens missed Layup.,53,49,4,20,0.7900006800695271,0.7759458905641907,3,3,1,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,227,2,5:20,320,620,Danilo Djuricic Block.,53,49,4,0,0.7900006800695271,0.7759458905641907,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,228,2,5:18,318,618,Seth Towns Defensive Rebound.,53,49,4,2,0.7908499746329974,0.7768721629659253,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,229,2,5:02,302,602,Foul on Amir Bell.,53,49,4,16,0.7972875777796385,0.7839091075801418,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,230,2,5:02,302,602,Seth Towns made Free Throw.,53,50,3,0,0.7402519758969687,0.7244104382247627,3,3,1,NA,NA,Harvard,made,Seth Towns,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,231,2,5:02,302,602,Seth Towns made Free Throw.,53,51,2,0,0.6737357031343798,0.655724152056818,3,3,1,NA,NA,Harvard,made,Seth Towns,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,232,2,5:02,302,602,Seth Towns made Free Throw.,53,52,1,0,0.5994038180212774,0.5798477663254148,3,3,1,NA,NA,Harvard,made,Seth Towns,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,233,2,4:43,283,583,Jerome Desrosiers missed Three Point Jumper.,53,52,1,19,0.5995079628666686,0.5804376497623287,3,3,1,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,234,2,4:43,283,583,Rio Haskett Defensive Rebound.,53,52,1,0,0.5995079628666686,0.5804376497623287,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,235,2,4:26,266,566,Foul on Aaron Young.,53,52,1,17,0.5981491633403501,0.5794947133140889,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,236,2,4:07,247,547,Henry Welsh missed Layup.,53,52,1,19,0.5963762499661285,0.5781984461849169,3,3,1,NA,NA,Harvard,missed,Henry Welsh,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,237,2,4:07,247,547,Richmond Aririguzoh Block.,53,52,1,0,0.5963762499661285,0.5781984461849169,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,238,2,4:06,246,546,Harvard Deadball Team Rebound.,53,52,1,1,0.5963025061364368,0.5781507410697039,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,239,2,4:06,246,546,Harvard  Turnover.,53,52,1,0,0.5963025061364368,0.5781507410697039,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,240,2,3:49,229,529,Amir Bell made Layup.,55,52,3,17,0.7345059838997653,0.720037774507312,3,3,1,NA,NA,Princeton,made,Amir Bell,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,241,2,3:25,205,505,Justin Bassey made Three Point Jumper.,55,55,0,24,0.5174888170172833,0.5,3,3,1,NA,NA,Harvard,made,Justin Bassey,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,242,2,3:09,189,489,Jerome Desrosiers made Three Point Jumper. Assisted by Amir Bell.,58,55,3,16,0.7573962869206727,0.744721923574801,3,3,1,NA,NA,Princeton,made,Jerome Desrosiers,Amir Bell,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,243,2,2:53,173,473,Justin Bassey made Three Point Jumper.,58,58,0,16,0.5163684521527301,0.5,3,3,1,NA,NA,Harvard,made,Justin Bassey,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,244,2,2:32,152,452,Amir Bell made Layup.,60,58,2,21,0.7192121729852516,0.7064481927010113,3,3,1,NA,NA,Princeton,made,Amir Bell,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,245,2,2:32,152,452,Foul on Henry Welsh.,60,58,2,0,0.7192121729852516,0.7064481927010113,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,246,2,2:32,152,452,Official TV Timeout,60,58,2,0,0.7192121729852516,0.7064481927010113,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,247,2,2:32,152,452,Amir Bell missed Free Throw.,60,58,2,0,0.7192121729852516,0.7064481927010113,3,3,1,NA,NA,Princeton,missed,Amir Bell,NA,FALSE,TRUE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,248,2,2:32,152,452,Justin Bassey Defensive Rebound.,60,58,2,0,0.7192121729852516,0.7064481927010113,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,249,2,2:21,141,441,Danilo Djuricic missed Three Point Jumper.,60,58,2,11,0.7302525373227491,0.7181383098238071,3,3,1,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,250,2,2:21,141,441,Aaron Young Defensive Rebound.,60,58,2,0,0.7302525373227491,0.7181383098238071,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,251,2,1:49,109,409,Sebastian Much missed Three Point Jumper.,60,58,2,32,0.767865830858389,0.7578404102061016,3,3,1,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,252,2,1:49,109,409,Seth Towns Defensive Rebound.,60,58,2,0,0.767865830858389,0.7578404102061016,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,253,2,1:27,87,387,Seth Towns made Layup.,60,60,0,22,0.512884924489079,0.5,3,3,1,NA,NA,Harvard,made,Seth Towns,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,254,2,1:17,77,377,Princeton  Timeout,60,60,0,10,0.5124299812008024,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,255,2,1:05,65,365,Devin Cannady missed Three Point Jumper.,60,60,0,12,0.5118682922746954,0.5,2,3,1,NA,NA,Princeton,missed,Devin Cannady,NA,TRUE,FALSE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,256,2,1:05,65,365,Sebastian Much Offensive Rebound.,60,60,0,0,0.5118682922746954,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,257,2,0:34,34,334,Sebastian Much Turnover.,60,60,0,31,0.5103456489813438,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,258,2,0:04,4,304,Justin Bassey missed Three Point Jumper.,60,60,0,30,0.508766899956733,0.5,2,3,1,NA,NA,Harvard,missed,Justin Bassey,NA,TRUE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,259,2,0:04,4,304,Harvard Deadball Team Rebound.,60,60,0,0,0.508766899956733,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,260,2,0:04,4,304,Harvard  Turnover.,60,60,0,0,0.508766899956733,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,261,2,0:00,300,300,End of 2nd half,60,60,0,4,0.520144764838555,0.5,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA
+400991660,2018-02-23,Princeton,Harvard,262,3,5:00,300,300,PLAY,60,60,0,0,0.520144764838555,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+400991660,2018-02-23,Princeton,Harvard,263,3,4:39,279,279,Chris Lewis made Layup. Assisted by Christian Juzang.,60,62,-2,21,0.36134026952074844,0.3434451280283235,3,4,1,NA,NA,Harvard,made,Chris Lewis,Christian Juzang,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,264,3,4:28,268,268,Foul on Danilo Djuricic.,60,62,-2,11,0.3623178611487994,0.34466141527900723,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,265,3,4:28,268,268,Myles Stephens made Free Throw.,61,62,-1,0,0.439295111018085,0.4203602403919705,3,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,266,3,4:28,268,268,Myles Stephens made Free Throw.,62,62,0,0,0.5193082554278302,0.5,3,4,1,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,267,3,4:21,261,261,Foul on Richmond Aririguzoh.,62,62,0,7,0.5191225049568537,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,268,3,4:17,257,257,Justin Bassey missed Layup.,62,62,0,4,0.5190152844329686,0.5,3,4,1,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,269,3,4:17,257,257,Myles Stephens Block.,62,62,0,0,0.5190152844329686,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,270,3,4:16,256,256,Justin Bassey Offensive Rebound.,62,62,0,1,0.5189883368274197,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,271,3,4:06,246,246,Foul on Aaron Young.,62,62,0,10,0.5187151750988848,0.5,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,272,3,4:06,246,246,Danilo Djuricic made Free Throw.,62,63,-1,0,0.44021466475521476,0.42184925893029623,3,4,1,NA,NA,Harvard,made,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Harvard
+400991660,2018-02-23,Princeton,Harvard,273,3,4:06,246,246,Danilo Djuricic made Free Throw.,62,64,-2,0,0.36459452646738827,0.34742592588375304,3,4,1,NA,NA,Harvard,made,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,274,3,3:52,232,232,Foul on Chris Lewis.,62,64,-2,14,0.3645792761447679,0.34777114652866264,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,275,3,3:52,232,232,Richmond Aririguzoh missed Free Throw.,62,64,-2,0,0.3645792761447679,0.34777114652866264,3,4,1,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,276,3,3:52,232,232,Princeton Deadball Team Rebound.,62,64,-2,0,0.3645792761447679,0.34777114652866264,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,277,3,3:52,232,232,Richmond Aririguzoh missed Free Throw.,62,64,-2,0,0.3645792761447679,0.34777114652866264,3,4,1,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,278,3,3:52,232,232,Seth Towns Defensive Rebound.,62,64,-2,0,0.3645792761447679,0.34777114652866264,3,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,279,3,3:32,212,212,Henry Welsh made Layup. Assisted by Christian Juzang.,62,66,-4,20,0.2274712190300941,0.21525584815280954,3,4,1,NA,NA,Harvard,made,Henry Welsh,Christian Juzang,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,280,3,3:24,204,204,Princeton  Timeout,62,66,-4,8,0.22149022402199287,0.2096799548842594,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,281,3,3:14,194,194,Myles Stephens missed Layup.,62,66,-4,10,0.21090822222103087,0.19973336246082374,2,4,1,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,282,3,3:14,194,194,Seth Towns Block.,62,66,-4,0,0.21090822222103087,0.19973336246082374,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,283,3,3:13,193,193,Seth Towns Defensive Rebound.,62,66,-4,1,0.20965178065938897,0.19854886003835184,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Harvard
+400991660,2018-02-23,Princeton,Harvard,284,3,2:47,167,167,Rio Haskett made Layup.,62,68,-6,26,0.08635451389119946,0.08139091602238317,2,4,1,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Princeton
+400991660,2018-02-23,Princeton,Harvard,285,3,2:31,151,151,Foul on Danilo Djuricic.,62,68,-6,16,0.06996133171129786,0.06602033537629716,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,286,3,2:31,151,151,Sebastian Much missed Free Throw.,62,68,-6,0,0.06996133171129786,0.06602033537629716,2,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,287,3,2:31,151,151,Princeton Deadball Team Rebound.,62,68,-6,0,0.06996133171129786,0.06602033537629716,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,288,3,2:31,151,151,Sebastian Much missed Free Throw.,62,68,-6,0,0.06996133171129786,0.06602033537629716,2,4,1,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,TRUE,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,289,3,2:31,151,151,Danilo Djuricic Defensive Rebound.,62,68,-6,0,0.06996133171129786,0.06602033537629716,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,290,3,2:12,132,132,Foul on Christian Juzang.,62,68,-6,19,0.052152034245815306,0.04930060379077026,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+400991660,2018-02-23,Princeton,Harvard,291,3,2:12,132,132,Christian Juzang Turnover.,62,68,-6,0,0.052152034245815306,0.04930060379077026,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Princeton

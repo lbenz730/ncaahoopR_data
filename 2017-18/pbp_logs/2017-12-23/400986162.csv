@@ -1,0 +1,278 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400986162,2017-12-23,Hawai'i,Miami,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,2,1,19:43,2383,2383,Michael Thomas Turnover.,0,0,0,17,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,3,1,19:42,2382,2382,Dewan Huell Steal.,0,0,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,4,1,19:18,2358,2358,Ja'Quan Newton missed Layup.,0,0,0,24,0.5,0.5,4,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,5,1,19:18,2358,2358,Gibson Johnson Defensive Rebound.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,6,1,19:15,2355,2355,Foul on Ja'Quan Newton.,0,0,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,7,1,19:01,2341,2341,Michael Thomas missed Jumper.,0,0,0,14,0.5,0.5,4,4,NA,NA,NA,NA,missed,Michael Thomas,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,8,1,19:01,2341,2341,Dewan Huell Defensive Rebound.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,9,1,18:50,2330,2330,Anthony Lawrence II made Layup.,0,2,-2,11,0.4544740680669303,0.4544740680669303,4,4,NA,NA,NA,Miami,made,Anthony Lawrence II,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,10,1,18:33,2313,2313,Leland Green made Jumper.,2,2,0,17,0.5,0.5,4,4,NA,NA,NA,Hawai'i,made,Leland Green,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,11,1,18:08,2288,2288,Ja'Quan Newton made Layup.,2,4,-2,25,0.4535453277550481,0.4535453277550481,4,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,12,1,17:55,2275,2275,Leland Green Turnover.,2,4,-2,13,0.4532542448184906,0.4532542448184906,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,13,1,17:37,2257,2257,Foul on Michael Thomas.,2,4,-2,18,0.4528487422387647,0.4528487422387647,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,14,1,17:37,2257,2257,Dewan Huell made Jumper.,2,6,-4,0,0.40652872123517303,0.40652872123517303,4,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,15,1,17:03,2223,2223,Drew Buggs missed Three Point Jumper.,2,6,-4,34,0.4050245057678152,0.4050245057678152,4,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,16,1,17:03,2223,2223,Dejan Vasiljevic Defensive Rebound.,2,6,-4,0,0.4050245057678152,0.4050245057678152,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,17,1,16:54,2214,2214,Dewan Huell made Layup. Assisted by Bruce Brown Jr..,2,8,-6,9,0.35908171655760157,0.35908171655760157,4,4,NA,NA,NA,Miami,made,Dewan Huell,Bruce Brown Jr,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,18,1,16:41,2201,2201,Jack Purchase missed Three Point Jumper.,2,8,-6,13,0.3582510621078522,0.3582510621078522,4,4,NA,NA,NA,Hawai'i,missed,Jack Purchase,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,19,1,16:41,2201,2201,Bruce Brown Jr. Defensive Rebound.,2,8,-6,0,0.3582510621078522,0.3582510621078522,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,20,1,16:23,2183,2183,Ja'Quan Newton made Layup.,2,10,-8,18,0.313463999147935,0.313463999147935,4,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,21,1,16:21,2181,2181,Hawai'i  Timeout,2,10,-8,2,0.31330373525951943,0.31330373525951943,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,22,1,15:56,2156,2156,Sheriff Drammeh made Three Point Jumper. Assisted by Jack Purchase.,5,10,-5,25,0.3784140421149803,0.3784140421149803,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,Jack Purchase,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,23,1,15:24,2124,2124,Bruce Brown Jr. missed Jumper.,5,10,-5,32,0.3766419732809665,0.3766419732809665,3,4,NA,NA,NA,Miami,missed,Bruce Brown Jr.,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,24,1,15:24,2124,2124,Jack Purchase Defensive Rebound.,5,10,-5,0,0.3766419732809665,0.3766419732809665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,25,1,15:05,2105,2105,Jack Purchase missed Three Point Jumper.,5,10,-5,19,0.3755812235620271,0.3755812235620271,3,4,NA,NA,NA,Hawai'i,missed,Jack Purchase,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,26,1,15:05,2105,2105,Miami Deadball Team Rebound.,5,10,-5,0,0.3755812235620271,0.3755812235620271,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,27,1,14:50,2090,2090,Anthony Lawrence II missed Jumper.,5,10,-5,15,0.37473884903059923,0.37473884903059923,3,4,NA,NA,NA,Miami,missed,Anthony Lawrence II,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,28,1,14:50,2090,2090,Jack Purchase Defensive Rebound.,5,10,-5,0,0.37473884903059923,0.37473884903059923,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,29,1,14:39,2079,2079,Jack Purchase Turnover.,5,10,-5,11,0.3741181764627642,0.3741181764627642,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,30,1,14:38,2078,2078,Lonnie Walker IV Steal.,5,10,-5,1,0.37406162466474563,0.37406162466474563,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,31,1,14:37,2077,2077,Lonnie Walker IV Turnover.,5,10,-5,1,0.3740050513742312,0.3740050513742312,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,32,1,14:36,2076,2076,Drew Buggs Steal.,5,10,-5,1,0.3739484565168511,0.3739484565168511,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,33,1,14:35,2075,2075,Gibson Johnson made Layup. Assisted by Leland Green.,7,10,-3,1,0.4232773232300356,0.4232773232300356,3,4,NA,NA,NA,Hawai'i,made,Gibson Johnson,Leland Green,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,34,1,14:15,2055,2055,Dewan Huell missed Jumper.,7,10,-3,20,0.4225656614594239,0.4225656614594239,3,4,NA,NA,NA,Miami,missed,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,35,1,14:15,2055,2055,Leland Green Defensive Rebound.,7,10,-3,0,0.4225656614594239,0.4225656614594239,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,36,1,13:46,2026,2026,Sheriff Drammeh missed Three Point Jumper.,7,10,-3,29,0.42152232687132624,0.42152232687132624,3,4,NA,NA,NA,Hawai'i,missed,Sheriff Drammeh,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,37,1,13:46,2026,2026,Anthony Lawrence II Defensive Rebound.,7,10,-3,0,0.42152232687132624,0.42152232687132624,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,38,1,13:39,2019,2019,Anthony Lawrence II made Layup.,7,12,-5,7,0.3706844942470216,0.3706844942470216,3,4,NA,NA,NA,Miami,made,Anthony Lawrence II,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,39,1,13:07,1987,1987,Foul on Bruce Brown Jr..,7,12,-5,32,0.36881617547940515,0.36881617547940515,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,40,1,12:58,1978,1978,Brocke Stepteau made Three Point Jumper. Assisted by Sheriff Drammeh.,10,12,-2,9,0.4462506308031193,0.4462506308031193,3,4,NA,NA,NA,Hawai'i,made,Brocke Stepteau,Sheriff Drammeh,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,41,1,12:37,1957,1957,Foul on Brocke Stepteau.,10,12,-2,21,0.44572046092832907,0.44572046092832907,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,42,1,12:26,1946,1946,Ja'Quan Newton missed Jumper.,10,12,-2,11,0.44544024862386306,0.44544024862386306,3,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,43,1,12:26,1946,1946,Jack Purchase Defensive Rebound.,10,12,-2,0,0.44544024862386306,0.44544024862386306,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,44,1,12:02,1922,1922,Drew Buggs made Three Point Jumper. Assisted by Jack Purchase.,13,12,1,24,0.5276728612604832,0.5276728612604832,3,4,NA,NA,NA,Hawai'i,made,Drew Buggs,Jack Purchase,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,45,1,11:32,1892,1892,Official TV Timeout,13,12,1,30,0.5280621840448054,0.5280621840448054,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,46,1,11:28,1888,1888,Bruce Brown Jr. missed Jumper.,13,12,1,4,0.5281140685260627,0.5281140685260627,3,4,NA,NA,NA,Miami,missed,Bruce Brown Jr.,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,47,1,11:28,1888,1888,Ebuka Izundu Offensive Rebound.,13,12,1,0,0.5281140685260627,0.5281140685260627,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,48,1,11:26,1886,1886,Ebuka Izundu missed Jumper.,13,12,1,2,0.5281400141322726,0.5281400141322726,3,4,NA,NA,NA,Miami,missed,Ebuka Izundu,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,49,1,11:26,1886,1886,Chris Lykes Offensive Rebound.,13,12,1,0,0.5281400141322726,0.5281400141322726,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,50,1,11:24,1884,1884,Chris Lykes made Jumper.,13,14,-1,2,0.47183403718956746,0.47183403718956746,3,4,NA,NA,NA,Miami,made,Chris Lykes,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,51,1,11:04,1864,1864,Jack Purchase made Three Point Jumper.,16,14,2,20,0.5566683529347572,0.5566683529347572,3,4,NA,NA,NA,Hawai'i,made,Jack Purchase,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,52,1,10:45,1845,1845,Chris Lykes Turnover.,16,14,2,19,0.5571589544419538,0.5571589544419538,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,53,1,10:33,1833,1833,Ido Flaisher made Dunk. Assisted by Sheriff Drammeh.,18,14,4,12,0.6134415987289824,0.6134415987289824,3,4,NA,NA,NA,Hawai'i,made,Ido Flaisher,Sheriff Drammeh,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,54,1,10:11,1811,1811,Dejan Vasiljevic missed Jumper.,18,14,4,22,0.6145451260217568,0.6145451260217568,3,4,NA,NA,NA,Miami,missed,Dejan Vasiljevic,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,55,1,10:11,1811,1811,Dejan Vasiljevic Offensive Rebound.,18,14,4,0,0.6145451260217568,0.6145451260217568,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,56,1,10:09,1809,1809,Dejan Vasiljevic missed Jumper.,18,14,4,2,0.6146459462985063,0.6146459462985063,3,4,NA,NA,NA,Miami,missed,Dejan Vasiljevic,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,57,1,10:09,1809,1809,Ebuka Izundu Offensive Rebound.,18,14,4,0,0.6146459462985063,0.6146459462985063,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,58,1,10:05,1805,1805,Ebuka Izundu missed Jumper.,18,14,4,4,0.614847869237158,0.614847869237158,3,4,NA,NA,NA,Miami,missed,Ebuka Izundu,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,59,1,10:05,1805,1805,Hawai'i Deadball Team Rebound.,18,14,4,0,0.614847869237158,0.614847869237158,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,60,1,10:03,1803,1803,Foul on Ebuka Izundu.,18,14,4,2,0.614948976545666,0.614948976545666,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,61,1,9:46,1786,1786,Samuta Avea Turnover.,18,14,4,17,0.6158126732630939,0.6158126732630939,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,62,1,9:34,1774,1774,Dejan Vasiljevic missed Three Point Jumper.,18,14,4,12,0.6164274781954551,0.6164274781954551,3,4,NA,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,63,1,9:34,1774,1774,Jack Purchase Defensive Rebound.,18,14,4,0,0.6164274781954551,0.6164274781954551,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,64,1,9:22,1762,1762,Ido Flaisher Turnover.,18,14,4,12,0.6170471024165468,0.6170471024165468,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,65,1,9:20,1760,1760,Anthony Lawrence II Steal.,18,14,4,2,0.6171508766093694,0.6171508766093694,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,66,1,9:17,1757,1757,Anthony Lawrence II made Jumper. Assisted by Bruce Brown Jr..,18,16,2,3,0.5594835414164011,0.5594835414164011,3,4,NA,NA,NA,Miami,made,Anthony Lawrence II,Bruce Brown Jr,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,67,1,9:17,1757,1757,Foul on Jack Purchase.,18,16,2,0,0.5594835414164011,0.5594835414164011,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,68,1,9:17,1757,1757,Anthony Lawrence II made Free Throw.,18,17,1,0,0.5298477571267254,0.5298477571267254,3,4,NA,NA,NA,Miami,made,Anthony Lawrence II,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,69,1,9:06,1746,1746,Sheriff Drammeh missed Three Point Jumper.,18,17,1,11,0.5299993274547108,0.5299993274547108,3,4,NA,NA,NA,Hawai'i,missed,Sheriff Drammeh,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,70,1,9:06,1746,1746,Chris Lykes Defensive Rebound.,18,17,1,0,0.5299993274547108,0.5299993274547108,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,71,1,8:44,1724,1724,Anthony Lawrence II made Dunk.,18,19,-1,22,0.46969320759603245,0.46969320759603245,3,4,NA,NA,NA,Miami,made,Anthony Lawrence II,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,72,1,8:26,1706,1706,Foul on Anthony Lawrence II.,18,19,-1,18,0.46943688262116656,0.46943688262116656,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,73,1,8:26,1706,1706,Michael Thomas missed Free Throw.,18,19,-1,0,0.46943688262116656,0.46943688262116656,3,4,NA,NA,NA,NA,missed,Michael Thomas,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,74,1,8:26,1706,1706,Hawai'i Deadball Team Rebound.,18,19,-1,0,0.46943688262116656,0.46943688262116656,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,75,1,8:26,1706,1706,Michael Thomas made Free Throw.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,made,Michael Thomas,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,76,1,8:10,1690,1690,Foul on Samuta Avea.,19,19,0,16,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,77,1,8:09,1689,1689,Chris Lykes missed Jumper.,19,19,0,1,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Chris Lykes,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,78,1,8:09,1689,1689,Sheriff Drammeh Defensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,79,1,7:48,1668,1668,Samuta Avea missed Three Point Jumper.,19,19,0,21,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Samuta Avea,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,80,1,7:48,1668,1668,Chris Lykes Defensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,81,1,7:40,1660,1660,Foul on Brocke Stepteau.,19,19,0,8,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,82,1,7:40,1660,1660,Official TV Timeout,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,83,1,7:32,1652,1652,Anthony Lawrence II missed Three Point Jumper.,19,19,0,8,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Anthony Lawrence II,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,84,1,7:32,1652,1652,Michael Thomas Defensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,85,1,7:20,1640,1640,Drew Buggs missed Layup.,19,19,0,12,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,86,1,7:20,1640,1640,Dewan Huell Block.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,87,1,7:19,1639,1639,Gibson Johnson Offensive Rebound.,19,19,0,1,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,88,1,7:13,1633,1633,Michael Thomas Turnover.,19,19,0,6,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,89,1,7:13,1633,1633,Foul on Michael Thomas.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,90,1,6:56,1616,1616,Chris Lykes missed Jumper.,19,19,0,17,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Chris Lykes,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,91,1,6:56,1616,1616,Anthony Lawrence II Offensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,92,1,6:51,1611,1611,Bruce Brown Jr. missed Three Point Jumper.,19,19,0,5,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Bruce Brown Jr.,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,93,1,6:51,1611,1611,Jack Purchase Defensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,94,1,6:20,1580,1580,Gibson Johnson missed Layup.,19,19,0,31,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Gibson Johnson,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,95,1,6:20,1580,1580,Bruce Brown Jr. Defensive Rebound.,19,19,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,96,1,6:12,1572,1572,Dewan Huell made Dunk. Assisted by Bruce Brown Jr..,19,21,-2,8,0.43541535278541793,0.43541535278541793,3,4,NA,NA,NA,Miami,made,Dewan Huell,Bruce Brown Jr,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,97,1,5:55,1555,1555,Jack Purchase made Three Point Jumper. Assisted by Drew Buggs.,22,21,1,17,0.5326625864243282,0.5326625864243282,3,4,NA,NA,NA,Hawai'i,made,Jack Purchase,Drew Buggs,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,98,1,5:29,1529,1529,Dewan Huell missed Jumper.,22,21,1,26,0.5330289417930258,0.5330289417930258,3,4,NA,NA,NA,Miami,missed,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,99,1,5:29,1529,1529,Jack Purchase Defensive Rebound.,22,21,1,0,0.5330289417930258,0.5330289417930258,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,100,1,5:18,1518,1518,Jack Purchase missed Three Point Jumper.,22,21,1,11,0.5331877880822729,0.5331877880822729,3,4,NA,NA,NA,Hawai'i,missed,Jack Purchase,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,101,1,5:18,1518,1518,Miami Deadball Team Rebound.,22,21,1,0,0.5331877880822729,0.5331877880822729,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,102,1,5:15,1515,1515,Foul on Gibson Johnson.,22,21,1,3,0.5332315838629054,0.5332315838629054,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,103,1,5:15,1515,1515,Ja'Quan Newton made Free Throw.,22,22,0,0,0.5,0.5,3,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,TRUE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,104,1,5:15,1515,1515,Ja'Quan Newton made Free Throw.,22,23,-1,0,0.4667684161370946,0.4667684161370946,3,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,105,1,4:51,1491,1491,Ido Flaisher Turnover.,22,23,-1,24,0.46640961053711316,0.46640961053711316,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,106,1,4:25,1465,1465,Ja'Quan Newton missed Three Point Jumper.,22,23,-1,26,0.4660008262274409,0.4660008262274409,3,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,107,1,4:25,1465,1465,Jack Purchase Defensive Rebound.,22,23,-1,0,0.4660008262274409,0.4660008262274409,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,108,1,4:08,1448,1448,Drew Buggs missed Layup.,22,23,-1,17,0.4657201797752557,0.4657201797752557,3,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,109,1,4:08,1448,1448,Dewan Huell Block.,22,23,-1,0,0.4657201797752557,0.4657201797752557,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,110,1,4:06,1446,1446,Dewan Huell Defensive Rebound.,22,23,-1,2,0.4656868478448602,0.4656868478448602,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,111,1,3:59,1439,1439,Lonnie Walker IV made Three Point Jumper. Assisted by Ja'Quan Newton.,22,26,-4,7,0.3654627382968564,0.3654627382968564,3,4,NA,NA,NA,Miami,made,Lonnie Walker IV,Ja'Quan Newton,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,112,1,3:57,1437,1437,Foul on Lonnie Walker IV.,22,26,-4,2,0.36534087531580206,0.36534087531580206,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,113,1,3:57,1437,1437,Technical Foul on Lonnie Walker IV.,22,26,-4,0,0.36534087531580206,0.36534087531580206,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,114,1,3:57,1437,1437,Official TV Timeout,22,26,-4,0,0.36534087531580206,0.36534087531580206,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,115,1,3:57,1437,1437,Sheriff Drammeh made Free Throw.,23,26,-3,0,0.397907166126531,0.397907166126531,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,TRUE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,116,1,3:57,1437,1437,Sheriff Drammeh made Free Throw.,24,26,-2,0,0.4314031532608774,0.4314031532608774,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,TRUE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,117,1,3:57,1437,1437,Lonnie Walker IV Turnover.,24,26,-2,0,0.4314031532608774,0.4314031532608774,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,118,1,3:41,1421,1421,Sheriff Drammeh made Layup.,26,26,0,16,0.5,0.5,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,119,1,3:39,1419,1419,Foul on Bruce Brown Jr..,26,26,0,2,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,120,1,3:39,1419,1419,Sheriff Drammeh made Free Throw.,27,26,1,0,0.5347501007275346,0.5347501007275346,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,121,1,3:23,1403,1403,Lonnie Walker IV made Jumper.,27,28,-1,16,0.4649998899072028,0.4649998899072028,3,4,NA,NA,NA,Miami,made,Lonnie Walker IV,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,122,1,3:22,1402,1402,Foul on Jack Purchase.,27,28,-1,1,0.4649844237380495,0.4649844237380495,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,123,1,3:22,1402,1402,Lonnie Walker IV made Free Throw.,27,29,-2,0,0.43031062939964254,0.43031062939964254,3,4,NA,NA,NA,Miami,made,Lonnie Walker IV,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,124,1,3:07,1387,1387,Sheriff Drammeh made Layup.,29,29,0,15,0.5,0.5,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,125,1,2:43,1363,1363,Lonnie Walker IV missed Three Point Jumper.,29,29,0,24,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Lonnie Walker IV,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,126,1,2:43,1363,1363,Jack Purchase Defensive Rebound.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,127,1,2:28,1348,1348,Ido Flaisher missed Jumper.,29,29,0,15,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Ido Flaisher,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,128,1,2:28,1348,1348,Anthony Lawrence II Block.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,129,1,2:28,1348,1348,Hawai'i Offensive Rebound.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,130,1,2:18,1338,1338,Drew Buggs missed Three Point Jumper.,29,29,0,10,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,131,1,2:18,1338,1338,Anthony Lawrence II Defensive Rebound.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,132,1,2:03,1323,1323,Ja'Quan Newton Turnover.,29,29,0,15,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,133,1,2:02,1322,1322,Drew Buggs Steal.,29,29,0,1,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,134,1,1:58,1318,1318,Leland Green Turnover.,29,29,0,4,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,135,1,1:45,1305,1305,Chris Lykes missed Three Point Jumper.,29,29,0,13,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Chris Lykes,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,136,1,1:45,1305,1305,Hawai'i Defensive Rebound.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,137,1,1:31,1291,1291,Foul on Chris Lykes.,29,29,0,14,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,138,1,1:31,1291,1291,Drew Buggs missed Free Throw.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,139,1,1:31,1291,1291,Ebuka Izundu Defensive Rebound.,29,29,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,140,1,1:12,1272,1272,Ebuka Izundu made Dunk. Assisted by Lonnie Walker IV.,29,31,-2,19,0.4262639108807381,0.4262639108807381,3,4,NA,NA,NA,Miami,made,Ebuka Izundu,Lonnie Walker IV,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,141,1,1:04,1264,1264,Foul on Anthony Lawrence II.,29,31,-2,8,0.4259848330073558,0.4259848330073558,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,142,1,1:04,1264,1264,Drew Buggs made Free Throw.,30,31,-1,0,0.4627874277186192,0.4627874277186192,3,4,NA,NA,NA,Hawai'i,made,Drew Buggs,NA,FALSE,TRUE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,143,1,1:04,1264,1264,Drew Buggs made Free Throw.,31,31,0,0,0.5,0.5,3,4,NA,NA,NA,Hawai'i,made,Drew Buggs,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,144,1,0:45,1245,1245,Dewan Huell missed Jumper.,31,31,0,19,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Dewan Huell,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,145,1,0:45,1245,1245,Miami Offensive Rebound.,31,31,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,146,1,0:24,1224,1224,Chris Lykes made Layup.,31,33,-2,21,0.42448262532549014,0.42448262532549014,3,4,NA,NA,NA,Miami,made,Chris Lykes,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,147,1,0:16,1216,1216,Hawai'i  Timeout,31,33,-2,8,0.42415740411939645,0.42415740411939645,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,148,1,0:05,1205,1205,Sheriff Drammeh made Jumper.,33,33,0,11,0.5,0.5,2,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,150,2,20:00,1200,1200,PLAY,34,33,1,0,0.5384812553577752,0.5384812553577752,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,152,2,19:27,1167,1167,Foul on Gibson Johnson.,33,33,0,12,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,153,2,19:27,1167,1167,Dewan Huell made Free Throw.,33,34,-1,0,0.4608449956746037,0.4608449956746037,3,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,TRUE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,154,2,19:27,1167,1167,Dewan Huell made Free Throw.,33,35,-2,0,0.4221672970884116,0.4221672970884116,3,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,155,2,19:13,1153,1153,Leland Green made Three Point Jumper. Assisted by Drew Buggs.,36,35,1,14,0.5394330205564491,0.5394330205564491,3,4,NA,NA,NA,Hawai'i,made,Leland Green,Drew Buggs,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,156,2,18:48,1128,1128,Ja'Quan Newton Turnover.,36,35,1,25,0.539925839200829,0.539925839200829,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,157,2,18:37,1117,1117,Foul on Anthony Lawrence II.,36,35,1,11,0.5401434407631966,0.5401434407631966,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,158,2,18:22,1102,1102,Sheriff Drammeh missed Three Point Jumper.,36,35,1,15,0.5404431685535249,0.5404431685535249,3,4,NA,NA,NA,Hawai'i,missed,Sheriff Drammeh,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,159,2,18:22,1102,1102,Dejan Vasiljevic Defensive Rebound.,36,35,1,0,0.5404431685535249,0.5404431685535249,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,160,2,18:10,1090,1090,Dewan Huell made Jumper.,36,37,-1,12,0.45931316695368696,0.45931316695368696,3,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,161,2,17:43,1063,1063,Gibson Johnson made Layup. Assisted by Drew Buggs.,38,37,1,27,0.5412541181348964,0.5412541181348964,3,4,NA,NA,NA,Hawai'i,made,Gibson Johnson,Drew Buggs,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,162,2,17:27,1047,1047,Foul on Michael Thomas.,38,37,1,16,0.5416069990458396,0.5416069990458396,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,163,2,17:27,1047,1047,Bruce Brown Jr. made Free Throw.,38,38,0,0,0.5,0.5,3,4,NA,NA,NA,Miami,made,Bruce Brown Jr.,NA,FALSE,TRUE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,164,2,17:27,1047,1047,Bruce Brown Jr. missed Free Throw.,38,38,0,0,0.5,0.5,3,4,NA,NA,NA,Miami,missed,Bruce Brown Jr.,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,165,2,17:27,1047,1047,Sheriff Drammeh Defensive Rebound.,38,38,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,166,2,16:59,1019,1019,Drew Buggs missed Jumper.,38,38,0,28,0.5,0.5,3,4,NA,NA,NA,Hawai'i,missed,Drew Buggs,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,167,2,16:59,1019,1019,Miami Deadball Team Rebound.,38,38,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,168,2,16:56,1016,1016,Foul on Gibson Johnson.,38,38,0,3,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,169,2,16:41,1001,1001,Ja'Quan Newton made Jumper.,38,40,-2,15,0.41518029092662345,0.41518029092662345,3,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,170,2,16:17,977,977,Ido Flaisher missed Jumper.,38,40,-2,24,0.4139003312316972,0.4139003312316972,3,4,NA,NA,NA,Hawai'i,missed,Ido Flaisher,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,171,2,16:17,977,977,Bruce Brown Jr. Defensive Rebound.,38,40,-2,0,0.4139003312316972,0.4139003312316972,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,172,2,16:10,970,970,Dejan Vasiljevic made Three Point Jumper. Assisted by Bruce Brown Jr..,38,43,-5,7,0.2944770635235976,0.2944770635235976,3,4,NA,NA,NA,Miami,made,Dejan Vasiljevic,Bruce Brown Jr,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,173,2,15:41,941,941,Foul on Dewan Huell.,38,43,-5,29,0.2912051192077897,0.2912051192077897,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,174,2,15:41,941,941,Official TV Timeout,38,43,-5,0,0.2912051192077897,0.2912051192077897,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,175,2,15:41,941,941,Sheriff Drammeh made Free Throw.,39,43,-4,0,0.32923863187841673,0.32923863187841673,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,TRUE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,176,2,15:41,941,941,Sheriff Drammeh missed Free Throw.,39,43,-4,0,0.32923863187841673,0.32923863187841673,3,4,NA,NA,NA,Hawai'i,missed,Sheriff Drammeh,NA,FALSE,TRUE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,177,2,15:41,941,941,Lonnie Walker IV Defensive Rebound.,39,43,-4,0,0.32923863187841673,0.32923863187841673,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,178,2,15:27,927,927,Dewan Huell made Dunk.,39,45,-6,14,0.25432547590868637,0.25432547590868637,3,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,179,2,15:13,913,913,Leland Green missed Jumper.,39,45,-6,14,0.2528479963331684,0.2528479963331684,3,4,NA,NA,NA,Hawai'i,missed,Leland Green,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,180,2,15:13,913,913,Dewan Huell Defensive Rebound.,39,45,-6,0,0.2528479963331684,0.2528479963331684,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,181,2,15:04,904,904,Bruce Brown Jr. made Three Point Jumper.,39,48,-9,9,0.16348752318394022,0.16348752318394022,3,4,NA,NA,NA,Miami,made,Bruce Brown Jr.,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,182,2,14:48,888,888,Sheriff Drammeh made Jumper.,41,48,-7,16,0.21762169450390925,0.21762169450390925,3,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,183,2,14:20,860,860,Ja'Quan Newton missed Jumper.,41,48,-7,28,0.2147099407024265,0.2147099407024265,3,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,184,2,14:20,860,860,Jack Purchase Defensive Rebound.,41,48,-7,0,0.2147099407024265,0.2147099407024265,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,185,2,14:13,853,853,Leland Green Turnover.,41,48,-7,7,0.21396874869117335,0.21396874869117335,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,186,2,14:11,851,851,Lonnie Walker IV Steal.,41,48,-7,2,0.21375497384216058,0.21375497384216058,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,187,2,14:01,841,841,Bruce Brown Jr. Turnover.,41,48,-7,10,0.21266925836276676,0.21266925836276676,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,188,2,14:00,840,840,Sheriff Drammeh Steal.,41,48,-7,1,0.2125589271810238,0.2125589271810238,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,189,2,13:35,815,815,Leland Green made Three Point Jumper. Assisted by Sheriff Drammeh.,44,48,-4,25,0.31902299611360063,0.31902299611360063,3,4,NA,NA,NA,Hawai'i,made,Leland Green,Sheriff Drammeh,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,190,2,13:13,793,793,Ja'Quan Newton made Layup.,44,50,-6,22,0.24009286233085358,0.24009286233085358,3,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,191,2,12:54,774,774,Michael Thomas Turnover.,44,50,-6,19,0.23747266478450682,0.23747266478450682,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,192,2,12:53,773,773,Dejan Vasiljevic Steal.,44,50,-6,1,0.23732638302857137,0.23732638302857137,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,193,2,12:43,763,763,Dejan Vasiljevic made Three Point Jumper. Assisted by Bruce Brown Jr..,44,53,-9,10,0.1463328796156865,0.1463328796156865,3,4,NA,NA,NA,Miami,made,Dejan Vasiljevic,Bruce Brown Jr,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,194,2,12:35,755,755,Brocke Stepteau Turnover.,44,53,-9,8,0.14500492337890641,0.14500492337890641,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,195,2,12:35,755,755,Chris Lykes Steal.,44,53,-9,0,0.14500492337890641,0.14500492337890641,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,196,2,12:35,755,755,Foul on Brocke Stepteau.,44,53,-9,0,0.14500492337890641,0.14500492337890641,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,197,2,12:27,747,747,Ebuka Izundu missed Jumper.,44,53,-9,8,0.14361453728387477,0.14361453728387477,3,4,NA,NA,NA,Miami,missed,Ebuka Izundu,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,198,2,12:27,747,747,Jack Purchase Defensive Rebound.,44,53,-9,0,0.14361453728387477,0.14361453728387477,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,199,2,12:11,731,731,Michael Thomas missed Jumper.,44,53,-9,16,0.1406354591878711,0.1406354591878711,3,4,NA,NA,NA,NA,missed,Michael Thomas,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,200,2,12:11,731,731,Ebuka Izundu Block.,44,53,-9,0,0.1406354591878711,0.1406354591878711,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,201,2,12:09,729,729,Michael Thomas Offensive Rebound.,44,53,-9,2,0.1402451645489632,0.1402451645489632,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,202,2,12:05,725,725,Jack Purchase missed Three Point Jumper.,44,53,-9,4,0.13948260268506676,0.13948260268506676,3,4,NA,NA,NA,Hawai'i,missed,Jack Purchase,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,203,2,12:05,725,725,Chris Lykes Defensive Rebound.,44,53,-9,0,0.13948260268506676,0.13948260268506676,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,204,2,11:59,719,719,Foul on Brocke Stepteau.,44,53,-9,6,0.13838761107606629,0.13838761107606629,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,205,2,11:59,719,719,Official TV Timeout,44,53,-9,0,0.13838761107606629,0.13838761107606629,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,206,2,11:46,706,706,Ebuka Izundu made Jumper. Assisted by Bruce Brown Jr..,44,55,-11,13,0.0946773424257539,0.0946773424257539,3,4,NA,NA,NA,Miami,made,Ebuka Izundu,Bruce Brown Jr,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,207,2,11:29,689,689,Michael Thomas Turnover.,44,55,-11,17,0.09237257157978365,0.09237257157978365,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,208,2,11:16,676,676,Dejan Vasiljevic missed Jumper.,44,55,-11,13,0.09074432705058717,0.09074432705058717,3,4,NA,NA,NA,Miami,missed,Dejan Vasiljevic,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,209,2,11:16,676,676,Jack Purchase Defensive Rebound.,44,55,-11,0,0.09074432705058717,0.09074432705058717,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,210,2,10:58,658,658,Leland Green missed Three Point Jumper.,44,55,-11,18,0.08858531709189121,0.08858531709189121,3,4,NA,NA,NA,Hawai'i,missed,Leland Green,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,211,2,10:58,658,658,Bruce Brown Jr. Defensive Rebound.,44,55,-11,0,0.08858531709189121,0.08858531709189121,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,212,2,10:50,650,650,Lonnie Walker IV made Layup. Assisted by Bruce Brown Jr..,44,57,-13,8,0.05903093577763952,0.05903093577763952,3,4,NA,NA,NA,Miami,made,Lonnie Walker IV,Bruce Brown Jr,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,213,2,10:40,640,640,Hawai'i  Timeout,44,57,-13,10,0.058045229174301154,0.058045229174301154,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,214,2,10:28,628,628,Jack Purchase made Three Point Jumper. Assisted by Drew Buggs.,47,57,-10,12,0.10331805531511418,0.10331805531511418,2,4,NA,NA,NA,Hawai'i,made,Jack Purchase,Drew Buggs,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,215,2,10:08,608,608,Chris Lykes made Three Point Jumper. Assisted by Bruce Brown Jr..,47,60,-13,20,0.05467462453402226,0.05467462453402226,2,4,NA,NA,NA,Miami,made,Chris Lykes,Bruce Brown Jr,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,216,2,9:54,594,594,Drew Buggs Turnover.,47,60,-13,14,0.05302355421611849,0.05302355421611849,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,217,2,9:53,593,593,Foul on Drew Buggs.,47,60,-13,1,0.052900298208949,0.052900298208949,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,218,2,9:39,579,579,Foul on Gibson Johnson.,47,60,-13,14,0.05109194400808137,0.05109194400808137,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,219,2,9:39,579,579,Ebuka Izundu made Free Throw.,47,61,-14,0,0.04123217361446522,0.04123217361446522,2,4,NA,NA,NA,Miami,made,Ebuka Izundu,NA,FALSE,TRUE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,220,2,9:39,579,579,Ebuka Izundu missed Free Throw.,47,61,-14,0,0.04123217361446522,0.04123217361446522,2,4,NA,NA,NA,Miami,missed,Ebuka Izundu,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,221,2,9:39,579,579,Jack Purchase Defensive Rebound.,47,61,-14,0,0.04123217361446522,0.04123217361446522,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,222,2,9:28,568,568,Sheriff Drammeh Turnover.,47,61,-14,11,0.03988446622583389,0.03988446622583389,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,223,2,9:14,554,554,Ebuka Izundu made Layup. Assisted by Ja'Quan Newton.,47,63,-16,14,0.02431819899415767,0.02431819899415767,2,4,NA,NA,NA,Miami,made,Ebuka Izundu,Ja'Quan Newton,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,224,2,8:54,534,534,Samuta Avea missed Layup.,47,63,-16,20,0.02243969144407329,0.02243969144407329,2,4,NA,NA,NA,Hawai'i,missed,Samuta Avea,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,225,2,8:54,534,534,Ebuka Izundu Block.,47,63,-16,0,0.02243969144407329,0.02243969144407329,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,226,2,8:52,532,532,Samuta Avea Offensive Rebound.,47,63,-16,2,0.02227910152642554,0.02227910152642554,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,227,2,8:39,519,519,Sheriff Drammeh missed Three Point Jumper.,47,63,-16,13,0.02132161038545512,0.02132161038545512,2,4,NA,NA,NA,Hawai'i,missed,Sheriff Drammeh,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,228,2,8:39,519,519,Ja'Quan Newton Defensive Rebound.,47,63,-16,0,0.02132161038545512,0.02132161038545512,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,229,2,8:32,512,512,Foul on Drew Buggs.,47,63,-16,7,0.020851393769841364,0.020851393769841364,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,230,2,8:32,512,512,Ja'Quan Newton made Free Throw.,47,64,-17,0,0.016466210743152996,0.016466210743152996,2,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,TRUE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,231,2,8:32,512,512,Ja'Quan Newton made Free Throw.,47,65,-18,0,0.01299102420279372,0.01299102420279372,2,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,232,2,8:09,489,489,Leland Green missed Jumper.,47,65,-18,23,0.011963794998415657,0.011963794998415657,2,4,NA,NA,NA,Hawai'i,missed,Leland Green,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,233,2,8:09,489,489,Samuta Avea Offensive Rebound.,47,65,-18,0,0.011963794998415657,0.011963794998415657,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,234,2,7:48,468,468,Samuta Avea made Layup. Assisted by Jack Purchase.,49,65,-16,21,0.017986200756206088,0.017986200756206088,2,4,NA,NA,NA,Hawai'i,made,Samuta Avea,Jack Purchase,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,235,2,7:31,451,451,Ja'Quan Newton made Jumper.,49,67,-18,17,0.01009064201564346,0.01009064201564346,2,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,236,2,7:05,425,425,Samuta Avea missed Three Point Jumper.,49,67,-18,26,0.008489489985727041,0.008489489985727041,2,4,NA,NA,NA,Hawai'i,missed,Samuta Avea,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,237,2,7:05,425,425,Chris Lykes Defensive Rebound.,49,67,-18,0,0.008489489985727041,0.008489489985727041,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,238,2,6:44,404,404,Foul on Leland Green.,49,67,-18,21,0.0073587106383880265,0.0073587106383880265,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,239,2,6:44,404,404,Official TV Timeout,49,67,-18,0,0.0073587106383880265,0.0073587106383880265,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,240,2,6:44,404,404,Ja'Quan Newton missed Free Throw.,49,67,-18,0,0.0073587106383880265,0.0073587106383880265,2,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,FALSE,TRUE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,241,2,6:44,404,404,Samuta Avea Defensive Rebound.,49,67,-18,0,0.0073587106383880265,0.0073587106383880265,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,242,2,6:21,381,381,Michael Thomas missed Jumper.,49,67,-18,23,0.006329797883188195,0.006329797883188195,2,4,NA,NA,NA,NA,missed,Michael Thomas,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,243,2,6:21,381,381,Dewan Huell Defensive Rebound.,49,67,-18,0,0.006329797883188195,0.006329797883188195,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,244,2,6:09,369,369,Dewan Huell Turnover.,49,67,-18,12,0.005824629224021103,0.005824629224021103,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,245,2,6:09,369,369,Foul on Dewan Huell.,49,67,-18,0,0.005824629224021103,0.005824629224021103,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,246,2,5:51,351,351,Samuta Avea missed Three Point Jumper.,49,67,-18,18,0.005067360182730426,0.005067360182730426,2,4,NA,NA,NA,Hawai'i,missed,Samuta Avea,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,247,2,5:51,351,351,Dewan Huell Defensive Rebound.,49,67,-18,0,0.005067360182730426,0.005067360182730426,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,248,2,5:26,326,326,Dejan Vasiljevic missed Jumper.,49,67,-18,25,0.003985398102901085,0.003985398102901085,2,4,NA,NA,NA,Miami,missed,Dejan Vasiljevic,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,249,2,5:26,326,326,Anthony Lawrence II Offensive Rebound.,49,67,-18,0,0.003985398102901085,0.003985398102901085,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,250,2,5:20,320,320,Anthony Lawrence II Turnover.,49,67,-18,6,0.0037215800683463073,0.0037215800683463073,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,251,2,5:20,320,320,Foul on Anthony Lawrence II.,49,67,-18,0,0.0037215800683463073,0.0037215800683463073,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,252,2,5:01,301,301,Brocke Stepteau Turnover.,49,67,-18,19,0.003000717056913595,0.003000717056913595,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,253,2,4:46,286,286,Lonnie Walker IV missed Three Point Jumper.,49,67,-18,15,0.002881526555275907,0.002881526555275907,2,4,NA,NA,NA,Miami,missed,Lonnie Walker IV,NA,TRUE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,254,2,4:46,286,286,Miami Offensive Rebound.,49,67,-18,0,0.002881526555275907,0.002881526555275907,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,255,2,4:38,278,278,Dewan Huell made Jumper.,49,69,-20,8,0.0015374874524793393,0.0015374874524793393,2,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,256,2,4:27,267,267,Foul on Bruce Brown Jr..,49,69,-20,11,0.001626029712911641,0.001626029712911641,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,257,2,4:11,251,251,Foul on Dejan Vasiljevic.,49,69,-20,16,0.001786167554403933,0.001786167554403933,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,258,2,4:10,250,250,Sheriff Drammeh made Layup. Assisted by Brocke Stepteau.,51,69,-18,1,0.003371969069713421,0.003371969069713421,2,4,NA,NA,NA,Hawai'i,made,Sheriff Drammeh,Brocke Stepteau,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,259,2,3:40,220,220,Bruce Brown Jr. Turnover.,51,69,-18,30,0.0032559974680212715,0.0032559974680212715,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,260,2,3:40,220,220,Foul on Bruce Brown Jr..,51,69,-18,0,0.0032559974680212715,0.0032559974680212715,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,261,2,3:40,220,220,Official TV Timeout,51,69,-18,0,0.0032559974680212715,0.0032559974680212715,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,262,2,3:28,208,208,Gibson Johnson made Layup. Assisted by Sheriff Drammeh.,53,69,-16,12,0.0053017356589883605,0.0053017356589883605,2,4,NA,NA,NA,Hawai'i,made,Gibson Johnson,Sheriff Drammeh,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,263,2,3:05,185,185,Chris Lykes missed Three Point Jumper.,53,69,-16,23,0.002889429460353028,0.002889429460353028,2,4,NA,NA,NA,Miami,missed,Chris Lykes,NA,TRUE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,264,2,3:05,185,185,Sheriff Drammeh Defensive Rebound.,53,69,-16,0,0.002889429460353028,0.002889429460353028,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,265,2,2:56,176,176,Leland Green missed Layup.,53,69,-16,9,0.0021325150953432734,0.0021325150953432734,2,4,NA,NA,NA,Hawai'i,missed,Leland Green,NA,FALSE,FALSE,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,266,2,2:56,176,176,Hawai'i Offensive Rebound.,53,69,-16,0,0.0021325150953432734,0.0021325150953432734,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,267,2,2:51,171,171,Brocke Stepteau missed Jumper.,53,69,-16,5,0.0017940568835297876,0.0017940568835297876,2,4,NA,NA,NA,Hawai'i,missed,Brocke Stepteau,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,268,2,2:51,171,171,Bruce Brown Jr. Defensive Rebound.,53,69,-16,0,0.0017940568835297876,0.0017940568835297876,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,269,2,2:20,140,140,Ja'Quan Newton missed Jumper.,53,69,-16,31,5.387463030427222e-4,5.387463030427222e-4,2,4,NA,NA,NA,Miami,missed,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,270,2,2:20,140,140,Dewan Huell Offensive Rebound.,53,69,-16,0,5.387463030427222e-4,5.387463030427222e-4,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+400986162,2017-12-23,Hawai'i,Miami,271,2,2:17,137,137,Dewan Huell made Jumper.,53,71,-18,3,1.8097654908726755e-4,1.8097654908726755e-4,2,4,NA,NA,NA,Miami,made,Dewan Huell,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,272,2,2:00,120,120,Leland Green made Jumper.,55,71,-16,17,2.0375767743485696e-4,2.0375767743485696e-4,2,4,NA,NA,NA,Hawai'i,made,Leland Green,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,273,2,1:26,86,86,Ja'Quan Newton made Jumper.,55,73,-18,34,6.001550246687232e-6,6.001550246687232e-6,2,4,NA,NA,NA,Miami,made,Ja'Quan Newton,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,274,2,1:05,65,65,Gibson Johnson missed Three Point Jumper.,55,73,-18,21,9.498883057161197e-7,9.498883057161197e-7,2,4,NA,NA,NA,Hawai'i,missed,Gibson Johnson,NA,TRUE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,275,2,1:05,65,65,Ja'Quan Newton Defensive Rebound.,55,73,-18,0,9.498883057161197e-7,9.498883057161197e-7,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,276,2,0:44,44,44,Anthony Lawrence II made Jumper.,55,75,-20,21,2.0104897183265452e-8,2.0104897183265452e-8,2,4,NA,NA,NA,Miami,made,Anthony Lawrence II,NA,FALSE,FALSE,Miami,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,277,2,0:40,40,40,Hawai'i  Timeout,55,75,-20,4,1.2509626571466434e-8,1.2509626571466434e-8,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawai'i,Hawai'i
+400986162,2017-12-23,Hawai'i,Miami,278,2,0:26,26,26,Brocke Stepteau made Jumper.,57,75,-18,14,1.6156264347400373e-8,1.6156264347400373e-8,1,4,NA,NA,NA,Hawai'i,made,Brocke Stepteau,NA,FALSE,FALSE,Hawai'i,Miami
+400986162,2017-12-23,Hawai'i,Miami,279,2,0:00,0,0,End of Game,57,57,0,26,4.508027065606742e-157,4.508027065606742e-157,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami,NA
