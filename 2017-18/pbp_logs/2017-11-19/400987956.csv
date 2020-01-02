@@ -1,0 +1,302 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400987956,2017-11-19,Fordham,Tulane,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.2142506447046578,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane
+400987956,2017-11-19,Fordham,Tulane,2,1,19:44,2384,2384,Jordan Cornish missed Jumper.,0,0,0,16,0.2146013967469069,0.5,4,4,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,3,1,19:44,2384,2384,Will Tavares Defensive Rebound.,0,0,0,0,0.2146013967469069,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,4,1,19:27,2367,2367,Ivan Raut missed Three Point Jumper.,0,0,0,17,0.21498195050127084,0.5,4,4,-8.1,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,5,1,19:27,2367,2367,Prokop Slanina Offensive Rebound.,0,0,0,0,0.21498195050127084,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,6,1,19:22,2362,2362,Joseph Chartouny missed Three Point Jumper.,0,0,0,5,0.21509545311293596,0.5,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,7,1,19:22,2362,2362,Blake Paul Defensive Rebound.,0,0,0,0,0.21509545311293596,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,8,1,18:51,2331,2331,Ray Ona Embo missed Three Point Jumper.,0,0,0,31,0.21581557638628238,0.5,4,4,-8.1,NA,NA,Tulane,missed,Ray Ona Embo,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,9,1,18:51,2331,2331,Will Tavares Defensive Rebound.,0,0,0,0,0.21581557638628238,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,10,1,18:32,2312,2312,Prokop Slanina made Jumper. Assisted by Will Tavares.,2,0,2,19,0.24911765575428943,0.545921638731889,4,4,-8.1,NA,NA,Fordham,made,Prokop Slanina,Will Tavares,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,11,1,18:13,2293,2293,Melvin Frazier made Three Point Jumper. Assisted by Jordan Cornish.,2,3,-1,19,0.20137390444388947,0.47677844820723825,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Jordan Cornish,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,12,1,17:46,2266,2266,Will Tavares made Layup.,4,3,1,27,0.23387107449370906,0.523526051435561,4,4,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,13,1,17:34,2254,2254,Ray Ona Embo missed Jumper.,4,3,1,12,0.2342972148879097,0.523662427451084,4,4,-8.1,NA,NA,Tulane,missed,Ray Ona Embo,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,14,1,17:34,2254,2254,Will Tavares Defensive Rebound.,4,3,1,0,0.2342972148879097,0.523662427451084,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,15,1,17:25,2245,2245,Will Tavares missed Three Point Jumper.,4,3,1,9,0.23462059015057657,0.5237650907820912,4,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,16,1,17:25,2245,2245,Melvin Frazier Defensive Rebound.,4,3,1,0,0.23462059015057657,0.5237650907820912,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,17,1,17:14,2234,2234,Foul on Tre Evans.,4,3,1,11,0.23502025237403898,0.5238909811467304,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,18,1,17:14,2234,2234,Blake Paul made Free Throw.,4,4,0,0,0.2182635439373489,0.5,4,4,-8.1,NA,NA,Tulane,made,Blake Paul,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,19,1,17:14,2234,2234,Blake Paul missed Free Throw.,4,4,0,0,0.2182635439373489,0.5,4,4,-8.1,NA,NA,Tulane,missed,Blake Paul,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,20,1,17:14,2234,2234,Joseph Chartouny Defensive Rebound.,4,4,0,0,0.2182635439373489,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,21,1,17:00,2220,2220,Tre Evans missed Three Point Jumper.,4,4,0,14,0.2186428759226853,0.5,4,4,-8.1,NA,NA,Fordham,missed,Tre Evans,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,22,1,17:00,2220,2220,Cameron Reynolds Defensive Rebound.,4,4,0,0,0.2186428759226853,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,23,1,16:50,2210,2210,Cameron Reynolds missed Three Point Jumper.,4,4,0,10,0.2189180667426507,0.5,4,4,-8.1,NA,NA,Tulane,missed,Cameron Reynolds,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,24,1,16:50,2210,2210,Joseph Chartouny Defensive Rebound.,4,4,0,0,0.2189180667426507,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,25,1,16:42,2202,2202,Joseph Chartouny missed Layup.,4,4,0,8,0.2191407987350549,0.5,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,26,1,16:42,2202,2202,Melvin Frazier Defensive Rebound.,4,4,0,0,0.2191407987350549,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,27,1,16:19,2179,2179,Blake Paul Turnover.,4,4,0,23,0.2197941526001507,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,28,1,16:18,2178,2178,Ivan Raut Steal.,4,4,0,1,0.2198230028827329,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,29,1,16:15,2175,2175,Ivan Raut made Layup.,6,4,2,3,0.2555070322614479,0.5490266523661257,4,4,-8.1,NA,NA,Fordham,made,Ivan Raut,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,30,1,16:03,2163,2163,Cameron Reynolds Turnover.,6,4,2,12,0.25610891388823426,0.5493039593446217,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,31,1,16:03,2163,2163,Tre Evans Steal.,6,4,2,0,0.25610891388823426,0.5493039593446217,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,32,1,15:52,2152,2152,Joseph Chartouny missed Layup.,6,4,2,11,0.25666678072876387,0.5495590560611426,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,33,1,15:52,2152,2152,Melvin Frazier Defensive Rebound.,6,4,2,0,0.25666678072876387,0.5495590560611426,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,34,1,15:41,2141,2141,Cameron Reynolds missed Three Point Jumper.,6,4,2,11,0.2572305413107105,0.5498150985748921,4,4,-8.1,NA,NA,Tulane,missed,Cameron Reynolds,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,35,1,15:41,2141,2141,Joseph Chartouny Defensive Rebound.,6,4,2,0,0.2572305413107105,0.5498150985748921,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,36,1,15:10,2110,2110,Will Tavares missed Layup.,6,4,2,31,0.25885113853656255,0.5505421479818391,4,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,37,1,15:10,2110,2110,Blake Paul Defensive Rebound.,6,4,2,0,0.25885113853656255,0.5505421479818391,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,38,1,15:02,2102,2102,Ray Ona Embo made Three Point Jumper. Assisted by Jordan Cornish.,6,7,-1,8,0.20502678920898493,0.47456879313415556,4,4,-8.1,NA,NA,Tulane,made,Ray Ona Embo,Jordan Cornish,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,39,1,14:45,2085,2085,Prokop Slanina missed Three Point Jumper.,6,7,-1,17,0.20540410760263422,0.4743653498248922,4,4,-8.1,NA,NA,Fordham,missed,Prokop Slanina,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,40,1,14:45,2085,2085,Ray Ona Embo Defensive Rebound.,6,7,-1,0,0.20540410760263422,0.4743653498248922,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,41,1,14:34,2074,2074,Jordan Cornish made Three Point Jumper.,6,10,-4,11,0.1596529543499455,0.3982795499694707,4,4,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,42,1,14:06,2046,2046,Joseph Chartouny made Layup.,8,10,-2,28,0.189708921441284,0.44792767509963954,4,4,-8.1,NA,NA,Fordham,made,Joseph Chartouny,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,43,1,13:42,2022,2022,Ray Ona Embo made Three Point Jumper. Assisted by Melvin Frazier.,8,13,-5,24,0.1459498008366049,0.3708582558594965,4,4,-8.1,NA,NA,Tulane,made,Ray Ona Embo,Melvin Frazier,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,44,1,13:24,2004,2004,Ivan Raut made Three Point Jumper.,11,13,-2,18,0.19033447499265138,0.4468987310401092,4,4,-8.1,NA,NA,Fordham,made,Ivan Raut,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,45,1,13:09,1989,1989,Blake Paul missed Jumper.,11,13,-2,15,0.19056570370302672,0.4465259185200361,4,4,-8.1,NA,NA,Tulane,missed,Blake Paul,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,46,1,13:09,1989,1989,Will Tavares Defensive Rebound.,11,13,-2,0,0.19056570370302672,0.4465259185200361,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,47,1,12:45,1965,1965,Will Tavares made Layup.,13,13,0,24,0.22675367155060644,0.5,4,4,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,48,1,12:16,1936,1936,Jordan Cornish missed Three Point Jumper.,13,13,0,29,0.2278119295206979,0.5,4,4,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,49,1,12:16,1936,1936,Tre Evans Defensive Rebound.,13,13,0,0,0.2278119295206979,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,50,1,12:05,1925,1925,Will Tavares made Three Point Jumper. Assisted by Joseph Chartouny.,16,13,3,11,0.29184440076266954,0.5822324554233181,4,4,-8.1,NA,NA,Fordham,made,Will Tavares,Joseph Chartouny,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,51,1,11:56,1916,1916,Official TV Timeout,16,13,3,9,0.29253208787256835,0.5825748011638271,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,52,1,11:56,1916,1916,Tulane  Timeout,16,13,3,0,0.29253208787256835,0.5825748011638271,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,53,1,11:47,1907,1907,Melvin Frazier missed Jumper.,16,13,3,9,0.29322414854555146,0.5829167060162344,3,4,-8.1,NA,NA,Tulane,missed,Melvin Frazier,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,54,1,11:47,1907,1907,Joseph Chartouny Defensive Rebound.,16,13,3,0,0.29322414854555146,0.5829167060162344,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,55,1,11:13,1873,1873,Official TV Timeout,16,13,3,34,0.29587926569251083,0.5842072444630011,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,56,1,11:12,1872,1872,Fordham  Turnover.,16,13,3,1,0.2959583552843294,0.5842452332858721,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,57,1,11:12,1872,1872,Official TV Timeout,16,13,3,0,0.2959583552843294,0.5842452332858721,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,58,1,10:49,1849,1849,Cameron Reynolds missed Layup.,16,13,3,23,0.2977936655220244,0.585120685583057,3,4,-8.1,NA,NA,Tulane,missed,Cameron Reynolds,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,59,1,10:49,1849,1849,Perris Hicks Defensive Rebound.,16,13,3,0,0.2977936655220244,0.585120685583057,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,60,1,10:26,1826,1826,Cavit Havsa missed Three Point Jumper.,16,13,3,23,0.29966092279870643,0.5860012857799316,3,4,-8.1,NA,NA,Fordham,missed,Cavit Havsa,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,61,1,10:26,1826,1826,Jordan Cornish Defensive Rebound.,16,13,3,0,0.29966092279870643,0.5860012857799316,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,62,1,10:11,1811,1811,Melvin Frazier made Jumper. Assisted by Jordan Cornish.,16,15,1,15,0.2542141107199098,0.5291206462340261,3,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Jordan Cornish,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,63,1,9:48,1788,1788,Chuba Ohams missed Three Point Jumper.,16,15,1,23,0.2554791873329191,0.5294272830997627,3,4,-8.1,NA,NA,Fordham,missed,Chuba Ohams,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,64,1,9:48,1788,1788,Jordan Cornish Defensive Rebound.,16,15,1,0,0.2554791873329191,0.5294272830997627,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,65,1,9:37,1777,1777,Jordan Cornish Turnover.,16,15,1,11,0.2560922747709781,0.5295754431710045,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,66,1,9:36,1776,1776,Cavit Havsa Steal.,16,15,1,1,0.25614826595912554,0.5295889660707179,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,67,1,9:30,1770,1770,David Pekarek missed Three Point Jumper.,16,15,1,6,0.25648510471700275,0.5296703015466427,3,4,-8.1,NA,NA,Fordham,missed,David Pekarek,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,68,1,9:30,1770,1770,Melvin Frazier Defensive Rebound.,16,15,1,0,0.25648510471700275,0.5296703015466427,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,69,1,9:19,1759,1759,Cameron Reynolds missed Jumper.,16,15,1,11,0.2571065932831956,0.5298203419958217,3,4,-8.1,NA,NA,Tulane,missed,Cameron Reynolds,NA,FALSE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,70,1,9:19,1759,1759,Samir Sehic Offensive Rebound.,16,15,1,0,0.2571065932831956,0.5298203419958217,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,71,1,9:02,1742,1742,Samir Sehic made Jumper. Assisted by Ray Ona Embo.,16,17,-1,17,0.21471826586458212,0.4699452126315672,3,4,-8.1,NA,NA,Tulane,made,Samir Sehic,Ray Ona Embo,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,72,1,8:34,1714,1714,Perris Hicks made Three Point Jumper. Assisted by Joseph Chartouny.,19,17,2,28,0.28382316880650704,0.5606722641469388,3,4,-8.1,NA,NA,Fordham,made,Perris Hicks,Joseph Chartouny,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,73,1,8:18,1698,1698,Samir Sehic Turnover.,19,17,2,16,0.28500756187337994,0.5611269645663569,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,74,1,8:17,1697,1697,Chuba Ohams Steal.,19,17,2,1,0.28508207118848067,0.5611556322546385,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,75,1,8:01,1681,1681,Chuba Ohams missed Jumper.,19,17,2,16,0.28628205200788054,0.5616153789188235,3,4,-8.1,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,FALSE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,76,1,8:01,1681,1681,Chuba Ohams Offensive Rebound.,19,17,2,0,0.28628205200788054,0.5616153789188235,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,77,1,8:00,1680,1680,Foul on Melvin Frazier.,19,17,2,1,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,78,1,8:00,1680,1680,Official TV Timeout,19,17,2,0,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,79,1,8:00,1680,1680,Chuba Ohams missed Free Throw.,19,17,2,0,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,80,1,8:00,1680,1680,Fordham Deadball Team Rebound.,19,17,2,0,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,81,1,8:00,1680,1680,Chuba Ohams missed Free Throw.,19,17,2,0,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,Fordham,missed,Chuba Ohams,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,82,1,8:00,1680,1680,Caleb Daniels Defensive Rebound.,19,17,2,0,0.28635754472544755,0.5616438491209147,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,83,1,7:59,1679,1679,Foul on Chuba Ohams.,19,17,2,1,0.2864330957695671,0.5616722771641911,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,84,1,7:52,1672,1672,Foul on Perris Hicks.,19,17,2,7,0.2869635872325852,0.5618701387645372,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,85,1,7:46,1666,1666,Foul on Perris Hicks.,19,17,2,6,0.2874205725324311,0.5620382530342561,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,86,1,7:29,1649,1649,Ray Ona Embo missed Three Point Jumper.,19,17,2,17,0.28872680854800786,0.5625082148045423,3,4,-8.1,NA,NA,Tulane,missed,Ray Ona Embo,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,87,1,7:29,1649,1649,Perris Hicks Defensive Rebound.,19,17,2,0,0.28872680854800786,0.5625082148045423,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,88,1,7:05,1625,1625,David Pekarek missed Three Point Jumper.,19,17,2,24,0.29059979974157235,0.5631598710998956,3,4,-8.1,NA,NA,Fordham,missed,David Pekarek,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,89,1,7:05,1625,1625,Cameron Reynolds Defensive Rebound.,19,17,2,0,0.29059979974157235,0.5631598710998956,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,90,1,6:54,1614,1614,Samir Sehic made Layup. Assisted by Melvin Frazier.,19,19,0,11,0.2416863527207228,0.5,3,4,-8.1,NA,NA,Tulane,made,Samir Sehic,Melvin Frazier,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,91,1,6:27,1587,1587,Tre Evans Turnover.,19,19,0,27,0.2430665812518496,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,92,1,6:01,1561,1561,Melvin Frazier missed Three Point Jumper.,19,19,0,26,0.2444247626806757,0.5,3,4,-8.1,NA,NA,Tulane,missed,Melvin Frazier,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,93,1,6:01,1561,1561,Ivan Raut Defensive Rebound.,19,19,0,0,0.2444247626806757,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,94,1,5:54,1554,1554,Will Tavares missed Layup.,19,19,0,7,0.24479437653143038,0.5,3,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,95,1,5:54,1554,1554,Caleb Daniels Block.,19,19,0,0,0.24479437653143038,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,96,1,5:52,1552,1552,Caleb Daniels Defensive Rebound.,19,19,0,2,0.24490024587209744,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,97,1,5:43,1543,1543,Caleb Daniels Turnover.,19,19,0,9,0.24537799685900524,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,98,1,5:42,1542,1542,Prokop Slanina Steal.,19,19,0,1,0.24543120740208338,0.5,3,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,99,1,5:35,1535,1535,Perris Hicks made Three Point Jumper. Assisted by Will Tavares.,22,19,3,7,0.3262440499171966,0.5977007047817116,3,4,-8.1,NA,NA,Fordham,made,Perris Hicks,Will Tavares,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,100,1,5:32,1532,1532,Fordham  Timeout,22,19,3,3,0.32654720281097066,0.5978244600998407,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,101,1,5:12,1512,1512,Foul on Prokop Slanina.,22,19,3,20,0.328587447069283,0.5986632137699877,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,102,1,5:10,1510,1510,Cameron Reynolds made Three Point Jumper. Assisted by Caleb Daniels.,22,22,0,2,0.24714433538784866,0.5,3,3,-8.1,NA,NA,Tulane,made,Cameron Reynolds,Caleb Daniels,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,103,1,5:09,1509,1509,Foul on Perris Hicks.,22,22,0,1,0.24719811817253842,0.5,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,104,1,5:09,1509,1509,Cameron Reynolds made Free Throw.,22,23,-1,0,0.2232044309604087,0.4666801657080645,3,3,-8.1,NA,NA,Tulane,made,Cameron Reynolds,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,105,1,4:50,1490,1490,Joseph Chartouny Turnover.,22,23,-1,19,0.2239583414437645,0.4663943027304876,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,106,1,4:31,1471,1471,Caleb Daniels missed Three Point Jumper.,22,23,-1,19,0.22470436106997277,0.4660972555832909,3,3,-8.1,NA,NA,Tulane,missed,Caleb Daniels,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,107,1,4:31,1471,1471,Joseph Chartouny Defensive Rebound.,22,23,-1,0,0.22470436106997277,0.4660972555832909,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,108,1,4:16,1456,1456,Ivan Raut missed Jumper.,22,23,-1,15,0.22528507385040764,0.46585361014200644,3,3,-8.1,NA,NA,Fordham,missed,Ivan Raut,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,109,1,4:16,1456,1456,Colin Slater Defensive Rebound.,22,23,-1,0,0.22528507385040764,0.46585361014200644,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,110,1,4:06,1446,1446,Jordan Cornish Turnover.,22,23,-1,10,0.22566809472357613,0.4656868478448602,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,111,1,4:05,1445,1445,Will Tavares Steal.,22,23,-1,1,0.22570661381902166,0.4656702381832101,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,112,1,3:45,1425,1425,Will Tavares made Layup.,24,23,1,20,0.27877664050615436,0.5346548615553481,3,3,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,113,1,3:21,1401,1401,Jordan Cornish missed Three Point Jumper.,24,23,1,24,0.28050887867477575,0.5350310266147678,3,3,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,TRUE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,114,1,3:17,1397,1397,Official TV Timeout,24,23,1,4,0.28079983219689053,0.5350926796567569,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,115,1,3:17,1397,1397,Tulane Offensive Rebound.,24,23,1,0,0.28079983219689053,0.5350926796567569,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,116,1,3:17,1397,1397,Official TV Timeout,24,23,1,0,0.28079983219689053,0.5350926796567569,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,117,1,2:56,1376,1376,Colin Slater missed Jumper.,24,23,1,21,0.28233824621541437,0.5354135773800651,3,3,-8.1,NA,NA,Tulane,missed,Colin Slater,NA,FALSE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,118,1,2:54,1374,1374,Samir Sehic Offensive Rebound.,24,23,1,2,0.2824857357886884,0.5354439967662104,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,119,1,2:53,1373,1373,Foul on Cavit Havsa.,24,23,1,1,0.28255954515303444,0.5354592030530729,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,120,1,2:53,1373,1373,Samir Sehic made Free Throw.,24,24,0,0,0.25466668191878755,0.5,3,3,-8.1,NA,NA,Tulane,made,Samir Sehic,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,121,1,2:53,1373,1373,Samir Sehic made Free Throw.,24,25,-1,0,0.22864973431690025,0.4645407969469271,3,3,-8.1,NA,NA,Tulane,made,Samir Sehic,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,122,1,2:40,1360,1360,Foul on Ivan Raut.,24,25,-1,13,0.2292072103964826,0.4643430843146437,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,123,1,2:40,1360,1360,Ivan Raut Turnover.,24,25,-1,0,0.2292072103964826,0.4643430843146437,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,124,1,2:24,1344,1344,Samir Sehic Turnover.,24,25,-1,16,0.22989948679971833,0.46409853153878794,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,125,1,2:23,1343,1343,Prokop Slanina Steal.,24,25,-1,1,0.2299429265498711,0.4640831609145469,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,126,1,1:58,1318,1318,Prokop Slanina made Layup.,26,25,1,25,0.28668801516262776,0.536306621648807,3,3,-8.1,NA,NA,Fordham,made,Prokop Slanina,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,127,1,1:29,1289,1289,Jordan Cornish missed Three Point Jumper.,26,25,1,29,0.28892249487348615,0.5367790810008528,3,3,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,128,1,1:29,1289,1289,Joseph Chartouny Defensive Rebound.,26,25,1,0,0.28892249487348615,0.5367790810008528,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,129,1,1:03,1263,1263,Will Tavares missed Three Point Jumper.,26,25,1,26,0.2909620630581349,0.5372305329489176,3,3,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,130,1,1:03,1263,1263,Jordan Cornish Defensive Rebound.,26,25,1,0,0.2909620630581349,0.5372305329489176,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,131,1,0:51,1251,1251,Colin Slater missed Layup.,26,25,1,12,0.2919154323968884,0.5374502695788136,3,3,-8.1,NA,NA,Tulane,missed,Colin Slater,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,132,1,0:51,1251,1251,Joseph Chartouny Block.,26,25,1,0,0.2919154323968884,0.5374502695788136,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,133,1,0:47,1247,1247,Tre Evans Defensive Rebound.,26,25,1,4,0.29223495265734506,0.5375253302688362,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,134,1,0:20,1220,1220,Joseph Chartouny made Three Point Jumper. Assisted by Prokop Slanina.,29,25,4,27,0.3973669412921521,0.6479678645969742,3,3,-8.1,NA,NA,Fordham,made,Joseph Chartouny,Prokop Slanina,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,135,1,0:03,1203,1203,Cameron Reynolds missed Jumper.,29,25,4,17,0.40001006515245435,0.6492863483699299,3,3,-8.1,NA,NA,Tulane,missed,Cameron Reynolds,NA,FALSE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,136,1,0:03,1203,1203,Prokop Slanina Block.,29,25,4,0,0.40001006515245435,0.6492863483699299,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,137,1,0:02,1202,1202,Melvin Frazier Offensive Rebound.,29,25,4,1,0.40016520621548096,0.649363644672055,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,138,1,0:01,1201,1201,Melvin Frazier made Two Point Tip Shot.,29,27,2,1,0.32906382758557273,0.5764680567375442,3,3,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,140,2,20:00,1200,1200,PLAY,29,25,4,0,0.4004749326975368,0.6495177425372646,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane
+400987956,2017-11-19,Fordham,Tulane,142,2,19:22,1162,1162,Tre Evans missed Three Point Jumper.,29,27,2,21,0.33310574478737753,0.5780283300552139,4,4,-8.1,NA,NA,Fordham,missed,Tre Evans,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,143,2,19:22,1162,1162,Cameron Reynolds Defensive Rebound.,29,27,2,0,0.33310574478737753,0.5780283300552139,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,144,2,19:12,1152,1152,Jordan Cornish made Jumper.,29,29,0,10,0.26779467847760335,0.5,4,4,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,145,2,18:41,1121,1121,Joseph Chartouny missed Three Point Jumper.,29,29,0,31,0.2696265273295297,0.5,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,146,2,18:41,1121,1121,Melvin Frazier Defensive Rebound.,29,29,0,0,0.2696265273295297,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,147,2,18:28,1108,1108,Foul on Prokop Slanina.,29,29,0,13,0.27039688694873276,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,148,2,18:28,1108,1108,Melvin Frazier missed Free Throw.,29,29,0,0,0.27039688694873276,0.5,4,4,-8.1,NA,NA,Tulane,missed,Melvin Frazier,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,149,2,18:28,1108,1108,Tulane Deadball Team Rebound.,29,29,0,0,0.27039688694873276,0.5,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,150,2,18:28,1108,1108,Melvin Frazier made Free Throw.,29,30,-1,0,0.23971331910561422,0.4596772597820231,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,151,2,18:04,1084,1084,Joseph Chartouny missed Three Point Jumper.,29,30,-1,24,0.24067553007636996,0.4591896380002988,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,152,2,18:04,1084,1084,Blake Paul Defensive Rebound.,29,30,-1,0,0.24067553007636996,0.4591896380002988,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,153,2,17:55,1075,1075,Foul on Jordan Cornish.,29,30,-1,9,0.24103550909147708,0.4590018120410358,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,154,2,17:55,1075,1075,Jordan Cornish Turnover.,29,30,-1,0,0.24103550909147708,0.4590018120410358,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,155,2,17:34,1054,1054,Joseph Chartouny missed Three Point Jumper.,29,30,-1,21,0.2418730452351374,0.4585491725999451,4,4,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,156,2,17:34,1054,1054,Melvin Frazier Defensive Rebound.,29,30,-1,0,0.2418730452351374,0.4585491725999451,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,157,2,17:25,1045,1045,Melvin Frazier made Three Point Jumper. Assisted by Jordan Cornish.,29,33,-4,9,0.16226444605169313,0.3389486921921128,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Jordan Cornish,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,158,2,17:08,1028,1028,Will Tavares missed Layup.,29,33,-4,17,0.162114303167686,0.3375252320433732,4,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,159,2,17:08,1028,1028,Melvin Frazier Defensive Rebound.,29,33,-4,0,0.162114303167686,0.3375252320433732,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,160,2,16:44,1004,1004,Jordan Cornish missed Jumper.,29,33,-4,24,0.16183463897845018,0.3353854076795946,4,4,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,161,2,16:44,1004,1004,Prokop Slanina Defensive Rebound.,29,33,-4,0,0.16183463897845018,0.3353854076795946,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,162,2,16:38,998,998,Foul on Cameron Reynolds.,29,33,-4,6,0.16175069665383757,0.33482335443192635,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,163,2,16:32,992,992,Prokop Slanina made Three Point Jumper. Assisted by Joseph Chartouny.,32,33,-1,6,0.24431743010375886,0.4570419578989788,4,4,-8.1,NA,NA,Fordham,made,Prokop Slanina,Joseph Chartouny,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,164,2,16:10,970,970,Melvin Frazier made Dunk. Assisted by Cameron Reynolds.,32,35,-3,22,0.18633079506073105,0.37186063850313117,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Cameron Reynolds,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,165,2,15:36,936,936,Will Tavares missed Layup.,32,35,-3,34,0.18625962976731386,0.36930005708609337,4,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,166,2,15:36,936,936,Cameron Reynolds Defensive Rebound.,32,35,-3,0,0.18625962976731386,0.36930005708609337,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,167,2,15:22,922,922,Foul on Blake Paul.,32,35,-3,14,0.18626122017871902,0.3683616276514403,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,168,2,15:22,922,922,Blake Paul Turnover.,32,35,-3,0,0.18626122017871902,0.3683616276514403,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,169,2,15:22,922,922,Official TV Timeout,32,35,-3,0,0.18626122017871902,0.3683616276514403,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,170,2,15:00,900,900,Ivan Raut Turnover.,32,35,-3,22,0.18628256803162643,0.36697114586368723,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,171,2,14:50,890,890,Cameron Reynolds Turnover.,32,35,-3,10,0.18629522599025478,0.3663592931390489,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,172,2,14:48,888,888,Ivan Raut Steal.,32,35,-3,2,0.18629772072948436,0.3662376722948604,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,173,2,14:42,882,882,Perris Hicks Turnover.,32,35,-3,6,0.18630485755492823,0.36587350236840077,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,174,2,14:31,871,871,Melvin Frazier made Layup. Assisted by Blake Paul.,32,37,-5,11,0.13673311342553177,0.28467196824701824,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Blake Paul,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,175,2,13:57,837,837,Fordham  Turnover.,32,37,-5,34,0.13599695465677236,0.2815412676872197,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,176,2,13:44,824,824,Blake Paul Turnover.,32,37,-5,13,0.13567174527178122,0.2802550399220372,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,177,2,13:29,809,809,Prokop Slanina missed Jumper.,32,37,-5,15,0.13525220399084897,0.2786754459364962,4,4,-8.1,NA,NA,Fordham,missed,Prokop Slanina,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,178,2,13:29,809,809,Cameron Reynolds Defensive Rebound.,32,37,-5,0,0.13525220399084897,0.2786754459364962,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,179,2,13:18,798,798,Ray Ona Embo Turnover.,32,37,-5,11,0.1349083751604357,0.27743770827769876,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,180,2,13:17,797,797,Perris Hicks Steal.,32,37,-5,1,0.13487542822426637,0.27732144507408435,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,181,2,13:02,782,782,Ivan Raut missed Three Point Jumper.,32,37,-5,15,0.13434402886850774,0.27549456256501553,4,4,-8.1,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,182,2,13:02,782,782,Blake Paul Defensive Rebound.,32,37,-5,0,0.13434402886850774,0.27549456256501553,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,183,2,12:50,770,770,Blake Paul missed Jumper.,32,37,-5,12,0.133864006764353,0.2739099368585035,4,4,-8.1,NA,NA,Tulane,missed,Blake Paul,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,184,2,12:50,770,770,Will Tavares Defensive Rebound.,32,37,-5,0,0.133864006764353,0.2739099368585035,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,185,2,12:33,753,753,Perris Hicks missed Three Point Jumper.,32,37,-5,17,0.13308945077888748,0.27145161095159664,4,4,-8.1,NA,NA,Fordham,missed,Perris Hicks,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,186,2,12:33,753,753,Cameron Reynolds Defensive Rebound.,32,37,-5,0,0.13308945077888748,0.27145161095159664,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,187,2,12:20,740,740,Cameron Reynolds Turnover.,32,37,-5,13,0.1324143240689071,0.2693837917060195,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,188,2,12:19,739,739,Perris Hicks Steal.,32,37,-5,1,0.13235921090756284,0.26921749162416114,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,189,2,12:15,735,735,Foul on Ray Ona Embo.,32,37,-5,4,0.1321340472615524,0.26854155595329243,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,190,2,12:15,735,735,Tre Evans missed Free Throw.,32,37,-5,0,0.1321340472615524,0.26854155595329243,4,4,-8.1,NA,NA,Fordham,missed,Tre Evans,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,191,2,12:15,735,735,Fordham Deadball Team Rebound.,32,37,-5,0,0.1321340472615524,0.26854155595329243,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,192,2,12:15,735,735,Tre Evans made Free Throw.,33,37,-4,0,0.15685549330764997,0.3096774266364503,4,4,-8.1,NA,NA,Fordham,made,Tre Evans,NA,FALSE,TRUE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,193,2,12:03,723,723,Cameron Reynolds made Jumper. Assisted by Jordan Cornish.,33,39,-6,12,0.10999452174785668,0.22879511895591867,4,4,-8.1,NA,NA,Tulane,made,Cameron Reynolds,Jordan Cornish,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,194,2,11:34,694,694,Tre Evans missed Three Point Jumper.,33,39,-6,29,0.10838908478399037,0.22406547640494612,4,4,-8.1,NA,NA,Fordham,missed,Tre Evans,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,195,2,11:34,694,694,Ray Ona Embo Defensive Rebound.,33,39,-6,0,0.10838908478399037,0.22406547640494612,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,196,2,11:15,675,675,Samir Sehic made Layup. Assisted by Melvin Frazier.,33,41,-8,19,0.07339706110204719,0.15747525474294077,4,4,-8.1,NA,NA,Tulane,made,Samir Sehic,Melvin Frazier,FALSE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,197,2,11:15,675,675,Foul on David Pekarek.,33,41,-8,0,0.07339706110204719,0.15747525474294077,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,198,2,11:15,675,675,Official TV Timeout,33,41,-8,0,0.07339706110204719,0.15747525474294077,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,199,2,11:15,675,675,Samir Sehic made Free Throw.,33,42,-9,0,0.06035359714550787,0.13161244366705496,4,4,-8.1,NA,NA,Tulane,made,Samir Sehic,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,200,2,10:52,652,652,Will Tavares made Layup.,35,42,-7,23,0.08790619400617067,0.18406821033774115,4,4,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,201,2,10:23,623,623,Samir Sehic missed Three Point Jumper.,35,42,-7,29,0.08644378769276044,0.17977424192641547,4,4,-8.1,NA,NA,Tulane,missed,Samir Sehic,NA,TRUE,FALSE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,202,2,10:23,623,623,Ray Ona Embo Offensive Rebound.,35,42,-7,0,0.08644378769276044,0.17977424192641547,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,203,2,10:07,607,607,Melvin Frazier made Dunk. Assisted by Jordan Cornish.,35,44,-9,16,0.056862250872378985,0.12188605922152243,4,4,-8.1,NA,NA,Tulane,made,Melvin Frazier,Jordan Cornish,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,204,2,9:45,585,585,Will Tavares missed Three Point Jumper.,35,44,-9,22,0.055386146913139235,0.11800669726218999,4,4,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,205,2,9:45,585,585,Jordan Cornish Defensive Rebound.,35,44,-9,0,0.055386146913139235,0.11800669726218999,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,206,2,9:32,572,572,Jordan Cornish Turnover.,35,44,-9,13,0.0543712547091348,0.11541134730783077,4,4,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,207,2,9:04,544,544,Tre Evans made Layup.,37,44,-7,28,0.08014517524194534,0.16326750279478644,4,4,-8.1,NA,NA,Fordham,made,Tre Evans,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,208,2,9:03,543,543,Fordham  Timeout,37,44,-7,1,0.08004782786476379,0.16302200947577625,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,209,2,9:03,543,543,Official TV Timeout,37,44,-7,0,0.08004782786476379,0.16302200947577625,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,210,2,8:32,512,512,Tulane  Turnover.,37,44,-7,31,0.07758538794633757,0.15655960952250433,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,211,2,8:09,489,489,Foul on Caleb Daniels.,37,44,-7,23,0.07602397368590345,0.1523236804786261,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,212,2,8:09,489,489,Prokop Slanina missed Free Throw.,37,44,-7,0,0.07602397368590345,0.1523236804786261,4,3,-8.1,NA,NA,Fordham,missed,Prokop Slanina,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,213,2,8:09,489,489,Fordham Deadball Team Rebound.,37,44,-7,0,0.07602397368590345,0.1523236804786261,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,214,2,8:09,489,489,Prokop Slanina missed Free Throw.,37,44,-7,0,0.07602397368590345,0.1523236804786261,4,3,-8.1,NA,NA,Fordham,missed,Prokop Slanina,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,215,2,8:07,487,487,Fordham Offensive Rebound.,37,44,-7,2,0.07588214831287532,0.15194386634029916,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,216,2,8:04,484,484,Joseph Chartouny missed Three Point Jumper.,37,44,-7,3,0.0756652070015463,0.15136590477992606,4,3,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,217,2,8:04,484,484,Melvin Frazier Defensive Rebound.,37,44,-7,0,0.0756652070015463,0.15136590477992606,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,218,2,7:38,458,458,Official TV Timeout,37,44,-7,26,0.0734481027448394,0.14569269234401971,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,219,2,7:30,450,450,Tulane  Turnover.,37,44,-7,8,0.07259316702557261,0.14360638418469016,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,220,2,7:09,429,429,Joseph Chartouny missed Three Point Jumper.,37,44,-7,21,0.06981294021547624,0.13707576635738958,4,3,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,221,2,7:09,429,429,Melvin Frazier Defensive Rebound.,37,44,-7,0,0.06981294021547624,0.13707576635738958,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,222,2,6:59,419,419,Samir Sehic Turnover.,37,44,-7,10,0.06840698665281389,0.13378591100385004,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,223,2,6:59,419,419,Prokop Slanina Steal.,37,44,-7,0,0.06840698665281389,0.13378591100385004,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,224,2,6:50,410,410,Tre Evans missed Three Point Jumper.,37,44,-7,9,0.06726181017950193,0.131038232209936,4,3,-8.1,NA,NA,Fordham,missed,Tre Evans,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,225,2,6:50,410,410,Melvin Frazier Defensive Rebound.,37,44,-7,0,0.06726181017950193,0.131038232209936,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,226,2,6:26,386,386,Melvin Frazier made Layup. Assisted by Caleb Daniels.,37,46,-9,24,0.037953565928913885,0.07506788441723439,4,3,-8.1,NA,NA,Tulane,made,Melvin Frazier,Caleb Daniels,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,227,2,6:26,386,386,Foul on Prokop Slanina.,37,46,-9,0,0.037953565928913885,0.07506788441723439,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,228,2,6:26,386,386,Melvin Frazier missed Free Throw.,37,46,-9,0,0.037953565928913885,0.07506788441723439,4,3,-8.1,NA,NA,Tulane,missed,Melvin Frazier,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,229,2,6:26,386,386,Joseph Chartouny Defensive Rebound.,37,46,-9,0,0.037953565928913885,0.07506788441723439,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,230,2,6:25,385,385,Foul on Cameron Reynolds.,37,46,-9,1,0.03785812281378166,0.07483732676027148,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,231,2,6:03,363,363,Will Tavares missed Layup.,37,46,-9,22,0.035686913085995066,0.0696495575742334,4,3,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,232,2,6:03,363,363,Melvin Frazier Defensive Rebound.,37,46,-9,0,0.035686913085995066,0.0696495575742334,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,233,2,5:37,337,337,Caleb Daniels missed Three Point Jumper.,37,46,-9,26,0.032685693036576584,0.0627737571299948,4,3,-8.1,NA,NA,Tulane,missed,Caleb Daniels,NA,TRUE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,234,2,5:37,337,337,Will Tavares Defensive Rebound.,37,46,-9,0,0.032685693036576584,0.0627737571299948,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,235,2,5:29,329,329,Will Tavares missed Layup.,37,46,-9,8,0.03161769113555501,0.06041214522737255,4,3,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,236,2,5:29,329,329,Samir Sehic Block.,37,46,-9,0,0.03161769113555501,0.06041214522737255,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,237,2,5:27,327,327,Caleb Daniels Defensive Rebound.,37,46,-9,2,0.03133854568064723,0.05980137922004932,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,238,2,5:21,321,321,Cameron Reynolds Turnover.,37,46,-9,6,0.030471096288083522,0.057919247529777264,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,239,2,5:20,320,320,Perris Hicks Steal.,37,46,-9,1,0.030322100851374288,0.0575982646605716,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,240,2,5:17,317,317,Prokop Slanina made Layup. Assisted by Perris Hicks.,39,46,-7,3,0.05439570739392287,0.10083955624822988,4,3,-8.1,NA,NA,Fordham,made,Prokop Slanina,Perris Hicks,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,241,2,5:02,302,302,Samir Sehic missed Jumper.,39,46,-7,15,0.05167182869940361,0.09491565926182094,4,3,-8.1,NA,NA,Tulane,missed,Samir Sehic,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,242,2,5:02,302,302,Prokop Slanina Defensive Rebound.,39,46,-7,0,0.05167182869940361,0.09491565926182094,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,243,2,4:43,283,283,Joseph Chartouny missed Three Point Jumper.,39,46,-7,19,0.051630223728581864,0.09346931325152369,4,3,-8.1,NA,NA,Fordham,missed,Joseph Chartouny,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,244,2,4:43,283,283,Samir Sehic Defensive Rebound.,39,46,-7,0,0.051630223728581864,0.09346931325152369,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,245,2,4:27,267,267,Samir Sehic Turnover.,39,46,-7,16,0.05355330590837761,0.09560895734335692,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,246,2,4:26,266,266,Joseph Chartouny Steal.,39,46,-7,1,0.05370338518490512,0.09579059951266951,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,247,2,4:22,262,262,Perris Hicks Turnover.,39,46,-7,4,0.0543177117279618,0.09653608072615419,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,248,2,4:22,262,262,Official TV Timeout,39,46,-7,0,0.0543177117279618,0.09653608072615419,4,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,249,2,4:22,262,262,Tulane  Timeout,39,46,-7,0,0.0543177117279618,0.09653608072615419,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,250,2,4:00,240,240,Foul on Joseph Chartouny.,39,46,-7,22,0.0572315979392193,0.09970567819589665,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,251,2,4:00,240,240,Melvin Frazier made Free Throw.,39,47,-8,0,0.04244916725256597,0.07482325094979236,3,3,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,252,2,4:00,240,240,Melvin Frazier made Free Throw.,39,48,-9,0,0.03135791325802814,0.05576581654159417,3,3,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,253,2,3:48,228,228,Prokop Slanina Turnover.,39,48,-9,12,0.031497186306240835,0.055417011061505726,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,254,2,3:26,206,206,Jordan Cornish made Jumper.,39,50,-11,22,0.014912282124548865,0.026017636260600854,3,3,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,255,2,3:12,192,192,Foul on Melvin Frazier.,39,50,-11,14,0.01199673050922579,0.02066479610197153,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,256,2,3:12,192,192,Will Tavares made Free Throw.,40,50,-10,0,0.01695179614104695,0.029094643555328117,3,3,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,TRUE,Fordham,Fordham
+400987956,2017-11-19,Fordham,Tulane,257,2,3:12,192,192,Will Tavares made Free Throw.,41,50,-9,0,0.023903959464630607,0.04081996788080296,3,3,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,TRUE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,258,2,3:01,181,181,Melvin Frazier Turnover.,41,50,-9,11,0.019787892285593127,0.03347922952755814,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,259,2,3:00,180,180,Perris Hicks Steal.,41,50,-9,1,0.01944460614065099,0.03286929333689644,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,260,2,2:58,178,178,Perris Hicks made Three Point Jumper.,44,50,-6,2,0.05644391243191948,0.09279352467587235,3,3,-8.1,NA,NA,Fordham,made,Perris Hicks,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,261,2,2:41,161,161,Foul on Joseph Chartouny.,44,50,-6,17,0.046460131654919745,0.07547817304106784,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,262,2,2:41,161,161,Jordan Cornish made Free Throw.,44,51,-7,0,0.031093814988808675,0.05102797368979809,3,3,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,263,2,2:41,161,161,Jordan Cornish made Free Throw.,44,52,-8,0,0.020699458215728557,0.034205073943885674,3,3,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,264,2,2:30,150,150,Will Tavares made Layup.,46,52,-6,11,0.040420259930623405,0.0650997949590043,3,3,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,265,2,2:17,137,137,Samir Sehic made Layup. Assisted by Jordan Cornish.,46,54,-8,13,0.013177398959072956,0.021253295061031092,3,3,-8.1,NA,NA,Tulane,made,Samir Sehic,Jordan Cornish,FALSE,FALSE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,266,2,2:06,126,126,Joseph Chartouny Turnover.,46,54,-8,11,0.010306562200147005,0.01641987504186443,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,267,2,2:05,125,125,Ray Ona Embo Steal.,46,54,-8,1,0.010063833665117802,0.016014655973169898,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,268,2,2:01,121,121,Foul on Prokop Slanina.,46,54,-8,4,0.009124054562677114,0.014451301635566453,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,269,2,2:01,121,121,Jordan Cornish missed Free Throw.,46,54,-8,0,0.009124054562677114,0.014451301635566453,3,3,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,270,2,2:01,121,121,Tulane Deadball Team Rebound.,46,54,-8,0,0.009124054562677114,0.014451301635566453,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,271,2,2:01,121,121,Jordan Cornish made Free Throw.,46,55,-9,0,0.005402497346336499,0.008575650399792831,3,3,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,272,2,1:43,103,103,Will Tavares missed Jumper.,46,55,-9,18,0.0030609297972195968,0.004747330355177231,3,3,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,273,2,1:43,103,103,Melvin Frazier Block.,46,55,-9,0,0.0030609297972195968,0.004747330355177231,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,274,2,1:41,101,101,Melvin Frazier Defensive Rebound.,46,55,-9,2,0.00285227079248015,0.0044118004442637495,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,275,2,1:37,97,97,Cameron Reynolds Turnover.,46,55,-9,4,0.002464512714253966,0.0037912575450397006,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,276,2,1:36,96,96,Will Tavares Steal.,46,55,-9,1,0.0023736143256247967,0.003646386655008497,3,3,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,277,2,1:34,94,94,Perris Hicks made Layup. Assisted by Will Tavares.,48,55,-7,2,0.007744261414022379,0.011828891338723948,3,3,-8.1,NA,NA,Fordham,made,Perris Hicks,Will Tavares,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,278,2,1:34,94,94,Fordham  Timeout,48,55,-7,0,0.007744261414022379,0.011828891338723948,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,279,2,1:20,80,80,Foul on Tre Evans.,48,55,-7,14,0.005081678363049486,0.0076168757145929425,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,280,2,1:20,80,80,Jordan Cornish made Free Throw.,48,56,-8,0,0.0025408903119436034,0.003813372914259531,3,2,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,281,2,1:20,80,80,Jordan Cornish made Free Throw.,48,57,-9,0,0.0012688505809017546,0.0019055102941268423,3,2,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,282,2,1:10,70,70,Will Tavares made Layup.,50,57,-7,10,0.0036669255989687944,0.005418663109981727,3,2,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,283,2,1:10,70,70,Foul on Melvin Frazier.,50,57,-7,0,0.0036669255989687944,0.005418663109981727,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,284,2,1:10,70,70,Will Tavares missed Free Throw.,50,57,-7,0,0.0036669255989687944,0.005418663109981727,3,2,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,FALSE,TRUE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,285,2,1:10,70,70,Melvin Frazier Defensive Rebound.,50,57,-7,0,0.0036669255989687944,0.005418663109981727,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,286,2,1:04,64,64,Foul on Tre Evans.,50,57,-7,6,0.002981615614330941,0.00436728036443827,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,287,2,1:04,64,64,Jordan Cornish missed Free Throw.,50,57,-7,0,0.002981615614330941,0.00436728036443827,3,2,-8.1,NA,NA,Tulane,missed,Jordan Cornish,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,288,2,1:04,64,64,Jordan Cornish Offensive Rebound.,50,57,-7,0,0.002981615614330941,0.00436728036443827,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,289,2,1:01,61,61,Foul on Tre Evans.,50,57,-7,3,0.0026823211489516554,0.003911338738935043,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,290,2,1:01,61,61,Jordan Cornish made Free Throw.,50,58,-8,0,0.0012174127667315315,0.0017764168832600062,3,2,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,291,2,1:01,61,61,Jordan Cornish made Free Throw.,50,59,-9,0,5.52098647454622e-4,8.058543976864187e-4,3,2,-8.1,NA,NA,Tulane,made,Jordan Cornish,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,292,2,0:47,47,47,Will Tavares made Jumper.,52,59,-7,14,0.0015981534475255797,0.002280857778366331,3,2,-8.1,NA,NA,Fordham,made,Will Tavares,NA,FALSE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,293,2,0:40,40,40,Foul on Joseph Chartouny.,52,59,-7,7,0.0012123866773133376,0.0017111644027851347,3,2,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,294,2,0:40,40,40,Samir Sehic made Free Throw.,52,60,-8,0,4.884476710793862e-4,6.896014198796817e-4,3,2,-8.1,NA,NA,Tulane,made,Samir Sehic,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,295,2,0:40,40,40,Samir Sehic made Free Throw.,52,61,-9,0,1.9670119940621005e-4,2.777405684468464e-4,3,2,-8.1,NA,NA,Tulane,made,Samir Sehic,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,296,2,0:16,16,16,Ivan Raut made Three Point Jumper. Assisted by Perris Hicks.,55,61,-6,24,0.001254999429652217,0.0017017991407835059,3,2,-8.1,NA,NA,Fordham,made,Ivan Raut,Perris Hicks,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,297,2,0:16,16,16,Fordham  Timeout,55,61,-6,0,0.001254999429652217,0.0017017991407835059,3,1,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,298,2,0:14,14,14,Foul on Ivan Raut.,55,61,-6,2,0.0011600959286514573,0.001567758667046619,3,1,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,299,2,0:14,14,14,Melvin Frazier made Free Throw.,55,62,-7,0,3.958094772544084e-4,5.350425085883905e-4,3,1,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,TRUE,Tulane,Tulane
+400987956,2017-11-19,Fordham,Tulane,300,2,0:14,14,14,Melvin Frazier made Free Throw.,55,63,-8,0,1.3497694651764728e-4,1.8247423992435053e-4,3,1,-8.1,NA,NA,Tulane,made,Melvin Frazier,NA,FALSE,TRUE,Tulane,Fordham
+400987956,2017-11-19,Fordham,Tulane,301,2,0:04,4,4,Will Tavares missed Three Point Jumper.,55,63,-8,10,7.796832244490283e-5,1.0358097555540719e-4,3,1,-8.1,NA,NA,Fordham,missed,Will Tavares,NA,TRUE,FALSE,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,302,2,0:04,4,4,Jordan Cornish Defensive Rebound.,55,63,-8,0,7.796832244490283e-5,1.0358097555540719e-4,3,1,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Tulane
+400987956,2017-11-19,Fordham,Tulane,303,2,0:00,0,0,End of Game,55,55,0,4,2.465000946185354e-70,3.257488532207521e-70,3,1,-8.1,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,NA

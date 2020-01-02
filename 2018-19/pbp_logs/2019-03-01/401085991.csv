@@ -1,0 +1,277 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085991,2019-03-01,Fairfield,Marist,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5989465274969654,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield
+401085991,2019-03-01,Fairfield,Marist,2,1,19:39,2379,2379,Neftali Alvarez missed Three Point Jumper.,0,0,0,21,0.5987432845154673,0.5,4,4,2.5,NA,NA,Fairfield,missed,Neftali Alvarez,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,3,1,19:35,2375,2375,David Knudsen Defensive Rebound.,0,0,0,4,0.5987039871591083,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,4,1,19:24,2364,2364,Darius Hines Turnover.,0,0,0,11,0.5985949387640663,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,5,1,19:24,2364,2364,Neftali Alvarez Steal.,0,0,0,0,0.5985949387640663,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,6,1,19:16,2356,2356,Jonathan Kasibabu made Layup. Assisted by Matija Milin.,2,0,2,8,0.6409781517950445,0.5449611943204852,4,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Matija Milin,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,7,1,18:54,2334,2334,David Knudsen missed Three Point Jumper.,2,0,2,22,0.6412059862149081,0.5454385061647294,4,4,2.5,NA,NA,Marist,missed,David Knudsen,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,8,1,18:50,2330,2330,Neftali Alvarez Defensive Rebound.,2,0,2,4,0.6412473932917445,0.5455259319330696,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,9,1,18:46,2326,2326,Thomas Nolan missed Three Point Jumper.,2,0,2,4,0.6412887847697487,0.5456135467511029,4,4,2.5,NA,NA,Fairfield,missed,Thomas Nolan,NA,TRUE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,10,1,18:43,2323,2323,Fairfield Offensive Rebound.,2,0,2,3,0.6413198156746253,0.5456793799013266,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,11,1,18:21,2301,2301,Taj Benning missed Three Point Jumper.,2,0,2,22,0.6415468726680237,0.5461652125929003,4,4,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,12,1,18:17,2297,2297,Brian Parker Defensive Rebound.,2,0,2,4,0.6415880284681544,0.5462540972634312,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,13,1,18:05,2285,2285,Brian Parker missed Layup.,2,0,2,12,0.641711183062727,0.5465217053597001,4,4,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,14,1,18:02,2282,2282,Taj Benning Defensive Rebound.,2,0,2,3,0.6417418892838989,0.546588823501246,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,15,1,17:55,2275,2275,Thomas Nolan missed Three Point Jumper.,2,0,2,7,0.6418133925029889,0.5467457551815094,4,4,2.5,NA,NA,Fairfield,missed,Thomas Nolan,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,16,1,17:55,2275,2275,Marist Defensive Rebound.,2,0,2,0,0.6418133925029889,0.5467457551815094,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,17,1,17:33,2253,2253,David Knudsen made Layup. Assisted by Brian Parker.,2,2,0,22,0.5974093377849867,0.5,4,4,2.5,NA,NA,Marist,made,David Knudsen,Brian Parker,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,18,1,17:03,2223,2223,Taj Benning missed Jumper.,2,2,0,30,0.5970605093542701,0.5,4,4,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,19,1,16:59,2219,2219,Jonathan Kasibabu Offensive Rebound.,2,2,0,4,0.5970130311798821,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,20,1,16:58,2218,2218,Jonathan Kasibabu missed Layup.,2,2,0,1,0.5970011255714864,0.5,4,4,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,21,1,16:55,2215,2215,David Knudsen Defensive Rebound.,2,2,0,3,0.5969653219234904,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,22,1,16:52,2212,2212,Brian Parker Turnover.,2,2,0,3,0.5969293876903999,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,23,1,16:52,2212,2212,Jonathan Kasibabu Steal.,2,2,0,0,0.5969293876903999,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,24,1,16:45,2205,2205,Foul on Thomas Nolan.,2,2,0,7,0.5968450307809101,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,25,1,16:45,2205,2205,Thomas Nolan Turnover.,2,2,0,0,0.5968450307809101,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,26,1,16:28,2188,2188,Taj Benning Defensive Rebound.,2,2,0,17,0.5966371586002417,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,27,1,16:15,2175,2175,Matija Milin missed Layup.,2,2,0,13,0.5964752844744222,0.5,4,4,2.5,NA,NA,Fairfield,missed,Matija Milin,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,28,1,16:11,2171,2171,Aleksandar Dozic Defensive Rebound.,2,2,0,4,0.5964249626841945,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,29,1,15:52,2152,2152,Aleksandar Dozic Turnover.,2,2,0,19,0.5961827638059722,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,30,1,15:52,2152,2152,Official TV Timeout,2,2,0,0,0.5961827638059722,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,31,1,15:42,2142,2142,Matija Milin made Layup. Assisted by Taj Benning.,4,2,2,10,0.6431072859007053,0.5497917817235468,4,4,2.5,NA,NA,Fairfield,made,Matija Milin,Taj Benning,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,32,1,15:16,2116,2116,David Knudsen missed Jumper.,4,2,2,26,0.6433448294568828,0.5504007677468735,4,4,2.5,NA,NA,Marist,missed,David Knudsen,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,33,1,15:11,2111,2111,Isaiah Lamb Offensive Rebound.,4,2,2,5,0.6433901455297744,0.5505185617369068,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,34,1,15:10,2110,2110,Isaiah Lamb missed Layup.,4,2,2,1,0.6433991960009519,0.5505421479818391,4,4,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,35,1,15:07,2107,2107,Isaiah Lamb Offensive Rebound.,4,2,2,3,0.6434263227150598,0.5506129622145127,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,36,1,14:46,2086,2086,Matthew Herasme Turnover.,4,2,2,21,0.6436152641668367,0.5511110631973942,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,37,1,14:46,2086,2086,Landon Taliaferro Steal.,4,2,2,0,0.6436152641668367,0.5511110631973942,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,38,1,14:17,2057,2057,Matija Milin made Layup.,6,2,4,29,0.6900151106913374,0.602511987102092,4,4,2.5,NA,NA,Fairfield,made,Matija Milin,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,39,1,14:17,2057,2057,Marist  Timeout,6,2,4,0,0.6900151106913374,0.602511987102092,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,40,1,14:02,2042,2042,Foul on Luke Nedrow.,6,2,4,15,0.6904532808840259,0.6032151713537646,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,41,1,14:02,2042,2042,Luke Nedrow Turnover.,6,2,4,0,0.6904532808840259,0.6032151713537646,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,42,1,13:43,2023,2023,Jonathan Kasibabu Turnover.,6,2,4,19,0.6910107898367945,0.6041126313719679,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,43,1,13:43,2023,2023,Matthew Herasme Steal.,6,2,4,0,0.6910107898367945,0.6041126313719679,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,44,1,13:37,2017,2017,Austin Williams Turnover.,6,2,4,6,0.6911874924857725,0.6043976714293702,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,45,1,13:21,2001,2001,Landon Taliaferro missed Three Point Jumper.,6,2,4,16,0.6916603818904463,0.6051617557333803,3,4,2.5,NA,NA,Fairfield,missed,Landon Taliaferro,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,46,1,13:17,1997,1997,Luke Nedrow Defensive Rebound.,6,2,4,4,0.6917790101093659,0.6053537021407314,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,47,1,13:09,1989,1989,Brian Parker made Jumper.,6,4,2,8,0.6444765997774119,0.5534740814799639,3,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,48,1,12:51,1971,1971,Jonathan Kasibabu made Three Point Jumper. Assisted by Matija Milin.,9,4,5,18,0.715115618744998,0.6321286467087771,3,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Matija Milin,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,49,1,12:18,1938,1938,Matthew Herasme missed Three Point Jumper.,9,4,5,33,0.7164141709530487,0.6341013577639057,3,4,2.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,50,1,12:15,1935,1935,Taj Benning Defensive Rebound.,9,4,5,3,0.716533182227477,0.634282365640379,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,51,1,12:03,1923,1923,Matija Milin made Layup. Assisted by Taj Benning.,11,4,7,12,0.7597267895692033,0.6846592961865399,3,4,2.5,NA,NA,Fairfield,made,Matija Milin,Taj Benning,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,52,1,11:40,1900,1900,Brian Parker missed Jumper.,11,4,7,23,0.7609766233282197,0.6864669532718244,3,4,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,53,1,11:36,1896,1896,Matija Milin Defensive Rebound.,11,4,7,4,0.7611926596556974,0.6867805009883797,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,54,1,11:32,1892,1892,Aidas Kavaliauskas Turnover.,11,4,7,4,0.7614083749923116,0.687093880902234,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,55,1,11:32,1892,1892,Official TV Timeout,11,4,7,0,0.7614083749923116,0.687093880902234,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,56,1,11:03,1863,1863,Matthew Herasme missed Three Point Jumper.,11,4,7,29,0.7629652551153775,0.6893636058585259,3,4,2.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,57,1,11:00,1860,1860,Taj Benning Defensive Rebound.,11,4,7,3,0.7631258505954983,0.6895984421855925,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,58,1,10:52,1852,1852,Matija Milin made Three Point Jumper. Assisted by Taj Benning.,14,4,10,8,0.8198930029727418,0.7585104571329125,3,4,2.5,NA,NA,Fairfield,made,Matija Milin,Taj Benning,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,59,1,10:49,1849,1849,Marist  Timeout,14,4,10,3,0.8200938235345853,0.758798123910523,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,60,1,10:30,1830,1830,Foul on Taj Benning.,14,4,10,19,0.8213649479053653,0.7606208320983984,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,61,1,10:20,1820,1820,Brian Parker Turnover.,14,4,10,10,0.8220341733956911,0.7615815534960187,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,62,1,10:20,1820,1820,Thomas Nolan Steal.,14,4,10,0,0.8220341733956911,0.7615815534960187,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,63,1,10:15,1815,1815,Jonathan Kasibabu made Jumper. Assisted by Neftali Alvarez.,16,4,12,5,0.8538703602218372,0.8016795277410163,2,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Neftali Alvarez,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,64,1,9:57,1797,1797,Brian Parker made Layup.,16,6,10,18,0.8235769829196471,0.7637983672765496,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,65,1,9:43,1783,1783,Taj Benning missed Layup.,16,6,10,14,0.8245203684720116,0.7651547228291352,2,4,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,66,1,9:40,1780,1780,Aleksandar Dozic Defensive Rebound.,16,6,10,3,0.8247230954729391,0.7654462325400231,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,67,1,9:25,1765,1765,Foul on Aidas Kavaliauskas.,16,6,10,15,0.8257403923198162,0.7669090680330941,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,68,1,9:23,1763,1763,Foul on Aidas Kavaliauskas.,16,6,10,2,0.8258765419147079,0.7671048347662557,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,69,1,9:23,1763,1763,Brian Parker made Free Throw.,16,7,9,0,0.8080636796855462,0.7451350253533222,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,70,1,9:23,1763,1763,Brian Parker missed Free Throw.,16,7,9,0,0.8080636796855462,0.7451350253533222,2,4,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,71,1,9:23,1763,1763,Isaiah Lamb Offensive Rebound.,16,7,9,0,0.8080636796855462,0.7451350253533222,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,72,1,9:14,1754,1754,Foul on Jonathan Kasibabu.,16,7,9,9,0.8086497227197714,0.7459802314660261,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,73,1,9:14,1754,1754,Brian Parker made Free Throw.,16,8,8,0,0.7894414037828361,0.7226387131776877,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,74,1,9:14,1754,1754,Brian Parker made Free Throw.,16,9,7,0,0.7688560481715094,0.6980206174358156,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,75,1,8:54,1734,1734,Jonathan Kasibabu made Layup.,18,9,9,20,0.809963656469238,0.7478742396294774,2,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,76,1,8:31,1711,1711,Isaiah Lamb missed Layup.,18,9,9,23,0.8114980132270029,0.7500832289773542,2,4,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,77,1,8:27,1707,1707,Jonathan Kasibabu Defensive Rebound.,18,9,9,4,0.8117677475818749,0.750471159440458,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,78,1,8:05,1685,1685,Foul on David Knudsen.,18,9,9,22,0.8132655321390647,0.7526234388277887,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,79,1,7:57,1677,1677,Jonathan Kasibabu missed Layup.,18,9,9,8,0.8138025474453322,0.7533982998793303,2,4,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,80,1,7:54,1674,1674,Tobias Sjoberg Defensive Rebound.,18,9,9,3,0.8140014439394717,0.753686154389053,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,81,1,7:47,1667,1667,Darius Hines missed Layup.,18,9,9,7,0.8144606261974057,0.7543524572613364,2,4,2.5,NA,NA,Marist,missed,Darius Hines,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,82,1,7:44,1664,1664,Taj Benning Defensive Rebound.,18,9,9,3,0.8146554252708251,0.7546358452831482,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,83,1,7:42,1662,1662,Taj Benning made Layup.,20,9,11,2,0.8495780601262966,0.798090043060855,2,4,2.5,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,84,1,7:21,1641,1641,Matthew Herasme missed Layup.,20,9,11,21,0.8510015842452058,0.8001601805930382,2,4,2.5,NA,NA,NA,missed,Matthew Herasme,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,85,1,7:20,1640,1640,Tobias Sjoberg Offensive Rebound.,20,9,11,1,0.8510682000203689,0.800257409862936,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,86,1,7:20,1640,1640,Foul on Thomas Nolan.,20,9,11,0,0.8510682000203689,0.800257409862936,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,87,1,7:20,1640,1640,Official TV Timeout,20,9,11,0,0.8510682000203689,0.800257409862936,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,88,1,6:57,1617,1617,Austin Williams made Jumper.,20,11,9,23,0.8175885583025978,0.7589481238241527,2,4,2.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,89,1,6:37,1597,1597,Jonathan Kasibabu made Layup. Assisted by Landon Taliaferro.,22,11,11,20,0.853866681108053,0.8043633717278046,2,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Landon Taliaferro,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,90,1,6:19,1579,1579,Brian Parker Turnover.,22,11,11,18,0.8550184868131837,0.8060607626467842,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,91,1,5:56,1556,1556,Matija Milin Turnover.,22,11,11,23,0.8564944032779009,0.8082361969754174,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,92,1,5:33,1533,1533,Foul on Neftali Alvarez.,22,11,11,23,0.8579922725077908,0.8104394194145912,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,93,1,5:33,1533,1533,Austin Williams made Free Throw.,22,12,10,0,0.8411266253666203,0.7893129507165407,2,4,2.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,94,1,5:32,1532,1532,Austin Williams missed Free Throw.,22,12,10,1,0.8411912571488366,0.7894081665716611,2,4,2.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,95,1,5:30,1530,1530,Neftali Alvarez Defensive Rebound.,22,12,10,2,0.8413207643763414,0.789598896307804,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,96,1,5:11,1511,1511,Jonathan Kasibabu missed Jumper.,22,12,10,19,0.8425694157307502,0.7914331188761408,2,4,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,97,1,5:07,1507,1507,Isaiah Lamb Defensive Rebound.,22,12,10,4,0.8428370689899742,0.7918250514200057,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,98,1,4:57,1497,1497,Isaiah Lamb missed Three Point Jumper.,22,12,10,10,0.8435145684410325,0.7928149478262837,2,4,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,99,1,4:55,1495,1495,Neftali Alvarez Defensive Rebound.,22,12,10,2,0.8436515920928369,0.7930147564144804,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,100,1,4:55,1495,1495,Foul on Brian Parker.,22,12,10,0,0.8436515920928369,0.7930147564144804,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,101,1,4:45,1485,1485,Landon Taliaferro made Three Point Jumper. Assisted by Neftali Alvarez.,25,12,13,10,0.8904869038316778,0.8524764135545801,2,4,2.5,NA,NA,Fairfield,made,Landon Taliaferro,Neftali Alvarez,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,103,1,3:55,1435,1435,Official TV Timeout,25,14,11,1,0.8649789124047651,0.8205600912931732,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,104,1,3:55,1435,1435,Foul on Tobias Sjoberg.,25,14,11,0,0.8649789124047651,0.8205600912931732,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,105,1,3:55,1435,1435,Official TV Timeout,25,14,11,0,0.8649789124047651,0.8205600912931732,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,106,1,3:35,1415,1415,Jonathan Kasibabu missed Layup.,25,14,11,20,0.8664097815426746,0.8226286110602775,2,4,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,107,1,3:32,1412,1412,Isaiah Lamb Defensive Rebound.,25,14,11,3,0.8666186216617399,0.8229317385711219,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,108,1,3:12,1392,1392,Austin Williams made Layup.,25,16,9,20,0.832214708368684,0.7804335048423022,2,4,2.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,109,1,2:58,1378,1378,Foul on Matthew Herasme.,25,16,9,14,0.833110762248359,0.7817554909366219,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,110,1,2:48,1368,1368,Wassef Methnani missed Three Point Jumper.,25,16,9,10,0.8337447740545362,0.7826928125884156,2,4,2.5,NA,NA,Fairfield,missed,Wassef Methnani,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,111,1,2:44,1364,1364,Tobias Sjoberg Defensive Rebound.,25,16,9,4,0.833997639042985,0.7830669116565867,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,112,1,2:34,1354,1354,Austin Williams missed Layup.,25,16,9,10,0.83462936398185,0.7840017648043931,2,4,2.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,113,1,2:29,1349,1349,Jonathan Kasibabu Defensive Rebound.,25,16,9,5,0.834945585523625,0.7844696858408089,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,114,1,2:26,1346,1346,Taj Benning made Layup. Assisted by Neftali Alvarez.,27,16,11,3,0.8710113780654904,0.8293503144354074,2,4,2.5,NA,NA,Fairfield,made,Taj Benning,Neftali Alvarez,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,115,1,2:10,1330,1330,Foul on Jonathan Kasibabu.,27,16,11,16,0.872065627725143,0.8308925116155517,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,116,1,2:10,1330,1330,Brian Parker made Free Throw.,27,17,10,0,0.8550316562777608,0.8095735700580957,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,117,1,2:10,1330,1330,Brian Parker made Free Throw.,27,18,9,0,0.8361557914994779,0.786258378389036,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,118,1,1:43,1303,1303,Wassef Methnani missed Jumper.,27,18,9,27,0.8379244430423238,0.7888594237210793,2,4,2.5,NA,NA,Fairfield,missed,Wassef Methnani,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,119,1,1:39,1299,1299,Brian Parker Defensive Rebound.,27,18,9,4,0.8381938011459596,0.7892535913496046,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,120,1,1:35,1295,1295,Brian Parker missed Layup.,27,18,9,4,0.8384654871364413,0.7896505530945794,2,4,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,121,1,1:35,1295,1295,Wassef Methnani Block.,27,18,9,0,0.8384654871364413,0.7896505530945794,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,122,1,1:30,1290,1290,Matija Milin Defensive Rebound.,27,18,9,5,0.83880859179266,0.7901509497379915,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,123,1,1:28,1288,1288,Landon Taliaferro made Three Point Jumper. Assisted by Taj Benning.,30,18,12,2,0.8901979201266662,0.8543832707916614,2,4,2.5,NA,NA,Fairfield,made,Landon Taliaferro,Taj Benning,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,124,1,0:57,1257,1257,Brian Parker made Jumper.,30,20,10,31,0.8601753686268638,0.8170312889238589,2,4,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,125,1,0:33,1233,1233,Wassef Methnani made Layup. Assisted by Neftali Alvarez.,32,20,12,24,0.894329638208031,0.8602858331178341,2,4,2.5,NA,NA,Fairfield,made,Wassef Methnani,Neftali Alvarez,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,126,1,0:06,1206,1206,Matthew Herasme missed Three Point Jumper.,32,20,12,27,0.8966136511066015,0.8634969347279564,2,4,2.5,NA,NA,NA,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,127,1,0:02,1202,1202,Taj Benning Defensive Rebound.,32,20,12,4,0.8969567898640823,0.8639778792073194,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,128,1,0:00,1200,1200,End of 1st half,32,20,12,2,0.8971268450992259,0.8642163350891481,2,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401085991,2019-03-01,Fairfield,Marist,129,2,20:00,1200,1200,PLAY,32,20,12,0,0.8971268450992259,0.8642163350891481,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401085991,2019-03-01,Fairfield,Marist,130,2,19:34,1174,1174,Darius Hines missed Three Point Jumper.,32,20,12,26,0.8992587100802865,0.8672108272323817,3,4,2.5,NA,NA,Marist,missed,Darius Hines,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,131,2,19:31,1171,1171,Neftali Alvarez Defensive Rebound.,32,20,12,3,0.8994967397523633,0.8675456531121667,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,132,2,19:04,1144,1144,Matija Milin made Three Point Jumper. Assisted by Landon Taliaferro.,35,20,15,27,0.9365129763827156,0.9154154678971022,3,4,2.5,NA,NA,Fairfield,made,Matija Milin,Landon Taliaferro,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,133,2,18:42,1122,1122,Tobias Sjoberg Turnover.,35,20,15,22,0.9379338757683036,0.9174216018041106,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,134,2,18:42,1122,1122,Landon Taliaferro Steal.,35,20,15,0,0.9379338757683036,0.9174216018041106,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,135,2,18:42,1122,1122,Foul on Tobias Sjoberg.,35,20,15,0,0.9379338757683036,0.9174216018041106,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,136,2,18:22,1102,1102,Jonathan Kasibabu Turnover.,35,20,15,20,0.9392153100020068,0.9192279434017918,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,137,2,18:02,1082,1082,Tobias Sjoberg missed Layup.,35,20,15,20,0.9405051139233338,0.9210417122664275,3,4,2.5,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,138,2,18:01,1081,1081,Jonathan Kasibabu Defensive Rebound.,35,20,15,1,0.9405701188897083,0.921132984739996,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,139,2,18:01,1081,1081,Jonathan Kasibabu Turnover.,35,20,15,0,0.9405701188897083,0.921132984739996,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,140,2,17:53,1073,1073,Isaiah Lamb missed Layup.,35,20,15,8,0.9410926000322243,0.9218660572321458,3,4,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,141,2,17:50,1070,1070,Jonathan Kasibabu Defensive Rebound.,35,20,15,3,0.9412897727980603,0.9221424473761041,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,142,2,17:24,1044,1044,Neftali Alvarez missed Layup.,35,20,15,26,0.9430352526101555,0.9245826701226472,3,4,2.5,NA,NA,Fairfield,missed,Neftali Alvarez,NA,FALSE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,143,2,17:15,1035,1035,Jonathan Kasibabu Offensive Rebound.,35,20,15,9,0.9436580852353971,0.9254504396827097,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,144,2,17:15,1035,1035,Jonathan Kasibabu missed Layup.,35,20,15,0,0.9436580852353971,0.9254504396827097,3,4,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,145,2,17:14,1034,1034,Tobias Sjoberg Defensive Rebound.,35,20,15,1,0.943727973966769,0.9255477136319411,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,146,2,16:52,1012,1012,Tobias Sjoberg missed Layup.,35,20,15,22,0.9453039865888674,0.9277359510044381,3,4,2.5,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,147,2,16:46,1006,1006,Jonathan Kasibabu Defensive Rebound.,35,20,15,6,0.945747631821402,0.9283501191964936,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,148,2,16:43,1003,1003,Neftali Alvarez made Layup.,37,20,17,3,0.961017482336798,0.9482630915247334,3,4,2.5,NA,NA,Fairfield,made,Neftali Alvarez,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,149,2,16:39,999,999,Foul on Tobias Sjoberg.,37,20,17,4,0.9612697743898238,0.9486126103214633,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,150,2,16:37,997,997,Neftali Alvarez Turnover.,37,20,17,2,0.9613967491912025,0.9487884109385316,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,151,2,16:20,980,980,Tobias Sjoberg missed Layup.,37,20,17,17,0.9624991777928328,0.9503118147687113,3,4,2.5,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,152,2,16:20,980,980,Neftali Alvarez Block.,37,20,17,0,0.9624991777928328,0.9503118147687113,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,153,2,16:20,980,980,Jonathan Kasibabu Defensive Rebound.,37,20,17,0,0.9624991777928328,0.9503118147687113,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,154,2,15:59,959,959,Official TV Timeout,37,20,17,21,0.96388099623182,0.9522156093511722,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,155,2,15:56,956,956,Landon Taliaferro missed Layup.,37,20,17,3,0.9640655482235727,0.9524699479233916,3,4,2.5,NA,NA,Fairfield,missed,Landon Taliaferro,NA,FALSE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,156,2,15:53,953,953,Jonathan Kasibabu Offensive Rebound.,37,20,17,3,0.9642461637500213,0.952718917427611,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,157,2,15:42,942,942,Jonathan Kasibabu made Jumper.,39,20,19,11,0.9751266709601158,0.9670201319001713,3,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,158,2,15:25,925,925,Foul on Ryan Funk.,39,20,19,17,0.9758452481391434,0.9680126767200312,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,159,2,15:25,925,925,Ryan Funk Turnover.,39,20,19,0,0.9758452481391434,0.9680126767200312,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,160,2,15:03,903,903,Matija Milin Turnover.,39,20,19,22,0.9766859006052866,0.9691741003917618,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,161,2,15:03,903,903,Ryan Funk Steal.,39,20,19,0,0.9766859006052866,0.9691741003917618,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,162,2,14:53,893,893,Brian Parker missed Jumper.,39,20,19,10,0.9770454502286342,0.9696706659655706,3,4,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,163,2,14:48,888,888,Matija Milin Defensive Rebound.,39,20,19,5,0.9772216849109339,0.9699139633934901,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,164,2,14:35,875,875,Jonathan Kasibabu Turnover.,39,20,19,13,0.9776726846941238,0.970536152946749,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,165,2,14:28,868,868,Luke Nedrow made Layup. Assisted by Brian Parker.,39,22,17,7,0.9683651770225605,0.958403399242115,3,4,2.5,NA,NA,Marist,made,Luke Nedrow,Brian Parker,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,166,2,13:59,839,839,Taj Benning missed Jumper.,39,22,17,29,0.9696363401060609,0.9601508324713712,3,4,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,167,2,13:56,836,836,Luke Nedrow Defensive Rebound.,39,22,17,3,0.9697715232425599,0.96033617535883,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,168,2,13:11,791,791,Jonathan Kasibabu made Layup. Assisted by Taj Benning.,41,24,17,45,0.9719688250566013,0.9633342996627015,3,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Taj Benning,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,169,2,13:11,791,791,Foul on Luke Nedrow.,41,24,17,0,0.9719688250566013,0.9633342996627015,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,170,2,13:11,791,791,Jonathan Kasibabu made Free Throw.,42,24,18,0,0.9767579245143111,0.9695523878361466,3,4,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,NA,FALSE,TRUE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,171,2,12:57,777,777,Luke Nedrow made Three Point Jumper. Assisted by Ryan Funk.,42,27,15,14,0.9603265158454574,0.9483621919417969,3,4,2.5,NA,NA,Marist,made,Luke Nedrow,Ryan Funk,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,172,2,12:35,755,755,Jonathan Kasibabu Turnover.,42,27,15,22,0.9619873307951254,0.9506033066684237,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,173,2,12:35,755,755,Austin Williams Steal.,42,27,15,0,0.9619873307951254,0.9506033066684237,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,174,2,12:35,755,755,Foul on Jonathan Kasibabu.,42,27,15,0,0.9619873307951254,0.9506033066684237,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,175,2,12:35,755,755,Fairfield  Timeout,42,27,15,0,0.9619873307951254,0.9506033066684237,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,176,2,12:35,755,755,Official TV Timeout,42,27,15,0,0.9619873307951254,0.9506033066684237,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,177,2,12:26,746,746,Foul on Matija Milin.,42,27,15,9,0.9627196145127255,0.9515885943612905,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,178,2,12:03,723,723,Isaiah Lamb made Layup.,42,29,13,23,0.9479967064712223,0.9329413973163502,3,3,2.5,NA,NA,Marist,made,Isaiah Lamb,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,179,2,11:34,694,694,Matija Milin missed Three Point Jumper.,42,29,13,29,0.950654770142746,0.9365102081912814,3,3,2.5,NA,NA,Fairfield,missed,Matija Milin,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,180,2,11:30,690,690,Isaiah Lamb Defensive Rebound.,42,29,13,4,0.9509784641184329,0.9369462665203706,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,181,2,11:26,686,686,Foul on Matija Milin.,42,29,13,4,0.9512948363002188,0.9373727109687238,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,182,2,11:26,686,686,Official TV Timeout,42,29,13,0,0.9512948363002188,0.9373727109687238,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,183,2,11:26,686,686,Austin Williams made Free Throw.,42,30,12,0,0.9406932726547563,0.9239829006067982,3,3,2.5,NA,NA,Marist,made,Austin Williams,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,184,2,11:25,685,685,Austin Williams missed Free Throw.,42,30,12,1,0.9407795760333735,0.9240991532750613,3,3,2.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,185,2,11:22,682,682,Aidas Kavaliauskas Defensive Rebound.,42,30,12,3,0.941036071050029,0.9244447522261487,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,186,2,11:05,665,665,Neftali Alvarez missed Three Point Jumper.,42,30,12,17,0.942439328829767,0.926337109224669,3,3,2.5,NA,NA,Fairfield,missed,Neftali Alvarez,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,187,2,11:03,663,663,Marist Defensive Rebound.,42,30,12,2,0.9426008750811999,0.9265550228834387,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,188,2,10:55,655,655,Austin Williams missed Layup.,42,30,12,8,0.9432447421799257,0.9274233584548492,3,3,2.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,189,2,10:52,652,652,Matthew Herasme Offensive Rebound.,42,30,12,3,0.9434862174490121,0.9277488752923163,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,190,2,10:52,652,652,Matthew Herasme made Layup.,42,32,10,0,0.9160355498572076,0.8935167763006862,3,3,2.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,191,2,10:52,652,652,Foul on Matija Milin.,42,32,10,0,0.9160355498572076,0.8935167763006862,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,192,2,10:52,652,652,Matthew Herasme made Free Throw.,42,33,9,0,0.8981598755177937,0.8715193653336614,3,3,2.5,NA,NA,NA,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,193,2,10:26,626,626,Jesus Cruz made Layup.,44,33,11,26,0.933382454254206,0.9153090506989497,3,3,2.5,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,194,2,10:13,613,613,Brian Parker made Layup.,44,35,9,13,0.9023667759991211,0.8771501739860337,3,3,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,195,2,9:50,590,590,Wassef Methnani Turnover.,44,35,9,23,0.9053184612377645,0.881058727319241,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,196,2,9:42,582,582,Austin Williams Turnover.,44,35,9,8,0.90646693292078,0.8825704764489332,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,197,2,9:42,582,582,Aidas Kavaliauskas Steal.,44,35,9,0,0.90646693292078,0.8825704764489332,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,198,2,9:37,577,577,Aidas Kavaliauskas missed Layup.,44,35,9,5,0.9072212780670585,0.8835610043285536,3,3,2.5,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,FALSE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,199,2,9:36,576,576,Taj Benning Offensive Rebound.,44,35,9,1,0.9073756710058056,0.8837635140327973,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,200,2,9:36,576,576,Foul on Austin Williams.,44,35,9,0,0.9073756710058056,0.8837635140327973,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,201,2,9:36,576,576,Taj Benning made Free Throw.,45,35,10,0,0.9246590019613655,0.9049914474290236,3,3,2.5,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,202,2,9:35,575,575,Taj Benning missed Free Throw.,45,35,10,1,0.9248033254943363,0.9051811507535572,3,3,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,TRUE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,203,2,9:34,574,574,Brian Parker Defensive Rebound.,45,35,10,1,0.924948727787324,0.9053722077419907,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,204,2,9:25,565,565,Brian Parker Turnover.,45,35,10,9,0.9263071826326711,0.9071542411618653,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,205,2,9:25,565,565,Aidas Kavaliauskas Steal.,45,35,10,0,0.9263071826326711,0.9071542411618653,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,206,2,9:07,547,547,Aidas Kavaliauskas Turnover.,45,35,10,18,0.9292909190452278,0.911052713761246,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,207,2,9:07,547,547,Brian Parker Steal.,45,35,10,0,0.9292909190452278,0.911052713761246,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,208,2,8:44,524,524,Aleksandar Dozic made Layup. Assisted by Austin Williams.,45,37,8,23,0.8957468478827794,0.8704400460297612,3,3,2.5,NA,NA,Marist,made,Aleksandar Dozic,Austin Williams,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,209,2,8:22,502,502,Wassef Methnani missed Three Point Jumper.,45,37,8,22,0.8987586107865262,0.8744164713727183,3,3,2.5,NA,NA,Fairfield,missed,Wassef Methnani,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,210,2,8:20,500,500,Isaiah Lamb Defensive Rebound.,45,37,8,2,0.8990235327871611,0.8747667531126347,3,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,212,2,8:05,485,485,Official TV Timeout,45,39,6,0,0.8477268642800512,0.8140221191293274,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,213,2,8:05,485,485,Official TV Timeout,45,39,6,0,0.8477268642800512,0.8140221191293274,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,214,2,7:51,471,471,Matija Milin missed Layup.,45,39,6,14,0.8499226991709619,0.8169066637007325,3,2,2.5,NA,NA,Fairfield,missed,Matija Milin,NA,FALSE,FALSE,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,215,2,7:51,471,471,Taj Benning Offensive Rebound.,45,39,6,0,0.8499226991709619,0.8169066637007325,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,216,2,7:51,471,471,Foul on Luke Nedrow.,45,39,6,0,0.8499226991709619,0.8169066637007325,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,217,2,7:35,455,455,Taj Benning missed Three Point Jumper.,45,39,6,16,0.8528731361492388,0.820736955877055,3,2,2.5,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,218,2,7:31,451,451,Matthew Herasme Defensive Rebound.,45,39,6,4,0.8537073001738048,0.8218113880338564,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,219,2,7:21,441,441,Austin Williams Turnover.,45,39,6,10,0.8559946521703561,0.8247418755442836,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,220,2,7:21,441,441,Matija Milin Steal.,45,39,6,0,0.8559946521703561,0.8247418755442836,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,221,2,7:00,420,420,Jonathan Kasibabu missed Three Point Jumper.,45,39,6,21,0.8615701016603137,0.8318383045849826,3,2,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,222,2,6:56,416,416,Isaiah Lamb Defensive Rebound.,45,39,6,4,0.8625788967466332,0.8331312418070059,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,223,2,6:36,396,396,Brian Parker missed Layup.,45,39,6,20,0.8672775002590791,0.8392021406943295,3,2,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,224,2,6:34,394,394,Isaiah Lamb Offensive Rebound.,45,39,6,2,0.8677299070135842,0.8397896922264315,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,225,2,6:32,392,392,Isaiah Lamb missed Layup.,45,39,6,2,0.8681814297841766,0.8403763587343881,3,2,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,226,2,6:30,390,390,Jonathan Kasibabu Defensive Rebound.,45,39,6,2,0.8686326197567074,0.840962781857234,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,227,2,6:30,390,390,Jonathan Kasibabu made Layup. Assisted by Taj Benning.,47,39,8,0,0.92012589759294,0.9020793947844985,3,2,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Taj Benning,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,228,2,6:21,381,381,Marist  Timeout,47,39,8,9,0.9219195432469232,0.9044063205296734,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,229,2,6:03,363,363,David Knudsen Turnover.,47,39,8,18,0.9256373219017866,0.9092140117707894,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,230,2,6:03,363,363,Neftali Alvarez Steal.,47,39,8,0,0.9256373219017866,0.9092140117707894,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,231,2,5:59,359,359,Neftali Alvarez made Layup.,49,39,10,4,0.9574543383619004,0.9477071308588539,2,2,2.5,NA,NA,Fairfield,made,Neftali Alvarez,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,232,2,5:30,330,330,Brian Parker missed Jumper.,49,39,10,29,0.9627690423834445,0.9544908414976132,2,2,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,233,2,5:27,327,327,Jonathan Kasibabu Defensive Rebound.,49,39,10,3,0.9633789509157322,0.9552627726038969,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,234,2,5:00,300,300,Jonathan Kasibabu missed Three Point Jumper.,49,39,10,27,0.9686507576927547,0.9619168937425603,2,2,2.5,NA,NA,Fairfield,missed,Jonathan Kasibabu,NA,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,235,2,4:56,296,296,Ryan Funk Defensive Rebound.,49,39,10,4,0.9689590761428339,0.9623269127943288,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,236,2,4:48,288,288,Foul on Matija Milin.,49,39,10,8,0.9691418225178614,0.9626224739188735,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,237,2,4:48,288,288,Brian Parker missed Free Throw.,49,39,10,0,0.9691418225178614,0.9626224739188735,2,2,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,TRUE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,238,2,4:48,288,288,Marist Deadball Team Rebound.,49,39,10,0,0.9691418225178614,0.9626224739188735,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,239,2,4:48,288,288,Brian Parker made Free Throw.,49,40,9,0,0.9577972205989197,0.9490072280147318,2,2,2.5,NA,NA,Marist,made,Brian Parker,NA,FALSE,TRUE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,240,2,4:33,273,273,Taj Benning Turnover.,49,40,9,15,0.9568331125633995,0.9480467423462505,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,241,2,4:33,273,273,Austin Williams Steal.,49,40,9,0,0.9568331125633995,0.9480467423462505,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,242,2,4:20,260,260,Matthew Herasme made Layup. Assisted by Austin Williams.,49,42,7,13,0.9185691245454992,0.9030875855351389,2,2,2.5,NA,NA,NA,made,Matthew Herasme,Austin Williams,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,243,2,4:05,245,245,Foul on Matthew Herasme.,49,42,7,15,0.9162154117250062,0.9007012705421361,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,244,2,4:04,244,244,Landon Taliaferro missed Free Throw.,49,42,7,1,0.9161053146873672,0.9005979345985549,2,2,2.5,NA,NA,Fairfield,missed,Landon Taliaferro,NA,FALSE,TRUE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,245,2,4:02,242,242,Matthew Herasme Defensive Rebound.,49,42,7,2,0.9159120190659544,0.9004229797341594,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,246,2,3:53,233,233,Austin Williams Turnover.,49,42,7,9,0.9155886825847632,0.9002770612506984,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,247,2,3:53,233,233,Official TV Timeout,49,42,7,0,0.9155886825847632,0.9002770612506984,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,248,2,3:38,218,218,Jesus Cruz Turnover.,49,42,7,15,0.9177942391179074,0.9032320137923051,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,249,2,3:27,207,207,Aleksandar Dozic missed Jumper.,49,42,7,11,0.9222351868568149,0.9086697939772705,2,2,2.5,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,250,2,3:27,207,207,Jesus Cruz Block.,49,42,7,0,0.9222351868568149,0.9086697939772705,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,251,2,3:20,200,200,Aleksandar Dozic Offensive Rebound.,49,42,7,7,0.9264385615311,0.913719883516742,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,252,2,3:19,199,199,Aleksandar Dozic made Layup.,49,44,5,1,0.8660064572843865,0.8446360647516091,2,2,2.5,NA,NA,Marist,made,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,253,2,2:56,176,176,Jonathan Kasibabu made Layup.,51,44,7,23,0.9455623978061013,0.9364273920894912,2,2,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,NA,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,254,2,2:46,166,166,Brian Parker missed Layup.,51,44,7,10,0.9527713999029958,0.9449664687772896,2,2,2.5,NA,NA,Marist,missed,Brian Parker,NA,FALSE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,255,2,2:43,163,163,Landon Taliaferro Defensive Rebound.,51,44,7,3,0.9548189045986571,0.9473892285463469,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,256,2,2:19,139,139,Landon Taliaferro made Three Point Jumper. Assisted by Jonathan Kasibabu.,54,44,10,24,0.9924755778772889,0.991261054230281,2,2,2.5,NA,NA,Fairfield,made,Landon Taliaferro,Jonathan Kasibabu,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,257,2,2:01,121,121,Foul on Brian Parker.,54,44,10,18,0.9955994550648404,0.994923367476915,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,258,2,2:01,121,121,Brian Parker Turnover.,54,44,10,0,0.9955994550648404,0.994923367476915,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,259,2,1:54,114,114,Jonathan Kasibabu made Dunk. Assisted by Taj Benning.,56,44,12,7,0.9988474971303206,0.9986736357891554,2,2,2.5,NA,NA,Fairfield,made,Jonathan Kasibabu,Taj Benning,FALSE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,260,2,1:41,101,101,Austin Williams missed Layup.,56,44,12,13,0.9993645260582172,0.9992726688819409,2,2,2.5,NA,NA,Marist,missed,Austin Williams,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,261,2,1:41,101,101,Matija Milin Block.,56,44,12,0,0.9993645260582172,0.9992726688819409,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,262,2,1:35,95,95,Aleksandar Dozic Offensive Rebound.,56,44,12,6,0.9995315724230033,0.9994652646193548,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,263,2,1:35,95,95,Aleksandar Dozic missed Layup.,56,44,12,0,0.9995315724230033,0.9994652646193548,2,2,2.5,NA,NA,Marist,missed,Aleksandar Dozic,NA,FALSE,FALSE,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,264,2,1:35,95,95,Marist Offensive Rebound.,56,44,12,0,0.9995315724230033,0.9994652646193548,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,265,2,1:29,89,89,Austin Williams Offensive Rebound.,56,44,12,6,0.9996589120338079,0.999611664398358,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,266,2,1:26,86,86,Isaiah Lamb missed Three Point Jumper.,56,44,12,3,0.9997096360064862,0.9996698581103004,2,2,2.5,NA,NA,Marist,missed,Isaiah Lamb,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,267,2,1:22,82,82,Landon Taliaferro Defensive Rebound.,56,44,12,4,0.9997666145462204,0.9997351205885371,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,268,2,1:22,82,82,Foul on Ryan Funk.,56,44,12,0,0.9997666145462204,0.9997351205885371,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield
+401085991,2019-03-01,Fairfield,Marist,269,2,1:21,81,81,Landon Taliaferro missed Free Throw.,56,44,12,1,0.999779198415199,0.9997495162653933,2,2,2.5,NA,NA,Fairfield,missed,Landon Taliaferro,NA,FALSE,TRUE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,270,2,1:20,80,80,Isaiah Lamb Defensive Rebound.,56,44,12,1,0.9997911808818617,0.9997632172775945,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,271,2,1:14,74,74,Ryan Funk missed Three Point Jumper.,56,44,12,6,0.999851921803856,0.9998325544695974,2,2,2.5,NA,NA,Marist,missed,Ryan Funk,NA,TRUE,FALSE,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,272,2,1:11,71,71,Matija Milin Defensive Rebound.,56,44,12,3,0.9998761391767761,0.9998601348722091,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,273,2,0:51,51,51,Landon Taliaferro made Three Point Jumper. Assisted by Matija Milin.,59,44,15,20,0.9999972442281837,0.9999969177503709,2,2,2.5,NA,NA,Fairfield,made,Landon Taliaferro,Matija Milin,TRUE,FALSE,Fairfield,Marist
+401085991,2019-03-01,Fairfield,Marist,274,2,0:47,47,47,Foul on Neftali Alvarez.,59,44,15,4,0.9999980360272359,0.9999978076697358,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401085991,2019-03-01,Fairfield,Marist,275,2,0:24,24,24,Ryan Carmello Turnover.,59,44,15,23,0.999999759692095,0.9999997348618122,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,276,2,0:24,24,24,Neftali Alvarez Steal.,59,44,15,0,0.999999759692095,0.9999997348618122,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield
+401085991,2019-03-01,Fairfield,Marist,277,2,0:00,0,0,End of 2nd half,59,59,0,24,1,1,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,NA
+401085991,2019-03-01,Fairfield,Marist,278,2,0:00,0,0,End of Game,59,59,0,0,1,1,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,NA
