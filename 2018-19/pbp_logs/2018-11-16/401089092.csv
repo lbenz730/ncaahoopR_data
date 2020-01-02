@@ -1,0 +1,346 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401089092,2018-11-16,Lehigh,Princeton,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6180531678584243,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Princeton
+401089092,2018-11-16,Lehigh,Princeton,2,1,19:49,2389,2389,Foul on James Karnik.,0,0,0,11,0.6179283709467769,0.5,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,3,1,19:30,2370,2370,Ryan Schwieger made Layup.,0,2,-2,19,0.5746171843091524,0.4553392623404728,4,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,4,1,19:00,2340,2340,Kyle Leufroy missed Layup.,0,2,-2,30,0.5736096809272749,0.4546922706473648,4,4,3,NA,NA,Lehigh,missed,Kyle Leufroy,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,5,1,19:00,2340,2340,Richmond Aririguzoh Block.,0,2,-2,0,0.5736096809272749,0.4546922706473648,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,6,1,18:58,2338,2338,Jordan Cohen Offensive Rebound.,0,2,-2,2,0.573541605334365,0.4546487271837898,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,7,1,18:53,2333,2333,Lehigh  Turnover.,0,2,-2,5,0.5733709259451214,0.45453965530089274,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,8,1,18:45,2325,2325,Myles Stephens missed Jumper.,0,2,-2,8,0.5730963895978999,0.4543645204002807,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,9,1,18:45,2325,2325,Princeton Offensive Rebound.,0,2,-2,0,0.5730963895978999,0.4543645204002807,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,10,1,18:45,2325,2325,Foul on James Karnik.,0,2,-2,0,0.5730963895978999,0.4543645204002807,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,11,1,18:33,2313,2313,Ethan Wright missed Three Point Jumper.,0,2,-2,12,0.5726812708274979,0.4541004401909216,4,4,3,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,12,1,18:33,2313,2313,Lehigh Defensive Rebound.,0,2,-2,0,0.5726812708274979,0.4541004401909216,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,13,1,18:17,2297,2297,Jordan Cohen made Jumper.,2,2,0,16,0.6168170013892178,0.5,4,4,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,14,1,17:48,2268,2268,Ryan Schwieger made Layup.,2,4,-2,29,0.571089999016401,0.45309687598260123,4,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,15,1,17:48,2268,2268,Foul on Jordan Cohen.,2,4,-2,0,0.571089999016401,0.45309687598260123,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,16,1,17:48,2268,2268,Ryan Schwieger made Free Throw.,2,5,-3,0,0.5479067989252653,0.42990259105529255,4,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,17,1,17:32,2252,2252,Jordan Cohen missed Layup.,2,5,-3,16,0.5471411218427621,0.42936670331146465,4,4,3,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,18,1,17:32,2252,2252,Ryan Schwieger Block.,2,5,-3,0,0.5471411218427621,0.42936670331146465,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,19,1,17:32,2252,2252,Lehigh Offensive Rebound.,2,5,-3,0,0.5471411218427621,0.42936670331146465,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,20,1,17:23,2243,2243,Nic Lynch missed Layup.,2,5,-3,9,0.546707062482102,0.4290639993474413,4,4,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,21,1,17:23,2243,2243,Ryan Schwieger Defensive Rebound.,2,5,-3,0,0.546707062482102,0.4290639993474413,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,22,1,17:15,2235,2235,Myles Stephens missed Three Point Jumper.,2,5,-3,8,0.5463192404162974,0.4287942219546592,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,23,1,17:15,2235,2235,Lehigh Defensive Rebound.,2,5,-3,0,0.5463192404162974,0.4287942219546592,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,24,1,16:54,2214,2214,Pat Andree missed Jumper.,2,5,-3,21,0.5452925118344437,0.4280831918628082,4,4,3,NA,NA,Lehigh,missed,Pat Andree,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,25,1,16:54,2214,2214,Nic Lynch Offensive Rebound.,2,5,-3,0,0.5452925118344437,0.4280831918628082,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,26,1,16:46,2206,2206,Nic Lynch missed Layup.,2,5,-3,8,0.5448981470561519,0.42781134411298344,4,4,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,27,1,16:46,2206,2206,Richmond Aririguzoh Block.,2,5,-3,0,0.5448981470561519,0.42781134411298344,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,28,1,16:45,2205,2205,Princeton Defensive Rebound.,2,5,-3,1,0.5448487287533901,0.42777732868292595,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,29,1,16:15,2175,2175,Jerome Desrosiers missed Layup.,2,5,-3,30,0.5433538498798116,0.42675377747695203,4,4,3,NA,NA,Princeton,missed,Jerome Desrosiers,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,30,1,16:15,2175,2175,Nic Lynch Defensive Rebound.,2,5,-3,0,0.5433538498798116,0.42675377747695203,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,31,1,16:04,2164,2164,Lance Tejada missed Layup.,2,5,-3,11,0.5427998457440325,0.4263771183452826,4,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,32,1,16:04,2164,2164,Myles Stephens Defensive Rebound.,2,5,-3,0,0.5427998457440325,0.4263771183452826,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,33,1,15:58,2158,2158,Myles Stephens missed Jumper.,2,5,-3,6,0.5424961736636653,0.42617116882724937,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,34,1,15:58,2158,2158,Pat Andree Defensive Rebound.,2,5,-3,0,0.5424961736636653,0.42617116882724937,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,35,1,15:42,2142,2142,Official TV Timeout,2,5,-3,16,0.5416810734173519,0.4256200248211058,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,36,1,15:36,2136,2136,Foul on Will Gladson.,2,5,-3,6,0.541373398280644,0.42541258601276966,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,37,1,15:32,2132,2132,Lance Tejada made Jumper.,4,5,-1,4,0.5904479051350212,0.47492442840008553,4,4,3,NA,NA,Lehigh,made,Lance Tejada,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,38,1,15:13,2113,2113,Drew Friberg made Jumper. Assisted by Ethan Wright.,4,7,-3,19,0.5401836285820175,0.4246133186796587,4,4,3,NA,NA,Princeton,made,Drew Friberg,Ethan Wright,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,39,1,15:03,2103,2103,Kyle Leufroy missed Layup.,4,7,-3,10,0.5396611408498724,0.42426368467542835,4,4,3,NA,NA,Lehigh,missed,Kyle Leufroy,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,40,1,15:03,2103,2103,Nic Lynch Offensive Rebound.,4,7,-3,0,0.5396611408498724,0.42426368467542835,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,41,1,15:00,2100,2100,Nic Lynch missed Layup.,4,7,-3,3,0.5395037720270108,0.42415853169161377,4,4,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,42,1,15:00,2100,2100,Ryan Schwieger Block.,4,7,-3,0,0.5395037720270108,0.42415853169161377,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,43,1,14:58,2098,2098,Kyle Leufroy Offensive Rebound.,4,7,-3,2,0.5393986989687768,0.4240883610978508,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,44,1,14:55,2095,2095,Lance Tejada missed Three Point Jumper.,4,7,-3,3,0.5392408479022548,0.4239830013213456,4,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,TRUE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,45,1,14:55,2095,2095,Lehigh Offensive Rebound.,4,7,-3,0,0.5392408479022548,0.4239830013213456,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,46,1,14:49,2089,2089,Kyle Leufroy made Layup.,6,7,-1,6,0.5892546332708815,0.4744133499307184,4,4,3,NA,NA,Lehigh,made,Kyle Leufroy,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,47,1,14:24,2064,2064,Drew Friberg missed Three Point Jumper.,6,7,-1,25,0.5885426479812872,0.47411196907380904,4,4,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,48,1,14:24,2064,2064,Myles Stephens Offensive Rebound.,6,7,-1,0,0.5885426479812872,0.47411196907380904,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,49,1,14:20,2060,2060,Foul on Nic Lynch.,6,7,-1,4,0.5884274836416897,0.47406343494236614,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,50,1,14:17,2057,2057,Ryan Schwieger missed Three Point Jumper.,6,7,-1,3,0.5883408844288309,0.4740269757363088,4,4,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,51,1,14:17,2057,2057,Pat Andree Defensive Rebound.,6,7,-1,0,0.5883408844288309,0.4740269757363088,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,52,1,14:09,2049,2049,Pat Andree made Jumper.,8,7,1,8,0.6375871352691412,0.5260704981547399,4,4,3,NA,NA,Lehigh,made,Pat Andree,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,53,1,13:36,2016,2016,Sebastian Much missed Layup.,8,7,1,33,0.6374138667643752,0.5264765806034609,4,4,3,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,54,1,13:36,2016,2016,Kyle Leufroy Defensive Rebound.,8,7,1,0,0.6374138667643752,0.5264765806034609,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,55,1,13:21,2001,2001,Nic Lynch Turnover.,8,7,1,15,0.6373320785276522,0.5266634079983812,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,56,1,13:06,1986,1986,Foul on Lance Tejada.,8,7,1,15,0.6372485401680449,0.526851718635754,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,57,1,12:58,1978,1978,Foul on Caleb Bennett.,8,7,1,8,0.6372033061785403,0.5269527772938578,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,58,1,12:51,1971,1971,Myles Stephens missed Jumper.,8,7,1,7,0.6371633542369812,0.5270415699647331,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,59,1,12:51,1971,1971,Lehigh Deadball Team Rebound.,8,7,1,0,0.6371633542369812,0.5270415699647331,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,60,1,12:41,1961,1961,Nic Lynch made Layup. Assisted by Marques Wilson.,10,7,3,10,0.6857642561840386,0.5808709411419503,4,4,3,NA,NA,Lehigh,made,Nic Lynch,Marques Wilson,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,61,1,12:20,1940,1940,Sebastian Much Turnover.,10,7,3,21,0.686116268954707,0.5816620089641811,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,62,1,12:20,1940,1940,Foul on Sebastian Much.,10,7,3,0,0.686116268954707,0.5816620089641811,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,63,1,12:16,1936,1936,Caleb Bennett missed Layup.,10,7,3,4,0.6861836668198964,0.5818137495302403,4,4,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,64,1,12:16,1936,1936,Nic Lynch Offensive Rebound.,10,7,3,0,0.6861836668198964,0.5818137495302403,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,65,1,12:11,1931,1931,Jordan Cohen missed Three Point Jumper.,10,7,3,5,0.6862680835568971,0.5820039134638143,4,4,3,NA,NA,Lehigh,missed,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,66,1,12:11,1931,1931,Lehigh Offensive Rebound.,10,7,3,0,0.6862680835568971,0.5820039134638143,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,67,1,12:00,1920,1920,Foul on Ryan Schwieger.,10,7,3,11,0.6864528546873929,0.5824227117823739,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,68,1,12:00,1920,1920,Official TV Timeout,10,7,3,0,0.6864528546873929,0.5824227117823739,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,69,1,11:42,1902,1902,Caleb Bennett made Layup.,12,7,5,18,0.7327575258654514,0.636274801668064,4,4,3,NA,NA,Lehigh,made,Caleb Bennett,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,70,1,11:10,1870,1870,Foul on Marques Wilson.,12,7,5,32,0.7338758955330364,0.6382007705984859,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,71,1,11:10,1870,1870,Jerome Desrosiers made Free Throw.,12,8,4,0,0.7111271213119551,0.6116019110409466,4,4,3,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,72,1,11:10,1870,1870,Jerome Desrosiers made Free Throw.,12,9,3,0,0.6872624248710086,0.5843212247635606,4,4,3,NA,NA,Princeton,made,Jerome Desrosiers,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,73,1,10:58,1858,1858,Nic Lynch made Layup. Assisted by Marques Wilson.,14,9,5,12,0.7342922777209527,0.6389237403033098,4,4,3,NA,NA,Lehigh,made,Nic Lynch,Marques Wilson,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,74,1,10:41,1841,1841,Richmond Aririguzoh made Layup.,14,11,3,17,0.6877176550576644,0.5854262575307075,4,4,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,75,1,10:21,1821,1821,Caleb Bennett missed Layup.,14,11,3,20,0.6880294661201435,0.5861936701488931,4,4,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,76,1,10:21,1821,1821,Richmond Aririguzoh Block.,14,11,3,0,0.6880294661201435,0.5861936701488931,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,77,1,10:18,1818,1818,Jeameril Wilson Offensive Rebound.,14,11,3,3,0.68807623400833,0.5863092914682396,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,78,1,10:14,1814,1814,Foul on Richmond Aririguzoh.,14,11,3,4,0.6881386205793094,0.5864636883040397,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,79,1,10:14,1814,1814,Jeameril Wilson made Free Throw.,15,11,4,0,0.7125675116288052,0.6143940655592012,4,4,3,NA,NA,Lehigh,made,Jeameril Wilson,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,80,1,10:14,1814,1814,Jeameril Wilson made Free Throw.,16,11,5,0,0.7358174649919035,0.6415908795043108,4,4,3,NA,NA,Lehigh,made,Jeameril Wilson,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,81,1,10:03,1803,1803,Myles Stephens missed Three Point Jumper.,16,11,5,11,0.7362006961492005,0.6422640360446146,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,82,1,10:03,1803,1803,Lance Tejada Defensive Rebound.,16,11,5,0,0.7362006961492005,0.6422640360446146,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,83,1,9:53,1793,1793,Caleb Bennett missed Layup.,16,11,5,10,0.7365505337707959,0.6428790053273763,4,4,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,84,1,9:53,1793,1793,Will Gladson Defensive Rebound.,16,11,5,0,0.7365505337707959,0.6428790053273763,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,85,1,9:48,1788,1788,Drew Friberg missed Three Point Jumper.,16,11,5,5,0.7367260788231207,0.643187677751319,4,4,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,86,1,9:48,1788,1788,Caleb Bennett Defensive Rebound.,16,11,5,0,0.7367260788231207,0.643187677751319,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,87,1,9:27,1767,1767,Foul on Drew Friberg.,16,11,5,21,0.73746903056711,0.6444938855527119,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,88,1,9:20,1760,1760,Kyle Leufroy missed Three Point Jumper.,16,11,5,7,0.7377190755365381,0.6449331727895843,4,4,3,NA,NA,Lehigh,missed,Kyle Leufroy,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,89,1,9:20,1760,1760,Myles Stephens Defensive Rebound.,16,11,5,0,0.7377190755365381,0.6449331727895843,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,90,1,8:52,1732,1732,Ryan Schwieger Turnover.,16,11,5,28,0.7387342785701827,0.6467128882810935,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,91,1,8:32,1712,1712,Marques Wilson made Three Point Jumper. Assisted by Lance Tejada.,19,11,8,20,0.8036763837680889,0.7264091972942311,4,4,3,NA,NA,Lehigh,made,Marques Wilson,Lance Tejada,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,92,1,8:13,1693,1693,Jerome Desrosiers missed Three Point Jumper.,19,11,8,19,0.8047865834282698,0.7281549008177122,4,4,3,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,93,1,8:13,1693,1693,Marques Wilson Defensive Rebound.,19,11,8,0,0.8047865834282698,0.7281549008177122,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,94,1,8:02,1682,1682,Marques Wilson missed Jumper.,19,11,8,11,0.8054322197210336,0.7291706918229356,4,4,3,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,95,1,8:02,1682,1682,Myles Stephens Defensive Rebound.,19,11,8,0,0.8054322197210336,0.7291706918229356,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,96,1,7:55,1675,1675,Foul on Marques Wilson.,19,11,8,7,0.8058344141123521,0.7298077951137548,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,97,1,7:55,1675,1675,Official TV Timeout,19,11,8,0,0.8058344141123521,0.7298077951137548,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,98,1,7:55,1675,1675,Myles Stephens made Free Throw.,19,12,7,0,0.7856600683828948,0.7046295090549294,4,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,99,1,7:55,1675,1675,Myles Stephens made Free Throw.,19,13,6,0,0.7640034361882186,0.6781397018825593,4,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,100,1,7:32,1652,1652,Jordan Cohen missed Layup.,19,13,6,23,0.765009411145356,0.6798407032196302,4,4,3,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,101,1,7:32,1652,1652,Jerome Desrosiers Defensive Rebound.,19,13,6,0,0.765009411145356,0.6798407032196302,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,102,1,7:24,1644,1644,Myles Stephens made Three Point Jumper. Assisted by Ryan Schwieger.,19,16,3,8,0.6909087206041665,0.5933556624129448,4,4,3,NA,NA,Princeton,made,Myles Stephens,Ryan Schwieger,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,103,1,7:08,1628,1628,Pat Andree missed Three Point Jumper.,19,16,3,16,0.6911329798671353,0.5939939384024777,4,4,3,NA,NA,Lehigh,missed,Pat Andree,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,104,1,7:08,1628,1628,Princeton Defensive Rebound.,19,16,3,0,0.6911329798671353,0.5939939384024777,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,105,1,6:54,1614,1614,Ryan Schwieger missed Layup.,19,16,3,14,0.69132067146233,0.5945478893589056,4,4,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,106,1,6:54,1614,1614,Richmond Aririguzoh Offensive Rebound.,19,16,3,0,0.69132067146233,0.5945478893589056,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,107,1,6:51,1611,1611,Foul on Jeameril Wilson.,19,16,3,3,0.6913601032294097,0.594666265872989,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,108,1,6:51,1611,1611,Richmond Aririguzoh missed Free Throw.,19,16,3,0,0.6913601032294097,0.594666265872989,4,4,3,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,109,1,6:51,1611,1611,Princeton Deadball Team Rebound.,19,16,3,0,0.6913601032294097,0.594666265872989,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,110,1,6:51,1611,1611,Richmond Aririguzoh made Free Throw.,19,17,2,0,0.663453493122287,0.56353626359315,4,4,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,111,1,6:37,1597,1597,Jordan Cohen made Layup.,21,17,4,14,0.7182631542045121,0.6257685752249849,4,4,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,112,1,6:08,1568,1568,Myles Stephens made Jumper.,21,19,2,29,0.6635063086034612,0.5646930478938033,4,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,113,1,6:02,1562,1562,Lance Tejada missed Three Point Jumper.,21,19,2,6,0.6635132225202505,0.5648562192024411,4,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,114,1,6:02,1562,1562,Richmond Aririguzoh Defensive Rebound.,21,19,2,0,0.6635132225202505,0.5648562192024411,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,115,1,5:45,1545,1545,Drew Friberg missed Three Point Jumper.,21,19,2,17,0.6635351215965375,0.5653232062025131,4,4,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,116,1,5:45,1545,1545,Pat Andree Defensive Rebound.,21,19,2,0,0.6635351215965375,0.5653232062025131,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,117,1,5:29,1529,1529,Lance Tejada missed Layup.,21,19,2,16,0.6635611775947609,0.5657708828687078,4,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,118,1,5:29,1529,1529,Lance Tejada Offensive Rebound.,21,19,2,0,0.6635611775947609,0.5657708828687078,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,119,1,5:28,1528,1528,Lance Tejada missed Layup.,21,19,2,1,0.6635630466976031,0.5657991774203687,4,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,120,1,5:28,1528,1528,Nic Lynch Offensive Rebound.,21,19,2,0,0.6635630466976031,0.5657991774203687,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,121,1,5:28,1528,1528,Foul on Drew Friberg.,21,19,2,0,0.6635630466976031,0.5657991774203687,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,122,1,5:27,1527,1527,Foul on Will Gladson.,21,19,2,1,0.6635649481725154,0.5658275122425703,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,123,1,5:27,1527,1527,Nic Lynch made Free Throw.,22,19,3,0,0.6924599994545597,0.5980318329969936,4,4,3,NA,NA,Lehigh,made,Nic Lynch,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,124,1,5:27,1527,1527,Nic Lynch missed Free Throw.,22,19,3,0,0.6924599994545597,0.5980318329969936,4,4,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,125,1,5:27,1527,1527,Jerome Desrosiers Defensive Rebound.,22,19,3,0,0.6924599994545597,0.5980318329969936,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,126,1,5:15,1515,1515,Foul on Kyle Leufroy.,22,19,3,12,0.6926332175498752,0.5985357457966013,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,127,1,5:15,1515,1515,Lehigh  Timeout,22,19,3,0,0.6926332175498752,0.5985357457966013,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,128,1,5:15,1515,1515,Ryan Schwieger made Free Throw.,22,20,2,0,0.6635905375214091,0.566170867667232,3,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,129,1,5:15,1515,1515,Ryan Schwieger made Free Throw.,22,21,1,0,0.6332566856731623,0.5332315838629054,3,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,130,1,4:55,1495,1495,Lance Tejada missed Layup.,22,21,1,20,0.6330373804963779,0.5335294625677695,3,4,3,NA,NA,Lehigh,missed,Lance Tejada,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,131,1,4:55,1495,1495,Ryan Schwieger Defensive Rebound.,22,21,1,0,0.6330373804963779,0.5335294625677695,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,132,1,4:32,1472,1472,Sebastian Much missed Layup.,22,21,1,23,0.6327998117735422,0.5338868011101874,3,4,3,NA,NA,Princeton,missed,Sebastian Much,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,133,1,4:32,1472,1472,Nic Lynch Defensive Rebound.,22,21,1,0,0.6327998117735422,0.5338868011101874,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,134,1,4:24,1464,1464,Kyle Leufroy Turnover.,22,21,1,8,0.6327217977655548,0.5340153761412025,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,135,1,4:24,1464,1464,Myles Stephens Steal.,22,21,1,0,0.6327217977655548,0.5340153761412025,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,136,1,4:24,1464,1464,Myles Stephens Turnover.,22,21,1,0,0.6327217977655548,0.5340153761412025,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,137,1,4:16,1456,1456,Nic Lynch missed Layup.,22,21,1,8,0.6326465424780211,0.5341463898579936,3,4,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,138,1,4:16,1456,1456,Pat Andree Offensive Rebound.,22,21,1,0,0.6326465424780211,0.5341463898579936,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,139,1,4:13,1453,1453,Pat Andree missed Jumper.,22,21,1,3,0.6326190800848503,0.5341961773450636,3,4,3,NA,NA,Lehigh,missed,Pat Andree,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,140,1,4:13,1453,1453,Myles Stephens Defensive Rebound.,22,21,1,0,0.6326190800848503,0.5341961773450636,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,141,1,4:07,1447,1447,Foul on Jordan Cohen.,22,21,1,6,0.6325649679393024,0.5342965051211632,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,142,1,4:07,1447,1447,Myles Stephens made Free Throw.,22,22,0,0,0.6000886816283157,0.5,3,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,143,1,4:07,1447,1447,Myles Stephens missed Free Throw.,22,22,0,0,0.6000886816283157,0.5,3,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,144,1,4:07,1447,1447,Pat Andree Defensive Rebound.,22,22,0,0,0.6000886816283157,0.5,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,145,1,3:49,1429,1429,Pat Andree missed Three Point Jumper.,22,22,0,18,0.5996259294058051,0.5,3,4,3,NA,NA,Lehigh,missed,Pat Andree,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,146,1,3:49,1429,1429,Myles Stephens Defensive Rebound.,22,22,0,0,0.5996259294058051,0.5,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,147,1,3:46,1426,1426,Foul on Lance Tejada.,22,22,0,3,0.5995480619465992,0.5,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,148,1,3:46,1426,1426,Official TV Timeout,22,22,0,0,0.5995480619465992,0.5,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,149,1,3:46,1426,1426,Myles Stephens made Free Throw.,22,23,-1,0,0.5658169751067302,0.46536110356949495,3,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,150,1,3:46,1426,1426,Myles Stephens made Free Throw.,22,24,-2,0,0.5314650179141516,0.4310531117022923,3,4,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,151,1,3:19,1399,1399,Caleb Bennett missed Three Point Jumper.,22,24,-2,27,0.5298823936107355,0.43021937157055157,3,4,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,152,1,3:19,1399,1399,Myles Stephens Defensive Rebound.,22,24,-2,0,0.5298823936107355,0.43021937157055157,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,153,1,3:10,1390,1390,Jerome Desrosiers missed Three Point Jumper.,22,24,-2,9,0.5293571268680914,0.4299470418441602,3,4,3,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,154,1,3:10,1390,1390,Richmond Aririguzoh Offensive Rebound.,22,24,-2,0,0.5293571268680914,0.4299470418441602,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,155,1,2:35,1355,1355,Ryan Schwieger made Jumper.,22,26,-4,35,0.4558641889232893,0.36061262523185145,3,4,3,NA,NA,Princeton,made,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,156,1,2:21,1341,1341,Lance Tejada made Three Point Jumper.,25,26,-1,14,0.5621945817408569,0.4640523799907425,3,4,3,NA,NA,Lehigh,made,Lance Tejada,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,157,1,2:01,1321,1321,Princeton  Timeout,25,26,-1,20,0.5613237419435597,0.46374083618519774,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,158,1,1:53,1313,1313,Ryan Schwieger Turnover.,25,26,-1,8,0.5609719983842021,0.4636137696544975,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,159,1,1:52,1312,1312,Lance Tejada missed Three Point Jumper.,25,26,-1,1,0.5609278787134565,0.46359776666857505,3,3,3,NA,NA,Lehigh,missed,Lance Tejada,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,160,1,1:52,1312,1312,Myles Stephens Defensive Rebound.,25,26,-1,0,0.5609278787134565,0.46359776666857505,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,161,1,1:50,1310,1310,Myles Stephens Turnover.,25,26,-1,2,0.5608395344735245,0.46356567553874145,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,162,1,1:27,1287,1287,Pat Andree missed Jumper.,25,26,-1,23,0.5598126733968682,0.46318724853385906,3,3,3,NA,NA,Lehigh,missed,Pat Andree,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,163,1,1:27,1287,1287,Lehigh Offensive Rebound.,25,26,-1,0,0.5598126733968682,0.46318724853385906,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,164,1,1:21,1281,1281,Lance Tejada Turnover.,25,26,-1,6,0.5595411907356699,0.4630852508820752,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,165,1,1:00,1260,1260,Myles Stephens missed Three Point Jumper.,25,26,-1,21,0.5585776374794011,0.46271527009761926,3,3,3,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,166,1,1:00,1260,1260,Jeameril Wilson Defensive Rebound.,25,26,-1,0,0.5585776374794011,0.46271527009761926,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,167,1,0:34,1234,1234,Nic Lynch made Layup. Assisted by Marques Wilson.,27,26,1,26,0.6302310973313002,0.5377760668385998,3,3,3,NA,NA,Lehigh,made,Nic Lynch,Marques Wilson,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,168,1,0:34,1234,1234,Foul on Drew Friberg.,27,26,1,0,0.6302310973313002,0.5377760668385998,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,169,1,0:34,1234,1234,Nic Lynch made Free Throw.,28,26,2,0,0.6647648433926272,0.5751233203813216,3,3,3,NA,NA,Lehigh,made,Nic Lynch,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,170,1,0:12,1212,1212,Jerome Desrosiers missed Three Point Jumper.,28,26,2,22,0.6650107850448133,0.5760086996365295,3,3,3,NA,NA,Princeton,missed,Jerome Desrosiers,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,171,1,0:12,1212,1212,Marques Wilson Defensive Rebound.,28,26,2,0,0.6650107850448133,0.5760086996365295,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,172,1,0:00,1200,1200,Jordan Cohen missed Jumper.,28,26,2,12,0.6651630350752056,0.5765093285143758,3,3,3,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,173,1,0:00,1200,1200,Princeton Deadball Team Rebound.,28,26,2,0,0.6651630350752056,0.5765093285143758,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,174,1,0:00,1200,1200,End of 1st half,28,26,2,0,0.6651630350752056,0.5765093285143758,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA
+401089092,2018-11-16,Lehigh,Princeton,175,2,20:00,1200,1200,PLAY,28,26,2,0,0.6651630350752056,0.5765093285143758,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,176,2,19:35,1175,1175,Jordan Cohen made Jumper.,30,26,4,25,0.7311154528836454,0.6513962623525955,4,4,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,177,2,19:11,1151,1151,Myles Stephens missed Jumper.,30,26,4,24,0.7320992325996316,0.6531416421579741,4,4,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,178,2,19:11,1151,1151,Princeton Offensive Rebound.,30,26,4,0,0.7320992325996316,0.6531416421579741,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,179,2,19:04,1144,1144,Ethan Wright missed Three Point Jumper.,30,26,4,7,0.7323820520512041,0.6536450678440313,4,4,3,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,180,2,19:04,1144,1144,Pat Andree Defensive Rebound.,30,26,4,0,0.7323820520512041,0.6536450678440313,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,181,2,18:53,1133,1133,Pat Andree made Three Point Jumper. Assisted by Lance Tejada.,33,26,7,11,0.8157699841852368,0.7535304417115476,4,4,3,NA,NA,Lehigh,made,Pat Andree,Lance Tejada,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,182,2,18:35,1115,1115,Ryan Schwieger missed Three Point Jumper.,33,26,7,18,0.8169731417443808,0.7553883979259478,4,4,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,183,2,18:35,1115,1115,Kyle Leufroy Defensive Rebound.,33,26,7,0,0.8169731417443808,0.7553883979259478,4,4,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,184,2,18:26,1106,1106,Jordan Cohen made Layup. Assisted by Kyle Leufroy.,35,26,9,9,0.861002293273173,0.8109552802690815,4,4,3,NA,NA,Lehigh,made,Jordan Cohen,Kyle Leufroy,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,185,2,18:21,1101,1101,Princeton  Timeout,35,26,9,5,0.8613711326760181,0.8115131190268304,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,186,2,18:21,1101,1101,Official TV Timeout,35,26,9,0,0.8613711326760181,0.8115131190268304,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,187,2,18:17,1097,1097,Drew Friberg made Three Point Jumper. Assisted by Ryan Schwieger.,35,29,6,4,0.7927543464321017,0.7261551340413408,4,3,3,NA,NA,Princeton,made,Drew Friberg,Ryan Schwieger,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,188,2,17:53,1073,1073,Nic Lynch Turnover.,35,29,6,24,0.7942782789524422,0.7285325668428716,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,189,2,17:53,1073,1073,Foul on Nic Lynch.,35,29,6,0,0.7942782789524422,0.7285325668428716,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,190,2,17:35,1055,1055,Drew Friberg missed Three Point Jumper.,35,29,6,18,0.7954773087050891,0.7303846178496279,4,3,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,191,2,17:35,1055,1055,Kyle Leufroy Defensive Rebound.,35,29,6,0,0.7954773087050891,0.7303846178496279,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,192,2,17:27,1047,1047,Kyle Leufroy made Three Point Jumper. Assisted by Jordan Cohen.,38,29,9,8,0.8655420115861902,0.8177718225460907,4,3,3,NA,NA,Lehigh,made,Kyle Leufroy,Jordan Cohen,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,193,2,16:56,1016,1016,Ryan Schwieger missed Three Point Jumper.,38,29,9,31,0.8681907279981868,0.8216894675679143,4,3,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,194,2,16:56,1016,1016,Drew Friberg Offensive Rebound.,38,29,9,0,0.8681907279981868,0.8216894675679143,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,195,2,16:47,1007,1007,Myles Stephens missed Three Point Jumper.,38,29,9,9,0.869007732307858,0.8228887232872123,4,3,3,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,196,2,16:47,1007,1007,Jordan Cohen Defensive Rebound.,38,29,9,0,0.869007732307858,0.8228887232872123,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,197,2,16:40,1000,1000,Lance Tejada made Three Point Jumper. Assisted by Pat Andree.,41,29,12,7,0.9177497355006098,0.8866337225014228,4,3,3,NA,NA,Lehigh,made,Lance Tejada,Pat Andree,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,198,2,16:30,990,990,Princeton  Timeout,41,29,12,10,0.9186292711879283,0.8879229208855477,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,199,2,16:30,990,990,Official TV Timeout,41,29,12,0,0.9186292711879283,0.8879229208855477,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,200,2,16:10,970,970,Sebastian Much missed Three Point Jumper.,41,29,12,20,0.9204696061948803,0.8906084852015603,4,2,3,NA,NA,Princeton,missed,Sebastian Much,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,201,2,16:10,970,970,Kyle Leufroy Defensive Rebound.,41,29,12,0,0.9204696061948803,0.8906084852015603,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,202,2,16:01,961,961,Pat Andree made Three Point Jumper. Assisted by Lance Tejada.,44,29,15,9,0.9520034886004087,0.9331889446719815,4,2,3,NA,NA,Lehigh,made,Pat Andree,Lance Tejada,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,203,2,15:42,942,942,Myles Stephens missed Jumper.,44,29,15,19,0.9532755067094119,0.9350569262231826,4,2,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,204,2,15:42,942,942,Kyle Leufroy Defensive Rebound.,44,29,15,0,0.9532755067094119,0.9350569262231826,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,205,2,15:30,930,930,Kyle Leufroy missed Three Point Jumper.,44,29,15,12,0.9540039136477824,0.9361284125089188,4,2,3,NA,NA,Lehigh,missed,Kyle Leufroy,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,206,2,15:30,930,930,Myles Stephens Defensive Rebound.,44,29,15,0,0.9540039136477824,0.9361284125089188,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,207,2,15:09,909,909,Ethan Wright missed Three Point Jumper.,44,29,15,21,0.9551764447010899,0.9378551834092528,4,2,3,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,208,2,15:09,909,909,Will Gladson Offensive Rebound.,44,29,15,0,0.9551764447010899,0.9378551834092528,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,209,2,15:06,906,906,Foul on Kyle Leufroy.,44,29,15,3,0.9553358482774833,0.9380900312581633,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,210,2,15:06,906,906,Will Gladson made Free Throw.,44,30,14,0,0.9469333865046072,0.9266921508589182,4,2,3,NA,NA,Princeton,made,Will Gladson,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,211,2,15:06,906,906,Will Gladson missed Free Throw.,44,30,14,0,0.9469333865046072,0.9266921508589182,4,2,3,NA,NA,Princeton,missed,Will Gladson,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,212,2,15:06,906,906,Nic Lynch Defensive Rebound.,44,30,14,0,0.9469333865046072,0.9266921508589182,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,213,2,14:50,890,890,Foul on Ethan Wright.,44,30,14,16,0.9478378062193599,0.928023359260064,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,214,2,14:50,890,890,Jordan Cohen made Free Throw.,45,30,15,0,0.9561629056976122,0.9393083563599139,4,2,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,215,2,14:50,890,890,Jordan Cohen made Free Throw.,46,30,16,0,0.9632108884930339,0.9489213981757925,4,2,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,216,2,14:22,862,862,Ryan Schwieger missed Three Point Jumper.,46,30,16,28,0.9644806699151974,0.950789604449928,4,2,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,217,2,14:22,862,862,Jerome Desrosiers Offensive Rebound.,46,30,16,0,0.9644806699151974,0.950789604449928,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,218,2,14:12,852,852,Myles Stephens missed Jumper.,46,30,16,10,0.9649356111086317,0.9514570820566904,4,2,3,NA,NA,Princeton,missed,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,219,2,14:12,852,852,Kyle Leufroy Defensive Rebound.,46,30,16,0,0.9649356111086317,0.9514570820566904,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,220,2,14:04,844,844,Foul on Myles Stephens.,46,30,16,8,0.9653045221599446,0.9519973912832462,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,221,2,14:04,844,844,Nic Lynch missed Free Throw.,46,30,16,0,0.9653045221599446,0.9519973912832462,4,2,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,222,2,14:04,844,844,Lehigh Deadball Team Rebound.,46,30,16,0,0.9653045221599446,0.9519973912832462,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,223,2,14:04,844,844,Nic Lynch missed Free Throw.,46,30,16,0,0.9653045221599446,0.9519973912832462,4,2,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,224,2,14:04,844,844,Ryan Schwieger Defensive Rebound.,46,30,16,0,0.9653045221599446,0.9519973912832462,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,225,2,13:46,826,826,Myles Stephens missed Three Point Jumper.,46,30,16,18,0.966160939270962,0.9532480797341688,4,2,3,NA,NA,Princeton,missed,Myles Stephens,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,226,2,13:46,826,826,Lance Tejada Defensive Rebound.,46,30,16,0,0.966160939270962,0.9532480797341688,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,227,2,13:31,811,811,Pat Andree Turnover.,46,30,16,15,0.9669138704317846,0.9543432688266467,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,228,2,13:08,788,788,Sebastian Much Turnover.,46,30,16,23,0.96816177606989,0.956149702331049,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,229,2,13:08,788,788,Pat Andree Steal.,46,30,16,0,0.96816177606989,0.956149702331049,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,230,2,12:54,774,774,Pat Andree missed Three Point Jumper.,46,30,16,14,0.968987786004668,0.9573399457112015,4,2,3,NA,NA,Lehigh,missed,Pat Andree,NA,TRUE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,231,2,12:54,774,774,Lehigh Offensive Rebound.,46,30,16,0,0.968987786004668,0.9573399457112015,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,232,2,12:49,769,769,Foul on Will Gladson.,46,30,16,5,0.9692963092323494,0.9577835029260271,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,233,2,12:43,763,763,Kyle Leufroy made Layup.,48,30,18,6,0.9793051610134804,0.9714550402694933,4,2,3,NA,NA,Lehigh,made,Kyle Leufroy,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,234,2,12:43,763,763,Foul on Will Gladson.,48,30,18,0,0.9793051610134804,0.9714550402694933,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,235,2,12:43,763,763,Kyle Leufroy made Free Throw.,49,30,19,0,0.9829250581381814,0.9764149942192023,4,2,3,NA,NA,Lehigh,made,Kyle Leufroy,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,236,2,12:21,741,741,Richmond Aririguzoh made Layup. Assisted by Noah Bramlage.,49,32,17,22,0.9762540675311551,0.9673747717960117,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,Noah Bramlage,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,237,2,11:54,714,714,Caleb Bennett missed Three Point Jumper.,49,32,17,27,0.977930373220255,0.9697676535887,4,2,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,238,2,11:54,714,714,Richmond Aririguzoh Defensive Rebound.,49,32,17,0,0.977930373220255,0.9697676535887,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,239,2,11:40,700,700,Drew Friberg Turnover.,49,32,17,14,0.9786646072296967,0.9708183358789445,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,240,2,11:39,699,699,Jeameril Wilson Steal.,49,32,17,1,0.9787138405423197,0.9708888637088334,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,241,2,11:36,696,696,Foul on Ryan Schwieger.,49,32,17,3,0.9788593303138842,0.9710973319271744,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,242,2,11:36,696,696,Official TV Timeout,49,32,17,0,0.9788593303138842,0.9710973319271744,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,243,2,11:36,696,696,Jordan Cohen made Free Throw.,50,32,18,0,0.9827395123921598,0.97636776514934,4,2,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,244,2,11:36,696,696,Jordan Cohen made Free Throw.,51,32,19,0,0.9859177671105618,0.9806962335188811,4,2,3,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,245,2,11:16,676,676,Foul on Jeameril Wilson.,51,32,19,20,0.9865963452009769,0.9816686084495562,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,246,2,11:00,660,660,Ethan Wright missed Three Point Jumper.,51,32,19,16,0.9870965658570184,0.9823853253158387,4,2,3,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,247,2,11:00,660,660,Ethan Wright Offensive Rebound.,51,32,19,0,0.9870965658570184,0.9823853253158387,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,248,2,10:44,644,644,Ethan Wright missed Layup.,51,32,19,16,0.9875842081215936,0.9830828093260392,4,2,3,NA,NA,Princeton,missed,Ethan Wright,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,249,2,10:44,644,644,Jordan Cohen Defensive Rebound.,51,32,19,0,0.9875842081215936,0.9830828093260392,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,250,2,10:40,640,640,Caleb Bennett missed Three Point Jumper.,51,32,19,4,0.9877065541243281,0.9832574894896874,4,2,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,251,2,10:40,640,640,Ethan Wright Defensive Rebound.,51,32,19,0,0.9877065541243281,0.9832574894896874,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,252,2,10:33,633,633,Drew Friberg missed Three Point Jumper.,51,32,19,7,0.9879226315013352,0.9835656106962184,4,2,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,253,2,10:33,633,633,Jeameril Wilson Defensive Rebound.,51,32,19,0,0.9879226315013352,0.9835656106962184,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,254,2,10:11,611,611,Foul on Richmond Aririguzoh.,51,32,19,22,0.9886316588404465,0.9845726846113291,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,255,2,10:08,608,608,Marques Wilson missed Jumper.,51,32,19,3,0.9887332229224799,0.9847164080495682,4,2,3,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,256,2,10:08,608,608,Myles Stephens Defensive Rebound.,51,32,19,0,0.9887332229224799,0.9847164080495682,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,257,2,10:02,602,602,Richmond Aririguzoh missed Three Point Jumper.,51,32,19,6,0.9889406658141708,0.9850095397870157,4,2,3,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,258,2,10:02,602,602,Princeton Offensive Rebound.,51,32,19,0,0.9889406658141708,0.9850095397870157,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,259,2,9:56,596,596,Foul on James Karnik.,51,32,19,6,0.9891542810032831,0.9853108099947926,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,260,2,9:52,592,592,Foul on James Karnik.,51,32,19,4,0.9893003369511549,0.985516464739137,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,261,2,9:52,592,592,Noah Bramlage missed Free Throw.,51,32,19,0,0.9893003369511549,0.985516464739137,4,2,3,NA,NA,Princeton,missed,Noah Bramlage,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,262,2,9:52,592,592,Princeton Deadball Team Rebound.,51,32,19,0,0.9893003369511549,0.985516464739137,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,263,2,9:52,592,592,Noah Bramlage made Free Throw.,51,33,18,0,0.9866746534963794,0.981979138325692,4,2,3,NA,NA,Princeton,made,Noah Bramlage,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,264,2,9:32,572,572,Nic Lynch missed Layup.,51,33,18,20,0.9875894421371781,0.9832627584343485,4,2,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,265,2,9:32,572,572,Nic Lynch Offensive Rebound.,51,33,18,0,0.9875894421371781,0.9832627584343485,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,266,2,9:29,569,569,Nic Lynch made Jumper.,53,33,20,3,0.992175672839816,0.9894359523303173,4,2,3,NA,NA,Lehigh,made,Nic Lynch,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,267,2,9:02,542,542,Vittorio Reynoso-Avila made Layup.,53,35,18,27,0.989115434759474,0.985388145888037,4,2,3,NA,NA,Princeton,made,Vittorio Reynoso-Avila,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,268,2,8:43,523,523,Marques Wilson missed Three Point Jumper.,53,35,18,19,0.9898968569570412,0.9864769658929916,4,2,3,NA,NA,Lehigh,missed,Marques Wilson,NA,TRUE,FALSE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,269,2,8:43,523,523,Caleb Bennett Offensive Rebound.,53,35,18,0,0.9898968569570412,0.9864769658929916,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,270,2,8:26,506,506,Nic Lynch made Jumper.,55,35,20,17,0.9941048527335793,0.9921201900944356,4,2,3,NA,NA,Lehigh,made,Nic Lynch,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,271,2,8:13,493,493,Noah Bramlage Turnover.,55,35,20,13,0.9943907670652052,0.992517837740096,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,272,2,8:12,492,492,Caleb Bennett Steal.,55,35,20,1,0.994412660326884,0.9925482393651657,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,273,2,8:08,488,488,Nic Lynch Turnover.,55,35,20,4,0.9945005693208253,0.9926702238460848,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,274,2,8:08,488,488,Foul on Nic Lynch.,55,35,20,0,0.9945005693208253,0.9926702238460848,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,275,2,7:54,474,474,Elijah Barnes missed Three Point Jumper.,55,35,20,14,0.9948180035784929,0.9931093194997813,4,2,3,NA,NA,Princeton,missed,Elijah Barnes,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,276,2,7:54,474,474,Richmond Aririguzoh Offensive Rebound.,55,35,20,0,0.9948180035784929,0.9931093194997813,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,277,2,7:52,472,472,Foul on Nic Lynch.,55,35,20,2,0.9948652501433685,0.9931744703302638,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,278,2,7:51,471,471,Official TV Timeout,55,35,20,1,0.9948890976562962,0.9932073341631086,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,279,2,7:51,471,471,Richmond Aririguzoh made Free Throw.,55,36,19,0,0.9934518335541971,0.9913012674734739,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,280,2,7:51,471,471,Richmond Aririguzoh made Free Throw.,55,37,18,0,0.9916137957042516,0.9888663415573888,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,281,2,7:29,449,449,Marques Wilson missed Jumper.,55,37,18,22,0.9924558373088126,0.9900229039290008,4,2,3,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,282,2,7:29,449,449,Princeton Defensive Rebound.,55,37,18,0,0.9924558373088126,0.9900229039290008,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,283,2,7:28,448,448,Foul on James Karnik.,55,37,18,1,0.9924978841422375,0.9900803581410001,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,284,2,7:28,448,448,Richmond Aririguzoh made Free Throw.,55,38,17,0,0.9903328025529105,0.9872265671504197,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,285,2,7:28,448,448,Richmond Aririguzoh made Free Throw.,55,39,16,0,0.9875507243306362,0.9835653945343805,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,286,2,7:07,427,427,Nic Lynch missed Layup.,55,39,16,21,0.9889661264710307,0.9854921636143513,4,2,3,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,287,2,7:07,427,427,Princeton Defensive Rebound.,55,39,16,0,0.9889661264710307,0.9854921636143513,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,288,2,6:53,413,413,Richmond Aririguzoh missed Layup.,55,39,16,14,0.9898504062046284,0.9866942697997766,4,2,3,NA,NA,Princeton,missed,Richmond Aririguzoh,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,289,2,6:53,413,413,Caleb Bennett Defensive Rebound.,55,39,16,0,0.9898504062046284,0.9866942697997766,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,290,2,6:46,406,406,Caleb Bennett missed Layup.,55,39,16,7,0.9902438972062266,0.9872300085840228,4,2,3,NA,NA,Lehigh,missed,Caleb Bennett,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,291,2,6:46,406,406,Myles Stephens Defensive Rebound.,55,39,16,0,0.9902438972062266,0.9872300085840228,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,292,2,6:39,399,399,Ryan Schwieger missed Jumper.,55,39,16,7,0.9906150285376093,0.9877354778527155,4,2,3,NA,NA,Princeton,missed,Ryan Schwieger,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,293,2,6:39,399,399,Nic Lynch Defensive Rebound.,55,39,16,0,0.9906150285376093,0.9877354778527155,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,294,2,6:10,370,370,Pat Andree missed Jumper.,55,39,16,29,0.9920389834729492,0.9896700289484531,4,2,3,NA,NA,Lehigh,missed,Pat Andree,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,295,2,6:10,370,370,Princeton Defensive Rebound.,55,39,16,0,0.9920389834729492,0.9896700289484531,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,296,2,5:57,357,357,Elijah Barnes missed Three Point Jumper.,55,39,16,13,0.9926725799265939,0.990524521220024,4,2,3,NA,NA,Princeton,missed,Elijah Barnes,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,297,2,5:57,357,357,Pat Andree Defensive Rebound.,55,39,16,0,0.9926725799265939,0.990524521220024,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,298,2,5:43,343,343,Nic Lynch made Layup. Assisted by Kyle Leufroy.,57,39,18,14,0.9963350405408131,0.9952746382586967,4,2,3,NA,NA,Lehigh,made,Nic Lynch,Kyle Leufroy,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,299,2,5:29,329,329,Vittorio Reynoso-Avila made Three Point Jumper. Assisted by Will Gladson.,57,42,15,14,0.9920352789225436,0.9897862275349757,4,2,3,NA,NA,Princeton,made,Vittorio Reynoso-Avila,Will Gladson,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,300,2,5:05,305,305,Lance Tejada made Three Point Jumper. Assisted by Jordan Cohen.,60,42,18,24,0.9975675705454446,0.9968991707854777,4,2,3,NA,NA,Lehigh,made,Lance Tejada,Jordan Cohen,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,301,2,4:53,293,293,Myles Stephens made Layup.,60,44,16,12,0.9956471119839911,0.994474747751038,4,2,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,302,2,4:33,273,273,Kyle Leufroy missed Three Point Jumper.,60,44,16,20,0.9954865389148299,0.9943067938180511,4,2,3,NA,NA,Lehigh,missed,Kyle Leufroy,NA,TRUE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,303,2,4:33,273,273,Myles Stephens Defensive Rebound.,60,44,16,0,0.9954865389148299,0.9943067938180511,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,304,2,4:18,258,258,Will Gladson made Three Point Jumper.,60,47,13,15,0.9874559576440279,0.9842845295720781,4,2,3,NA,NA,Princeton,made,Will Gladson,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,305,2,3:49,229,229,Lance Tejada Turnover.,60,47,13,29,0.9867752144831226,0.9835925939127219,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,306,2,3:47,227,227,Elijah Barnes Steal.,60,47,13,2,0.9868431278491661,0.9836879493498145,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,307,2,3:43,223,223,Official TV Timeout,60,47,13,4,0.987043520054618,0.9839582644586455,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,308,2,3:37,217,217,Will Gladson missed Jumper.,60,47,13,6,0.9875150221013704,0.9845736899842272,4,2,3,NA,NA,Princeton,missed,Will Gladson,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,309,2,3:37,217,217,Jordan Cohen Defensive Rebound.,60,47,13,0,0.9875150221013704,0.9845736899842272,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,310,2,3:25,205,205,Jordan Cohen Turnover.,60,47,13,12,0.9890822640451745,0.9865659471995043,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,311,2,3:24,204,204,Vittorio Reynoso-Avila Steal.,60,47,13,1,0.9892478424593282,0.9867743182158581,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,312,2,3:22,202,202,Vittorio Reynoso-Avila made Layup.,60,49,11,2,0.9798895779821972,0.9753360083074953,4,2,3,NA,NA,Princeton,made,Vittorio Reynoso-Avila,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,313,2,3:21,201,201,Foul on Jordan Cohen.,60,49,11,1,0.9801791467410561,0.9756989992482257,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,314,2,3:21,201,201,Vittorio Reynoso-Avila missed Free Throw.,60,49,11,0,0.9801791467410561,0.9756989992482257,4,2,3,NA,NA,Princeton,missed,Vittorio Reynoso-Avila,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,315,2,3:21,201,201,Pat Andree Defensive Rebound.,60,49,11,0,0.9801791467410561,0.9756989992482257,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,316,2,2:57,177,177,Jordan Cohen Turnover.,60,49,11,24,0.9878916290663241,0.9852759299304364,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,317,2,2:46,166,166,Richmond Aririguzoh made Layup. Assisted by Ryan Schwieger.,60,51,9,11,0.9791423013862751,0.9748040100368471,4,2,3,NA,NA,Princeton,made,Richmond Aririguzoh,Ryan Schwieger,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,318,2,2:40,160,160,Lehigh  Timeout,60,51,9,6,0.9814722233078522,0.9776661423390587,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,319,2,2:20,140,140,Foul on Richmond Aririguzoh.,60,51,9,20,0.9880467376960375,0.9857018162709544,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,320,2,2:20,140,140,Lance Tejada made Free Throw.,61,51,10,0,0.9924982110786303,0.991018615786225,3,2,3,NA,NA,Lehigh,made,Lance Tejada,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,321,2,2:20,140,140,Lance Tejada made Free Throw.,62,51,11,0,0.9952998125762099,0.994369649010793,3,2,3,NA,NA,Lehigh,made,Lance Tejada,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,322,2,2:06,126,126,Ryan Schwieger Turnover.,62,51,11,14,0.9969883538487457,0.9964152365580752,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,323,2,2:06,126,126,Foul on Ryan Schwieger.,62,51,11,0,0.9969883538487457,0.9964152365580752,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,324,2,1:42,102,102,Lance Tejada made Jumper.,64,51,13,24,0.9996427406460013,0.9995796675938957,3,2,3,NA,NA,Lehigh,made,Lance Tejada,NA,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,325,2,1:32,92,92,Foul on Kyle Leufroy.,64,51,13,10,0.9997947390825334,0.9997597714978308,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,326,2,1:32,92,92,Myles Stephens made Free Throw.,64,52,12,0,0.9996103886046503,0.999544029992805,3,2,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,327,2,1:32,92,92,Myles Stephens made Free Throw.,64,53,11,0,0.9992605903394072,0.9991347056602206,3,2,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,TRUE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,328,2,1:31,91,91,Kyle Leufroy Turnover.,64,53,11,1,0.9992954973097129,0.9991759923402549,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,329,2,1:25,85,85,Vittorio Reynoso-Avila missed Jumper.,64,53,11,6,0.9994748678753499,0.9993877545768381,3,2,3,NA,NA,Princeton,missed,Vittorio Reynoso-Avila,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,330,2,1:25,85,85,Kyle Leufroy Defensive Rebound.,64,53,11,0,0.9994748678753499,0.9993877545768381,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,331,2,1:16,76,76,Nic Lynch made Layup. Assisted by Lance Tejada.,66,53,13,9,0.9999205838250297,0.999907858442964,3,2,3,NA,NA,Lehigh,made,Nic Lynch,Lance Tejada,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,332,2,1:09,69,69,Myles Stephens made Layup.,66,55,11,7,0.9997733502820494,0.9997380678222209,3,2,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,333,2,0:55,55,55,Foul on Drew Friberg.,66,55,11,14,0.9998988201699123,0.9998840015213399,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,334,2,0:55,55,55,Kyle Leufroy made Free Throw.,67,55,12,0,0.9999556037667783,0.9999491011366496,3,2,3,NA,NA,Lehigh,made,Kyle Leufroy,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,335,2,0:55,55,55,Kyle Leufroy made Free Throw.,68,55,13,0,0.9999805202014472,0.9999776669516467,3,2,3,NA,NA,Lehigh,made,Kyle Leufroy,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,336,2,0:50,50,50,Ethan Wright missed Three Point Jumper.,68,55,13,5,0.9999863913900854,0.9999844436657184,3,2,3,NA,NA,Princeton,missed,Ethan Wright,NA,TRUE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,337,2,0:50,50,50,Kyle Leufroy Defensive Rebound.,68,55,13,0,0.9999863913900854,0.9999844436657184,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,338,2,0:43,43,43,Pat Andree made Layup. Assisted by Kyle Leufroy.,70,55,15,7,0.9999986420186877,0.9999984540933954,3,2,3,NA,NA,Lehigh,made,Pat Andree,Kyle Leufroy,FALSE,FALSE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,339,2,0:36,36,36,Princeton  Timeout,70,57,13,7,0.9999953030937374,0.9999946756615017,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,340,2,0:33,33,33,Myles Stephens made Layup.,70,57,13,3,0.9999963008113073,0.9999958143295954,3,1,3,NA,NA,Princeton,made,Myles Stephens,NA,FALSE,FALSE,Princeton,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,341,2,0:24,24,24,Foul on Ethan Wright.,70,57,13,9,0.9999982254146562,0.99999800316638765,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,342,2,0:24,24,24,Pat Andree made Free Throw.,71,57,14,0,0.9999993533605345,0.9999992723755965,3,1,3,NA,NA,Lehigh,made,Pat Andree,NA,FALSE,TRUE,Lehigh,Lehigh
+401089092,2018-11-16,Lehigh,Princeton,343,2,0:24,24,24,Pat Andree made Free Throw.,72,57,15,0,0.9999997643718291,0.9999997348618122,3,1,3,NA,NA,Lehigh,made,Pat Andree,NA,FALSE,TRUE,Lehigh,Princeton
+401089092,2018-11-16,Lehigh,Princeton,344,2,0:19,19,19,Drew Friberg missed Three Point Jumper.,72,57,15,5,0.9999998551847605,0.999999837557762,3,1,3,NA,NA,Princeton,missed,Drew Friberg,NA,TRUE,FALSE,Princeton,Princeton
+401089092,2018-11-16,Lehigh,Princeton,345,2,0:19,19,19,Ethan Wright Offensive Rebound.,72,57,15,0,0.9999998551847605,0.999999837557762,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,Princeton,NA
