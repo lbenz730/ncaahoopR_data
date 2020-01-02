@@ -1,0 +1,358 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401125413,2019-04-02,Marshall,Hampton,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7545479402286529,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marshall
+401125413,2019-04-02,Marshall,Hampton,2,1,19:33,2373,2373,Darius George missed Three Point Jumper.,0,0,0,27,0.7539813824900649,0.5,4,4,7,NA,NA,Marshall,missed,Darius George,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,3,1,19:33,2373,2373,Greg Heckstall Defensive Rebound.,0,0,0,0,0.7539813824900649,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,4,1,19:23,2363,2363,Trevond Barnes made Jumper. Assisted by Greg Heckstall.,0,2,-2,10,0.7189134516590887,0.45518936608070915,4,4,7,NA,NA,Hampton,made,Trevond Barnes,Greg Heckstall,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,5,1,19:14,2354,2354,Jannson Williams missed Three Point Jumper.,0,2,-2,9,0.7185425673931689,0.45499566896610333,4,4,7,NA,NA,Marshall,missed,Jannson Williams,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,6,1,19:14,2354,2354,Jermaine Marrow Defensive Rebound.,0,2,-2,0,0.7185425673931689,0.45499566896610333,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,7,1,18:56,2336,2336,Kalin Fisher missed Jumper.,0,2,-2,18,0.7177903325128787,0.4546051347726533,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,8,1,18:56,2336,2336,Jannson Williams Defensive Rebound.,0,2,-2,0,0.7177903325128787,0.4546051347726533,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,9,1,18:47,2327,2327,Darius George made Layup. Assisted by Jon Elmore.,2,2,0,9,0.7529707842119892,0.5,4,4,7,NA,NA,Marshall,made,Darius George,Jon Elmore,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,10,1,18:19,2299,2299,Jermaine Marrow missed Layup.,2,2,0,28,0.7523262600492556,0.5,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,11,1,18:19,2299,2299,Akim Mitchell Offensive Rebound.,2,2,0,0,0.7523262600492556,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,12,1,18:16,2296,2296,Akim Mitchell Turnover.,2,2,0,3,0.752255837176676,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,13,1,18:15,2295,2295,C.J. Burks Steal.,2,2,0,1,0.7522323032360475,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,14,1,18:10,2290,2290,Jannson Williams made Dunk. Assisted by C.J. Burks.,4,2,2,5,0.7851772070016187,0.5464100314401936,4,4,7,NA,NA,Marshall,made,Jannson Williams,CJ Burks,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,15,1,17:51,2271,2271,Kalin Fisher missed Jumper.,4,2,2,19,0.7850547708082289,0.5468356278580805,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,16,1,17:51,2271,2271,Jannson Williams Defensive Rebound.,4,2,2,0,0.7850547708082289,0.5468356278580805,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,17,1,17:42,2262,2262,Jon Elmore missed Three Point Jumper.,4,2,2,9,0.7849942130218802,0.547038345861369,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,18,1,17:42,2262,2262,Greg Heckstall Defensive Rebound.,4,2,2,0,0.7849942130218802,0.547038345861369,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,19,1,17:32,2252,2252,Greg Heckstall missed Jumper.,4,2,2,10,0.7849249121205925,0.5472643690441272,4,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,20,1,17:32,2252,2252,Jannson Williams Defensive Rebound.,4,2,2,0,0.7849249121205925,0.5472643690441272,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,21,1,17:30,2250,2250,Foul on Akim Mitchell.,4,2,2,2,0.7849107916754519,0.5473096679130885,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,22,1,17:13,2233,2233,C.J. Burks made Layup.,6,2,4,17,0.815349270259119,0.5945315899344339,4,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,23,1,17:00,2220,2220,Akim Mitchell made Three Point Jumper. Assisted by Kalin Fisher.,6,5,1,13,0.7679759064594082,0.5240518099957767,4,4,7,NA,NA,Hampton,made,Akim Mitchell,Kalin Fisher,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,24,1,16:49,2209,2209,Jon Elmore Turnover.,6,5,1,11,0.7677935444436307,0.5241786072287725,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,25,1,16:48,2208,2208,Trevond Barnes Steal.,6,5,1,1,0.7677767939749068,0.5241901517188926,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,26,1,16:42,2202,2202,Jermaine Marrow missed Layup.,6,5,1,6,0.7676756816382965,0.5242594764832842,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,27,1,16:42,2202,2202,Jon Elmore Block.,6,5,1,0,0.7676756816382965,0.5242594764832842,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,28,1,16:42,2202,2202,Hampton Offensive Rebound.,6,5,1,0,0.7676756816382965,0.5242594764832842,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,29,1,16:40,2200,2200,Jermaine Marrow made Jumper. Assisted by Kalin Fisher.,6,7,-1,2,0.7311822227361144,0.4757173938657539,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,Kalin Fisher,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,30,1,16:17,2177,2177,Jarrod West missed Three Point Jumper.,6,7,-1,23,0.7303217598942701,0.4754507121695394,4,4,7,NA,NA,Marshall,missed,Jarrod West,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,31,1,16:17,2177,2177,Greg Heckstall Defensive Rebound.,6,7,-1,0,0.7303217598942701,0.4754507121695394,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,32,1,16:11,2171,2171,Akim Mitchell made Layup. Assisted by Greg Heckstall.,6,9,-3,6,0.6895437597551679,0.42661691434651705,4,4,7,NA,NA,Hampton,made,Akim Mitchell,Greg Heckstall,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,33,1,16:03,2163,2163,Foul on Darius George.,6,9,-3,8,0.6890512739711002,0.42634282019557657,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,34,1,16:03,2163,2163,Darius George Turnover.,6,9,-3,0,0.6890512739711002,0.42634282019557657,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,35,1,15:48,2148,2148,Greg Heckstall missed Jumper.,6,9,-3,15,0.6881189102082759,0.4258270432854022,4,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,36,1,15:48,2148,2148,Jon Elmore Defensive Rebound.,6,9,-3,0,0.6881189102082759,0.4258270432854022,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,37,1,15:38,2138,2138,Jon Elmore made Three Point Jumper.,9,9,0,10,0.7481414171873249,0.5,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,38,1,15:27,2127,2127,Trevond Barnes missed Three Point Jumper.,9,9,0,11,0.7478242372331577,0.5,4,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,39,1,15:27,2127,2127,Jon Elmore Defensive Rebound.,9,9,0,0,0.7478242372331577,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,40,1,15:21,2121,2121,Jon Elmore missed Three Point Jumper.,9,9,0,6,0.7476495875889952,0.5,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,41,1,15:21,2121,2121,Greg Heckstall Defensive Rebound.,9,9,0,0,0.7476495875889952,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,42,1,15:05,2105,2105,Foul on Jarrod West.,9,9,0,16,0.7471782283710154,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,43,1,15:05,2105,2105,Official TV Timeout,9,9,0,0,0.7471782283710154,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,44,1,15:05,2105,2105,Jermaine Marrow missed Free Throw.,9,9,0,0,0.7471782283710154,0.5,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,45,1,15:05,2105,2105,Hampton Deadball Team Rebound.,9,9,0,0,0.7471782283710154,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,46,1,15:05,2105,2105,Jermaine Marrow made Free Throw.,9,10,-1,0,0.7274949016674852,0.4746045463621689,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,47,1,14:58,2098,2098,Jon Elmore missed Layup.,9,10,-1,7,0.7272093851005773,0.4745210538825061,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,48,1,14:58,2098,2098,Akim Mitchell Block.,9,10,-1,0,0.7272093851005773,0.4745210538825061,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,49,1,14:57,2097,2097,Akim Mitchell Defensive Rebound.,9,10,-1,1,0.7271684431747,0.47450910676291413,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,50,1,14:53,2093,2093,Jermaine Marrow missed Three Point Jumper.,9,10,-1,4,0.7270042911150034,0.47446126854642284,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,51,1,14:53,2093,2093,Marshall Defensive Rebound.,9,10,-1,0,0.7270042911150034,0.47446126854642284,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,52,1,14:36,2076,2076,C.J. Burks made Layup.,11,10,1,17,0.7653171664357945,0.5257429540116557,4,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,53,1,14:11,2051,2051,Foul on Darius George.,11,10,1,25,0.764800436418079,0.5260460953741875,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,54,1,14:06,2046,2046,Jermaine Marrow made Three Point Jumper.,11,13,-2,5,0.7037095019203686,0.44792767509963954,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,55,1,13:43,2023,2023,Foul on Kalin Fisher.,11,13,-2,23,0.7024298261670289,0.4473668485651764,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,56,1,13:33,2013,2013,Taevion Kinsey missed Jumper.,11,13,-2,10,0.7018657679208185,0.4471210317412369,4,4,7,NA,NA,Marshall,missed,Taevion Kinsey,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,57,1,13:33,2013,2013,Greg Heckstall Defensive Rebound.,11,13,-2,0,0.7018657679208185,0.4471210317412369,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,58,1,13:08,1988,1988,Kalin Fisher missed Jumper.,11,13,-2,25,0.7004351818238533,0.44650095940203455,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,59,1,13:08,1988,1988,Rondale Watson Defensive Rebound.,11,13,-2,0,0.7004351818238533,0.44650095940203455,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,60,1,12:58,1978,1978,C.J. Burks made Three Point Jumper. Assisted by Jon Elmore.,14,13,1,10,0.7632088920238806,0.5269527772938578,4,4,7,NA,NA,Marshall,made,C.J. Burks,Jon Elmore,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,61,1,12:48,1968,1968,Kalin Fisher made Three Point Jumper.,14,16,-2,10,0.6992696064832928,0.4459989381243246,4,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,62,1,12:38,1958,1958,Jon Elmore Turnover.,14,16,-2,10,0.6986797558731038,0.44574584807054307,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,63,1,12:37,1957,1957,Akim Mitchell Steal.,14,16,-2,1,0.6986205112681239,0.44572046092832907,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,64,1,12:33,1953,1953,Kalin Fisher made Layup.,14,18,-4,4,0.650496232179893,0.3925090767669194,4,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,65,1,12:33,1953,1953,Foul on C.J. Burks.,14,18,-4,0,0.650496232179893,0.3925090767669194,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,66,1,12:33,1953,1953,Kalin Fisher made Free Throw.,14,19,-5,0,0.6252814765090907,0.36679944799680164,4,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,67,1,12:21,1941,1941,Rondale Watson missed Layup.,14,19,-5,12,0.6240477482791955,0.36607936533058044,4,4,7,NA,NA,Marshall,missed,Rondale Watson,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,68,1,12:21,1941,1941,Benjamin Stanley Defensive Rebound.,14,19,-5,0,0.6240477482791955,0.36607936533058044,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,69,1,12:14,1934,1934,Kalin Fisher missed Three Point Jumper.,14,19,-5,7,0.6233228875674155,0.36565723478728324,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,70,1,12:14,1934,1934,Taevion Kinsey Block.,14,19,-5,0,0.6233228875674155,0.36565723478728324,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,71,1,12:07,1927,1927,Benjamin Stanley Offensive Rebound.,14,19,-5,7,0.6225943278933792,0.3652337574029363,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,72,1,12:06,1926,1926,Benjamin Stanley made Layup.,14,21,-7,1,0.5692859777683431,0.3155772660789269,4,4,7,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,73,1,11:58,1918,1918,Jon Elmore made Layup.,16,21,-5,8,0.6216539036243741,0.3646898680622937,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,74,1,11:34,1894,1894,Jermaine Marrow missed Three Point Jumper.,16,21,-5,24,0.6191262593687245,0.3632435603996177,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,75,1,11:34,1894,1894,Taevion Kinsey Defensive Rebound.,16,21,-5,0,0.6191262593687245,0.3632435603996177,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,76,1,11:20,1880,1880,Taevion Kinsey made Dunk. Assisted by Jon Elmore.,18,21,-3,14,0.6694094427840988,0.41605856931960766,4,4,7,NA,NA,Marshall,made,Taevion Kinsey,Jon Elmore,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,77,1,10:59,1859,1859,Benjamin Stanley missed Jumper.,18,21,-3,21,0.6677814399068848,0.4152604169840238,4,4,7,NA,NA,Hampton,missed,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,78,1,10:59,1859,1859,Jannson Williams Block.,18,21,-3,0,0.6677814399068848,0.4152604169840238,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,79,1,10:58,1858,1858,Benjamin Stanley Offensive Rebound.,18,21,-3,1,0.6677033362802763,0.4152223440890623,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,80,1,10:54,1854,1854,Jermaine Marrow missed Layup.,18,21,-3,4,0.6673903851074507,0.41506997324697303,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,81,1,10:54,1854,1854,Jannson Williams Block.,18,21,-3,0,0.6673903851074507,0.41506997324697303,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,82,1,10:53,1853,1853,Marshall Defensive Rebound.,18,21,-3,1,0.6673120125874715,0.4150318595916069,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,83,1,10:52,1852,1852,Official TV Timeout,18,21,-3,1,0.6672335859525623,0.4149937371066775,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,84,1,10:44,1844,1844,Foul on Akim Mitchell.,18,21,-3,8,0.6666042112644803,0.41468841227594394,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,85,1,10:33,1833,1833,Rondale Watson missed Jumper.,18,21,-3,11,0.66573304858784,0.41426743215406525,4,4,7,NA,NA,Marshall,missed,Rondale Watson,NA,FALSE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,86,1,10:33,1833,1833,Mikel Beyers Offensive Rebound.,18,21,-3,0,0.66573304858784,0.41426743215406525,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,87,1,10:25,1825,1825,Mikel Beyers made Two Point Tip Shot.,20,21,-1,8,0.7145995304786036,0.4710642355580107,4,4,7,NA,NA,Marshall,made,Mikel Beyers,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,88,1,10:13,1813,1813,Lysander Bracey missed Jumper.,20,21,-1,12,0.7139767168138932,0.47090583954998644,4,4,7,NA,NA,Hampton,missed,Lysander Bracey,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,89,1,10:13,1813,1813,Taevion Kinsey Defensive Rebound.,20,21,-1,0,0.7139767168138932,0.47090583954998644,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,90,1,9:49,1789,1789,Mikel Beyers missed Three Point Jumper.,20,21,-1,24,0.7127138526963535,0.47058613421136253,4,4,7,NA,NA,Marshall,missed,Mikel Beyers,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,91,1,9:49,1789,1789,Kalin Fisher Defensive Rebound.,20,21,-1,0,0.7127138526963535,0.47058613421136253,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,92,1,9:39,1779,1779,Trevond Barnes made Layup. Assisted by Greg Heckstall.,20,23,-3,10,0.6613546495203627,0.4121717332978451,4,4,7,NA,NA,Hampton,made,Trevond Barnes,Greg Heckstall,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,93,1,9:27,1767,1767,Jon Elmore missed Layup.,20,23,-3,12,0.6603575449966645,0.41169718104063374,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,94,1,9:27,1767,1767,Trevond Barnes Block.,20,23,-3,0,0.6603575449966645,0.41169718104063374,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,95,1,9:25,1765,1765,Lysander Bracey Defensive Rebound.,20,23,-3,2,0.6601904714291787,0.4116177053452754,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,96,1,9:21,1761,1761,Greg Heckstall made Three Point Jumper. Assisted by Jermaine Marrow.,20,26,-6,4,0.5755937367554436,0.3283010321127099,4,4,7,NA,NA,Hampton,made,Greg Heckstall,Jermaine Marrow,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,97,1,8:59,1739,1739,Mikel Beyers made Three Point Jumper. Assisted by C.J. Burks.,23,26,-3,22,0.6579948253489346,0.41057346263272865,4,4,7,NA,NA,Marshall,made,Mikel Beyers,CJ Burks,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,98,1,8:41,1721,1721,Foul on C.J. Burks.,23,26,-3,18,0.6564482819808669,0.4098371414329203,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,99,1,8:41,1721,1721,Trevond Barnes made Free Throw.,23,27,-4,0,0.6285403607959306,0.3807927216218857,4,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,100,1,8:41,1721,1721,Trevond Barnes made Free Throw.,23,28,-5,0,0.5997476610654537,0.35257693615072183,4,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,101,1,8:28,1708,1708,Jarrod West missed Layup.,23,28,-5,13,0.5981868846450327,0.35172871882269413,4,4,7,NA,NA,Marshall,missed,Jarrod West,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,102,1,8:28,1708,1708,Trevond Barnes Defensive Rebound.,23,28,-5,0,0.5981868846450327,0.35172871882269413,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,103,1,8:12,1692,1692,Greg Heckstall made Three Point Jumper.,23,31,-8,16,0.5050431961381723,0.27175243971756113,4,4,7,NA,NA,Hampton,made,Greg Heckstall,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,104,1,7:59,1679,1679,Mikel Beyers missed Three Point Jumper.,23,31,-8,13,0.5028217497220187,0.27055535896446614,4,4,7,NA,NA,Marshall,missed,Mikel Beyers,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,105,1,7:59,1679,1679,Trevond Barnes Block.,23,31,-8,0,0.5028217497220187,0.27055535896446614,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,106,1,7:57,1677,1677,Greg Heckstall Defensive Rebound.,23,31,-8,2,0.5024812266390661,0.27037348634504177,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,107,1,7:49,1669,1669,Jermaine Marrow made Layup.,23,33,-10,8,0.43915084629968554,0.22348222953210992,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,108,1,7:48,1668,1668,Technical Foul on Jermaine Marrow.,23,33,-10,1,0.4389557719177784,0.2233835469709722,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,109,1,7:48,1668,1668,Foul on Jermaine Marrow.,23,33,-10,0,0.4389557719177784,0.2233835469709722,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,110,1,7:48,1668,1668,Official TV Timeout,23,33,-10,0,0.4389557719177784,0.2233835469709722,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,111,1,7:48,1668,1668,Jon Elmore made Free Throw.,24,33,-9,0,0.4698378064151784,0.24574228707044765,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,112,1,7:48,1668,1668,Jon Elmore missed Free Throw.,24,33,-9,0,0.4698378064151784,0.24574228707044765,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,113,1,7:48,1668,1668,Marshall Deadball Team Rebound.,24,33,-9,0,0.4698378064151784,0.24574228707044765,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,114,1,7:33,1653,1653,Jon Elmore made Three Point Jumper.,27,33,-6,15,0.5608379394301801,0.3202322530607074,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,115,1,7:04,1624,1624,Kalin Fisher missed Jumper.,27,33,-6,29,0.5568093235322471,0.3181433467676124,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,116,1,7:04,1624,1624,Marshall Defensive Rebound.,27,33,-6,0,0.5568093235322471,0.3181433467676124,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,117,1,6:48,1608,1608,Taevion Kinsey made Three Point Jumper. Assisted by Jon Elmore.,30,33,-3,16,0.6463332966345865,0.40521542523694876,4,4,7,NA,NA,Marshall,made,Taevion Kinsey,Jon Elmore,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,118,1,6:32,1592,1592,Foul on Greg Heckstall.,30,33,-3,16,0.644853178660176,0.4045846980627252,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,119,1,6:32,1592,1592,Greg Heckstall Turnover.,30,33,-3,0,0.644853178660176,0.4045846980627252,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,120,1,6:18,1578,1578,Jon Elmore made Three Point Jumper.,33,33,0,14,0.7270056260010485,0.5,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,121,1,5:52,1552,1552,Jermaine Marrow made Jumper.,33,35,-2,26,0.6706390689842625,0.4348700192752589,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,122,1,5:41,1541,1541,Jon Elmore made Three Point Jumper.,36,35,1,11,0.7506311078079076,0.5328584422350852,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,123,1,5:24,1524,1524,Foul on Jarrod West.,36,35,1,17,0.7500206439184645,0.5331008183732554,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,124,1,5:12,1512,1512,Lysander Bracey missed Three Point Jumper.,36,35,1,12,0.7495904930345262,0.53327559679856,4,4,7,NA,NA,Hampton,missed,Lysander Bracey,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,125,1,5:12,1512,1512,Jannson Williams Defensive Rebound.,36,35,1,0,0.7495904930345262,0.53327559679856,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,126,1,5:09,1509,1509,Foul on Trevond Barnes.,36,35,1,3,0.7494831918291722,0.5333198342919355,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,127,1,4:53,1493,1493,Jon Elmore made Three Point Jumper.,39,35,4,16,0.8169996131099588,0.631292667968614,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,128,1,4:30,1470,1470,Jermaine Marrow missed Jumper.,39,35,4,23,0.8170046261739251,0.6326342198060327,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,129,1,4:30,1470,1470,Jon Elmore Defensive Rebound.,39,35,4,0,0.8170046261739251,0.6326342198060327,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,130,1,4:22,1462,1462,Jon Elmore missed Three Point Jumper.,39,35,4,8,0.8170178582428858,0.633116644319362,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,131,1,4:22,1462,1462,Benjamin Stanley Defensive Rebound.,39,35,4,0,0.8170178582428858,0.633116644319362,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,132,1,4:13,1453,1453,Foul on Jon Elmore.,39,35,4,9,0.8170407984833085,0.633670133540072,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,133,1,4:13,1453,1453,Kalin Fisher made Free Throw.,39,36,3,0,0.7956665974006768,0.6013266151027448,4,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,134,1,4:13,1453,1453,Kalin Fisher made Free Throw.,39,37,2,0,0.7724906701992647,0.5680739378803993,4,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,135,1,3:58,1438,1438,Iran Bennett missed Layup.,39,37,2,15,0.7721875720830275,0.5685646516002714,4,4,7,NA,NA,Marshall,missed,Iran Bennett,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,136,1,3:58,1438,1438,Greg Heckstall Defensive Rebound.,39,37,2,0,0.7721875720830275,0.5685646516002714,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,137,1,3:51,1431,1431,Kalin Fisher missed Three Point Jumper.,39,37,2,7,0.7720394668637212,0.5687886775542065,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,138,1,3:51,1431,1431,Jarrod West Defensive Rebound.,39,37,2,0,0.7720394668637212,0.5687886775542065,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,139,1,3:41,1421,1421,Foul on Dondre Griffin.,39,37,2,10,0.7718209604641835,0.5691037296849245,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,140,1,3:41,1421,1421,Official TV Timeout,39,37,2,0,0.7718209604641835,0.5691037296849245,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,141,1,3:41,1421,1421,Iran Bennett made Free Throw.,40,37,3,0,0.7953888376092898,0.6028353063130273,4,4,7,NA,NA,Marshall,made,Iran Bennett,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,142,1,3:41,1421,1421,Iran Bennett missed Free Throw.,40,37,3,0,0.7953888376092898,0.6028353063130273,4,4,7,NA,NA,Marshall,missed,Iran Bennett,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,143,1,3:41,1421,1421,Greg Heckstall Defensive Rebound.,40,37,3,0,0.7953888376092898,0.6028353063130273,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,144,1,3:27,1407,1407,Jermaine Marrow missed Jumper.,40,37,3,14,0.7952387422461425,0.6034692036129541,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,145,1,3:27,1407,1407,Jarrod West Defensive Rebound.,40,37,3,0,0.7952387422461425,0.6034692036129541,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,146,1,3:11,1391,1391,Jannson Williams Turnover.,40,37,3,16,0.7950514232288094,0.6041808636063686,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,147,1,3:09,1389,1389,Greg Heckstall Steal.,40,37,3,2,0.7950270509841475,0.6042691336109013,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,148,1,3:03,1383,1383,Dondre Griffin missed Three Point Jumper.,40,37,3,6,0.7949528843080343,0.6045332986262809,4,4,7,NA,NA,Hampton,missed,Dondre Griffin,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,149,1,3:03,1383,1383,Jarrod West Defensive Rebound.,40,37,3,0,0.7949528843080343,0.6045332986262809,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,150,1,2:50,1370,1370,Jarrod West made Three Point Jumper.,43,37,6,13,0.8557964490906269,0.7013117484268417,4,4,7,NA,NA,Marshall,made,Jarrod West,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,151,1,2:29,1349,1349,Kalin Fisher missed Jumper.,43,37,6,21,0.856065539764567,0.702926114963647,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,152,1,2:29,1349,1349,Jannson Williams Defensive Rebound.,43,37,6,0,0.856065539764567,0.702926114963647,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,153,1,2:10,1330,1330,Jarrod West missed Three Point Jumper.,43,37,6,19,0.8563147499407834,0.7044012177932808,4,4,7,NA,NA,Marshall,missed,Jarrod West,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,154,1,2:10,1330,1330,Hampton Defensive Rebound.,43,37,6,0,0.8563147499407834,0.7044012177932808,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,155,1,1:45,1305,1305,Jermaine Marrow missed Jumper.,43,37,6,25,0.8566702258411785,0.7063919887623981,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,156,1,1:45,1305,1305,Iran Bennett Defensive Rebound.,43,37,6,0,0.8566702258411785,0.7063919887623981,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,157,1,1:35,1295,1295,Iran Bennett Turnover.,43,37,6,10,0.8568262432723073,0.7072116971792989,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,158,1,1:17,1277,1277,Lysander Bracey missed Three Point Jumper.,43,37,6,18,0.8571340775694501,0.7087313868046582,4,4,7,NA,NA,Hampton,missed,Lysander Bracey,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,159,1,1:17,1277,1277,Jon Elmore Defensive Rebound.,43,37,6,0,0.8571340775694501,0.7087313868046582,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,160,1,1:04,1264,1264,Jannson Williams made Three Point Jumper. Assisted by Jon Elmore.,46,37,9,13,0.9038796146757577,0.7928407147820973,4,4,7,NA,NA,Marshall,made,Jannson Williams,Jon Elmore,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,161,1,0:53,1253,1253,Foul on Iran Bennett.,46,37,9,11,0.9042526937216147,0.7940304365153347,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,162,1,0:53,1253,1253,Trevond Barnes missed Free Throw.,46,37,9,0,0.9042526937216147,0.7940304365153347,4,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,163,1,0:53,1253,1253,Hampton Deadball Team Rebound.,46,37,9,0,0.9042526937216147,0.7940304365153347,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,164,1,0:53,1253,1253,Trevond Barnes made Free Throw.,46,38,8,0,0.8904614975157364,0.7684288466915253,4,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,165,1,0:42,1242,1242,Jon Elmore made Three Point Jumper.,49,38,11,11,0.9276732398541603,0.8400280415854811,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,166,1,0:34,1234,1234,Hampton  Timeout,49,38,11,8,0.9279904994880601,0.840950910924037,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,167,1,0:09,1209,1209,Jermaine Marrow missed Layup.,49,38,11,25,0.9290584363405578,0.8439731329186864,3,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,168,1,0:09,1209,1209,Taevion Kinsey Block.,49,38,11,0,0.9290584363405578,0.8439731329186864,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,169,1,0:09,1209,1209,Hampton Offensive Rebound.,49,38,11,0,0.9290584363405578,0.8439731329186864,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,170,1,0:08,1208,1208,Greg Heckstall missed Jumper.,49,38,11,1,0.9291032062691379,0.8440976111001993,3,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,171,1,0:08,1208,1208,Jon Elmore Defensive Rebound.,49,38,11,0,0.9291032062691379,0.8440976111001993,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,172,1,0:05,1205,1205,Foul on Kalin Fisher.,49,38,11,3,0.9292366040745859,0.8444689303798137,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,173,1,0:05,1205,1205,Jon Elmore made Free Throw.,50,38,12,0,0.938706393321593,0.863617686058061,3,4,7,NA,NA,Marshall,made,Jon Elmore,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,174,1,0:05,1205,1205,Jon Elmore made Free Throw.,51,38,13,0,0.9469812105644249,0.880741817118885,3,4,7,NA,NA,Marshall,made,Jon Elmore,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,175,1,0:00,1200,1200,End of 1st half,51,38,13,5,0.9471912013324305,0.881320024494264,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,NA
+401125413,2019-04-02,Marshall,Hampton,176,2,20:00,1200,1200,PLAY,51,38,13,0,0.9471912013324305,0.881320024494264,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hampton
+401125413,2019-04-02,Marshall,Hampton,177,2,19:44,1184,1184,Trevond Barnes missed Dunk.,51,38,13,16,0.9478419560528891,0.8831184099014832,4,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,178,2,19:44,1184,1184,Jannson Williams Defensive Rebound.,51,38,13,0,0.9478419560528891,0.8831184099014832,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,179,2,19:38,1178,1178,Jannson Williams missed Three Point Jumper.,51,38,13,6,0.9480787738236972,0.8837749339442965,4,4,7,NA,NA,Marshall,missed,Jannson Williams,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,180,2,19:38,1178,1178,Jermaine Marrow Defensive Rebound.,51,38,13,0,0.9480787738236972,0.8837749339442965,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,181,2,19:27,1167,1167,Trevond Barnes missed Jumper.,51,38,13,11,0.9485046037295138,0.8849574621255532,4,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,182,2,19:27,1167,1167,Darius George Defensive Rebound.,51,38,13,0,0.9485046037295138,0.8849574621255532,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,183,2,19:17,1157,1157,Foul on Akim Mitchell.,51,38,13,10,0.9488840410552105,0.8860125399209862,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,184,2,19:17,1157,1157,Darius George missed Free Throw.,51,38,13,0,0.9488840410552105,0.8860125399209862,4,4,7,NA,NA,Marshall,missed,Darius George,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,185,2,19:17,1157,1157,Marshall Deadball Team Rebound.,51,38,13,0,0.9488840410552105,0.8860125399209862,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,186,2,19:17,1157,1157,Darius George missed Free Throw.,51,38,13,0,0.9488840410552105,0.8860125399209862,4,4,7,NA,NA,Marshall,missed,Darius George,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,187,2,19:17,1157,1157,Greg Heckstall Defensive Rebound.,51,38,13,0,0.9488840410552105,0.8860125399209862,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,188,2,19:02,1142,1142,Foul on Jarrod West.,51,38,13,15,0.9494433682406588,0.8875681704313477,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,189,2,19:00,1140,1140,Akim Mitchell made Jumper. Assisted by Kalin Fisher.,51,40,11,2,0.9318930462639133,0.8519547010036039,4,4,7,NA,NA,Hampton,made,Akim Mitchell,Kalin Fisher,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,190,2,18:40,1120,1120,C.J. Burks missed Jumper.,51,40,11,20,0.9326681508064883,0.854144901551411,4,4,7,NA,NA,Marshall,missed,C.J. Burks,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,191,2,18:40,1120,1120,Greg Heckstall Defensive Rebound.,51,40,11,0,0.9326681508064883,0.854144901551411,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,192,2,18:28,1108,1108,Akim Mitchell missed Three Point Jumper.,51,40,11,12,0.9331349197047878,0.8554573890481975,4,4,7,NA,NA,Hampton,missed,Akim Mitchell,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,193,2,18:28,1108,1108,Taevion Kinsey Defensive Rebound.,51,40,11,0,0.9331349197047878,0.8554573890481975,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,194,2,18:15,1095,1095,Darius George missed Three Point Jumper.,51,40,11,13,0.9336461920793644,0.8568866329376704,4,4,7,NA,NA,Marshall,missed,Darius George,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,195,2,18:15,1095,1095,Trevond Barnes Defensive Rebound.,51,40,11,0,0.9336461920793644,0.8568866329376704,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,196,2,17:55,1075,1075,Foul on C.J. Burks.,51,40,11,20,0.9344522895548664,0.8591174996574241,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,197,2,17:48,1068,1068,Trevond Barnes made Jumper.,51,42,9,7,0.9114930513709444,0.8152719559712799,4,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,198,2,17:35,1055,1055,Jon Elmore missed Jumper.,51,42,9,13,0.9120400431925018,0.8168069490502876,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,199,2,17:35,1055,1055,Trevond Barnes Defensive Rebound.,51,42,9,0,0.9120400431925018,0.8168069490502876,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,200,2,17:13,1033,1033,Jermaine Marrow missed Jumper.,51,42,9,22,0.9130196160558232,0.8195032166800715,4,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,201,2,17:13,1033,1033,Rondale Watson Defensive Rebound.,51,42,9,0,0.9130196160558232,0.8195032166800715,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,202,2,17:01,1021,1021,Foul on Akim Mitchell.,51,42,9,12,0.9135875397977223,0.8210361309628118,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,203,2,17:01,1021,1021,Taevion Kinsey made Free Throw.,52,42,10,0,0.926048156297572,0.8445720774495676,4,4,7,NA,NA,Marshall,made,Taevion Kinsey,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,204,2,17:01,1021,1021,Taevion Kinsey made Free Throw.,53,42,11,0,0.9368361889752259,0.865519741931992,4,4,7,NA,NA,Marshall,made,Taevion Kinsey,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,205,2,16:35,995,995,Benjamin Stanley missed Jumper.,53,42,11,26,0.938140653269894,0.8688992858437047,4,4,7,NA,NA,Hampton,missed,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,206,2,16:35,995,995,Jannson Williams Defensive Rebound.,53,42,11,0,0.938140653269894,0.8688992858437047,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,207,2,16:16,976,976,Taevion Kinsey missed Jumper.,53,42,11,19,0.9391757784417415,0.871526321122238,4,4,7,NA,NA,Marshall,missed,Taevion Kinsey,NA,FALSE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,208,2,16:16,976,976,Rondale Watson Offensive Rebound.,53,42,11,0,0.9391757784417415,0.871526321122238,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,209,2,16:13,973,973,Rondale Watson missed Layup.,53,42,11,3,0.9393461051262013,0.8719543922225195,4,4,7,NA,NA,Marshall,missed,Rondale Watson,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,210,2,16:13,973,973,Jermaine Marrow Defensive Rebound.,53,42,11,0,0.9393461051262013,0.8719543922225195,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,211,2,16:08,968,968,Greg Heckstall missed Layup.,53,42,11,5,0.9396330288807739,0.8726733970892742,4,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,212,2,16:08,968,968,Taevion Kinsey Defensive Rebound.,53,42,11,0,0.9396330288807739,0.8726733970892742,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,213,2,16:01,961,961,Jon Elmore missed Three Point Jumper.,53,42,11,7,0.9400212186717607,0.8736483099454606,4,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,214,2,16:01,961,961,Rondale Watson Offensive Rebound.,53,42,11,0,0.9400212186717607,0.8736483099454606,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,215,2,15:48,948,948,Rondale Watson Turnover.,53,42,11,13,0.9406932874666272,0.8753457608694195,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,216,2,15:48,948,948,Official TV Timeout,53,42,11,0,0.9406932874666272,0.8753457608694195,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,217,2,15:28,928,928,Lysander Bracey missed Layup.,53,42,11,20,0.9416257597512397,0.8777207042516683,4,4,7,NA,NA,Hampton,missed,Lysander Bracey,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,218,2,15:28,928,928,Iran Bennett Block.,53,42,11,0,0.9416257597512397,0.8777207042516683,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,219,2,15:27,927,927,Jon Elmore Defensive Rebound.,53,42,11,1,0.941669742021781,0.8778332418103765,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,220,2,15:13,913,913,Taevion Kinsey missed Three Point Jumper.,53,42,11,14,0.9422648967397548,0.8793596608613503,4,4,7,NA,NA,Marshall,missed,Taevion Kinsey,NA,TRUE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,221,2,15:13,913,913,Rondale Watson Offensive Rebound.,53,42,11,0,0.9422648967397548,0.8793596608613503,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,222,2,15:10,910,910,Rondale Watson made Two Point Tip Shot.,55,42,13,3,0.9591598537104092,0.9130194629756149,4,4,7,NA,NA,Marshall,made,Rondale Watson,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,223,2,15:03,903,903,Foul on Jannson Williams.,55,42,13,7,0.9594127956616089,0.9136642037993958,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,224,2,15:03,903,903,Jermaine Marrow made Free Throw.,55,43,12,0,0.9517262820161804,0.8982327100688837,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,225,2,15:03,903,903,Jermaine Marrow made Free Throw.,55,44,11,0,0.9426710595349391,0.8804040605225275,4,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,226,2,14:54,894,894,Rondale Watson missed Three Point Jumper.,55,44,11,9,0.9430273240892281,0.8813206834184981,4,4,7,NA,NA,Marshall,missed,Rondale Watson,NA,TRUE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,227,2,14:54,894,894,Iran Bennett Offensive Rebound.,55,44,11,0,0.9430273240892281,0.8813206834184981,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,228,2,14:49,889,889,Iran Bennett missed Layup.,55,44,11,5,0.9432226735904868,0.881823075794671,4,4,7,NA,NA,Marshall,missed,Iran Bennett,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,229,2,14:49,889,889,Benjamin Stanley Defensive Rebound.,55,44,11,0,0.9432226735904868,0.881823075794671,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,230,2,14:38,878,878,Greg Heckstall made Jumper.,55,46,9,11,0.9206212738951037,0.8392988539579268,4,4,7,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,231,2,14:19,859,859,Iran Bennett missed Layup.,55,46,9,19,0.9213960435619817,0.8413186651988406,4,4,7,NA,NA,Marshall,missed,Iran Bennett,NA,FALSE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,232,2,14:19,859,859,Iran Bennett Offensive Rebound.,55,46,9,0,0.9213960435619817,0.8413186651988406,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,233,2,14:17,857,857,Foul on Benjamin Stanley.,55,46,9,2,0.9214790591704186,0.8415336386349745,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,234,2,14:15,855,855,Foul on Lysander Bracey.,55,46,9,2,0.9215624874912914,0.841749349179024,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,235,2,14:03,843,843,Jon Elmore made Jumper.,57,46,11,12,0.9450316428611354,0.8864315825303747,4,4,7,NA,NA,Marshall,made,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,236,2,13:47,827,827,Kalin Fisher missed Jumper.,57,46,11,16,0.9457098000392471,0.8881249837114977,4,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,237,2,13:47,827,827,Jon Elmore Defensive Rebound.,57,46,11,0,0.9457098000392471,0.8881249837114977,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,238,2,13:38,818,818,Foul on Lysander Bracey.,57,46,11,9,0.9461123407350371,0.8891196899759648,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,239,2,13:32,812,812,Rondale Watson missed Three Point Jumper.,57,46,11,6,0.9463907563998302,0.8898031940891462,4,4,7,NA,NA,Marshall,missed,Rondale Watson,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,240,2,13:32,812,812,Greg Heckstall Defensive Rebound.,57,46,11,0,0.9463907563998302,0.8898031940891462,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,241,2,13:23,803,803,Akim Mitchell missed Three Point Jumper.,57,46,11,9,0.9468252668473115,0.8908628704617995,4,4,7,NA,NA,Hampton,missed,Akim Mitchell,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,242,2,13:23,803,803,Jannson Williams Defensive Rebound.,57,46,11,0,0.9468252668473115,0.8908628704617995,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,243,2,13:10,790,790,Jon Elmore Turnover.,57,46,11,13,0.9474929195550682,0.8924755148333681,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,244,2,13:09,789,789,Akim Mitchell Steal.,57,46,11,1,0.9475464006747929,0.89260392720398,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,245,2,13:05,785,785,Greg Heckstall made Dunk. Assisted by Jermaine Marrow.,57,48,9,4,0.9250005562423766,0.8503116533394827,4,4,7,NA,NA,Hampton,made,Greg Heckstall,Jermaine Marrow,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,246,2,13:03,783,783,Hampton  Timeout,57,48,9,2,0.9251205617001977,0.8505999511779866,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,247,2,12:44,764,764,Mikel Beyers Turnover.,57,48,9,19,0.9263426736864406,0.8535053666615676,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,248,2,12:44,764,764,Greg Heckstall Steal.,57,48,9,0,0.9263426736864406,0.8535053666615676,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,249,2,12:26,746,746,Greg Heckstall missed Three Point Jumper.,57,48,9,18,0.927650834698528,0.8565637931953686,3,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,TRUE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,250,2,12:26,746,746,Akim Mitchell Offensive Rebound.,57,48,9,0,0.927650834698528,0.8565637931953686,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,251,2,12:21,741,741,Akim Mitchell made Layup.,57,50,7,5,0.8964359584830355,0.801496921220793,3,4,7,NA,NA,Hampton,made,Akim Mitchell,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,252,2,12:12,732,732,Foul on Kalin Fisher.,57,50,7,9,0.8971756102984336,0.8032205445819257,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,253,2,12:10,730,730,Jon Elmore made Three Point Jumper. Assisted by Darius George.,60,50,10,2,0.9411417364562296,0.8821482187890259,3,4,7,NA,NA,Marshall,made,Jon Elmore,Darius George,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,254,2,11:47,707,707,Kalin Fisher made Three Point Jumper.,60,53,7,23,0.8991133862193588,0.8077917303160994,3,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,255,2,11:41,701,701,Darius George made Layup. Assisted by C.J. Burks.,62,53,9,6,0.9311107112860931,0.8646018367008509,3,4,7,NA,NA,Marshall,made,Darius George,CJ Burks,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,256,2,11:29,689,689,Trevond Barnes missed Three Point Jumper.,62,53,9,12,0.9318655150808324,0.8664060417433839,3,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,TRUE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,257,2,11:29,689,689,Akim Mitchell Offensive Rebound.,62,53,9,0,0.9318655150808324,0.8664060417433839,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,258,2,10:58,658,658,Greg Heckstall made Jumper.,62,55,7,31,0.9020457482035614,0.8150831570830995,3,4,7,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,259,2,10:46,646,646,Darius George missed Three Point Jumper.,62,55,7,12,0.9027229840465595,0.8167879231135652,3,4,7,NA,NA,Marshall,missed,Darius George,NA,TRUE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,260,2,10:46,646,646,Marshall Offensive Rebound.,62,55,7,0,0.9027229840465595,0.8167879231135652,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,261,2,10:42,642,642,Official TV Timeout,62,55,7,4,0.902953644832003,0.8173652473522173,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,262,2,10:37,637,637,Jon Elmore missed Jumper.,62,55,7,5,0.9032472852198278,0.8180967909157506,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,263,2,10:37,637,637,Trevond Barnes Defensive Rebound.,62,55,7,0,0.9032472852198278,0.8180967909157506,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,264,2,10:25,625,625,Kalin Fisher missed Layup.,62,55,7,12,0.9039843747973739,0.8199128864730034,3,4,7,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,265,2,10:25,625,625,Trevond Barnes Offensive Rebound.,62,55,7,0,0.9039843747973739,0.8199128864730034,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,266,2,10:23,623,623,Trevond Barnes made Layup.,62,57,5,2,0.8593740586715682,0.7472876696860655,3,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,267,2,10:23,623,623,Foul on Jannson Williams.,62,57,5,0,0.8593740586715682,0.7472876696860655,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,268,2,10:23,623,623,Trevond Barnes made Free Throw.,62,58,4,0,0.8310744277597023,0.7041958060972962,3,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,269,2,10:07,607,607,C.J. Burks missed Three Point Jumper.,62,58,4,16,0.8317787461897427,0.7063329040092846,3,4,7,NA,NA,Marshall,missed,C.J. Burks,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,270,2,10:07,607,607,Hampton Defensive Rebound.,62,58,4,0,0.8317787461897427,0.7063329040092846,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,271,2,9:50,590,590,Foul on C.J. Burks.,62,58,4,17,0.8326830008032673,0.7088896607022367,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,272,2,9:35,575,575,Jermaine Marrow made Three Point Jumper.,62,61,1,15,0.7180636532485417,0.5561661221175429,3,4,7,NA,NA,Hampton,made,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,273,2,9:21,561,561,Foul on Kalin Fisher.,62,61,1,14,0.7176289675844431,0.5569828065288794,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,274,2,9:21,561,561,Jannson Williams made Free Throw.,63,61,2,0,0.7616335872096689,0.6125043879582918,3,4,7,NA,NA,Marshall,made,Jannson Williams,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,275,2,9:21,561,561,Jannson Williams made Free Throw.,64,61,3,0,0.8006851933051271,0.6652496541306501,3,4,7,NA,NA,Marshall,made,Jannson Williams,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,276,2,8:57,537,537,Trevond Barnes missed Layup.,64,61,3,24,0.8020985982646697,0.6694171408613826,3,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,277,2,8:57,537,537,Darius George Defensive Rebound.,64,61,3,0,0.8020985982646697,0.6694171408613826,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,278,2,8:57,537,537,Foul on Jermaine Marrow.,64,61,3,0,0.8020985982646697,0.6694171408613826,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,279,2,8:57,537,537,Darius George missed Free Throw.,64,61,3,0,0.8020985982646697,0.6694171408613826,3,4,7,NA,NA,Marshall,missed,Darius George,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,280,2,8:57,537,537,Greg Heckstall Defensive Rebound.,64,61,3,0,0.8020985982646697,0.6694171408613826,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,281,2,8:41,521,521,Jermaine Marrow missed Three Point Jumper.,64,61,3,16,0.8027846048606924,0.6717738668402096,3,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,282,2,8:41,521,521,Jannson Williams Defensive Rebound.,64,61,3,0,0.8027846048606924,0.6717738668402096,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,283,2,8:27,507,507,Jon Elmore missed Three Point Jumper.,64,61,3,14,0.8032700391701472,0.6736486129361503,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,284,2,8:27,507,507,Greg Heckstall Defensive Rebound.,64,61,3,0,0.8032700391701472,0.6736486129361503,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,285,2,8:10,490,490,Jermaine Marrow missed Layup.,64,61,3,17,0.8038410543864274,0.6759045613611845,3,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,286,2,8:10,490,490,Benjamin Stanley Offensive Rebound.,64,61,3,0,0.8038410543864274,0.6759045613611845,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,287,2,8:07,487,487,Benjamin Stanley made Two Point Tip Shot.,64,63,1,3,0.7150217305425888,0.5611015076542238,3,4,7,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,288,2,7:50,470,470,Jarrod West Turnover.,64,63,1,17,0.7143861365311492,0.5620535384658126,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,289,2,7:50,470,470,Jermaine Marrow Steal.,64,63,1,0,0.7143861365311492,0.5620535384658126,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,290,2,7:39,459,459,Foul on Jon Elmore.,64,63,1,11,0.714003570097742,0.5627673221822006,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,291,2,7:39,459,459,Official TV Timeout,64,63,1,0,0.714003570097742,0.5627673221822006,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,292,2,7:39,459,459,Benjamin Stanley made Free Throw.,64,64,0,0,0.6598235216428765,0.5,3,4,7,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,293,2,7:39,459,459,Benjamin Stanley made Free Throw.,64,65,-1,0,0.6011135608600889,0.4372326778177994,3,4,7,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,294,2,7:25,445,445,Jannson Williams made Three Point Jumper. Assisted by Taevion Kinsey.,67,65,2,14,0.7630560347629839,0.6256202742593109,3,4,7,NA,NA,Marshall,made,Jannson Williams,Taevion Kinsey,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,295,2,7:08,428,428,Foul on Taevion Kinsey.,67,65,2,17,0.7638501872968447,0.6286626903206723,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,296,2,7:08,428,428,Greg Heckstall made Free Throw.,67,66,1,0,0.7131358695612242,0.5654330807025728,3,4,7,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,TRUE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,297,2,7:08,428,428,Greg Heckstall made Free Throw.,67,67,0,0,0.6564291161159047,0.5,3,4,7,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,TRUE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,298,2,6:49,409,409,Foul on Jermaine Marrow.,67,67,0,19,0.6540682733653995,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,299,2,6:49,409,409,Taevion Kinsey missed Free Throw.,67,67,0,0,0.6540682733653995,0.5,3,4,7,NA,NA,Marshall,missed,Taevion Kinsey,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,300,2,6:49,409,409,Greg Heckstall Defensive Rebound.,67,67,0,0,0.6540682733653995,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,301,2,6:34,394,394,Jermaine Marrow missed Layup.,67,67,0,15,0.6520896206372139,0.5,3,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,302,2,6:34,394,394,Jannson Williams Block.,67,67,0,0,0.6520896206372139,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,303,2,6:32,392,392,Trevond Barnes Offensive Rebound.,67,67,0,2,0.6518181866978255,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,304,2,6:30,390,390,Trevond Barnes made Layup.,67,69,-2,2,0.5176678501799682,0.3646735516378968,3,4,7,NA,NA,Hampton,made,Trevond Barnes,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,305,2,6:20,380,380,Jon Elmore missed Jumper.,67,69,-2,10,0.5142866781838237,0.3629586392334525,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,306,2,6:20,380,380,Trevond Barnes Defensive Rebound.,67,69,-2,0,0.5142866781838237,0.3629586392334525,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,307,2,6:08,368,368,Akim Mitchell missed Three Point Jumper.,67,69,-2,12,0.5100520153408696,0.3607991836068732,3,4,7,NA,NA,Hampton,missed,Akim Mitchell,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,308,2,6:08,368,368,Jon Elmore Defensive Rebound.,67,69,-2,0,0.5100520153408696,0.3607991836068732,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,309,2,5:47,347,347,Jon Elmore missed Three Point Jumper.,67,69,-2,21,0.5019292098379203,0.35652665343097123,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,TRUE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,310,2,5:47,347,347,Akim Mitchell Defensive Rebound.,67,69,-2,0,0.5019292098379203,0.35652665343097123,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,311,2,5:36,336,336,Jermaine Marrow missed Three Point Jumper.,67,69,-2,11,0.49718467559038915,0.3539219955677283,3,4,7,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,312,2,5:36,336,336,Marshall Defensive Rebound.,67,69,-2,0,0.49718467559038915,0.3539219955677283,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,313,2,5:17,317,317,Jannson Williams made Dunk. Assisted by C.J. Burks.,69,69,0,19,0.6403642223839701,0.5,3,4,7,NA,NA,Marshall,made,Jannson Williams,CJ Burks,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,314,2,4:58,298,298,Kalin Fisher made Three Point Jumper.,69,72,-3,19,0.39945336349286026,0.27475451467699313,3,4,7,NA,NA,Hampton,made,Kalin Fisher,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,315,2,4:30,270,270,Jon Elmore missed Layup.,69,72,-3,28,0.39574465492888483,0.27575721276738224,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,316,2,4:30,270,270,Trevond Barnes Block.,69,72,-3,0,0.39574465492888483,0.27575721276738224,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,317,2,4:30,270,270,Marshall Offensive Rebound.,69,72,-3,0,0.39574465492888483,0.27575721276738224,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,318,2,4:25,265,265,Marshall  Turnover.,69,72,-3,5,0.3959155072035955,0.27664032004941114,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,319,2,4:01,241,241,Greg Heckstall missed Jumper.,69,72,-3,24,0.3958013363932406,0.28022431869195974,3,4,7,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,320,2,4:01,241,241,Jon Elmore Defensive Rebound.,69,72,-3,0,0.3958013363932406,0.28022431869195974,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,321,2,3:43,223,223,C.J. Burks made Layup.,71,72,-1,18,0.547123289995272,0.4214935160850349,3,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,322,2,3:28,208,208,Trevond Barnes missed Three Point Jumper.,71,72,-1,15,0.541272356999878,0.41893415425786323,3,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,323,2,3:28,208,208,Iran Bennett Defensive Rebound.,71,72,-1,0,0.541272356999878,0.41893415425786323,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,324,2,3:05,185,185,Official TV Timeout,71,72,-1,23,0.5263194352823687,0.40969226941947817,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,325,2,2:57,177,177,Jon Elmore missed Jumper.,71,72,-1,8,0.5200952120547173,0.40561309102493875,3,4,7,NA,NA,Marshall,missed,Jon Elmore,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,326,2,2:57,177,177,Trevond Barnes Defensive Rebound.,71,72,-1,0,0.5200952120547173,0.40561309102493875,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,327,2,2:35,155,155,Trevond Barnes missed Three Point Jumper.,71,72,-1,22,0.5019912190829788,0.3937055684347136,3,4,7,NA,NA,Hampton,missed,Trevond Barnes,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,328,2,2:35,155,155,Mikel Beyers Defensive Rebound.,71,72,-1,0,0.5019912190829788,0.3937055684347136,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,329,2,2:22,142,142,Foul on Trevond Barnes.,71,72,-1,13,0.4901995862269304,0.3858209532637846,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,330,2,2:22,142,142,C.J. Burks made Free Throw.,72,72,0,0,0.6048479331095233,0.5,3,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,331,2,2:22,142,142,C.J. Burks made Free Throw.,73,72,1,0,0.709017996683355,0.6141790467362154,3,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,332,2,2:07,127,127,Trevond Barnes made Dunk. Assisted by Jermaine Marrow.,73,74,-1,15,0.4751492600069664,0.37555785479689296,3,4,7,NA,NA,Hampton,made,Trevond Barnes,Jermaine Marrow,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,333,2,1:44,104,104,C.J. Burks missed Jumper.,73,74,-1,23,0.44819463673039306,0.35665532669804234,3,4,7,NA,NA,Marshall,missed,C.J. Burks,NA,FALSE,FALSE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,334,2,1:44,104,104,Iran Bennett Offensive Rebound.,73,74,-1,0,0.44819463673039306,0.35665532669804234,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,335,2,1:42,102,102,Foul on Akim Mitchell.,73,74,-1,2,0.44559280533153484,0.35480061543056896,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,336,2,1:42,102,102,Iran Bennett made Free Throw.,74,74,0,0,0.5937548007973256,0.5,3,4,7,NA,NA,Marshall,made,Iran Bennett,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,337,2,1:42,102,102,Iran Bennett missed Free Throw.,74,74,0,0,0.5937548007973256,0.5,3,4,7,NA,NA,Marshall,missed,Iran Bennett,NA,FALSE,TRUE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,338,2,1:42,102,102,Greg Heckstall Defensive Rebound.,74,74,0,0,0.5937548007973256,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,339,2,1:23,83,83,Trevond Barnes Turnover.,74,74,0,19,0.588021922559323,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,340,2,1:21,81,81,Jarrod West Steal.,74,74,0,2,0.5874044344499114,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,341,2,1:19,79,79,C.J. Burks made Layup.,76,74,2,2,0.8521397348188361,0.8023104544104392,3,4,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,FALSE,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,342,2,1:11,71,71,Hampton  Timeout,76,74,2,8,0.8604960716350385,0.8144389223072004,2,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,343,2,1:11,71,71,Hampton  Timeout,76,74,2,0,0.8604960716350385,0.8144389223072004,2,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401125413,2019-04-02,Marshall,Hampton,344,2,0:54,54,54,Trevond Barnes made Dunk. Assisted by Kalin Fisher.,76,76,0,17,0.5787368815253896,0.5,2,4,7,NA,NA,Hampton,made,Trevond Barnes,Kalin Fisher,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,345,2,0:43,43,43,Marshall  Timeout,76,76,0,11,0.5750356446538124,0.5,2,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,346,2,0:34,34,34,Foul on Greg Heckstall.,76,76,0,9,0.5719274659003023,0.5,2,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,347,2,0:34,34,34,C.J. Burks made Free Throw.,77,76,1,0,0.7748886326841917,0.7203915297815288,2,3,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,348,2,0:34,34,34,C.J. Burks made Free Throw.,78,76,2,0,0.8986695674705448,0.869075491061388,2,3,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,349,2,0:34,34,34,Marshall  Timeout,78,76,2,0,0.8986695674705448,0.869075491061388,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,350,2,0:10,10,10,Kalin Fisher missed Three Point Jumper.,78,76,2,24,0.9214750622656711,0.9009619731336145,2,2,7,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,351,2,0:10,10,10,C.J. Burks Defensive Rebound.,78,76,2,0,0.9214750622656711,0.9009619731336145,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,352,2,0:09,9,9,Foul on Greg Heckstall.,78,76,2,1,0.922383832982422,0.9022161211088555,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,353,2,0:09,9,9,C.J. Burks made Free Throw.,79,76,3,0,0.9730442488384667,0.965548425338804,2,2,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,354,2,0:09,9,9,C.J. Burks made Free Throw.,80,76,4,0,0.990962374262136,0.988389749540432,2,2,7,NA,NA,Marshall,made,C.J. Burks,NA,FALSE,TRUE,Marshall,Marshall
+401125413,2019-04-02,Marshall,Hampton,355,2,0:09,9,9,Marshall  Timeout,80,76,4,0,0.990962374262136,0.988389749540432,2,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,Hampton
+401125413,2019-04-02,Marshall,Hampton,356,2,0:02,2,2,Kalin Fisher made Layup.,80,78,2,7,0.9285932924550454,0.910750940927652,2,1,7,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,FALSE,Hampton,Marshall
+401125413,2019-04-02,Marshall,Hampton,357,2,0:00,0,0,End of Game,80,80,0,2,1,1,2,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,NA

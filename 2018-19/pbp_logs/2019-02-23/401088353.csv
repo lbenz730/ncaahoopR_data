@@ -1,0 +1,306 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401088353,2019-02-23,Radford,Hampton,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8234847598098078,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Radford
+401088353,2019-02-23,Radford,Hampton,2,1,19:44,2384,2384,Mawdo Sallah made Layup.,2,0,2,16,0.8475599098145478,0.5443630098696349,4,4,9.6,NA,NA,Radford,made,Mawdo Sallah,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,3,1,19:19,2359,2359,Greg Heckstall missed Three Point Jumper.,2,0,2,25,0.8473271763371522,0.5448965882700816,4,4,9.6,NA,NA,Hampton,missed,Greg Heckstall,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,4,1,19:19,2359,2359,Mawdo Sallah Defensive Rebound.,2,0,2,0,0.8473271763371522,0.5448965882700816,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,5,1,19:11,2351,2351,Carlik Jones made Layup.,4,0,4,8,0.8692067239004019,0.5894118055013522,4,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,6,1,18:53,2333,2333,Jermaine Marrow made Jumper.,4,2,2,18,0.8470729785394071,0.5454603446991073,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,7,1,18:35,2315,2315,Carlik Jones missed Three Point Jumper.,4,2,2,18,0.8468891534204341,0.5458554347780128,4,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,8,1,18:35,2315,2315,Trevond Barnes Defensive Rebound.,4,2,2,0,0.8468891534204341,0.5458554347780128,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,9,1,18:25,2305,2305,Jermaine Marrow made Layup.,4,4,0,10,0.8212394193492122,0.5,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,10,1,18:01,2281,2281,Tristan Owens made Three Point Jumper. Assisted by Carlik Jones.,7,4,3,24,0.8582803642747132,0.5696643107585301,4,4,9.6,NA,NA,Radford,made,Tristan Owens,Carlik Jones,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,11,1,17:39,2259,2259,Greg Heckstall Turnover.,7,4,3,22,0.8581667772361841,0.5703984778225291,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,12,1,17:38,2258,2258,Ed Polite Jr. Steal.,7,4,3,1,0.8581613825993166,0.5704319891144647,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,13,1,17:35,2255,2255,Ed Polite Jr. Turnover.,7,4,3,3,0.858145074112175,0.5705325919819826,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,14,1,17:18,2238,2238,Foul on Carlik Jones.,7,4,3,17,0.8580490437207482,0.5711045362677699,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,15,1,17:18,2238,2238,Jermaine Marrow made Free Throw.,7,5,2,0,0.8460208265222005,0.5475820854440291,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,16,1,17:18,2238,2238,Jermaine Marrow made Free Throw.,7,6,1,0,0.8331715609128328,0.5238451522402601,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,17,1,17:18,2238,2238,Jermaine Marrow made Free Throw.,7,7,0,0,0.8194788412729882,0.5,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,18,1,17:04,2224,2224,Ed Polite Jr. missed Layup.,7,7,0,14,0.8190908441448748,0.5,4,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,19,1,17:04,2224,2224,Trevond Barnes Defensive Rebound.,7,7,0,0,0.8190908441448748,0.5,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,20,1,16:57,2217,2217,Greg Heckstall made Three Point Jumper. Assisted by Jermaine Marrow.,7,10,-3,7,0.7719954157182578,0.42818500324584097,4,4,9.6,NA,NA,Hampton,made,Greg Heckstall,Jermaine Marrow,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,21,1,16:32,2192,2192,Foul on Trevond Barnes.,7,10,-3,25,0.7705300901207673,0.4273344834071913,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,22,1,16:32,2192,2192,Carlik Jones made Free Throw.,8,10,-2,0,0.7873265250286238,0.45136513373923337,4,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,23,1,16:32,2192,2192,Carlik Jones made Free Throw.,9,10,-1,0,0.8032075150763642,0.4756247738977838,4,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,24,1,16:09,2169,2169,Kalin Fisher missed Jumper.,9,10,-1,23,0.8023135711565513,0.47535769035550457,4,4,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,25,1,16:09,2169,2169,Devonnte Holland Defensive Rebound.,9,10,-1,0,0.8023135711565513,0.47535769035550457,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,26,1,15:56,2156,2156,Travis Fields Jr. Turnover.,9,10,-1,13,0.8017978413464243,0.47520608923907626,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,27,1,15:55,2155,2155,Akim Mitchell Steal.,9,10,-1,1,0.8017578606153742,0.4751944004378896,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,28,1,15:28,2128,2128,Jermaine Marrow missed Jumper.,9,10,-1,27,0.8006617040113667,0.4748772471342439,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,29,1,15:28,2128,2128,Ed Polite Jr. Defensive Rebound.,9,10,-1,0,0.8006617040113667,0.4748772471342439,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,30,1,15:12,2112,2112,Devonnte Holland Turnover.,9,10,-1,16,0.7999969724968007,0.4746878026430107,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,31,1,15:12,2112,2112,Official TV Timeout,9,10,-1,0,0.7999969724968007,0.4746878026430107,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,32,1,14:59,2099,2099,Akim Mitchell Turnover.,9,10,-1,13,0.7994485860263257,0.4745329960623789,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,33,1,14:29,2069,2069,Carlik Jones Turnover.,9,10,-1,30,0.7981547533153087,0.4741725126841792,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,34,1,14:28,2068,2068,Greg Heckstall Steal.,9,10,-1,1,0.798110945724029,0.47416041489824323,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,35,1,14:24,2064,2064,Akim Mitchell missed Three Point Jumper.,9,10,-1,4,0.7979352771931765,0.47411196907380904,4,4,9.6,NA,NA,Hampton,missed,Akim Mitchell,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,36,1,14:24,2064,2064,Donald Hicks Defensive Rebound.,9,10,-1,0,0.7979352771931765,0.47411196907380904,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,37,1,14:08,2048,2048,Travis Fields Jr. missed Three Point Jumper.,9,10,-1,16,0.7972255965992643,0.4739172918013723,4,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,38,1,14:08,2048,2048,Trevond Barnes Defensive Rebound.,9,10,-1,0,0.7972255965992643,0.4739172918013723,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,39,1,14:00,2040,2040,Jermaine Marrow missed Three Point Jumper.,9,10,-1,8,0.7968665557611447,0.47381940151492263,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,40,1,14:00,2040,2040,Hampton Offensive Rebound.,9,10,-1,0,0.7968665557611447,0.47381940151492263,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,41,1,13:32,2012,2012,Foul on Travis Fields Jr..,9,10,-1,28,0.7955878925365577,0.47347374054000907,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,42,1,13:32,2012,2012,Jermaine Marrow made Free Throw.,9,11,-2,0,0.7777735460562722,0.447096382003624,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,43,1,13:32,2012,2012,Jermaine Marrow made Free Throw.,9,12,-3,0,0.7588772195749682,0.42101350065064624,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,44,1,13:19,1999,1999,Travis Fields Jr. missed Layup.,9,12,-3,13,0.7579576544295481,0.4205378590324588,4,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,45,1,13:19,1999,1999,Trevond Barnes Defensive Rebound.,9,12,-3,0,0.7579576544295481,0.4205378590324588,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,46,1,13:12,1992,1992,Lysander Bracey missed Three Point Jumper.,9,12,-3,7,0.7574580187502135,0.42028044547351606,4,4,9.6,NA,NA,Hampton,missed,Lysander Bracey,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,47,1,13:12,1992,1992,Ed Polite Jr. Defensive Rebound.,9,12,-3,0,0.7574580187502135,0.42028044547351606,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,48,1,13:01,1981,1981,Ed Polite Jr. made Jumper.,11,12,-1,11,0.794132350463497,0.4730851716124837,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,49,1,12:38,1958,1958,Trevond Barnes made Three Point Jumper. Assisted by Jermaine Marrow.,11,15,-4,23,0.7342800712805463,0.39275441128012434,4,4,9.6,NA,NA,Hampton,made,Trevond Barnes,Jermaine Marrow,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,50,1,12:08,1928,1928,Caleb Tanner missed Layup.,11,15,-4,30,0.7316089552840319,0.39127246513376573,4,4,9.6,NA,NA,Radford,missed,Caleb Tanner,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,51,1,12:08,1928,1928,Jermaine Marrow Defensive Rebound.,11,15,-4,0,0.7316089552840319,0.39127246513376573,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,52,1,11:49,1909,1909,Jermaine Marrow missed Jumper.,11,15,-4,19,0.729883589379218,0.39032936272641433,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,53,1,11:49,1909,1909,Caleb Tanner Defensive Rebound.,11,15,-4,0,0.729883589379218,0.39032936272641433,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,54,1,11:31,1891,1891,Travis Fields Jr. missed Jumper.,11,15,-4,18,0.7282265946887341,0.3894379316418235,4,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,55,1,11:31,1891,1891,Trevond Barnes Defensive Rebound.,11,15,-4,0,0.7282265946887341,0.3894379316418235,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,56,1,11:20,1880,1880,Kalin Fisher missed Three Point Jumper.,11,15,-4,11,0.7272028775696943,0.388893387512127,4,4,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,57,1,11:20,1880,1880,Donald Hicks Defensive Rebound.,11,15,-4,0,0.7272028775696943,0.388893387512127,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,58,1,11:12,1872,1872,Foul on Jermaine Marrow.,11,15,-4,8,0.7264529283036347,0.3884971832858312,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,59,1,11:12,1872,1872,Official TV Timeout,11,15,-4,0,0.7264529283036347,0.3884971832858312,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,60,1,11:00,1860,1860,Leroy Butts IV missed Three Point Jumper.,11,15,-4,12,0.7253192551838932,0.38790224004075113,4,4,9.6,NA,NA,Radford,missed,Leroy Butts IV,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,61,1,11:00,1860,1860,Kalin Fisher Defensive Rebound.,11,15,-4,0,0.7253192551838932,0.38790224004075113,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,62,1,10:30,1830,1830,Kalin Fisher made Three Point Jumper. Assisted by Greg Heckstall.,11,18,-7,30,0.6478859263308127,0.30804813324808616,4,4,9.6,NA,NA,Hampton,made,Kalin Fisher,Greg Heckstall,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,63,1,10:16,1816,1816,Caleb Tanner missed Three Point Jumper.,11,18,-7,14,0.645821547544297,0.30694453707925884,4,4,9.6,NA,NA,Radford,missed,Caleb Tanner,NA,TRUE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,64,1,10:16,1816,1816,Mawdo Sallah Offensive Rebound.,11,18,-7,0,0.645821547544297,0.30694453707925884,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,65,1,9:48,1788,1788,Carlik Jones Turnover.,11,18,-7,28,0.6416252459407698,0.304720857167825,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,66,1,9:46,1786,1786,Lysander Bracey Steal.,11,18,-7,2,0.641321899672222,0.3045609872410049,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,67,1,9:40,1780,1780,Greg Heckstall missed Three Point Jumper.,11,18,-7,6,0.6404088643050843,0.3040804227077741,4,4,9.6,NA,NA,Hampton,missed,Greg Heckstall,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,68,1,9:40,1780,1780,Radford Defensive Rebound.,11,18,-7,0,0.6404088643050843,0.3040804227077741,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,69,1,9:24,1764,1764,Foul on Ricquall Smoot.,11,18,-7,16,0.6379515962758078,0.30279130403598936,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,70,1,9:24,1764,1764,Ed Polite Jr. made Free Throw.,12,18,-6,0,0.6649948095103627,0.32851872957640205,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,71,1,9:24,1764,1764,Ed Polite Jr. missed Free Throw.,12,18,-6,0,0.6649948095103627,0.32851872957640205,4,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,72,1,9:24,1764,1764,Greg Heckstall Defensive Rebound.,12,18,-6,0,0.6649948095103627,0.32851872957640205,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,73,1,9:09,1749,1749,Jermaine Marrow missed Layup.,12,18,-6,15,0.662927181037034,0.3274258520524149,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,74,1,9:09,1749,1749,Ricquall Smoot Offensive Rebound.,12,18,-6,0,0.662927181037034,0.3274258520524149,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,75,1,9:05,1745,1745,Ricquall Smoot made Layup.,12,20,-8,4,0.6067054195418756,0.27656244185661866,4,4,9.6,NA,NA,Hampton,made,Ricquall Smoot,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,76,1,8:47,1727,1727,Carlik Jones missed Layup.,12,20,-8,18,0.603527985391291,0.274950376240726,4,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,77,1,8:47,1727,1727,Carlik Jones Offensive Rebound.,12,20,-8,0,0.603527985391291,0.274950376240726,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,78,1,8:46,1726,1726,Foul on Ricquall Smoot.,12,20,-8,1,0.6033499533124232,0.27486021538429894,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,79,1,8:41,1721,1721,Mawdo Sallah missed Jumper.,12,20,-8,5,0.6024573572597367,0.27440840792188187,4,4,9.6,NA,NA,Radford,missed,Mawdo Sallah,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,80,1,8:41,1721,1721,Lysander Bracey Defensive Rebound.,12,20,-8,0,0.6024573572597367,0.27440840792188187,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,81,1,8:32,1712,1712,Kalin Fisher Turnover.,12,20,-8,9,0.6008403108504994,0.2735908027057689,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,82,1,8:31,1711,1711,Travis Fields Jr. Steal.,12,20,-8,1,0.6006598043152548,0.2734996013635067,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,83,1,8:28,1708,1708,Ed Polite Jr. made Dunk. Assisted by Travis Fields Jr..,14,20,-6,3,0.6571306498246245,0.3243747947373486,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,Travis Fields Jr,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,84,1,8:04,1684,1684,Lysander Bracey made Jumper.,14,22,-8,24,0.5957247422356419,0.2710127224536308,4,4,9.6,NA,NA,Hampton,made,Lysander Bracey,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,85,1,7:40,1660,1660,Foul on Jermaine Marrow.,14,22,-8,24,0.5913131038513381,0.2688499740499212,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,86,1,7:40,1660,1660,Official TV Timeout,14,22,-8,0,0.5913131038513381,0.2688499740499212,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,87,1,7:40,1660,1660,Mawdo Sallah made Free Throw.,15,22,-7,0,0.6211552315224105,0.2941304604944661,4,4,9.6,NA,NA,Radford,made,Mawdo Sallah,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,88,1,7:40,1660,1660,Mawdo Sallah missed Free Throw.,15,22,-7,0,0.6211552315224105,0.2941304604944661,4,4,9.6,NA,NA,Radford,missed,Mawdo Sallah,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,89,1,7:40,1660,1660,Greg Heckstall Defensive Rebound.,15,22,-7,0,0.6211552315224105,0.2941304604944661,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,90,1,7:16,1636,1636,Jermaine Marrow made Jumper.,15,24,-9,24,0.5559558860680028,0.24277146893246473,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,91,1,6:50,1610,1610,Ed Polite Jr. missed Layup.,15,24,-9,26,0.5507101204159646,0.24042339186160075,4,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,92,1,6:50,1610,1610,Ed Polite Jr. Offensive Rebound.,15,24,-9,0,0.5507101204159646,0.24042339186160075,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,93,1,6:47,1607,1607,Donald Hicks made Three Point Jumper. Assisted by Ed Polite Jr..,18,24,-6,3,0.6422236041011069,0.31693614179991464,4,4,9.6,NA,NA,Radford,made,Donald Hicks,Ed Polite Jr,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,94,1,6:24,1584,1584,Jermaine Marrow missed Three Point Jumper.,18,24,-6,23,0.6387353190062933,0.31530802308935935,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,95,1,6:24,1584,1584,Benjamin Stanley Offensive Rebound.,18,24,-6,0,0.6387353190062933,0.31530802308935935,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,96,1,6:20,1580,1580,Benjamin Stanley made Layup.,18,26,-8,4,0.5764742748918839,0.2619912674781011,4,4,9.6,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,97,1,6:00,1560,1560,Mawdo Sallah missed Jumper.,18,26,-8,20,0.5726720838891354,0.2602890497301125,4,4,9.6,NA,NA,Radford,missed,Mawdo Sallah,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,98,1,6:00,1560,1560,Benjamin Stanley Defensive Rebound.,18,26,-8,0,0.5726720838891354,0.2602890497301125,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,99,1,5:50,1550,1550,Jermaine Marrow made Layup.,18,28,-10,10,0.5056684823048551,0.21229226844714363,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,100,1,5:28,1528,1528,Devin Hutchinson missed Three Point Jumper.,18,28,-10,22,0.5006697701454832,0.21020996525170682,4,4,9.6,NA,NA,Radford,missed,Devin Hutchinson,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,101,1,5:28,1528,1528,Lysander Bracey Defensive Rebound.,18,28,-10,0,0.5006697701454832,0.21020996525170682,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,102,1,5:11,1511,1511,Jermaine Marrow missed Three Point Jumper.,18,28,-10,17,0.4967340216278213,0.20856688112385915,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,103,1,5:11,1511,1511,Ed Polite Jr. Defensive Rebound.,18,28,-10,0,0.4967340216278213,0.20856688112385915,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,104,1,4:59,1499,1499,Donald Hicks made Three Point Jumper. Assisted by Carlik Jones.,21,28,-7,12,0.5933604043757222,0.28119621751109486,4,4,9.6,NA,NA,Radford,made,Donald Hicks,Carlik Jones,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,105,1,4:26,1466,1466,Foul on Mawdo Sallah.,21,28,-7,33,0.5871348266606845,0.2782832069308202,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,106,1,4:26,1466,1466,Greg Heckstall made Free Throw.,21,29,-8,0,0.5537889156371968,0.25178112134772984,4,4,9.6,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,107,1,4:26,1466,1466,Greg Heckstall made Free Throw.,21,30,-9,0,0.5199517866213028,0.22700907113922814,4,4,9.6,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,108,1,4:04,1444,1444,Carlik Jones made Layup.,23,30,-7,22,0.5828381938207735,0.2762350974178817,4,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,109,1,3:47,1427,1427,Foul on Devonnte Holland.,23,30,-7,17,0.5795227705410366,0.2746821697947737,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,110,1,3:47,1427,1427,Official TV Timeout,23,30,-7,0,0.5795227705410366,0.2746821697947737,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,111,1,3:47,1427,1427,Greg Heckstall missed Free Throw.,23,30,-7,0,0.5795227705410366,0.2746821697947737,4,4,9.6,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,112,1,3:47,1427,1427,Hampton Deadball Team Rebound.,23,30,-7,0,0.5795227705410366,0.2746821697947737,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,113,1,3:47,1427,1427,Greg Heckstall made Free Throw.,23,31,-8,0,0.5453998662907936,0.2479251679718967,4,4,9.6,NA,NA,Hampton,made,Greg Heckstall,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,114,1,3:28,1408,1408,Foul on Akim Mitchell.,23,31,-8,19,0.5413651675875004,0.2461331065776352,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,115,1,3:12,1392,1392,Carlik Jones missed Three Point Jumper.,23,31,-8,16,0.5379881532265957,0.24466269128269788,4,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,TRUE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,116,1,3:12,1392,1392,Ed Polite Jr. Offensive Rebound.,23,31,-8,0,0.5379881532265957,0.24466269128269788,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,117,1,3:08,1388,1388,Foul on Lysander Bracey.,23,31,-8,4,0.5371451038813122,0.24429905930584675,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,118,1,3:08,1388,1388,Ed Polite Jr. missed Free Throw.,23,31,-8,0,0.5371451038813122,0.24429905930584675,4,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,119,1,3:08,1388,1388,Radford Deadball Team Rebound.,23,31,-8,0,0.5371451038813122,0.24429905930584675,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,120,1,3:08,1388,1388,Ed Polite Jr. made Free Throw.,24,31,-7,0,0.5719988841937025,0.27128831423339567,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,121,1,2:58,1378,1378,Akim Mitchell made Jumper. Assisted by Lysander Bracey.,24,33,-9,10,0.4996523641194587,0.21824450906337808,4,4,9.6,NA,NA,Hampton,made,Akim Mitchell,Lysander Bracey,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,122,1,2:45,1365,1365,Carlik Jones made Layup.,26,33,-7,13,0.5675622644468135,0.26934462159152234,4,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,123,1,2:29,1349,1349,Lysander Bracey missed Three Point Jumper.,26,33,-7,16,0.5644529740643986,0.26799558106974414,4,4,9.6,NA,NA,Hampton,missed,Lysander Bracey,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,124,1,2:29,1349,1349,Donald Hicks Defensive Rebound.,26,33,-7,0,0.5644529740643986,0.26799558106974414,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,125,1,2:20,1340,1340,Ed Polite Jr. made Layup. Assisted by Carlik Jones.,28,33,-5,9,0.6318800218662047,0.32728182758253294,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,Carlik Jones,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,126,1,2:05,1325,1325,Akim Mitchell missed Three Point Jumper.,28,33,-5,15,0.629511504351782,0.32625048326324063,4,4,9.6,NA,NA,Hampton,missed,Akim Mitchell,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,127,1,2:05,1325,1325,Devonnte Holland Defensive Rebound.,28,33,-5,0,0.629511504351782,0.32625048326324063,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,128,1,1:46,1306,1306,Donald Hicks missed Jumper.,28,33,-5,19,0.6264606751763176,0.32491434527302265,4,4,9.6,NA,NA,Radford,missed,Donald Hicks,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,129,1,1:46,1306,1306,Greg Heckstall Defensive Rebound.,28,33,-5,0,0.6264606751763176,0.32491434527302265,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,130,1,1:26,1286,1286,Akim Mitchell made Layup. Assisted by Lysander Bracey.,28,35,-7,20,0.5517820077086348,0.26248330214619897,4,4,9.6,NA,NA,Hampton,made,Akim Mitchell,Lysander Bracey,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,131,1,1:20,1280,1280,Radford  Timeout,28,35,-7,6,0.5505225044882603,0.26192641203660394,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,132,1,1:02,1262,1262,Devonnte Holland made Layup.,30,35,-5,18,0.6191091360854918,0.3216163356258334,3,4,9.6,NA,NA,Radford,made,Devonnte Holland,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,133,1,0:53,1253,1253,Hampton  Timeout,30,35,-5,9,0.6175450327699589,0.3208947375834129,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,134,1,0:32,1232,1232,Akim Mitchell made Jumper. Assisted by Trevond Barnes.,30,37,-7,21,0.5399675489740134,0.2571445866743454,3,3,9.6,NA,NA,Hampton,made,Akim Mitchell,Trevond Barnes,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,135,1,0:02,1202,1202,Mawdo Sallah made Dunk. Assisted by Carlik Jones.,32,37,-5,30,0.608209889750039,0.3164133449951552,3,3,9.6,NA,NA,Radford,made,Mawdo Sallah,Carlik Jones,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,136,1,0:00,1200,1200,End of 1st half,32,37,-5,2,0.6078350004518213,0.3162303721963287,3,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,NA
+401088353,2019-02-23,Radford,Hampton,137,2,20:00,1200,1200,PLAY,32,37,-5,0,0.6078350004518213,0.3162303721963287,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hampton
+401088353,2019-02-23,Radford,Hampton,138,2,19:39,1179,1179,Jermaine Marrow missed Three Point Jumper.,32,37,-5,21,0.6039446687750636,0.31435180551338976,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,139,2,19:39,1179,1179,Ed Polite Jr. Defensive Rebound.,32,37,-5,0,0.6039446687750636,0.31435180551338976,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,140,2,19:19,1159,1159,Ed Polite Jr. Turnover.,32,37,-5,20,0.6002957362755339,0.3126174403762727,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,141,2,19:01,1141,1141,Jermaine Marrow made Jumper.,32,39,-7,18,0.5187642340390926,0.24729508223535773,4,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,142,2,18:45,1125,1125,Travis Fields Jr. Turnover.,32,39,-7,16,0.5151218005406715,0.24564463955683374,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,143,2,18:24,1104,1104,Jermaine Marrow missed Jumper.,32,39,-7,21,0.5103100023041703,0.24346895602856636,4,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,144,2,18:24,1104,1104,Ed Polite Jr. Defensive Rebound.,32,39,-7,0,0.5103100023041703,0.24346895602856636,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,145,2,18:16,1096,1096,Ed Polite Jr. made Layup.,34,39,-5,8,0.588814661194365,0.3072352599204103,4,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,146,2,17:57,1077,1077,Trevond Barnes Turnover.,34,39,-5,19,0.5852533141485486,0.3055593374591225,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,147,2,17:42,1062,1062,Carlik Jones Turnover.,34,39,-5,15,0.5823769185457061,0.30419549615312735,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,148,2,17:41,1061,1061,Trevond Barnes Steal.,34,39,-5,1,0.5821827539121347,0.30410303386779947,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,149,2,17:37,1057,1057,Akim Mitchell made Layup.,34,41,-7,4,0.49917436628789275,0.23840743545406778,4,4,9.6,NA,NA,Hampton,made,Akim Mitchell,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,150,2,17:24,1044,1044,Ed Polite Jr. missed Three Point Jumper.,34,41,-7,13,0.49594884255454846,0.23692563453484206,4,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,151,2,17:24,1044,1044,Trevond Barnes Defensive Rebound.,34,41,-7,0,0.49594884255454846,0.23692563453484206,4,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,152,2,17:04,1024,1024,Trevond Barnes made Three Point Jumper. Assisted by Kalin Fisher.,34,44,-10,20,0.3673383437689534,0.15581290266968129,4,4,9.6,NA,NA,Hampton,made,Trevond Barnes,Kalin Fisher,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,153,2,16:54,1014,1014,Radford  Timeout,34,44,-10,10,0.3641865562220711,0.1545178087687732,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,154,2,16:54,1014,1014,Official TV Timeout,34,44,-10,0,0.3641865562220711,0.1545178087687732,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,155,2,16:40,1000,1000,Mawdo Sallah missed Layup.,34,44,-10,14,0.3596493929144963,0.15264475599200034,3,4,9.6,NA,NA,Radford,missed,Mawdo Sallah,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,156,2,16:40,1000,1000,Greg Heckstall Defensive Rebound.,34,44,-10,0,0.3596493929144963,0.15264475599200034,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,157,2,16:21,981,981,Kalin Fisher missed Three Point Jumper.,34,44,-10,19,0.35323417925252787,0.14997946963720257,3,4,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,158,2,16:21,981,981,Donald Hicks Defensive Rebound.,34,44,-10,0,0.35323417925252787,0.14997946963720257,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,159,2,16:10,970,970,Donald Hicks made Three Point Jumper. Assisted by Carlik Jones.,37,44,-7,11,0.47562946982323856,0.2273679275426736,3,4,9.6,NA,NA,Radford,made,Donald Hicks,Carlik Jones,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,160,2,15:48,948,948,Greg Heckstall missed Jumper.,37,44,-7,22,0.4693251211741697,0.2243801947437711,3,4,9.6,NA,NA,Hampton,missed,Greg Heckstall,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,161,2,15:48,948,948,Donald Hicks Defensive Rebound.,37,44,-7,0,0.4693251211741697,0.2243801947437711,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,162,2,15:39,939,939,Carlik Jones missed Jumper.,37,44,-7,9,0.4669251413862209,0.22326132267339813,3,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,163,2,15:39,939,939,Greg Heckstall Defensive Rebound.,37,44,-7,0,0.4669251413862209,0.22326132267339813,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,164,2,15:13,913,913,Jermaine Marrow missed Three Point Jumper.,37,44,-7,26,0.46042476158749873,0.22027574823596405,3,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,165,2,15:13,913,913,Mawdo Sallah Defensive Rebound.,37,44,-7,0,0.46042476158749873,0.22027574823596405,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,166,2,15:04,904,904,Ed Polite Jr. made Layup.,39,44,-5,9,0.5487265517820554,0.2876249633971386,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,167,2,14:39,879,879,Kalin Fisher missed Three Point Jumper.,39,44,-5,25,0.5440188155930424,0.28538420342102877,3,4,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,168,2,14:39,879,879,Travis Fields Jr. Defensive Rebound.,39,44,-5,0,0.5440188155930424,0.28538420342102877,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,169,2,14:31,871,871,Travis Fields Jr. missed Jumper.,39,44,-5,8,0.5425207193372387,0.28467196824701824,3,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,170,2,14:31,871,871,Trevond Barnes Defensive Rebound.,39,44,-5,0,0.5425207193372387,0.28467196824701824,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,171,2,14:29,869,869,Trevond Barnes Turnover.,39,44,-5,2,0.5421452776544213,0.28449331884067974,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,172,2,14:29,869,869,Travis Fields Jr. Steal.,39,44,-5,0,0.5421452776544213,0.28449331884067974,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,173,2,14:29,869,869,Official TV Timeout,39,44,-5,0,0.5421452776544213,0.28449331884067974,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,174,2,14:15,855,855,Devonnte Holland made Layup.,41,44,-3,14,0.6294154866476628,0.3642185659581457,3,4,9.6,NA,NA,Radford,made,Devonnte Holland,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,175,2,14:15,855,855,Kalin Fisher made Jumper.,41,46,-5,0,0.5394949483804005,0.2832288929399054,3,4,9.6,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,176,2,13:30,810,810,Caleb Tanner missed Layup.,41,46,-5,45,0.5303508313371312,0.2787844230931129,3,4,9.6,NA,NA,Radford,missed,Caleb Tanner,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,177,2,13:30,810,810,Lysander Bracey Block.,41,46,-5,0,0.5303508313371312,0.2787844230931129,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,178,2,13:30,810,810,Hampton Defensive Rebound.,41,46,-5,0,0.5303508313371312,0.2787844230931129,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,179,2,13:03,783,783,Akim Mitchell missed Jumper.,41,46,-5,27,0.5240318891802859,0.275621452381394,3,4,9.6,NA,NA,Hampton,missed,Akim Mitchell,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,180,2,13:03,783,783,Carlik Jones Defensive Rebound.,41,46,-5,0,0.5240318891802859,0.275621452381394,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,181,2,12:56,776,776,Foul on Trevond Barnes.,41,46,-5,7,0.5222494701311208,0.27471685015192343,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,182,2,12:56,776,776,Ed Polite Jr. made Free Throw.,42,46,-4,0,0.5703357011398515,0.315040834792012,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,183,2,12:56,776,776,Ed Polite Jr. made Free Throw.,43,46,-3,0,0.6171302316639146,0.3583592209228534,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,184,2,12:35,755,755,Jermaine Marrow Turnover.,43,46,-3,21,0.6130644811416405,0.35630390698746844,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,185,2,12:34,754,754,Ed Polite Jr. Steal.,43,46,-3,1,0.612859040171508,0.35619883337531866,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,186,2,12:29,749,749,Ed Polite Jr. made Layup.,45,46,-1,5,0.7007987759075875,0.4506414026679366,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,187,2,12:29,749,749,Foul on Devonnte Holland.,45,46,-1,0,0.7007987759075875,0.4506414026679366,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,188,2,12:19,739,739,Foul on Donald Hicks.,45,46,-1,10,0.6995620854179666,0.45023549060329754,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,189,2,12:09,729,729,Kalin Fisher made Jumper.,45,48,-3,10,0.6073260234776362,0.3533334847258194,3,4,9.6,NA,NA,Hampton,made,Kalin Fisher,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,190,2,11:45,705,705,Foul on Ricquall Smoot.,45,48,-3,24,0.6020009895819612,0.35064094863467277,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,191,2,11:45,705,705,Official TV Timeout,45,48,-3,0,0.6020009895819612,0.35064094863467277,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,192,2,11:45,705,705,Carlik Jones made Free Throw.,46,48,-2,0,0.6500405034370008,0.3987166292380952,3,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,193,2,11:45,705,705,Carlik Jones made Free Throw.,47,48,-1,0,0.69521720154778,0.4488278761327404,3,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,194,2,11:20,680,680,Kalin Fisher Turnover.,47,48,-1,25,0.6922360057346789,0.4479476615665749,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,195,2,11:19,679,679,Travis Fields Jr. Steal.,47,48,-1,1,0.6921187982816069,0.4479141134389915,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,196,2,11:17,677,677,Travis Fields Jr. made Layup.,49,48,1,2,0.773413981788122,0.5521527523682312,3,4,9.6,NA,NA,Radford,made,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,197,2,11:01,661,661,Kalin Fisher made Three Point Jumper. Assisted by Lysander Bracey.,49,51,-2,16,0.6430591524960432,0.39579365834683145,3,4,9.6,NA,NA,Hampton,made,Kalin Fisher,Lysander Bracey,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,198,2,10:29,629,629,Carlik Jones made Layup.,51,51,0,32,0.7306945924055275,0.5,3,4,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,199,2,10:10,610,610,Jermaine Marrow missed Jumper.,51,51,0,19,0.7290271151467204,0.5,3,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,200,2,10:10,610,610,Ed Polite Jr. Defensive Rebound.,51,51,0,0,0.7290271151467204,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,201,2,10:03,603,603,Carlik Jones missed Three Point Jumper.,51,51,0,7,0.7283879352218322,0.5,3,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,202,2,10:03,603,603,Trevond Barnes Defensive Rebound.,51,51,0,0,0.7283879352218322,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,203,2,9:56,596,596,Kalin Fisher Turnover.,51,51,0,7,0.7277329352818088,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,204,2,9:55,595,595,Carlik Jones Steal.,51,51,0,1,0.7276379811338263,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,205,2,9:53,593,593,Carlik Jones missed Layup.,51,51,0,2,0.7274469899563577,0.5,3,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,206,2,9:53,593,593,Trevond Barnes Block.,51,51,0,0,0.7274469899563577,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,207,2,9:51,591,591,Lysander Bracey Defensive Rebound.,51,51,0,2,0.7272545242898631,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,208,2,9:33,573,573,Foul on Ed Polite Jr..,51,51,0,18,0.7254498775460916,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,209,2,9:33,573,573,Jermaine Marrow made Free Throw.,51,52,-1,0,0.6782178638512095,0.4437233907454449,3,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,210,2,9:33,573,573,Jermaine Marrow made Free Throw.,51,53,-2,0,0.6270377537196984,0.38885479418772134,3,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,211,2,9:17,557,557,Travis Fields Jr. made Jumper.,53,53,0,16,0.7237210114749054,0.5,3,4,9.6,NA,NA,Radford,made,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,212,2,9:02,542,542,Foul on Travis Fields Jr..,53,53,0,15,0.7220074102672492,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,213,2,8:55,535,535,Kalin Fisher missed Jumper.,53,53,0,7,0.7212252112224455,0.5,3,4,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,214,2,8:55,535,535,Devonnte Holland Defensive Rebound.,53,53,0,0,0.7212252112224455,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,215,2,8:53,533,533,Foul on Trevond Barnes.,53,53,0,2,0.7210043061228701,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,216,2,8:40,520,520,Ed Polite Jr. made Dunk. Assisted by Travis Fields Jr..,55,53,2,13,0.8053877529796061,0.6172509114802167,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,Travis Fields Jr,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,217,2,8:21,501,501,Jermaine Marrow missed Jumper.,55,53,2,19,0.804997633248965,0.6190564603625891,3,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,218,2,8:21,501,501,Hampton Offensive Rebound.,55,53,2,0,0.804997633248965,0.6190564603625891,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,219,2,8:13,493,493,Benjamin Stanley made Jumper.,55,55,0,8,0.7166648785559003,0.5,3,4,9.6,NA,NA,Hampton,made,Benjamin Stanley,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,220,2,7:44,464,464,Travis Fields Jr. missed Three Point Jumper.,55,55,0,29,0.7133273623365151,0.5,3,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,221,2,7:44,464,464,Benjamin Stanley Defensive Rebound.,55,55,0,0,0.7133273623365151,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,222,2,7:30,450,450,Jermaine Marrow missed Three Point Jumper.,55,55,0,14,0.7115561999599657,0.5,3,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,TRUE,FALSE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,223,2,7:30,450,450,Lysander Bracey Offensive Rebound.,55,55,0,0,0.7115561999599657,0.5,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,224,2,7:19,439,439,Jermaine Marrow made Layup.,55,57,-2,11,0.5933782727135304,0.3733835819543717,3,4,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,225,2,6:47,407,407,Carlik Jones Turnover.,55,57,-2,32,0.581578461317777,0.36755057082949893,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,226,2,6:46,406,406,Kalin Fisher Steal.,55,57,-2,1,0.5812080736622092,0.36737943283221663,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,227,2,6:42,402,402,Kalin Fisher Turnover.,55,57,-2,4,0.5797234331417374,0.366699133811541,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,228,2,6:41,401,401,Donald Hicks Steal.,55,57,-2,1,0.579351259142077,0.36652988729876135,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,229,2,6:18,378,378,Donald Hicks Turnover.,55,57,-2,23,0.5705541460044152,0.3626082658578872,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,230,2,6:17,377,377,Akim Mitchell Steal.,55,57,-2,1,0.5701564641491734,0.3624318553768429,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,231,2,6:14,374,374,Lysander Bracey made Layup.,55,59,-4,3,0.4281120943592467,0.24337236328765266,3,4,9.6,NA,NA,Hampton,made,Lysander Bracey,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,232,2,6:14,374,374,Official TV Timeout,55,59,-4,0,0.4281120943592467,0.24337236328765266,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,233,2,5:59,359,359,Ed Polite Jr. made Dunk. Assisted by Carlik Jones.,57,59,-2,15,0.5626635655670976,0.3590621270299792,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,Carlik Jones,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,234,2,5:42,342,342,Akim Mitchell made Layup.,57,61,-4,17,0.4072654459968021,0.23308923654938157,3,4,9.6,NA,NA,Hampton,made,Akim Mitchell,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,235,2,5:42,342,342,Foul on Travis Fields Jr..,57,61,-4,0,0.4072654459968021,0.23308923654938157,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,236,2,5:42,342,342,Akim Mitchell made Free Throw.,57,62,-5,0,0.3378212193701257,0.18411898097546658,3,4,9.6,NA,NA,Hampton,made,Akim Mitchell,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,237,2,5:28,328,328,Ed Polite Jr. missed Three Point Jumper.,57,62,-5,14,0.32620541320423585,0.17834952929255735,3,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,238,2,5:28,328,328,Lysander Bracey Defensive Rebound.,57,62,-5,0,0.32620541320423585,0.17834952929255735,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,239,2,5:07,307,307,Lysander Bracey made Three Point Jumper. Assisted by Jermaine Marrow.,57,65,-8,21,0.14485662778810657,0.07198462234291123,3,4,9.6,NA,NA,Hampton,made,Lysander Bracey,Jermaine Marrow,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,240,2,4:53,293,293,Carlik Jones missed Three Point Jumper.,57,65,-8,14,0.1382970444467353,0.06936770028411027,3,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,TRUE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,241,2,4:53,293,293,Kalin Fisher Defensive Rebound.,57,65,-8,0,0.1382970444467353,0.06936770028411027,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,242,2,4:37,277,277,Benjamin Stanley made Layup. Assisted by Jermaine Marrow.,57,67,-10,16,0.07690684524562875,0.037832239690935146,3,4,9.6,NA,NA,Hampton,made,Benjamin Stanley,Jermaine Marrow,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,243,2,4:13,253,253,Travis Fields Jr. missed Three Point Jumper.,57,67,-10,24,0.08004151256858319,0.04038154455803229,3,4,9.6,NA,NA,Radford,missed,Travis Fields Jr.,NA,TRUE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,244,2,4:13,253,253,Ed Polite Jr. Offensive Rebound.,57,67,-10,0,0.08004151256858319,0.04038154455803229,3,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,245,2,4:07,247,247,Ed Polite Jr. made Layup.,59,67,-8,6,0.14148678811464316,0.07425748707915412,3,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,246,2,4:06,246,246,Radford  Timeout,59,67,-8,1,0.14154773346338925,0.07436512938543502,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,247,2,4:06,246,246,Official TV Timeout,59,67,-8,0,0.14154773346338925,0.07436512938543502,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,248,2,3:35,215,215,Jermaine Marrow missed Layup.,59,67,-8,31,0.1319031391842106,0.071203341108256,2,4,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,249,2,3:35,215,215,Hampton Defensive Rebound.,59,67,-8,0,0.1319031391842106,0.071203341108256,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,250,2,3:28,208,208,Lysander Bracey missed Three Point Jumper.,59,67,-8,7,0.1254705828788988,0.06803946310759895,2,4,9.6,NA,NA,Hampton,missed,Lysander Bracey,NA,TRUE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,251,2,3:28,208,208,Mawdo Sallah Defensive Rebound.,59,67,-8,0,0.1254705828788988,0.06803946310759895,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,252,2,3:27,207,207,Foul on Benjamin Stanley.,59,67,-8,1,0.1244042523911842,0.06750170278942799,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,253,2,3:13,193,193,Carlik Jones missed Layup.,59,67,-8,14,0.10578934658233803,0.05782457709148441,2,4,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,254,2,3:13,193,193,Jermaine Marrow Block.,59,67,-8,0,0.10578934658233803,0.05782457709148441,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,255,2,3:11,191,191,Kalin Fisher Defensive Rebound.,59,67,-8,2,0.10262226695234511,0.05614591162658648,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,256,2,3:08,188,188,Jermaine Marrow Turnover.,59,67,-8,3,0.0977702006765362,0.053567104522958445,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,257,2,2:55,175,175,Foul on Jermaine Marrow.,59,67,-8,13,0.07872758046940287,0.043466105891998855,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,258,2,2:51,171,171,Foul on Benjamin Stanley.,59,67,-8,4,0.07345585092768986,0.04067016910275852,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,259,2,2:51,171,171,Ed Polite Jr. missed Free Throw.,59,67,-8,0,0.07345585092768986,0.04067016910275852,2,4,9.6,NA,NA,Radford,missed,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,260,2,2:51,171,171,Radford Deadball Team Rebound.,59,67,-8,0,0.07345585092768986,0.04067016910275852,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,261,2,2:51,171,171,Ed Polite Jr. made Free Throw.,60,67,-7,0,0.10529909728548117,0.0592089939913973,2,4,9.6,NA,NA,Radford,made,Ed Polite Jr.,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,262,2,2:43,163,163,Lysander Bracey missed Layup.,60,67,-7,8,0.09311481401121859,0.05261077145365311,2,4,9.6,NA,NA,Hampton,missed,Lysander Bracey,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,263,2,2:43,163,163,Ed Polite Jr. Defensive Rebound.,60,67,-7,0,0.09311481401121859,0.05261077145365311,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,264,2,2:37,157,157,Donald Hicks missed Three Point Jumper.,60,67,-7,6,0.08449454862870708,0.0479366575357651,2,4,9.6,NA,NA,Radford,missed,Donald Hicks,NA,TRUE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,265,2,2:37,157,157,Devonnte Holland Offensive Rebound.,60,67,-7,0,0.08449454862870708,0.0479366575357651,2,4,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,266,2,2:32,152,152,Devonnte Holland made Layup.,62,67,-5,5,0.1684264923242419,0.10015628098024774,2,4,9.6,NA,NA,Radford,made,Devonnte Holland,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,267,2,2:21,141,141,Hampton  Timeout,62,67,-5,11,0.14731809748111444,0.08801516513632233,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,268,2,2:05,125,125,Trevond Barnes missed Dunk.,62,67,-5,16,0.1175243531566935,0.07084266259415171,2,3,9.6,NA,NA,Hampton,missed,Trevond Barnes,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,269,2,2:05,125,125,Ed Polite Jr. Block.,62,67,-5,0,0.1175243531566935,0.07084266259415171,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,270,2,2:03,123,123,Ed Polite Jr. Defensive Rebound.,62,67,-5,2,0.11390240762870875,0.06874882714712816,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,271,2,1:56,116,116,Devonnte Holland missed Layup.,62,67,-5,7,0.10146438276303932,0.06154343070944618,2,3,9.6,NA,NA,Radford,missed,Devonnte Holland,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,272,2,1:56,116,116,Trevond Barnes Defensive Rebound.,62,67,-5,0,0.10146438276303932,0.06154343070944618,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,273,2,1:30,90,90,Kalin Fisher missed Jumper.,62,67,-5,26,0.060101081735971604,0.03733375426475111,2,3,9.6,NA,NA,Hampton,missed,Kalin Fisher,NA,FALSE,FALSE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,274,2,1:30,90,90,Donald Hicks Defensive Rebound.,62,67,-5,0,0.060101081735971604,0.03733375426475111,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,275,2,1:18,78,78,Carlik Jones missed Layup.,62,67,-5,12,0.045364657884496146,0.028587739601403407,2,3,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,276,2,1:18,78,78,Trevond Barnes Block.,62,67,-5,0,0.045364657884496146,0.028587739601403407,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,277,2,1:18,78,78,Radford Offensive Rebound.,62,67,-5,0,0.045364657884496146,0.028587739601403407,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,278,2,1:10,70,70,Carlik Jones missed Layup.,62,67,-5,8,0.03702979175853766,0.023586887486738452,2,3,9.6,NA,NA,Radford,missed,Carlik Jones,NA,FALSE,FALSE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,279,2,1:10,70,70,Trevond Barnes Block.,62,67,-5,0,0.03702979175853766,0.023586887486738452,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,280,2,1:10,70,70,Radford Offensive Rebound.,62,67,-5,0,0.03702979175853766,0.023586887486738452,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,281,2,1:04,64,64,Foul on Trevond Barnes.,62,67,-5,6,0.03155306266526302,0.020272143864045897,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,282,2,1:04,64,64,Caleb Tanner missed Free Throw.,62,67,-5,0,0.03155306266526302,0.020272143864045897,2,3,9.6,NA,NA,Radford,missed,Caleb Tanner,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,283,2,1:04,64,64,Kalin Fisher Defensive Rebound.,62,67,-5,0,0.03155306266526302,0.020272143864045897,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,284,2,0:44,44,44,Foul on Devonnte Holland.,62,67,-5,20,0.017742251187711233,0.011767510489776919,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,285,2,0:44,44,44,Jermaine Marrow missed Free Throw.,62,67,-5,0,0.017742251187711233,0.011767510489776919,2,3,9.6,NA,NA,Hampton,missed,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,286,2,0:44,44,44,Hampton Deadball Team Rebound.,62,67,-5,0,0.017742251187711233,0.011767510489776919,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,287,2,0:44,44,44,Jermaine Marrow made Free Throw.,62,68,-6,0,0.007391394615142003,0.0048849917639121375,2,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,288,2,0:36,36,36,Foul on Kalin Fisher.,62,68,-6,8,0.005468162898688012,0.0036675337152034613,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,289,2,0:36,36,36,Travis Fields Jr. made Free Throw.,63,68,-5,0,0.01379938454749242,0.009280941701926622,2,3,9.6,NA,NA,Radford,made,Travis Fields Jr.,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,290,2,0:36,36,36,Travis Fields Jr. made Free Throw.,64,68,-4,0,0.03438508543554271,0.023285253298483865,2,3,9.6,NA,NA,Radford,made,Travis Fields Jr.,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,291,2,0:30,30,30,Foul on Ed Polite Jr..,64,68,-4,6,0.029427218508461722,0.020125371467761017,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,292,2,0:30,30,30,Jermaine Marrow made Free Throw.,64,69,-5,0,0.01134770489530337,0.007715303838717683,2,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,293,2,0:30,30,30,Jermaine Marrow made Free Throw.,64,70,-6,0,0.00432638139747672,0.0029348346104883754,2,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,294,2,0:23,23,23,Foul on Trevond Barnes.,64,70,-6,7,0.0032682072518077127,0.002247169053023267,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,295,2,0:20,20,20,Carlik Jones made Free Throw.,65,70,-5,3,0.008096235559139188,0.005608723485125689,2,3,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Radford
+401088353,2019-02-23,Radford,Hampton,296,2,0:20,20,20,Carlik Jones made Free Throw.,66,70,-4,0,0.022474009770824865,0.0156386738249112,2,3,9.6,NA,NA,Radford,made,Carlik Jones,NA,FALSE,TRUE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,297,2,0:14,14,14,Foul on Travis Fields Jr..,66,70,-4,6,0.018947314661124617,0.013329460440830233,2,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,298,2,0:14,14,14,Jermaine Marrow made Free Throw.,66,71,-5,0,0.006541317790589544,0.004584635902413504,2,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,299,2,0:14,14,14,Jermaine Marrow made Free Throw.,66,72,-6,0,0.002239761289445013,0.001567758667046619,2,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,300,2,0:10,10,10,Travis Fields Jr. made Layup.,68,72,-4,4,0.016844349186961333,0.0119391858379318,2,3,9.6,NA,NA,Radford,made,Travis Fields Jr.,NA,FALSE,FALSE,Radford,Hampton
+401088353,2019-02-23,Radford,Hampton,301,2,0:09,9,9,Radford  Timeout,68,72,-4,1,0.016349198981871874,0.011610250459567963,1,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,302,2,0:07,7,7,Foul on Travis Fields Jr..,68,72,-4,2,0.015394959932980805,0.010974511870150696,1,3,9.6,NA,NA,NA,NA,NA,NA,NA,NA,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,303,2,0:07,7,7,Jermaine Marrow made Free Throw.,68,73,-5,0,0.0050490840090015995,0.0035884830521534074,1,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Hampton
+401088353,2019-02-23,Radford,Hampton,304,2,0:07,7,7,Jermaine Marrow made Free Throw.,68,74,-6,0,0.0016443363547551384,0.0011675063603289724,1,3,9.6,NA,NA,Hampton,made,Jermaine Marrow,NA,FALSE,TRUE,Hampton,Radford
+401088353,2019-02-23,Radford,Hampton,305,2,0:03,3,3,Carlik Jones made Three Point Jumper.,71,74,-3,4,0.041974033117322077,0.030400848236932055,1,3,9.6,NA,NA,Radford,made,Carlik Jones,NA,TRUE,FALSE,Radford,Hampton
