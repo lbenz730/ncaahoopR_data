@@ -1,0 +1,333 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401082529,2019-02-23,Nebraska,Purdue,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.2763607055161716,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
+401082529,2019-02-23,Nebraska,Purdue,2,1,19:33,2373,2373,Nojel Eastern missed Jumper.,0,0,0,27,0.2768849802051192,0.5,4,4,-6,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,3,1,19:30,2370,2370,Tanner Borchardt Defensive Rebound.,0,0,0,3,0.27694432135737057,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,4,1,19:13,2353,2353,Tanner Borchardt missed Layup.,0,0,0,17,0.27728479456547445,0.5,4,4,-6,NA,NA,Nebraska,missed,Tanner Borchardt,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,5,1,19:13,2353,2353,Matt Haarms Block.,0,0,0,0,0.27728479456547445,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,6,1,19:09,2349,2349,Tanner Borchardt Offensive Rebound.,0,0,0,4,0.2773659572189675,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,7,1,19:08,2348,2348,Glynn Watson Jr. made Three Point Jumper. Assisted by Tanner Borchardt.,3,0,3,1,0.3349412741320562,0.5674717857605485,4,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,Tanner Borchardt,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,8,1,18:47,2327,2327,Grady Eifert made Three Point Jumper. Assisted by Carsen Edwards.,3,3,0,21,0.2778196577497348,0.5,4,4,-6,NA,NA,Purdue,made,Grady Eifert,Carsen Edwards,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,9,1,18:33,2313,2313,James Palmer Jr. missed Jumper.,3,3,0,14,0.27811493462884174,0.5,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,10,1,18:31,2311,2311,Matt Haarms Defensive Rebound.,3,3,0,2,0.27815754076091814,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,11,1,18:13,2293,2293,Carsen Edwards made Three Point Jumper.,3,6,-3,18,0.22608597358322455,0.4307334723967789,4,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,12,1,17:41,2261,2261,Glynn Watson Jr. made Three Point Jumper. Assisted by James Palmer Jr..,6,6,0,32,0.2792581603208716,0.5,4,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,James Palmer Jr,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,13,1,17:12,2232,2232,Matt Haarms missed Layup.,6,6,0,29,0.27992890216502264,0.5,4,4,-6,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,14,1,17:11,2231,2231,Isaiah Roby Defensive Rebound.,6,6,0,1,0.2799524699536719,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,15,1,17:11,2231,2231,Foul on Matt Haarms.,6,6,0,0,0.2799524699536719,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,16,1,16:41,2201,2201,Thomas Allen missed Three Point Jumper.,6,6,0,30,0.28067345027145707,0.5,4,4,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,17,1,16:39,2199,2199,Trevion Williams Defensive Rebound.,6,6,0,2,0.28072248852184417,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,18,1,16:30,2190,2190,Carsen Edwards made Jumper.,6,8,-2,9,0.24321693731365912,0.45131910471459613,4,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,19,1,16:12,2172,2172,James Palmer Jr. missed Jumper.,6,8,-2,18,0.24332008491135237,0.4509040914302073,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,20,1,16:10,2170,2170,Tanner Borchardt Offensive Rebound.,6,8,-2,2,0.2433320393375939,0.4508579029700246,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,21,1,16:01,2161,2161,Glynn Watson Jr. missed Layup.,6,8,-2,9,0.2433868913341216,0.45064972776518214,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,22,1,15:59,2159,2159,Nojel Eastern Defensive Rebound.,6,8,-2,2,0.24339930438697183,0.4506033848195652,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,23,1,15:53,2153,2153,Trevion Williams missed Layup.,6,8,-2,6,0.2434370251875828,0.4504641729595203,4,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,24,1,15:53,2153,2153,Isaiah Roby Block.,6,8,-2,0,0.2434370251875828,0.4504641729595203,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,25,1,15:50,2150,2150,Nebraska Defensive Rebound.,6,8,-2,3,0.24345615415484967,0.4503944624143455,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,26,1,15:50,2150,2150,Official TV Timeout,6,8,-2,0,0.24345615415484967,0.4503944624143455,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,27,1,15:33,2133,2133,Foul on Aaron Wheeler.,6,8,-2,17,0.24356786344231576,0.4499980690857962,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,28,1,15:27,2127,2127,Glynn Watson Jr. made Three Point Jumper. Assisted by James Palmer Jr..,9,8,1,6,0.30340683723852463,0.5251345592101195,4,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,James Palmer Jr,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,29,1,15:07,2107,2107,Trevion Williams made Jumper.,9,10,-1,20,0.26295627436778585,0.4746283577171728,4,4,-6,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,30,1,14:59,2099,2099,Thomas Allen made Three Point Jumper. Assisted by James Palmer Jr..,12,10,2,8,0.32649244558824336,0.5508022130575281,4,4,-6,NA,NA,Nebraska,made,Thomas Allen,James Palmer Jr,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,31,1,14:40,2080,2080,Carsen Edwards missed Three Point Jumper.,12,10,2,19,0.3274667953657937,0.5512541767881072,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,32,1,14:38,2078,2078,James Palmer Jr. Defensive Rebound.,12,10,2,2,0.32757024296226434,0.5513019628263349,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,33,1,14:30,2070,2070,Glynn Watson Jr. made Layup. Assisted by James Palmer Jr..,14,10,4,8,0.37505228581379446,0.601906192513953,4,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,James Palmer Jr,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,34,1,14:10,2050,2050,Carsen Edwards made Layup.,14,12,2,20,0.32903627088315957,0.5519754153330887,4,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,35,1,13:49,2029,2029,Thomas Allen made Layup.,16,12,4,21,0.3783045260269285,0.6038283841502873,4,4,-6,NA,NA,Nebraska,made,Thomas Allen,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,36,1,13:31,2011,2011,Foul on Tanner Borchardt.,16,12,4,18,0.37976349041729945,0.6046835176637574,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,37,1,13:31,2011,2011,Trevion Williams made Free Throw.,16,13,3,0,0.35507457703830897,0.5790229776748573,4,4,-6,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,38,1,13:31,2011,2011,Trevion Williams made Free Throw.,16,14,2,0,0.3311338082914204,0.5529282802411927,4,4,-6,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,39,1,13:12,1992,1992,James Palmer Jr. missed Layup.,16,14,2,19,0.33217928992978635,0.5533992836385713,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,40,1,13:10,1990,1990,Matt Haarms Defensive Rebound.,16,14,2,2,0.33229024475756075,0.553449135636285,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,41,1,13:10,1990,1990,Foul on Isaiah Roby.,16,14,2,0,0.33229024475756075,0.553449135636285,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,42,1,12:58,1978,1978,Matt Haarms missed Layup.,16,14,2,12,0.33295960018852927,0.5537493691968808,4,4,-6,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,43,1,12:56,1976,1976,Tanner Borchardt Defensive Rebound.,16,14,2,2,0.333071764643077,0.5537995975404946,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,44,1,12:46,1966,1966,Glynn Watson Jr. missed Three Point Jumper.,16,14,2,10,0.3336351858825474,0.5540515670313713,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,45,1,12:43,1963,1963,Matt Haarms Defensive Rebound.,16,14,2,3,0.33380505797283694,0.5541274301505975,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,46,1,12:22,1942,1942,Matt Haarms made Layup. Assisted by Nojel Eastern.,16,16,0,21,0.2879914280210904,0.5,4,4,-6,NA,NA,Purdue,made,Matt Haarms,Nojel Eastern,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,47,1,11:59,1919,1919,Isaiah Roby made Three Point Jumper. Assisted by Thomas Allen.,19,16,3,23,0.361541294714844,0.5824607430877299,4,4,-6,NA,NA,Nebraska,made,Isaiah Roby,Thomas Allen,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,48,1,11:35,1895,1895,Ryan Cline missed Three Point Jumper.,19,16,3,24,0.3632949841910084,0.5833721795621359,4,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,49,1,11:33,1893,1893,Purdue Offensive Rebound.,19,16,3,2,0.36344221275309896,0.5834480717837793,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,50,1,11:33,1893,1893,Official TV Timeout,19,16,3,0,0.36344221275309896,0.5834480717837793,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,51,1,11:25,1885,1885,Sasha Stefanovic missed Three Point Jumper.,19,16,3,8,0.3640328577337191,0.5837516499530961,4,4,-6,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,52,1,11:22,1882,1882,Grady Eifert Offensive Rebound.,19,16,3,3,0.3642550725800719,0.5838655118014419,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,53,1,11:20,1880,1880,Ryan Cline made Three Point Jumper. Assisted by Grady Eifert.,19,19,0,2,0.2900220264548898,0.5,4,4,-6,NA,NA,Purdue,made,Ryan Cline,Grady Eifert,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,54,1,10:56,1856,1856,James Palmer Jr. missed Three Point Jumper.,19,19,0,24,0.29084296648969493,0.5,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,55,1,10:53,1853,1853,Nojel Eastern Defensive Rebound.,19,19,0,3,0.2909468715102869,0.5,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,56,1,10:39,1839,1839,Amir Harris Turnover.,19,21,-2,14,0.24625388816938845,0.4426855992857409,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,57,1,10:39,1839,1839,Nojel Eastern Steal.,19,21,-2,0,0.24625388816938845,0.4426855992857409,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,58,1,10:39,1839,1839,Nebraska  Timeout,19,21,-2,0,0.24625388816938845,0.4426855992857409,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,59,1,10:39,1839,1839,Nojel Eastern made Layup.,19,23,-4,0,0.2060400838935368,0.38685785938456985,3,4,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,60,1,10:39,1839,1839,Foul on Amir Harris.,19,23,-4,0,0.2060400838935368,0.38685785938456985,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,61,1,10:39,1839,1839,Nojel Eastern made Free Throw.,19,24,-5,0,0.18784148309461235,0.3599285407976441,3,4,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,62,1,10:11,1811,1811,Glynn Watson Jr. made Layup.,21,24,-3,28,0.2255771691123835,0.4134203298928002,3,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,63,1,9:58,1798,1798,Ryan Cline Turnover.,21,24,-3,13,0.22560954229113728,0.4129157620872268,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,64,1,9:37,1777,1777,Glynn Watson Jr. made Jumper.,23,24,-1,21,0.26971207077783704,0.47042455682899553,3,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,65,1,9:24,1764,1764,Trevion Williams missed Layup.,23,24,-1,13,0.270028666661553,0.4702480113212606,3,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,66,1,9:24,1764,1764,Brady Heiman Block.,23,24,-1,0,0.270028666661553,0.4702480113212606,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,67,1,9:24,1764,1764,Brady Heiman Defensive Rebound.,23,24,-1,0,0.270028666661553,0.4702480113212606,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,68,1,9:08,1748,1748,Glynn Watson Jr. missed Jumper.,23,24,-1,16,0.27042135777086057,0.4700283324209723,3,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,69,1,9:08,1748,1748,Grady Eifert Defensive Rebound.,23,24,-1,0,0.27042135777086057,0.4700283324209723,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,70,1,8:53,1733,1733,Grady Eifert missed Three Point Jumper.,23,24,-1,15,0.2707920626660224,0.46981972186740945,3,4,-6,NA,NA,Purdue,missed,Grady Eifert,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,71,1,8:53,1733,1733,Tanner Borchardt Defensive Rebound.,23,24,-1,0,0.2707920626660224,0.46981972186740945,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,72,1,8:51,1731,1731,Foul on Trevion Williams.,23,24,-1,2,0.27084165032484003,0.4697916980247994,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,73,1,8:25,1705,1705,Nana Akenten missed Three Point Jumper.,23,24,-1,26,0.27148897774119374,0.46942250660377033,3,4,-6,NA,NA,Nebraska,missed,Nana Akenten,NA,TRUE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,74,1,8:22,1702,1702,Isaiah Roby Offensive Rebound.,23,24,-1,3,0.2715639261969586,0.46937928941262314,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,75,1,8:17,1697,1697,Isaiah Roby made Jumper.,25,24,1,5,0.32295668311649384,0.5306930410155717,3,4,-6,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,76,1,7:48,1668,1668,Nojel Eastern Turnover.,25,24,1,29,0.32451506482888826,0.5311111654714938,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,77,1,7:48,1668,1668,Isaiah Roby Steal.,25,24,1,0,0.32451506482888826,0.5311111654714938,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,78,1,7:45,1665,1665,Nana Akenten made Layup.,27,24,3,3,0.3815908980294263,0.5925042401476481,3,4,-6,NA,NA,Nebraska,made,Nana Akenten,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,79,1,7:43,1663,1663,Foul on Carsen Edwards.,27,24,3,2,0.3817619143640922,0.5925861749141021,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,80,1,7:43,1663,1663,Official TV Timeout,27,24,3,0,0.3817619143640922,0.5925861749141021,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,81,1,7:43,1663,1663,Nana Akenten missed Free Throw.,27,24,3,0,0.3817619143640922,0.5925861749141021,3,4,-6,NA,NA,Nebraska,missed,Nana Akenten,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,82,1,7:40,1660,1660,Aaron Wheeler Defensive Rebound.,27,24,3,3,0.3820186141679348,0.5927087106592942,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,83,1,7:22,1642,1642,Nojel Eastern made Jumper.,27,26,1,18,0.3259470275710571,0.5314739472430909,3,4,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,84,1,7:06,1626,1626,Isaiah Roby missed Layup.,27,26,1,16,0.3268438754116433,0.5316932853593659,3,4,-6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,85,1,7:05,1625,1625,Purdue Defensive Rebound.,27,26,1,1,0.32690031028745986,0.5317069284897503,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,86,1,6:48,1608,1608,Ryan Cline missed Jumper.,27,26,1,17,0.327866380077659,0.531938158902778,3,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,87,1,6:46,1606,1606,Isaiah Roby Defensive Rebound.,27,26,1,2,0.3279808500630101,0.5319653099882755,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,88,1,6:26,1586,1586,Isaiah Roby missed Layup.,27,26,1,20,0.3291346561656926,0.5322369983066569,3,4,-6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,89,1,6:26,1586,1586,Matt Haarms Block.,27,26,1,0,0.3291346561656926,0.5322369983066569,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,90,1,6:22,1582,1582,Matt Haarms Defensive Rebound.,27,26,1,4,0.32936735640291687,0.5322914888937231,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,91,1,6:12,1572,1572,Foul on Brady Heiman.,27,26,1,10,0.32995184325614957,0.5324281561398976,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,92,1,6:05,1565,1565,Foul on Isaiah Roby.,27,26,1,7,0.33036326166259145,0.5325243121837794,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,93,1,6:05,1565,1565,Matt Haarms made Free Throw.,27,27,0,0,0.30220415986163673,0.5,3,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,94,1,6:05,1565,1565,Matt Haarms made Free Throw.,27,28,-1,0,0.2754579204390245,0.46747568781622056,3,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,95,1,5:43,1543,1543,James Palmer Jr. missed Three Point Jumper.,27,28,-1,22,0.276143775483768,0.4671697235858243,3,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,96,1,5:41,1541,1541,Aaron Wheeler Defensive Rebound.,27,28,-1,2,0.27620626627688827,0.46714155776491484,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,97,1,5:32,1532,1532,Aaron Wheeler missed Three Point Jumper.,27,28,-1,9,0.276487463531958,0.46701393848940426,3,4,-6,NA,NA,Purdue,missed,Aaron Wheeler,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,98,1,5:29,1529,1529,Eric Hunter Jr. Offensive Rebound.,27,28,-1,3,0.2765811453219565,0.46697105820697427,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,99,1,5:25,1525,1525,Carsen Edwards missed Jumper.,27,28,-1,4,0.27670597359992416,0.4669135991668731,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,100,1,5:25,1525,1525,Amir Harris Block.,27,28,-1,0,0.27670597359992416,0.4669135991668731,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,101,1,5:21,1521,1521,Isaiah Roby Defensive Rebound.,27,28,-1,4,0.27683067699128894,0.4668557979464423,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,102,1,5:18,1518,1518,Isaiah Roby missed Layup.,27,28,-1,3,0.27692410118203503,0.4668122119177271,3,4,-6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,103,1,5:16,1516,1516,Ryan Cline Defensive Rebound.,27,28,-1,2,0.2769863264167353,0.4667830384933974,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,104,1,5:11,1511,1511,Aaron Wheeler made Layup. Assisted by Ryan Cline.,27,30,-3,5,0.22698726110113723,0.4012941560836844,3,4,-6,NA,NA,Purdue,made,Aaron Wheeler,Ryan Cline,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,105,1,4:46,1486,1486,Thomas Allen missed Layup.,27,30,-3,25,0.22712912637205696,0.400203049757647,3,4,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,106,1,4:46,1486,1486,Tanner Borchardt Offensive Rebound.,27,30,-3,0,0.22712912637205696,0.400203049757647,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,107,1,4:46,1486,1486,Foul on Eric Hunter Jr..,27,30,-3,0,0.22712912637205696,0.400203049757647,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,108,1,4:46,1486,1486,Tanner Borchardt made Free Throw.,28,30,-2,0,0.25167096115025644,0.43296942998064725,3,4,-6,NA,NA,Nebraska,made,Tanner Borchardt,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,109,1,4:46,1486,1486,Tanner Borchardt made Free Throw.,29,30,-1,0,0.2779110561125985,0.46633275895106224,3,4,-6,NA,NA,Nebraska,made,Tanner Borchardt,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,110,1,4:30,1470,1470,Aaron Wheeler made Three Point Jumper. Assisted by Ryan Cline.,29,33,-4,16,0.20422549697672962,0.3673657801939673,3,4,-6,NA,NA,Purdue,made,Aaron Wheeler,Ryan Cline,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,111,1,4:01,1441,1441,Glynn Watson Jr. Turnover.,29,33,-4,29,0.20398118380746005,0.36558512362562545,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,112,1,4:01,1441,1441,Eric Hunter Jr. Steal.,29,33,-4,0,0.20398118380746005,0.36558512362562545,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,113,1,3:55,1435,1435,Ryan Cline missed Three Point Jumper.,29,33,-4,6,0.20393388623279582,0.3652195198827522,3,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,114,1,3:53,1433,1433,Tanner Borchardt Defensive Rebound.,29,33,-4,2,0.20391905451063866,0.3650986572067591,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,115,1,3:48,1428,1428,Thomas Allen made Layup.,31,33,-2,5,0.25258064281805787,0.43111622490188006,3,4,-6,NA,NA,Nebraska,made,Thomas Allen,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,116,1,3:44,1424,1424,Official TV Timeout,31,33,-2,4,0.25264713732941335,0.43099021759921446,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,117,1,3:24,1404,1404,Evan Boudreaux missed Jumper.,31,33,-2,20,0.2529963736811901,0.4303716241730649,3,4,-6,NA,NA,Purdue,missed,Evan Boudreaux,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,118,1,3:22,1402,1402,Glynn Watson Jr. Defensive Rebound.,31,33,-2,2,0.2530326514121645,0.43031062939964254,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,119,1,3:22,1402,1402,Foul on Evan Boudreaux.,31,33,-2,0,0.2530326514121645,0.43031062939964254,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,120,1,2:52,1372,1372,Nebraska  Turnover.,31,33,-2,30,0.25359837575695804,0.42940653331902806,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,121,1,2:35,1355,1355,Carsen Edwards Turnover.,31,33,-2,17,0.2539306133384799,0.4288969258468162,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,122,1,2:18,1338,1338,Thomas Allen missed Jumper.,31,33,-2,17,0.25426533101407695,0.42838333907945,3,4,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,123,1,2:16,1336,1336,Thomas Allen Offensive Rebound.,31,33,-2,2,0.254304651655035,0.42832243599308933,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,124,1,2:15,1335,1335,James Palmer Jr. made Three Point Jumper. Assisted by Thomas Allen.,34,33,1,1,0.3446939537782841,0.5360403154048287,3,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,Thomas Allen,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,125,1,1:45,1305,1305,Evan Boudreaux made Jumper. Assisted by Ryan Cline.,34,35,-1,30,0.2836751861470619,0.4634849281442495,3,4,-6,NA,NA,Purdue,made,Evan Boudreaux,Ryan Cline,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,126,1,1:16,1276,1276,Tanner Borchardt missed Layup.,34,35,-1,29,0.28463629066180945,0.4629990645299091,3,4,-6,NA,NA,Nebraska,missed,Tanner Borchardt,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,127,1,1:14,1274,1274,Evan Boudreaux Defensive Rebound.,34,35,-1,2,0.2847016913931283,0.46296427269109286,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,128,1,1:02,1262,1262,Carsen Edwards missed Three Point Jumper.,34,35,-1,12,0.2850909243169454,0.4627514542172851,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,129,1,0:58,1258,1258,James Palmer Jr. Defensive Rebound.,34,35,-1,4,0.285219335588068,0.46267887145318215,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,130,1,0:53,1253,1253,Foul on Ryan Cline.,34,35,-1,5,0.28537880981516595,0.4625869106622496,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,131,1,0:53,1253,1253,James Palmer Jr. made Free Throw.,35,35,0,0,0.3169113542071751,0.5,3,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,132,1,0:53,1253,1253,James Palmer Jr. made Free Throw.,36,35,1,0,0.35022053912205325,0.5374130893377504,3,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,133,1,0:41,1241,1241,Carsen Edwards missed Jumper.,36,35,1,12,0.3510570776146016,0.5376397303973253,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,134,1,0:38,1238,1238,Nana Akenten Defensive Rebound.,36,35,1,3,0.3512674574435443,0.5376977731048964,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,135,1,0:26,1226,1226,Foul on James Palmer Jr..,36,35,1,12,0.35211411192446807,0.5379358689688774,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,136,1,0:26,1226,1226,James Palmer Jr. Turnover.,36,35,1,0,0.35211411192446807,0.5379358689688774,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,137,1,0:02,1202,1202,Ryan Cline made Three Point Jumper. Assisted by Carsen Edwards.,36,38,-2,24,0.2564632668904428,0.4235732994515121,3,4,-6,NA,NA,Purdue,made,Ryan Cline,Carsen Edwards,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,138,1,0:00,1200,1200,James Palmer Jr. missed Three Point Jumper.,36,38,-2,2,0.2564853665469761,0.4234906714856242,3,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,139,1,0:00,1200,1200,Purdue Defensive Rebound.,36,38,-2,0,0.2564853665469761,0.4234906714856242,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,140,1,0:00,1200,1200,End of 1st half,36,38,-2,0,0.2564853665469761,0.4234906714856242,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA
+401082529,2019-02-23,Nebraska,Purdue,141,2,20:00,1200,1200,PLAY,36,38,-2,0,0.2564853665469761,0.4234906714856242,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,142,2,19:49,1189,1189,Isaiah Roby Turnover.,36,38,-2,11,0.2566097319055371,0.42304187009185584,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,143,2,19:38,1178,1178,Foul on Thomas Allen.,36,38,-2,11,0.25673815507265557,0.4226013386207457,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,144,2,19:29,1169,1169,Grady Eifert missed Three Point Jumper.,36,38,-2,9,0.25684556419734106,0.4222458111841209,4,4,-6,NA,NA,Purdue,missed,Grady Eifert,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,145,2,19:27,1167,1167,Thomas Allen Defensive Rebound.,36,38,-2,2,0.25686965909597376,0.4221672970884116,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,146,2,19:11,1151,1151,Foul on Grady Eifert.,36,38,-2,16,0.25706442634058185,0.42154389491380484,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,147,2,19:11,1151,1151,Tanner Borchardt missed Free Throw.,36,38,-2,0,0.25706442634058185,0.42154389491380484,4,4,-6,NA,NA,Nebraska,missed,Tanner Borchardt,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,148,2,19:11,1151,1151,Nebraska Deadball Team Rebound.,36,38,-2,0,0.25706442634058185,0.42154389491380484,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,149,2,19:11,1151,1151,Tanner Borchardt made Free Throw.,37,38,-1,0,0.28842141319528525,0.4605274655270612,4,4,-6,NA,NA,Nebraska,made,Tanner Borchardt,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,150,2,18:56,1136,1136,Carsen Edwards missed Three Point Jumper.,37,38,-1,15,0.28886347919623323,0.4602318320570893,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,151,2,18:54,1134,1134,Grady Eifert Offensive Rebound.,37,38,-1,2,0.2889223860086063,0.4601924373168723,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,152,2,18:38,1118,1118,Matt Haarms made Layup.,37,40,-3,16,0.22793389309156453,0.3816570676202662,4,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,153,2,18:13,1093,1093,Isaiah Roby missed Layup.,37,40,-3,25,0.22784789415376655,0.380227361074514,4,4,-6,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,154,2,18:13,1093,1093,Matt Haarms Block.,37,40,-3,0,0.22784789415376655,0.380227361074514,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,155,2,18:09,1089,1089,Ryan Cline Defensive Rebound.,37,40,-3,4,0.22783133264370267,0.3799944867779903,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,156,2,18:09,1089,1089,Foul on Ryan Cline.,37,40,-3,0,0.22783133264370267,0.3799944867779903,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,157,2,18:09,1089,1089,Ryan Cline Turnover.,37,40,-3,0,0.22783133264370267,0.3799944867779903,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,158,2,17:51,1071,1071,James Palmer Jr. missed Layup.,37,40,-3,18,0.2277436505599791,0.37892654627212796,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,159,2,17:51,1071,1071,Matt Haarms Block.,37,40,-3,0,0.2277436505599791,0.37892654627212796,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,160,2,17:45,1065,1065,Nojel Eastern Defensive Rebound.,37,40,-3,6,0.22770886243740293,0.3785620094726315,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,161,2,17:45,1065,1065,Carsen Edwards missed Layup.,37,40,-3,0,0.22770886243740293,0.3785620094726315,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,162,2,17:45,1065,1065,Isaiah Roby Block.,37,40,-3,0,0.22770886243740293,0.3785620094726315,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,163,2,17:45,1065,1065,Purdue Offensive Rebound.,37,40,-3,0,0.22770886243740293,0.3785620094726315,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,164,2,17:38,1058,1058,Carsen Edwards Turnover.,37,40,-3,7,0.2276642190955093,0.37813041472870274,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,165,2,17:38,1058,1058,Tanner Borchardt Steal.,37,40,-3,0,0.2276642190955093,0.37813041472870274,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,166,2,17:20,1040,1040,Glynn Watson Jr. missed Jumper.,37,40,-3,18,0.22752667779844074,0.3769850299066314,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,167,2,17:17,1037,1037,Carsen Edwards Defensive Rebound.,37,40,-3,3,0.2275002315407576,0.37678859693404093,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,168,2,17:12,1032,1032,Carsen Edwards missed Three Point Jumper.,37,40,-3,5,0.22745371854336555,0.3764573673210853,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,169,2,17:09,1029,1029,Matt Haarms Offensive Rebound.,37,40,-3,3,0.22742429870451186,0.37625624203768543,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,170,2,17:05,1025,1025,Carsen Edwards missed Three Point Jumper.,37,40,-3,4,0.22738324399329235,0.37598518442681217,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,171,2,17:03,1023,1023,Nojel Eastern Offensive Rebound.,37,40,-3,2,0.22736191247727958,0.37584838306081464,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,172,2,17:02,1022,1022,Nojel Eastern made Layup.,37,42,-5,1,0.17340811859770094,0.3003074782704666,4,4,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,173,2,16:46,1006,1006,James Palmer Jr. missed Three Point Jumper.,37,42,-5,16,0.1727901627360453,0.29862114691644037,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,174,2,16:42,1002,1002,Carsen Edwards Defensive Rebound.,37,42,-5,4,0.17262697531064625,0.2981857210677512,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,175,2,16:21,981,981,Carsen Edwards Turnover.,37,42,-5,21,0.17170745911719756,0.2957995444399577,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,176,2,16:21,981,981,Isaiah Roby Steal.,37,42,-5,0,0.17170745911719756,0.2957995444399577,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,177,2,16:15,975,975,Isaiah Roby made Dunk. Assisted by James Palmer Jr..,39,42,-3,6,0.22666449140022416,0.3722703881371238,4,4,-6,NA,NA,Nebraska,made,Isaiah Roby,James Palmer Jr,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,178,2,15:55,955,955,Matt Haarms made Layup. Assisted by Ryan Cline.,39,44,-5,20,0.1704801888805902,0.2927181942444353,4,4,-6,NA,NA,Purdue,made,Matt Haarms,Ryan Cline,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,179,2,15:55,955,955,Foul on Isaiah Roby.,39,44,-5,0,0.1704801888805902,0.2927181942444353,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,180,2,15:55,955,955,Official TV Timeout,39,44,-5,0,0.1704801888805902,0.2927181942444353,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,181,2,15:55,955,955,Matt Haarms made Free Throw.,39,45,-6,0,0.14695678275675025,0.2575651176536836,4,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,182,2,15:37,937,937,Glynn Watson Jr. made Layup.,41,45,-4,18,0.1963583817539277,0.32888511604566173,4,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,183,2,15:19,919,919,Ryan Cline missed Three Point Jumper.,41,45,-4,18,0.19587815968820185,0.3273668407819117,4,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,184,2,15:17,917,917,Glynn Watson Jr. Defensive Rebound.,41,45,-4,2,0.1958276277436263,0.3272043176478438,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,185,2,15:11,911,911,Glynn Watson Jr. missed Three Point Jumper.,41,45,-4,6,0.19567864299236212,0.3267226635966273,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,186,2,15:11,911,911,Nojel Eastern Block.,41,45,-4,0,0.19567864299236212,0.3267226635966273,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,187,2,15:06,906,906,Glynn Watson Jr. Offensive Rebound.,41,45,-4,5,0.19555703539810854,0.32632721107743606,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,188,2,14:53,893,893,Amir Harris made Layup.,43,45,-2,13,0.25892906147069317,0.4098174403787906,4,4,-6,NA,NA,Nebraska,made,Amir Harris,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,189,2,14:53,893,893,Foul on Matt Haarms.,43,45,-2,0,0.25892906147069317,0.4098174403787906,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,190,2,14:53,893,893,Amir Harris missed Free Throw.,43,45,-2,0,0.25892906147069317,0.4098174403787906,4,4,-6,NA,NA,Nebraska,missed,Amir Harris,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,191,2,14:52,892,892,Trevion Williams Defensive Rebound.,43,45,-2,1,0.2589339871050585,0.40977508423787035,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,192,2,14:39,879,879,Carsen Edwards missed Jumper.,43,45,-2,13,0.2589968276626382,0.40922660256344434,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,193,2,14:37,877,877,Carsen Edwards Offensive Rebound.,43,45,-2,2,0.25900618363230987,0.40914226397449643,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,194,2,14:37,877,877,Foul on Isaiah Roby.,43,45,-2,0,0.25900618363230987,0.40914226397449643,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,195,2,14:37,877,877,Carsen Edwards made Free Throw.,43,46,-3,0,0.22532557033381476,0.36557015445391927,4,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,196,2,14:37,877,877,Carsen Edwards made Free Throw.,43,47,-4,0,0.1948728868730827,0.32409306514010316,4,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,197,2,14:13,853,853,Glynn Watson Jr. missed Layup.,43,47,-4,24,0.19428850392047115,0.32223407538009,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,198,2,14:11,851,851,Ryan Cline Defensive Rebound.,43,47,-4,2,0.19423730741749945,0.3220754102599608,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,199,2,14:05,845,845,Ryan Cline missed Three Point Jumper.,43,47,-4,6,0.194080475762919,0.32159417499835047,4,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,200,2,14:03,843,843,Nana Akenten Defensive Rebound.,43,47,-4,2,0.19402702066356603,0.32143183217293053,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,201,2,13:36,816,816,James Palmer Jr. made Layup.,45,47,-2,27,0.25918144735018633,0.40638678542307666,4,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,202,2,13:16,796,796,Trevion Williams missed Jumper.,45,47,-2,20,0.2591601995945813,0.4053195867325333,4,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,203,2,13:13,793,793,Ryan Cline Offensive Rebound.,45,47,-2,3,0.25915226844380096,0.40514881493775334,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,204,2,13:11,791,791,Trevion Williams missed Jumper.,45,47,-2,2,0.2591462335558764,0.4050332579209038,4,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,205,2,13:09,789,789,Grady Eifert Offensive Rebound.,45,47,-2,2,0.2591395872946571,0.40491629789527406,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,206,2,13:07,787,787,Carsen Edwards missed Three Point Jumper.,45,47,-2,2,0.2591323181697969,0.4047979042920238,4,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,207,2,13:05,785,785,Trevion Williams Offensive Rebound.,45,47,-2,2,0.259124414694677,0.4046780465596772,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,208,2,13:03,783,783,Ryan Cline made Three Point Jumper. Assisted by Trevion Williams.,45,50,-5,2,0.16378373885173786,0.275621452381394,4,4,-6,NA,NA,Purdue,made,Ryan Cline,Trevion Williams,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,209,2,12:39,759,759,Nana Akenten missed Three Point Jumper.,45,50,-5,24,0.16232521885214699,0.27234961850839934,4,4,-6,NA,NA,Nebraska,missed,Nana Akenten,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,210,2,12:36,756,756,Ryan Cline Defensive Rebound.,45,50,-5,3,0.16212281127046688,0.27190490133274003,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,211,2,12:27,747,747,Foul on Amir Harris.,45,50,-5,9,0.16148634948170235,0.27051857020263986,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,212,2,12:08,728,728,Aaron Wheeler missed Three Point Jumper.,45,50,-5,19,0.15999172081238794,0.26732153893838206,4,4,-6,NA,NA,Purdue,missed,Aaron Wheeler,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,213,2,12:05,725,725,Amir Harris Defensive Rebound.,45,50,-5,3,0.15975072934549145,0.2668065871411422,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,214,2,12:00,720,720,Amir Harris made Layup. Assisted by James Palmer Jr..,47,50,-3,5,0.22150770555068944,0.35226836234278713,4,4,-6,NA,NA,Nebraska,made,Amir Harris,James Palmer Jr,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,215,2,11:35,695,695,Trevion Williams missed Jumper.,47,50,-3,25,0.22066996416823262,0.3496368705556126,4,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,216,2,11:30,690,690,Trevion Williams Offensive Rebound.,47,50,-3,5,0.22052903358319612,0.34915336416505893,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,217,2,11:30,690,690,Trevion Williams missed Layup.,47,50,-3,0,0.22052903358319612,0.34915336416505893,4,4,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,218,2,11:30,690,690,Amir Harris Defensive Rebound.,47,50,-3,0,0.22052903358319612,0.34915336416505893,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,219,2,11:30,690,690,Foul on Aaron Wheeler.,47,50,-3,0,0.22052903358319612,0.34915336416505893,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,220,2,11:30,690,690,Official TV Timeout,47,50,-3,0,0.22052903358319612,0.34915336416505893,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,221,2,11:19,679,679,James Palmer Jr. missed Layup.,47,50,-3,11,0.22023928983517313,0.3481215611979649,4,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,222,2,11:15,675,675,Nana Akenten Offensive Rebound.,47,50,-3,4,0.22013904185611047,0.3477542145016529,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,223,2,11:15,675,675,Foul on Eric Hunter Jr..,47,50,-3,0,0.22013904185611047,0.3477542145016529,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,224,2,11:05,665,665,Thomas Allen missed Three Point Jumper.,47,50,-3,10,0.21989509336822988,0.34684538677856,4,4,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,225,2,11:03,663,663,Aaron Wheeler Defensive Rebound.,47,50,-3,2,0.2198468715863098,0.3466642955419774,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,226,2,11:03,663,663,Foul on Tanner Borchardt.,47,50,-3,0,0.2198468715863098,0.3466642955419774,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,227,2,10:52,652,652,Foul on Nana Akenten.,47,50,-3,11,0.2195801147594672,0.345664108013223,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,228,2,10:33,633,633,Aaron Wheeler made Layup.,47,52,-5,19,0.15424112530160164,0.25411364568990996,4,4,-6,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,229,2,10:01,601,601,Amir Harris made Layup. Assisted by James Palmer Jr..,49,52,-3,32,0.2180085365058134,0.34043450560078165,4,4,-6,NA,NA,Nebraska,made,Amir Harris,James Palmer Jr,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,230,2,9:52,592,592,Foul on James Palmer Jr..,49,52,-3,9,0.2176175083542976,0.33931685999976763,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,231,2,9:52,592,592,Matt Haarms made Free Throw.,49,53,-4,0,0.18216941496112005,0.29142910844300585,4,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,232,2,9:52,592,592,Matt Haarms made Free Throw.,49,54,-5,0,0.1513783087655582,0.2477652597120367,4,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,233,2,9:31,571,571,Nana Akenten made Layup.,51,54,-3,21,0.21649842137614242,0.33635952485223475,4,4,-6,NA,NA,Nebraska,made,Nana Akenten,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,234,2,9:14,554,554,Sasha Stefanovic missed Three Point Jumper.,51,54,-3,17,0.21533764846281742,0.3335364247961561,4,4,-6,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,235,2,9:11,551,551,Matt Haarms Offensive Rebound.,51,54,-3,3,0.21510572801725603,0.332992765262184,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,236,2,9:11,551,551,Matt Haarms Turnover.,51,54,-3,0,0.21510572801725603,0.332992765262184,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,237,2,8:58,538,538,Foul on Aaron Wheeler.,51,54,-3,13,0.21417205920409715,0.3307423547554475,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,238,2,8:40,520,520,Glynn Watson Jr. missed Layup.,51,54,-3,18,0.21318116676427745,0.32808834981172913,4,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,239,2,8:37,517,517,Glynn Watson Jr. Offensive Rebound.,51,54,-3,3,0.21303823569922803,0.3276796165110206,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,240,2,8:19,499,499,Isaiah Roby missed Three Point Jumper.,51,54,-3,18,0.2122318639813261,0.3253005727058804,4,4,-6,NA,NA,Nebraska,missed,Isaiah Roby,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,241,2,8:16,496,496,Sasha Stefanovic Defensive Rebound.,51,54,-3,3,0.21209764476857923,0.324903256126203,4,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,242,2,8:01,481,481,Matt Haarms made Dunk. Assisted by Nojel Eastern.,51,56,-5,15,0.14057434926416412,0.22536684981919997,4,4,-6,NA,NA,Purdue,made,Matt Haarms,Nojel Eastern,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,243,2,7:59,479,479,Nebraska  Timeout,51,56,-5,2,0.14038899437342484,0.22497691155242316,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,244,2,7:59,479,479,Official TV Timeout,51,56,-5,0,0.14038899437342484,0.22497691155242316,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,245,2,7:30,450,450,Brady Heiman missed Layup.,51,56,-5,29,0.13707335470502366,0.21832280539117613,3,4,-6,NA,NA,Nebraska,missed,Brady Heiman,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,246,2,7:28,448,448,Grady Eifert Defensive Rebound.,51,56,-5,2,0.1367881336469304,0.2177739930360457,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,247,2,7:11,431,431,Carsen Edwards missed Three Point Jumper.,51,56,-5,17,0.13397512488487376,0.21249230492568966,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,248,2,7:08,428,428,Grady Eifert Offensive Rebound.,51,56,-5,3,0.13340957666265282,0.2114495378842648,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,249,2,6:53,413,413,Foul on Carsen Edwards.,51,56,-5,15,0.13083612640273926,0.2065780767609196,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,250,2,6:53,413,413,Carsen Edwards Turnover.,51,56,-5,0,0.13083612640273926,0.2065780767609196,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,251,2,6:53,413,413,Official TV Timeout,51,56,-5,0,0.13083612640273926,0.2065780767609196,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,252,2,6:26,386,386,Glynn Watson Jr. made Three Point Jumper. Assisted by Isaiah Roby.,54,56,-2,27,0.2511624336212963,0.363993498061385,3,4,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,Isaiah Roby,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,253,2,5:59,359,359,Ryan Cline missed Three Point Jumper.,54,56,-2,27,0.2499137712024693,0.3590621270299792,3,4,-6,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,254,2,5:56,356,356,James Palmer Jr. Defensive Rebound.,54,56,-2,3,0.24973802077183926,0.35845419316479665,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,255,2,5:47,347,347,Glynn Watson Jr. missed Three Point Jumper.,54,56,-2,9,0.2491399322496699,0.35652665343097123,3,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,256,2,5:45,345,345,Grady Eifert Defensive Rebound.,54,56,-2,2,0.24899067978931005,0.35607489085239336,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,257,2,5:27,327,327,Carsen Edwards missed Three Point Jumper.,54,56,-2,18,0.24731579101414886,0.3515492833386103,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,258,2,5:24,324,324,Purdue Offensive Rebound.,54,56,-2,3,0.24696982619322644,0.35070411507978716,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,259,2,5:22,322,322,Foul on Glynn Watson Jr..,54,56,-2,2,0.2467272014478962,0.3501246076998046,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,260,2,5:22,322,322,Carsen Edwards made Free Throw.,54,57,-3,0,0.19381800307515615,0.28338399453044827,3,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,261,2,5:22,322,322,Carsen Edwards made Free Throw.,54,58,-4,0,0.14999558375742014,0.22496156531535624,3,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,262,2,5:14,314,314,Foul on Matt Haarms.,54,58,-4,8,0.1478938813779469,0.22121738814461342,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,263,2,5:14,314,314,James Palmer Jr. made Free Throw.,55,58,-3,0,0.1920771348501213,0.2801052584032632,3,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,264,2,5:14,314,314,James Palmer Jr. made Free Throw.,56,58,-2,0,0.2456547542237082,0.3476708570697607,3,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,265,2,4:43,283,283,Matt Haarms missed Jumper.,56,58,-2,31,0.2456013467856395,0.34318325306169456,3,4,-6,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,266,2,4:39,279,279,Nojel Eastern Offensive Rebound.,56,58,-2,4,0.2462818086335223,0.3434451280283235,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,267,2,4:39,279,279,Nojel Eastern missed Layup.,56,58,-2,0,0.2462818086335223,0.3434451280283235,3,4,-6,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,268,2,4:34,274,274,Matt Haarms Offensive Rebound.,56,58,-2,5,0.2472625094653479,0.34392631833108445,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,269,2,4:34,274,274,Matt Haarms made Layup.,56,60,-4,0,0.14690163503336895,0.21556667537839755,3,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,270,2,4:13,253,253,Thomas Allen made Jumper. Assisted by Tanner Borchardt.,58,60,-2,21,0.2520667258498381,0.3466873182102959,3,4,-6,NA,NA,Nebraska,made,Thomas Allen,Tanner Borchardt,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,271,2,3:44,224,224,Matt Haarms missed Jumper.,58,60,-2,29,0.2560288099517176,0.34693615400151545,3,4,-6,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,272,2,3:40,220,220,Purdue Offensive Rebound.,58,60,-2,4,0.25592192110415807,0.346151421941877,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,273,2,3:40,220,220,Official TV Timeout,58,60,-2,0,0.25592192110415807,0.346151421941877,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,274,2,3:39,219,219,Grady Eifert made Layup. Assisted by Ryan Cline.,58,62,-4,1,0.15385893885021384,0.21855455271315238,3,4,-6,NA,NA,Purdue,made,Grady Eifert,Ryan Cline,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,275,2,3:04,184,184,Glynn Watson Jr. missed Three Point Jumper.,58,62,-4,35,0.1333272566560346,0.18704443190730202,3,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,276,2,2:59,179,179,James Palmer Jr. Offensive Rebound.,58,62,-4,5,0.12901377649178017,0.18071732247073352,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,277,2,2:53,173,173,Tanner Borchardt made Layup. Assisted by James Palmer Jr..,60,62,-2,6,0.2360505804211937,0.3140026806316251,3,4,-6,NA,NA,Nebraska,made,Tanner Borchardt,James Palmer Jr,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,278,2,2:53,173,173,Foul on Matt Haarms.,60,62,-2,0,0.2360505804211937,0.3140026806316251,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,279,2,2:53,173,173,Tanner Borchardt made Free Throw.,61,62,-1,0,0.3135188291418108,0.4035401125196468,3,4,-6,NA,NA,Nebraska,made,Tanner Borchardt,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,280,2,2:45,165,165,Carsen Edwards Turnover.,61,62,-1,8,0.31123767837585453,0.39928989414671123,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,281,2,2:32,152,152,James Palmer Jr. missed Jumper.,61,62,-1,13,0.3071949652113636,0.391955950859103,3,4,-6,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,282,2,2:28,148,148,Matt Haarms Defensive Rebound.,61,62,-1,4,0.30583966140613406,0.389560935156133,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,283,2,2:02,122,122,Carsen Edwards missed Three Point Jumper.,61,62,-1,26,0.29522970601086834,0.3718028303436294,3,4,-6,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,284,2,2:02,122,122,James Palmer Jr. Block.,61,62,-1,0,0.29522970601086834,0.3718028303436294,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,285,2,1:58,118,118,Grady Eifert Offensive Rebound.,61,62,-1,4,0.29326039743222254,0.36866461896302666,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,286,2,1:57,117,117,Grady Eifert made Jumper.,61,64,-3,1,0.122941249241584,0.16462413485469854,3,4,-6,NA,NA,Purdue,made,Grady Eifert,NA,FALSE,FALSE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,287,2,1:25,85,85,Thomas Allen missed Three Point Jumper.,61,64,-3,32,0.08909679969888333,0.11737025918258351,3,4,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,288,2,1:23,83,83,Nojel Eastern Defensive Rebound.,61,64,-3,2,0.08706001900658121,0.11454782547691686,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,289,2,1:08,68,68,Foul on James Palmer Jr..,61,64,-3,15,0.07223176866915404,0.09409727237702974,3,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,290,2,1:08,68,68,Grady Eifert made Free Throw.,61,65,-4,0,0.035305605377499265,0.04655397157762977,3,4,-6,NA,NA,Purdue,made,Grady Eifert,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,291,2,1:08,68,68,Grady Eifert made Free Throw.,61,66,-5,0,0.01691263123062038,0.022437290217383703,3,4,-6,NA,NA,Purdue,made,Grady Eifert,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,292,2,1:06,66,66,Nebraska  Timeout,61,66,-5,2,0.0161116240302407,0.021332897211881082,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,293,2,0:50,50,50,Glynn Watson Jr. missed Layup.,61,66,-5,16,0.010711991337407103,0.013951928778082122,2,4,-6,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,294,2,0:49,49,49,Matt Haarms Defensive Rebound.,61,66,-5,1,0.010428307990450983,0.013567839312555376,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,295,2,0:49,49,49,Foul on Glynn Watson Jr..,61,66,-5,0,0.010428307990450983,0.013567839312555376,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,296,2,0:49,49,49,Matt Haarms made Free Throw.,61,67,-6,0,0.004451615557714332,0.005802362913602761,2,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,297,2,0:49,49,49,Matt Haarms made Free Throw.,61,68,-7,0,0.0018937417416526655,0.0024702829345435154,2,4,-6,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,298,2,0:42,42,42,Foul on Grady Eifert.,61,68,-7,7,0.0014375551441371335,0.0018599405011669977,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,299,2,0:42,42,42,James Palmer Jr. made Free Throw.,62,68,-6,0,0.0035210603676496077,0.004552834273933327,2,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,300,2,0:42,42,42,James Palmer Jr. made Free Throw.,63,68,-5,0,0.008598270049091009,0.011101240761732311,2,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,301,2,0:40,40,40,Foul on Amir Harris.,63,68,-5,2,0.008123732465825265,0.0104650718902633,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,302,2,0:40,40,40,Carsen Edwards made Free Throw.,63,69,-6,0,0.0032864776367484455,0.0042396318142196585,2,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,303,2,0:40,40,40,Carsen Edwards made Free Throw.,63,70,-7,0,0.0013257035550603563,0.0017111644027851347,2,4,-6,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,304,2,0:31,31,31,Foul on Matt Haarms.,63,70,-7,9,9.1084403130396e-4,0.001163017203532151,2,4,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,305,2,0:31,31,31,James Palmer Jr. made Free Throw.,64,70,-6,0,0.0023874344945969783,0.003047164638682367,2,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,306,2,0:31,31,31,James Palmer Jr. made Free Throw.,65,70,-5,0,0.006242802891885706,0.007959403722891823,2,4,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,307,2,0:31,31,31,Purdue  Timeout,65,70,-5,0,0.006242802891885706,0.007959403722891823,2,3,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,308,2,0:30,30,30,Foul on Nana Akenten.,65,70,-5,1,0.0060584324906832535,0.007715303838717683,2,3,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,309,2,0:30,30,30,Nojel Eastern made Free Throw.,65,71,-6,0,0.002302193295989959,0.0029348346104883754,2,3,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,310,2,0:30,30,30,Nojel Eastern missed Free Throw.,65,71,-6,0,0.002302193295989959,0.0029348346104883754,2,3,-6,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,311,2,0:30,30,30,Isaiah Roby Defensive Rebound.,65,71,-6,0,0.002302193295989959,0.0029348346104883754,2,3,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,312,2,0:26,26,26,Foul on Trevion Williams.,65,71,-6,4,0.001987680362436259,0.002521644151339779,2,3,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,313,2,0:26,26,26,James Palmer Jr. made Free Throw.,66,71,-5,0,0.005367145786431843,0.006802769654506407,2,3,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,314,2,0:26,26,26,James Palmer Jr. made Free Throw.,67,71,-4,0,0.014409439036671775,0.018219424227875085,2,3,-6,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,315,2,0:22,22,22,Foul on James Palmer Jr..,67,71,-4,4,0.013082771743248317,0.01646700528889956,2,3,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,316,2,0:22,22,22,Ryan Cline made Free Throw.,67,72,-5,0,0.0047458004751734836,0.005986519317341805,2,3,-6,NA,NA,Purdue,made,Ryan Cline,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,317,2,0:22,22,22,Ryan Cline made Free Throw.,67,73,-6,0,0.0017123304763246277,0.00216171630890053,2,3,-6,NA,NA,Purdue,made,Ryan Cline,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,318,2,0:22,22,22,Purdue  Timeout,67,73,-6,0,0.0017123304763246277,0.00216171630890053,2,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,319,2,0:15,15,15,Thomas Allen missed Three Point Jumper.,67,73,-6,7,0.001305359368109693,0.0016336222293111286,2,2,-6,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,320,2,0:13,13,13,Trevion Williams Defensive Rebound.,67,73,-6,2,0.0012049586026837559,0.0015041631152611743,2,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,321,2,0:13,13,13,Foul on Tanner Borchardt.,67,73,-6,0,0.0012049586026837559,0.0015041631152611743,2,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,322,2,0:13,13,13,Trevion Williams made Free Throw.,67,74,-7,0,4.0829729649559344e-4,5.097829858425428e-4,2,2,-6,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,323,2,0:13,13,13,Trevion Williams missed Free Throw.,67,74,-7,0,4.0829729649559344e-4,5.097829858425428e-4,2,2,-6,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,324,2,0:13,13,13,Isaiah Roby Defensive Rebound.,67,74,-7,0,4.0829729649559344e-4,5.097829858425428e-4,2,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,325,2,0:09,9,9,Glynn Watson Jr. made Three Point Jumper. Assisted by Isaiah Roby.,70,74,-4,4,0.009367251443823593,0.011610250459567963,2,2,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,Isaiah Roby,TRUE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,326,2,0:09,9,9,Nebraska  Timeout,70,74,-4,0,0.009367251443823593,0.011610250459567963,1,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,327,2,0:04,4,4,Foul on Nana Akenten.,70,74,-4,5,0.00817915366625141,0.010075453092990712,1,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,328,2,0:04,4,4,Nojel Eastern missed Free Throw.,70,74,-4,0,0.00817915366625141,0.010075453092990712,1,2,-6,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,329,2,0:04,4,4,Purdue Deadball Team Rebound.,70,74,-4,0,0.00817915366625141,0.010075453092990712,1,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401082529,2019-02-23,Nebraska,Purdue,330,2,0:04,4,4,Nojel Eastern made Free Throw.,70,75,-5,0,0.0026124902823573192,0.0032223773381599174,1,2,-6,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,TRUE,Purdue,Nebraska
+401082529,2019-02-23,Nebraska,Purdue,331,2,0:01,1,1,Glynn Watson Jr. made Layup.,72,75,-3,3,0.023830509292626617,0.029136972928700006,1,2,-6,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Purdue
+401082529,2019-02-23,Nebraska,Purdue,332,2,0:00,0,0,End of 2nd half,72,72,0,1,7.122832171684485e-27,8.75651076269652e-27,1,2,-6,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA

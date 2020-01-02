@@ -1,0 +1,420 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401085764,2019-01-10,Quinnipiac,Monmouth,1,1,20:00,2400,3000,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,2,1,19:45,2385,2985,Abdulai Bundu Turnover.,0,0,0,15,0.6901778345493138,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,3,1,19:32,2372,2972,Foul on Cameron Young.,0,0,0,13,0.6899508510174001,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,4,1,19:30,2370,2970,Diago Quinn missed Free Throw.,0,0,0,2,0.6899156082674583,0.5,4,4,5,NA,NA,Monmouth,missed,Diago Quinn,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,5,1,19:30,2370,2970,Monmouth Deadball Team Rebound.,0,0,0,0,0.6899156082674583,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,6,1,19:30,2370,2970,Diago Quinn made Free Throw.,0,1,-1,0,0.6704375353763993,0.4776249128627064,4,4,5,NA,NA,Monmouth,made,Diago Quinn,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,7,1,19:13,2353,2953,Tyrese Williams made Three Point Jumper. Assisted by Rich Kelly.,3,1,2,17,0.7268901623693306,0.545025919036486,4,4,5,NA,NA,Quinnipiac,made,Tyrese Williams,Rich Kelly,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,8,1,18:45,2325,2925,Abdulai Bundu Defensive Rebound.,3,1,2,28,0.7269024139449579,0.5456354795997193,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,9,1,18:40,2320,2920,Jacob Rigoni made Three Point Jumper. Assisted by Tyrese Williams.,6,1,5,5,0.7780279785098729,0.6127142740146319,4,4,5,NA,NA,Quinnipiac,made,Jacob Rigoni,Tyrese Williams,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,10,1,18:24,2304,2904,Ray Salnave missed Three Point Jumper.,6,1,5,16,0.7783988439561692,0.6135595284659383,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,11,1,18:20,2300,2900,Cameron Young Defensive Rebound.,6,1,5,4,0.7784915066931245,0.6137717719912702,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,12,1,18:02,2282,2882,Cameron Young made Jumper.,8,1,7,18,0.809414634609491,0.6579430271585934,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,13,1,17:47,2267,2867,Diago Quinn missed Jumper.,8,1,7,15,0.8099338620373948,0.6590128099970922,4,4,5,NA,NA,Monmouth,missed,Diago Quinn,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,14,1,17:43,2263,2863,Tyrese Williams Defensive Rebound.,8,1,7,4,0.8100722179438111,0.6592988837879349,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,15,1,17:42,2262,2862,Tyrese Williams Turnover.,8,1,7,1,0.8101067977775059,0.6593704518124749,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,16,1,17:30,2250,2850,Foul on Mustapha Traore.,8,1,7,12,0.8105214110643852,0.6602307369513851,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,17,1,17:08,2228,2828,Tyrese Williams Turnover.,8,1,7,22,0.8112792987794836,0.6618142023496538,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,18,1,17:08,2228,2828,Marcus McClary Steal.,8,1,7,0,0.8112792987794836,0.6618142023496538,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,19,1,17:02,2222,2822,Deion Hammond made Three Point Jumper. Assisted by Marcus McClary.,8,4,4,6,0.7633478960307255,0.595019946203655,4,4,5,NA,NA,Monmouth,made,Deion Hammond,Marcus McClary,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,20,1,16:41,2201,2801,Rich Kelly missed Three Point Jumper.,8,4,4,21,0.7636709156410926,0.5959557671447281,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,21,1,16:34,2194,2794,Ray Salnave Defensive Rebound.,8,4,4,7,0.7637771663301539,0.5962685977478669,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,22,1,16:32,2192,2792,Deion Hammond made Jumper. Assisted by Ray Salnave.,8,6,2,2,0.7268127638044906,0.5486348662607666,4,4,5,NA,NA,Monmouth,made,Deion Hammond,Ray Salnave,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,23,1,16:16,2176,2776,Foul on Rich Kelly.,8,6,2,16,0.7267806764513159,0.5490035742376568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,24,1,16:16,2176,2776,Rich Kelly Turnover.,8,6,2,0,0.7267806764513159,0.5490035742376568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,25,1,16:05,2165,2765,Deion Hammond made Jumper. Assisted by Ray Salnave.,8,8,0,11,0.6857988835195119,0.5,4,4,5,NA,NA,Monmouth,made,Deion Hammond,Ray Salnave,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,26,1,15:45,2145,2745,Cameron Young missed Three Point Jumper.,8,8,0,20,0.6853390142781047,0.5,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,27,1,15:42,2142,2742,Ray Salnave Defensive Rebound.,8,8,0,3,0.6852691395920703,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,28,1,15:38,2138,2738,Official TV Timeout,8,8,0,4,0.6851756129504836,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,29,1,15:19,2119,2719,Deion Hammond missed Three Point Jumper.,8,8,0,19,0.6847257744457657,0.5,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,30,1,15:14,2114,2714,Jacob Rigoni Defensive Rebound.,8,8,0,5,0.6846058728862809,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,31,1,15:07,2107,2707,Rich Kelly made Layup.,10,8,2,7,0.726589166151512,0.5506129622145127,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,32,1,14:54,2094,2694,Diago Quinn missed Layup.,10,8,2,13,0.7265448787452288,0.5509208056234844,4,4,5,NA,NA,Monmouth,missed,Diago Quinn,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,33,1,14:50,2090,2690,Travis Atson Defensive Rebound.,10,8,2,4,0.7265307760841427,0.5510158552260809,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,34,1,14:44,2084,2684,Jacob Rigoni made Layup.,12,8,4,6,0.7653676986669672,0.6012574047381553,4,4,5,NA,NA,Quinnipiac,made,Jacob Rigoni,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,35,1,14:23,2063,2663,Nick Rutherford Turnover.,12,8,4,21,0.7656611522220617,0.6022319797092235,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,36,1,14:23,2063,2663,Travis Atson Steal.,12,8,4,0,0.7656611522220617,0.6022319797092235,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,37,1,13:58,2038,2638,Jacob Rigoni missed Three Point Jumper.,12,8,4,25,0.7660084305379579,0.6034034706540315,4,4,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,38,1,13:53,2033,2633,Rich Kelly Offensive Rebound.,12,8,4,5,0.7660777033755182,0.6036393198699057,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,39,1,13:49,2029,2629,Travis Atson missed Three Point Jumper.,12,8,4,4,0.7661330917078149,0.6038283841502873,4,4,5,NA,NA,Quinnipiac,missed,Travis Atson,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,40,1,13:45,2025,2625,Nick Rutherford Defensive Rebound.,12,8,4,4,0.7661884581592971,0.6040177948645935,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,41,1,13:28,2008,2608,Marcus McClary missed Layup.,12,8,4,17,0.7664236228354174,0.6048267472612184,4,4,5,NA,NA,Monmouth,missed,Marcus McClary,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,42,1,13:23,2003,2603,Aaron Robinson Defensive Rebound.,12,8,4,5,0.7664927773765312,0.6050659230523384,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,43,1,13:15,1995,2595,Cameron Young Turnover.,12,8,4,8,0.7666034490736879,0.6054498168502327,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,44,1,13:15,1995,2595,Mustapha Traore Steal.,12,8,4,0,0.7666034490736879,0.6054498168502327,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,45,1,13:09,1989,2589,Nick Rutherford made Layup.,12,10,2,6,0.7261104886623125,0.5534740814799639,4,4,5,NA,NA,Monmouth,made,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,46,1,12:42,1962,2562,Mustapha Traore Defensive Rebound.,12,10,2,27,0.7259808634988288,0.5541527460929635,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,47,1,12:14,1934,2534,Ray Salnave made Jumper.,12,12,0,28,0.6798894576258409,0.5,4,4,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,48,1,12:00,1920,2520,Tyree Pickron missed Jumper.,12,12,0,14,0.6794912875562038,0.5,4,4,5,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,49,1,11:55,1915,2515,Nick Rutherford Defensive Rebound.,12,12,0,5,0.6793476063819934,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,50,1,11:51,1911,2511,Nikkei Rutty made Layup. Assisted by Melik Martin.,12,14,-2,4,0.6288973607304611,0.444540212184921,4,4,5,NA,NA,Monmouth,made,Nikkei Rutty,Melik Martin,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,51,1,11:35,1895,2495,Tyrese Williams made Three Point Jumper. Assisted by Rich Kelly.,15,14,1,16,0.7027261528786641,0.528023274127686,4,4,5,NA,NA,Quinnipiac,made,Tyrese Williams,Rich Kelly,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,52,1,11:18,1878,2478,Melik Martin missed Three Point Jumper.,15,14,1,17,0.7024278542993696,0.5282438334880746,4,4,5,NA,NA,Monmouth,missed,Melik Martin,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,53,1,11:14,1874,2474,Official TV Timeout,15,14,1,4,0.7023565775748339,0.528295774020342,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,54,1,11:14,1874,2474,Quinnipiac Defensive Rebound.,15,14,1,0,0.7023565775748339,0.528295774020342,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,55,1,11:14,1874,2474,Official TV Timeout,15,14,1,0,0.7023565775748339,0.528295774020342,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,56,1,10:49,1849,2449,Tyree Pickron missed Three Point Jumper.,15,14,1,25,0.701902452864986,0.5286212154557764,4,4,5,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,57,1,10:45,1845,2445,Abdulai Bundu Offensive Rebound.,15,14,1,4,0.7018284961750985,0.5286734657058288,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,58,1,10:43,1843,2443,Abdulai Bundu made Layup.,17,14,3,2,0.7475697222028871,0.5853497998316473,4,4,5,NA,NA,Quinnipiac,made,Abdulai Bundu,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,59,1,10:17,1817,2417,Ray Salnave missed Three Point Jumper.,17,14,3,26,0.747646087436921,0.5863478650406768,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,60,1,10:13,1813,2413,Tyree Pickron Defensive Rebound.,17,14,3,4,0.7476574043656617,0.5865023309898767,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,61,1,10:07,1807,2407,Travis Atson missed Three Point Jumper.,17,14,3,6,0.7476742511483397,0.5867345696158975,4,4,5,NA,NA,Quinnipiac,missed,Travis Atson,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,62,1,10:03,1803,2403,Melik Martin Defensive Rebound.,17,14,3,4,0.7476854191902029,0.5868897761363941,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,63,1,9:58,1798,2398,Ray Salnave made Layup.,17,16,1,5,0.7009368362711703,0.5292934739580989,4,4,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,64,1,9:43,1783,2383,Foul on George Papas.,17,16,1,15,0.7006448634972559,0.5294944967947494,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,65,1,9:32,1772,2372,Tyree Pickron Turnover.,17,16,1,11,0.7004289499672821,0.5296431514753851,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,66,1,9:17,1757,2357,Ray Salnave made Layup.,17,18,-1,15,0.6476812271191006,0.4701522428732746,4,4,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,67,1,8:54,1734,2334,Foul on Nick Rutherford.,17,18,-1,23,0.646598917921323,0.4698337147961238,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,68,1,8:49,1729,2329,Cameron Young missed Three Point Jumper.,17,18,-1,5,0.6463614372825447,0.46976362301874747,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,69,1,8:47,1727,2327,Quinnipiac Offensive Rebound.,17,18,-1,2,0.6462662256891964,0.4697354962294323,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,70,1,8:47,1727,2327,Foul on Nikkei Rutty.,17,18,-1,0,0.6462662256891964,0.4697354962294323,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,71,1,8:31,1711,2311,Tyrese Williams made Three Point Jumper. Assisted by Tyree Pickron.,20,18,2,16,0.7242554062828555,0.560756963282836,4,4,5,NA,NA,Quinnipiac,made,Tyrese Williams,Tyree Pickron,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,72,1,8:05,1685,2285,Nick Rutherford Turnover.,20,18,2,26,0.7240597791168519,0.5615010656287555,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,73,1,8:05,1685,2285,Tyrese Williams Steal.,20,18,2,0,0.7240597791168519,0.5615010656287555,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,74,1,7:58,1678,2278,Cameron Young made Three Point Jumper. Assisted by Tyrese Williams.,23,18,5,7,0.7919147553052528,0.650256635786274,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,Tyrese Williams,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,75,1,7:25,1645,2245,Ray Salnave missed Jumper.,23,18,5,33,0.7925731041652553,0.6523717955141202,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,76,1,7:21,1641,2241,Tyree Pickron Defensive Rebound.,23,18,5,4,0.7926467905148973,0.6526230031957734,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,77,1,7:06,1626,2226,Jacob Rigoni missed Three Point Jumper.,23,18,5,15,0.7929141799022741,0.6535581859782588,4,4,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,78,1,7:00,1620,2220,George Papas Defensive Rebound.,23,18,5,6,0.7930177863344936,0.6539298923510367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,79,1,6:54,1614,2214,George Papas missed Three Point Jumper.,23,18,5,6,0.7931198487562071,0.6543006525151589,4,4,5,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,80,1,6:49,1609,2209,Tyree Pickron Defensive Rebound.,23,18,5,5,0.7932038988521499,0.6546090913747628,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,81,1,6:28,1588,2188,Tyree Pickron missed Jumper.,23,18,5,21,0.7935502724983875,0.6559029231321506,4,4,5,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,82,1,6:28,1588,2188,Ray Salnave Defensive Rebound.,23,18,5,0,0.7935502724983875,0.6559029231321506,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,83,1,6:28,1588,2188,Ray Salnave Block.,23,18,5,0,0.7935502724983875,0.6559029231321506,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,84,1,6:10,1570,2170,Ray Salnave missed Jumper.,23,18,5,18,0.7938444645768623,0.6570162393464477,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,85,1,6:10,1570,2170,Abdulai Bundu Block.,23,18,5,0,0.7938444645768623,0.6570162393464477,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,86,1,6:10,1570,2170,Monmouth Offensive Rebound.,23,18,5,0,0.7938444645768623,0.6570162393464477,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,87,1,5:58,1558,2158,Monmouth  Turnover.,23,18,5,12,0.794042664157282,0.6577644438355619,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,88,1,5:39,1539,2139,Rich Kelly made Three Point Jumper. Assisted by Jacob Rigoni.,26,18,8,19,0.8515301112569208,0.7415221739996535,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,Jacob Rigoni,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,89,1,5:12,1512,2112,Diago Quinn made Layup. Assisted by Ray Salnave.,26,20,6,27,0.8157397968701093,0.689930949594193,4,4,5,NA,NA,Monmouth,made,Diago Quinn,Ray Salnave,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,90,1,4:52,1492,2092,Rich Kelly made Layup. Assisted by Abdulai Bundu.,28,20,8,20,0.8532603110176622,0.7457406093411714,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,Abdulai Bundu,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,91,1,4:46,1486,2086,Foul on Samuel Chaput.,28,20,8,6,0.8534970057045285,0.7463017367900309,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,92,1,4:46,1486,2086,Rich Kelly made Free Throw.,29,20,9,0,0.8695708008383313,0.7709807627835271,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,93,1,4:26,1466,2066,Ray Salnave Turnover.,29,20,9,20,0.870459867657893,0.7729909288607719,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,94,1,4:26,1466,2066,Jacob Rigoni Steal.,29,20,9,0,0.870459867657893,0.7729909288607719,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,95,1,4:17,1457,2057,Foul on Ray Salnave.,29,20,9,9,0.8708783802222985,0.7739216720287767,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,96,1,4:04,1444,2044,Travis Atson missed Jumper.,29,20,9,13,0.871498957185638,0.7752885945832444,4,4,5,NA,NA,Quinnipiac,missed,Travis Atson,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,97,1,4:02,1442,2042,Ray Salnave Defensive Rebound.,29,20,9,2,0.871592951971069,0.7754967094832845,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,98,1,4:02,1442,2042,Foul on Travis Atson.,29,20,9,0,0.871592951971069,0.7754967094832845,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,99,1,3:48,1428,2028,Deion Hammond missed Three Point Jumper.,29,20,9,14,0.8722321637739436,0.7769262430491096,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,100,1,3:43,1423,2023,Travis Atson Defensive Rebound.,29,20,9,5,0.8724532398216021,0.7774263113207124,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,101,1,3:36,1416,2016,Jacob Rigoni missed Three Point Jumper.,29,20,9,7,0.8727571690824402,0.7781183191887701,4,4,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,102,1,3:32,1412,2012,Ray Salnave Defensive Rebound.,29,20,9,4,0.8729281774088278,0.7785098919924666,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,103,1,3:27,1407,2007,Ray Salnave made Layup.,29,22,7,5,0.838762094061869,0.7270810387564054,4,4,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,104,1,3:12,1392,1992,Cameron Young missed Dunk.,29,22,7,15,0.839268481757952,0.7283710127966516,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,105,1,3:07,1387,1987,Deion Hammond Defensive Rebound.,29,22,7,5,0.8394338041139304,0.7287966816019181,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,106,1,3:05,1385,1985,Foul on Tyrese Williams.,29,22,7,2,0.8394995505061887,0.7289664856297393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,107,1,3:00,1380,1980,Deion Hammond missed Three Point Jumper.,29,22,7,5,0.8396631009336578,0.7293900291216515,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,108,1,2:54,1374,1974,Abdulai Bundu Defensive Rebound.,29,22,7,6,0.839858110362902,0.7298968497982115,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,109,1,2:48,1368,1968,Rich Kelly Turnover.,29,22,7,6,0.8400521628563915,0.7304026647966165,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,110,1,2:35,1355,1955,Deion Hammond missed Jumper.,29,22,7,13,0.8404713747590958,0.7314979356353337,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,111,1,2:28,1348,1948,Mustapha Traore Offensive Rebound.,29,22,7,7,0.8406976048906926,0.7320889551038254,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,112,1,2:27,1347,1947,Mustapha Traore Turnover.,29,22,7,1,0.8407300072626763,0.7321735333305854,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,113,1,2:27,1347,1947,Tyrese Williams Steal.,29,22,7,0,0.8407300072626763,0.7321735333305854,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,114,1,2:21,1341,1941,Tyrese Williams Turnover.,29,22,7,6,0.8409250535914292,0.7326820347484393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,115,1,2:21,1341,1941,Nick Rutherford Steal.,29,22,7,0,0.8409250535914292,0.7326820347484393,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,116,1,2:14,1334,1934,Nick Rutherford made Layup.,29,24,5,7,0.7986526182331145,0.6731287584729663,4,4,5,NA,NA,Monmouth,made,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,117,1,2:04,1324,1924,Rich Kelly missed Three Point Jumper.,29,24,5,10,0.7988508602973031,0.6738189082144527,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,118,1,2:00,1320,1920,Nick Rutherford Defensive Rebound.,29,24,5,4,0.7989318154718766,0.6740974101711154,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,119,1,1:57,1317,1917,Ray Salnave missed Three Point Jumper.,29,24,5,3,0.7989932563467859,0.6743073289888779,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,120,1,1:54,1314,1914,Travis Atson Defensive Rebound.,29,24,5,3,0.7990553698678687,0.6745182049168527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,121,1,1:35,1295,1895,Cameron Young missed Three Point Jumper.,29,24,5,19,0.7994673667339294,0.6758796615297248,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,122,1,1:30,1290,1890,Diago Quinn Defensive Rebound.,29,24,5,5,0.7995820545754787,0.6762465150150259,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,123,1,1:27,1287,1887,Foul on Tyrese Williams.,29,24,5,3,0.7996523051753145,0.6764685687573996,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,124,1,1:17,1277,1877,Deion Hammond missed Three Point Jumper.,29,24,5,10,0.7998949255117483,0.6772200790547042,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,125,1,1:13,1273,1873,Cameron Young Defensive Rebound.,29,24,5,4,0.7999958834145156,0.67752589431979,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,126,1,1:05,1265,1865,Cameron Young made Layup.,31,24,7,8,0.8436558146776975,0.7395012723639005,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,127,1,0:41,1241,1841,Nick Rutherford missed Jumper.,31,24,7,24,0.8446983579298565,0.7419081822480621,4,4,5,NA,NA,Monmouth,missed,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,128,1,0:37,1237,1837,Diago Quinn Offensive Rebound.,31,24,7,4,0.8448840860997247,0.7423259460807395,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,129,1,0:35,1235,1835,Diago Quinn made Layup.,31,26,5,2,0.8010896892447766,0.6806081734276322,4,4,5,NA,NA,Monmouth,made,Diago Quinn,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,130,1,0:26,1226,1826,Quinnipiac  Timeout,31,26,5,9,0.801390442647837,0.6813924403495734,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,131,1,0:05,1205,1805,Tyrese Williams made Three Point Jumper. Assisted by Jacob Rigoni.,34,26,8,21,0.865445296499341,0.7738965206535576,3,4,5,NA,NA,Quinnipiac,made,Tyrese Williams,Jacob Rigoni,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,132,1,0:00,1200,1800,End of 1st half,34,26,8,5,0.8657300488962921,0.774489981219977,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,NA
+401085764,2019-01-10,Quinnipiac,Monmouth,133,2,20:00,1200,1800,PLAY,34,26,8,0,0.8657300488962921,0.774489981219977,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,134,2,19:40,1180,1780,Rich Kelly made Layup.,36,26,10,20,0.8988946623640693,0.8261937476062827,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,135,2,19:23,1163,1763,Foul on Abdulai Bundu.,36,26,10,17,0.8998500940813557,0.8281572038916981,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,136,2,19:11,1151,1751,Marcus McClary missed Layup.,36,26,10,12,0.900509358296023,0.8295149855585084,4,4,5,NA,NA,Monmouth,missed,Marcus McClary,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,137,2,19:08,1148,1748,Monmouth Offensive Rebound.,36,26,10,3,0.9006727954277054,0.8298517527084402,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,138,2,18:41,1121,1721,Rich Kelly made Layup.,38,28,10,27,0.9021322530739939,0.8328566023788114,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,139,2,18:14,1094,1694,Foul on Jacob Rigoni.,38,28,10,27,0.903602570268476,0.8358667483620921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,140,2,18:14,1094,1694,Deion Hammond made Free Throw.,38,29,9,0,0.8884624451767786,0.8122979803978567,4,4,5,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,141,2,18:14,1094,1694,Deion Hammond made Free Throw.,38,30,8,0,0.8712831489636855,0.7862104660873305,4,4,5,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,142,2,18:00,1080,1680,Jacob Rigoni Turnover.,38,30,8,14,0.8720300346279836,0.7877673431309491,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,143,2,18:00,1080,1680,Samuel Chaput Steal.,38,30,8,0,0.8720300346279836,0.7877673431309491,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,144,2,17:55,1075,1675,Deion Hammond missed Three Point Jumper.,38,30,8,5,0.8723020011089466,0.7883309756080346,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,145,2,17:51,1071,1671,Abdulai Bundu Defensive Rebound.,38,30,8,4,0.8725218492381838,0.7887852334032424,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,146,2,17:45,1065,1665,Cameron Young Turnover.,38,30,8,6,0.8728557310096621,0.7894727105191516,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,147,2,17:45,1065,1665,Samuel Chaput Steal.,38,30,8,0,0.8728557310096621,0.7894727105191516,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,148,2,17:40,1060,1660,Samuel Chaput made Layup.,38,32,6,5,0.8316945471998781,0.7298629936248189,4,4,5,NA,NA,Monmouth,made,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,149,2,17:24,1044,1644,Cameron Young missed Three Point Jumper.,38,32,6,16,0.8324726159476555,0.7315541747667983,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,150,2,17:21,1041,1641,Abdulai Bundu Offensive Rebound.,38,32,6,3,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,151,2,17:21,1041,1641,Foul on Ray Salnave.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,152,2,17:21,1041,1641,Abdulai Bundu missed Free Throw.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,Quinnipiac,missed,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,153,2,17:21,1041,1641,Quinnipiac Deadball Team Rebound.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,154,2,17:21,1041,1641,Abdulai Bundu missed Free Throw.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,Quinnipiac,missed,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,155,2,17:21,1041,1641,Diago Quinn Defensive Rebound.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,156,2,17:21,1041,1641,Foul on Jacob Rigoni.,38,32,6,0,0.8326236450375543,0.7318787905101527,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,157,2,17:10,1030,1630,Ray Salnave Turnover.,38,32,6,11,0.8331928146442262,0.7330916577687563,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,158,2,17:10,1030,1630,Rich Kelly Steal.,38,32,6,0,0.8331928146442262,0.7330916577687563,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,159,2,17:05,1025,1625,Rich Kelly Turnover.,38,32,6,5,0.8334600158100139,0.7336554519772805,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,160,2,17:05,1025,1625,Nick Rutherford Steal.,38,32,6,0,0.8334600158100139,0.7336554519772805,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,161,2,17:05,1025,1625,Nick Rutherford Turnover.,38,32,6,0,0.8334600158100139,0.7336554519772805,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,162,2,16:55,1015,1615,Rich Kelly missed Jumper.,38,32,6,10,0.8340115755994529,0.7348083535733281,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,163,2,16:55,1015,1615,Quinnipiac Offensive Rebound.,38,32,6,0,0.8340115755994529,0.7348083535733281,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,164,2,16:55,1015,1615,Nick Rutherford Block.,38,32,6,0,0.8340115755994529,0.7348083535733281,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,165,2,16:52,1012,1612,Aaron Robinson Turnover.,38,32,6,3,0.8341817256974894,0.7351611423047999,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,166,2,16:52,1012,1612,Diago Quinn Steal.,38,32,6,0,0.8341817256974894,0.7351611423047999,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,167,2,16:44,1004,1604,Ray Salnave missed Layup.,38,32,6,8,0.8346466002343428,0.7361183997749106,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,168,2,16:38,998,1598,Quinnipiac Defensive Rebound.,38,32,6,6,0.8350063305024987,0.7368527506929367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,169,2,16:31,991,1591,Foul on Samuel Chaput.,38,32,6,7,0.8354385949795117,0.7377281548074555,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,170,2,16:27,987,1587,Jacob Rigoni missed Three Point Jumper.,38,32,6,4,0.8356919104291481,0.7382377514627309,4,4,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,171,2,16:20,980,1580,Ray Salnave Defensive Rebound.,38,32,6,7,0.8361466615352059,0.7391465626638178,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,172,2,16:03,963,1563,Samuel Chaput made Jumper.,38,34,4,17,0.7836598778264751,0.6686817830156648,4,4,5,NA,NA,Monmouth,made,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,173,2,15:32,932,1532,Foul on Jacob Rigoni.,38,34,4,31,0.7848697994925632,0.6715478302888682,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,174,2,15:32,932,1532,Jacob Rigoni Turnover.,38,34,4,0,0.7848697994925632,0.6715478302888682,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,175,2,15:32,932,1532,Official TV Timeout,38,34,4,0,0.7848697994925632,0.6715478302888682,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,176,2,15:19,919,1519,Ray Salnave made Layup.,38,36,2,13,0.7184613286647767,0.589054803217887,4,4,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,177,2,14:53,893,1493,Travis Atson missed Three Point Jumper.,38,36,2,26,0.7185078101571762,0.5901825596212095,4,4,5,NA,NA,Quinnipiac,missed,Travis Atson,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,178,2,14:44,884,1484,Abdulai Bundu Offensive Rebound.,38,36,2,9,0.7185221971974499,0.5905626818538622,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,179,2,14:44,884,1484,Abdulai Bundu made Layup.,40,36,4,0,0.7864125145526747,0.6753720389102016,4,4,5,NA,NA,Quinnipiac,made,Abdulai Bundu,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,180,2,14:36,876,1476,Deion Hammond Turnover.,40,36,4,8,0.7866581880889351,0.6759834031420556,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,181,2,14:36,876,1476,Abdulai Bundu Steal.,40,36,4,0,0.7866581880889351,0.6759834031420556,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,182,2,14:31,871,1471,Abdulai Bundu made Layup. Assisted by Rich Kelly.,42,36,6,5,0.8421591154789431,0.7513236812784274,4,4,5,NA,NA,Quinnipiac,made,Abdulai Bundu,Rich Kelly,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,183,2,13:58,838,1438,Cameron Young Defensive Rebound.,42,36,6,33,0.8438063707150986,0.7546602976189082,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,184,2,13:46,826,1426,Foul on Diago Quinn.,42,36,6,12,0.8444594739709379,0.7559555957532361,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,185,2,13:46,826,1426,Cameron Young made Free Throw.,43,36,7,0,0.86763744747448035,0.7890271346059513,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,186,2,13:46,826,1426,Cameron Young missed Free Throw.,43,36,7,0,0.86763744747448035,0.7890271346059513,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,187,2,13:46,826,1426,Sam Ibiezugbe Defensive Rebound.,43,36,7,0,0.86763744747448035,0.7890271346059513,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,188,2,13:31,811,1411,Foul on Tyrese Williams.,43,36,7,15,0.8685823892874872,0.7908313990336792,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,189,2,13:18,798,1398,Ray Salnave missed Three Point Jumper.,43,36,7,13,0.869470245386859,0.7925047546439813,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,190,2,13:11,791,1391,Monmouth Offensive Rebound.,43,36,7,7,0.8699789317408518,0.7934547739482539,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,191,2,13:07,787,1387,Deion Hammond missed Three Point Jumper.,43,36,7,4,0.8702800915349176,0.794014463675768,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,192,2,13:01,781,1381,Sam Ibiezugbe Offensive Rebound.,43,36,7,6,0.8707469375493819,0.7948782834178776,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,193,2,12:54,774,1374,Ray Salnave missed Layup.,43,36,7,7,0.8713157098342253,0.7959249060864287,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,194,2,12:50,770,1370,Jacob Rigoni Defensive Rebound.,43,36,7,4,0.8716529566231856,0.7965427010050445,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,195,2,12:41,761,1361,Jacob Rigoni made Three Point Jumper. Assisted by Rich Kelly.,46,36,10,9,0.9249453783185532,0.876805870555549,4,4,5,NA,NA,Quinnipiac,made,Jacob Rigoni,Rich Kelly,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,196,2,12:24,744,1344,Foul on Tyree Pickron.,46,36,10,17,0.9265054740490087,0.8796219466723748,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,197,2,12:16,736,1336,Deion Hammond missed Jumper.,46,36,10,8,0.9272966742026065,0.8810417807904108,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,198,2,12:12,732,1332,Tyree Pickron Defensive Rebound.,46,36,10,4,0.9277065534299211,0.8817753884018777,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,199,2,12:07,727,1327,Tyree Pickron missed Three Point Jumper.,46,36,10,5,0.9282251241993779,0.8827027307946004,4,4,5,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,200,2,12:05,725,1325,Nick Rutherford Defensive Rebound.,46,36,10,2,0.9284267265482093,0.8830640160819084,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,201,2,12:05,725,1325,Foul on Samuel Chaput.,46,36,10,0,0.9284267265482093,0.8830640160819084,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,202,2,11:51,711,1311,Cameron Young made Three Point Jumper. Assisted by Jacob Rigoni.,49,36,13,14,0.9606873524962914,0.9345201247976459,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,Jacob Rigoni,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,203,2,11:35,695,1295,Melik Martin Turnover.,49,36,13,16,0.9617163700448516,0.9363995462125678,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,204,2,11:35,695,1295,Jacob Rigoni Steal.,49,36,13,0,0.9617163700448516,0.9363995462125678,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,205,2,11:29,689,1289,Cameron Young missed Three Point Jumper.,49,36,13,6,0.9620730336694189,0.9370537309859922,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,206,2,11:25,685,1285,Sam Ibiezugbe Defensive Rebound.,49,36,13,4,0.962303979839042,0.9374779628548482,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,207,2,11:03,663,1263,Foul on Tyree Pickron.,49,36,13,22,0.9635096828749066,0.9396973417302367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,208,2,11:03,663,1263,Official TV Timeout,49,36,13,0,0.9635096828749066,0.9396973417302367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,209,2,11:03,663,1263,Deion Hammond missed Free Throw.,49,36,13,0,0.9635096828749066,0.9396973417302367,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,210,2,11:03,663,1263,Cameron Young Defensive Rebound.,49,36,13,0,0.9635096828749066,0.9396973417302367,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,211,2,10:52,652,1252,Cameron Young missed Layup.,49,36,13,11,0.9640945055183129,0.9407733678170518,4,4,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,212,2,10:48,648,1248,Nick Rutherford Defensive Rebound.,49,36,13,4,0.9643077624903316,0.9411650846115904,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,213,2,10:43,643,1243,Sam Ibiezugbe made Layup. Assisted by Samuel Chaput.,49,38,11,5,0.9466678898988122,0.9132052288683626,4,4,5,NA,NA,Monmouth,made,Sam Ibiezugbe,Samuel Chaput,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,214,2,10:28,628,1228,Rich Kelly missed Layup.,49,38,11,15,0.9476791410478222,0.915054828955371,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,215,2,10:25,625,1225,Sam Ibiezugbe Defensive Rebound.,49,38,11,3,0.9478891456755565,0.9154369813205704,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,216,2,10:05,605,1205,Nick Rutherford made Layup.,49,40,9,20,0.9235816325642583,0.8784432901324676,4,4,5,NA,NA,Monmouth,made,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,217,2,9:48,588,1188,Jacob Rigoni made Three Point Jumper. Assisted by Cameron Young.,52,40,12,17,0.9602559454619806,0.9355173862111457,4,4,5,NA,NA,Quinnipiac,made,Jacob Rigoni,Cameron Young,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,218,2,9:30,570,1170,Samuel Chaput missed Layup.,52,40,12,18,0.9618106367735845,0.9382551257339551,4,4,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,219,2,9:27,567,1167,Sam Ibiezugbe Offensive Rebound.,52,40,12,3,0.9620899732202379,0.9387436910629967,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,220,2,9:25,565,1165,Deion Hammond missed Three Point Jumper.,52,40,12,2,0.9622795582625001,0.9390747545973134,4,4,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,221,2,9:21,561,1161,Tyree Pickron Defensive Rebound.,52,40,12,4,0.9626669071142772,0.9397498968707384,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,222,2,9:04,544,1144,Foul on Melik Martin.,52,40,12,17,0.9643955697248274,0.9427481409025799,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,223,2,8:52,532,1132,Travis Atson Turnover.,52,40,12,12,0.9654571437163207,0.9445999689950192,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,224,2,8:52,532,1132,Melik Martin Steal.,52,40,12,0,0.9654571437163207,0.9445999689950192,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,225,2,8:44,524,1124,Deion Hammond made Layup. Assisted by Nick Rutherford.,52,42,10,8,0.9464970024883635,0.9153722767139332,4,4,5,NA,NA,Monmouth,made,Deion Hammond,Nick Rutherford,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,226,2,8:09,489,1089,Quinnipiac  Turnover.,52,42,10,35,0.9495171173707994,0.9207170877599519,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,227,2,8:01,481,1081,Abdulai Bundu Block.,52,42,10,8,0.9502261318564567,0.9219628611217511,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,228,2,7:58,478,1078,Diago Quinn Offensive Rebound.,52,42,10,3,0.9505025036786057,0.9224460633242131,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,229,2,7:58,478,1078,Foul on Abdulai Bundu.,52,42,10,0,0.9505025036786057,0.9224460633242131,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,230,2,7:58,478,1078,Official TV Timeout,52,42,10,0,0.9505025036786057,0.9224460633242131,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,231,2,7:58,478,1078,Diago Quinn missed Free Throw.,52,42,10,0,0.9505025036786057,0.9224460633242131,4,4,5,NA,NA,Monmouth,missed,Diago Quinn,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,232,2,7:58,478,1078,Monmouth Deadball Team Rebound.,52,42,10,0,0.9505025036786057,0.9224460633242131,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,233,2,7:58,478,1078,Diago Quinn made Free Throw.,52,43,9,0,0.9374655954896906,0.9027753736008594,4,4,5,NA,NA,Monmouth,made,Diago Quinn,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,234,2,7:44,464,1064,Cameron Young made Three Point Jumper. Assisted by Abdulai Bundu.,55,43,12,14,0.9703215712840634,0.953131882815183,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,Abdulai Bundu,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,235,2,7:36,456,1056,Foul on Abdulai Bundu.,55,43,12,8,0.9710108201129984,0.9543120772769921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,236,2,7:36,456,1056,Ray Salnave missed Free Throw.,55,43,12,0,0.9710108201129984,0.9543120772769921,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,237,2,7:36,456,1056,Monmouth Deadball Team Rebound.,55,43,12,0,0.9710108201129984,0.9543120772769921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,238,2,7:36,456,1056,Ray Salnave missed Free Throw.,55,43,12,0,0.9710108201129984,0.9543120772769921,4,4,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,239,2,7:36,456,1056,Aaron Robinson Defensive Rebound.,55,43,12,0,0.9710108201129984,0.9543120772769921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,240,2,7:08,428,1028,Jacob Rigoni missed Three Point Jumper.,55,43,12,28,0.9739501425723099,0.9592581363524867,4,4,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,241,2,7:03,423,1023,Tyrese Williams Offensive Rebound.,55,43,12,5,0.9745125552532062,0.9601980781706156,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,242,2,6:44,404,1004,Foul on Ray Salnave.,55,43,12,19,0.9763991650969058,0.9633730502233394,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,243,2,6:43,403,1003,Foul on Sam Ibiezugbe.,55,43,12,1,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,244,2,6:43,403,1003,Aaron Robinson missed Free Throw.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,Quinnipiac,missed,Aaron Robinson,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,245,2,6:43,403,1003,Quinnipiac Deadball Team Rebound.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,246,2,6:43,403,1003,Aaron Robinson missed Free Throw.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,Quinnipiac,missed,Aaron Robinson,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,247,2,6:43,403,1003,Cameron Young Offensive Rebound.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,248,2,6:43,403,1003,Rich Kelly missed Three Point Jumper.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,249,2,6:43,403,1003,Sam Ibiezugbe Defensive Rebound.,55,43,12,0,0.9764905713700156,0.9635275449472371,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,250,2,6:09,369,969,Samuel Chaput missed Jumper.,55,43,12,34,0.9794519427583401,0.9685239269748281,4,4,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,251,2,6:05,365,965,Marcus McClary Offensive Rebound.,55,43,12,4,0.9798054948673158,0.9691148479473368,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,252,2,5:59,359,959,Samuel Chaput missed Three Point Jumper.,55,43,12,6,0.9803465238360098,0.9700152421841272,4,4,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,253,2,5:55,355,955,Aaron Robinson Defensive Rebound.,55,43,12,4,0.9807157241369033,0.9706268225919297,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,254,2,5:31,331,931,Tyrese Williams Turnover.,55,43,12,24,0.9831139703297692,0.9745414084656292,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,255,2,5:03,303,903,Samuel Chaput missed Three Point Jumper.,55,43,12,28,0.986145838013514,0.9793773258862188,4,4,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,TRUE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,256,2,5:00,300,900,Monmouth Offensive Rebound.,55,43,12,3,0.9863207597712319,0.9796674222749888,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,257,2,4:58,298,898,Mustapha Traore made Layup. Assisted by Marcus McClary.,55,45,10,2,0.9743569234144461,0.9621464015267439,4,4,5,NA,NA,Monmouth,made,Mustapha Traore,Marcus McClary,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,258,2,4:21,261,861,Cameron Young made Three Point Jumper.,58,45,13,37,0.9893532255824444,0.9844673690166226,4,4,5,NA,NA,Quinnipiac,made,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,259,2,4:00,240,840,Samuel Chaput missed Three Point Jumper.,58,45,13,21,0.9885444786412383,0.9834818790776265,4,4,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,260,2,3:56,236,836,Abdulai Bundu Defensive Rebound.,58,45,13,4,0.9884953396945142,0.9834484647858821,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,261,2,3:42,222,822,Jacob Rigoni Turnover.,58,45,13,14,0.9888199954056534,0.9840430493998474,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,262,2,3:42,222,822,Official TV Timeout,58,45,13,0,0.9888199954056534,0.9840430493998474,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,263,2,3:33,213,813,Foul on Travis Atson.,58,45,13,9,0.9895258099437416,0.985127481096262,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,264,2,3:33,213,813,Marcus McClary missed Free Throw.,58,45,13,0,0.9895258099437416,0.985127481096262,4,4,5,NA,NA,Monmouth,missed,Marcus McClary,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,265,2,3:33,213,813,Monmouth Deadball Team Rebound.,58,45,13,0,0.9895258099437416,0.985127481096262,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,266,2,3:33,213,813,Marcus McClary made Free Throw.,58,46,12,0,0.9855961841494117,0.979581773617149,4,4,5,NA,NA,Monmouth,made,Marcus McClary,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,267,2,3:08,188,788,Foul on Diago Quinn.,58,46,12,25,0.9904907610152746,0.9867137114248729,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,268,2,3:08,188,788,Rich Kelly missed Free Throw.,58,46,12,0,0.9904907610152746,0.9867137114248729,4,4,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,269,2,3:08,188,788,Quinnipiac Deadball Team Rebound.,58,46,12,0,0.9904907610152746,0.9867137114248729,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,270,2,3:08,188,788,Rich Kelly made Free Throw.,59,46,13,0,0.9933396942455796,0.9906835913326535,4,4,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,271,2,3:01,181,781,Deion Hammond made Three Point Jumper. Assisted by Ray Salnave.,59,49,10,7,0.9832044676890493,0.9767157728642691,4,4,5,NA,NA,Monmouth,made,Deion Hammond,Ray Salnave,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,272,2,2:59,179,779,Monmouth  Timeout,59,49,10,2,0.9838663196841843,0.9776590089839634,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,273,2,2:59,179,779,Official TV Timeout,59,49,10,0,0.9838663196841843,0.9776590089839634,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,274,2,2:59,179,779,Quinnipiac  Timeout,59,49,10,0,0.9838663196841843,0.9776590089839634,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,275,2,2:30,150,750,Cameron Young Turnover.,59,49,10,29,0.991432197013477,0.9883515345197219,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,276,2,2:30,150,750,Ray Salnave Steal.,59,49,10,0,0.991432197013477,0.9883515345197219,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,277,2,2:21,141,741,Ray Salnave missed Layup.,59,49,10,9,0.9931696195494327,0.9907718753331124,3,3,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,278,2,2:13,133,733,Diago Quinn Offensive Rebound.,59,49,10,8,0.9945109749281646,0.992627113596124,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,279,2,2:12,132,732,Diago Quinn Turnover.,59,49,10,1,0.9946657368360001,0.9928403064592709,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,280,2,2:12,132,732,Cameron Young Steal.,59,49,10,0,0.9946657368360001,0.9928403064592709,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,281,2,2:06,126,726,Cameron Young made Layup.,61,49,12,6,0.9983907251639896,0.9978476920387578,3,3,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,282,2,1:55,115,715,Marcus McClary missed Three Point Jumper.,61,49,12,11,0.998955691659943,0.9986156722283598,3,3,5,NA,NA,Monmouth,missed,Marcus McClary,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,283,2,1:50,110,710,Jacob Rigoni Defensive Rebound.,61,49,12,5,0.9991572560021755,0.9988875006299058,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,284,2,1:36,96,696,Foul on Melik Martin.,61,49,12,14,0.9995678430653827,0.9994363354021065,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,285,2,1:36,96,696,Rich Kelly made Free Throw.,62,49,13,0,0.9997682601664897,0.9996977220541758,3,3,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,286,2,1:36,96,696,Rich Kelly made Free Throw.,63,49,14,0,0.9998757433863512,0.9998379162420669,3,3,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,287,2,1:26,86,686,Deion Hammond missed Three Point Jumper.,63,49,14,10,0.9999328459973355,0.999913181222154,3,3,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,288,2,1:22,82,682,Marcus McClary Offensive Rebound.,63,49,14,4,0.9999478775333978,0.9999328579440555,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,289,2,1:21,81,681,Marcus McClary missed Layup.,63,49,14,1,0.9999511233596403,0.9999370963670128,3,3,5,NA,NA,Monmouth,missed,Marcus McClary,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,290,2,1:20,80,680,Diago Quinn Offensive Rebound.,63,49,14,1,0.999954186728868,0.9999410926598007,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,291,2,1:19,79,679,Diago Quinn made Layup.,63,51,12,1,0.999825825036864,0.9997762565502747,3,3,5,NA,NA,Monmouth,made,Diago Quinn,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,292,2,1:19,79,679,Monmouth  Timeout,63,51,12,0,0.999825825036864,0.9997762565502747,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,293,2,0:59,59,659,Tyrese Williams Turnover.,63,51,12,20,0.999947618010046,0.9999339619933806,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,294,2,0:54,54,654,Ray Salnave made Layup.,63,53,10,5,0.9998005734240402,0.9997498037593856,3,2,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,295,2,0:43,43,643,Quinnipiac  Turnover.,63,53,10,11,0.9998922890307474,0.9998663205789873,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,296,2,0:37,37,637,Deion Hammond made Three Point Jumper.,63,56,7,6,0.9987777847887866,0.998492628250968,3,2,5,NA,NA,Monmouth,made,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,297,2,0:36,36,636,Quinnipiac  Turnover.,63,56,7,1,0.9988277182763334,0.9985556567562053,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,298,2,0:35,35,635,Deion Hammond made Three Point Jumper. Assisted by Melik Martin.,63,59,4,1,0.9814561245724585,0.9772669019809318,3,2,5,NA,NA,Monmouth,made,Deion Hammond,Melik Martin,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,299,2,0:35,35,635,Foul on Rich Kelly.,63,59,4,0,0.9814561245724585,0.9772669019809318,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,300,2,0:35,35,635,Deion Hammond made Free Throw.,63,60,3,0,0.9538523685458778,0.9437843975811644,3,2,5,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,301,2,0:35,35,635,Foul on Aaron Robinson.,63,60,3,0,0.9538523685458778,0.9437843975811644,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,302,2,0:35,35,635,Aaron Robinson Turnover.,63,60,3,0,0.9538523685458778,0.9437843975811644,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,303,2,0:32,32,632,Deion Hammond made Jumper. Assisted by Melik Martin.,63,62,1,3,0.7620099428249743,0.7228873140258434,3,2,5,NA,NA,Monmouth,made,Deion Hammond,Melik Martin,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,304,2,0:32,32,632,Monmouth  Timeout,63,62,1,0,0.7620099428249743,0.7228873140258434,3,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,305,2,0:32,32,632,Quinnipiac  Timeout,63,62,1,0,0.7620099428249743,0.7228873140258434,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,306,2,0:31,31,631,Foul on Nick Rutherford.,63,62,1,1,0.7629569928513307,0.7241381492558424,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,307,2,0:31,31,631,Rich Kelly made Free Throw.,64,62,2,0,0.8941681246327778,0.873267568528904,2,1,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,308,2,0:31,31,631,Rich Kelly made Free Throw.,65,62,3,0,0.9568565985700026,0.9476109270467127,2,1,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,309,2,0:19,19,619,Foul on Tyrese Williams.,65,62,3,12,0.9650421344933061,0.9579762736338373,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,310,2,0:19,19,619,Ray Salnave made Free Throw.,65,63,2,0,0.9068555833079908,0.88937692447449,2,1,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,311,2,0:19,19,619,Ray Salnave made Free Throw.,65,64,1,0,0.7744542983254207,0.7392735445101465,2,1,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,312,2,0:16,16,616,Foul on Melik Martin.,65,64,1,3,0.7774149416228596,0.7431478402245224,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,313,2,0:16,16,616,Rich Kelly made Free Throw.,66,64,2,0,0.9099528416956966,0.8932892633380727,2,1,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,314,2,0:16,16,616,Rich Kelly made Free Throw.,67,64,3,0,0.9669285297379941,0.9603490921001517,2,1,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,315,2,0:11,11,611,Ray Salnave made Layup.,67,66,1,5,0.7824295702667972,0.7496879212023952,2,1,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,316,2,0:09,9,609,Foul on Ray Salnave.,67,66,1,2,0.7844562175920365,0.752324287314643,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,317,2,0:09,9,609,Cameron Young missed Free Throw.,67,66,1,0,0.7844562175920365,0.752324287314643,2,1,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,318,2,0:09,9,609,Quinnipiac Deadball Team Rebound.,67,66,1,0,0.7844562175920365,0.752324287314643,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,319,2,0:09,9,609,Cameron Young made Free Throw.,68,66,2,0,0.9170461895921506,0.9022161211088555,2,1,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,320,2,0:02,2,602,Ray Salnave made Layup.,68,68,0,7,0.543185070823882,0.5,2,1,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,321,2,0:00,600,600,End of 2nd half,68,68,0,2,0.6255205550818317,0.5,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA
+401085764,2019-01-10,Quinnipiac,Monmouth,322,3,5:00,600,600,PLAY,68,68,0,0,0.6255205550818317,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,323,3,4:30,270,570,Ray Salnave missed Layup.,68,68,0,30,0.5956597751987088,0.5,3,2,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,324,3,4:30,270,570,Abdulai Bundu Block.,68,68,0,0,0.5956597751987088,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,325,3,4:23,263,563,Rich Kelly Defensive Rebound.,68,68,0,7,0.5947662051101978,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,326,3,4:10,250,550,Jacob Rigoni missed Three Point Jumper.,68,68,0,13,0.5930730903187378,0.5,3,2,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,327,3,4:05,245,545,Melik Martin Defensive Rebound.,68,68,0,5,0.5924065962229038,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,328,3,3:51,231,531,Deion Hammond missed Three Point Jumper.,68,68,0,14,0.5904813194495662,0.5,3,2,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,329,3,3:46,226,526,Jacob Rigoni Defensive Rebound.,68,68,0,5,0.5897688824755283,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,330,3,3:28,208,508,Cameron Young missed Three Point Jumper.,68,68,0,18,0.5870706716663681,0.5,3,2,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,331,3,3:26,206,506,Monmouth Defensive Rebound.,68,68,0,2,0.5867563259292619,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,332,3,3:04,184,484,Nick Rutherford made Layup.,68,70,-2,22,0.40149782376987514,0.32417183234404706,3,2,5,NA,NA,Monmouth,made,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,333,3,2:43,163,463,Cameron Young made Jumper.,70,70,0,21,0.5793504729782849,0.5,3,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,334,3,2:08,128,428,Ray Salnave missed Jumper.,70,70,0,35,0.5727125674307071,0.5,3,2,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,335,3,2:05,125,425,Marcus McClary Offensive Rebound.,70,70,0,3,0.57211484805856,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,336,3,2:05,125,425,Monmouth  Turnover.,70,70,0,0,0.57211484805856,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,337,3,1:48,108,408,Foul on Cameron Young.,70,70,0,17,0.5686297620383574,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,338,3,1:48,108,408,Cameron Young Turnover.,70,70,0,0,0.5686297620383574,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,339,3,1:35,95,395,Deion Hammond made Layup.,70,72,-2,13,0.2707895831100232,0.22174365665862406,3,2,5,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,340,3,1:30,90,390,Jacob Rigoni Turnover.,70,72,-2,5,0.26125162469695146,0.21417788084936668,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,341,3,1:20,80,380,Deion Hammond Turnover.,70,72,-2,10,0.24232951404310527,0.19919150539601063,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,342,3,1:20,80,380,Tyrese Williams Steal.,70,72,-2,0,0.24232951404310527,0.19919150539601063,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,343,3,1:11,71,371,Foul on Melik Martin.,70,72,-2,9,0.2251254662254405,0.18556107769279961,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,344,3,1:11,71,371,Cameron Young made Free Throw.,71,72,-1,0,0.3783669264505479,0.32310087567366,3,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,345,3,1:11,71,371,Cameron Young made Free Throw.,72,72,0,0,0.560470580501271,0.5,3,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,346,3,0:53,53,353,Ray Salnave missed Layup.,72,72,0,18,0.5562304853405114,0.5,3,2,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,347,3,0:49,49,349,Marcus McClary Offensive Rebound.,72,72,0,4,0.5552640968596672,0.5,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,348,3,0:48,48,348,Marcus McClary made Layup.,72,74,-2,1,0.18168572063843944,0.1511067600325292,3,2,5,NA,NA,Monmouth,made,Marcus McClary,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,349,3,0:33,33,333,Foul on Melik Martin.,72,74,-2,15,0.15455893290537231,0.12952038322582643,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,350,3,0:33,33,333,Cameron Young made Free Throw.,73,74,-1,0,0.3215451508368027,0.2783616315155212,3,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,351,3,0:33,33,333,Cameron Young made Free Throw.,74,74,0,0,0.5512996202629064,0.5,3,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,352,3,0:33,33,333,Quinnipiac  Timeout,74,74,0,0,0.5512996202629064,0.5,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,353,3,0:05,5,305,Deion Hammond missed Three Point Jumper.,74,74,0,28,0.5439971734367564,0.5,2,2,5,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,354,3,0:01,1,301,Abdulai Bundu Defensive Rebound.,74,74,0,4,0.5429133470046882,0.5,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,355,3,0:01,1,301,Quinnipiac  Timeout,74,74,0,0,0.5429133470046882,0.5,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,356,3,0:00,300,300,End of 1st overtime,74,74,0,1,0.5994354836644057,0.5,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA
+401085764,2019-01-10,Quinnipiac,Monmouth,357,4,5:00,300,300,PLAY,74,74,0,0,0.5994354836644057,0.5,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,358,4,4:37,277,277,Aaron Robinson missed Three Point Jumper.,74,74,0,23,0.5965449559151019,0.5,2,3,5,NA,NA,Quinnipiac,missed,Aaron Robinson,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,359,4,4:35,275,275,Abdulai Bundu Offensive Rebound.,74,74,0,2,0.5962927093192811,0.5,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,360,4,4:35,275,275,Foul on Diago Quinn.,74,74,0,0,0.5962927093192811,0.5,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,361,4,4:35,275,275,Abdulai Bundu made Free Throw.,75,74,1,0,0.6711085456745824,0.5800945494795842,2,3,5,NA,NA,Quinnipiac,made,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,362,4,4:35,275,275,Abdulai Bundu missed Free Throw.,75,74,1,0,0.6711085456745824,0.5800945494795842,2,3,5,NA,NA,Quinnipiac,missed,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,363,4,4:35,275,275,Rich Kelly Offensive Rebound.,75,74,1,0,0.6711085456745824,0.5800945494795842,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,364,4,4:11,251,251,Abdulai Bundu Offensive Rebound.,75,74,1,24,0.6667509483592665,0.5784209925726727,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,365,4,4:11,251,251,Foul on Diago Quinn.,75,74,1,0,0.6667509483592665,0.5784209925726727,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,366,4,4:11,251,251,Abdulai Bundu missed Free Throw.,75,74,1,0,0.6667509483592665,0.5784209925726727,2,3,5,NA,NA,Quinnipiac,missed,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,367,4,4:11,251,251,Quinnipiac Deadball Team Rebound.,75,74,1,0,0.6667509483592665,0.5784209925726727,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,368,4,4:11,251,251,Abdulai Bundu missed Free Throw.,75,74,1,0,0.6667509483592665,0.5784209925726727,2,3,5,NA,NA,Quinnipiac,missed,Abdulai Bundu,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,369,4,4:09,249,249,Marcus McClary Defensive Rebound.,75,74,1,2,0.6664004020193698,0.5783038226571416,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,370,4,3:43,223,223,Nick Rutherford made Layup.,75,76,-1,26,0.5111403168638692,0.4214935160850349,2,3,5,NA,NA,Monmouth,made,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,371,4,3:40,220,220,Foul on Tyrese Williams.,75,76,-1,3,0.510347357376703,0.4211633040270706,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,372,4,3:40,220,220,Nick Rutherford missed Free Throw.,75,76,-1,0,0.510347357376703,0.4211633040270706,2,3,5,NA,NA,Monmouth,missed,Nick Rutherford,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,373,4,3:39,219,219,Abdulai Bundu Defensive Rebound.,75,76,-1,1,0.5100626592043735,0.4210346681487292,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,374,4,3:15,195,195,Rich Kelly made Three Point Jumper.,78,76,2,24,0.7376121316042852,0.666054228984757,2,3,5,NA,NA,Quinnipiac,made,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,375,4,2:51,171,171,Nick Rutherford Turnover.,78,76,2,24,0.7532845465339612,0.6878710560488744,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,376,4,2:51,171,171,Cameron Young Steal.,78,76,2,0,0.7532845465339612,0.6878710560488744,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,377,4,2:31,151,151,Rich Kelly missed Layup.,78,76,2,20,0.767492434120436,0.7074774406048097,2,3,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,378,4,2:31,151,151,Deion Hammond Block.,78,76,2,0,0.767492434120436,0.7074774406048097,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,379,4,2:25,145,145,Rich Kelly Offensive Rebound.,78,76,2,6,0.7721121327838248,0.7137896765558924,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,380,4,2:23,143,143,Rich Kelly missed Layup.,78,76,2,2,0.7736984398358717,0.7159492320651124,2,3,5,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,381,4,2:10,130,130,Nick Rutherford Defensive Rebound.,78,76,2,13,0.7846490689850085,0.7307484574599653,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,382,4,2:09,129,129,Deion Hammond made Layup.,78,78,0,1,0.5729107093311618,0.5,2,3,5,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,383,4,2:09,129,129,Nick Rutherford missed Layup.,78,78,0,0,0.5729107093311618,0.5,2,3,5,NA,NA,Monmouth,missed,Nick Rutherford,NA,FALSE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,384,4,2:09,129,129,Deion Hammond Offensive Rebound.,78,78,0,0,0.5729107093311618,0.5,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,385,4,1:55,115,115,Foul on Deion Hammond.,78,78,0,14,0.5700855741624663,0.5,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,386,4,1:55,115,115,Jacob Rigoni made Free Throw.,79,78,1,0,0.6964881048460746,0.6337711721060051,2,3,5,NA,NA,Quinnipiac,made,Jacob Rigoni,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,387,4,1:55,115,115,Jacob Rigoni missed Free Throw.,79,78,1,0,0.6964881048460746,0.6337711721060051,2,3,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,388,4,1:55,115,115,Ray Salnave Defensive Rebound.,79,78,1,0,0.6964881048460746,0.6337711721060051,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,389,4,1:33,93,93,Marcus McClary made Layup. Assisted by Samuel Chaput.,79,80,-1,22,0.4076996335402816,0.3460120975681895,2,3,5,NA,NA,Monmouth,made,Marcus McClary,Samuel Chaput,FALSE,FALSE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,390,4,0:59,59,59,Jacob Rigoni missed Three Point Jumper.,79,80,-1,34,0.36113993805602757,0.3095762369625999,2,3,5,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,391,4,0:55,55,55,Abdulai Bundu Offensive Rebound.,79,80,-1,4,0.35526375828041595,0.30495728451128856,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,392,4,0:35,35,35,Rich Kelly made Three Point Jumper. Assisted by Cameron Young.,82,80,2,20,0.8897734222895577,0.8676649802955431,2,3,5,NA,NA,Quinnipiac,made,Rich Kelly,Cameron Young,TRUE,FALSE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,393,4,0:26,26,26,Monmouth  Timeout,82,80,2,9,0.8995442966546795,0.8801065737887072,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,394,4,0:11,11,11,Samuel Chaput missed Three Point Jumper.,82,80,2,15,0.915043314616854,0.8997001300516065,2,2,5,NA,NA,Monmouth,missed,Samuel Chaput,NA,TRUE,FALSE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,395,4,0:09,9,9,Monmouth Offensive Rebound.,82,80,2,2,0.9170461895921506,0.9022161211088555,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,396,4,0:09,9,9,Foul on Abdulai Bundu.,82,80,2,0,0.9170461895921506,0.9022161211088555,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,397,4,0:08,8,8,Ray Salnave made Free Throw.,82,81,1,1,0.7854727809118881,0.7536453754375314,2,2,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,398,4,0:08,8,8,Ray Salnave missed Free Throw.,82,81,1,0,0.7854727809118881,0.7536453754375314,2,2,5,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,399,4,0:08,8,8,Cameron Young made Free Throw.,83,81,2,0,0.9180392033228688,0.9034622098895941,2,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,400,4,0:08,8,8,Cameron Young Defensive Rebound.,82,81,1,0,0.7854727809118881,0.7536453754375314,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,401,4,0:08,8,8,Foul on Nick Rutherford.,82,81,1,0,0.7854727809118881,0.7536453754375314,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,402,4,0:08,8,8,Cameron Young made Free Throw.,84,81,3,0,0.971643947344218,0.9662502423978944,2,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,403,4,0:06,6,6,Foul on Aaron Robinson.,84,81,3,2,0.9727452822846772,0.9676220404903904,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,404,4,0:06,6,6,Ray Salnave made Free Throw.,84,82,2,0,0.9200069218611916,0.9059288265680565,2,2,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401085764,2019-01-10,Quinnipiac,Monmouth,405,4,0:06,6,6,Ray Salnave made Free Throw.,84,83,1,0,0.7875109041154655,0.7562915917287648,2,2,5,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,406,4,0:04,4,4,Foul on Marcus McClary.,84,83,1,2,0.7895537493251762,0.7589408788562625,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,407,4,0:04,4,4,Cameron Young missed Free Throw.,84,83,1,0,0.7895537493251762,0.7589408788562625,2,2,5,NA,NA,Quinnipiac,missed,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,408,4,0:04,4,4,Quinnipiac Deadball Team Rebound.,84,83,1,0,0.7895537493251762,0.7589408788562625,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,409,4,0:04,4,4,Cameron Young made Free Throw.,85,83,2,0,0.9219484132083822,0.9083592012774075,2,2,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,410,4,0:04,4,4,Monmouth  Timeout,85,83,2,0,0.9219484132083822,0.9083592012774075,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,411,4,0:01,1,1,Foul on Ray Salnave.,85,83,2,3,0.9248071020176628,0.9119316362211413,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,412,4,0:01,1,1,Ray Salnave Turnover.,85,83,2,0,0.9248071020176628,0.9119316362211413,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,413,4,0:00,0,0,Foul on Nick Rutherford.,89,89,0,1,1,1,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,414,4,0:00,0,0,Cameron Young made Free Throw.,89,89,0,0,1,1,2,1,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,415,4,0:00,0,0,Technical Foul on Monmouth.,89,89,0,0,1,1,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,416,4,0:00,0,0,Cameron Young made Free Throw.,89,89,0,0,1,1,2,1,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,417,4,0:00,0,0,Cameron Young made Free Throw.,89,89,0,0,1,1,2,1,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401085764,2019-01-10,Quinnipiac,Monmouth,418,4,0:00,0,0,Cameron Young made Free Throw.,89,89,0,0,1,1,2,1,5,NA,NA,Quinnipiac,made,Cameron Young,NA,FALSE,TRUE,Quinnipiac,NA
+401085764,2019-01-10,Quinnipiac,Monmouth,419,4,0:00,0,0,End of 2nd overtime,89,89,0,0,1,1,2,1,5,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA

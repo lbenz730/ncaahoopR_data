@@ -1,0 +1,364 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401082523,2019-01-21,Rutgers,Nebraska,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.20364550055952915,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,2,1,19:47,2387,2387,Isaiah Roby Turnover.,0,0,0,13,0.20393305761050962,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,3,1,19:47,2387,2387,Geo Baker Steal.,0,0,0,0,0.20393305761050962,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,4,1,19:31,2371,2371,Montez Mathis missed Layup.,0,0,0,16,0.20429357364191106,0.5,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,5,1,19:24,2364,2364,Montez Mathis Offensive Rebound.,0,0,0,7,0.20445363191763938,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,6,1,19:23,2363,2363,Montez Mathis missed Layup.,0,0,0,1,0.2044766147021382,0.5,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,7,1,19:23,2363,2363,Isaiah Roby Block.,0,0,0,0,0.2044766147021382,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,8,1,19:17,2357,2357,Montez Mathis Offensive Rebound.,0,0,0,6,0.20461513167054268,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,9,1,19:17,2357,2357,Montez Mathis made Layup.,2,0,2,0,0.23551094680929588,0.5449396457150346,4,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,10,1,19:17,2357,2357,Foul on Ron Harper Jr..,2,0,2,0,0.23551094680929588,0.5449396457150346,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,11,1,19:11,2351,2351,Thomas Allen missed Three Point Jumper.,2,0,2,6,0.23575943856961237,0.5450691340700113,4,4,-8.5,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,12,1,19:07,2347,2347,Ron Harper Jr. Defensive Rebound.,2,0,2,4,0.23592601110508296,0.5451557187753678,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,13,1,19:01,2341,2341,Shaq Carter Turnover.,2,0,2,6,0.23617723986115738,0.5452859761078498,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,14,1,19:01,2341,2341,Thomas Allen Steal.,2,0,2,0,0.23617723986115738,0.5452859761078498,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,15,1,18:46,2326,2326,Isaac Copeland Jr. missed Jumper.,2,0,2,15,0.23681252802526515,0.5456135467511029,4,4,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,16,1,18:43,2323,2323,Montez Mathis Defensive Rebound.,2,0,2,3,0.23694082670918926,0.5456793799013266,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,17,1,18:26,2306,2306,Montez Mathis Turnover.,2,0,2,17,0.23767570341437502,0.5460543386548282,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,18,1,18:26,2306,2306,Isaiah Roby Steal.,2,0,2,0,0.23767570341437502,0.5460543386548282,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,19,1,18:11,2291,2291,Foul on Shaquille Doorson.,2,0,2,15,0.23833526003530664,0.546387725577138,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,20,1,18:11,2291,2291,Isaiah Roby made Free Throw.,2,1,1,0,0.2218580563366165,0.5232439877846887,4,4,-8.5,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,21,1,18:11,2291,2291,Isaiah Roby missed Free Throw.,2,1,1,0,0.2218580563366165,0.5232439877846887,4,4,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,22,1,18:11,2291,2291,Shaq Carter Defensive Rebound.,2,1,1,0,0.2218580563366165,0.5232439877846887,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,23,1,17:57,2277,2277,Shaquille Doorson Turnover.,2,1,1,14,0.22234327198704082,0.5234015860734704,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,24,1,17:40,2260,2260,James Palmer Jr. missed Jumper.,2,1,1,17,0.22294296818797701,0.5235941644404918,4,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,25,1,17:38,2258,2258,Ron Harper Jr. Defensive Rebound.,2,1,1,2,0.22301428527144532,0.5236169023910233,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,26,1,17:34,2254,2254,Ron Harper Jr. made Layup.,4,1,3,4,0.25770725285249385,0.570566149006712,4,4,-8.5,NA,NA,Rutgers,made,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,27,1,17:10,2230,2230,James Palmer Jr. missed Layup.,4,1,3,24,0.2590919853418429,0.5713747082274137,4,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,28,1,17:07,2227,2227,Glynn Watson Jr. Offensive Rebound.,4,1,3,3,0.25926729487044936,0.5714761792196995,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,29,1,16:58,2218,2218,Thomas Allen missed Layup.,4,1,3,9,0.25979618269488536,0.5717810761948814,4,4,-8.5,NA,NA,Nebraska,missed,Thomas Allen,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,30,1,16:54,2214,2214,Isaiah Roby Offensive Rebound.,4,1,3,4,0.26003266918783113,0.5719168081371919,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,31,1,16:54,2214,2214,Isaiah Roby made Layup.,4,3,1,0,0.22462471218819421,0.5241209276605919,4,4,-8.5,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,32,1,16:36,2196,2196,Geo Baker Turnover.,4,3,1,18,0.22530679105969117,0.5243288962666488,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,33,1,16:36,2196,2196,Glynn Watson Jr. Steal.,4,3,1,0,0.22530679105969117,0.5243288962666488,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,34,1,16:31,2191,2191,Glynn Watson Jr. missed Layup.,4,3,1,5,0.22549870008245357,0.5243868145672748,4,4,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,35,1,16:27,2187,2187,Ron Harper Jr. Defensive Rebound.,4,3,1,4,0.22565299770521427,0.5244331916623864,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,36,1,16:24,2184,2184,Montez Mathis missed Layup.,4,3,1,3,0.22576917182118983,0.5244679981432226,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,37,1,16:21,2181,2181,Shaq Carter Offensive Rebound.,4,3,1,3,0.22588573349334445,0.5245028241138812,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,38,1,16:16,2176,2176,Ron Harper Jr. missed Three Point Jumper.,4,3,1,5,0.2260808668083844,0.524560908778585,4,4,-8.5,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,39,1,16:13,2173,2173,Isaac Copeland Jr. Defensive Rebound.,4,3,1,3,0.22619846669323246,0.52459578324734,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,40,1,16:00,2160,2160,Isaiah Roby made Dunk. Assisted by Glynn Watson Jr..,4,5,-1,13,0.19386214911719837,0.4752528051079688,4,4,-8.5,NA,NA,Nebraska,made,Isaiah Roby,Glynn Watson Jr,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,41,1,15:37,2137,2137,Montez Mathis missed Layup.,4,5,-1,23,0.19435012436010357,0.4749833070103019,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,42,1,15:37,2137,2137,Isaac Copeland Jr. Block.,4,5,-1,0,0.19435012436010357,0.4749833070103019,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,43,1,15:33,2133,2133,Thomas Allen Defensive Rebound.,4,5,-1,4,0.19443659876390879,0.47493621277391146,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,44,1,15:32,2132,2132,James Palmer Jr. made Layup. Assisted by Thomas Allen.,4,7,-3,1,0.16491954940366813,0.42527405470464896,4,4,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,Thomas Allen,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,45,1,15:10,2110,2110,Geo Baker missed Jumper.,4,7,-3,22,0.1650576526570183,0.42450856826192424,4,4,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,46,1,15:06,2106,2106,Isaac Copeland Jr. Defensive Rebound.,4,7,-3,4,0.16508373865698164,0.4243687153462514,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,47,1,15:02,2102,2102,James Palmer Jr. made Three Point Jumper. Assisted by Glynn Watson Jr..,4,10,-6,4,0.12718007518322577,0.3518593725566787,4,4,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,Glynn Watson Jr,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,48,1,14:59,2099,2099,Rutgers  Timeout,4,10,-6,3,0.12714835390379606,0.3516629604614944,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,49,1,14:59,2099,2099,Official TV Timeout,4,10,-6,0,0.12714835390379606,0.3516629604614944,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,50,1,14:32,2072,2072,Eugene Omoruyi missed Three Point Jumper.,4,10,-6,27,0.12686603609112482,0.3498862363581006,3,4,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,TRUE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,51,1,14:29,2069,2069,Myles Johnson Offensive Rebound.,4,10,-6,3,0.12683498690249986,0.3496877791331088,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,52,1,14:29,2069,2069,Foul on Nana Akenten.,4,10,-6,0,0.12683498690249986,0.3496877791331088,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,53,1,14:29,2069,2069,Peter Kiss made Free Throw.,5,10,-5,0,0.13873511366710856,0.3735516824011146,3,4,-8.5,NA,NA,Rutgers,made,Peter Kiss,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,54,1,14:29,2069,2069,Peter Kiss made Free Throw.,6,10,-4,0,0.1515579574959286,0.39804732426517914,3,4,-8.5,NA,NA,Rutgers,made,Peter Kiss,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,55,1,14:29,2069,2069,Peter Kiss made Free Throw.,7,10,-3,0,0.16533845592879187,0.42306447075041204,3,4,-8.5,NA,NA,Rutgers,made,Peter Kiss,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,56,1,14:07,2047,2047,Isaiah Roby Turnover.,7,10,-3,22,0.1655006918079495,0.42227923391959604,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,57,1,13:48,2028,2028,Geo Baker made Three Point Jumper. Assisted by Peter Kiss.,10,10,0,19,0.21406925763570933,0.5,3,4,-8.5,NA,NA,Rutgers,made,Geo Baker,Peter Kiss,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,58,1,13:36,2016,2016,Glynn Watson Jr. missed Jumper.,10,10,0,12,0.21448558616476862,0.5,3,4,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,59,1,13:33,2013,2013,Myles Johnson Defensive Rebound.,10,10,0,3,0.21459041796975864,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,60,1,13:23,2003,2003,Foul on Isaiah Roby.,10,10,0,10,0.21494201220105896,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,61,1,13:23,2003,2003,Eugene Omoruyi made Free Throw.,11,10,1,0,0.23348531646019205,0.5266384132347128,3,4,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,62,1,13:23,2003,2003,Eugene Omoruyi made Free Throw.,12,10,2,0,0.25311259319522333,0.5531260324636815,3,4,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,63,1,13:01,1981,1981,James Palmer Jr. missed Three Point Jumper.,12,10,2,22,0.2544124371418949,0.5536741289043107,3,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,64,1,12:59,1979,1979,Eugene Omoruyi Defensive Rebound.,12,10,2,2,0.2545318371575231,0.5537242755029509,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,65,1,12:49,1969,1969,Eugene Omoruyi missed Jumper.,12,10,2,10,0.2551319254063058,0.5539758302751209,3,4,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,66,1,12:49,1969,1969,Peter Kiss Offensive Rebound.,12,10,2,0,0.2551319254063058,0.5539758302751209,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,67,1,12:49,1969,1969,Foul on Thomas Allen.,12,10,2,0,0.2551319254063058,0.5539758302751209,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,68,1,12:43,1963,1963,Peter Kiss missed Three Point Jumper.,12,10,2,6,0.2554944519578376,0.5541274301505975,3,4,-8.5,NA,NA,Rutgers,missed,Peter Kiss,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,69,1,12:43,1963,1963,Thomas Allen Defensive Rebound.,12,10,2,0,0.2554944519578376,0.5541274301505975,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,70,1,12:43,1963,1963,Foul on Montez Mathis.,12,10,2,0,0.2554944519578376,0.5541274301505975,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,71,1,12:32,1952,1952,Isaac Copeland Jr. made Jumper.,12,12,0,11,0.21678604263062806,0.5,3,4,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,72,1,12:13,1933,1933,Myles Johnson Turnover.,12,12,0,19,0.2174944352124352,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,73,1,12:00,1920,1920,Isaac Copeland Jr. missed Jumper.,12,12,0,13,0.21798640650907986,0.5,3,4,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,74,1,11:58,1918,1918,Myles Johnson Defensive Rebound.,12,12,0,2,0.21806276391752732,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,75,1,11:44,1904,1904,Myles Johnson made Layup.,14,12,2,14,0.259158686861312,0.5556397560516335,3,4,-8.5,NA,NA,Rutgers,made,Myles Johnson,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,76,1,11:19,1879,1879,Thomas Allen missed Layup.,14,12,2,25,0.26076636721880203,0.5562822804099775,3,4,-8.5,NA,NA,Nebraska,missed,Thomas Allen,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,77,1,11:16,1876,1876,Myles Johnson Defensive Rebound.,14,12,2,3,0.260961520504529,0.5563594356283966,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,78,1,11:11,1871,1871,Caleb McConnell Turnover.,14,12,2,5,0.2612878443329463,0.5564880863658522,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,79,1,11:11,1871,1871,Thomas Allen Steal.,14,12,2,0,0.2612878443329463,0.5564880863658522,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,80,1,11:03,1863,1863,Foul on Thomas Allen.,14,12,2,8,0.2618127473484653,0.5566941227763208,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,81,1,11:03,1863,1863,Thomas Allen Turnover.,14,12,2,0,0.2618127473484653,0.5566941227763208,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,82,1,10:46,1846,1846,Peter Kiss Turnover.,14,12,2,17,0.2629396019878983,0.5571330741937699,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,83,1,10:46,1846,1846,Nana Akenten Steal.,14,12,2,0,0.2629396019878983,0.5571330741937699,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,84,1,10:40,1840,1840,Nana Akenten made Layup.,14,14,0,6,0.22117369320195546,0.5,3,4,-8.5,NA,NA,Nebraska,made,Nana Akenten,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,85,1,10:24,1824,1824,Peter Kiss missed Three Point Jumper.,14,14,0,16,0.2218417853028943,0.5,3,4,-8.5,NA,NA,Rutgers,missed,Peter Kiss,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,86,1,10:24,1824,1824,Nebraska Defensive Rebound.,14,14,0,0,0.2218417853028943,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,87,1,10:08,1808,1808,James Palmer Jr. missed Layup.,14,14,0,16,0.22251924322221367,0.5,3,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,88,1,10:08,1808,1808,Caleb McConnell Block.,14,14,0,0,0.22251924322221367,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,89,1,10:01,1801,1801,Shaq Carter Defensive Rebound.,14,14,0,7,0.22281848215475153,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,90,1,9:49,1789,1789,Foul on Shaq Carter.,14,14,0,12,0.2233353804526185,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,91,1,9:49,1789,1789,Shaq Carter Turnover.,14,14,0,0,0.2233353804526185,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,92,1,9:32,1772,1772,Foul on Myles Johnson.,14,14,0,17,0.22407585382523357,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,93,1,9:32,1772,1772,Glynn Watson Jr. made Free Throw.,14,15,-1,0,0.20411324271557948,0.47035684852461485,3,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,94,1,9:32,1772,1772,Glynn Watson Jr. made Free Throw.,14,16,-2,0,0.18550389275155438,0.4409213505687559,3,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,95,1,9:01,1741,1741,Issa Thiam missed Jumper.,14,16,-2,31,0.18617978682421288,0.440079339223593,3,4,-8.5,NA,NA,Rutgers,missed,Issa Thiam,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,96,1,8:56,1736,1736,Nana Akenten Defensive Rebound.,14,16,-2,5,0.18628957367487475,0.4399415351753939,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,97,1,8:47,1727,1727,Isaac Copeland Jr. made Three Point Jumper. Assisted by James Palmer Jr..,14,19,-5,9,0.13745209311948722,0.3529651300992073,3,4,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,James Palmer Jr,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,98,1,8:28,1708,1708,Caleb McConnell made Jumper.,16,19,-3,19,0.16902863985373404,0.40929769234037844,3,4,-8.5,NA,NA,Rutgers,made,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,99,1,8:12,1692,1692,Glynn Watson Jr. missed Jumper.,16,19,-3,16,0.16922440811682887,0.4086241278038292,3,4,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,100,1,8:12,1692,1692,Shaquille Doorson Defensive Rebound.,16,19,-3,0,0.16922440811682887,0.4086241278038292,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,101,1,8:12,1692,1692,Foul on Tanner Borchardt.,16,19,-3,0,0.16922440811682887,0.4086241278038292,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,102,1,7:49,1669,1669,Eugene Omoruyi missed Jumper.,16,19,-3,23,0.16952479277655833,0.40766024453565963,3,4,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,103,1,7:46,1666,1666,Amir Harris Defensive Rebound.,16,19,-3,3,0.1695675225584343,0.4075368029248485,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,104,1,7:28,1648,1648,Isaac Copeland Jr. made Jumper. Assisted by Glynn Watson Jr..,16,21,-5,18,0.13726108848994262,0.34781721170653174,3,4,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,Glynn Watson Jr,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,105,1,7:20,1640,1640,Montez Mathis missed Layup.,16,21,-5,8,0.13726373829154245,0.34731432967896597,3,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,106,1,7:17,1637,1637,James Palmer Jr. Defensive Rebound.,16,21,-5,3,0.13726578443170998,0.3471266316474448,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,107,1,7:14,1634,1634,Amir Harris made Layup. Assisted by James Palmer Jr..,16,23,-7,3,0.1099576474753358,0.29203356147935633,3,4,-8.5,NA,NA,Nebraska,made,Amir Harris,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,108,1,7:09,1629,1629,Eugene Omoruyi Turnover.,16,23,-7,5,0.10990834864791935,0.29163600289884334,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,109,1,7:09,1629,1629,James Palmer Jr. Steal.,16,23,-7,0,0.10990834864791935,0.29163600289884334,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,110,1,6:47,1607,1607,James Palmer Jr. Turnover.,16,23,-7,22,0.10970439706894863,0.2899000792498596,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,111,1,6:47,1607,1607,Issa Thiam Steal.,16,23,-7,0,0.10970439706894863,0.2899000792498596,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,112,1,6:47,1607,1607,Foul on James Palmer Jr..,16,23,-7,0,0.10970439706894863,0.2899000792498596,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,113,1,6:47,1607,1607,Official TV Timeout,16,23,-7,0,0.10970439706894863,0.2899000792498596,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,114,1,6:19,1579,1579,Geo Baker Turnover.,16,23,-7,28,0.10946265349072382,0.2877016825631913,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,115,1,6:19,1579,1579,Glynn Watson Jr. Steal.,16,23,-7,0,0.10946265349072382,0.2877016825631913,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,116,1,6:15,1575,1575,James Palmer Jr. made Dunk.,16,25,-9,4,0.08658602386119638,0.237294570358012,3,4,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,117,1,5:48,1548,1548,Montez Mathis made Layup.,18,25,-7,27,0.10919398065311661,0.28524322865164164,3,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,118,1,5:34,1534,1534,Glynn Watson Jr. Turnover.,18,25,-7,14,0.10906478989449789,0.28411265091933663,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,119,1,5:34,1534,1534,Eugene Omoruyi Steal.,18,25,-7,0,0.10906478989449789,0.28411265091933663,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,120,1,5:34,1534,1534,Issa Thiam Turnover.,18,25,-7,0,0.10906478989449789,0.28411265091933663,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,121,1,5:25,1525,1525,Isaac Copeland Jr. made Three Point Jumper. Assisted by Glynn Watson Jr..,18,28,-10,9,0.07593900109369406,0.20992246160373765,3,4,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,Glynn Watson Jr,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,122,1,5:03,1503,1503,Peter Kiss Turnover.,18,28,-10,22,0.0754986491419799,0.2077807675740513,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,123,1,5:03,1503,1503,Isaac Copeland Jr. Steal.,18,28,-10,0,0.0754986491419799,0.2077807675740513,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,124,1,5:03,1503,1503,Foul on Eugene Omoruyi.,18,28,-10,0,0.0754986491419799,0.2077807675740513,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,125,1,4:50,1490,1490,Glynn Watson Jr. made Three Point Jumper.,18,31,-13,13,0.05151577126513453,0.14803019958087693,3,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,126,1,4:35,1475,1475,Eugene Omoruyi made Jumper.,20,31,-11,15,0.06601960978224608,0.1837411268144809,3,4,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,127,1,4:35,1475,1475,Foul on Isaac Copeland Jr..,20,31,-11,0,0.06601960978224608,0.1837411268144809,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,128,1,4:35,1475,1475,Eugene Omoruyi made Free Throw.,21,31,-10,0,0.07488671788675628,0.20494987423097522,3,4,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,129,1,4:12,1452,1452,Isaiah Roby Turnover.,21,31,-10,23,0.07432866491936221,0.2025138720540789,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,130,1,3:52,1432,1432,Myles Johnson made Dunk.,23,31,-8,20,0.09513895726324037,0.24840747307822592,3,4,-8.5,NA,NA,Rutgers,made,Myles Johnson,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,131,1,3:48,1428,1428,Glynn Watson Jr. Turnover.,23,31,-8,4,0.09506604835106197,0.24802123129218703,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,132,1,3:48,1428,1428,Official TV Timeout,23,31,-8,0,0.09506604835106197,0.24802123129218703,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,133,1,3:33,1413,1413,Ron Harper Jr. made Three Point Jumper. Assisted by Myles Johnson.,26,31,-5,15,0.13734771667964374,0.33225117170321916,3,4,-8.5,NA,NA,Rutgers,made,Ron Harper Jr.,Myles Johnson,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,134,1,3:15,1395,1395,Nana Akenten missed Jumper.,26,31,-5,18,0.13734875394935317,0.3310084811092815,3,4,-8.5,NA,NA,Nebraska,missed,Nana Akenten,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,135,1,3:12,1392,1392,Ron Harper Jr. Defensive Rebound.,26,31,-5,3,0.13735083592140784,0.3308036644257961,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,136,1,3:00,1380,1380,Eugene Omoruyi missed Layup.,26,31,-5,12,0.13736326856376385,0.32998879271765136,3,4,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,137,1,2:57,1377,1377,Glynn Watson Jr. Defensive Rebound.,26,31,-5,3,0.13736721887204167,0.32978587848669716,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,138,1,2:53,1373,1373,James Palmer Jr. missed Three Point Jumper.,26,31,-5,4,0.13737288907110448,0.32951563290436175,3,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,139,1,2:50,1370,1370,Ron Harper Jr. Defensive Rebound.,26,31,-5,3,0.1373773963400282,0.32931310261251817,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,140,1,2:45,1365,1365,Montez Mathis made Layup.,28,31,-3,5,0.1747903479829056,0.39467736687218563,3,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,141,1,2:45,1365,1365,Foul on Amir Harris.,28,31,-3,0,0.1747903479829056,0.39467736687218563,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,142,1,2:45,1365,1365,Montez Mathis made Free Throw.,29,31,-2,0,0.196315153721456,0.42919687345761187,3,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,143,1,2:27,1347,1347,Glynn Watson Jr. Turnover.,29,31,-2,18,0.1968780428507277,0.4286560225188059,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,144,1,2:27,1347,1347,Montez Mathis Steal.,29,31,-2,0,0.1968780428507277,0.4286560225188059,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,145,1,2:16,1336,1336,Shaq Carter made Dunk. Assisted by Myles Johnson.,31,31,0,11,0.24693293293341415,0.5,3,4,-8.5,NA,NA,Rutgers,made,Shaq Carter,Myles Johnson,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,146,1,2:01,1321,1321,Isaac Copeland Jr. Turnover.,31,31,0,15,0.2478375430687159,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,147,1,2:01,1321,1321,Ron Harper Jr. Steal.,31,31,0,0,0.2478375430687159,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,148,1,1:56,1316,1316,Ron Harper Jr. missed Layup.,31,31,0,5,0.24814039465063323,0.5,3,4,-8.5,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,149,1,1:56,1316,1316,Montez Mathis Offensive Rebound.,31,31,0,0,0.24814039465063323,0.5,3,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,150,1,1:56,1316,1316,Montez Mathis made Layup.,33,31,2,0,0.3063297912408531,0.5722949162054078,3,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,151,1,1:54,1314,1314,Nebraska  Timeout,33,31,2,2,0.3065224320489726,0.5723576526907546,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,152,1,1:29,1289,1289,James Palmer Jr. missed Layup.,33,31,2,25,0.3089583126099604,0.5731622952208199,3,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,153,1,1:29,1289,1289,Nebraska Offensive Rebound.,33,31,2,0,0.3089583126099604,0.5731622952208199,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,154,1,1:23,1283,1283,Isaac Copeland Jr. missed Three Point Jumper.,33,31,2,6,0.30955112812863694,0.5733620218044587,3,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,TRUE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,155,1,1:17,1277,1277,Isaiah Roby Offensive Rebound.,33,31,2,6,0.31014734848158787,0.5735647334081794,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,156,1,1:17,1277,1277,James Palmer Jr. missed Layup.,33,31,2,0,0.31014734848158787,0.5735647334081794,3,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,157,1,1:02,1262,1262,Isaac Copeland Jr. Offensive Rebound.,33,31,2,15,0.3116535329245799,0.5740859282471864,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,158,1,1:02,1262,1262,Isaac Copeland Jr. made Layup.,33,33,0,0,0.25144099781010326,0.5,3,3,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,159,1,0:56,1256,1256,Geo Baker Turnover.,33,33,0,6,0.25180988382529557,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,160,1,0:56,1256,1256,Isaiah Roby Steal.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,161,1,0:56,1256,1256,Foul on Myles Johnson.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,162,1,0:56,1256,1256,Isaiah Roby missed Free Throw.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,163,1,0:56,1256,1256,Eugene Omoruyi Defensive Rebound.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,164,1,0:56,1256,1256,Ron Harper Jr. missed Jumper.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,165,1,0:56,1256,1256,Glynn Watson Jr. Defensive Rebound.,33,33,0,0,0.25180988382529557,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,166,1,0:13,1213,1213,Isaac Copeland Jr. made Jumper.,33,35,-2,43,0.20081120641170597,0.42403304984617596,3,3,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,167,1,0:04,1204,1204,Ron Harper Jr. missed Three Point Jumper.,33,35,-2,9,0.20103038445023746,0.4236562704258714,3,3,-8.5,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,168,1,0:04,1204,1204,James Palmer Jr. Defensive Rebound.,33,35,-2,0,0.20103038445023746,0.4236562704258714,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,169,1,0:01,1201,1201,James Palmer Jr. made Three Point Jumper.,33,38,-5,3,0.13683307610229492,0.31632175920889233,3,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,170,1,0:00,1200,1200,End of 1st half,33,38,-5,1,0.13682116100881592,0.3162303721963287,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,NA
+401082523,2019-01-21,Rutgers,Nebraska,171,2,20:00,1200,1200,PLAY,33,38,-5,0,0.13682116100881592,0.3162303721963287,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,172,2,19:55,1195,1195,Montez Mathis made Layup.,35,38,-3,5,0.17753451251104804,0.3860490794886083,4,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,173,2,19:26,1166,1166,Glynn Watson Jr. missed Three Point Jumper.,35,38,-3,29,0.17784603937688234,0.3843641800971132,4,4,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,174,2,19:22,1162,1162,Ron Harper Jr. Defensive Rebound.,35,38,-3,4,0.1778908050295957,0.3841365795390631,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,175,2,19:20,1160,1160,Montez Mathis missed Layup.,35,38,-3,2,0.17791329078324686,0.38402307915424205,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,176,2,19:17,1157,1157,Isaiah Roby Defensive Rebound.,35,38,-3,3,0.17794712862866896,0.3838531596911178,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,177,2,19:17,1157,1157,Foul on Ron Harper Jr..,35,38,-3,0,0.17794712862866896,0.3838531596911178,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,178,2,19:17,1157,1157,James Palmer Jr. missed Free Throw.,35,38,-3,0,0.17794712862866896,0.3838531596911178,4,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,179,2,19:17,1157,1157,Nebraska Deadball Team Rebound.,35,38,-3,0,0.17794712862866896,0.3838531596911178,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,180,2,19:17,1157,1157,James Palmer Jr. made Free Throw.,35,39,-4,0,0.156031141965498,0.3472913120536832,4,4,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,181,2,18:48,1128,1128,Shaquille Doorson Turnover.,35,39,-4,29,0.15602418458439296,0.34520666529577165,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,182,2,18:48,1128,1128,Isaiah Roby Steal.,35,39,-4,0,0.15602418458439296,0.34520666529577165,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,183,2,18:43,1123,1123,Thomas Allen missed Layup.,35,39,-4,5,0.15602241030391084,0.34484731328243257,4,4,-8.5,NA,NA,Nebraska,missed,Thomas Allen,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,184,2,18:43,1123,1123,Shaquille Doorson Block.,35,39,-4,0,0.15602241030391084,0.34484731328243257,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,185,2,18:37,1117,1117,Ron Harper Jr. Defensive Rebound.,35,39,-4,6,0.15601955652661084,0.34441503439179944,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,186,2,18:37,1117,1117,Foul on Isaac Copeland Jr..,35,39,-4,0,0.15601955652661084,0.34441503439179944,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,187,2,18:30,1110,1110,Geo Baker missed Three Point Jumper.,35,39,-4,7,0.15601491687436664,0.3439085831984986,4,4,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,188,2,18:27,1107,1107,Isaiah Roby Defensive Rebound.,35,39,-4,3,0.1560124053433854,0.3436906361958983,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,189,2,18:14,1094,1094,Foul on Ron Harper Jr..,35,39,-4,13,0.155996986827495,0.34273803924661544,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,190,2,18:06,1086,1086,Glynn Watson Jr. made Three Point Jumper.,35,42,-7,8,0.10167575740345812,0.24157329659678506,4,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,191,2,18:06,1086,1086,Foul on Geo Baker.,35,42,-7,0,0.10167575740345812,0.24157329659678506,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,192,2,18:06,1086,1086,Glynn Watson Jr. made Free Throw.,35,43,-8,0,0.08768926161546392,0.21290343072252277,4,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,193,2,17:40,1060,1060,Geo Baker made Three Point Jumper.,38,43,-5,26,0.13532666826108422,0.30401036339026355,4,4,-8.5,NA,NA,Rutgers,made,Geo Baker,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,194,2,17:28,1048,1048,Thomas Allen Turnover.,38,43,-5,12,0.13515253294887958,0.30288107302980116,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,195,2,17:28,1048,1048,Geo Baker Steal.,38,43,-5,0,0.13515253294887958,0.30288107302980116,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,196,2,17:21,1041,1041,Geo Baker made Layup.,40,43,-3,7,0.17911400962863064,0.37705013472418697,4,4,-8.5,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,197,2,17:07,1027,1027,Foul on Myles Johnson.,40,43,-3,14,0.17920091134191654,0.37612113242209355,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,198,2,17:04,1024,1024,Technical Foul on Isaac Copeland Jr..,40,43,-3,3,0.17921702975292836,0.3759168913516254,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,199,2,17:04,1024,1024,Technical Foul on Caleb McConnell.,40,43,-3,0,0.17921702975292836,0.3759168913516254,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,200,2,16:57,1017,1017,Glynn Watson Jr. Turnover.,40,43,-3,7,0.17925095730796264,0.37543270900927417,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,201,2,16:57,1017,1017,Geo Baker Steal.,40,43,-3,0,0.17925095730796264,0.37543270900927417,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,202,2,16:57,1017,1017,Foul on Tanner Borchardt.,40,43,-3,0,0.17925095730796264,0.37543270900927417,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,203,2,16:42,1002,1002,Foul on Isaiah Roby.,40,43,-3,15,0.17930509352545454,0.374356685757639,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,204,2,16:37,997,997,Geo Baker missed Layup.,40,43,-3,5,0.1793171181923544,0.37398551027969906,4,4,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,205,2,16:37,997,997,Isaiah Roby Block.,40,43,-3,0,0.1793171181923544,0.37398551027969906,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,206,2,16:33,993,993,Glynn Watson Jr. Defensive Rebound.,40,43,-3,4,0.17932444428508787,0.3736838024659837,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,207,2,16:33,993,993,James Palmer Jr. missed Jumper.,40,43,-3,0,0.17932444428508787,0.3736838024659837,4,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,208,2,16:32,992,992,Rutgers Defensive Rebound.,40,43,-3,1,0.17932594995393752,0.3736076979620096,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,209,2,16:18,978,978,Montez Mathis made Layup.,42,43,-1,14,0.23626995790067828,0.4566546651542221,4,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,210,2,16:18,978,978,Foul on Thomas Allen.,42,43,-1,0,0.23626995790067828,0.4566546651542221,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,211,2,16:18,978,978,Montez Mathis made Free Throw.,43,43,0,0,0.26905513850974483,0.5,4,4,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,212,2,15:47,947,947,Thomas Allen made Jumper.,43,45,-2,31,0.20690371232341417,0.41227082732977327,4,4,-8.5,NA,NA,Nebraska,made,Thomas Allen,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,213,2,15:27,927,927,Geo Baker missed Layup.,43,45,-2,20,0.20726699471642612,0.41130864900301917,4,4,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,214,2,15:27,927,927,Eugene Omoruyi Offensive Rebound.,43,45,-2,0,0.20726699471642612,0.41130864900301917,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,215,2,15:24,924,924,Eugene Omoruyi made Layup.,45,45,0,3,0.2724912734738457,0.5,4,4,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,216,2,15:00,900,900,Isaiah Roby missed Layup.,45,45,0,24,0.2738854280494691,0.5,4,4,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,217,2,15:00,900,900,Isaiah Roby Offensive Rebound.,45,45,0,0,0.2738854280494691,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,218,2,15:00,900,900,Isaiah Roby missed Layup.,45,45,0,0,0.2738854280494691,0.5,4,4,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,219,2,15:00,900,900,Eugene Omoruyi Defensive Rebound.,45,45,0,0,0.2738854280494691,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,220,2,15:00,900,900,Foul on Isaiah Roby.,45,45,0,0,0.2738854280494691,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,221,2,15:00,900,900,Official TV Timeout,45,45,0,0,0.2738854280494691,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,222,2,14:41,881,881,Foul on Nana Akenten.,45,45,0,19,0.2749602287165991,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,223,2,14:41,881,881,Caleb McConnell missed Free Throw.,45,45,0,0,0.2749602287165991,0.5,4,4,-8.5,NA,NA,Rutgers,missed,Caleb McConnell,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,224,2,14:41,881,881,Isaac Copeland Jr. Defensive Rebound.,45,45,0,0,0.2749602287165991,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,225,2,14:26,866,866,Glynn Watson Jr. made Layup.,45,47,-2,15,0.20836325508511927,0.4086762016868992,4,4,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,226,2,13:57,837,837,Isaac Copeland Jr. Defensive Rebound.,45,47,-2,29,0.2088470814260713,0.4073981744852742,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,227,2,13:50,830,830,Glynn Watson Jr. missed Three Point Jumper.,45,47,-2,7,0.2089575917660423,0.4070713337724004,4,4,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,228,2,13:47,827,827,Montez Mathis Defensive Rebound.,45,47,-2,3,0.20900407784794792,0.4069283214456656,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,229,2,13:34,814,814,Eugene Omoruyi missed Three Point Jumper.,45,47,-2,13,0.2091989211756514,0.40628516070977055,4,4,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,TRUE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,230,2,13:30,810,810,Myles Johnson Offensive Rebound.,45,47,-2,4,0.20925656670907422,0.4060787295133924,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,231,2,13:29,809,809,Montez Mathis missed Three Point Jumper.,45,47,-2,1,0.2092707985972641,0.4060264364334152,4,4,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,232,2,13:27,807,807,Glynn Watson Jr. Defensive Rebound.,45,47,-2,2,0.20929904234861108,0.40592100105495804,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,233,2,13:07,787,787,Nana Akenten missed Three Point Jumper.,45,47,-2,20,0.20956422813020248,0.4047979042920238,4,4,-8.5,NA,NA,Nebraska,missed,Nana Akenten,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,234,2,13:04,784,784,Caleb McConnell Defensive Rebound.,45,47,-2,3,0.20960111018562658,0.4046175591026079,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,235,2,12:49,769,769,Geo Baker Turnover.,45,47,-2,15,0.2097730557222786,0.40366281594822007,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,236,2,12:49,769,769,Nana Akenten Steal.,45,47,-2,0,0.2097730557222786,0.40366281594822007,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,237,2,12:34,754,754,Foul on Ron Harper Jr..,45,47,-2,15,0.20992258582072237,0.4026103025982569,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,238,2,12:29,749,749,Foul on Peter Kiss.,45,47,-2,5,0.2099670612868991,0.4022355283751409,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,239,2,12:29,749,749,James Palmer Jr. missed Free Throw.,45,47,-2,0,0.2099670612868991,0.4022355283751409,4,4,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,240,2,12:27,747,747,Myles Johnson Defensive Rebound.,45,47,-2,2,0.20998406595134086,0.4020820738516563,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,241,2,12:21,741,741,Geo Baker made Layup.,47,47,0,6,0.2837438616663327,0.5,4,4,-8.5,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,242,2,11:56,716,716,Isaac Copeland Jr. Turnover.,47,47,0,25,0.28573364291985204,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,243,2,11:56,716,716,Myles Johnson Steal.,47,47,0,0,0.28573364291985204,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,244,2,11:50,710,710,Geo Baker missed Layup.,47,47,0,6,0.2862023386738324,0.5,4,4,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,245,2,11:50,710,710,Isaac Copeland Jr. Block.,47,47,0,0,0.2862023386738324,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,246,2,11:46,706,706,Issa Thiam Offensive Rebound.,47,47,0,4,0.28651200360967805,0.5,4,4,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,247,2,11:45,705,705,Geo Baker made Three Point Jumper. Assisted by Issa Thiam.,50,47,3,1,0.4265881967826192,0.6493590513653271,4,4,-8.5,NA,NA,Rutgers,made,Geo Baker,Issa Thiam,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,248,2,11:44,704,704,Nebraska  Timeout,50,47,3,1,0.426790914989627,0.6494620030177564,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,249,2,11:44,704,704,Official TV Timeout,50,47,3,0,0.426790914989627,0.6494620030177564,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,250,2,11:15,675,675,Isaac Copeland Jr. made Jumper. Assisted by James Palmer Jr..,50,49,1,29,0.3337528170044612,0.5522193472608232,4,3,-8.5,NA,NA,Nebraska,made,Isaac Copeland Jr.,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,251,2,10:51,651,651,Geo Baker made Jumper.,52,49,3,24,0.436958235786984,0.6544275871606349,4,3,-8.5,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,252,2,10:27,627,627,Foul on Peter Kiss.,52,49,3,24,0.44169282241534785,0.6567201730620184,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,253,2,10:27,627,627,Official TV Timeout,52,49,3,0,0.44169282241534785,0.6567201730620184,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,254,2,10:27,627,627,James Palmer Jr. missed Free Throw.,52,49,3,0,0.44169282241534785,0.6567201730620184,4,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,255,2,10:27,627,627,Nebraska Deadball Team Rebound.,52,49,3,0,0.44169282241534785,0.6567201730620184,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,256,2,10:27,627,627,James Palmer Jr. made Free Throw.,52,50,2,0,0.3892342861700404,0.6064644528335327,4,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,257,2,10:06,606,606,Issa Thiam missed Jumper.,52,50,2,21,0.3928135356799579,0.6080590826388574,4,3,-8.5,NA,NA,Rutgers,missed,Issa Thiam,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,258,2,10:03,603,603,Isaiah Roby Defensive Rebound.,52,50,2,3,0.39335588977987224,0.6083066085062183,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,259,2,9:57,597,597,Thomas Allen made Three Point Jumper. Assisted by Isaiah Roby.,52,53,-1,6,0.25122367239457355,0.44493034901802614,4,3,-8.5,NA,NA,Nebraska,made,Thomas Allen,Isaiah Roby,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,260,2,9:42,582,582,Shaq Carter made Layup. Assisted by Myles Johnson.,54,53,1,15,0.3451782228119544,0.5557944543470811,4,3,-8.5,NA,NA,Rutgers,made,Shaq Carter,Myles Johnson,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,261,2,9:24,564,564,Isaac Copeland Jr. missed Three Point Jumper.,54,53,1,18,0.34798848732048826,0.5567990353076734,4,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,262,2,9:24,564,564,Geo Baker Defensive Rebound.,54,53,1,0,0.34798848732048826,0.5567990353076734,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,263,2,8:56,536,536,Montez Mathis made Layup. Assisted by Eugene Omoruyi.,56,53,3,28,0.4660883050471564,0.6695749365125218,4,3,-8.5,NA,NA,Rutgers,made,Montez Mathis,Eugene Omoruyi,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,264,2,8:20,500,500,Isaiah Roby missed Layup.,56,53,3,36,0.4760017156182361,0.6745676236144451,4,3,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,265,2,8:20,500,500,Myles Johnson Block.,56,53,3,0,0.4760017156182361,0.6745676236144451,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,266,2,8:16,496,496,Myles Johnson Defensive Rebound.,56,53,3,4,0.47707778085809166,0.6750967438737969,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,267,2,8:07,487,487,Isaiah Roby Defensive Rebound.,56,53,3,9,0.47954867269129137,0.6763178198381369,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,268,2,8:07,487,487,Foul on Myles Johnson.,56,53,3,0,0.47954867269129137,0.6763178198381369,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,269,2,8:07,487,487,Isaiah Roby missed Free Throw.,56,53,3,0,0.47954867269129137,0.6763178198381369,4,3,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,270,2,8:07,487,487,Montez Mathis Defensive Rebound.,56,53,3,0,0.47954867269129137,0.6763178198381369,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,271,2,8:02,482,482,Foul on Isaiah Roby.,56,53,3,5,0.4809662102433709,0.6770251824916651,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,272,2,8:02,482,482,Montez Mathis made Free Throw.,57,53,4,0,0.5425318189132317,0.7284643964487535,4,3,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,273,2,8:02,482,482,Montez Mathis made Free Throw.,58,53,5,0,0.6028251975498005,0.7744405008846474,4,3,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,274,2,7:41,461,461,James Palmer Jr. missed Three Point Jumper.,58,53,5,21,0.6115114656406349,0.7788918477992298,4,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,275,2,7:38,458,458,Geo Baker Defensive Rebound.,58,53,5,3,0.6128933715124271,0.7796146993187814,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,276,2,7:14,434,434,Geo Baker missed Jumper.,58,53,5,24,0.6257250554863246,0.7864894914346908,4,3,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,277,2,7:13,433,433,Eugene Omoruyi Offensive Rebound.,58,53,5,1,0.6263391602511459,0.7868245354985938,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,278,2,7:13,433,433,Foul on Isaac Copeland Jr..,58,53,5,0,0.6263391602511459,0.7868245354985938,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,279,2,7:13,433,433,Official TV Timeout,58,53,5,0,0.6263391602511459,0.7868245354985938,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,280,2,7:13,433,433,Eugene Omoruyi missed Free Throw.,58,53,5,0,0.6263391602511459,0.7868245354985938,4,3,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,281,2,7:13,433,433,Rutgers Deadball Team Rebound.,58,53,5,0,0.6263391602511459,0.7868245354985938,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,282,2,7:13,433,433,Eugene Omoruyi made Free Throw.,59,53,6,0,0.6851888172852459,0.8273651695063055,4,3,-8.5,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,283,2,6:51,411,411,Tanner Borchardt made Layup. Assisted by James Palmer Jr..,59,55,4,22,0.5755919273281674,0.746407409648866,4,3,-8.5,NA,NA,Nebraska,made,Tanner Borchardt,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,284,2,6:30,390,390,Montez Mathis missed Jumper.,59,55,4,21,0.5866970120190783,0.7521799604740017,4,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,285,2,6:30,390,390,James Palmer Jr. Defensive Rebound.,59,55,4,0,0.5866970120190783,0.7521799604740017,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,286,2,6:30,390,390,Foul on Montez Mathis.,59,55,4,0,0.5866970120190783,0.7521799604740017,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,287,2,6:30,390,390,James Palmer Jr. missed Free Throw.,59,55,4,0,0.5866970120190783,0.7521799604740017,4,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,288,2,6:30,390,390,Nebraska Deadball Team Rebound.,59,55,4,0,0.5866970120190783,0.7521799604740017,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,289,2,6:30,390,390,James Palmer Jr. made Free Throw.,59,56,3,0,0.5181818245537185,0.6969264944386993,4,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,290,2,6:12,372,372,Peter Kiss made Three Point Jumper. Assisted by Myles Johnson.,62,56,6,18,0.7230671054440164,0.8463316453678879,4,3,-8.5,NA,NA,Rutgers,made,Peter Kiss,Myles Johnson,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,291,2,5:38,338,338,Isaiah Roby missed Three Point Jumper.,62,56,6,34,0.7465294706475892,0.8580298101775632,4,3,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,TRUE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,292,2,5:37,337,337,Tanner Borchardt Offensive Rebound.,62,56,6,1,0.7473016457055915,0.8584236264685632,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,293,2,5:37,337,337,Foul on Peter Kiss.,62,56,6,0,0.7473016457055915,0.8584236264685632,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,294,2,5:37,337,337,Isaiah Roby missed Free Throw.,62,56,6,0,0.7473016457055915,0.8584236264685632,4,3,-8.5,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,295,2,5:37,337,337,Nebraska Deadball Team Rebound.,62,56,6,0,0.7473016457055915,0.8584236264685632,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,296,2,5:37,337,337,Isaiah Roby made Free Throw.,62,57,5,0,0.6865191854702173,0.8178550021989334,4,3,-8.5,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,TRUE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,297,2,5:12,312,312,Myles Johnson made Dunk. Assisted by Montez Mathis.,64,57,7,25,0.8200155839613923,0.9013704887408247,4,3,-8.5,NA,NA,Rutgers,made,Myles Johnson,Montez Mathis,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,298,2,4:43,283,283,James Palmer Jr. missed Layup.,64,57,7,29,0.8322709395006296,0.9065306867484763,4,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,299,2,4:43,283,283,Geo Baker Block.,64,57,7,0,0.8322709395006296,0.9065306867484763,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,300,2,4:37,277,277,James Palmer Jr. Offensive Rebound.,64,57,7,6,0.8320696459256844,0.9059552370472503,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,301,2,4:37,277,277,James Palmer Jr. made Layup.,64,59,5,0,0.7217505115680429,0.8345209974782171,4,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,302,2,4:19,259,259,Myles Johnson made Layup. Assisted by Eugene Omoruyi.,66,59,7,18,0.8293765509922675,0.9029004860558869,4,3,-8.5,NA,NA,Rutgers,made,Myles Johnson,Eugene Omoruyi,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,303,2,4:02,242,242,Glynn Watson Jr. made Three Point Jumper. Assisted by Thomas Allen.,66,62,4,17,0.6514520084672275,0.7787242857790659,4,3,-8.5,NA,NA,Nebraska,made,Glynn Watson Jr.,Thomas Allen,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,304,2,3:43,223,223,Foul on Glynn Watson Jr..,66,62,4,19,0.6575775814743129,0.780156985447875,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,305,2,3:41,221,221,Official TV Timeout,66,62,4,2,0.658819137392486,0.780750128814572,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,308,2,3:41,221,221,Geo Baker made Free Throw.,67,62,5,0,0.7262237707883515,0.830271675109658,4,3,-8.5,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,309,2,3:00,180,180,Geo Baker missed Jumper.,67,62,5,41,0.7880840542705585,0.8674703420371371,4,3,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,310,2,3:00,180,180,Isaac Copeland Jr. Defensive Rebound.,67,62,5,0,0.7880840542705585,0.8674703420371371,4,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,311,2,2:54,174,174,James Palmer Jr. made Three Point Jumper. Assisted by Isaiah Roby.,67,65,2,6,0.5545760369762993,0.6850642879964904,4,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,Isaiah Roby,TRUE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,312,2,2:48,168,168,Rutgers  Timeout,67,65,2,6,0.5628961479927148,0.6907036798442758,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,313,2,2:23,143,143,Geo Baker missed Jumper.,67,65,2,25,0.6001760234347855,0.7159492320651124,3,3,-8.5,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,314,2,2:20,140,140,Thomas Allen Defensive Rebound.,67,65,2,3,0.6050264608021245,0.7192442352996955,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,315,2,2:02,122,122,Foul on Peter Kiss.,67,65,2,18,0.6363001356623376,0.7405791344064003,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,316,2,2:02,122,122,James Palmer Jr. made Free Throw.,67,66,1,0,0.5087118658994807,0.6281971696563706,3,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,317,2,2:02,122,122,James Palmer Jr. made Free Throw.,67,67,0,0,0.37997851873450533,0.5,3,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,318,2,1:39,99,99,Eugene Omoruyi missed Layup.,67,67,0,23,0.3878477550016015,0.5,3,3,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,319,2,1:38,98,98,Eugene Omoruyi Offensive Rebound.,67,67,0,1,0.38820324704833076,0.5,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,320,2,1:38,98,98,Myles Johnson made Layup. Assisted by Eugene Omoruyi.,69,67,2,0,0.6845131553494289,0.7737243922903321,3,3,-8.5,NA,NA,Rutgers,made,Myles Johnson,Eugene Omoruyi,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,321,2,1:38,98,98,Foul on James Palmer Jr..,69,67,2,0,0.6845131553494289,0.7737243922903321,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,322,2,1:38,98,98,Myles Johnson missed Free Throw.,69,67,2,0,0.6845131553494289,0.7737243922903321,3,3,-8.5,NA,NA,Rutgers,missed,Myles Johnson,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,323,2,1:38,98,98,Isaac Copeland Jr. Defensive Rebound.,69,67,2,0,0.6845131553494289,0.7737243922903321,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,324,2,1:21,81,81,James Palmer Jr. missed Jumper.,69,67,2,17,0.7217254225860327,0.7993084358792387,3,3,-8.5,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,325,2,1:20,80,80,Peter Kiss Defensive Rebound.,69,67,2,1,0.7239152925758008,0.8008084946039894,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,326,2,1:20,80,80,Foul on James Palmer Jr..,69,67,2,0,0.7239152925758008,0.8008084946039894,3,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,327,2,1:20,80,80,Peter Kiss made Free Throw.,70,67,3,0,0.8401902386100788,0.889636422761292,3,3,-8.5,NA,NA,Rutgers,made,Peter Kiss,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,328,2,1:20,80,80,Peter Kiss made Free Throw.,71,67,4,0,0.9133563033664586,0.9417343372339428,3,3,-8.5,NA,NA,Rutgers,made,Peter Kiss,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,329,2,1:20,80,80,Rutgers  Timeout,71,67,4,0,0.9133563033664586,0.9417343372339428,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,330,2,1:10,70,70,Isaac Copeland Jr. missed Three Point Jumper.,71,67,4,10,0.9287026843541217,0.9515958959084935,2,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,331,2,1:09,69,69,Myles Johnson Defensive Rebound.,71,67,4,1,0.9301465096558179,0.9525274989193613,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,332,2,1:09,69,69,Foul on James Palmer Jr..,71,67,4,0,0.9301465096558179,0.9525274989193613,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,333,2,1:09,69,69,Myles Johnson missed Free Throw.,71,67,4,0,0.9301465096558179,0.9525274989193613,2,3,-8.5,NA,NA,Rutgers,missed,Myles Johnson,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,334,2,1:09,69,69,Rutgers Deadball Team Rebound.,71,67,4,0,0.9301465096558179,0.9525274989193613,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,335,2,1:09,69,69,Myles Johnson made Free Throw.,72,67,5,0,0.96573232292759,0.9769936625831471,2,3,-8.5,NA,NA,Rutgers,made,Myles Johnson,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,336,2,1:02,62,62,Isaac Copeland Jr. missed Layup.,72,67,5,7,0.9715812543128142,0.9807464587293638,2,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,337,2,1:02,62,62,Myles Johnson Block.,72,67,5,0,0.9715812543128142,0.9807464587293638,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,338,2,1:02,62,62,Nebraska Offensive Rebound.,72,67,5,0,0.9715812543128142,0.9807464587293638,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,339,2,0:53,53,53,Isaac Copeland Jr. missed Jumper.,72,67,5,9,0.97790736202047,0.9848451252732019,2,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,340,2,0:53,53,53,Montez Mathis Defensive Rebound.,72,67,5,0,0.97790736202047,0.9848451252732019,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,341,2,0:52,52,52,Foul on Glynn Watson Jr..,72,67,5,1,0.9785351735423391,0.9852546905212215,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,342,2,0:52,52,52,Montez Mathis missed Free Throw.,72,67,5,0,0.9785351735423391,0.9852546905212215,2,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,343,2,0:52,52,52,Rutgers Deadball Team Rebound.,72,67,5,0,0.9785351735423391,0.9852546905212215,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,344,2,0:52,52,52,Montez Mathis missed Free Throw.,72,67,5,0,0.9785351735423391,0.9852546905212215,2,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,345,2,0:52,52,52,Isaiah Roby Defensive Rebound.,72,67,5,0,0.9785351735423391,0.9852546905212215,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,346,2,0:38,38,38,Isaac Copeland Jr. missed Three Point Jumper.,72,67,5,14,0.9859476723649623,0.9901414974572486,2,3,-8.5,NA,NA,Nebraska,missed,Isaac Copeland Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,347,2,0:38,38,38,Myles Johnson Defensive Rebound.,72,67,5,0,0.9859476723649623,0.9901414974572486,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,348,2,0:38,38,38,Eugene Omoruyi missed Layup.,72,67,5,0,0.9859476723649623,0.9901414974572486,2,3,-8.5,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,349,2,0:33,33,33,Montez Mathis Offensive Rebound.,72,67,5,5,0.9880256992096558,0.9915324896539068,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,350,2,0:33,33,33,Montez Mathis missed Layup.,72,67,5,0,0.9880256992096558,0.9915324896539068,2,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,351,2,0:33,33,33,Myles Johnson Offensive Rebound.,72,67,5,0,0.9880256992096558,0.9915324896539068,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,352,2,0:33,33,33,Myles Johnson made Layup.,74,67,7,0,0.9981999731191207,0.9987309556138022,2,3,-8.5,NA,NA,Rutgers,made,Myles Johnson,NA,FALSE,FALSE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,353,2,0:32,32,32,Glynn Watson Jr. missed Three Point Jumper.,74,67,7,1,0.9982795906528655,0.9987850101573519,2,3,-8.5,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,354,2,0:32,32,32,Myles Johnson Defensive Rebound.,74,67,7,0,0.9982795906528655,0.9987850101573519,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,355,2,0:26,26,26,Foul on Glynn Watson Jr..,74,67,7,6,0.9986936295222185,0.9990678080725697,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,356,2,0:26,26,26,Montez Mathis made Free Throw.,75,67,8,0,0.9995174364600896,0.9996557365726595,2,3,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,357,2,0:26,26,26,Montez Mathis missed Free Throw.,75,67,8,0,0.9995174364600896,0.9996557365726595,2,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,TRUE,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,358,2,0:26,26,26,Isaac Copeland Jr. Defensive Rebound.,75,67,8,0,0.9995174364600896,0.9996557365726595,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+401082523,2019-01-21,Rutgers,Nebraska,359,2,0:19,19,19,James Palmer Jr. made Layup.,75,69,6,7,0.9973425569714114,0.998079365653707,2,3,-8.5,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,360,2,0:18,18,18,Foul on James Palmer Jr..,75,69,6,1,0.9974513226776364,0.998154735048266,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,361,2,0:18,18,18,Montez Mathis made Free Throw.,76,69,7,0,0.9991056420621759,0.99935277319712,2,3,-8.5,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,362,2,0:18,18,18,Montez Mathis missed Free Throw.,76,69,7,0,0.9991056420621759,0.99935277319712,2,3,-8.5,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,TRUE,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,363,2,0:18,18,18,Montez Mathis Offensive Rebound.,76,69,7,0,0.9991056420621759,0.99935277319712,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401082523,2019-01-21,Rutgers,Nebraska,364,2,0:00,0,0,End of 2nd half,76,76,0,18,1,1,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,NA
+401082523,2019-01-21,Rutgers,Nebraska,365,2,0:00,0,0,End of Game,76,76,0,0,1,1,2,3,-8.5,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,NA
