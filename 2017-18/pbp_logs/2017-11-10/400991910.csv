@@ -1,0 +1,397 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400991910,2017-11-10,Lipscomb,Emory,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,2,1,19:45,2385,2385,Michael Buckland missed Three Point Jumper.,0,0,0,15,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Michael Buckland,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,3,1,19:45,2385,2385,Lipscomb Deadball Team Rebound.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,4,1,19:45,2385,2385,Foul on Adam Gigax.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,5,1,19:34,2374,2374,Rob Marberry Turnover.,0,0,0,11,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,6,1,19:18,2358,2358,Gebereal Baitey missed Layup.,0,0,0,16,0.5,0.5,4,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,7,1,19:18,2358,2358,Emory Offensive Rebound.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,8,1,19:09,2349,2349,Gebereal Baitey Turnover.,0,0,0,9,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,9,1,19:08,2348,2348,Michael Buckland Steal.,0,0,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,10,1,18:58,2338,2338,Rob Marberry made Layup. Assisted by Eli Pepper.,2,0,2,10,0.5453512728162102,0.5453512728162102,4,4,NA,NA,NA,Lipscomb,made,Rob Marberry,Eli Pepper,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,11,1,18:57,2337,2337,Foul on Christopher Avant.,2,0,2,1,0.545373062929666,0.545373062929666,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,12,1,18:57,2337,2337,Rob Marberry made Free Throw.,3,0,3,0,0.5678266440369557,0.5678266440369557,4,4,NA,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,13,1,18:51,2331,2331,Adam Gigax made Three Point Jumper. Assisted by Whit Rapp.,3,3,0,6,0.5,0.5,4,4,NA,NA,NA,Emory,made,Adam Gigax,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,14,1,18:26,2306,2306,Foul on Beau Bommarito.,3,3,0,25,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,15,1,18:26,2306,2306,Eli Pepper missed Free Throw.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Eli Pepper,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,16,1,18:26,2306,2306,Lipscomb Deadball Team Rebound.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,17,1,18:26,2306,2306,Eli Pepper missed Free Throw.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Eli Pepper,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,18,1,18:26,2306,2306,Adam Gigax Defensive Rebound.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,19,1,18:17,2297,2297,Adam Gigax missed Three Point Jumper.,3,3,0,9,0.5,0.5,4,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,20,1,18:17,2297,2297,Whit Rapp Offensive Rebound.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,21,1,18:10,2290,2290,Whit Rapp Turnover.,3,3,0,7,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,22,1,18:09,2289,2289,Michael Buckland Steal.,3,3,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,23,1,18:03,2283,2283,Michael Buckland Turnover.,3,3,0,6,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,24,1,17:46,2266,2266,Beau Bommarito made Jumper.,3,5,-2,17,0.45305183568790486,0.45305183568790486,4,4,NA,NA,NA,Emory,made,Beau Bommarito,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,25,1,17:34,2254,2254,Garrison Mathews missed Three Point Jumper.,3,5,-2,12,0.45278089897456814,0.45278089897456814,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,26,1,17:34,2254,2254,Eli Pepper Offensive Rebound.,3,5,-2,0,0.45278089897456814,0.45278089897456814,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,27,1,17:28,2248,2248,Eli Pepper missed Jumper.,3,5,-2,6,0.45264500278804426,0.45264500278804426,4,4,NA,NA,NA,Lipscomb,missed,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,28,1,17:28,2248,2248,Christopher Avant Block.,3,5,-2,0,0.45264500278804426,0.45264500278804426,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,29,1,17:27,2247,2247,Matt Rose Offensive Rebound.,3,5,-2,1,0.45262232685875164,0.45262232685875164,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,30,1,17:22,2242,2242,Matt Rose missed Three Point Jumper.,3,5,-2,5,0.45250883651523266,0.45250883651523266,4,4,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,31,1,17:22,2242,2242,Whit Rapp Defensive Rebound.,3,5,-2,0,0.45250883651523266,0.45250883651523266,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,32,1,17:13,2233,2233,Beau Bommarito missed Layup.,3,5,-2,9,0.4523041055167482,0.4523041055167482,4,4,NA,NA,NA,Emory,missed,Beau Bommarito,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,33,1,17:13,2233,2233,Eli Pepper Block.,3,5,-2,0,0.4523041055167482,0.4523041055167482,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,34,1,17:12,2232,2232,Whit Rapp Offensive Rebound.,3,5,-2,1,0.4522813233554353,0.4522813233554353,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,35,1,17:08,2228,2228,Christopher Avant missed Layup.,3,5,-2,4,0.45219012861582764,0.45219012861582764,4,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,36,1,17:08,2228,2228,Rob Marberry Block.,3,5,-2,0,0.45219012861582764,0.45219012861582764,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,37,1,17:08,2228,2228,Emory Offensive Rebound.,3,5,-2,0,0.45219012861582764,0.45219012861582764,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,38,1,16:52,2212,2212,Beau Bommarito made Jumper. Assisted by Whit Rapp.,3,7,-4,16,0.4045349585551377,0.4045349585551377,4,4,NA,NA,NA,Emory,made,Beau Bommarito,Whit Rapp,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,39,1,16:29,2189,2189,Garrison Mathews made Layup.,5,7,-2,23,0.4512960834893763,0.4512960834893763,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,40,1,16:15,2175,2175,Adam Gigax missed Three Point Jumper.,5,7,-2,14,0.45097334763387426,0.45097334763387426,4,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,41,1,16:15,2175,2175,Andrew Fleming Defensive Rebound.,5,7,-2,0,0.45097334763387426,0.45097334763387426,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,42,1,16:02,2162,2162,Andrew Fleming missed Layup.,5,7,-2,13,0.4506728879503894,0.4506728879503894,4,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,43,1,16:02,2162,2162,Michael Buckland Offensive Rebound.,5,7,-2,0,0.4506728879503894,0.4506728879503894,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,44,1,15:58,2158,2158,Michael Buckland missed Jumper.,5,7,-2,4,0.4505802019918857,0.4505802019918857,4,4,NA,NA,NA,Lipscomb,missed,Michael Buckland,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,45,1,15:58,2158,2158,Beau Bommarito Defensive Rebound.,5,7,-2,0,0.4505802019918857,0.4505802019918857,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,46,1,15:46,2146,2146,Foul on Garrison Mathews.,5,7,-2,12,0.4503014044912188,0.4503014044912188,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,47,1,15:46,2146,2146,Official TV Timeout,5,7,-2,0,0.4503014044912188,0.4503014044912188,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,48,1,15:44,2144,2144,Adam Gigax missed Jumper.,5,7,-2,2,0.450254827554741,0.450254827554741,4,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,49,1,15:44,2144,2144,Rob Marberry Defensive Rebound.,5,7,-2,0,0.450254827554741,0.450254827554741,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,50,1,15:25,2125,2125,Foul on Romin Williams.,5,7,-2,19,0.4498106956225497,0.4498106956225497,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,51,1,15:11,2111,2111,Michael Buckland made Three Point Jumper. Assisted by Rob Marberry.,8,7,1,14,0.5253240768718772,0.5253240768718772,4,4,NA,NA,NA,Lipscomb,made,Michael Buckland,Rob Marberry,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,52,1,14:47,2087,2087,Christopher Avant missed Jumper.,8,7,1,24,0.5256106398677499,0.5256106398677499,4,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,53,1,14:47,2087,2087,Garrison Mathews Defensive Rebound.,8,7,1,0,0.5256106398677499,0.5256106398677499,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,54,1,14:39,2079,2079,Michael Buckland made Three Point Jumper. Assisted by Rob Marberry.,11,7,4,8,0.6014886956381457,0.6014886956381457,4,4,NA,NA,NA,Lipscomb,made,Michael Buckland,Rob Marberry,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,55,1,14:18,2058,2058,Christopher Avant missed Three Point Jumper.,11,7,4,21,0.6024652697831662,0.6024652697831662,4,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,56,1,14:18,2058,2058,Andrew Fleming Defensive Rebound.,11,7,4,0,0.6024652697831662,0.6024652697831662,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,57,1,14:06,2046,2046,Rob Marberry missed Layup.,11,7,4,12,0.603027205593456,0.603027205593456,4,4,NA,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,58,1,14:06,2046,2046,Christopher Avant Defensive Rebound.,11,7,4,0,0.603027205593456,0.603027205593456,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,59,1,13:59,2039,2039,Adam Gigax made Jumper.,11,9,2,7,0.5522423557244374,0.5522423557244374,4,4,NA,NA,NA,Emory,made,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,60,1,13:46,2026,2026,Rob Marberry made Layup. Assisted by Michael Buckland.,13,9,4,13,0.6039704094912358,0.6039704094912358,4,4,NA,NA,NA,Lipscomb,made,Rob Marberry,Michael Buckland,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,61,1,13:29,2009,2009,Foul on Aaron Korn.,13,9,4,17,0.6047789811954624,0.6047789811954624,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,62,1,13:24,2004,2004,Adam Gigax missed Jumper.,13,9,4,5,0.605018041627282,0.605018041627282,4,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,63,1,13:24,2004,2004,Andrew Fleming Defensive Rebound.,13,9,4,0,0.605018041627282,0.605018041627282,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,64,1,13:17,1997,1997,Foul on Gebereal Baitey.,13,9,4,7,0.6053537021407314,0.6053537021407314,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,65,1,13:17,1997,1997,Andrew Fleming made Free Throw.,14,9,5,0,0.6305969892190879,0.6305969892190879,4,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,66,1,13:17,1997,1997,Andrew Fleming made Free Throw.,15,9,6,0,0.6551454425900199,0.6551454425900199,4,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,67,1,13:14,1994,1994,Romin Williams Turnover.,15,9,6,3,0.6553499940717292,0.6553499940717292,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,68,1,13:01,1981,1981,Andrew Fleming missed Three Point Jumper.,15,9,6,13,0.6562395592394241,0.6562395592394241,4,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,69,1,13:01,1981,1981,Gebereal Baitey Defensive Rebound.,15,9,6,0,0.6562395592394241,0.6562395592394241,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,70,1,12:54,1974,1974,Romin Williams made Three Point Jumper. Assisted by Gebereal Baitey.,15,12,3,7,0.5803857876251461,0.5803857876251461,4,4,NA,NA,NA,Emory,made,Romin Williams,Gebereal Baitey,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,71,1,12:44,1964,1964,George Brammeier made Layup. Assisted by Andrew Fleming.,17,12,5,10,0.6325443478137311,0.6325443478137311,4,4,NA,NA,NA,Lipscomb,made,George Brammeier,Andrew Fleming,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,72,1,12:36,1956,1956,Lawrence Rowley missed Three Point Jumper.,17,12,5,8,0.6330212242152617,0.6330212242152617,4,4,NA,NA,NA,Emory,missed,Lawrence Rowley,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,73,1,12:36,1956,1956,Matt Rose Defensive Rebound.,17,12,5,0,0.6330212242152617,0.6330212242152617,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,74,1,12:25,1945,1945,Foul on Romin Williams.,17,12,5,11,0.6336801102472889,0.6336801102472889,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,75,1,12:20,1940,1940,Matt Rose missed Three Point Jumper.,17,12,5,5,0.6339808441759184,0.6339808441759184,4,4,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,76,1,12:20,1940,1940,Whit Rapp Defensive Rebound.,17,12,5,0,0.6339808441759184,0.6339808441759184,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,77,1,12:10,1930,1930,Lawrence Rowley made Layup.,17,14,3,10,0.5820420118260582,0.5820420118260582,4,4,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,78,1,11:52,1912,1912,George Brammeier made Layup. Assisted by Andrew Fleming.,19,14,5,18,0.635672165668107,0.635672165668107,4,4,NA,NA,NA,Lipscomb,made,George Brammeier,Andrew Fleming,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,79,1,11:38,1898,1898,Christopher Avant made Layup. Assisted by Lawrence Rowley.,19,16,3,14,0.5832583356008597,0.5832583356008597,4,4,NA,NA,NA,Emory,made,Christopher Avant,Lawrence Rowley,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,80,1,11:32,1892,1892,Foul on Gebereal Baitey.,19,16,3,6,0.5834860174492088,0.5834860174492088,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,81,1,11:32,1892,1892,Official TV Timeout,19,16,3,0,0.5834860174492088,0.5834860174492088,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,82,1,11:32,1892,1892,Andrew Fleming made Free Throw.,20,16,4,0,0.6105125661400257,0.6105125661400257,4,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,83,1,11:32,1892,1892,Andrew Fleming made Free Throw.,21,16,5,0,0.6368768076375445,0.6368768076375445,4,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,84,1,11:20,1880,1880,Clay Washburn made Three Point Jumper. Assisted by Beau Bommarito.,21,19,2,12,0.5562565669528433,0.5562565669528433,4,4,NA,NA,NA,Emory,made,Clay Washburn,Beau Bommarito,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,85,1,11:07,1867,1867,Michael Buckland Turnover.,21,19,2,13,0.5565910708502205,0.5565910708502205,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,86,1,10:57,1857,1857,Whit Rapp Turnover.,21,19,2,10,0.5568488486119326,0.5568488486119326,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,87,1,10:56,1856,1856,Michael Buckland Steal.,21,19,2,1,0.5568746554814731,0.5568746554814731,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,88,1,10:53,1853,1853,Garrison Mathews missed Layup.,21,19,2,3,0.556952112125646,0.556952112125646,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,89,1,10:53,1853,1853,Lawrence Rowley Block.,21,19,2,0,0.556952112125646,0.556952112125646,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,90,1,10:51,1851,1851,Lipscomb Offensive Rebound.,21,19,2,2,0.5570037814525133,0.5570037814525133,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,91,1,10:47,1847,1847,Garrison Mathews made Jumper.,23,19,4,4,0.6127436695127219,0.6127436695127219,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,92,1,10:47,1847,1847,Foul on Christopher Avant.,23,19,4,0,0.6127436695127219,0.6127436695127219,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,93,1,10:47,1847,1847,Garrison Mathews missed Free Throw.,23,19,4,0,0.6127436695127219,0.6127436695127219,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,94,1,10:47,1847,1847,Clay Washburn Defensive Rebound.,23,19,4,0,0.6127436695127219,0.6127436695127219,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,95,1,10:25,1825,1825,Beau Bommarito made Three Point Jumper. Assisted by Whit Rapp.,23,22,1,22,0.5289357644419893,0.5289357644419893,4,4,NA,NA,NA,Emory,made,Beau Bommarito,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,96,1,10:00,1800,1800,Greg Jones missed Three Point Jumper.,23,22,1,25,0.5292668057759684,0.5292668057759684,4,4,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,97,1,10:00,1800,1800,Adam Gigax Defensive Rebound.,23,22,1,0,0.5292668057759684,0.5292668057759684,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,98,1,9:58,1798,1798,Foul on Eli Pepper.,23,22,1,2,0.5292934739580989,0.5292934739580989,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,99,1,9:48,1788,1788,Adam Gigax made Three Point Jumper. Assisted by Whit Rapp.,23,25,-2,10,0.44134859405726584,0.44134859405726584,4,4,NA,NA,NA,Emory,made,Adam Gigax,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,100,1,9:24,1764,1764,Rob Marberry made Jumper. Assisted by Garrison Mathews.,25,25,0,24,0.5,0.5,4,4,NA,NA,NA,Lipscomb,made,Rob Marberry,Garrison Mathews,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,101,1,8:56,1736,1736,Clay Washburn missed Three Point Jumper.,25,25,0,28,0.5,0.5,4,4,NA,NA,NA,Emory,missed,Clay Washburn,NA,TRUE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,102,1,8:56,1736,1736,Adam Gigax Offensive Rebound.,25,25,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,103,1,8:51,1731,1731,Adam Gigax Turnover.,25,25,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,104,1,8:49,1729,1729,Greg Jones Steal.,25,25,0,2,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,105,1,8:45,1725,1725,Greg Jones made Layup.,27,25,2,4,0.5603637953895624,0.5603637953895624,4,4,NA,NA,NA,Lipscomb,made,Greg Jones,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,106,1,8:32,1712,1712,Beau Bommarito Turnover.,27,25,2,13,0.5607287023735282,0.5607287023735282,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,107,1,8:21,1701,1701,Foul on Matt Rose.,27,25,2,11,0.5610411411579501,0.5610411411579501,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,108,1,8:21,1701,1701,Matt Rose Turnover.,27,25,2,0,0.5610411411579501,0.5610411411579501,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,109,1,8:11,1691,1691,Foul on Nick Tupanjanin.,27,25,2,10,0.5613282778222024,0.5613282778222024,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,110,1,8:11,1691,1691,Nick Tupanjanin Turnover.,27,25,2,0,0.5613282778222024,0.5613282778222024,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,111,1,7:52,1672,1672,Garrison Mathews made Layup.,29,25,4,19,0.6218741819453586,0.6218741819453586,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,112,1,7:52,1672,1672,Foul on Lawrence Rowley.,29,25,4,0,0.6218741819453586,0.6218741819453586,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,113,1,7:52,1672,1672,Official TV Timeout,29,25,4,0,0.6218741819453586,0.6218741819453586,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,114,1,7:52,1672,1672,Garrison Mathews made Free Throw.,30,25,5,0,0.6506479365360941,0.6506479365360941,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,115,1,7:44,1664,1664,Clay Washburn Turnover.,30,25,5,8,0.651164569988355,0.651164569988355,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,116,1,7:42,1662,1662,Matt Rose Steal.,30,25,5,2,0.6512928853432018,0.6512928853432018,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,117,1,7:39,1659,1659,Garrison Mathews missed Layup.,30,25,5,3,0.6514847674055738,0.6514847674055738,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,118,1,7:39,1659,1659,Clay Washburn Block.,30,25,5,0,0.6514847674055738,0.6514847674055738,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,119,1,7:37,1657,1657,Adam Gigax Defensive Rebound.,30,25,5,2,0.651612309602167,0.651612309602167,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,120,1,7:27,1647,1647,Lawrence Rowley Turnover.,30,25,5,10,0.6522458505065262,0.6522458505065262,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,121,1,7:11,1631,1631,Garrison Mathews made Jumper. Assisted by Michael Buckland.,32,25,7,16,0.7082051469490281,0.7082051469490281,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Michael Buckland,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,122,1,6:51,1611,1611,Lawrence Rowley Turnover.,32,25,7,20,0.7097854721172508,0.7097854721172508,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,123,1,6:30,1590,1590,Aaron Korn Turnover.,32,25,7,21,0.7114342007632034,0.7114342007632034,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,124,1,6:29,1589,1589,Beau Bommarito Steal.,32,25,7,1,0.7115126849794507,0.7115126849794507,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,125,1,6:23,1583,1583,Nick Stuck made Layup.,32,27,5,6,0.6562114292001092,0.6562114292001092,4,4,NA,NA,NA,Emory,made,Nick Stuck,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,126,1,6:09,1569,1569,Foul on Donald Avant.,32,27,5,14,0.657078363707769,0.657078363707769,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,127,1,6:09,1569,1569,Garrison Mathews missed Free Throw.,32,27,5,0,0.657078363707769,0.657078363707769,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,128,1,6:09,1569,1569,Lipscomb Deadball Team Rebound.,32,27,5,0,0.657078363707769,0.657078363707769,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,129,1,6:09,1569,1569,Garrison Mathews made Free Throw.,33,27,6,0,0.685758041175148,0.685758041175148,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,130,1,5:50,1550,1550,Donald Avant made Jumper. Assisted by Beau Bommarito.,33,29,4,19,0.6281913013040675,0.6281913013040675,4,4,NA,NA,NA,Emory,made,Donald Avant,Beau Bommarito,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,131,1,5:34,1534,1534,Andrew Fleming missed Three Point Jumper.,33,29,4,16,0.6290367917721683,0.6290367917721683,4,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,132,1,5:34,1534,1534,Beau Bommarito Defensive Rebound.,33,29,4,0,0.6290367917721683,0.6290367917721683,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,133,1,5:21,1521,1521,Donald Avant made Jumper.,33,31,2,13,0.565998397084313,0.565998397084313,4,4,NA,NA,NA,Emory,made,Donald Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,134,1,5:00,1500,1500,Garrison Mathews made Layup. Assisted by Andrew Fleming.,35,31,4,21,0.6308964171719894,0.6308964171719894,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Andrew Fleming,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,135,1,4:45,1485,1485,Adam Gigax missed Jumper.,35,31,4,15,0.63175210986527075,0.63175210986527075,4,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,136,1,4:45,1485,1485,Michael Buckland Defensive Rebound.,35,31,4,0,0.63175210986527075,0.63175210986527075,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,137,1,4:25,1465,1465,Andrew Fleming Turnover.,35,31,4,20,0.6329347098521703,0.6329347098521703,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,138,1,4:24,1464,1464,Donald Avant Steal.,35,31,4,1,0.6329952159832991,0.6329952159832991,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,139,1,4:22,1462,1462,Foul on Michael Buckland.,35,31,4,2,0.633116644319362,0.633116644319362,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,140,1,4:22,1462,1462,Nick Stuck missed Free Throw.,35,31,4,0,0.633116644319362,0.633116644319362,4,4,NA,NA,NA,Emory,missed,Nick Stuck,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,141,1,4:22,1462,1462,Emory Deadball Team Rebound.,35,31,4,0,0.633116644319362,0.633116644319362,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,142,1,4:22,1462,1462,Nick Stuck missed Free Throw.,35,31,4,0,0.633116644319362,0.633116644319362,4,4,NA,NA,NA,Emory,missed,Nick Stuck,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,143,1,4:22,1462,1462,George Brammeier Defensive Rebound.,35,31,4,0,0.633116644319362,0.633116644319362,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,144,1,4:07,1447,1447,Greg Jones missed Three Point Jumper.,35,31,4,15,0.6340444381718608,0.6340444381718608,4,4,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,145,1,4:07,1447,1447,Donald Avant Defensive Rebound.,35,31,4,0,0.6340444381718608,0.6340444381718608,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,146,1,3:52,1432,1432,Lawrence Rowley made Three Point Jumper. Assisted by Whit Rapp.,35,34,1,15,0.5345425095218204,0.5345425095218204,4,4,NA,NA,NA,Emory,made,Lawrence Rowley,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,147,1,3:34,1414,1414,Garrison Mathews made Three Point Jumper. Assisted by Greg Jones.,38,34,4,18,0.6360277846627155,0.6360277846627155,4,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Greg Jones,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,148,1,3:09,1389,1389,Official TV Timeout,38,34,4,25,0.6374654838114278,0.6374654838114278,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,149,1,3:03,1383,1383,Lawrence Rowley made Layup.,38,36,2,6,0.5702636154024955,0.5702636154024955,4,4,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,150,1,3:01,1381,1381,Emory  Timeout,38,36,2,2,0.570323669724665,0.570323669724665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,151,1,2:49,1369,1369,Eli Pepper missed Three Point Jumper.,38,36,2,12,0.5706833172903033,0.5706833172903033,3,4,NA,NA,NA,Lipscomb,missed,Eli Pepper,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,152,1,2:49,1369,1369,Lawrence Rowley Defensive Rebound.,38,36,2,0,0.5706833172903033,0.5706833172903033,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,153,1,2:20,1340,1340,Donald Avant missed Jumper.,38,36,2,29,0.5715558783644923,0.5715558783644923,3,4,NA,NA,NA,Emory,missed,Donald Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,154,1,2:20,1340,1340,Michael Buckland Defensive Rebound.,38,36,2,0,0.5715558783644923,0.5715558783644923,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,155,1,2:03,1323,1323,Garrison Mathews Turnover.,38,36,2,17,0.572076903271759,0.572076903271759,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,156,1,1:52,1312,1312,Donald Avant made Jumper.,38,38,0,11,0.5,0.5,3,4,NA,NA,NA,Emory,made,Donald Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,157,1,1:37,1297,1297,Garrison Mathews made Three Point Jumper. Assisted by Michael Buckland.,41,38,3,15,0.6083879839551827,0.6083879839551827,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Michael Buckland,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,158,1,1:20,1280,1280,Beau Bommarito missed Layup.,41,38,3,17,0.6092096899071611,0.6092096899071611,3,4,NA,NA,NA,Emory,missed,Beau Bommarito,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,159,1,1:20,1280,1280,Greg Jones Block.,41,38,3,0,0.6092096899071611,0.6092096899071611,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,160,1,1:17,1277,1277,Donald Avant Offensive Rebound.,41,38,3,3,0.6093582229396886,0.6093582229396886,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,161,1,1:12,1272,1272,Whit Rapp made Jumper.,41,40,1,5,0.5370707063228526,0.5370707063228526,3,4,NA,NA,NA,Emory,made,Whit Rapp,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,162,1,0:56,1256,1256,Rob Marberry missed Layup.,41,40,1,16,0.53735774562224,0.53735774562224,3,4,NA,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,163,1,0:56,1256,1256,Rob Marberry Offensive Rebound.,41,40,1,0,0.53735774562224,0.53735774562224,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,164,1,0:54,1254,1254,Rob Marberry missed Jumper.,41,40,1,2,0.5373945850346329,0.5373945850346329,3,4,NA,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,165,1,0:54,1254,1254,Adam Gigax Defensive Rebound.,41,40,1,0,0.5373945850346329,0.5373945850346329,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,166,1,0:44,1244,1244,Foul on Andrew Fleming.,41,40,1,10,0.5375822538442269,0.5375822538442269,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,167,1,0:44,1244,1244,Lawrence Rowley missed Free Throw.,41,40,1,0,0.5375822538442269,0.5375822538442269,3,4,NA,NA,NA,Emory,missed,Lawrence Rowley,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,168,1,0:44,1244,1244,Emory Deadball Team Rebound.,41,40,1,0,0.5375822538442269,0.5375822538442269,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,169,1,0:44,1244,1244,Lawrence Rowley made Free Throw.,41,41,0,0,0.5,0.5,3,4,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,170,1,0:35,1235,1235,Foul on Donald Avant.,41,41,0,9,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,171,1,0:35,1235,1235,Andrew Fleming made Free Throw.,42,41,1,0,0.5377563951423993,0.5377563951423993,3,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,172,1,0:35,1235,1235,Andrew Fleming made Free Throw.,43,41,2,0,0.5750846440170064,0.5750846440170064,3,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,173,1,0:08,1208,1208,Donald Avant made Jumper. Assisted by Whit Rapp.,43,43,0,27,0.5,0.5,3,4,NA,NA,NA,Emory,made,Donald Avant,Whit Rapp,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,174,1,0:03,1203,1203,Eli Pepper Turnover.,43,43,0,5,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,176,2,20:00,1200,1200,PLAY,43,44,-1,0,0.4615187446422248,0.4615187446422248,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory
+400991910,2017-11-10,Lipscomb,Emory,178,2,19:50,1190,1190,Michael Buckland Defensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,179,2,19:36,1176,1176,Matt Rose missed Three Point Jumper.,43,43,0,14,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,180,2,19:36,1176,1176,Emory Defensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,181,2,19:15,1155,1155,Whit Rapp Turnover.,43,43,0,21,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,182,2,19:13,1153,1153,Rob Marberry Steal.,43,43,0,2,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,183,2,19:11,1151,1151,Garrison Mathews missed Layup.,43,43,0,2,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,184,2,19:11,1151,1151,Christopher Avant Defensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,185,2,18:46,1126,1126,Christopher Avant missed Jumper.,43,43,0,25,0.5,0.5,4,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,186,2,18:46,1126,1126,Adam Gigax Offensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,187,2,18:39,1119,1119,Christopher Avant missed Jumper.,43,43,0,7,0.5,0.5,4,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,188,2,18:39,1119,1119,Matt Rose Defensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,189,2,18:24,1104,1104,Garrison Mathews missed Layup.,43,43,0,15,0.5,0.5,4,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,190,2,18:24,1104,1104,Eli Pepper Offensive Rebound.,43,43,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,191,2,18:20,1100,1100,Eli Pepper made Jumper.,45,43,2,4,0.5804396677363385,0.5804396677363385,4,4,NA,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,192,2,18:08,1088,1088,Gebereal Baitey missed Layup.,45,43,2,12,0.5809188424766013,0.5809188424766013,4,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,193,2,18:08,1088,1088,Michael Buckland Defensive Rebound.,45,43,2,0,0.5809188424766013,0.5809188424766013,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,194,2,18:01,1081,1081,Rob Marberry missed Jumper.,45,43,2,7,0.5812026105936554,0.5812026105936554,4,4,NA,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,195,2,18:01,1081,1081,Lipscomb Offensive Rebound.,45,43,2,0,0.5812026105936554,0.5812026105936554,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,196,2,17:53,1073,1073,Eli Pepper made Layup. Assisted by Michael Buckland.,47,43,4,8,0.6588394668114806,0.6588394668114806,4,4,NA,NA,NA,Lipscomb,made,Eli Pepper,Michael Buckland,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,197,2,17:53,1073,1073,Foul on Christopher Avant.,47,43,4,0,0.6588394668114806,0.6588394668114806,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,198,2,17:53,1073,1073,Eli Pepper made Free Throw.,48,43,5,0,0.6948003650877442,0.6948003650877442,4,4,NA,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,199,2,17:41,1061,1061,Gebereal Baitey missed Jumper.,48,43,5,12,0.6958969661322005,0.6958969661322005,4,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,200,2,17:41,1061,1061,Michael Buckland Defensive Rebound.,48,43,5,0,0.6958969661322005,0.6958969661322005,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,201,2,17:35,1055,1055,Foul on Gebereal Baitey.,48,43,5,6,0.6964562087221875,0.6964562087221875,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,202,2,17:28,1048,1048,Michael Buckland made Layup.,50,43,7,7,0.7626135678410485,0.7626135678410485,4,4,NA,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,203,2,17:18,1038,1038,Emory  Timeout,50,43,7,10,0.7637742562417807,0.7637742562417807,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,204,2,17:17,1037,1037,Adam Gigax missed Jumper.,50,43,7,1,0.7638919589541524,0.7638919589541524,3,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,205,2,17:17,1037,1037,Michael Buckland Defensive Rebound.,50,43,7,0,0.7638919589541524,0.7638919589541524,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,206,2,17:09,1029,1029,Michael Buckland Turnover.,50,43,7,8,0.7648449791716054,0.7648449791716054,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,207,2,17:07,1027,1027,Adam Gigax Steal.,50,43,7,2,0.7650865125685247,0.7650865125685247,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,208,2,17:06,1026,1026,Foul on Garrison Mathews.,50,43,7,1,0.7652077877308667,0.7652077877308667,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,209,2,17:06,1026,1026,Adam Gigax missed Free Throw.,50,43,7,0,0.7652077877308667,0.7652077877308667,3,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,210,2,17:06,1026,1026,Emory Deadball Team Rebound.,50,43,7,0,0.7652077877308667,0.7652077877308667,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,211,2,17:06,1026,1026,Adam Gigax made Free Throw.,50,44,6,0,0.7335420393483392,0.7335420393483392,3,4,NA,NA,NA,Emory,made,Adam Gigax,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,212,2,16:57,1017,1017,George Brammeier made Layup. Assisted by Michael Buckland.,52,44,8,9,0.7953171944480365,0.7953171944480365,3,4,NA,NA,NA,Lipscomb,made,George Brammeier,Michael Buckland,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,213,2,16:51,1011,1011,Beau Bommarito missed Three Point Jumper.,52,44,8,6,0.7961010108791265,0.7961010108791265,3,4,NA,NA,NA,Emory,missed,Beau Bommarito,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,214,2,16:51,1011,1011,George Brammeier Defensive Rebound.,52,44,8,0,0.7961010108791265,0.7961010108791265,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,215,2,16:38,998,998,Michael Buckland missed Layup.,52,44,8,13,0.7978481414634923,0.7978481414634923,3,4,NA,NA,NA,Lipscomb,missed,Michael Buckland,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,216,2,16:38,998,998,Lawrence Rowley Block.,52,44,8,0,0.7978481414634923,0.7978481414634923,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,217,2,16:36,996,996,Eli Pepper Offensive Rebound.,52,44,8,2,0.7981231642709281,0.7981231642709281,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,218,2,16:33,993,993,Eli Pepper made Layup.,54,44,10,3,0.8483199546254362,0.8483199546254362,3,4,NA,NA,NA,Lipscomb,made,Eli Pepper,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,219,2,16:31,991,991,Romin Williams made Layup.,54,46,8,2,0.7988183185948866,0.7988183185948866,3,4,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,220,2,16:12,972,972,Foul on Lawrence Rowley.,54,46,8,19,0.8015641969897638,0.8015641969897638,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,221,2,16:12,972,972,George Brammeier made Free Throw.,55,46,9,0,0.8278708156920621,0.8278708156920621,3,4,NA,NA,NA,Lipscomb,made,George Brammeier,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,222,2,16:12,972,972,George Brammeier made Free Throw.,56,46,10,0,0.851336775857542,0.851336775857542,3,4,NA,NA,NA,Lipscomb,made,George Brammeier,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,223,2,16:09,969,969,Beau Bommarito made Three Point Jumper. Assisted by Romin Williams.,56,49,7,3,0.772776787737904,0.772776787737904,3,4,NA,NA,NA,Emory,made,Beau Bommarito,Romin Williams,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,224,2,16:00,960,960,Foul on Romin Williams.,56,49,7,9,0.774039089085516,0.774039089085516,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,225,2,16:00,960,960,Official TV Timeout,56,49,7,0,0.774039089085516,0.774039089085516,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,226,2,16:00,960,960,Garrison Mathews made Free Throw.,57,49,8,0,0.8033167751858524,0.8033167751858524,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,227,2,16:00,960,960,Garrison Mathews made Free Throw.,58,49,9,0,0.8296359006557315,0.8296359006557315,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,228,2,16:00,960,960,Garrison Mathews made Free Throw.,59,49,10,0,0.8530772739725394,0.8530772739725394,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,229,2,15:41,941,941,Foul on Andrew Fleming.,59,49,10,19,0.8555828025782767,0.8555828025782767,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,230,2,15:40,940,940,Romin Williams made Three Point Jumper. Assisted by Whit Rapp.,59,52,7,1,0.7766168989423341,0.7766168989423341,3,4,NA,NA,NA,Emory,made,Romin Williams,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,231,2,15:13,913,913,Foul on Gebereal Baitey.,59,52,7,27,0.7797242517640359,0.7797242517640359,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,232,2,15:13,913,913,Matt Rose missed Free Throw.,59,52,7,0,0.7797242517640359,0.7797242517640359,3,4,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,233,2,15:13,913,913,Lipscomb Deadball Team Rebound.,59,52,7,0,0.7797242517640359,0.7797242517640359,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,234,2,15:13,913,913,Matt Rose missed Free Throw.,59,52,7,0,0.7797242517640359,0.7797242517640359,3,4,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,235,2,15:13,913,913,Rob Marberry Offensive Rebound.,59,52,7,0,0.7797242517640359,0.7797242517640359,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,236,2,15:05,905,905,Greg Jones Turnover.,59,52,7,8,0.7805889922529254,0.7805889922529254,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,237,2,15:03,903,903,Christopher Avant Steal.,59,52,7,2,0.7808024151161702,0.7808024151161702,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,238,2,14:56,896,896,Romin Williams made Three Point Jumper. Assisted by Beau Bommarito.,59,55,4,7,0.674451275681745,0.674451275681745,3,4,NA,NA,NA,Emory,made,Romin Williams,Beau Bommarito,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,239,2,14:37,877,877,Greg Jones made Layup.,61,55,6,19,0.7507351658620717,0.7507351658620717,3,4,NA,NA,NA,Lipscomb,made,Greg Jones,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,240,2,14:27,867,867,Foul on Eli Pepper.,61,55,6,10,0.7517174158254566,0.7517174158254566,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,241,2,14:27,867,867,Beau Bommarito missed Free Throw.,61,55,6,0,0.7517174158254566,0.7517174158254566,3,4,NA,NA,NA,Emory,missed,Beau Bommarito,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,242,2,14:27,867,867,Emory Deadball Team Rebound.,61,55,6,0,0.7517174158254566,0.7517174158254566,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,243,2,14:27,867,867,Beau Bommarito made Free Throw.,61,56,5,0,0.7156856968495351,0.7156856968495351,3,4,NA,NA,NA,Emory,made,Beau Bommarito,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,244,2,14:15,855,855,Greg Jones missed Three Point Jumper.,61,56,5,12,0.7167711070600946,0.7167711070600946,3,4,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,245,2,14:15,855,855,Emory Deadball Team Rebound.,61,56,5,0,0.7167711070600946,0.7167711070600946,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,246,2,14:13,853,853,Foul on Eli Pepper.,61,56,5,2,0.7169544966219068,0.7169544966219068,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,247,2,14:04,844,844,Romin Williams missed Three Point Jumper.,61,56,5,9,0.7177915891912852,0.7177915891912852,3,4,NA,NA,NA,Emory,missed,Romin Williams,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,248,2,14:04,844,844,Rob Marberry Defensive Rebound.,61,56,5,0,0.7177915891912852,0.7177915891912852,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,249,2,13:54,834,834,Michael Buckland missed Jumper.,61,56,5,10,0.7187497087902357,0.7187497087902357,3,4,NA,NA,NA,Lipscomb,missed,Michael Buckland,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,250,2,13:54,834,834,Christopher Avant Defensive Rebound.,61,56,5,0,0.7187497087902357,0.7187497087902357,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,251,2,13:46,826,826,Adam Gigax missed Three Point Jumper.,61,56,5,8,0.7195425624348354,0.7195425624348354,3,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,252,2,13:46,826,826,John Matt Merritt Defensive Rebound.,61,56,5,0,0.7195425624348354,0.7195425624348354,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,253,2,13:35,815,815,Eli Pepper made Three Point Jumper. Assisted by Michael Buckland.,64,56,8,11,0.8200270400403854,0.8200270400403854,3,4,NA,NA,NA,Lipscomb,made,Eli Pepper,Michael Buckland,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,254,2,13:24,804,804,Foul on John Matt Merritt.,64,56,8,11,0.8214312602279168,0.8214312602279168,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,255,2,13:18,798,798,Romin Williams made Jumper.,64,58,6,6,0.7592639989436788,0.7592639989436788,3,4,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,256,2,13:03,783,783,Rob Marberry made Layup.,66,58,8,15,0.8243435362104631,0.8243435362104631,3,4,NA,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,257,2,12:55,775,775,Romin Williams made Layup.,66,60,6,8,0.7623819368777685,0.7623819368777685,3,4,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,258,2,12:55,775,775,Foul on John Matt Merritt.,66,60,6,0,0.7623819368777685,0.7623819368777685,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,259,2,12:55,775,775,Romin Williams made Free Throw.,66,61,5,0,0.7254155654004094,0.7254155654004094,3,4,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,260,2,12:39,759,759,Andrew Fleming made Layup.,68,61,7,16,0.7983200775518665,0.7983200775518665,3,4,NA,NA,NA,Lipscomb,made,Andrew Fleming,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,261,2,12:39,759,759,Foul on Clay Washburn.,68,61,7,0,0.7983200775518665,0.7983200775518665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,262,2,12:39,759,759,Andrew Fleming missed Free Throw.,68,61,7,0,0.7983200775518665,0.7983200775518665,3,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,263,2,12:39,759,759,Christopher Avant Defensive Rebound.,68,61,7,0,0.7983200775518665,0.7983200775518665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,264,2,12:23,743,743,Nick Stuck missed Jumper.,68,61,7,16,0.8011265093789313,0.8011265093789313,3,4,NA,NA,NA,Emory,missed,Nick Stuck,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,265,2,12:23,743,743,Clay Washburn Offensive Rebound.,68,61,7,0,0.8011265093789313,0.8011265093789313,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,266,2,12:19,739,739,Clay Washburn missed Jumper.,68,61,7,4,0.8018718628322116,0.8018718628322116,3,4,NA,NA,NA,Emory,missed,Clay Washburn,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,267,2,12:19,739,739,Emory Deadball Team Rebound.,68,61,7,0,0.8018718628322116,0.8018718628322116,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,268,2,12:18,738,738,Foul on John Matt Merritt.,68,61,7,1,0.8020610479240263,0.8020610479240263,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,269,2,12:18,738,738,Nick Stuck missed Free Throw.,68,61,7,0,0.8020610479240263,0.8020610479240263,3,4,NA,NA,NA,Emory,missed,Nick Stuck,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,270,2,12:18,738,738,Garrison Mathews Defensive Rebound.,68,61,7,0,0.8020610479240263,0.8020610479240263,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,271,2,11:59,719,719,Greg Jones missed Jumper.,68,61,7,19,0.8057079297144056,0.8057079297144056,3,4,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,272,2,11:59,719,719,Clay Washburn Block.,68,61,7,0,0.8057079297144056,0.8057079297144056,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,273,2,11:59,719,719,Lipscomb Offensive Rebound.,68,61,7,0,0.8057079297144056,0.8057079297144056,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,274,2,11:59,719,719,Official TV Timeout,68,61,7,0,0.8057079297144056,0.8057079297144056,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,275,2,11:53,713,713,Garrison Mathews missed Jumper.,68,61,7,6,0.806772893022527,0.806772893022527,3,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,276,2,11:53,713,713,Christopher Avant Block.,68,61,7,0,0.806772893022527,0.806772893022527,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,277,2,11:52,712,712,Beau Bommarito Defensive Rebound.,68,61,7,1,0.8069457482833536,0.8069457482833536,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,278,2,11:41,701,701,Romin Williams made Layup. Assisted by Christopher Avant.,68,63,5,11,0.7369212058334468,0.7369212058334468,3,4,NA,NA,NA,Emory,made,Romin Williams,Christopher Avant,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,279,2,11:17,677,677,Greg Jones missed Three Point Jumper.,68,63,5,24,0.7401719812862277,0.7401719812862277,3,4,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,280,2,11:17,677,677,Rob Marberry Offensive Rebound.,68,63,5,0,0.7401719812862277,0.7401719812862277,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,281,2,11:11,671,671,Garrison Mathews made Three Point Jumper. Assisted by Rob Marberry.,71,63,8,6,0.8430929000604066,0.8430929000604066,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Rob Marberry,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,282,2,10:46,646,646,Adam Gigax missed Jumper.,71,63,8,25,0.8466115913176512,0.8466115913176512,3,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,283,2,10:46,646,646,Rob Marberry Defensive Rebound.,71,63,8,0,0.8466115913176512,0.8466115913176512,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,284,2,10:31,631,631,Michael Buckland missed Three Point Jumper.,71,63,8,15,0.8487956869475635,0.8487956869475635,3,4,NA,NA,NA,Lipscomb,missed,Michael Buckland,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,285,2,10:31,631,631,Romin Williams Defensive Rebound.,71,63,8,0,0.8487956869475635,0.8487956869475635,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,286,2,10:14,614,614,Romin Williams missed Three Point Jumper.,71,63,8,17,0.8514483452930458,0.8514483452930458,3,4,NA,NA,NA,Emory,missed,Romin Williams,NA,TRUE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,287,2,10:14,614,614,Romin Williams Offensive Rebound.,71,63,8,0,0.8514483452930458,0.8514483452930458,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,288,2,10:10,610,610,Romin Williams missed Jumper.,71,63,8,4,0.852110122617302,0.852110122617302,3,4,NA,NA,NA,Emory,missed,Romin Williams,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,289,2,10:10,610,610,Rob Marberry Block.,71,63,8,0,0.852110122617302,0.852110122617302,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,290,2,10:08,608,608,Michael Buckland Defensive Rebound.,71,63,8,2,0.8524472806123452,0.8524472806123452,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,291,2,9:57,597,597,Garrison Mathews missed Three Point Jumper.,71,63,8,11,0.8543838876125636,0.8543838876125636,3,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,292,2,9:57,597,597,Whit Rapp Defensive Rebound.,71,63,8,0,0.8543838876125636,0.8543838876125636,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,293,2,9:50,590,590,Whit Rapp made Jumper.,71,65,6,7,0.7916658770928207,0.7916658770928207,3,4,NA,NA,NA,Emory,made,Whit Rapp,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,294,2,9:35,575,575,Foul on Adam Gigax.,71,65,6,15,0.7947338944472422,0.7947338944472422,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,295,2,9:35,575,575,Rob Marberry made Free Throw.,72,65,7,0,0.8291077396141406,0.8291077396141406,3,4,NA,NA,NA,Lipscomb,made,Rob Marberry,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,296,2,9:35,575,575,Rob Marberry missed Free Throw.,72,65,7,0,0.8291077396141406,0.8291077396141406,3,4,NA,NA,NA,Lipscomb,missed,Rob Marberry,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,297,2,9:35,575,575,Gebereal Baitey Defensive Rebound.,72,65,7,0,0.8291077396141406,0.8291077396141406,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,298,2,9:28,568,568,Christopher Avant made Three Point Jumper. Assisted by Whit Rapp.,72,68,4,7,0.7127701431528346,0.7127701431528346,3,4,NA,NA,NA,Emory,made,Christopher Avant,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,299,2,9:11,551,551,Eli Pepper Turnover.,72,68,4,17,0.7163118756618977,0.7163118756618977,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,300,2,8:57,537,537,Christopher Avant missed Jumper.,72,68,4,14,0.7192477792658498,0.7192477792658498,3,4,NA,NA,NA,Emory,missed,Christopher Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,301,2,8:57,537,537,Eli Pepper Defensive Rebound.,72,68,4,0,0.7192477792658498,0.7192477792658498,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,302,2,8:43,523,523,Foul on Aaron Korn.,72,68,4,14,0.7217736874303642,0.7217736874303642,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,303,2,8:43,523,523,Gebereal Baitey missed Free Throw.,72,68,4,0,0.7217736874303642,0.7217736874303642,3,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,304,2,8:43,523,523,Aaron Korn Defensive Rebound.,72,68,4,0,0.7217736874303642,0.7217736874303642,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,305,2,8:33,513,513,Andrew Fleming missed Layup.,72,68,4,10,0.7234242526632252,0.7234242526632252,3,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,FALSE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,306,2,8:33,513,513,George Brammeier Offensive Rebound.,72,68,4,0,0.7234242526632252,0.7234242526632252,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,307,2,8:31,511,511,Foul on Christopher Avant.,72,68,4,2,0.7237456508971063,0.7237456508971063,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,308,2,8:31,511,511,George Brammeier missed Free Throw.,72,68,4,0,0.7237456508971063,0.7237456508971063,3,4,NA,NA,NA,Lipscomb,missed,George Brammeier,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,309,2,8:31,511,511,Lawrence Rowley Defensive Rebound.,72,68,4,0,0.7237456508971063,0.7237456508971063,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,310,2,8:22,502,502,Gebereal Baitey missed Layup.,72,68,4,9,0.7251778621784715,0.7251778621784715,3,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,311,2,8:22,502,502,Whit Rapp Offensive Rebound.,72,68,4,0,0.7251778621784715,0.7251778621784715,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,312,2,8:18,498,498,Romin Williams made Three Point Jumper. Assisted by Whit Rapp.,72,71,1,4,0.560544752037961,0.560544752037961,3,4,NA,NA,NA,Emory,made,Romin Williams,Whit Rapp,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,313,2,8:00,480,480,Foul on Donald Avant.,72,71,1,18,0.5614760098695519,0.5614760098695519,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,314,2,8:00,480,480,Official TV Timeout,72,71,1,0,0.5614760098695519,0.5614760098695519,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,315,2,8:00,480,480,Garrison Mathews made Free Throw.,73,71,2,0,0.6211210093190191,0.6211210093190191,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,316,2,8:00,480,480,Garrison Mathews missed Free Throw.,73,71,2,0,0.6211210093190191,0.6211210093190191,3,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,317,2,8:00,480,480,Lawrence Rowley Defensive Rebound.,73,71,2,0,0.6211210093190191,0.6211210093190191,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,318,2,7:56,476,476,Foul on Aaron Korn.,73,71,2,4,0.6215494315618586,0.6215494315618586,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,319,2,7:56,476,476,Lawrence Rowley made Free Throw.,73,72,1,0,0.5617001715584525,0.5617001715584525,3,4,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,320,2,7:56,476,476,Lawrence Rowley made Free Throw.,73,73,0,0,0.5,0.5,3,4,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,321,2,7:47,467,467,Andrew Fleming missed Three Point Jumper.,73,73,0,9,0.5,0.5,3,4,NA,NA,NA,Lipscomb,missed,Andrew Fleming,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,322,2,7:47,467,467,George Brammeier Offensive Rebound.,73,73,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,323,2,7:37,457,457,George Brammeier made Two Point Tip Shot.,75,73,2,10,0.6238551239199954,0.6238551239199954,3,4,NA,NA,NA,Lipscomb,made,George Brammeier,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,324,2,7:34,454,454,Romin Williams missed Three Point Jumper.,75,73,2,3,0.6242704267879958,0.6242704267879958,3,4,NA,NA,NA,Emory,missed,Romin Williams,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,325,2,7:34,454,454,Aaron Korn Defensive Rebound.,75,73,2,0,0.6242704267879958,0.6242704267879958,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,326,2,7:19,439,439,Garrison Mathews missed Three Point Jumper.,75,73,2,15,0.6266164180456282,0.6266164180456282,3,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,327,2,7:19,439,439,Donald Avant Defensive Rebound.,75,73,2,0,0.6266164180456282,0.6266164180456282,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,328,2,7:01,421,421,Donald Avant missed Jumper.,75,73,2,18,0.6299774633162504,0.6299774633162504,3,4,NA,NA,NA,Emory,missed,Donald Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,329,2,7:01,421,421,Andrew Fleming Defensive Rebound.,75,73,2,0,0.6299774633162504,0.6299774633162504,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,330,2,6:39,399,399,Foul on Lawrence Rowley.,75,73,2,22,0.6338079403266444,0.6338079403266444,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,331,2,6:39,399,399,Michael Buckland made Free Throw.,76,73,3,0,0.69484777439807,0.69484777439807,3,4,NA,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,332,2,6:39,399,399,Michael Buckland made Free Throw.,77,73,4,0,0.7497306090684906,0.7497306090684906,3,4,NA,NA,NA,Lipscomb,made,Michael Buckland,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,333,2,6:19,379,379,Adam Gigax missed Three Point Jumper.,77,73,4,20,0.7552115394251725,0.7552115394251725,3,4,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,334,2,6:19,379,379,Rob Marberry Defensive Rebound.,77,73,4,0,0.7552115394251725,0.7552115394251725,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,335,2,6:04,364,364,Rob Marberry made Layup. Assisted by Garrison Mathews.,79,73,6,15,0.8488417350827672,0.8488417350827672,3,4,NA,NA,NA,Lipscomb,made,Rob Marberry,Garrison Mathews,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,336,2,5:55,355,355,Gebereal Baitey missed Layup.,79,73,6,9,0.8518178021317978,0.8518178021317978,3,4,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,337,2,5:55,355,355,Rob Marberry Block.,79,73,6,0,0.8518178021317978,0.8518178021317978,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,338,2,5:53,353,353,Rob Marberry Defensive Rebound.,79,73,6,2,0.8525054154821728,0.8525054154821728,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,339,2,5:50,350,350,Garrison Mathews made Three Point Jumper. Assisted by Michael Buckland.,82,73,9,3,0.9336502451690998,0.9336502451690998,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,Michael Buckland,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,340,2,5:43,343,343,Lawrence Rowley missed Layup.,82,73,9,7,0.9355374836659114,0.9355374836659114,3,4,NA,NA,NA,Emory,missed,Lawrence Rowley,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,341,2,5:43,343,343,Greg Jones Block.,82,73,9,0,0.9355374836659114,0.9355374836659114,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,342,2,5:41,341,341,Rob Marberry Defensive Rebound.,82,73,9,2,0.9360928318553694,0.9360928318553694,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,343,2,5:40,340,340,Foul on Romin Williams.,82,73,9,1,0.9363733145523959,0.9363733145523959,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,344,2,5:40,340,340,Garrison Mathews missed Free Throw.,82,73,9,0,0.9363733145523959,0.9363733145523959,3,4,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,345,2,5:40,340,340,Lipscomb Deadball Team Rebound.,82,73,9,0,0.9363733145523959,0.9363733145523959,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,346,2,5:40,340,340,Garrison Mathews made Free Throw.,83,73,10,0,0.9520179528484588,0.9520179528484588,3,4,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,347,2,5:40,340,340,Lipscomb  Timeout,83,73,10,0,0.9520179528484588,0.9520179528484588,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,348,2,5:25,325,325,Adam Gigax missed Three Point Jumper.,83,73,10,15,0.9557852043387526,0.9557852043387526,3,3,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,349,2,5:25,325,325,Garrison Mathews Defensive Rebound.,83,73,10,0,0.9557852043387526,0.9557852043387526,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,350,2,5:16,316,316,Foul on Whit Rapp.,83,73,10,9,0.9582129567037592,0.9582129567037592,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,351,2,5:16,316,316,Garrison Mathews made Free Throw.,84,73,11,0,0.9691036074227821,0.9691036074227821,3,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,352,2,5:16,316,316,Garrison Mathews made Free Throw.,85,73,12,0,0.977223374996152,0.977223374996152,3,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,353,2,5:08,308,308,Foul on Greg Jones.,85,73,12,8,0.9786950063072891,0.9786950063072891,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,354,2,5:08,308,308,Whit Rapp made Free Throw.,85,74,11,0,0.97092410114339045,0.97092410114339045,3,3,NA,NA,NA,Emory,made,Whit Rapp,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,355,2,5:08,308,308,Whit Rapp made Free Throw.,85,75,10,0,0.9604333807356659,0.9604333807356659,3,3,NA,NA,NA,Emory,made,Whit Rapp,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,356,2,4:41,281,281,Garrison Mathews missed Jumper.,85,75,10,27,0.96242597454139,0.96242597454139,3,3,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,357,2,4:41,281,281,Beau Bommarito Block.,85,75,10,0,0.96242597454139,0.96242597454139,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,358,2,4:39,279,279,Beau Bommarito Defensive Rebound.,85,75,10,2,0.9623082862868817,0.9623082862868817,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,359,2,4:31,271,271,Christopher Avant made Layup.,85,77,8,8,0.9293772193535154,0.9293772193535154,3,3,NA,NA,NA,Emory,made,Christopher Avant,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,360,2,4:08,248,248,Garrison Mathews made Jumper. Assisted by Eli Pepper.,87,77,10,23,0.9591412465483379,0.9591412465483379,3,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,Eli Pepper,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,361,2,3:53,233,233,Christopher Avant missed Three Point Jumper.,87,77,10,15,0.958643730578449,0.958643730578449,3,3,NA,NA,NA,Emory,missed,Christopher Avant,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,362,2,3:53,233,233,Michael Buckland Defensive Rebound.,87,77,10,0,0.958643730578449,0.958643730578449,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,363,2,3:44,224,224,Foul on Christopher Avant.,87,77,10,9,0.959405087668999,0.959405087668999,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,364,2,3:44,224,224,Official TV Timeout,87,77,10,0,0.959405087668999,0.959405087668999,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,365,2,3:44,224,224,Greg Jones made Free Throw.,88,77,11,0,0.97008250533670215,0.97008250533670215,3,3,NA,NA,NA,Lipscomb,made,Greg Jones,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,366,2,3:44,224,224,Greg Jones missed Free Throw.,88,77,11,0,0.97008250533670215,0.97008250533670215,3,3,NA,NA,NA,Lipscomb,missed,Greg Jones,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,367,2,3:44,224,224,Whit Rapp Defensive Rebound.,88,77,11,0,0.97008250533670215,0.97008250533670215,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,368,2,3:35,215,215,Adam Gigax Turnover.,88,77,11,9,0.9715703585244422,0.9715703585244422,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,369,2,3:20,200,200,Matt Rose missed Three Point Jumper.,88,77,11,15,0.9760712140663871,0.9760712140663871,3,3,NA,NA,NA,Lipscomb,missed,Matt Rose,NA,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,370,2,3:20,200,200,Emory Defensive Rebound.,88,77,11,0,0.9760712140663871,0.9760712140663871,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,371,2,3:09,189,189,Foul on Michael Buckland.,88,77,11,11,0.9806541887417525,0.9806541887417525,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,372,2,3:09,189,189,Adam Gigax made Free Throw.,88,78,10,0,0.9725847595878728,0.9725847595878728,3,3,NA,NA,NA,Emory,made,Adam Gigax,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,373,2,3:09,189,189,Adam Gigax made Free Throw.,88,79,9,0,0.9612823399129812,0.9612823399129812,3,3,NA,NA,NA,Emory,made,Adam Gigax,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,374,2,2:53,173,173,Michael Buckland made Three Point Jumper. Assisted by Rob Marberry.,91,79,12,16,0.9908864098463736,0.9908864098463736,3,3,NA,NA,NA,Lipscomb,made,Michael Buckland,Rob Marberry,TRUE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,375,2,2:45,165,165,Adam Gigax missed Three Point Jumper.,91,79,12,8,0.992616503804607,0.992616503804607,3,3,NA,NA,NA,Emory,missed,Adam Gigax,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,376,2,2:45,165,165,Rob Marberry Defensive Rebound.,91,79,12,0,0.992616503804607,0.992616503804607,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,377,2,2:37,157,157,Garrison Mathews made Layup.,93,79,14,8,0.9974712598655752,0.9974712598655752,3,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,378,2,2:26,146,146,Lawrence Rowley made Layup.,93,81,12,11,0.9957297630270248,0.9957297630270248,3,3,NA,NA,NA,Emory,made,Lawrence Rowley,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,379,2,2:23,143,143,Emory  Timeout,93,81,12,3,0.9961149920008711,0.9961149920008711,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,380,2,2:03,123,123,Garrison Mathews missed Three Point Jumper.,93,81,12,20,0.9980820267715558,0.9980820267715558,2,3,NA,NA,NA,Lipscomb,missed,Garrison Mathews,NA,TRUE,FALSE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,381,2,2:03,123,123,Matt Rose Offensive Rebound.,93,81,12,0,0.9980820267715558,0.9980820267715558,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,382,2,1:44,104,104,Matt Rose made Layup. Assisted by Michael Buckland.,95,81,14,19,0.999741084761071,0.999741084761071,2,3,NA,NA,NA,Lipscomb,made,Matt Rose,Michael Buckland,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,383,2,1:44,104,104,Foul on Lawrence Rowley.,95,81,14,0,0.999741084761071,0.999741084761071,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,384,2,1:44,104,104,Matt Rose made Free Throw.,96,81,15,0,0.9998564468493208,0.9998564468493208,2,3,NA,NA,NA,Lipscomb,made,Matt Rose,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,385,2,1:36,96,96,Foul on Michael Buckland.,96,81,15,8,0.9999130950955321,0.9999130950955321,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,386,2,1:36,96,96,Romin Williams made Free Throw.,96,82,14,0,0.9998379162420669,0.9998379162420669,2,3,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,TRUE,Emory,Emory
+400991910,2017-11-10,Lipscomb,Emory,387,2,1:36,96,96,Romin Williams made Free Throw.,96,83,13,0,0.9996977220541758,0.9996977220541758,2,3,NA,NA,NA,Emory,made,Romin Williams,NA,FALSE,TRUE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,388,2,1:10,70,70,Aaron Korn missed Jumper.,96,83,13,26,0.9999375015652774,0.9999375015652774,2,3,NA,NA,NA,Lipscomb,missed,Aaron Korn,NA,FALSE,FALSE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,389,2,1:10,70,70,Clay Washburn Block.,96,83,13,0,0.9999375015652774,0.9999375015652774,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,390,2,1:09,69,69,Romin Williams Defensive Rebound.,96,83,13,1,0.9999415129767095,0.9999415129767095,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,391,2,1:03,63,63,Whit Rapp missed Three Point Jumper.,96,83,13,6,0.999960967298472,0.999960967298472,2,3,NA,NA,NA,Emory,missed,Whit Rapp,NA,TRUE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,392,2,1:03,63,63,Aaron Korn Defensive Rebound.,96,83,13,0,0.999960967298472,0.999960967298472,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,393,2,0:33,33,33,Foul on Clay Washburn.,96,83,13,30,0.9999958143295954,0.9999958143295954,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,394,2,0:33,33,33,Garrison Mathews made Free Throw.,97,83,14,0,0.9999983854336335,0.9999983854336335,2,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,395,2,0:33,33,33,Garrison Mathews made Free Throw.,98,83,15,0,0.999999377203606,0.999999377203606,2,3,NA,NA,NA,Lipscomb,made,Garrison Mathews,NA,FALSE,TRUE,Lipscomb,Emory
+400991910,2017-11-10,Lipscomb,Emory,396,2,0:25,25,25,Gebereal Baitey missed Jumper.,98,83,15,8,0.9999997080689352,0.9999997080689352,2,3,NA,NA,NA,Emory,missed,Gebereal Baitey,NA,FALSE,FALSE,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,397,2,0:25,25,25,Eli Pepper Defensive Rebound.,98,83,15,0,0.9999997080689352,0.9999997080689352,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Emory,Lipscomb
+400991910,2017-11-10,Lipscomb,Emory,398,2,0:00,0,0,End of Game,98,98,0,25,1,1,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lipscomb,NA
