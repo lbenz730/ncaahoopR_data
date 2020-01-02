@@ -1,0 +1,322 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400986561,2018-02-10,Nebraska,Rutgers,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8187722773438659,0.5,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,2,1,19:45,2385,2385,Isaiah Roby missed Layup.,0,0,0,15,0.8184360821953803,0.5,4,4,9.4,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,3,1,19:45,2385,2385,Deshawn Freeman Defensive Rebound.,0,0,0,0,0.8184360821953803,0.5,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,4,1,19:13,2353,2353,Rutgers  Turnover.,0,0,0,32,0.8176967229101048,0.5,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,5,1,19:00,2340,2340,Foul on Deshawn Freeman.,0,0,0,13,0.8173874753455213,0.5,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,6,1,19:00,2340,2340,Isaac Copeland made Free Throw.,1,0,1,0,0.8305614226335167,0.522700560220778,4,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,7,1,19:00,2340,2340,Isaac Copeland made Free Throw.,2,0,2,0,0.8429675651611205,0.5453077293526352,4,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,8,1,18:40,2320,2320,Deshawn Freeman missed Jumper.,2,0,2,20,0.8427704375540727,0.545745316074961,4,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,9,1,18:40,2320,2320,Isaiah Roby Block.,2,0,2,0,0.8427704375540727,0.545745316074961,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,10,1,18:38,2318,2318,Issa Thiam Offensive Rebound.,2,0,2,2,0.8427502789121325,0.5457893300573414,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,11,1,18:37,2317,2317,Corey Sanders missed Three Point Jumper.,2,0,2,1,0.8427401684450245,0.5458113538505914,4,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,12,1,18:37,2317,2317,Deshawn Freeman Offensive Rebound.,2,0,2,0,0.8427401684450245,0.5458113538505914,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,13,1,18:17,2297,2297,Foul on Glynn Watson Jr..,2,0,2,20,0.8425334939878008,0.5462540972634312,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,14,1,18:05,2285,2285,Deshawn Freeman missed Three Point Jumper.,2,0,2,12,0.8424052692630897,0.5465217053597001,4,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,15,1,18:05,2285,2285,Anton Gill Defensive Rebound.,2,0,2,0,0.8424052692630897,0.5465217053597001,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,16,1,17:46,2266,2266,James Palmer Jr. made Jumper.,4,0,4,19,0.8656465104247781,0.5930757245876026,4,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,17,1,17:21,2241,2241,Deshawn Freeman missed Jumper.,4,0,4,25,0.865658940396954,0.5941773194220317,4,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,18,1,17:21,2241,2241,Isaiah Roby Defensive Rebound.,4,0,4,0,0.865658940396954,0.5941773194220317,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,19,1,17:12,2232,2232,Isaiah Roby made Layup.,6,0,6,9,0.8864097158607903,0.6397714299202051,4,4,9.4,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,20,1,17:10,2230,2230,Rutgers  Timeout,6,0,6,2,0.8864283897886059,0.6398986463524814,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,21,1,16:54,2214,2214,Corey Sanders Turnover.,6,0,6,16,0.886575607898987,0.6409182834423984,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,22,1,16:52,2212,2212,Isaac Copeland Steal.,6,0,6,2,0.8865937281618168,0.6410459580817187,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,23,1,16:44,2204,2204,Thomas Allen missed Three Point Jumper.,6,0,6,8,0.8866655527295315,0.6415570930562644,3,4,9.4,NA,NA,Nebraska,missed,Thomas Allen,NA,TRUE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,24,1,16:44,2204,2204,James Palmer Jr. Offensive Rebound.,6,0,6,0,0.8866655527295315,0.6415570930562644,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,25,1,16:41,2201,2201,James Palmer Jr. made Jumper.,8,0,8,3,0.9047980241070452,0.6850944971135035,3,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,26,1,16:23,2183,2183,Geo Baker made Jumper.,8,2,6,18,0.8868488248107553,0.642901669850931,3,4,9.4,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,27,1,16:23,2183,2183,Foul on Thomas Allen.,8,2,6,0,0.8868488248107553,0.642901669850931,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,28,1,16:23,2183,2183,Geo Baker missed Free Throw.,8,2,6,0,0.8868488248107553,0.642901669850931,3,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,TRUE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,29,1,16:23,2183,2183,James Palmer Jr. Defensive Rebound.,8,2,6,0,0.8868488248107553,0.642901669850931,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,30,1,15:58,2158,2158,Isaac Copeland made Three Point Jumper. Assisted by Anton Gill.,11,2,9,25,0.9136084802758035,0.70939967897369,3,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,Anton Gill,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,31,1,15:36,2136,2136,Eugene Omoruyi missed Jumper.,11,2,9,22,0.9139911378094266,0.7113147987123748,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,32,1,15:36,2136,2136,Thomas Allen Defensive Rebound.,11,2,9,0,0.9139911378094266,0.7113147987123748,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,33,1,15:25,2125,2125,Anton Gill missed Three Point Jumper.,11,2,9,11,0.9141810045588106,0.7122752560124606,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,34,1,15:25,2125,2125,James Palmer Jr. Offensive Rebound.,11,2,9,0,0.9141810045588106,0.7122752560124606,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,35,1,15:22,2122,2122,Official TV Timeout,11,2,9,3,0.914232634152344,0.7125375608005805,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,36,1,15:19,2119,2119,Jordy Tshimanga made Jumper. Assisted by Evan Taylor.,13,2,11,3,0.9288468478218077,0.7523205435317345,3,4,9.4,NA,NA,Nebraska,made,Jordy Tshimanga,Evan Taylor,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,37,1,15:19,2119,2119,Foul on Shaquille Doorson.,13,2,11,0,0.9288468478218077,0.7523205435317345,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,38,1,15:19,2119,2119,Jordy Tshimanga missed Free Throw.,13,2,11,0,0.9288468478218077,0.7523205435317345,3,4,9.4,NA,NA,Nebraska,missed,Jordy Tshimanga,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,39,1,15:19,2119,2119,Shaquille Doorson Defensive Rebound.,13,2,11,0,0.9288468478218077,0.7523205435317345,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,40,1,14:54,2094,2094,Corey Sanders missed Jumper.,13,2,11,25,0.9293642480012619,0.7547586132411381,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,41,1,14:54,2094,2094,Eugene Omoruyi Offensive Rebound.,13,2,11,0,0.9293642480012619,0.7547586132411381,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,42,1,14:52,2092,2092,Eugene Omoruyi missed Jumper.,13,2,11,2,0.9294055039604225,0.754954038365111,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,43,1,14:52,2092,2092,Thomas Allen Defensive Rebound.,13,2,11,0,0.9294055039604225,0.754954038365111,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,44,1,14:39,2079,2079,Foul on James Palmer Jr..,13,2,11,13,0.9296732584501033,0.7562258071100232,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,45,1,14:39,2079,2079,James Palmer Jr. Turnover.,13,2,11,0,0.9296732584501033,0.7562258071100232,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,46,1,14:23,2063,2063,Eugene Omoruyi missed Jumper.,13,2,11,16,0.9300019777251367,0.757794886311785,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,47,1,14:23,2063,2063,Eugene Omoruyi Offensive Rebound.,13,2,11,0,0.9300019777251367,0.757794886311785,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,48,1,14:13,2053,2053,Corey Sanders missed Three Point Jumper.,13,2,11,10,0.9302070690838593,0.7587778728953003,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,49,1,14:13,2053,2053,Isaiah Roby Defensive Rebound.,13,2,11,0,0.9302070690838593,0.7587778728953003,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,50,1,14:05,2045,2045,Evan Taylor made Jumper. Assisted by Isaiah Roby.,15,2,13,8,0.9427593935022778,0.795669463836225,3,4,9.4,NA,NA,Nebraska,made,Evan Taylor,Isaiah Roby,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,51,1,13:56,2036,2036,Corey Sanders made Jumper.,15,4,11,9,0.9305552912851071,0.7604533521548724,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,52,1,13:38,2018,2018,Anton Gill missed Three Point Jumper.,15,4,11,18,0.9309236840592287,0.7622338789094694,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,53,1,13:38,2018,2018,Nebraska Offensive Rebound.,15,4,11,0,0.9309236840592287,0.7622338789094694,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,54,1,13:20,2000,2000,Jordy Tshimanga missed Layup.,15,4,11,18,0.9312920896732482,0.7640216078251771,3,4,9.4,NA,NA,Nebraska,missed,Jordy Tshimanga,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,55,1,13:20,2000,2000,Isaiah Roby Offensive Rebound.,15,4,11,0,0.9312920896732482,0.7640216078251771,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,56,1,13:05,1985,1985,Isaiah Roby made Dunk. Assisted by Evan Taylor.,17,4,13,15,0.9440986545746928,0.8019126428497073,3,4,9.4,NA,NA,Nebraska,made,Isaiah Roby,Evan Taylor,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,57,1,12:52,1972,1972,Mike Williams Turnover.,17,4,13,13,0.9443888459805897,0.8032721717824464,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,58,1,12:52,1972,1972,Glynn Watson Jr. Steal.,17,4,13,0,0.9443888459805897,0.8032721717824464,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,59,1,12:35,1955,1955,Anton Gill made Three Point Jumper. Assisted by Glynn Watson Jr..,20,4,16,17,0.9595611465051751,0.851379616253066,3,4,9.4,NA,NA,Nebraska,made,Anton Gill,Glynn Watson Jr,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,60,1,12:13,1933,1933,Foul on Isaiah Roby.,20,4,16,22,0.9600586960339765,0.853671399806767,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,61,1,12:13,1933,1933,Corey Sanders made Free Throw.,20,5,15,0,0.9556107238771303,0.839358244466317,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,TRUE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,62,1,12:13,1933,1933,Corey Sanders made Free Throw.,20,6,14,0,0.9506928532688507,0.823933798761176,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,TRUE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,63,1,11:57,1917,1917,Anton Gill missed Three Point Jumper.,20,6,14,16,0.9510547188125327,0.8256223698390073,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,64,1,11:57,1917,1917,Isaiah Roby Offensive Rebound.,20,6,14,0,0.9510547188125327,0.8256223698390073,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,65,1,11:53,1913,1913,Isaiah Roby missed Jumper.,20,6,14,4,0.951144141249042,0.8260419893066393,3,4,9.4,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,66,1,11:53,1913,1913,Rutgers Defensive Rebound.,20,6,14,0,0.951144141249042,0.8260419893066393,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,67,1,11:49,1909,1909,Official TV Timeout,20,6,14,4,0.95123316481549,0.8264606448128546,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,68,1,11:36,1896,1896,Geo Baker made Three Point Jumper. Assisted by Corey Sanders.,20,9,11,13,0.9334188170501587,0.7744733820426623,3,4,9.4,NA,NA,Rutgers,made,Geo Baker,Corey Sanders,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,69,1,11:09,1869,1869,Isaac Copeland made Jumper. Assisted by Isaiah Roby.,22,9,13,27,0.9466522290650627,0.8140195853117449,3,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,Isaiah Roby,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,70,1,10:55,1855,1855,Deshawn Freeman missed Jumper.,22,9,13,14,0.9469466977911739,0.8154543696653899,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,71,1,10:55,1855,1855,Glynn Watson Jr. Defensive Rebound.,22,9,13,0,0.9469466977911739,0.8154543696653899,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,72,1,10:48,1848,1848,Glynn Watson Jr. Turnover.,22,9,13,7,0.9470931297887841,0.8161702884653602,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,73,1,10:47,1847,1847,Candido Sa Steal.,22,9,13,1,0.9471140120688804,0.8162724994558044,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,74,1,10:44,1844,1844,Geo Baker missed Jumper.,22,9,13,3,0.9471766093124621,0.8165790503944106,3,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,75,1,10:44,1844,1844,Isaiah Roby Defensive Rebound.,22,9,13,0,0.9471766093124621,0.8165790503944106,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,76,1,10:19,1819,1819,Isaac Copeland missed Three Point Jumper.,22,9,13,25,0.9476961593803302,0.8191307706235045,3,4,9.4,NA,NA,Nebraska,missed,Isaac Copeland,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,77,1,10:19,1819,1819,Corey Sanders Defensive Rebound.,22,9,13,0,0.9476961593803302,0.8191307706235045,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,78,1,10:08,1808,1808,Corey Sanders made Layup.,22,11,11,11,0.9351133156013136,0.78321757889951,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,79,1,9:45,1785,1785,Evan Taylor missed Jumper.,22,11,11,23,0.9355516242389967,0.7855113451635404,3,4,9.4,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,80,1,9:45,1785,1785,Evan Taylor Offensive Rebound.,22,11,11,0,0.9355516242389967,0.7855113451635404,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,81,1,9:39,1779,1779,Foul on Issa Thiam.,22,11,11,6,0.9356664872323345,0.7861121105748924,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,82,1,9:36,1776,1776,James Palmer Jr. made Layup.,24,11,13,3,0.9485889993796122,0.8235266624299801,3,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,83,1,9:26,1766,1766,Corey Sanders missed Jumper.,24,11,13,10,0.9487980304113217,0.8245538400996472,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,84,1,9:26,1766,1766,Deshawn Freeman Offensive Rebound.,24,11,13,0,0.9487980304113217,0.8245538400996472,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,85,1,9:24,1764,1764,Deshawn Freeman made Jumper.,24,13,11,2,0.9359551355580796,0.7876195340285412,3,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,86,1,9:08,1748,1748,James Palmer Jr. missed Jumper.,24,13,11,16,0.9362660855654363,0.7892376532920615,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,87,1,9:08,1748,1748,Mike Williams Block.,24,13,11,0,0.9362660855654363,0.7892376532920615,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,88,1,9:07,1747,1747,Geo Baker Defensive Rebound.,24,13,11,1,0.9362856455995341,0.789339179853059,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,89,1,9:02,1742,1742,Geo Baker missed Three Point Jumper.,24,13,11,5,0.9363836925042681,0.7898475612354212,3,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,90,1,9:02,1742,1742,Deshawn Freeman Offensive Rebound.,24,13,11,0,0.9363836925042681,0.7898475612354212,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,91,1,8:58,1738,1738,Deshawn Freeman made Jumper.,24,15,9,4,0.9205104544066938,0.7474935725459295,3,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,92,1,8:27,1707,1707,James Palmer Jr. Turnover.,24,15,9,31,0.9210188991246464,0.750471159440458,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,93,1,8:26,1706,1706,Geo Baker Steal.,24,15,9,1,0.9210356875965416,0.7505683265381344,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,94,1,8:23,1703,1703,Deshawn Freeman made Dunk. Assisted by Geo Baker.,24,17,7,3,0.9013255873209579,0.7022528500312254,3,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,Geo Baker,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,95,1,7:57,1677,1677,James Palmer Jr. made Jumper. Assisted by Glynn Watson Jr..,26,17,9,26,0.9215242867901484,0.7533982998793303,3,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,Glynn Watson Jr,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,96,1,7:57,1677,1677,Foul on Deshawn Freeman.,26,17,9,0,0.9215242867901484,0.7533982998793303,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,97,1,7:57,1677,1677,James Palmer Jr. made Free Throw.,27,17,10,0,0.930041760467067,0.7757224802548479,3,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,98,1,7:39,1659,1659,Eugene Omoruyi made Jumper.,27,19,8,18,0.9122909904403879,0.7312385040970304,3,4,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,99,1,7:17,1637,1637,Glynn Watson Jr. missed Jumper.,27,19,8,22,0.912531999979477,0.7331590091285285,3,4,9.4,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,100,1,7:17,1637,1637,Issa Thiam Defensive Rebound.,27,19,8,0,0.912531999979477,0.7331590091285285,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,101,1,7:15,1635,1635,Issa Thiam made Three Point Jumper. Assisted by Geo Baker.,27,22,5,2,0.8771657551122554,0.6529982601786999,3,4,9.4,NA,NA,Rutgers,made,Issa Thiam,Geo Baker,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,102,1,6:45,1605,1605,Official TV Timeout,27,22,5,30,0.8770233503175566,0.6548556092379073,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,103,1,6:44,1604,1604,Glynn Watson Jr. made Jumper. Assisted by Thomas Allen.,29,22,7,1,0.9021000504069457,0.7103355544415711,3,4,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,Thomas Allen,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,104,1,6:21,1581,1581,Mike Williams missed Jumper.,29,22,7,23,0.9022161576919359,0.7121410383928547,3,4,9.4,NA,NA,Rutgers,missed,Mike Williams,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,105,1,6:21,1581,1581,Thomas Allen Defensive Rebound.,29,22,7,0,0.9022161576919359,0.7121410383928547,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,106,1,6:14,1574,1574,Thomas Allen Turnover.,29,22,7,7,0.9022506647642626,0.7126919854765793,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,107,1,6:13,1573,1573,Issa Thiam Steal.,29,22,7,1,0.9022556004015904,0.7127708121964464,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,108,1,5:57,1557,1557,Corey Sanders missed Jumper.,29,22,7,16,0.902335765997099,0.7140378086510712,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,109,1,5:57,1557,1557,Jordy Tshimanga Defensive Rebound.,29,22,7,0,0.902335765997099,0.7140378086510712,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,110,1,5:38,1538,1538,Glynn Watson Jr. made Jumper.,31,22,9,19,0.9233100014574235,0.7660506073445403,3,4,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,111,1,5:12,1512,1512,Mamadou Doucoure missed Jumper.,31,22,9,26,0.9236525111306401,0.7684704777339536,3,4,9.4,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,112,1,5:12,1512,1512,Eugene Omoruyi Offensive Rebound.,31,22,9,0,0.9236525111306401,0.7684704777339536,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,113,1,5:09,1509,1509,Foul on Isaiah Roby.,31,22,9,3,0.9236943486540679,0.7687549699383451,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,114,1,4:59,1499,1499,Deshawn Freeman missed Jumper.,31,22,9,10,0.9238379914886041,0.7697125403992128,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,115,1,4:59,1499,1499,Candido Sa Offensive Rebound.,31,22,9,0,0.9238379914886041,0.7697125403992128,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,116,1,4:55,1495,1495,Candido Sa missed Jumper.,31,22,9,4,0.9238973854645336,0.7700998138747527,3,4,9.4,NA,NA,Rutgers,missed,Candido Sa,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,117,1,4:55,1495,1495,Evan Taylor Block.,31,22,9,0,0.9238973854645336,0.7700998138747527,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,118,1,4:54,1494,1494,Rutgers Offensive Rebound.,31,22,9,1,0.9239124174285358,0.770197031246345,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,119,1,4:45,1485,1485,Mike Williams made Layup.,31,24,7,9,0.9028093982415649,0.7200170794987923,3,4,9.4,NA,NA,Rutgers,made,Mike Williams,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,120,1,4:24,1464,1464,Anton Gill missed Jumper.,31,24,7,21,0.9030141862128378,0.7218996191226553,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,121,1,4:24,1464,1464,Candido Sa Defensive Rebound.,31,24,7,0,0.9030141862128378,0.7218996191226553,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,122,1,3:54,1434,1434,Eugene Omoruyi made Jumper. Assisted by Corey Sanders.,31,26,5,30,0.8763774909784978,0.6662564945244798,3,4,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,Corey Sanders,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,123,1,3:30,1410,1410,Jordy Tshimanga made Jumper.,33,26,7,24,0.9035794395608209,0.726820135722932,3,4,9.4,NA,NA,Nebraska,made,Jordy Tshimanga,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,124,1,3:07,1387,1387,Eugene Omoruyi made Layup.,33,28,5,23,0.8762319096402986,0.6695366179392077,3,4,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,125,1,2:42,1362,1362,James Palmer Jr. missed Three Point Jumper.,33,28,5,25,0.87610870208937075,0.6712268110299909,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,126,1,2:42,1362,1362,Geo Baker Defensive Rebound.,33,28,5,0,0.87610870208937075,0.6712268110299909,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,127,1,2:32,1352,1352,Mike Williams missed Jumper.,33,28,5,10,0.8760565678759621,0.671902725759929,3,4,9.4,NA,NA,Rutgers,missed,Mike Williams,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,128,1,2:32,1352,1352,Evan Taylor Defensive Rebound.,33,28,5,0,0.8760565678759621,0.671902725759929,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,129,1,2:21,1341,1341,Foul on Corey Sanders.,33,28,5,11,0.8759995840675758,0.672649954483367,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,130,1,2:21,1341,1341,Official TV Timeout,33,28,5,0,0.8759995840675758,0.672649954483367,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,131,1,2:21,1341,1341,Evan Taylor made Free Throw.,34,28,6,0,0.8908175883627723,0.7035444969022213,3,4,9.4,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,132,1,2:21,1341,1341,Evan Taylor made Free Throw.,35,28,7,0,0.9040587822064634,0.7326820347484393,3,4,9.4,NA,NA,Nebraska,made,Evan Taylor,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,133,1,2:09,1329,1329,Eugene Omoruyi missed Layup.,35,28,7,12,0.9041407492612058,0.7337061569075024,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,134,1,2:09,1329,1329,Duby Okeke Block.,35,28,7,0,0.9041407492612058,0.7337061569075024,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,135,1,2:08,1328,1328,Eugene Omoruyi Offensive Rebound.,35,28,7,1,0.9041478018324332,0.7337920374675062,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,136,1,1:56,1316,1316,Corey Sanders missed Jumper.,35,28,7,12,0.9042359715125798,0.73483075145104515,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,137,1,1:56,1316,1316,Duby Okeke Defensive Rebound.,35,28,7,0,0.9042359715125798,0.73483075145104515,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,138,1,1:31,1291,1291,Glynn Watson Jr. missed Three Point Jumper.,35,28,7,25,0.9044484954585081,0.7370582192649668,3,4,9.4,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,139,1,1:31,1291,1291,Corey Sanders Defensive Rebound.,35,28,7,0,0.9044484954585081,0.7370582192649668,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,140,1,1:09,1269,1269,Eugene Omoruyi missed Jumper.,35,28,7,22,0.9046812972957712,0.7391152944158451,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,141,1,1:09,1269,1269,Duby Okeke Block.,35,28,7,0,0.9046812972957712,0.7391152944158451,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,142,1,1:08,1268,1268,Shaquille Doorson Offensive Rebound.,35,28,7,1,0.9046931407876626,0.7392114153288494,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,143,1,1:08,1268,1268,Shaquille Doorson Turnover.,35,28,7,0,0.9046931407876626,0.7392114153288494,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,144,1,0:58,1258,1258,Foul on Eugene Omoruyi.,35,28,7,10,0.9048184018415409,0.7401866363832517,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,145,1,0:50,1250,1250,Foul on Corey Sanders.,35,28,7,8,0.9049281391993966,0.74098626700996,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,146,1,0:50,1250,1250,Glynn Watson Jr. made Free Throw.,36,28,8,0,0.9170846664346906,0.7687485516544399,3,4,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,147,1,0:50,1250,1250,Glynn Watson Jr. made Free Throw.,37,28,9,0,0.9278107794142842,0.7943609622644483,3,4,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,148,1,0:24,1224,1224,Eugene Omoruyi missed Three Point Jumper.,37,28,9,26,0.928412315838605,0.7973466338585886,3,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,149,1,0:24,1224,1224,Glynn Watson Jr. Defensive Rebound.,37,28,9,0,0.928412315838605,0.7973466338585886,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,150,1,0:02,1202,1202,James Palmer Jr. missed Jumper.,37,28,9,22,0.9290003817094646,0.8000404559887966,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,151,1,0:02,1202,1202,Candido Sa Defensive Rebound.,37,28,9,0,0.9290003817094646,0.8000404559887966,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,152,1,0:00,1200,1200,End of 1st half,37,28,9,2,0.9290538661156248,0.8002839754918194,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,NA
+400986561,2018-02-10,Nebraska,Rutgers,153,2,20:00,1200,1200,PLAY,37,28,9,0,0.9290538661156248,0.8002839754918194,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,154,2,19:43,1183,1183,Foul on Mamadou Doucoure.,37,28,9,17,0.9294941343409368,0.8023093382025254,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,155,2,19:43,1183,1183,James Palmer Jr. made Free Throw.,38,28,10,0,0.9390370141086344,0.8258410830594181,4,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,156,2,19:43,1183,1183,James Palmer Jr. missed Free Throw.,38,28,10,0,0.9390370141086344,0.8258410830594181,4,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,157,2,19:43,1183,1183,Mamadou Doucoure Defensive Rebound.,38,28,10,0,0.9390370141086344,0.8258410830594181,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,158,2,19:25,1165,1165,Corey Sanders Turnover.,38,28,10,18,0.9395078573926535,0.8279289234030652,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,159,2,19:25,1165,1165,Glynn Watson Jr. Steal.,38,28,10,0,0.9395078573926535,0.8279289234030652,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,160,2,19:13,1153,1153,Isaiah Roby Turnover.,38,28,10,12,0.9398130001138618,0.8292899451554887,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,161,2,19:12,1152,1152,Corey Sanders Steal.,38,28,10,1,0.9398382100971971,0.8294025208870351,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,162,2,19:03,1143,1143,Deshawn Freeman Turnover.,38,28,10,9,0.9400640582138238,0.8304111775024475,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,163,2,19:02,1142,1142,Isaac Copeland Steal.,38,28,10,1,0.9400890626603928,0.8305228195747467,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,164,2,18:56,1136,1136,Anton Gill missed Three Point Jumper.,38,28,10,6,0.940238869771001,0.8311912976279313,4,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,165,2,18:56,1136,1136,Issa Thiam Defensive Rebound.,38,28,10,0,0.940238869771001,0.8311912976279313,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,166,2,18:38,1118,1118,Issa Thiam missed Three Point Jumper.,38,28,10,18,0.9406885312343761,0.8331894688400447,4,4,9.4,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,167,2,18:38,1118,1118,Rutgers Offensive Rebound.,38,28,10,0,0.9406885312343761,0.8331894688400447,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,168,2,18:23,1103,1103,Mamadou Doucoure missed Jumper.,38,28,10,15,0.9410679200735931,0.834858317185975,4,4,9.4,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,169,2,18:23,1103,1103,Corey Sanders Offensive Rebound.,38,28,10,0,0.9410679200735931,0.834858317185975,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,170,2,18:13,1093,1093,Geo Baker missed Three Point Jumper.,38,28,10,10,0.9413256041066376,0.8359792740229369,4,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,171,2,18:13,1093,1093,Isaac Copeland Defensive Rebound.,38,28,10,0,0.9413256041066376,0.8359792740229369,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,172,2,18:02,1082,1082,Glynn Watson Jr. missed Layup.,38,28,10,11,0.9416152659868384,0.837224968846611,4,4,9.4,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,173,2,18:02,1082,1082,Issa Thiam Defensive Rebound.,38,28,10,0,0.9416152659868384,0.837224968846611,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,174,2,17:42,1062,1062,Mamadou Doucoure missed Jumper.,38,28,10,20,0.9421639866939038,0.839538233963421,4,4,9.4,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,175,2,17:42,1062,1062,Deshawn Freeman Offensive Rebound.,38,28,10,0,0.9421639866939038,0.839538233963421,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,176,2,17:36,1056,1056,Foul on Isaiah Roby.,38,28,10,6,0.9423353500473535,0.8402475587845815,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,177,2,17:36,1056,1056,Deshawn Freeman made Free Throw.,38,29,9,0,0.932623780704087,0.816687483526972,4,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,TRUE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,178,2,17:36,1056,1056,Deshawn Freeman made Free Throw.,38,30,8,0,0.9214130411664984,0.790519049788547,4,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,TRUE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,179,2,17:17,1037,1037,Glynn Watson Jr. missed Jumper.,38,30,8,19,0.9219211899030489,0.7927974091177523,4,4,9.4,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,180,2,17:17,1037,1037,Deshawn Freeman Defensive Rebound.,38,30,8,0,0.9219211899030489,0.7927974091177523,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,181,2,17:11,1031,1031,Corey Sanders made Dunk. Assisted by Deshawn Freeman.,38,32,6,6,0.8942123103025987,0.732979865041721,4,4,9.4,NA,NA,Rutgers,made,Corey Sanders,Deshawn Freeman,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,182,2,16:54,1014,1014,Jordy Tshimanga made Jumper. Assisted by James Palmer Jr..,40,32,8,17,0.9226020619234091,0.7957073915864381,4,4,9.4,NA,NA,Nebraska,made,Jordy Tshimanga,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,183,2,16:36,996,996,Corey Sanders Turnover.,40,32,8,18,0.923194171291979,0.7981231642709281,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,184,2,16:21,981,981,Isaac Copeland missed Three Point Jumper.,40,32,8,15,0.9237327329249398,0.8002423391342844,4,4,9.4,NA,NA,Nebraska,missed,Isaac Copeland,NA,TRUE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,185,2,16:21,981,981,Jordy Tshimanga Offensive Rebound.,40,32,8,0,0.9237327329249398,0.8002423391342844,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,186,2,16:17,977,977,Jordy Tshimanga made Jumper.,42,32,10,4,0.945017572534813,0.8506010911587153,4,4,9.4,NA,NA,Nebraska,made,Jordy Tshimanga,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,187,2,15:58,958,958,Deshawn Freeman Turnover.,42,32,10,19,0.9457782633269454,0.8533547887968876,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,188,2,15:58,958,958,Jordy Tshimanga Steal.,42,32,10,0,0.9457782633269454,0.8533547887968876,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,189,2,15:58,958,958,Official TV Timeout,42,32,10,0,0.9457782633269454,0.8533547887968876,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,190,2,15:50,950,950,James Palmer Jr. missed Jumper.,42,32,10,8,0.9460725348330767,0.8544310395217783,4,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,191,2,15:50,950,950,James Palmer Jr. Offensive Rebound.,42,32,10,0,0.9460725348330767,0.8544310395217783,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,192,2,15:47,947,947,James Palmer Jr. made Jumper.,44,32,12,3,0.961629811887448,0.8935488317033202,4,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,193,2,15:30,930,930,Issa Thiam missed Three Point Jumper.,44,32,12,17,0.9621631482595028,0.895472604164101,4,4,9.4,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,194,2,15:30,930,930,Evan Taylor Defensive Rebound.,44,32,12,0,0.9621631482595028,0.895472604164101,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,195,2,15:08,908,908,Jordy Tshimanga missed Jumper.,44,32,12,22,0.9627867518611491,0.8977417877165895,4,4,9.4,NA,NA,Nebraska,missed,Jordy Tshimanga,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,196,2,15:08,908,908,Isaac Copeland Offensive Rebound.,44,32,12,0,0.9627867518611491,0.8977417877165895,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,197,2,15:06,906,906,Isaac Copeland made Jumper.,46,32,14,2,0.9738421129945732,0.9266921508589182,4,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,198,2,14:48,888,888,Deshawn Freeman Turnover.,46,32,14,18,0.9742594906409743,0.9281865107035426,4,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,199,2,14:39,879,879,Isaac Copeland made Jumper. Assisted by James Palmer Jr..,48,32,16,9,0.9821711554126941,0.9496601812719522,4,4,9.4,NA,NA,Nebraska,made,Isaac Copeland,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,200,2,14:32,872,872,Rutgers  Timeout,48,32,16,7,0.9823038152064849,0.9501257782328406,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,201,2,14:09,849,849,Corey Sanders missed Three Point Jumper.,48,32,16,23,0.9827444436009843,0.9516588659100521,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,202,2,14:09,849,849,Candido Sa Offensive Rebound.,48,32,16,0,0.9827444436009843,0.9516588659100521,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,203,2,14:02,842,842,Mike Williams missed Jumper.,48,32,16,7,0.982882387095333,0.952133698585338,3,4,9.4,NA,NA,Rutgers,missed,Mike Williams,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,204,2,14:02,842,842,Candido Sa Offensive Rebound.,48,32,16,0,0.982882387095333,0.952133698585338,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,205,2,13:59,839,839,Candido Sa made Dunk.,48,34,14,3,0.9753879649202064,0.9321668890267942,3,4,9.4,NA,NA,Rutgers,made,Candido Sa,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,206,2,13:37,817,817,Foul on Candido Sa.,48,34,14,22,0.9759443385865626,0.9340722758710761,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,207,2,13:22,802,802,Jordy Tshimanga Turnover.,48,34,14,15,0.9763577204599395,0.9354614597290808,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,208,2,13:21,801,801,Candido Sa Steal.,48,34,14,1,0.976386445080765,0.9355571982221976,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,209,2,13:01,781,781,Corey Sanders made Layup.,48,36,12,20,0.966488304694035,0.910694669184119,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,210,2,12:43,763,763,James Palmer Jr. missed Three Point Jumper.,48,36,12,18,0.9672143333046138,0.9130568011373925,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,211,2,12:43,763,763,Candido Sa Defensive Rebound.,48,36,12,0,0.9672143333046138,0.9130568011373925,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,212,2,12:25,745,745,Corey Sanders made Jumper.,48,38,10,18,0.9531536082960671,0.8794488319949731,3,4,9.4,NA,NA,Rutgers,made,Corey Sanders,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,213,2,12:02,722,722,Foul on Issa Thiam.,48,38,10,23,0.9544658869988415,0.8835939321203726,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,214,2,12:02,722,722,James Palmer Jr. made Free Throw.,49,38,11,0,0.9625067952462082,0.9028766597469372,3,4,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,215,2,12:02,722,722,James Palmer Jr. missed Free Throw.,49,38,11,0,0.9625067952462082,0.9028766597469372,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,216,2,12:02,722,722,Deshawn Freeman Defensive Rebound.,49,38,11,0,0.9625067952462082,0.9028766597469372,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,217,2,11:40,700,700,Official TV Timeout,49,38,11,22,0.9635323300558797,0.9061648369237005,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,218,2,11:33,693,693,Corey Sanders missed Three Point Jumper.,49,38,11,7,0.9638208302581474,0.907106353037571,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,219,2,11:33,693,693,Glynn Watson Jr. Defensive Rebound.,49,38,11,0,0.9638208302581474,0.907106353037571,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,220,2,11:19,679,679,Glynn Watson Jr. made Three Point Jumper. Assisted by Evan Taylor.,52,38,14,14,0.9806465851719466,0.949185848131107,3,4,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,Evan Taylor,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,221,2,10:51,651,651,Geo Baker missed Three Point Jumper.,52,38,14,28,0.9814118999225451,0.9516596454040901,3,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,222,2,10:51,651,651,Duby Okeke Defensive Rebound.,52,38,14,0,0.9814118999225451,0.9516596454040901,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,223,2,10:42,642,642,Evan Taylor Turnover.,52,38,14,9,0.9816573278743732,0.9524472709293548,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,224,2,10:19,619,619,Deshawn Freeman missed Layup.,52,38,14,23,0.9823192788913446,0.9545398680691081,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,225,2,10:19,619,619,Isaiah Roby Defensive Rebound.,52,38,14,0,0.9823192788913446,0.9545398680691081,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,226,2,9:50,590,590,Evan Taylor missed Jumper.,52,38,14,29,0.98328872230215,0.9575069041167141,3,4,9.4,NA,NA,Nebraska,missed,Evan Taylor,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,227,2,9:50,590,590,Duby Okeke Offensive Rebound.,52,38,14,0,0.98328872230215,0.9575069041167141,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,228,2,9:48,588,588,Foul on Mamadou Doucoure.,52,38,14,2,0.9833630926061613,0.9577299929673191,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,229,2,9:48,588,588,Duby Okeke made Free Throw.,53,38,15,0,0.9866427257199961,0.9658873892613273,3,4,9.4,NA,NA,Nebraska,made,Duby Okeke,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,230,2,9:48,588,588,Duby Okeke made Free Throw.,54,38,16,0,0.989282890829367,0.9725157225092688,3,4,9.4,NA,NA,Nebraska,made,Duby Okeke,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,231,2,9:37,577,577,Corey Sanders missed Jumper.,54,38,16,11,0.9896080584249258,0.973476220390078,3,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,232,2,9:37,577,577,Duby Okeke Block.,54,38,16,0,0.9896080584249258,0.973476220390078,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,233,2,9:34,574,574,Mamadou Doucoure Offensive Rebound.,54,38,16,3,0.9897010209880075,0.9737485496675802,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,234,2,9:33,573,573,Mamadou Doucoure missed Jumper.,54,38,16,1,0.9897324272725042,0.9738403368643136,3,4,9.4,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,235,2,9:33,573,573,Duby Okeke Block.,54,38,16,0,0.9897324272725042,0.9738403368643136,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,236,2,9:31,571,571,Issa Thiam Offensive Rebound.,54,38,16,2,0.9897958733476018,0.9740254373320331,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,237,2,9:29,569,569,Issa Thiam made Jumper.,54,40,14,2,0.9841268303519429,0.9599892903937632,3,4,9.4,NA,NA,Rutgers,made,Issa Thiam,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,238,2,9:29,569,569,Foul on Corey Sanders.,54,40,14,0,0.9841268303519429,0.9599892903937632,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,239,2,9:29,569,569,Anton Gill made Free Throw.,55,40,15,0,0.9873092316505215,0.9678529319873909,3,4,9.4,NA,NA,Nebraska,made,Anton Gill,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,240,2,9:29,569,569,Anton Gill missed Free Throw.,55,40,15,0,0.9873092316505215,0.9678529319873909,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,241,2,9:29,569,569,Nebraska Deadball Team Rebound.,55,40,15,0,0.9873092316505215,0.9678529319873909,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,242,2,9:29,569,569,Technical Foul on Corey Sanders.,55,40,15,0,0.9873092316505215,0.9678529319873909,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,243,2,9:20,560,560,Anton Gill missed Three Point Jumper.,55,40,15,9,0.9876570136651522,0.9688615576177955,3,4,9.4,NA,NA,Nebraska,missed,Anton Gill,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,244,2,9:20,560,560,Issa Thiam Defensive Rebound.,55,40,15,0,0.9876570136651522,0.9688615576177955,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,245,2,9:17,557,557,Foul on Duby Okeke.,55,40,15,3,0.9877776944777222,0.969209144061247,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,246,2,9:04,544,544,Deshawn Freeman missed Layup.,55,40,15,13,0.9883108426321467,0.9707353567346411,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,247,2,9:04,544,544,Duby Okeke Defensive Rebound.,55,40,15,0,0.9883108426321467,0.9707353567346411,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,248,2,8:47,527,527,Isaiah Roby missed Layup.,55,40,15,17,0.9888861059924888,0.972398926534577,3,4,9.4,NA,NA,Nebraska,missed,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,249,2,8:47,527,527,Isaiah Roby Offensive Rebound.,55,40,15,0,0.9888861059924888,0.972398926534577,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,250,2,8:44,524,524,Isaiah Roby made Jumper.,57,40,17,3,0.9931232199866354,0.9828391893707398,3,4,9.4,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,251,2,8:28,508,508,Deshawn Freeman made Jumper.,57,42,15,16,0.9894100141041416,0.9739332413136489,3,4,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,252,2,8:28,508,508,Foul on Duby Okeke.,57,42,15,0,0.9894100141041416,0.9739332413136489,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,253,2,8:28,508,508,Deshawn Freeman missed Free Throw.,57,42,15,0,0.9894100141041416,0.9739332413136489,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,TRUE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,254,2,8:28,508,508,Isaiah Roby Defensive Rebound.,57,42,15,0,0.9894100141041416,0.9739332413136489,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,255,2,8:01,481,481,James Palmer Jr. missed Three Point Jumper.,57,42,15,27,0.9901088350268098,0.9759665131834637,3,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,TRUE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,256,2,8:01,481,481,Eugene Omoruyi Defensive Rebound.,57,42,15,0,0.9901088350268098,0.9759665131834637,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,257,2,7:52,472,472,Deshawn Freeman missed Jumper.,57,42,15,9,0.990362174959915,0.9766875058255208,3,4,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,258,2,7:52,472,472,Isaiah Roby Block.,57,42,15,0,0.990362174959915,0.9766875058255208,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,259,2,7:51,471,471,James Palmer Jr. Defensive Rebound.,57,42,15,1,0.9903915225128214,0.9767703473400398,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,260,2,7:47,467,467,Anton Gill made Layup. Assisted by James Palmer Jr..,59,42,17,4,0.9942263940026697,0.9859961527499745,3,4,9.4,NA,NA,Nebraska,made,Anton Gill,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,261,2,7:29,449,449,Geo Baker made Jumper.,59,44,15,18,0.991117149112353,0.9787765499980979,3,4,9.4,NA,NA,Rutgers,made,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,262,2,7:03,423,423,Isaiah Roby made Layup. Assisted by James Palmer Jr..,61,44,17,26,0.9953920734828533,0.9891165393484271,3,4,9.4,NA,NA,Nebraska,made,Isaiah Roby,James Palmer Jr,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,263,2,6:49,409,409,Geo Baker missed Layup.,61,44,17,14,0.9957478643167023,0.9900552165826811,3,4,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,264,2,6:49,409,409,Isaiah Roby Defensive Rebound.,61,44,17,0,0.9957478643167023,0.9900552165826811,3,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,265,2,6:41,401,401,Isaiah Roby made Layup.,63,44,19,8,0.9976404856629787,0.9945014720620408,3,4,9.4,NA,NA,Nebraska,made,Isaiah Roby,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,266,2,6:40,400,400,Rutgers  Timeout,63,44,19,1,0.9976548746944982,0.994539160471225,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,267,2,6:14,374,374,Eugene Omoruyi missed Jumper.,63,44,19,26,0.9980046644481383,0.9954488934999055,2,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,268,2,6:14,374,374,Isaiah Roby Defensive Rebound.,63,44,19,0,0.9980046644481383,0.9954488934999055,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,269,2,5:49,349,349,James Palmer Jr. Turnover.,63,44,19,25,0.9983349866063967,0.996283123615529,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,270,2,5:48,348,348,Corey Sanders Steal.,63,44,19,1,0.99834857419142,0.9963167418050775,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,271,2,5:40,340,340,Corey Sanders missed Three Point Jumper.,63,44,19,8,0.9984586487384463,0.9965869777902304,2,4,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,272,2,5:40,340,340,Candido Sa Offensive Rebound.,63,44,19,0,0.9984586487384463,0.9965869777902304,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,273,2,5:13,313,313,Foul on Isaiah Roby.,63,44,19,27,0.9988451111828633,0.9975070752847969,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,274,2,5:13,313,313,Eugene Omoruyi made Free Throw.,63,45,18,0,0.9984176136950895,0.9965859788681423,2,4,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,275,2,5:13,313,313,Eugene Omoruyi missed Free Throw.,63,45,18,0,0.9984176136950895,0.9965859788681423,2,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,276,2,5:13,313,313,Evan Taylor Defensive Rebound.,63,45,18,0,0.9984176136950895,0.9965859788681423,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,277,2,4:48,288,288,Thomas Allen Turnover.,63,45,18,25,0.9986326532117548,0.9971211031175758,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,278,2,4:47,287,287,Geo Baker Steal.,63,45,18,1,0.998630967514228,0.9971203776083022,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,279,2,4:44,284,284,Corey Sanders made Layup. Assisted by Geo Baker.,63,47,16,3,0.9973666050472886,0.9944848115494996,2,4,9.4,NA,NA,Rutgers,made,Corey Sanders,Geo Baker,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,280,2,4:21,261,261,James Palmer Jr. missed Jumper.,63,47,16,23,0.9970588604717898,0.9939801545304948,2,4,9.4,NA,NA,Nebraska,missed,James Palmer Jr.,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,281,2,4:21,261,261,Eugene Omoruyi Defensive Rebound.,63,47,16,0,0.9970588604717898,0.9939801545304948,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,282,2,4:13,253,253,Eugene Omoruyi missed Layup.,63,47,16,8,0.9969217391438152,0.9937509715550886,2,4,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,283,2,4:13,253,253,Isaac Copeland Defensive Rebound.,63,47,16,0,0.9969217391438152,0.9937509715550886,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,284,2,3:55,235,235,Foul on Eugene Omoruyi.,63,47,16,18,0.9967304440668622,0.993487354679426,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,285,2,3:50,230,230,Glynn Watson Jr. missed Jumper.,63,47,16,5,0.996737901956912,0.9935372704416758,2,4,9.4,NA,NA,Nebraska,missed,Glynn Watson Jr.,NA,FALSE,FALSE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,286,2,3:50,230,230,Glynn Watson Jr. Offensive Rebound.,63,47,16,0,0.996737901956912,0.9935372704416758,2,4,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,287,2,3:46,226,226,Nebraska  Timeout,63,47,16,4,0.9967708250754898,0.9936304425292185,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,288,2,3:37,217,217,Isaac Copeland missed Jumper.,63,47,16,9,0.9969435506253015,0.9940313154760178,2,3,9.4,NA,NA,Nebraska,missed,Isaac Copeland,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,289,2,3:37,217,217,Issa Thiam Defensive Rebound.,63,47,16,0,0.9969435506253015,0.9940313154760178,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,290,2,3:10,190,190,Candido Sa Turnover.,63,47,16,27,0.9981951800053215,0.9965873124365756,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,291,2,3:09,189,189,Evan Taylor Steal.,63,47,16,1,0.9982519272537995,0.9966988344182852,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,292,2,2:52,172,172,Isaac Copeland Turnover.,63,47,16,17,0.9989940835325496,0.9981422885940385,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,293,2,2:51,171,171,Deshawn Freeman Steal.,63,47,16,1,0.9990272421818631,0.9982059431164703,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,294,2,2:24,144,144,Deshawn Freeman missed Jumper.,63,47,16,27,0.9996395071216897,0.9993597940405359,2,3,9.4,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,295,2,2:24,144,144,Candido Sa Offensive Rebound.,63,47,16,0,0.9996395071216897,0.9993597940405359,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,296,2,2:21,141,141,Candido Sa made Jumper.,63,49,14,3,0.9991893879092929,0.9985672414429685,2,3,9.4,NA,NA,Rutgers,made,Candido Sa,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,297,2,1:55,115,115,Foul on Issa Thiam.,63,49,14,26,0.999727759148183,0.9995373211356277,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,298,2,1:55,115,115,James Palmer Jr. made Free Throw.,64,49,15,0,0.9998426657569097,0.9997325857535971,2,3,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,299,2,1:55,115,115,James Palmer Jr. made Free Throw.,65,49,16,0,0.99990907733701,0.9998454554779951,2,3,9.4,NA,NA,Nebraska,made,James Palmer Jr.,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,300,2,1:43,103,103,Geo Baker missed Layup.,65,49,16,12,0.9999552431794432,0.9999253748690764,2,3,9.4,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,301,2,1:43,103,103,Isaiah Roby Defensive Rebound.,65,49,16,0,0.9999552431794432,0.9999253748690764,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,302,2,1:27,87,87,Glynn Watson Jr. made Jumper. Assisted by Evan Taylor.,67,49,18,16,0.9999959891922843,0.9999934884951255,2,3,9.4,NA,NA,Nebraska,made,Glynn Watson Jr.,Evan Taylor,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,303,2,1:07,67,67,Corey Sanders missed Jumper.,67,49,18,20,0.9999992699731061,0.9999988552128518,2,3,9.4,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,304,2,1:07,67,67,Eugene Omoruyi Offensive Rebound.,67,49,18,0,0.9999992699731061,0.9999988552128518,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,305,2,1:04,64,64,Eugene Omoruyi made Jumper.,67,51,16,3,0.9999973849701476,0.9999959211311352,2,3,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,306,2,0:58,58,58,Glynn Watson Jr. Turnover.,67,51,16,6,0.9999984126981316,0.9999975507370994,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,307,2,0:57,57,57,Deshawn Freeman Steal.,67,51,16,1,0.9999985416789671,0.999997753833532,2,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,308,2,0:55,55,55,Deshawn Freeman made Layup.,67,53,14,2,0.9999936148251906,0.9999902010178717,2,3,9.4,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,309,2,0:53,53,53,Rutgers  Timeout,67,53,14,2,0.9999945084998618,0.9999916032213547,1,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,310,2,0:43,43,43,Johnny Trueblood missed Layup.,67,53,14,10,0.999997486975766,0.999996228014416,1,3,9.4,NA,NA,Nebraska,missed,Johnny Trueblood,NA,FALSE,FALSE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,311,2,0:43,43,43,Eugene Omoruyi Defensive Rebound.,67,53,14,0,0.999997486975766,0.999996228014416,1,3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,312,2,0:37,37,37,Eugene Omoruyi made Layup.,67,55,12,6,0.9999901750007327,0.9999854192368997,1,3,9.4,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,313,2,0:34,34,34,Nebraska  Timeout,67,55,12,3,0.9999920783771723,0.9999883110465111,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,314,2,0:28,28,28,Foul on Eugene Omoruyi.,67,55,12,6,0.9999948956645957,0.999992554691209,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,315,2,0:28,28,28,Johnny Trueblood missed Free Throw.,67,55,12,0,0.9999948956645957,0.999992554691209,1,2,9.4,NA,NA,Nebraska,missed,Johnny Trueblood,NA,FALSE,TRUE,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,316,2,0:28,28,28,Eugene Omoruyi Defensive Rebound.,67,55,12,0,0.9999948956645957,0.999992554691209,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,317,2,0:15,15,15,Foul on Tanner Borchardt.,67,55,12,13,0.9999981169068883,0.999997322544802,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986561,2018-02-10,Nebraska,Rutgers,318,2,0:13,13,13,Eugene Omoruyi missed Layup.,67,55,12,2,0.9999983975404686,0.9999977306767267,1,2,9.4,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,319,2,0:13,13,13,Jack McVeigh Block.,67,55,12,0,0.9999983975404686,0.9999977306767267,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,320,2,0:11,11,11,Tanner Borchardt Defensive Rebound.,67,55,12,2,0.9999986390092546,0.9999980803825631,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Nebraska
+400986561,2018-02-10,Nebraska,Rutgers,321,2,0:00,0,0,End of Game,67,67,0,11,1,1,1,2,9.4,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,NA

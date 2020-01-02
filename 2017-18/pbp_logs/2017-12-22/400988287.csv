@@ -1,0 +1,347 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400988287,2017-12-22,Washington,Montana,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5834385512684159,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Washington
+400988287,2017-12-22,Washington,Montana,2,1,19:46,2386,2386,Foul on Fabijan Krslovic.,0,0,0,14,0.5833238811146774,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,3,1,19:42,2382,2382,Jaylen Nowell Turnover.,0,0,0,4,0.5832907636625457,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,4,1,19:21,2361,2361,Jamar Akoh made Layup. Assisted by Fabijan Krslovic.,0,2,-2,21,0.5388398554638323,0.4551464158023437,6,6,2.1,NA,NA,Montana,made,Jamar Akoh,Fabijan Krslovic,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,5,1,19:02,2342,2342,Noah Dickerson made Layup.,2,2,0,19,0.5829506840717639,0.5,6,6,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,6,1,18:52,2332,2332,Fabijan Krslovic Turnover.,2,2,0,10,0.5828630712660019,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,7,1,18:52,2332,2332,David Crisp Steal.,2,2,0,0,0.5828630712660019,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,8,1,18:52,2332,2332,Foul on Michael Oguine.,2,2,0,0,0.5828630712660019,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,9,1,18:26,2306,2306,Jaylen Nowell missed Jumper.,2,2,0,26,0.5826302577873194,0.5,6,6,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,10,1,18:26,2306,2306,Bobby Moorehead Block.,2,2,0,0,0.5826302577873194,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,11,1,18:23,2303,2303,Fabijan Krslovic Defensive Rebound.,2,2,0,3,0.5826029201379885,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,12,1,18:18,2298,2298,Bobby Moorehead missed Jumper.,2,2,0,5,0.5825571360203182,0.5,6,6,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,13,1,18:18,2298,2298,Sam Timmins Defensive Rebound.,2,2,0,0,0.5825571360203182,0.5,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,14,1,18:11,2291,2291,David Crisp made Three Point Jumper.,5,2,3,7,0.6484295258929849,0.5693326854479217,6,6,2.1,NA,NA,Washington,made,David Crisp,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,15,1,18:11,2291,2291,Foul on Michael Oguine.,5,2,3,0,0.6484295258929849,0.5693326854479217,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,16,1,18:11,2291,2291,David Crisp made Free Throw.,6,2,4,0,0.6693366048020858,0.5919837211122981,6,6,2.1,NA,NA,Washington,made,David Crisp,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,17,1,17:54,2274,2274,Jamar Akoh made Jumper. Assisted by Timmy Falls.,6,4,2,17,0.627143370960524,0.5467682100997949,6,6,2.1,NA,NA,Montana,made,Jamar Akoh,Timmy Falls,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,18,1,17:37,2257,2257,David Crisp Turnover.,6,4,2,17,0.6273486763543673,0.5471512577612353,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,19,1,17:34,2254,2254,Ahmaad Rorie made Dunk. Assisted by Jamar Akoh.,6,6,0,3,0.5821420414738513,0.5,6,6,2.1,NA,NA,Montana,made,Ahmaad Rorie,Jamar Akoh,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,20,1,17:15,2235,2235,Matisse Thybulle made Layup.,8,6,2,19,0.6276127597182368,0.5476503503565374,6,6,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,21,1,17:00,2220,2220,Timmy Falls Turnover.,8,6,2,15,0.6277914657841162,0.5479925671944532,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,22,1,16:58,2218,2218,Sam Timmins Steal.,8,6,2,2,0.6278151967176618,0.5480383025158675,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,23,1,16:54,2214,2214,Jaylen Nowell made Jumper.,10,6,4,4,0.6717642753557937,0.5953759411688806,6,6,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,24,1,16:37,2197,2197,Sayeed Pridgett missed Jumper.,10,6,4,17,0.6723002698448974,0.5961344781499945,6,6,2.1,NA,NA,Montana,missed,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,25,1,16:37,2197,2197,Jaylen Nowell Block.,10,6,4,0,0.6723002698448974,0.5961344781499945,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,26,1,16:36,2196,2196,Sayeed Pridgett Offensive Rebound.,10,6,4,1,0.6723317689243531,0.5961791766315144,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,27,1,16:36,2196,2196,Sayeed Pridgett Turnover.,10,6,4,0,0.6723317689243531,0.5961791766315144,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,28,1,16:12,2172,2172,Sam Timmins missed Jumper.,10,6,4,24,0.6730863043983356,0.5972541285291267,6,6,2.1,NA,NA,Washington,missed,Sam Timmins,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,29,1,16:09,2169,2169,Jamar Akoh Defensive Rebound.,10,6,4,3,0.6731803906635951,0.5973887576949446,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,30,1,16:01,2161,2161,Jamar Akoh missed Jumper.,10,6,4,8,0.6734312888369248,0.5977483003240017,6,6,2.1,NA,NA,Montana,missed,Jamar Akoh,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,31,1,16:01,2161,2161,Montana Offensive Rebound.,10,6,4,0,0.6734312888369248,0.5977483003240017,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,32,1,15:59,2159,2159,Official TV Timeout,10,6,4,2,0.673494025641984,0.5978383183584584,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,33,1,15:51,2151,2151,Karl Nicholas Turnover.,10,6,4,8,0.6737450385759932,0.5981989352663497,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,34,1,15:50,2150,2150,David Crisp Steal.,10,6,4,1,0.6737764237302937,0.5982440747147776,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,35,1,15:46,2146,2146,Jaylen Nowell missed Jumper.,10,6,4,4,0.6739019863239608,0.5984247737818268,6,6,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,36,1,15:46,2146,2146,Karl Nicholas Block.,10,6,4,0,0.6739019863239608,0.5984247737818268,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,37,1,15:44,2144,2144,Sayeed Pridgett Defensive Rebound.,10,6,4,2,0.6739647817765012,0.5985152089676032,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,38,1,15:40,2140,2140,Foul on David Crisp.,10,6,4,4,0.6740904037623819,0.59869625318022,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,39,1,15:27,2127,2127,Karl Nicholas missed Jumper.,10,6,4,13,0.6744990098146687,0.5992862919891592,6,6,2.1,NA,NA,Montana,missed,Karl Nicholas,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,40,1,15:27,2127,2127,Jamar Akoh Offensive Rebound.,10,6,4,0,0.6744990098146687,0.5992862919891592,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,41,1,15:23,2123,2123,Jamar Akoh Turnover.,10,6,4,4,0.6746248541461901,0.5994683636419377,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,42,1,15:22,2122,2122,Noah Dickerson Steal.,10,6,4,1,0.6746563250428214,0.5995139208304968,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,43,1,15:19,2119,2119,Matisse Thybulle made Layup.,12,6,6,3,0.7174315122805542,0.6470311838452072,6,6,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,44,1,15:01,2101,2101,Sayeed Pridgett missed Jumper.,12,6,6,18,0.7183030411383682,0.6482060767000728,6,6,2.1,NA,NA,Montana,missed,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,45,1,15:01,2101,2101,Noah Dickerson Defensive Rebound.,12,6,6,0,0.7183030411383682,0.6482060767000728,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,46,1,14:35,2075,2075,Jaylen Nowell missed Jumper.,12,6,6,26,0.7195674586141164,0.6499155211561152,6,6,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,47,1,14:35,2075,2075,Karl Nicholas Defensive Rebound.,12,6,6,0,0.7195674586141164,0.6499155211561152,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,48,1,14:27,2067,2067,Ahmaad Rorie missed Jumper.,12,6,6,8,0.7199580321981219,0.6504446460995462,6,6,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,49,1,14:27,2067,2067,Sam Timmins Block.,12,6,6,0,0.7199580321981219,0.6504446460995462,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,50,1,14:27,2067,2067,Montana Offensive Rebound.,12,6,6,0,0.7199580321981219,0.6504446460995462,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,51,1,14:20,2060,2060,Ahmaad Rorie missed Jumper.,12,6,6,7,0.7203004333761316,0.6509089035655268,6,6,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,52,1,14:20,2060,2060,Noah Dickerson Defensive Rebound.,12,6,6,0,0.7203004333761316,0.6509089035655268,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,53,1,14:08,2048,2048,Foul on Fabijan Krslovic.,12,6,6,12,0.7208889044235628,0.6517076236015316,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,54,1,14:08,2048,2048,Matisse Thybulle made Free Throw.,14,6,8,0,0.7609193431322461,0.6974965720506014,6,6,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,55,1,14:08,2048,2048,Matisse Thybulle made Free Throw.,13,6,7,0,0.7414082335384345,0.6750201508818457,6,6,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,56,1,14:08,2048,2048,Technical Foul on Montana.,12,6,6,0,0.7208889044235628,0.6517076236015316,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,57,1,13:59,2039,2039,David Crisp made Layup.,16,6,10,9,0.797468361661117,0.740520272810461,6,6,2.1,NA,NA,Washington,made,David Crisp,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,58,1,13:47,2027,2027,Jamar Akoh missed Jumper.,16,6,10,12,0.7983256045179317,0.7416564139707148,6,6,2.1,NA,NA,Montana,missed,Jamar Akoh,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,59,1,13:47,2027,2027,Hameir Wright Defensive Rebound.,16,6,10,0,0.7983256045179317,0.7416564139707148,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,60,1,13:37,2017,2017,Foul on Jamar Akoh.,16,6,10,10,0.7990415077021514,0.7426059221870112,6,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,61,1,13:37,2017,2017,Montana  Timeout,16,6,10,0,0.7990415077021514,0.7426059221870112,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,62,1,13:34,2014,2014,Noah Dickerson missed Jumper.,16,6,10,3,0.7992565654797333,0.7428912727059901,5,6,2.1,NA,NA,Washington,missed,Noah Dickerson,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,63,1,13:34,2014,2014,Hameir Wright Offensive Rebound.,16,6,10,0,0.7992565654797333,0.7428912727059901,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,64,1,13:31,2011,2011,Hameir Wright missed Jumper.,16,6,10,3,0.7994717599822235,0.7431768575300576,5,6,2.1,NA,NA,Washington,missed,Hameir Wright,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,65,1,13:31,2011,2011,Michael Oguine Defensive Rebound.,16,6,10,0,0.7994717599822235,0.7431768575300576,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,66,1,13:26,2006,2006,Michael Oguine missed Jumper.,16,6,10,5,0.7998307279069311,0.7436533596318592,5,6,2.1,NA,NA,Montana,missed,Michael Oguine,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,67,1,13:26,2006,2006,Nahziah Carter Block.,16,6,10,0,0.7998307279069311,0.7436533596318592,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,68,1,13:26,2006,2006,Montana Offensive Rebound.,16,6,10,0,0.7998307279069311,0.7436533596318592,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,69,1,13:20,2000,2000,Ahmaad Rorie missed Jumper.,16,6,10,6,0.8002620153563713,0.7442260463639168,5,6,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,70,1,13:20,2000,2000,David Crisp Defensive Rebound.,16,6,10,0,0.8002620153563713,0.7442260463639168,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,71,1,13:01,1981,1981,David Crisp Turnover.,16,6,10,19,0.8016317534645958,0.7460461310630953,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,72,1,12:36,1956,1956,Michael Oguine missed Jumper.,16,6,10,25,0.8034440817109096,0.74845701278926835,5,6,2.1,NA,NA,Montana,missed,Michael Oguine,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,73,1,12:36,1956,1956,Matisse Thybulle Block.,16,6,10,0,0.8034440817109096,0.74845701278926835,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,74,1,12:33,1953,1953,Nahziah Carter Defensive Rebound.,16,6,10,3,0.8036623834491446,0.7487475992666696,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,75,1,12:30,1950,1950,Nahziah Carter missed Jumper.,16,6,10,3,0.8038808690955855,0.7490384679474877,5,6,2.1,NA,NA,Washington,missed,Nahziah Carter,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,76,1,12:30,1950,1950,Ahmaad Rorie Defensive Rebound.,16,6,10,0,0.8038808690955855,0.7490384679474877,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,77,1,12:19,1939,1939,Ahmaad Rorie Turnover.,16,6,10,11,0.8046835920045412,0.750107436592162,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,78,1,12:17,1937,1937,David Crisp Steal.,16,6,10,2,0.8048298188357716,0.7503022138149874,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,79,1,12:04,1924,1924,Jaylen Nowell Turnover.,16,6,10,13,0.8057812141831558,0.7515700852919642,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,80,1,12:01,1921,1921,Sayeed Pridgett Steal.,16,6,10,3,0.8060000760894815,0.7518620744264242,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,81,1,11:56,1916,1916,Official TV Timeout,16,6,10,5,0.8063640145482016,0.7523479335774709,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,82,1,11:56,1916,1916,Foul on Sam Timmins.,16,6,10,0,0.8063640145482016,0.7523479335774709,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,83,1,11:56,1916,1916,Official TV Timeout,16,6,10,0,0.8063640145482016,0.7523479335774709,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,84,1,11:55,1915,1915,Michael Oguine made Dunk. Assisted by Ahmaad Rorie.,16,8,8,1,0.7693565822474157,0.7087572694576139,5,6,2.1,NA,NA,Montana,made,Michael Oguine,Ahmaad Rorie,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,85,1,11:39,1899,1899,Matisse Thybulle Turnover.,16,8,8,16,0.7703784911996266,0.7101309547201213,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,86,1,11:37,1897,1897,Ahmaad Rorie Steal.,16,8,8,2,0.770505770523163,0.7103023282249372,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,87,1,11:26,1886,1886,Bobby Moorehead Turnover.,16,8,8,11,0.7712043091952776,0.7112438961227053,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,88,1,11:15,1875,1875,Nahziah Carter made Jumper.,18,8,10,11,0.8093171539652634,0.7563037279018852,5,6,2.1,NA,NA,Washington,made,Nahziah Carter,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,89,1,11:04,1864,1864,Jamar Akoh missed Jumper.,18,8,10,11,0.8101028012673557,0.7573595859256667,5,6,2.1,NA,NA,Montana,missed,Jamar Akoh,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,90,1,11:04,1864,1864,Hameir Wright Block.,18,8,10,0,0.8101028012673557,0.7573595859256667,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,91,1,11:02,1862,1862,Sayeed Pridgett Offensive Rebound.,18,8,10,2,0.8102454617702907,0.75755144433224,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,92,1,10:59,1859,1859,Sayeed Pridgett missed Jumper.,18,8,10,3,0.8104593659817325,0.7578391873748241,5,6,2.1,NA,NA,Montana,missed,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,93,1,10:59,1859,1859,Hameir Wright Block.,18,8,10,0,0.8104593659817325,0.7578391873748241,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,94,1,10:57,1857,1857,Hameir Wright Defensive Rebound.,18,8,10,2,0.8106019168613584,0.758030992809508,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,95,1,10:53,1853,1853,Nahziah Carter Turnover.,18,8,10,4,0.8108869117328152,0.7584145676994395,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,96,1,10:42,1842,1842,Sayeed Pridgett missed Jumper.,18,8,10,11,0.8116701417980077,0.7594694075594922,5,6,2.1,NA,NA,Montana,missed,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,97,1,10:42,1842,1842,Sam Timmins Defensive Rebound.,18,8,10,0,0.8116701417980077,0.7594694075594922,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,98,1,10:17,1817,1817,Foul on Ahmaad Rorie.,18,8,10,25,0.813450354030159,0.7618700692922002,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,99,1,10:17,1817,1817,Sam Timmins made Free Throw.,19,8,11,0,0.8304589547217159,0.7823230251915401,5,6,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,100,1,10:17,1817,1817,Sam Timmins made Free Throw.,20,8,12,0,0.8462099857181086,0.8014770284201103,5,6,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,101,1,9:59,1799,1799,Ahmaad Rorie made Three Point Jumper. Assisted by Michael Oguine.,20,11,9,18,0.7963805868094995,0.7417898725605767,5,6,2.1,NA,NA,Montana,made,Ahmaad Rorie,Michael Oguine,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,102,1,9:46,1786,1786,Hameir Wright Turnover.,20,11,9,13,0.7972688062735683,0.7429920337554196,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,103,1,9:20,1760,1760,Ahmaad Rorie missed Jumper.,20,11,9,26,0.799059667415516,0.7454163080629786,5,6,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,104,1,9:20,1760,1760,Fabijan Krslovic Offensive Rebound.,20,11,9,0,0.799059667415516,0.7454163080629786,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,105,1,9:15,1755,1755,Fabijan Krslovic missed Layup.,20,11,9,5,0.7994067670324331,0.745886115325385,5,6,2.1,NA,NA,Montana,missed,Fabijan Krslovic,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,106,1,9:15,1755,1755,Jamar Akoh Offensive Rebound.,20,11,9,0,0.7994067670324331,0.745886115325385,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,107,1,9:12,1752,1752,Jamar Akoh made Layup.,20,13,7,3,0.7584636504012168,0.6981836241734855,5,6,2.1,NA,NA,Montana,made,Jamar Akoh,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,108,1,8:44,1724,1724,Noah Dickerson Turnover.,20,13,7,28,0.7601436006417113,0.7004898829446943,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,109,1,8:44,1724,1724,Michael Oguine Steal.,20,13,7,0,0.7601436006417113,0.7004898829446943,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,110,1,8:40,1720,1720,Foul on Nahziah Carter.,20,13,7,4,0.7603867624745887,0.7008233362015384,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,111,1,8:21,1701,1701,Michael Oguine missed Three Point Jumper.,20,13,7,19,0.7615540525286056,0.702422401448269,5,6,2.1,NA,NA,Montana,missed,Michael Oguine,NA,TRUE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,112,1,8:21,1701,1701,Jamar Akoh Offensive Rebound.,20,13,7,0,0.7615540525286056,0.702422401448269,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,113,1,8:16,1696,1696,Jamar Akoh made Layup.,20,15,5,5,0.714422413935924,0.6490634336968449,5,6,2.1,NA,NA,Montana,made,Jamar Akoh,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,114,1,7:50,1670,1670,Foul on Jamar Akoh.,20,15,5,26,0.7156101576175394,0.6507776210489441,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,115,1,7:50,1670,1670,Official TV Timeout,20,15,5,0,0.7156101576175394,0.6507776210489441,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,116,1,7:50,1670,1670,Noah Dickerson made Free Throw.,21,15,6,0,0.7402525080290794,0.6785139519314121,5,6,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,117,1,7:50,1670,1670,Noah Dickerson made Free Throw.,22,15,7,0,0.7634653797810533,0.7050458075570132,5,6,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,118,1,7:39,1659,1659,Ahmaad Rorie made Jumper.,22,17,5,11,0.7160926166263683,0.6514847674055738,5,6,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,119,1,7:16,1636,1636,Noah Dickerson missed Jumper.,22,17,5,23,0.7170700958320285,0.652935837445998,5,6,2.1,NA,NA,Washington,missed,Noah Dickerson,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,120,1,7:16,1636,1636,Karl Nicholas Block.,22,17,5,0,0.7170700958320285,0.652935837445998,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,121,1,7:13,1633,1633,Noah Dickerson Offensive Rebound.,22,17,5,3,0.7171950757231623,0.6531229715936346,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,122,1,7:13,1633,1633,Noah Dickerson missed Jumper.,22,17,5,0,0.7171950757231623,0.6531229715936346,5,6,2.1,NA,NA,Washington,missed,Noah Dickerson,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,123,1,7:13,1633,1633,Montana Deadball Team Rebound.,22,17,5,0,0.7171950757231623,0.6531229715936346,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,124,1,6:51,1611,1611,Ahmaad Rorie missed Three Point Jumper.,22,17,5,22,0.71809934331018,0.6544857621852754,5,6,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,125,1,6:51,1611,1611,Noah Dickerson Block.,22,17,5,0,0.71809934331018,0.6544857621852754,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,126,1,6:48,1608,1608,Matisse Thybulle Defensive Rebound.,22,17,5,3,0.7182214172861554,0.6546707365350705,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,127,1,6:29,1589,1589,Sam Timmins made Dunk.,24,17,7,19,0.7680602910693725,0.7115126849794507,5,6,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,128,1,6:05,1565,1565,Fabijan Krslovic Turnover.,24,17,7,24,0.76938765187602,0.7134028043924326,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,129,1,5:42,1542,1542,Sam Timmins made Jumper.,26,17,9,23,0.8138591274865192,0.7656845048196949,5,6,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,130,1,5:30,1530,1530,Michael Oguine Turnover.,26,17,9,12,0.8146548349083323,0.766787280580439,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,131,1,5:28,1528,1528,David Crisp Steal.,26,17,9,2,0.8147886231880275,0.7669724579339982,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,132,1,5:22,1522,1522,David Crisp Turnover.,26,17,9,6,0.8151922342361766,0.7675306247713106,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,133,1,5:12,1512,1512,Bobby Moorehead Turnover.,26,17,9,10,0.8158731193233913,0.7684704777339536,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,134,1,5:11,1511,1511,Sam Timmins Steal.,26,17,9,1,0.8159418175642065,0.7685651724257632,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,135,1,5:01,1501,1501,David Crisp Turnover.,26,17,9,10,0.8166354600780612,0.7695198389806253,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,136,1,4:59,1499,1499,Timmy Falls Steal.,26,17,9,2,0.8167757170916066,0.7697125403992128,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,137,1,4:57,1497,1497,Ahmaad Rorie made Layup.,26,19,7,2,0.7733279805113,0.7189752579831169,5,6,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,138,1,4:34,1474,1474,David Crisp missed Three Point Jumper.,26,19,7,23,0.7747774461264672,0.7209931436866052,5,6,2.1,NA,NA,Washington,missed,David Crisp,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,139,1,4:34,1474,1474,Ahmaad Rorie Defensive Rebound.,26,19,7,0,0.7747774461264672,0.7209931436866052,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,140,1,4:28,1468,1468,Bobby Moorehead made Three Point Jumper. Assisted by Ahmaad Rorie.,26,22,4,6,0.6962905381348394,0.6327540116807752,5,6,2.1,NA,NA,Montana,made,Bobby Moorehead,Ahmaad Rorie,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,141,1,4:09,1449,1449,Foul on Noah Dickerson.,26,22,4,19,0.6970528493431045,0.6339198152775645,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,142,1,4:09,1449,1449,Noah Dickerson Turnover.,26,22,4,0,0.6970528493431045,0.6339198152775645,5,6,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,143,1,4:09,1449,1449,Washington  Timeout,26,22,4,0,0.6970528493431045,0.6339198152775645,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,144,1,3:46,1426,1426,Bobby Moorehead made Three Point Jumper. Assisted by Ahmaad Rorie.,26,25,1,23,0.6037908318418415,0.5346388964305051,5,5,2.1,NA,NA,Montana,made,Bobby Moorehead,Ahmaad Rorie,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,145,1,3:32,1412,1412,Matisse Thybulle missed Three Point Jumper.,26,25,1,14,0.603748317790056,0.5348601220288093,5,5,2.1,NA,NA,Washington,missed,Matisse Thybulle,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,146,1,3:32,1412,1412,Montana Deadball Team Rebound.,26,25,1,0,0.603748317790056,0.5348601220288093,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,147,1,3:31,1411,1411,Foul on Noah Dickerson.,26,25,1,1,0.6037450095475951,0.534875752583377,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,148,1,3:13,1393,1393,Jamar Akoh made Layup. Assisted by Bobby Moorehead.,26,27,-1,18,0.5347255022637566,0.46484588118732534,5,5,2.1,NA,NA,Montana,made,Jamar Akoh,Bobby Moorehead,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,149,1,2:50,1370,1370,Matisse Thybulle missed Jumper.,26,27,-1,23,0.533927209008536,0.46449518583752314,5,5,2.1,NA,NA,Washington,missed,Matisse Thybulle,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,150,1,2:50,1370,1370,Sayeed Pridgett Defensive Rebound.,26,27,-1,0,0.533927209008536,0.46449518583752314,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,151,1,2:37,1357,1357,Jamar Akoh made Layup. Assisted by Timmy Falls.,26,29,-3,13,0.46207006999477634,0.39432650824929977,5,5,2.1,NA,NA,Montana,made,Jamar Akoh,Timmy Falls,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,152,1,2:20,1340,1340,Nahziah Carter made Three Point Jumper. Assisted by David Crisp.,29,29,0,17,0.5685159942634744,0.5,5,5,2.1,NA,NA,Washington,made,Nahziah Carter,David Crisp,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,153,1,2:03,1323,1323,Bobby Moorehead missed Jumper.,29,29,0,17,0.5681825505299022,0.5,5,5,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,154,1,2:03,1323,1323,Sam Timmins Block.,29,29,0,0,0.5681825505299022,0.5,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,155,1,2:02,1322,1322,Sayeed Pridgett Offensive Rebound.,29,29,0,1,0.5681628825666334,0.5,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,156,1,2:02,1322,1322,Foul on Jaylen Nowell.,29,29,0,0,0.5681628825666334,0.5,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,157,1,1:48,1308,1308,Sayeed Pridgett Turnover.,29,29,0,14,0.5678870188910576,0.5,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,158,1,1:46,1306,1306,Jaylen Nowell Steal.,29,29,0,2,0.5678475409338241,0.5,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,159,1,1:44,1304,1304,Jaylen Nowell made Layup. Assisted by David Crisp.,31,29,2,2,0.637767103057076,0.5726746804509937,5,5,2.1,NA,NA,Washington,made,Jaylen Nowell,David Crisp,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,160,1,1:24,1284,1284,Timmy Falls missed Jumper.,31,29,2,20,0.6380121004769895,0.5733285323323227,5,5,2.1,NA,NA,Montana,missed,Timmy Falls,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,161,1,1:24,1284,1284,Karl Nicholas Offensive Rebound.,31,29,2,0,0.6380121004769895,0.5733285323323227,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,162,1,1:21,1281,1281,Karl Nicholas missed Layup.,31,29,2,3,0.6380512983412738,0.5734292504585657,5,5,2.1,NA,NA,Montana,missed,Karl Nicholas,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,163,1,1:21,1281,1281,David Crisp Defensive Rebound.,31,29,2,0,0.6380512983412738,0.5734292504585657,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,164,1,1:15,1275,1275,Nahziah Carter missed Three Point Jumper.,31,29,2,6,0.6381318713443735,0.5736330030156834,5,5,2.1,NA,NA,Washington,missed,Nahziah Carter,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,165,1,1:15,1275,1275,Karl Nicholas Defensive Rebound.,31,29,2,0,0.6381318713443735,0.5736330030156834,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,166,1,0:54,1254,1254,Karl Nicholas missed Layup.,31,29,2,21,0.638439572838297,0.5743731696974178,5,5,2.1,NA,NA,Montana,missed,Karl Nicholas,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,167,1,0:54,1254,1254,Sam Timmins Block.,31,29,2,0,0.638439572838297,0.5743731696974178,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,168,1,0:52,1252,1252,Ahmaad Rorie Offensive Rebound.,31,29,2,2,0.6384711845505562,0.5744460673606648,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,169,1,0:49,1249,1249,Ahmaad Rorie missed Layup.,31,29,2,3,0.638519419222132,0.5745562603488408,5,5,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,170,1,0:49,1249,1249,Sam Timmins Defensive Rebound.,31,29,2,0,0.638519419222132,0.5745562603488408,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,171,1,0:42,1242,1242,Foul on Matisse Thybulle.,31,29,2,7,0.6386359195499988,0.574817461156927,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,172,1,0:42,1242,1242,Matisse Thybulle Turnover.,31,29,2,0,0.6386359195499988,0.574817461156927,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,173,1,0:22,1222,1222,Bobby Moorehead made Three Point Jumper.,31,32,-1,20,0.5284550932253935,0.46198256019369394,5,5,2.1,NA,NA,Montana,made,Bobby Moorehead,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,174,1,0:09,1209,1209,Jaylen Nowell made Jumper.,33,32,1,13,0.6031792528495543,0.5382906187011293,5,5,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,175,1,0:00,1200,1200,End of 1st half,33,32,1,9,0.603191253198677,0.5384812553577752,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,NA
+400988287,2017-12-22,Washington,Montana,176,2,20:00,1200,1200,PLAY,33,32,1,0,0.603191253198677,0.5384812553577752,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Montana
+400988287,2017-12-22,Washington,Montana,177,2,19:34,1174,1174,Fabijan Krslovic made Dunk. Assisted by Michael Oguine.,33,34,-1,26,0.5265050549572337,0.4609853174597942,5,5,2.1,NA,NA,Montana,made,Fabijan Krslovic,Michael Oguine,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,178,2,19:20,1160,1160,Jaylen Nowell missed Three Point Jumper.,33,34,-1,14,0.5259507881217493,0.4607056272968464,5,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,179,2,19:20,1160,1160,Ahmaad Rorie Defensive Rebound.,33,34,-1,0,0.5259507881217493,0.4607056272968464,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,180,2,19:06,1146,1146,Michael Oguine made Layup. Assisted by Fabijan Krslovic.,33,36,-3,14,0.446321594647393,0.383232723394682,5,5,2.1,NA,NA,Montana,made,Michael Oguine,Fabijan Krslovic,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,181,2,18:53,1133,1133,Jaylen Nowell missed Jumper.,33,36,-3,13,0.4453071381645073,0.38250202869934846,5,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,182,2,18:53,1133,1133,Noah Dickerson Offensive Rebound.,33,36,-3,0,0.4453071381645073,0.38250202869934846,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,183,2,18:50,1130,1130,Noah Dickerson made Layup.,35,36,-1,3,0.5247728135192,0.46011360711529603,5,5,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,184,2,18:50,1130,1130,Foul on Jamar Akoh.,35,36,-1,0,0.5247728135192,0.46011360711529603,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,185,2,18:50,1130,1130,Noah Dickerson missed Free Throw.,35,36,-1,0,0.5247728135192,0.46011360711529603,5,5,2.1,NA,NA,Washington,missed,Noah Dickerson,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,186,2,18:50,1130,1130,Montana Defensive Rebound.,35,36,-1,0,0.5247728135192,0.46011360711529603,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,187,2,18:38,1118,1118,Ahmaad Rorie missed Three Point Jumper.,35,36,-1,12,0.5243014837339778,0.45987639999485147,5,5,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,188,2,18:38,1118,1118,Washington Defensive Rebound.,35,36,-1,0,0.5243014837339778,0.45987639999485147,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,189,2,18:27,1107,1107,Jaylen Nowell missed Jumper.,35,36,-1,11,0.5238675268870374,0.4596572437853481,5,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,190,2,18:27,1107,1107,Ahmaad Rorie Defensive Rebound.,35,36,-1,0,0.5238675268870374,0.4596572437853481,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,191,2,18:16,1096,1096,Jamar Akoh missed Layup.,35,36,-1,11,0.5234306222079463,0.4594355159739085,5,5,2.1,NA,NA,Montana,missed,Jamar Akoh,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,192,2,18:16,1096,1096,Montana Offensive Rebound.,35,36,-1,0,0.5234306222079463,0.4594355159739085,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,193,2,18:11,1091,1091,Foul on David Crisp.,35,36,-1,5,0.5232307589791861,0.459333636443864,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,194,2,18:08,1088,1088,Jamar Akoh Turnover.,35,36,-1,3,0.5231103975448528,0.45927212896775305,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,195,2,18:06,1086,1086,Noah Dickerson Steal.,35,36,-1,2,0.523029958103393,0.4592309544568675,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,196,2,17:53,1073,1073,Jaylen Nowell missed Jumper.,35,36,-1,13,0.5225027505100535,0.4589596180023574,5,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,197,2,17:53,1073,1073,Fabijan Krslovic Defensive Rebound.,35,36,-1,0,0.5225027505100535,0.4589596180023574,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,198,2,17:39,1059,1059,Ahmaad Rorie Turnover.,35,36,-1,14,0.5219250520316335,0.45865899551170225,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,199,2,17:38,1058,1058,Jaylen Nowell Steal.,35,36,-1,1,0.521883336000287,0.4586371411832364,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,200,2,17:38,1058,1058,Jaylen Nowell made Layup.,37,36,1,0,0.6033037995427978,0.5413628588167636,5,5,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,201,2,17:38,1058,1058,Foul on Ahmaad Rorie.,37,36,1,0,0.6033037995427978,0.5413628588167636,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,202,2,17:38,1058,1058,Jaylen Nowell made Free Throw.,38,36,2,0,0.6422356013275555,0.582163428565535,5,5,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,203,2,17:22,1042,1042,Fabijan Krslovic missed Layup.,38,36,2,16,0.6426049805279739,0.5828638586468384,5,5,2.1,NA,NA,Montana,missed,Fabijan Krslovic,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,204,2,17:22,1042,1042,Hameir Wright Block.,38,36,2,0,0.6426049805279739,0.5828638586468384,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,205,2,17:20,1040,1040,Washington Defensive Rebound.,38,36,2,2,0.6426530325599948,0.5829535849216593,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,206,2,17:09,1029,1029,Matisse Thybulle Turnover.,38,36,2,11,0.6429255563870684,0.5834566186575072,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,207,2,16:48,1008,1008,Foul on Sayeed Pridgett.,38,36,2,21,0.6434887808366319,0.5844667840936933,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,208,2,16:48,1008,1008,Sayeed Pridgett Turnover.,38,36,2,0,0.6434887808366319,0.5844667840936933,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,209,2,16:25,985,985,Jaylen Nowell made Jumper.,40,36,4,23,0.7190208518903244,0.6664356729299381,5,5,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,210,2,16:11,971,971,Timmy Falls missed Jumper.,40,36,4,14,0.7200772932132778,0.6678593796784702,5,5,2.1,NA,NA,Montana,missed,Timmy Falls,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,211,2,16:11,971,971,Noah Dickerson Defensive Rebound.,40,36,4,0,0.7200772932132778,0.6678593796784702,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,212,2,16:02,962,962,Jaylen Nowell missed Jumper.,40,36,4,9,0.7207639263548155,0.6687819148491266,5,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,213,2,16:02,962,962,Hameir Wright Offensive Rebound.,40,36,4,0,0.7207639263548155,0.6687819148491266,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,214,2,15:58,958,958,Hameir Wright made Layup.,42,36,6,4,0.7861615319667662,0.7420585545103657,5,5,2.1,NA,NA,Washington,made,Hameir Wright,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,215,2,15:43,943,943,Ahmaad Rorie Turnover.,42,36,6,15,0.7875605317299356,0.74387896867327985,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,216,2,15:42,942,942,Matisse Thybulle Steal.,42,36,6,1,0.7876496566493753,0.7439952259595912,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,217,2,15:38,938,938,Official TV Timeout,42,36,6,4,0.7880015129945287,0.7444545227388728,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,218,2,15:31,931,931,Matisse Thybulle Turnover.,42,36,6,7,0.7886006061312009,0.7452377039285368,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,219,2,15:27,927,927,Ahmaad Rorie made Jumper.,42,38,4,4,0.7231128832710164,0.67197167798521,5,5,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,220,2,15:08,908,908,Hameir Wright made Jumper.,44,38,6,19,0.7904504625626501,0.74766372503467,5,5,2.1,NA,NA,Washington,made,Hameir Wright,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,221,2,14:41,881,881,Bobby Moorehead missed Three Point Jumper.,44,38,6,27,0.7924887446460764,0.7503433777080432,5,5,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,222,2,14:41,881,881,Hameir Wright Defensive Rebound.,44,38,6,0,0.7924887446460764,0.7503433777080432,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,223,2,14:35,875,875,Matisse Thybulle missed Three Point Jumper.,44,38,6,6,0.7929361268509583,0.7509311548109167,5,5,2.1,NA,NA,Washington,missed,Matisse Thybulle,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,224,2,14:35,875,875,Ahmaad Rorie Defensive Rebound.,44,38,6,0,0.7929361268509583,0.7509311548109167,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,225,2,14:23,863,863,Bobby Moorehead Turnover.,44,38,6,12,0.7938368487681664,0.7521129282776761,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,226,2,14:11,851,851,David Crisp Turnover.,44,38,6,12,0.7947560461822473,0.7533157936163957,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,227,2,14:09,849,849,Fabijan Krslovic Steal.,44,38,6,2,0.7949119213874395,0.7535193906375872,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,228,2,14:07,847,847,Ahmaad Rorie made Layup.,44,40,4,2,0.727682447684971,0.678244484567394,5,5,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,229,2,13:42,822,822,Foul on Fabijan Krslovic.,44,40,4,25,0.7292387492086936,0.6803471321945895,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,230,2,13:26,806,806,Hameir Wright made Jumper. Assisted by Jaylen Nowell.,46,40,6,16,0.7985784880838266,0.7582707938056193,5,5,2.1,NA,NA,Washington,made,Hameir Wright,Jaylen Nowell,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,231,2,13:11,791,791,Ahmaad Rorie missed Three Point Jumper.,46,40,6,15,0.8000592998985285,0.7601694941441172,5,5,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,TRUE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,232,2,13:11,791,791,Fabijan Krslovic Offensive Rebound.,46,40,6,0,0.8000592998985285,0.7601694941441172,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,233,2,13:05,785,785,Bobby Moorehead missed Three Point Jumper.,46,40,6,6,0.8006898485588175,0.7609748731892606,5,5,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,234,2,13:05,785,785,Noah Dickerson Defensive Rebound.,46,40,6,0,0.8006898485588175,0.7609748731892606,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,235,2,12:45,765,765,David Crisp made Jumper.,48,40,8,20,0.8577010208936711,0.8271271471901476,5,5,2.1,NA,NA,Washington,made,David Crisp,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,236,2,12:22,742,742,Fabijan Krslovic missed Jumper.,48,40,8,23,0.8608762448688598,0.8311395278839898,5,5,2.1,NA,NA,Montana,missed,Fabijan Krslovic,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,237,2,12:22,742,742,Fabijan Krslovic Offensive Rebound.,48,40,8,0,0.8608762448688598,0.8311395278839898,5,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,238,2,12:17,737,737,Ahmaad Rorie made Jumper.,48,42,6,5,0.8067069549404706,0.7685896422380765,5,5,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,239,2,11:58,718,718,Hameir Wright made Three Point Jumper. Assisted by Jaylen Nowell.,51,42,9,19,0.8866307630885575,0.8617895533968336,5,5,2.1,NA,NA,Washington,made,Hameir Wright,Jaylen Nowell,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,240,2,11:55,715,715,Montana  Timeout,51,42,9,3,0.8870433814766409,0.862312461791857,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,241,2,11:39,699,699,Foul on Jaylen Nowell.,51,42,9,16,0.8890879937290247,0.8649112988828961,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,242,2,11:39,699,699,Timmy Falls made Free Throw.,51,43,8,0,0.8670541555572573,0.8389445456411938,4,5,2.1,NA,NA,Montana,made,Timmy Falls,NA,FALSE,TRUE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,243,2,11:39,699,699,Timmy Falls made Free Throw.,51,44,7,0,0.8414237829268887,0.8090881983430694,4,5,2.1,NA,NA,Montana,made,Timmy Falls,NA,FALSE,TRUE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,244,2,11:23,683,683,Sam Timmins missed Jumper.,51,44,7,16,0.8433281230854884,0.8115176024103711,4,5,2.1,NA,NA,Washington,missed,Sam Timmins,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,245,2,11:23,683,683,Bobby Moorehead Block.,51,44,7,0,0.8433281230854884,0.8115176024103711,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,246,2,11:20,680,680,Fabijan Krslovic Defensive Rebound.,51,44,7,3,0.8436702288224385,0.811955242671099,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,247,2,11:13,673,673,Bobby Moorehead made Jumper.,51,46,5,7,0.7810756689450701,0.7406887071339416,4,5,2.1,NA,NA,Montana,made,Bobby Moorehead,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,248,2,10:41,641,641,Sam Timmins made Jumper.,53,46,7,32,0.8480057033864505,0.8175106036189436,4,5,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,249,2,10:19,619,619,Ahmaad Rorie made Jumper.,53,48,5,22,0.7866192984076156,0.7478698344902738,4,5,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,250,2,9:47,587,587,Jaylen Nowell missed Jumper.,53,48,5,32,0.7907680414306946,0.7531445488690564,4,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,251,2,9:47,587,587,Fabijan Krslovic Defensive Rebound.,53,48,5,0,0.7907680414306946,0.7531445488690564,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,252,2,9:40,580,580,Foul on Nahziah Carter.,53,48,5,7,0.7918311794208579,0.754481656061025,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,253,2,9:33,573,573,Bobby Moorehead missed Three Point Jumper.,53,48,5,7,0.7929617935681219,0.755898221033191,4,5,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,254,2,9:33,573,573,David Crisp Defensive Rebound.,53,48,5,0,0.7929617935681219,0.755898221033191,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,255,2,9:21,561,561,Foul on Timmy Falls.,53,48,5,12,0.7950714238251079,0.7585285064228021,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,256,2,9:21,561,561,Sam Timmins missed Free Throw.,53,48,5,0,0.7950714238251079,0.7585285064228021,4,5,2.1,NA,NA,Washington,missed,Sam Timmins,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,257,2,9:21,561,561,Washington Deadball Team Rebound.,53,48,5,0,0.7950714238251079,0.7585285064228021,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,258,2,9:21,561,561,Sam Timmins made Free Throw.,54,48,6,0,0.8298685912123283,0.7979538689080742,4,5,2.1,NA,NA,Washington,made,Sam Timmins,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,259,2,9:03,543,543,Ahmaad Rorie missed Three Point Jumper.,54,48,6,18,0.8335665395423835,0.8025344687031245,4,5,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,TRUE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,260,2,9:03,543,543,Sayeed Pridgett Offensive Rebound.,54,48,6,0,0.8335665395423835,0.8025344687031245,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,261,2,9:00,540,540,Sayeed Pridgett made Layup.,54,50,4,3,0.7588451178349841,0.7186590096750158,4,5,2.1,NA,NA,Montana,made,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,262,2,8:48,528,528,Jaylen Nowell missed Jumper.,54,50,4,12,0.7606168501800237,0.7209076304862077,4,5,2.1,NA,NA,Washington,missed,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,263,2,8:48,528,528,Jamar Akoh Defensive Rebound.,54,50,4,0,0.7606168501800237,0.7209076304862077,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,264,2,8:41,521,521,Sayeed Pridgett made Layup.,54,52,2,7,0.6645752785751927,0.6171524757059778,4,5,2.1,NA,NA,Montana,made,Sayeed Pridgett,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,265,2,8:14,494,494,Matisse Thybulle missed Jumper.,54,52,2,27,0.6662955273281869,0.6197209541976347,4,5,2.1,NA,NA,Washington,missed,Matisse Thybulle,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,266,2,8:14,494,494,Timmy Falls Defensive Rebound.,54,52,2,0,0.6662955273281869,0.6197209541976347,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,267,2,8:03,483,483,Jamar Akoh Turnover.,54,52,2,11,0.6670299128305595,0.6208093868963717,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,268,2,8:02,482,482,Nahziah Carter Steal.,54,52,2,1,0.6671001215624581,0.6209124108630119,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,269,2,7:59,479,479,Nahziah Carter made Layup.,56,52,4,3,0.7668885414005243,0.728992318826171,4,5,2.1,NA,NA,Washington,made,Nahziah Carter,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,270,2,7:41,461,461,Official TV Timeout,56,52,4,18,0.7696603718468954,0.7325063524628117,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,271,2,7:41,461,461,Sayeed Pridgett Turnover.,56,52,4,0,0.7696603718468954,0.7325063524628117,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,272,2,7:41,461,461,Official TV Timeout,56,52,4,0,0.7696603718468954,0.7325063524628117,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,273,2,7:36,456,456,Foul on Jamar Akoh.,56,52,4,5,0.7705466924569441,0.7336170546716553,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,274,2,7:22,442,442,Foul on Timmy Falls.,56,52,4,14,0.7733783297633053,0.7371315189203406,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,275,2,7:22,442,442,Hameir Wright made Free Throw.,57,52,5,0,0.8153664367809208,0.7839593552413722,4,5,2.1,NA,NA,Washington,made,Hameir Wright,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,276,2,7:22,442,442,Hameir Wright made Free Throw.,58,52,6,0,0.8510731237432771,0.8244320734033583,4,5,2.1,NA,NA,Washington,made,Hameir Wright,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,277,2,7:06,426,426,Timmy Falls Turnover.,58,52,6,16,0.8554837173950308,0.829822353919352,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,278,2,6:58,418,418,Foul on Sayeed Pridgett.,58,52,6,8,0.8576583458481774,0.8324893741621553,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,279,2,6:58,418,418,Nahziah Carter made Free Throw.,59,52,7,0,0.8872750840468995,0.8665279897689229,4,5,2.1,NA,NA,Washington,made,Nahziah Carter,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,280,2,6:58,418,418,Nahziah Carter missed Free Throw.,59,52,7,0,0.8872750840468995,0.8665279897689229,4,5,2.1,NA,NA,Washington,missed,Nahziah Carter,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,281,2,6:58,418,418,Bobby Moorehead Defensive Rebound.,59,52,7,0,0.8872750840468995,0.8665279897689229,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,282,2,6:34,394,394,Bobby Moorehead made Three Point Jumper. Assisted by Fabijan Krslovic.,59,55,4,24,0.7846399840469472,0.7510916164233586,4,5,2.1,NA,NA,Montana,made,Bobby Moorehead,Fabijan Krslovic,TRUE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,283,2,6:09,369,369,Noah Dickerson missed Layup.,59,55,4,25,0.7901795390820613,0.7580800020231662,4,5,2.1,NA,NA,Washington,missed,Noah Dickerson,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,284,2,6:09,369,369,Noah Dickerson Offensive Rebound.,59,55,4,0,0.7901795390820613,0.7580800020231662,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,285,2,6:08,368,368,Foul on Sayeed Pridgett.,59,55,4,1,0.790414791466525,0.7583755943789049,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,286,2,6:08,368,368,Noah Dickerson made Free Throw.,60,55,5,0,0.8338795795687148,0.8068612480742724,4,5,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,287,2,6:08,368,368,Noah Dickerson made Free Throw.,61,55,6,0,0.8698150675783779,0.8475730336284368,4,5,2.1,NA,NA,Washington,made,Noah Dickerson,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,288,2,5:51,351,351,Foul on Noah Dickerson.,61,55,6,17,0.8743765351303964,0.8532036078641606,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,289,2,5:51,351,351,Jamar Akoh made Free Throw.,61,56,5,0,0.8384711978708697,0.8125440733165918,4,5,2.1,NA,NA,Montana,made,Jamar Akoh,NA,FALSE,TRUE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,290,2,5:51,351,351,Jamar Akoh missed Free Throw.,61,56,5,0,0.8384711978708697,0.8125440733165918,4,5,2.1,NA,NA,Montana,missed,Jamar Akoh,NA,FALSE,TRUE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,291,2,5:51,351,351,Michael Oguine Offensive Rebound.,61,56,5,0,0.8384711978708697,0.8125440733165918,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,292,2,5:41,341,341,Ahmaad Rorie missed Three Point Jumper.,61,56,5,10,0.8415075782772032,0.8162685760112233,4,5,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,TRUE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,293,2,5:41,341,341,Jamar Akoh Offensive Rebound.,61,56,5,0,0.8415075782772032,0.8162685760112233,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,294,2,5:37,337,337,Jamar Akoh made Layup.,61,58,3,4,0.746212663806653,0.7111814983914941,4,5,2.1,NA,NA,Montana,made,Jamar Akoh,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,295,2,5:19,319,319,Matisse Thybulle missed Dunk.,61,58,3,18,0.7515990163410355,0.7178122811363782,4,5,2.1,NA,NA,Washington,missed,Matisse Thybulle,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,296,2,5:19,319,319,Michael Oguine Defensive Rebound.,61,58,3,0,0.7515990163410355,0.7178122811363782,4,5,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,297,2,5:08,308,308,Ahmaad Rorie made Layup.,61,60,1,11,0.6201116399526484,0.5790658712221796,4,5,2.1,NA,NA,Montana,made,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,298,2,5:03,303,303,Washington  Timeout,61,60,1,5,0.620502454644741,0.5797410540470757,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,299,2,4:46,286,286,Hameir Wright Turnover.,61,60,1,17,0.6203515541078958,0.5804956224697894,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,300,2,4:20,260,260,Ahmaad Rorie missed Jumper.,61,60,1,26,0.6175923592222337,0.5790461188087728,4,4,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,301,2,4:20,260,260,Jamar Akoh Offensive Rebound.,61,60,1,0,0.6175923592222337,0.5790461188087728,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,302,2,4:16,256,256,Jamar Akoh made Layup.,61,62,-1,4,0.46056191778711575,0.42124625615304523,4,4,2.1,NA,NA,Montana,made,Jamar Akoh,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,303,2,3:58,238,238,Hameir Wright missed Jumper.,61,62,-1,18,0.4603735032111561,0.4220817057879202,4,4,2.1,NA,NA,Washington,missed,Hameir Wright,NA,FALSE,FALSE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,304,2,3:58,238,238,Fabijan Krslovic Block.,61,62,-1,0,0.4603735032111561,0.4220817057879202,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,305,2,3:58,238,238,Washington Offensive Rebound.,61,62,-1,0,0.4603735032111561,0.4220817057879202,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,306,2,3:55,235,235,Official TV Timeout,61,62,-1,3,0.46019859954964043,0.4220856970700343,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,307,2,3:48,228,228,Hameir Wright missed Jumper.,61,62,-1,7,0.4595552516265712,0.4218715441721414,4,4,2.1,NA,NA,Washington,missed,Hameir Wright,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,308,2,3:48,228,228,Jamar Akoh Block.,61,62,-1,0,0.4595552516265712,0.4218715441721414,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,309,2,3:45,225,225,Michael Oguine Defensive Rebound.,61,62,-1,3,0.459163661219844,0.42166946400868704,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,310,2,3:44,224,224,Foul on David Crisp.,61,62,-1,1,0.45901598582261205,0.4215857612399853,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,311,2,3:17,197,197,Bobby Moorehead missed Three Point Jumper.,61,62,-1,27,0.4508910377840316,0.41537424784091176,4,4,2.1,NA,NA,Montana,missed,Bobby Moorehead,NA,TRUE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,312,2,3:17,197,197,Washington Deadball Team Rebound.,61,62,-1,0,0.4508910377840316,0.41537424784091176,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,313,2,3:15,195,195,Montana  Timeout,61,62,-1,2,0.44990575961214724,0.4145478036915785,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,314,2,3:05,185,185,Jaylen Nowell made Jumper.,63,62,1,10,0.6239672173762834,0.5903077305805219,3,4,2.1,NA,NA,Washington,made,Jaylen Nowell,NA,FALSE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,315,2,2:32,152,152,Fabijan Krslovic missed Jumper.,63,62,1,33,0.6387762621801977,0.608044049140897,3,4,2.1,NA,NA,Montana,missed,Fabijan Krslovic,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,316,2,2:32,152,152,David Crisp Defensive Rebound.,63,62,1,0,0.6387762621801977,0.608044049140897,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,317,2,2:01,121,121,Hameir Wright Turnover.,63,62,1,31,0.6566554480459629,0.628970260777508,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,318,2,1:49,109,109,Foul on Jaylen Nowell.,63,62,1,12,0.6652608358307437,0.638864218155905,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,319,2,1:30,90,90,Ahmaad Rorie missed Jumper.,63,62,1,19,0.681212785235124,0.6570018505792787,3,4,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,320,2,1:30,90,90,Ahmaad Rorie Offensive Rebound.,63,62,1,0,0.681212785235124,0.6570018505792787,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,321,2,1:27,87,87,Ahmaad Rorie missed Jumper.,63,62,1,3,0.6838881083172237,0.6600328805613682,3,4,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,322,2,1:27,87,87,Hameir Wright Block.,63,62,1,0,0.6838881083172237,0.6600328805613682,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,323,2,1:25,85,85,Sam Timmins Defensive Rebound.,63,62,1,2,0.6856851620347136,0.6620681128423219,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,324,2,1:20,80,80,Jaylen Nowell Turnover.,63,62,1,5,0.6902455810161431,0.6672287375267801,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,325,2,1:19,79,79,Fabijan Krslovic Steal.,63,62,1,1,0.6911720408694972,0.6682762057943562,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,326,2,1:13,73,73,Foul on Michael Oguine.,63,62,1,6,0.6968595350208218,0.6746980788615885,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,327,2,1:13,73,73,Michael Oguine Turnover.,63,62,1,0,0.6968595350208218,0.6746980788615885,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,328,2,1:13,73,73,Washington  Timeout,63,62,1,0,0.6968595350208218,0.6746980788615885,3,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,329,2,0:45,45,45,Hameir Wright missed Three Point Jumper.,63,62,1,28,0.7254856734666068,0.7068788910482673,3,3,2.1,NA,NA,Washington,missed,Hameir Wright,NA,TRUE,FALSE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,330,2,0:45,45,45,Montana Deadball Team Rebound.,63,62,1,0,0.7254856734666068,0.7068788910482673,3,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Montana
+400988287,2017-12-22,Washington,Montana,331,2,0:17,17,17,Ahmaad Rorie missed Jumper.,63,62,1,28,0.7567848688376497,0.7418515045362293,3,3,2.1,NA,NA,Montana,missed,Ahmaad Rorie,NA,FALSE,FALSE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,332,2,0:17,17,17,David Crisp Defensive Rebound.,63,62,1,0,0.7567848688376497,0.7418515045362293,3,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,333,2,0:12,12,12,Foul on Bobby Moorehead.,63,62,1,5,0.7626454018360109,0.7483733622652451,3,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,334,2,0:12,12,12,David Crisp missed Free Throw.,63,62,1,0,0.7626454018360109,0.7483733622652451,3,3,2.1,NA,NA,Washington,missed,David Crisp,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,335,2,0:12,12,12,Washington Deadball Team Rebound.,63,62,1,0,0.7626454018360109,0.7483733622652451,3,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,336,2,0:12,12,12,Montana  Timeout,63,62,1,0,0.7626454018360109,0.7483733622652451,2,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,337,2,0:12,12,12,David Crisp made Free Throw.,64,62,2,0,0.9052692341876124,0.8984309706555195,2,3,2.1,NA,NA,Washington,made,David Crisp,NA,FALSE,TRUE,Washington,Montana
+400988287,2017-12-22,Washington,Montana,338,2,0:06,6,6,Foul on David Crisp.,64,62,2,6,0.9120938021482362,0.9059288265680565,2,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Montana
+400988287,2017-12-22,Washington,Montana,339,2,0:06,6,6,Michael Oguine made Free Throw.,64,63,1,0,0.7697708902499338,0.7562915917287648,2,3,2.1,NA,NA,Montana,made,Michael Oguine,NA,FALSE,TRUE,Montana,Montana
+400988287,2017-12-22,Washington,Montana,340,2,0:06,6,6,Michael Oguine missed Free Throw.,64,63,1,0,0.7697708902499338,0.7562915917287648,2,3,2.1,NA,NA,Montana,missed,Michael Oguine,NA,FALSE,TRUE,Montana,Washington
+400988287,2017-12-22,Washington,Montana,341,2,0:04,4,4,David Crisp Defensive Rebound.,64,63,1,2,0.7721570118397568,0.7589408788562625,2,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Montana,Washington
+400988287,2017-12-22,Washington,Montana,342,2,0:02,2,2,Foul on Fabijan Krslovic.,64,63,1,2,0.7745443458123731,0.7615905125725704,2,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,343,2,0:02,2,2,Montana  Timeout,64,63,1,0,0.7745443458123731,0.7615905125725704,1,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,Washington
+400988287,2017-12-22,Washington,Montana,344,2,0:02,2,2,Matisse Thybulle made Free Throw.,65,63,2,0,0.9164889251192675,0.910750940927652,1,3,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,TRUE,Washington,Washington
+400988287,2017-12-22,Washington,Montana,345,2,0:02,2,2,Matisse Thybulle made Free Throw.,66,63,3,0,0.9722665309386472,0.9702365242832658,1,3,2.1,NA,NA,Washington,made,Matisse Thybulle,NA,FALSE,TRUE,Washington,NA
+400988287,2017-12-22,Washington,Montana,346,2,0:00,0,0,End of Game,66,66,0,2,1,1,1,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Washington,NA

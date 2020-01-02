@@ -1,0 +1,304 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+400986533,2018-01-27,Penn State,Rutgers,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.9000612230806848,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Penn State
+400986533,2018-01-27,Penn State,Rutgers,2,1,19:47,2387,2387,Shep Garner missed Three Point Jumper.,0,0,0,13,0.8998039947986799,0.5,4,4,13.7,NA,NA,Penn State,missed,Shep Garner,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,3,1,19:47,2387,2387,Deshawn Freeman Defensive Rebound.,0,0,0,0,0.8998039947986799,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,4,1,19:25,2365,2365,Corey Sanders missed Layup.,0,0,0,22,0.899358107823089,0.5,4,4,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,5,1,19:25,2365,2365,Mike Watkins Block.,0,0,0,0,0.899358107823089,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,6,1,19:25,2365,2365,Rutgers Offensive Rebound.,0,0,0,0,0.899358107823089,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,7,1,19:14,2354,2354,Deshawn Freeman missed Jumper.,0,0,0,11,0.8991300468965704,0.5,4,4,13.7,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,8,1,19:14,2354,2354,Shep Garner Defensive Rebound.,0,0,0,0,0.8991300468965704,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,9,1,19:04,2344,2344,Shep Garner Turnover.,0,0,0,10,0.8989196865922364,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,10,1,18:44,2324,2324,Issa Thiam missed Jumper.,0,0,0,20,0.8984901043912962,0.5,4,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,11,1,18:44,2324,2324,Lamar Stevens Block.,0,0,0,0,0.8984901043912962,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,12,1,18:42,2322,2322,Lamar Stevens Defensive Rebound.,0,0,0,2,0.8984464848609667,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,13,1,18:32,2312,2312,Lamar Stevens missed Three Point Jumper.,0,0,0,10,0.8982265520642958,0.5,4,4,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,TRUE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,14,1,18:32,2312,2312,Mike Watkins Offensive Rebound.,0,0,0,0,0.8982265520642958,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,15,1,18:20,2300,2300,Lamar Stevens missed Jumper.,0,0,0,12,0.8979585427362234,0.5,4,4,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,16,1,18:20,2300,2300,Issa Thiam Defensive Rebound.,0,0,0,0,0.8979585427362234,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,17,1,18:12,2292,2292,Geo Baker made Three Point Jumper. Assisted by Corey Sanders.,0,3,-3,8,0.8691853229092171,0.4307004005860406,4,4,13.7,NA,NA,Rutgers,made,Geo Baker,Corey Sanders,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,18,1,17:55,2275,2275,Tony Carr missed Three Point Jumper.,0,3,-3,17,0.8684371119440026,0.4301360678351613,4,4,13.7,NA,NA,Penn State,missed,Tony Carr,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,19,1,17:55,2275,2275,Deshawn Freeman Defensive Rebound.,0,3,-3,0,0.8684371119440026,0.4301360678351613,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,20,1,17:32,2252,2252,Deshawn Freeman missed Jumper.,0,3,-3,23,0.8673999603213177,0.42936670331146465,4,4,13.7,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,21,1,17:32,2252,2252,Mike Watkins Defensive Rebound.,0,3,-3,0,0.8673999603213177,0.42936670331146465,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,22,1,17:19,2239,2239,Shep Garner made Three Point Jumper. Assisted by Tony Carr.,3,3,0,13,0.8965240374080163,0.5,4,4,13.7,NA,NA,Penn State,made,Shep Garner,Tony Carr,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,23,1,17:00,2220,2220,Corey Sanders missed Jumper.,3,3,0,19,0.8960513868466928,0.5,4,4,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,24,1,17:00,2220,2220,Shep Garner Defensive Rebound.,3,3,0,0,0.8960513868466928,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,25,1,16:47,2207,2207,Mike Watkins missed Jumper.,3,3,0,13,0.8957205767227427,0.5,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,26,1,16:47,2207,2207,Josh Reaves Offensive Rebound.,3,3,0,0,0.8957205767227427,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,27,1,16:43,2203,2203,Foul on Deshawn Freeman.,3,3,0,4,0.8956175540111629,0.5,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,28,1,16:43,2203,2203,Mike Watkins made Free Throw.,4,3,1,0,0.9043499147114735,0.524247915603762,4,4,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,TRUE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,29,1,16:43,2203,2203,Mike Watkins missed Free Throw.,4,3,1,0,0.9043499147114735,0.524247915603762,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,30,1,16:43,2203,2203,Issa Thiam Defensive Rebound.,4,3,1,0,0.9043499147114735,0.524247915603762,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,31,1,16:21,2181,2181,Mamadou Doucoure missed Jumper.,4,3,1,22,0.9039046103267949,0.5245028241138812,4,4,13.7,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,32,1,16:21,2181,2181,Mike Watkins Defensive Rebound.,4,3,1,0,0.9039046103267949,0.5245028241138812,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,33,1,15:56,2156,2156,Mike Watkins missed Layup.,4,3,1,25,0.9033795664075228,0.5247939107609239,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,34,1,15:56,2156,2156,Deshawn Freeman Defensive Rebound.,4,3,1,0,0.9033795664075228,0.5247939107609239,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,35,1,15:27,2127,2127,Geo Baker missed Three Point Jumper.,4,3,1,29,0.9027463293193517,0.5251345592101195,4,4,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,36,1,15:27,2127,2127,Mike Watkins Defensive Rebound.,4,3,1,0,0.9027463293193517,0.5251345592101195,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,37,1,15:14,2114,2114,Mike Watkins Turnover.,4,3,1,13,0.902454178061406,0.5252884524132849,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,38,1,15:13,2113,2113,Deshawn Freeman Steal.,4,3,1,1,0.902431493926225,0.525300322543142,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,39,1,15:11,2111,2111,Official TV Timeout,4,3,1,2,0.9023860354850098,0.5253240768718772,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,40,1,15:01,2101,2101,Deshawn Freeman made Jumper.,4,5,-1,10,0.8826432582208319,0.47455686567115635,4,4,13.7,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,41,1,15:01,2101,2101,Foul on Josh Reaves.,4,5,-1,0,0.8826432582208319,0.47455686567115635,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,42,1,15:01,2101,2101,Deshawn Freeman made Free Throw.,4,6,-2,0,0.8716740693143072,0.44924515656012415,4,4,13.7,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,43,1,14:45,2085,2085,Shep Garner missed Three Point Jumper.,4,6,-2,16,0.8709429880128196,0.44886510981327055,4,4,13.7,NA,NA,Penn State,missed,Shep Garner,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,44,1,14:45,2085,2085,Geo Baker Defensive Rebound.,4,6,-2,0,0.8709429880128196,0.44886510981327055,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,45,1,14:26,2066,2066,Corey Sanders missed Jumper.,4,6,-2,19,0.8700574361953444,0.4484104463506168,4,4,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,46,1,14:26,2066,2066,Tony Carr Defensive Rebound.,4,6,-2,0,0.8700574361953444,0.4484104463506168,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,47,1,14:07,2047,2047,Lamar Stevens missed Layup.,4,6,-2,19,0.8691528678511115,0.4479519194647577,4,4,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,48,1,14:07,2047,2047,Mamadou Doucoure Block.,4,6,-2,0,0.8691528678511115,0.4479519194647577,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,49,1,14:05,2045,2045,Penn State Offensive Rebound.,4,6,-2,2,0.8690565381020802,0.4479034193632476,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,50,1,14:02,2042,2042,Tony Carr made Three Point Jumper. Assisted by Julian Moore.,7,6,1,3,0.9007449868461966,0.5261560906857521,4,4,13.7,NA,NA,Penn State,made,Tony Carr,Julian Moore,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,51,1,13:52,2032,2032,Corey Sanders Turnover.,7,6,1,10,0.9004955882090534,0.5262788681676853,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,52,1,13:51,2031,2031,Josh Reaves Steal.,7,6,1,1,0.9004704895715633,0.5262911789886499,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,53,1,13:49,2029,2029,Josh Reaves made Dunk.,9,6,3,2,0.917784860581405,0.578369085746656,4,4,13.7,NA,NA,Penn State,made,Josh Reaves,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,54,1,13:16,1996,1996,Corey Sanders missed Three Point Jumper.,9,6,3,33,0.9173225499361739,0.5795723481879878,4,4,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,55,1,13:16,1996,1996,Rutgers Deadball Team Rebound.,9,6,3,0,0.9173225499361739,0.5795723481879878,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,56,1,13:14,1994,1994,Rutgers  Turnover.,9,6,3,2,0.9172939314701443,0.5796459135707794,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,57,1,12:58,1978,1978,Tony Carr Turnover.,9,6,3,16,0.9170625910855221,0.5802371896999723,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,58,1,12:57,1977,1977,Geo Baker Steal.,9,6,3,1,0.9170479927255767,0.5802743095629743,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,59,1,12:52,1972,1972,Eugene Omoruyi made Layup. Assisted by Geo Baker.,9,8,1,5,0.8989392243542742,0.5270288641252185,4,4,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,Geo Baker,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,60,1,12:39,1959,1959,Foul on Geo Baker.,9,8,1,13,0.8985886707989528,0.5271945989230387,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,61,1,12:22,1942,1942,Nazeer Bostick Turnover.,9,8,1,17,0.8981232092252258,0.5274131981017458,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,62,1,12:21,1941,1941,Corey Sanders Steal.,9,8,1,1,0.8980955820126398,0.5274261244257532,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,63,1,12:10,1930,1930,Foul on Nazeer Bostick.,9,8,1,11,0.8977898811294669,0.5275688201986779,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,64,1,12:01,1921,1921,Eugene Omoruyi missed Jumper.,9,8,1,9,0.8975366650198433,0.5276858564523762,4,4,13.7,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,65,1,12:01,1921,1921,Lamar Stevens Defensive Rebound.,9,8,1,0,0.8975366650198433,0.5276858564523762,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,66,1,11:51,1911,1911,Foul on Lamar Stevens.,9,8,1,10,0.897251263659601,0.52781571392958,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,67,1,11:51,1911,1911,Lamar Stevens Turnover.,9,8,1,0,0.897251263659601,0.52781571392958,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,68,1,11:51,1911,1911,Official TV Timeout,9,8,1,0,0.897251263659601,0.52781571392958,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,69,1,11:29,1889,1889,Foul on Candido Sa.,9,8,1,22,0.8966088041176906,0.5281010966808245,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,70,1,11:29,1889,1889,Candido Sa Turnover.,9,8,1,0,0.8966088041176906,0.5281010966808245,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,71,1,11:21,1881,1881,Mike Watkins missed Layup.,9,8,1,8,0.8963703577958407,0.5282048929463481,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,72,1,11:21,1881,1881,Eugene Omoruyi Block.,9,8,1,0,0.8963703577958407,0.5282048929463481,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,73,1,11:17,1877,1877,Eugene Omoruyi Defensive Rebound.,9,8,1,4,0.8962501945267767,0.5282568163433705,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,74,1,11:02,1862,1862,Candido Sa missed Jumper.,9,8,1,15,0.8957941187711566,0.5284517786582487,4,4,13.7,NA,NA,Rutgers,missed,Candido Sa,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,75,1,11:02,1862,1862,Mike Watkins Defensive Rebound.,9,8,1,0,0.8957941187711566,0.5284517786582487,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,76,1,10:39,1839,1839,Foul on Lamar Stevens.,9,8,1,23,0.8950786195777674,0.5287519611525135,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,77,1,10:39,1839,1839,Lamar Stevens Turnover.,9,8,1,0,0.8950786195777674,0.5287519611525135,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,78,1,10:23,1823,1823,Foul on Deividas Zemgulis.,9,8,1,16,0.8945698594681676,0.5289621051302998,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,79,1,10:16,1816,1816,Issa Thiam missed Jumper.,9,8,1,7,0.8943445521128435,0.52905447983163445,4,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,80,1,10:16,1816,1816,Shep Garner Defensive Rebound.,9,8,1,0,0.8943445521128435,0.52905447983163445,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,81,1,9:59,1799,1799,Shep Garner made Three Point Jumper. Assisted by Mike Watkins.,12,8,4,17,0.9228577841017745,0.6151514944500204,4,4,13.7,NA,NA,Penn State,made,Shep Garner,Mike Watkins,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,82,1,9:46,1786,1786,Issa Thiam missed Three Point Jumper.,12,8,4,13,0.9226851634890555,0.6158126732630939,4,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,83,1,9:46,1786,1786,Mike Watkins Defensive Rebound.,12,8,4,0,0.9226851634890555,0.6158126732630939,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,84,1,9:33,1773,1773,Deividas Zemgulis missed Three Point Jumper.,12,8,4,13,0.922510804826958,0.6164789226072215,4,4,13.7,NA,NA,Penn State,missed,Deividas Zemgulis,NA,TRUE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,85,1,9:33,1773,1773,Mike Watkins Offensive Rebound.,12,8,4,0,0.922510804826958,0.6164789226072215,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,86,1,9:24,1764,1764,Tony Carr missed Jumper.,12,8,4,9,0.9223892538757841,0.61694347591316,4,4,13.7,NA,NA,Penn State,missed,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,87,1,9:24,1764,1764,Corey Sanders Defensive Rebound.,12,8,4,0,0.9223892538757841,0.61694347591316,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,88,1,9:20,1760,1760,Foul on Deividas Zemgulis.,12,8,4,4,0.9223350450871111,0.6171508766093694,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,89,1,9:08,1748,1748,Deshawn Freeman made Layup. Assisted by Geo Baker.,12,10,2,12,0.9031011870237644,0.5597287177246654,4,4,13.7,NA,NA,Rutgers,made,Deshawn Freeman,Geo Baker,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,90,1,9:08,1748,1748,Foul on Julian Moore.,12,10,2,0,0.9031011870237644,0.5597287177246654,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,91,1,9:08,1748,1748,Deshawn Freeman made Free Throw.,12,11,1,0,0.8920772233479,0.5299716675790276,4,4,13.7,NA,NA,Rutgers,made,Deshawn Freeman,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,92,1,8:38,1718,1718,Julian Moore missed Jumper.,12,11,1,30,0.8910368938321563,0.5303917317582819,4,4,13.7,NA,NA,Penn State,missed,Julian Moore,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,93,1,8:38,1718,1718,Mamadou Doucoure Defensive Rebound.,12,11,1,0,0.8910368938321563,0.5303917317582819,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,94,1,8:25,1705,1705,Issa Thiam made Layup. Assisted by Corey Sanders.,12,13,-1,13,0.8643323562585977,0.46942250660377033,4,4,13.7,NA,NA,Rutgers,made,Issa Thiam,Corey Sanders,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,95,1,8:25,1705,1705,Penn State  Timeout,12,13,-1,0,0.8643323562585977,0.46942250660377033,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,96,1,8:25,1705,1705,Official TV Timeout,12,13,-1,0,0.8643323562585977,0.46942250660377033,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,97,1,8:03,1683,1683,Tony Carr made Jumper.,14,13,1,22,0.8897959137568942,0.5308966826705475,3,4,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,98,1,7:45,1665,1665,Issa Thiam missed Three Point Jumper.,14,13,1,18,0.8891301078820348,0.5311535498262757,3,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,99,1,7:45,1665,1665,Mike Watkins Defensive Rebound.,14,13,1,0,0.8891301078820348,0.5311535498262757,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,100,1,7:38,1658,1658,Foul on Mamadou Doucoure.,14,13,1,7,0.8888641819182886,0.5312518628367782,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,101,1,7:33,1653,1653,Tony Carr missed Jumper.,14,13,1,5,0.888671960448008,0.5313216272177975,3,4,13.7,NA,NA,Penn State,missed,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,102,1,7:33,1653,1653,Deshawn Freeman Defensive Rebound.,14,13,1,0,0.888671960448008,0.5313216272177975,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,103,1,7:18,1638,1638,Mamadou Doucoure made Jumper. Assisted by Deshawn Freeman.,14,15,-1,15,0.8604167518814393,0.4684710047155523,3,4,13.7,NA,NA,Rutgers,made,Mamadou Doucoure,Deshawn Freeman,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,104,1,6:51,1611,1611,Mike Watkins missed Jumper.,14,15,-1,27,0.8587361087992162,0.4681025788353944,3,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,105,1,6:51,1611,1611,Mamadou Doucoure Defensive Rebound.,14,15,-1,0,0.8587361087992162,0.4681025788353944,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,106,1,6:29,1589,1589,Corey Sanders missed Jumper.,14,15,-1,22,0.8573275312852872,0.4678038198482664,3,4,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,107,1,6:29,1589,1589,Tony Carr Defensive Rebound.,14,15,-1,0,0.8573275312852872,0.4678038198482664,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,108,1,6:00,1560,1560,Josh Reaves made Three Point Jumper. Assisted by Shep Garner.,17,15,2,29,0.8974726446357592,0.5649107790321322,3,4,13.7,NA,NA,Penn State,made,Josh Reaves,Shep Garner,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,109,1,5:38,1538,1538,Issa Thiam missed Three Point Jumper.,17,15,2,22,0.8967159805699476,0.5655179549899412,3,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,110,1,5:38,1538,1538,Josh Reaves Defensive Rebound.,17,15,2,0,0.8967159805699476,0.5655179549899412,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,111,1,5:26,1526,1526,Josh Reaves Turnover.,17,15,2,12,0.8963010126914848,0.5658558878751304,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,112,1,5:25,1525,1525,Deshawn Freeman Steal.,17,15,2,1,0.8962664026802186,0.5658843048578295,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,113,1,5:22,1522,1522,Mamadou Doucoure Turnover.,17,15,2,3,0.8961625635077878,0.5659698093040033,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,114,1,5:03,1503,1503,Mike Watkins made Layup. Assisted by Julian Moore.,19,15,4,19,0.9180336246867976,0.630728150971558,3,4,13.7,NA,NA,Penn State,made,Mike Watkins,Julian Moore,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,115,1,4:41,1481,1481,Candido Sa made Three Point Jumper. Assisted by Souf Mensah.,19,18,1,22,0.8813229716192871,0.5337448945696408,3,4,13.7,NA,NA,Rutgers,made,Candido Sa,Souf Mensah,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,116,1,4:18,1458,1458,Mike Watkins Turnover.,19,18,1,23,0.8803032538880498,0.5341134001333621,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,117,1,4:08,1448,1448,Foul on Josh Reaves.,19,18,1,10,0.8798627373025516,0.5342798202247443,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,118,1,4:08,1448,1448,Eugene Omoruyi made Free Throw.,19,19,0,0,0.864572209425153,0.5,3,4,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,119,1,4:08,1448,1448,Eugene Omoruyi missed Free Throw.,19,19,0,0,0.864572209425153,0.5,3,4,13.7,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,120,1,4:08,1448,1448,Mike Watkins Defensive Rebound.,19,19,0,0,0.864572209425153,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,121,1,3:53,1433,1433,Foul on Souf Mensah.,19,19,0,15,0.8637128452161971,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,122,1,3:53,1433,1433,Official TV Timeout,19,19,0,0,0.8637128452161971,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,123,1,3:49,1429,1429,Tony Carr made Jumper.,21,19,2,4,0.8929922644373787,0.5688521339174273,3,4,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,124,1,3:31,1411,1411,Candido Sa made Dunk. Assisted by Eugene Omoruyi.,21,21,0,18,0.8624234425626401,0.5,3,4,13.7,NA,NA,Rutgers,made,Candido Sa,Eugene Omoruyi,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,125,1,3:03,1383,1383,Jamari Wheeler missed Three Point Jumper.,21,21,0,28,0.8607365093858345,0.5,3,4,13.7,NA,NA,Penn State,missed,Jamari Wheeler,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,126,1,3:03,1383,1383,Candido Sa Defensive Rebound.,21,21,0,0,0.8607365093858345,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,127,1,3:03,1383,1383,Foul on Julian Moore.,21,21,0,0,0.8607365093858345,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,128,1,3:03,1383,1383,Candido Sa made Free Throw.,21,22,-1,0,0.8428988750767196,0.4646930133992383,3,4,13.7,NA,NA,Rutgers,made,Candido Sa,NA,FALSE,TRUE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,129,1,3:03,1383,1383,Candido Sa made Free Throw.,21,23,-2,0,0.8232456757689993,0.42973638459750446,3,4,13.7,NA,NA,Rutgers,made,Candido Sa,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,130,1,2:40,1360,1360,Mike Watkins made Jumper.,23,23,0,23,0.8593162761290407,0.5,3,4,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,131,1,2:16,1336,1336,Shaquille Doorson missed Jumper.,23,23,0,24,0.8578050817180872,0.5,3,4,13.7,NA,NA,Rutgers,missed,Shaquille Doorson,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,132,1,2:16,1336,1336,Mike Watkins Defensive Rebound.,23,23,0,0,0.8578050817180872,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,133,1,1:54,1314,1314,Foul on Eugene Omoruyi.,23,23,0,22,0.8563970440991289,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,134,1,1:44,1304,1304,Tony Carr missed Three Point Jumper.,23,23,0,10,0.8557507337019068,0.5,3,4,13.7,NA,NA,Penn State,missed,Tony Carr,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,135,1,1:44,1304,1304,Deshawn Freeman Defensive Rebound.,23,23,0,0,0.8557507337019068,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,136,1,1:35,1295,1295,Issa Thiam missed Three Point Jumper.,23,23,0,9,0.8551660560536869,0.5,3,4,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,137,1,1:35,1295,1295,John Harrar Defensive Rebound.,23,23,0,0,0.8551660560536869,0.5,3,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,138,1,1:03,1263,1263,Tony Carr made Jumper.,25,23,2,32,0.8866795671226575,0.5740504965971964,3,4,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,139,1,1:01,1261,1261,Rutgers  Timeout,25,23,2,2,0.8866029399151725,0.5741214628979266,3,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,140,1,0:52,1252,1252,Corey Sanders missed Three Point Jumper.,25,23,2,9,0.8862599162370569,0.5744460673606648,3,3,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,141,1,0:52,1252,1252,Tony Carr Defensive Rebound.,25,23,2,0,0.8862599162370569,0.5744460673606648,3,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,142,1,0:34,1234,1234,Tony Carr made Three Point Jumper.,28,23,5,18,0.924183053800117,0.6806941829493431,3,3,13.7,NA,NA,Penn State,made,Tony Carr,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,143,1,0:00,1200,1200,Geo Baker missed Three Point Jumper.,28,23,5,34,0.923932865541012,0.6837696278036713,3,3,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,144,1,0:00,1200,1200,Rutgers Deadball Team Rebound.,28,23,5,0,0.923932865541012,0.6837696278036713,3,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,145,1,0:00,1200,1200,End of 1st half,28,23,5,0,0.923932865541012,0.6837696278036713,3,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,NA
+400986533,2018-01-27,Penn State,Rutgers,146,2,20:00,1200,1200,PLAY,28,23,5,0,0.923932865541012,0.6837696278036713,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Penn State
+400986533,2018-01-27,Penn State,Rutgers,147,2,19:50,1190,1190,Mike Watkins made Layup. Assisted by Josh Reaves.,30,23,7,10,0.9430081759139838,0.7475268131471972,4,4,13.7,NA,NA,Penn State,made,Mike Watkins,Josh Reaves,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,148,2,19:35,1175,1175,Deshawn Freeman missed Jumper.,30,23,7,15,0.9430560150303211,0.7491471708883459,4,4,13.7,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,149,2,19:35,1175,1175,Mike Watkins Defensive Rebound.,30,23,7,0,0.9430560150303211,0.7491471708883459,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,150,2,19:15,1155,1155,Shep Garner missed Jumper.,30,23,7,20,0.9431105281323144,0.7512533229414124,4,4,13.7,NA,NA,Penn State,missed,Shep Garner,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,151,2,19:14,1154,1154,Rutgers Defensive Rebound.,30,23,7,1,0.9431130806041552,0.7513574636738318,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,152,2,18:54,1134,1134,Mamadou Doucoure missed Dunk.,30,23,7,20,0.943163051244062,0.7534273214025707,4,4,13.7,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,153,2,18:50,1130,1130,Josh Reaves Defensive Rebound.,30,23,7,4,0.9431731305353629,0.7538397601377319,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,154,2,18:37,1117,1117,Mike Watkins missed Jumper.,30,23,7,13,0.9432072127730226,0.7551814736545159,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,155,2,18:37,1117,1117,Deshawn Freeman Defensive Rebound.,30,23,7,0,0.9432072127730226,0.7551814736545159,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,156,2,18:33,1113,1113,Geo Baker missed Three Point Jumper.,30,23,7,4,0.9432183038849162,0.7555955360814999,4,4,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,157,2,18:33,1113,1113,Tony Carr Defensive Rebound.,30,23,7,0,0.9432183038849162,0.7555955360814999,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,158,2,17:58,1078,1078,Foul on Mamadou Doucoure.,30,23,7,35,0.9433372289684971,0.7592838603578489,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,159,2,17:51,1071,1071,Tony Carr missed Jumper.,30,23,7,7,0.9433675758019417,0.760043185809508,4,4,13.7,NA,NA,Penn State,missed,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,160,2,17:51,1071,1071,Deshawn Freeman Defensive Rebound.,30,23,7,0,0.9433675758019417,0.760043185809508,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,161,2,17:29,1049,1049,Deshawn Freeman missed Layup.,30,23,7,22,0.9434827388293295,0.7624990643004549,4,4,13.7,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,162,2,17:29,1049,1049,Mike Watkins Defensive Rebound.,30,23,7,0,0.9434827388293295,0.7624990643004549,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,163,2,17:11,1031,1031,Foul on Deshawn Freeman.,30,23,7,18,0.9436038399346881,0.7646047814823155,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,164,2,17:11,1031,1031,Mike Watkins made Free Throw.,31,23,8,0,0.9519195269730534,0.7935391743721772,4,4,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,TRUE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,165,2,17:11,1031,1031,Mike Watkins missed Free Throw.,31,23,8,0,0.9519195269730534,0.7935391743721772,4,4,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,166,2,17:11,1031,1031,Deshawn Freeman Defensive Rebound.,31,23,8,0,0.9519195269730534,0.7935391743721772,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,167,2,16:59,1019,1019,Corey Sanders Turnover.,31,23,8,12,0.9520557581520038,0.7950589250901888,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,168,2,16:57,1017,1017,Josh Reaves Steal.,31,23,8,2,0.9520798083073319,0.7953171944480365,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,169,2,16:57,1017,1017,Josh Reaves made Layup.,33,23,10,0,0.9653914128076126,0.8450900767467513,4,4,13.7,NA,NA,Penn State,made,Josh Reaves,NA,FALSE,FALSE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,170,2,16:57,1017,1017,Foul on Deshawn Freeman.,33,23,10,0,0.9653914128076126,0.8450900767467513,4,4,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,171,2,16:57,1017,1017,Rutgers  Timeout,33,23,10,0,0.9653914128076126,0.8450900767467513,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,172,2,16:57,1017,1017,Official TV Timeout,33,23,10,0,0.9653914128076126,0.8450900767467513,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,173,2,16:57,1017,1017,Official TV Timeout,33,23,10,0,0.9653914128076126,0.8450900767467513,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,174,2,16:57,1017,1017,Josh Reaves made Free Throw.,34,23,11,0,0.9706334245026652,0.8660248600647602,4,3,13.7,NA,NA,Penn State,made,Josh Reaves,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,175,2,16:42,1002,1002,Candido Sa missed Jumper.,34,23,11,15,0.9708844172095594,0.8679662250116801,4,3,13.7,NA,NA,Rutgers,missed,Candido Sa,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,176,2,16:42,1002,1002,Mike Watkins Defensive Rebound.,34,23,11,0,0.9708844172095594,0.8679662250116801,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,177,2,16:31,991,991,Mike Watkins missed Layup.,34,23,11,11,0.9710816750619901,0.8694406403842286,4,3,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,178,2,16:31,991,991,Issa Thiam Defensive Rebound.,34,23,11,0,0.9710816750619901,0.8694406403842286,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,179,2,16:23,983,983,Corey Sanders missed Three Point Jumper.,34,23,11,8,0.9712326326321344,0.8705418475050635,4,3,13.7,NA,NA,Rutgers,missed,Corey Sanders,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,180,2,16:23,983,983,Lamar Stevens Defensive Rebound.,34,23,11,0,0.9712326326321344,0.8705418475050635,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,181,2,16:13,973,973,Lamar Stevens Turnover.,34,23,11,10,0.9714306699505242,0.8719543922225195,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,182,2,15:56,956,956,Geo Baker missed Layup.,34,23,11,17,0.9717653903682835,0.8743176307290855,4,3,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,183,2,15:56,956,956,Shep Garner Defensive Rebound.,34,23,11,0,0.9717653903682835,0.8743176307290855,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,184,2,15:35,935,935,Josh Reaves missed Three Point Jumper.,34,23,11,21,0.9721240979223107,0.8769176929164564,4,3,13.7,NA,NA,Penn State,missed,Josh Reaves,NA,TRUE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,185,2,15:35,935,935,Julian Moore Offensive Rebound.,34,23,11,0,0.9721240979223107,0.8769176929164564,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,186,2,15:31,931,931,Josh Reaves made Layup. Assisted by Julian Moore.,36,23,13,4,0.9803884301830159,0.9109783856202327,4,3,13.7,NA,NA,Penn State,made,Josh Reaves,Julian Moore,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,187,2,15:31,931,931,Foul on Eugene Omoruyi.,36,23,13,0,0.9803884301830159,0.9109783856202327,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,188,2,15:31,931,931,Official TV Timeout,36,23,13,0,0.9803884301830159,0.9109783856202327,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,189,2,15:31,931,931,Josh Reaves made Free Throw.,37,23,14,0,0.9835480833748547,0.9244591542441908,4,3,13.7,NA,NA,Penn State,made,Josh Reaves,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,190,2,15:30,930,930,Official TV Timeout,36,23,13,1,0.9804031225305029,0.911080055038306,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,191,2,15:13,913,913,Eugene Omoruyi made Jumper.,37,25,12,17,0.9768987730307065,0.897243050038283,4,3,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,192,2,14:36,876,876,Shep Garner missed Three Point Jumper.,37,25,12,37,0.9773927575016108,0.9007978653080665,4,3,13.7,NA,NA,Penn State,missed,Shep Garner,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,193,2,14:36,876,876,Penn State Deadball Team Rebound.,37,25,12,0,0.9773927575016108,0.9007978653080665,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,194,2,14:36,876,876,Penn State  Turnover.,37,25,12,0,0.9773927575016108,0.9007978653080665,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,195,2,14:24,864,864,Issa Thiam made Layup.,37,27,10,12,0.9678301501537276,0.8640060957226955,4,3,13.7,NA,NA,Rutgers,made,Issa Thiam,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,196,2,14:03,843,843,Shep Garner missed Three Point Jumper.,37,27,10,21,0.9681231855206258,0.8662265324029707,4,3,13.7,NA,NA,Penn State,missed,Shep Garner,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,197,2,14:03,843,843,Candido Sa Defensive Rebound.,37,27,10,0,0.9681231855206258,0.8662265324029707,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,198,2,13:56,836,836,Souf Mensah Turnover.,37,27,10,7,0.9682273986686154,0.8669912570871696,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,199,2,13:49,829,829,Tony Carr Turnover.,37,27,10,7,0.9683358906215278,0.8677731795994857,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,200,2,13:48,828,828,Eugene Omoruyi Steal.,37,27,10,1,0.9683517734310961,0.8678864533917813,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,201,2,13:46,826,826,Foul on Josh Reaves.,37,27,10,2,0.9683838441696073,0.8681142609851848,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,202,2,13:46,826,826,Eugene Omoruyi made Free Throw.,37,28,9,0,0.9620764472420805,0.8450048666475658,4,3,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,203,2,13:46,826,826,Eugene Omoruyi missed Free Throw.,37,28,9,0,0.9620764472420805,0.8450048666475658,4,3,13.7,NA,NA,Rutgers,missed,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,204,2,13:46,826,826,Penn State Defensive Rebound.,37,28,9,0,0.9620764472420805,0.8450048666475658,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,205,2,13:18,798,798,Shep Garner missed Three Point Jumper.,37,28,9,28,0.9625630471655946,0.8485113761310967,4,3,13.7,NA,NA,Penn State,missed,Shep Garner,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,206,2,13:18,798,798,Eugene Omoruyi Defensive Rebound.,37,28,9,0,0.9625630471655946,0.8485113761310967,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,207,2,13:07,787,787,Mamadou Doucoure made Jumper. Assisted by Geo Baker.,37,30,7,11,0.9462236037686511,0.794014463675768,4,3,13.7,NA,NA,Rutgers,made,Mamadou Doucoure,Geo Baker,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,208,2,12:45,765,765,Foul on Tony Carr.,37,30,7,22,0.9466585970775728,0.7973360106564941,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,209,2,12:45,765,765,Tony Carr Turnover.,37,30,7,0,0.9466585970775728,0.7973360106564941,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,210,2,12:24,744,744,Issa Thiam Turnover.,37,30,7,21,0.94717346297473,0.8009429863385313,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,211,2,12:23,743,743,Tony Carr Steal.,37,30,7,1,0.9472006586695094,0.8011265093789313,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,212,2,12:20,740,740,Nazeer Bostick missed Layup.,37,30,7,3,0.947283780666329,0.8016838226700204,4,3,13.7,NA,NA,Penn State,missed,Nazeer Bostick,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,213,2,12:20,740,740,Mike Watkins Offensive Rebound.,37,30,7,0,0.947283780666329,0.8016838226700204,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,214,2,12:16,736,736,Mike Watkins made Layup.,39,30,9,4,0.964133864341957,0.8584043070473865,4,3,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,215,2,11:53,713,713,Geo Baker missed Three Point Jumper.,39,30,9,23,0.9648500197963303,0.8626541887553315,4,3,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,216,2,11:53,713,713,Mike Watkins Defensive Rebound.,39,30,9,0,0.9648500197963303,0.8626541887553315,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,217,2,11:38,698,698,Tony Carr missed Jumper.,39,30,9,15,0.9652337212918953,0.8650646018292704,4,3,13.7,NA,NA,Penn State,missed,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,218,2,11:38,698,698,Mamadou Doucoure Defensive Rebound.,39,30,9,0,0.9652337212918953,0.8650646018292704,4,3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,219,2,11:27,687,687,Mamadou Doucoure made Layup.,39,32,7,11,0.9485921734515717,0.8109266821668251,4,3,13.7,NA,NA,Rutgers,made,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,220,2,11:26,686,686,Rutgers  Timeout,39,32,7,1,0.9486104911934238,0.8110752784002231,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,221,2,11:26,686,686,Official TV Timeout,39,32,7,0,0.9486104911934238,0.8110752784002231,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,222,2,11:13,673,673,Foul on Souf Mensah.,39,32,7,13,0.9488375748004084,0.8129618647961668,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,223,2,10:51,651,651,Lamar Stevens missed Jumper.,39,32,7,22,0.9492029928842641,0.8160738256006818,4,2,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,224,2,10:51,651,651,Mike Watkins Offensive Rebound.,39,32,7,0,0.9492029928842641,0.8160738256006818,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,225,2,10:49,649,649,Foul on Mamadou Doucoure.,39,32,7,2,0.9492367995709416,0.8163586134978325,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,226,2,10:49,649,649,Mike Watkins missed Free Throw.,39,32,7,0,0.9492367995709416,0.8163586134978325,4,2,13.7,NA,NA,Penn State,missed,Mike Watkins,NA,FALSE,TRUE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,227,2,10:49,649,649,Penn State Deadball Team Rebound.,39,32,7,0,0.9492367995709416,0.8163586134978325,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,228,2,10:49,649,649,Mike Watkins made Free Throw.,40,32,8,0,0.9585768854263276,0.846185723638645,4,2,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,229,2,10:36,636,636,Mamadou Doucoure missed Jumper.,40,32,8,13,0.9588370061052223,0.8480551799173502,4,2,13.7,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,230,2,10:36,636,636,Penn State Defensive Rebound.,40,32,8,0,0.9588370061052223,0.8480551799173502,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,231,2,10:11,611,611,Mike Watkins Turnover.,40,32,8,25,0.9594158736896264,0.8519431393887886,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,232,2,10:10,610,610,Souf Mensah Steal.,40,32,8,1,0.9594420865398661,0.852110122617302,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,233,2,10:05,605,605,Geo Baker missed Jumper.,40,32,8,5,0.9595774832000894,0.8529612772576324,4,2,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,234,2,10:05,605,605,Josh Reaves Block.,40,32,8,0,0.9595774832000894,0.8529612772576324,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,235,2,10:04,604,604,Mamadou Doucoure Offensive Rebound.,40,32,8,1,0.9596054642684834,0.8531348861732694,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,236,2,10:04,604,604,Foul on Lamar Stevens.,40,32,8,0,0.9596054642684834,0.8531348861732694,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,237,2,9:53,593,593,Souf Mensah Turnover.,40,32,8,11,0.9599349411956596,0.855125672090186,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,238,2,9:25,565,565,Foul on Souf Mensah.,40,32,8,28,0.9609868535628563,0.8609853668014692,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,239,2,9:25,565,565,Tony Carr made Free Throw.,41,32,9,0,0.9686897643927388,0.8860925972126632,4,2,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,TRUE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,240,2,9:25,565,565,Tony Carr made Free Throw.,42,32,10,0,0.9749114878733155,0.9071542411618653,4,2,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,241,2,8:57,537,537,Deshawn Freeman Turnover.,42,32,10,28,0.9761054334002678,0.9130798558393316,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,242,2,8:55,535,535,Deividas Zemgulis Steal.,42,32,10,2,0.9761788870996686,0.9134545177583439,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,243,2,8:42,522,522,Tony Carr made Jumper.,44,32,12,13,0.9853535283072262,0.9459541372365993,4,2,13.7,NA,NA,Penn State,made,Tony Carr,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,244,2,8:30,510,510,Deshawn Freeman Turnover.,44,32,12,12,0.9856429392208702,0.94743737701892,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,245,2,8:18,498,498,Mike Watkins made Dunk. Assisted by Tony Carr.,46,32,14,12,0.9912972387856276,0.9679295647269458,4,2,13.7,NA,NA,Penn State,made,Mike Watkins,Tony Carr,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,246,2,8:04,484,484,Deshawn Freeman missed Layup.,46,32,14,14,0.9915502503463106,0.9691671372660693,4,2,13.7,NA,NA,Rutgers,missed,Deshawn Freeman,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,247,2,8:04,484,484,Mike Watkins Block.,46,32,14,0,0.9915502503463106,0.9691671372660693,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,248,2,8:02,482,482,Mike Watkins Defensive Rebound.,46,32,14,2,0.9915880340945279,0.9693489932513223,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,249,2,7:58,478,478,Tony Carr Turnover.,46,32,14,4,0.9916654329652317,0.9697187495565887,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,250,2,7:57,477,477,Geo Baker Steal.,46,32,14,1,0.9916852056286294,0.9698125999658549,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,251,2,7:54,474,474,Geo Baker missed Jumper.,46,32,14,3,0.9917456487692611,0.970097939129693,4,2,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,252,2,7:54,474,474,Mike Watkins Block.,46,32,14,0,0.9917456487692611,0.970097939129693,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,253,2,7:52,472,472,Mike Watkins Defensive Rebound.,46,32,14,2,0.991786948339633,0.9702915617098796,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,254,2,7:35,455,455,Josh Reaves missed Layup.,46,32,14,17,0.9921776178179282,0.9720723492442125,4,2,13.7,NA,NA,Penn State,missed,Josh Reaves,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,255,2,7:35,455,455,Deshawn Freeman Block.,46,32,14,0,0.9921776178179282,0.9720723492442125,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,256,2,7:33,453,453,Deividas Zemgulis Offensive Rebound.,46,32,14,2,0.9922289591320121,0.9723001828690646,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,257,2,7:26,446,446,Official TV Timeout,46,32,14,7,0.9924188107348172,0.9731319856786607,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,258,2,7:26,446,446,Tony Carr missed Free Throw.,46,32,14,0,0.9924188107348172,0.9731319856786607,4,2,13.7,NA,NA,Penn State,missed,Tony Carr,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,259,2,7:26,446,446,Issa Thiam Defensive Rebound.,46,32,14,0,0.9924188107348172,0.9731319856786607,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,260,2,7:02,422,422,Issa Thiam made Jumper.,46,34,12,24,0.9884422087379605,0.9603797313848371,4,2,13.7,NA,NA,Rutgers,made,Issa Thiam,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,261,2,6:37,397,397,Tony Carr missed Three Point Jumper.,46,34,12,25,0.9893688881674687,0.9644373286479829,4,2,13.7,NA,NA,Penn State,missed,Tony Carr,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,262,2,6:37,397,397,Candido Sa Defensive Rebound.,46,34,12,0,0.9893688881674687,0.9644373286479829,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,263,2,6:28,388,388,Issa Thiam Turnover.,46,34,12,9,0.989667647936874,0.965762837595829,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,264,2,6:18,378,378,Lamar Stevens made Jumper. Assisted by Tony Carr.,48,34,14,10,0.9942845136223758,0.9810799059954128,4,2,13.7,NA,NA,Penn State,made,Lamar Stevens,Tony Carr,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,265,2,6:03,363,363,Candido Sa missed Jumper.,48,34,14,15,0.994641900390478,0.9825726282200203,4,2,13.7,NA,NA,Rutgers,missed,Candido Sa,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,266,2,6:03,363,363,Tony Carr Defensive Rebound.,48,34,14,0,0.994641900390478,0.9825726282200203,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,267,2,5:48,348,348,Foul on Eugene Omoruyi.,48,34,14,15,0.9950262039165904,0.9841172726514014,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,268,2,5:48,348,348,Lamar Stevens missed Free Throw.,48,34,14,0,0.9950262039165904,0.9841172726514014,4,2,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,FALSE,TRUE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,269,2,5:48,348,348,Candido Sa Defensive Rebound.,48,34,14,0,0.9950262039165904,0.9841172726514014,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,270,2,5:25,325,325,Issa Thiam made Three Point Jumper. Assisted by Corey Sanders.,48,37,11,23,0.989242888511118,0.9670997409282966,4,2,13.7,NA,NA,Rutgers,made,Issa Thiam,Corey Sanders,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,271,2,5:07,307,307,Josh Reaves made Dunk.,50,37,13,18,0.9948782374853617,0.9845483642625439,4,2,13.7,NA,NA,Penn State,made,Josh Reaves,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,272,2,4:53,293,293,Geo Baker Turnover.,50,37,13,14,0.9951004558561632,0.9855031325286145,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,273,2,4:52,292,292,Josh Reaves Steal.,50,37,13,1,0.9951006808080896,0.9855242324446654,4,2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,274,2,4:49,289,289,Lamar Stevens made Dunk. Assisted by Josh Reaves.,52,37,15,3,0.9974305747367425,0.9924057636793064,4,2,13.7,NA,NA,Penn State,made,Lamar Stevens,Josh Reaves,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,275,2,4:42,282,282,Rutgers  Timeout,52,37,15,7,0.9973892905115176,0.9923606299963356,4,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,276,2,4:39,279,279,Issa Thiam missed Three Point Jumper.,52,37,15,3,0.9973598989364046,0.9923079173153324,4,1,13.7,NA,NA,Rutgers,missed,Issa Thiam,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,277,2,4:39,279,279,Lamar Stevens Defensive Rebound.,52,37,15,0,0.9973598989364046,0.9923079173153324,4,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,278,2,4:09,249,249,Lamar Stevens made Layup.,54,37,17,30,0.9983402920050872,0.9953620900192204,4,1,13.7,NA,NA,Penn State,made,Lamar Stevens,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,279,2,3:56,236,236,Issa Thiam made Three Point Jumper. Assisted by Geo Baker.,54,40,14,13,0.9955457021791945,0.9878570030067518,4,1,13.7,NA,NA,Rutgers,made,Issa Thiam,Geo Baker,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,280,2,3:26,206,206,Shep Garner missed Layup.,54,40,14,30,0.9962084183847844,0.9901521499279873,4,1,13.7,NA,NA,Penn State,missed,Shep Garner,NA,FALSE,FALSE,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,281,2,3:26,206,206,Mike Watkins Offensive Rebound.,54,40,14,0,0.9962084183847844,0.9901521499279873,4,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,282,2,3:24,204,204,Mike Watkins made Dunk.,56,40,16,2,0.9981007637769322,0.9950697471613658,4,1,13.7,NA,NA,Penn State,made,Mike Watkins,NA,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,283,2,3:15,195,195,Geo Baker missed Three Point Jumper.,56,40,16,9,0.9984431191017107,0.9960225928212382,4,1,13.7,NA,NA,Rutgers,missed,Geo Baker,NA,TRUE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,284,2,3:15,195,195,Josh Reaves Defensive Rebound.,56,40,16,0,0.9984431191017107,0.9960225928212382,4,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,285,2,3:04,184,184,Penn State  Timeout,56,40,16,11,0.9988834769166767,0.99720554845468,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,286,2,3:04,184,184,Official TV Timeout,56,40,16,0,0.9988834769166767,0.99720554845468,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,287,2,2:45,165,165,Lamar Stevens missed Three Point Jumper.,56,40,16,19,0.9993987918198929,0.9985500803493315,3,1,13.7,NA,NA,Penn State,missed,Lamar Stevens,NA,TRUE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,288,2,2:45,165,165,Corey Sanders Defensive Rebound.,56,40,16,0,0.9993987918198929,0.9985500803493315,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,289,2,2:39,159,159,Corey Sanders Turnover.,56,40,16,6,0.9995119768503952,0.9988372121009546,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,290,2,2:34,154,154,Nazeer Bostick made Dunk. Assisted by Shep Garner.,58,40,18,5,0.99982904205931,0.9995966870243931,3,1,13.7,NA,NA,Penn State,made,Nazeer Bostick,Shep Garner,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,291,2,2:13,133,133,Eugene Omoruyi made Layup.,58,42,16,21,0.9998262516986233,0.9996080848840637,3,1,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,FALSE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,292,2,2:13,133,133,Foul on Tony Carr.,58,42,16,0,0.9998262516986233,0.9996080848840637,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,293,2,2:13,133,133,Eugene Omoruyi made Free Throw.,58,43,15,0,0.9997163468018271,0.9993602663552792,3,1,13.7,NA,NA,Rutgers,made,Eugene Omoruyi,NA,FALSE,TRUE,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,294,2,1:42,102,102,Penn State  Turnover.,58,43,15,31,0.9999394999258833,0.9998728544753588,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,295,2,1:30,90,90,Foul on Eugene Omoruyi.,58,43,15,12,0.9999714281594986,0.999941675311225,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Penn State
+400986533,2018-01-27,Penn State,Rutgers,296,2,1:30,90,90,Eugene Omoruyi Turnover.,58,43,15,0,0.9999714281594986,0.999941675311225,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,297,2,1:21,81,81,Shep Garner Turnover.,58,43,15,9,0.9999842110572238,0.9999684792371585,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,298,2,1:09,69,69,Deshawn Freeman Turnover.,58,43,15,12,0.9999932569890588,0.9999869424546084,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,299,2,1:07,67,67,Tony Carr Steal.,58,43,15,2,0.9999941900769423,0.9999888073521208,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,300,2,0:45,45,45,Josh Reaves made Dunk. Assisted by Tony Carr.,60,43,17,22,0.9999998256146045,0.9999996830904992,3,1,13.7,NA,NA,Penn State,made,Josh Reaves,Tony Carr,FALSE,FALSE,Penn State,Rutgers
+400986533,2018-01-27,Penn State,Rutgers,301,2,0:29,29,29,Eugene Omoruyi Turnover.,60,43,17,16,0.9999999651879996,0.9999999394806498,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,302,2,0:29,29,29,Josh Reaves Steal.,60,43,17,0,0.9999999651879996,0.9999999394806498,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Penn State
+400986533,2018-01-27,Penn State,Rutgers,303,2,0:00,0,0,End of Game,60,60,0,29,1,1,3,1,13.7,NA,NA,NA,NA,NA,NA,NA,NA,Penn State,NA
