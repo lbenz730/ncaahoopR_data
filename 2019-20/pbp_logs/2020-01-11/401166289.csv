@@ -1,0 +1,327 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166289,2020-01-11,Missouri,Florida,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.4204656748757369,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missouri
+401166289,2020-01-11,Missouri,Florida,2,1,19:48,2388,2388,Mark Smith made Three Point Jumper. Assisted by Kobe Brown.,3,0,3,12,0.48647610295188776,0.5662011795037978,4,4,-2,NA,NA,Missouri,made,Mark Smith,Kobe Brown,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,3,1,19:19,2359,2359,Andrew Nembhard missed Three Point Jumper.,3,0,3,29,0.4876481109541118,0.56711918246611,4,4,-2,NA,NA,Florida,missed,Andrew Nembhard,NA,TRUE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,4,1,19:19,2359,2359,Florida Offensive Rebound.,3,0,3,0,0.4876481109541118,0.56711918246611,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,5,1,19:12,2352,2352,Andrew Nembhard missed Three Point Jumper.,3,0,3,7,0.48793492453586546,0.5673432999490362,4,4,-2,NA,NA,Florida,missed,Andrew Nembhard,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,6,1,19:12,2352,2352,Mark Smith Defensive Rebound.,3,0,3,0,0.48793492453586546,0.5673432999490362,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,7,1,18:46,2326,2326,Reed Nikko missed Layup.,3,0,3,26,0.48901297985896636,0.5681836522816094,4,4,-2,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,8,1,18:46,2326,2326,Omar Payne Block.,3,0,3,0,0.48901297985896636,0.5681836522816094,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,9,1,18:44,2324,2324,Mitchell Smith Offensive Rebound.,3,0,3,2,0.4890967177419498,0.5682487856581603,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,10,1,18:44,2324,2324,Mitchell Smith Turnover.,3,0,3,0,0.4890967177419498,0.5682487856581603,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,11,1,18:22,2302,2302,Kerry Blackshear Jr. missed Three Point Jumper.,3,0,3,22,0.49002518740877626,0.5689695343354628,4,4,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,12,1,18:22,2302,2302,Mark Smith Defensive Rebound.,3,0,3,0,0.49002518740877626,0.5689695343354628,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,13,1,18:12,2292,2292,Kobe Brown missed Three Point Jumper.,3,0,3,10,0.49045155606759505,0.5692995994139594,4,4,-2,NA,NA,Missouri,missed,Kobe Brown,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,14,1,18:12,2292,2292,Noah Locke Defensive Rebound.,3,0,3,0,0.49045155606759505,0.5692995994139594,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,15,1,18:03,2283,2283,Keyontae Johnson missed Layup.,3,0,3,9,0.49083752849802287,0.5695978763155807,4,4,-2,NA,NA,Florida,missed,Keyontae Johnson,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,16,1,18:03,2283,2283,Reed Nikko Block.,3,0,3,0,0.49083752849802287,0.5695978763155807,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,17,1,18:03,2283,2283,Florida Offensive Rebound.,3,0,3,0,0.49083752849802287,0.5695978763155807,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,18,1,17:48,2268,2268,Keyontae Johnson missed Three Point Jumper.,3,0,3,15,0.4914853985992479,0.5700974089447075,4,4,-2,NA,NA,Florida,missed,Keyontae Johnson,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,19,1,17:48,2268,2268,Reed Nikko Defensive Rebound.,3,0,3,0,0.4914853985992479,0.5700974089447075,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,20,1,17:25,2245,2245,Foul on Dru Smith.,3,0,3,23,0.49248947385405856,0.5708686584745194,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,21,1,17:25,2245,2245,Dru Smith Turnover.,3,0,3,0,0.49248947385405856,0.5708686584745194,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,22,1,17:06,2226,2226,Omar Payne missed Dunk.,3,0,3,19,0.4933281733684412,0.5715100212274645,4,4,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,23,1,17:06,2226,2226,Omar Payne Offensive Rebound.,3,0,3,0,0.4933281733684412,0.5715100212274645,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,24,1,17:06,2226,2226,Foul on Mitchell Smith.,3,0,3,0,0.4933281733684412,0.5715100212274645,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,25,1,17:06,2226,2226,Omar Payne missed Free Throw.,3,0,3,0,0.4933281733684412,0.5715100212274645,4,4,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,26,1,17:06,2226,2226,Florida Deadball Team Rebound.,3,0,3,0,0.4933281733684412,0.5715100212274645,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,27,1,17:06,2226,2226,Omar Payne made Free Throw.,3,1,2,0,0.46936497648810427,0.5478555076754315,4,4,-2,NA,NA,Florida,made,Omar Payne,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,28,1,16:50,2210,2210,Foul on Keyontae Johnson.,3,1,2,16,0.4698908575873816,0.548221476678421,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,29,1,16:50,2210,2210,Dru Smith made Free Throw.,4,1,3,0,0.4940405776641933,0.5720526697042271,4,4,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,30,1,16:50,2210,2210,Dru Smith made Free Throw.,5,1,4,0,0.5182181384593193,0.5955541806785867,4,4,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,31,1,16:37,2197,2197,Keyontae Johnson Turnover.,5,1,4,13,0.5189505651600304,0.5961344781499945,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,32,1,16:36,2196,2196,Dru Smith Steal.,5,1,4,1,0.5190070612683301,0.5961791766315144,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,33,1,16:34,2194,2194,Foul on Keyontae Johnson.,5,1,4,2,0.5191201186673039,0.5962685977478669,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,34,1,16:34,2194,2194,Tray Jackson made Free Throw.,6,1,5,0,0.5433913604586286,0.6195000597994478,4,4,-2,NA,NA,Missouri,made,Tray Jackson,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,35,1,16:34,2194,2194,Tray Jackson missed Free Throw.,6,1,5,0,0.5433913604586286,0.6195000597994478,4,4,-2,NA,NA,Missouri,missed,Tray Jackson,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,36,1,16:34,2194,2194,Noah Locke Defensive Rebound.,6,1,5,0,0.5433913604586286,0.6195000597994478,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,37,1,16:27,2187,2187,Noah Locke missed Three Point Jumper.,6,1,5,7,0.5438660157143873,0.6198834017317497,4,4,-2,NA,NA,Florida,missed,Noah Locke,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,38,1,16:27,2187,2187,Javon Pickett Defensive Rebound.,6,1,5,0,0.5438660157143873,0.6198834017317497,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,39,1,16:09,2169,2169,Javon Pickett missed Jumper.,6,1,5,18,0.5450913926494162,0.6208707641250961,4,4,-2,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,40,1,16:09,2169,2169,Kerry Blackshear Jr. Block.,6,1,5,0,0.5450913926494162,0.6208707641250961,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,41,1,16:08,2168,2168,Kerry Blackshear Jr. Defensive Rebound.,6,1,5,1,0.545159676202829,0.6209256891317544,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,42,1,15:56,2156,2156,Kerry Blackshear Jr. made Jumper.,6,3,3,12,0.4964831574570486,0.5738975675957979,4,4,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,43,1,15:56,2156,2156,Foul on Mitchell Smith.,6,3,3,0,0.4964831574570486,0.5738975675957979,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,44,1,15:56,2156,2156,Official TV Timeout,6,3,3,0,0.4964831574570486,0.5738975675957979,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,45,1,15:56,2156,2156,Kerry Blackshear Jr. made Free Throw.,6,4,2,0,0.4716991176228001,0.5494661865413782,4,4,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,46,1,15:41,2141,2141,Tray Jackson Turnover.,6,4,2,15,0.4722110201068833,0.5498150985748921,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,47,1,15:39,2139,2139,Scottie Lewis Steal.,6,4,2,2,0.4722796151555397,0.5498617568700167,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,48,1,15:36,2136,2136,Ques Glover missed Jumper.,6,4,2,3,0.47238265952705416,0.549931806297836,4,4,-2,NA,NA,Florida,missed,Ques Glover,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,49,1,15:36,2136,2136,Reed Nikko Defensive Rebound.,6,4,2,0,0.47238265952705416,0.549931806297836,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,50,1,15:27,2127,2127,Xavier Pinson missed Jumper.,6,4,2,9,0.47269289157772454,0.5501424093407381,4,4,-2,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,51,1,15:27,2127,2127,Omar Payne Block.,6,4,2,0,0.47269289157772454,0.5501424093407381,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,52,1,15:27,2127,2127,Missouri Offensive Rebound.,6,4,2,0,0.47269289157772454,0.5501424093407381,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,53,1,15:00,2100,2100,Reed Nikko missed Jumper.,6,4,2,27,0.4736336282387512,0.5507785234673286,4,4,-2,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,54,1,15:00,2100,2100,Ques Glover Defensive Rebound.,6,4,2,0,0.4736336282387512,0.5507785234673286,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,55,1,14:57,2097,2097,Ques Glover missed Jumper.,6,4,2,3,0.473739098106582,0.5508496210603158,4,4,-2,NA,NA,Florida,missed,Ques Glover,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,56,1,14:57,2097,2097,Javon Pickett Defensive Rebound.,6,4,2,0,0.473739098106582,0.5508496210603158,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,57,1,14:50,2090,2090,Xavier Pinson missed Three Point Jumper.,6,4,2,7,0.47398593860645183,0.5510158552260809,4,4,-2,NA,NA,Missouri,missed,Xavier Pinson,NA,TRUE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,58,1,14:50,2090,2090,Reed Nikko Offensive Rebound.,6,4,2,0,0.47398593860645183,0.5510158552260809,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,59,1,14:43,2083,2083,Mark Smith made Three Point Jumper. Assisted by Javon Pickett.,9,4,5,7,0.5510759250017826,0.6256558297818652,4,4,-2,NA,NA,Missouri,made,Mark Smith,Javon Pickett,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,60,1,14:14,2054,2054,Kerry Blackshear Jr. missed Jumper.,9,4,5,29,0.5531494951198892,0.6273022369711612,4,4,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,61,1,14:14,2054,2054,Omar Payne Offensive Rebound.,9,4,5,0,0.5531494951198892,0.6273022369711612,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,62,1,14:10,2050,2050,Foul on Reed Nikko.,9,4,5,4,0.5534378817013023,0.6275308227866109,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,63,1,14:10,2050,2050,Omar Payne missed Free Throw.,9,4,5,0,0.5534378817013023,0.6275308227866109,4,4,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,64,1,14:10,2050,2050,Florida Deadball Team Rebound.,9,4,5,0,0.5534378817013023,0.6275308227866109,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,65,1,14:10,2050,2050,Omar Payne made Free Throw.,9,5,4,0,0.527532946329616,0.60283956939799,4,4,-2,NA,NA,Florida,made,Omar Payne,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,66,1,13:56,2036,2036,Reed Nikko made Dunk. Assisted by Xavier Pinson.,11,5,6,14,0.5802232739504717,0.6525100672383239,4,4,-2,NA,NA,Missouri,made,Reed Nikko,Xavier Pinson,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,67,1,13:25,2005,2005,Kerry Blackshear Jr. Turnover.,11,5,6,31,0.5828371084733062,0.6546012871172677,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,68,1,13:24,2004,2004,Reed Nikko Steal.,11,5,6,1,0.582922105111078,0.654669202878599,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,69,1,13:19,1999,1999,Xavier Pinson made Dunk.,13,5,8,5,0.6341917478875195,0.7015819149026303,4,4,-2,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,70,1,13:10,1990,1990,Florida  Timeout,13,5,8,9,0.6351355192947701,0.7023400918608192,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,71,1,13:05,1985,1985,Kerry Blackshear Jr. missed Jumper.,13,5,8,5,0.6356614765676374,0.7027624146276797,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,72,1,13:05,1985,1985,Kerry Blackshear Jr. Offensive Rebound.,13,5,8,0,0.6356614765676374,0.7027624146276797,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,73,1,13:03,1983,1983,Foul on Kobe Brown.,13,5,8,2,0.6358721906819738,0.7029315697151935,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,74,1,12:55,1975,1975,Kerry Blackshear Jr. missed Free Throw.,13,5,8,8,0.6367169569854262,0.7036094990101835,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,75,1,12:55,1975,1975,Florida Deadball Team Rebound.,13,5,8,0,0.6367169569854262,0.7036094990101835,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,76,1,12:55,1975,1975,Kerry Blackshear Jr. made Free Throw.,13,6,7,0,0.6113700335273052,0.6805884641124427,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,77,1,12:45,1965,1965,Reed Nikko made Dunk. Assisted by Dru Smith.,15,6,9,10,0.6624671545854272,0.7265533319297357,4,3,-2,NA,NA,Missouri,made,Reed Nikko,Dru Smith,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,78,1,12:20,1940,1940,Kerry Blackshear Jr. made Three Point Jumper. Assisted by Noah Locke.,15,9,6,25,0.5884552852684922,0.6590805854933653,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,Noah Locke,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,79,1,12:03,1923,1923,Xavier Pinson made Jumper.,17,9,8,17,0.6422833968116843,0.7080682011820075,4,3,-2,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,80,1,12:03,1923,1923,Foul on Tre Mann.,17,9,8,0,0.6422833968116843,0.7080682011820075,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,81,1,12:03,1923,1923,Xavier Pinson made Free Throw.,18,9,9,0,0.6673094491288878,0.7304235869144904,4,3,-2,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,82,1,11:45,1905,1905,Andrew Nembhard made Three Point Jumper. Assisted by Kerry Blackshear Jr..,18,12,6,18,0.5915467140974854,0.6615348190639374,4,3,-2,NA,NA,Florida,made,Andrew Nembhard,Kerry Blackshear Jr,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,83,1,11:31,1891,1891,Dru Smith missed Jumper.,18,12,6,14,0.5927844962720797,0.6625129994211784,4,3,-2,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,84,1,11:31,1891,1891,Andrew Nembhard Defensive Rebound.,18,12,6,0,0.5927844962720797,0.6625129994211784,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,85,1,11:28,1888,1888,Andrew Nembhard Turnover.,18,12,6,3,0.5930499219782239,0.6627224472421261,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,86,1,11:26,1886,1886,Xavier Pinson Steal.,18,12,6,2,0.5932269220229315,0.6628620604607947,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,87,1,11:25,1885,1885,Dru Smith made Layup. Assisted by Xavier Pinson.,20,12,8,1,0.6463768084771563,0.7113294246517019,4,3,-2,NA,NA,Missouri,made,Dru Smith,Xavier Pinson,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,88,1,11:08,1868,1868,Omar Payne missed Layup.,20,12,8,17,0.6482078483958742,0.7127824085942487,4,3,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,89,1,11:08,1868,1868,Omar Payne Offensive Rebound.,20,12,8,0,0.6482078483958742,0.7127824085942487,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,90,1,11:04,1864,1864,Omar Payne missed Jumper.,20,12,8,4,0.6486390922353747,0.7131241670271646,4,3,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,91,1,11:04,1864,1864,Kerry Blackshear Jr. Offensive Rebound.,20,12,8,0,0.6486390922353747,0.7131241670271646,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,92,1,11:03,1863,1863,Kerry Blackshear Jr. missed Jumper.,20,12,8,1,0.6487469371365536,0.713209608651688,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,93,1,11:03,1863,1863,Scottie Lewis Offensive Rebound.,20,12,8,0,0.6487469371365536,0.713209608651688,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,94,1,11:01,1861,1861,Foul on Xavier Pinson.,20,12,8,2,0.648962671275781,0.7133804978053743,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,95,1,11:01,1861,1861,Official TV Timeout,20,12,8,0,0.648962671275781,0.7133804978053743,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,96,1,11:01,1861,1861,Scottie Lewis made Free Throw.,20,13,7,0,0.6225768748140934,0.6895201578890727,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,97,1,11:01,1861,1861,Scottie Lewis made Free Throw.,20,14,6,0,0.5954441469548586,0.6646073615236279,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,98,1,10:47,1847,1847,Foul on Kerry Blackshear Jr..,20,14,6,14,0.5966911328559926,0.6655863756452651,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,99,1,10:47,1847,1847,Kobe Brown made Free Throw.,21,14,7,0,0.623964962288064,0.6906168619188627,4,3,-2,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,100,1,10:47,1847,1847,Kobe Brown made Free Throw.,22,14,8,0,0.6504747915029053,0.7145772570816257,4,3,-2,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,101,1,10:31,1831,1831,Andrew Nembhard Turnover.,22,14,8,16,0.6522084826636971,0.7159473906477681,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,102,1,10:10,1810,1810,Mark Smith missed Layup.,22,14,8,21,0.6544962887475091,0.7177528125851423,4,3,-2,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,103,1,10:10,1810,1810,Noah Locke Defensive Rebound.,22,14,8,0,0.6544962887475091,0.7177528125851423,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,104,1,10:02,1802,1802,Kerry Blackshear Jr. made Dunk. Assisted by Noah Locke.,22,16,6,8,0.600740292233876,0.6687563666720667,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,Noah Locke,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,105,1,9:46,1786,1786,Kobe Brown made Three Point Jumper. Assisted by Dru Smith.,25,16,9,16,0.6831962074836039,0.7429920337554196,4,3,-2,NA,NA,Missouri,made,Kobe Brown,Dru Smith,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,106,1,9:23,1763,1763,Jason Jitoboh made Layup. Assisted by Kerry Blackshear Jr..,25,18,7,23,0.6324421441208613,0.6972896617558367,4,3,-2,NA,NA,Florida,made,Jason Jitoboh,Kerry Blackshear Jr,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,107,1,9:04,1744,1744,Kobe Brown made Jumper.,27,18,9,19,0.6881957726332538,0.7469243673993708,4,3,-2,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,108,1,8:35,1715,1715,Andrew Nembhard Turnover.,27,18,9,29,0.6917206384699064,0.7496964577784596,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,109,1,8:34,1714,1714,Dru Smith Steal.,27,18,9,1,0.6918434247055874,0.7497930434634539,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,110,1,8:32,1712,1712,Dru Smith missed Layup.,27,18,9,2,0.6920892605344413,0.749986428614603,4,3,-2,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,111,1,8:32,1712,1712,Scottie Lewis Block.,27,18,9,0,0.6920892605344413,0.749986428614603,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,112,1,8:30,1710,1710,Javon Pickett Offensive Rebound.,27,18,9,2,0.6923354507071646,0.7501801017949069,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,113,1,8:28,1708,1708,Javon Pickett made Jumper.,29,18,11,2,0.7420781400149928,0.7933418001463329,4,3,-2,NA,NA,Missouri,made,Javon Pickett,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,114,1,8:09,1689,1689,Jason Jitoboh missed Jumper.,29,18,11,19,0.7446194819798548,0.79532705473024,4,3,-2,NA,NA,Florida,missed,Jason Jitoboh,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,115,1,8:09,1689,1689,Axel Okongo Defensive Rebound.,29,18,11,0,0.7446194819798548,0.79532705473024,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,116,1,7:53,1673,1673,Mark Smith missed Three Point Jumper.,29,18,11,16,0.7467410886024806,0.7969801177507578,4,3,-2,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,117,1,7:53,1673,1673,Scottie Lewis Defensive Rebound.,29,18,11,0,0.7467410886024806,0.7969801177507578,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,118,1,7:33,1653,1653,Kerry Blackshear Jr. missed Three Point Jumper.,29,18,11,20,0.7493267428733004,0.7989843443592086,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,119,1,7:33,1653,1653,Mark Smith Defensive Rebound.,29,18,11,0,0.7493267428733004,0.7989843443592086,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,120,1,7:12,1632,1632,Dru Smith made Layup.,31,18,13,21,0.7961550349808075,0.8383472878265988,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,121,1,6:53,1613,1613,Foul on Axel Okongo.,31,18,13,19,0.7985467409618288,0.8401712735100382,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,122,1,6:53,1613,1613,Official TV Timeout,31,18,13,0,0.7985467409618288,0.8401712735100382,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,123,1,6:53,1613,1613,Kerry Blackshear Jr. made Free Throw.,31,19,12,0,0.7772275013364272,0.8222766707486586,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,124,1,6:53,1613,1613,Kerry Blackshear Jr. made Free Throw.,31,20,11,0,0.7543461582479827,0.8028487016634318,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,125,1,6:52,1612,1612,Xavier Pinson made Three Point Jumper. Assisted by Reed Nikko.,34,20,14,1,0.8184263663501619,0.856672192294648,4,3,-2,NA,NA,Missouri,made,Xavier Pinson,Reed Nikko,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,126,1,6:25,1585,1585,Foul on Xavier Pinson.,34,20,14,27,0.8217435612838051,0.8591859600412345,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,127,1,6:25,1585,1585,Ques Glover missed Free Throw.,34,20,14,0,0.8217435612838051,0.8591859600412345,4,3,-2,NA,NA,Florida,missed,Ques Glover,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,128,1,6:25,1585,1585,Florida Offensive Rebound.,34,20,14,0,0.8217435612838051,0.8591859600412345,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,129,1,6:24,1584,1584,Foul on Omar Payne.,34,20,14,1,0.8218659057240187,0.8592785976411058,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,130,1,6:24,1584,1584,Omar Payne Turnover.,34,20,14,0,0.8218659057240187,0.8592785976411058,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,131,1,5:59,1559,1559,Foul on Omar Payne.,34,20,14,25,0.8249247077560238,0.8615942351804977,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,132,1,5:59,1559,1559,Reed Nikko made Free Throw.,35,20,15,0,0.8429958644308024,0.8764472846176473,4,3,-2,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,133,1,5:59,1559,1559,Reed Nikko missed Free Throw.,35,20,15,0,0.8429958644308024,0.8764472846176473,4,3,-2,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,134,1,5:59,1559,1559,Keyontae Johnson Defensive Rebound.,35,20,15,0,0.8429958644308024,0.8764472846176473,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,135,1,5:41,1541,1541,Noah Locke made Three Point Jumper. Assisted by Tre Mann.,35,23,12,18,0.7862111596469628,0.8291310909953623,4,3,-2,NA,NA,Florida,made,Noah Locke,Tre Mann,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,136,1,5:14,1514,1514,Javon Pickett made Three Point Jumper. Assisted by Torrence Watson.,38,23,15,27,0.8484375501785585,0.8805576361673537,4,3,-2,NA,NA,Missouri,made,Javon Pickett,Torrence Watson,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,137,1,4:49,1489,1489,Ques Glover Turnover.,38,23,15,25,0.8515452116546538,0.8829131412466351,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,138,1,4:48,1488,1488,Dru Smith Steal.,38,23,15,1,0.8516712940631955,0.8830088755163462,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,139,1,4:46,1486,1486,Dru Smith made Layup.,40,23,17,2,0.8828310637960749,0.9082824612383428,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,140,1,4:24,1464,1464,Foul on Reed Nikko.,40,23,17,22,0.8854276689669633,0.9102444984716845,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,141,1,4:24,1464,1464,Ques Glover made Free Throw.,40,24,16,0,0.8708609331276687,0.8984711793611683,4,3,-2,NA,NA,Florida,made,Ques Glover,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,142,1,4:24,1464,1464,Ques Glover made Free Throw.,40,25,15,0,0.8547460036296022,0.8853480603157646,4,3,-2,NA,NA,Florida,made,Ques Glover,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,143,1,4:06,1446,1446,Mark Smith made Dunk. Assisted by Kobe Brown.,42,25,17,18,0.8876024777025894,0.9118927586249652,4,3,-2,NA,NA,Missouri,made,Mark Smith,Kobe Brown,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,144,1,3:47,1427,1427,Foul on Javon Pickett.,42,25,17,19,0.8898298514406678,0.9135783841892852,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,145,1,3:47,1427,1427,Official TV Timeout,42,25,17,0,0.8898298514406678,0.9135783841892852,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,146,1,3:47,1427,1427,Scottie Lewis made Free Throw.,42,26,16,0,0.8754783342226705,0.9019797289987059,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,147,1,3:47,1427,1427,Scottie Lewis made Free Throw.,42,27,15,0,0.859552369764389,0.8890135280801488,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,148,1,3:25,1405,1405,Dru Smith made Three Point Jumper. Assisted by Kobe Brown.,45,27,18,22,0.9050266277224475,0.9256625197298469,4,3,-2,NA,NA,Missouri,made,Dru Smith,Kobe Brown,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,149,1,2:59,1379,1379,Scottie Lewis missed Three Point Jumper.,45,27,18,26,0.9076394825852625,0.9276239171804185,4,3,-2,NA,NA,Florida,missed,Scottie Lewis,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,150,1,2:59,1379,1379,Javon Pickett Defensive Rebound.,45,27,18,0,0.9076394825852625,0.9276239171804185,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,151,1,2:40,1360,1360,Mark Smith missed Jumper.,45,27,18,19,0.9094950400066368,0.929015468011028,4,3,-2,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,152,1,2:40,1360,1360,Keyontae Johnson Block.,45,27,18,0,0.9094950400066368,0.929015468011028,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,153,1,2:38,1358,1358,Kerry Blackshear Jr. Defensive Rebound.,45,27,18,2,0.9096887152604559,0.929160704924944,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,154,1,2:34,1354,1354,Noah Locke made Three Point Jumper. Assisted by Andrew Nembhard.,45,30,15,4,0.868166345485324,0.8955349225591159,4,3,-2,NA,NA,Florida,made,Noah Locke,Andrew Nembhard,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,155,1,2:12,1332,1332,Parker Braun Turnover.,45,30,15,22,0.8706735286292357,0.8974295281383794,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,156,1,2:11,1331,1331,Andrew Nembhard Steal.,45,30,15,1,0.870787732894329,0.89751588186281706,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,157,1,2:11,1331,1331,Foul on Mark Smith.,45,30,15,0,0.870787732894329,0.89751588186281706,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,158,1,2:11,1331,1331,Andrew Nembhard made Free Throw.,45,31,14,0,0.8536200034081394,0.8834239584921025,4,3,-2,NA,NA,Florida,made,Andrew Nembhard,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,159,1,2:11,1331,1331,Andrew Nembhard missed Free Throw.,45,31,14,0,0.8536200034081394,0.8834239584921025,4,3,-2,NA,NA,Florida,missed,Andrew Nembhard,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,160,1,2:11,1331,1331,Kobe Brown Defensive Rebound.,45,31,14,0,0.8536200034081394,0.8834239584921025,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,161,1,1:42,1302,1302,Kobe Brown missed Jumper.,45,31,14,29,0.8571080788717866,0.8860728403305898,4,3,-2,NA,NA,Missouri,missed,Kobe Brown,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,162,1,1:42,1302,1302,Keyontae Johnson Block.,45,31,14,0,0.8571080788717866,0.8860728403305898,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,163,1,1:40,1300,1300,Keyontae Johnson Defensive Rebound.,45,31,14,2,0.8573522675607272,0.8862586394759493,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,164,1,1:32,1292,1292,Scottie Lewis made Three Point Jumper. Assisted by Andrew Nembhard.,45,34,11,8,0.7957579726433299,0.8346553116116705,4,3,-2,NA,NA,Florida,made,Scottie Lewis,Andrew Nembhard,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,165,1,1:05,1265,1265,Dru Smith made Three Point Jumper.,48,34,14,27,0.8617418759383798,0.8896092573101505,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,166,1,0:46,1246,1246,Kerry Blackshear Jr. missed Jumper.,48,34,14,19,0.8642420063447073,0.891527785211587,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,167,1,0:46,1246,1246,Mark Smith Defensive Rebound.,48,34,14,0,0.8642420063447073,0.891527785211587,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,168,1,0:17,1217,1217,Mark Smith made Three Point Jumper. Assisted by Dru Smith.,51,34,17,29,0.91245820972969,0.9306857034414179,4,3,-2,NA,NA,Missouri,made,Mark Smith,Dru Smith,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,169,1,0:01,1201,1201,Foul on Axel Okongo.,51,34,17,16,0.9143892469982147,0.9321676477246763,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,170,1,0:01,1201,1201,Andrew Nembhard made Free Throw.,51,36,15,0,0.8869696568837504,0.9098809697444972,4,3,-2,NA,NA,Florida,made,Andrew Nembhard,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,171,1,0:00,1200,1200,Andrew Nembhard made Free Throw.,51,35,16,1,0.9016530268151572,0.9218447990893213,4,3,-2,NA,NA,Florida,made,Andrew Nembhard,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,172,1,0:00,1200,1200,End of 1st half,51,34,17,0,0.9145075787789075,0.9322584459832474,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,NA
+401166289,2020-01-11,Missouri,Florida,173,2,20:00,1200,1200,PLAY,51,34,17,0,0.9145075787789075,0.9322584459832474,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missouri
+401166289,2020-01-11,Missouri,Florida,174,2,19:31,1171,1171,Mitchell Smith made Three Point Jumper. Assisted by Kobe Brown.,54,36,18,29,0.928864279466718,0.943701666646711,4,4,-2,NA,NA,Missouri,made,Mitchell Smith,Kobe Brown,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,175,2,19:20,1160,1160,Florida  Timeout,54,36,18,11,0.9299609617621776,0.9445402654432191,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,176,2,19:13,1153,1153,Kerry Blackshear Jr. made Three Point Jumper. Assisted by Andrew Nembhard.,54,39,15,7,0.8930685078367953,0.9145815854815927,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,Andrew Nembhard,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,177,2,18:55,1135,1135,Foul on Reed Nikko.,54,39,15,18,0.8952228836113123,0.916240558807774,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,178,2,18:55,1135,1135,Reed Nikko Turnover.,54,39,15,0,0.8952228836113123,0.916240558807774,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,179,2,18:39,1119,1119,Andrew Nembhard made Layup.,54,41,13,16,0.863418737970454,0.889916208917817,4,3,-2,NA,NA,Florida,made,Andrew Nembhard,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,180,2,18:13,1093,1093,Mark Smith missed Layup.,54,41,13,26,0.8668305348158799,0.8925631783645688,4,3,-2,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,181,2,18:13,1093,1093,Kobe Brown Offensive Rebound.,54,41,13,0,0.8668305348158799,0.8925631783645688,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,182,2,18:10,1090,1090,Kobe Brown made Jumper.,56,41,15,3,0.9005069403894065,0.920313910990851,4,3,-2,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,183,2,17:45,1065,1065,Ques Glover missed Layup.,56,41,15,25,0.9034711334642787,0.9226051573750574,4,3,-2,NA,NA,Florida,missed,Ques Glover,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,184,2,17:45,1065,1065,Florida Offensive Rebound.,56,41,15,0,0.9034711334642787,0.9226051573750574,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,185,2,17:33,1053,1053,Noah Locke made Three Point Jumper. Assisted by Ques Glover.,56,44,12,12,0.8524958255171525,0.8803012928738977,4,3,-2,NA,NA,Florida,made,Noah Locke,Ques Glover,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,186,2,17:12,1032,1032,Foul on Noah Locke.,56,44,12,21,0.8555822054233974,0.8827205713365021,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,187,2,17:12,1032,1032,Mark Smith made Free Throw.,57,44,13,0,0.875149295970927,0.8990445666252812,4,3,-2,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,188,2,17:12,1032,1032,Mark Smith made Free Throw.,58,44,14,0,0.8923986687481059,0.913319557972685,4,3,-2,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,189,2,16:50,1010,1010,Scottie Lewis Turnover.,58,44,14,22,0.8954274128872628,0.915684069649852,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,190,2,16:49,1009,1009,Xavier Pinson Steal.,58,44,14,1,0.8955683386744056,0.9157942651533466,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,191,2,16:45,1005,1005,Xavier Pinson missed Layup.,58,44,14,4,0.8961350695601176,0.9162375712029388,4,3,-2,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,192,2,16:45,1005,1005,Scottie Lewis Defensive Rebound.,58,44,14,0,0.8961350695601176,0.9162375712029388,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,193,2,16:40,1000,1000,Foul on Javon Pickett.,58,44,14,5,0.8968504476451946,0.9167975071963593,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,194,2,16:34,994,994,Andrew Nembhard Turnover.,58,44,14,6,0.89771943694246,0.9174782046881041,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,195,2,16:33,993,993,Mitchell Smith Steal.,58,44,14,1,0.8978654119785286,0.9175926062145772,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,196,2,16:29,989,989,Javon Pickett made Layup. Assisted by Xavier Pinson.,60,44,16,4,0.9258977316101213,0.9405512266197866,4,3,-2,NA,NA,Missouri,made,Javon Pickett,Xavier Pinson,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,197,2,16:07,967,967,Noah Locke made Three Point Jumper. Assisted by Scottie Lewis.,60,47,13,22,0.8851375871875306,0.9068936525918276,4,3,-2,NA,NA,Florida,made,Noah Locke,Scottie Lewis,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,198,2,15:48,948,948,Foul on Ques Glover.,60,47,13,19,0.8880173043356724,0.909162565659946,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,199,2,15:48,948,948,Official TV Timeout,60,47,13,0,0.8880173043356724,0.909162565659946,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,200,2,15:42,942,942,Dru Smith missed Three Point Jumper.,60,47,13,6,0.8888575276571252,0.9098236400965132,4,3,-2,NA,NA,Missouri,missed,Dru Smith,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,201,2,15:42,942,942,Ques Glover Defensive Rebound.,60,47,13,0,0.8888575276571252,0.9098236400965132,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,202,2,15:23,923,923,Foul on Javon Pickett.,60,47,13,19,0.8913444174377877,0.9117780539101931,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,203,2,15:22,922,922,Keyontae Johnson missed Jumper.,60,47,13,1,0.8914690558812017,0.91187592850941,4,3,-2,NA,NA,Florida,missed,Keyontae Johnson,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,204,2,15:22,922,922,Dru Smith Defensive Rebound.,60,47,13,0,0.8914690558812017,0.91187592850941,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,205,2,15:12,912,912,Foul on Dru Smith.,60,47,13,10,0.8926875869884542,0.9128325032202518,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,206,2,15:12,912,912,Dru Smith Turnover.,60,47,13,0,0.8926875869884542,0.9128325032202518,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,207,2,15:02,902,902,Foul on Xavier Pinson.,60,47,13,10,0.8938634499171886,0.9137552071780942,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,208,2,14:50,890,890,Tre Mann made Three Point Jumper. Assisted by Keyontae Johnson.,60,50,10,12,0.8316665988230534,0.8613114256642723,4,3,-2,NA,NA,Florida,made,Tre Mann,Keyontae Johnson,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,209,2,14:24,864,864,Mitchell Smith made Three Point Jumper. Assisted by Javon Pickett.,63,50,13,26,0.8981325352284864,0.9171060237391161,4,3,-2,NA,NA,Missouri,made,Mitchell Smith,Javon Pickett,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,210,2,14:02,842,842,Foul on Xavier Pinson.,63,50,13,22,0.9006137816987315,0.9190577968996038,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,211,2,13:55,835,835,Ques Glover Turnover.,63,50,13,7,0.9014257237064466,0.9196975923724796,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,212,2,13:54,834,834,Mitchell Smith Steal.,63,50,13,1,0.9015429434367125,0.9197900093778176,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,213,2,13:35,815,815,Javon Pickett missed Jumper.,63,50,13,19,0.9038422187710228,0.9216054204270917,4,3,-2,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,214,2,13:35,815,815,Keyontae Johnson Defensive Rebound.,63,50,13,0,0.9038422187710228,0.9216054204270917,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,215,2,13:20,800,800,Foul on Mitchell Smith.,63,50,13,15,0.9057766969168153,0.9231367004502187,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,216,2,13:20,800,800,Kerry Blackshear Jr. made Free Throw.,63,51,12,0,0.8881432315673922,0.9084236144856016,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,217,2,13:20,800,800,Kerry Blackshear Jr. made Free Throw.,63,52,11,0,0.8676917824361438,0.8912260205823557,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,218,2,12:57,777,777,Reed Nikko made Layup. Assisted by Dru Smith.,65,52,13,23,0.9090038158771846,0.9256985416882874,4,3,-2,NA,NA,Missouri,made,Reed Nikko,Dru Smith,FALSE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,219,2,12:57,777,777,Foul on Scottie Lewis.,65,52,13,0,0.9090038158771846,0.9256985416882874,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,220,2,12:57,777,777,Reed Nikko missed Free Throw.,65,52,13,0,0.9090038158771846,0.9256985416882874,4,3,-2,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,221,2,12:57,777,777,Kobe Brown Offensive Rebound.,65,52,13,0,0.9090038158771846,0.9256985416882874,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,222,2,12:47,767,767,Torrence Watson missed Three Point Jumper.,65,52,13,10,0.9105208436697205,0.9269056486503606,4,3,-2,NA,NA,Missouri,missed,Torrence Watson,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,223,2,12:47,767,767,Scottie Lewis Defensive Rebound.,65,52,13,0,0.9105208436697205,0.9269056486503606,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,224,2,12:28,748,748,Tre Mann made Jumper.,65,54,11,19,0.8767633692242864,0.8984959790978619,4,3,-2,NA,NA,Florida,made,Tre Mann,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,225,2,12:05,725,725,Kobe Brown Turnover.,65,54,11,23,0.8815873668312759,0.9023795451113947,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,226,2,12:04,724,724,Tre Mann Steal.,65,54,11,1,0.8817951683295648,0.9025467598201772,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,227,2,11:43,703,703,Foul on Torrence Watson.,65,54,11,21,0.8857836082883693,0.9057481607429315,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,228,2,11:43,703,703,Tre Mann missed Free Throw.,65,54,11,0,0.8857836082883693,0.9057481607429315,4,3,-2,NA,NA,Florida,missed,Tre Mann,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,229,2,11:43,703,703,Reed Nikko Defensive Rebound.,65,54,11,0,0.8857836082883693,0.9057481607429315,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,230,2,11:25,685,685,Dru Smith made Layup.,67,54,13,18,0.923778833190882,0.9374779628548482,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,231,2,11:02,662,662,Andrew Nembhard missed Jumper.,67,54,13,23,0.9266993205418617,0.939795454855439,4,3,-2,NA,NA,Florida,missed,Andrew Nembhard,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,232,2,11:02,662,662,Reed Nikko Defensive Rebound.,67,54,13,0,0.9266993205418617,0.939795454855439,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,233,2,10:59,659,659,Foul on Reed Nikko.,67,54,13,3,0.9270695859391551,0.9400892203666676,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,234,2,10:59,659,659,Omar Payne missed Free Throw.,67,54,13,0,0.9270695859391551,0.9400892203666676,4,3,-2,NA,NA,Florida,missed,Omar Payne,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,235,2,10:59,659,659,Missouri Defensive Rebound.,67,54,13,0,0.9270695859391551,0.9400892203666676,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,236,2,10:58,658,658,Foul on Scottie Lewis.,67,54,13,1,0.9271928253214935,0.9401870044487008,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,237,2,10:48,648,648,Mark Smith Turnover.,67,54,13,10,0.9284251099716075,0.9411650846115904,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,238,2,10:41,641,641,Scottie Lewis missed Layup.,67,54,13,7,0.9292941876945696,0.9418554173399449,4,3,-2,NA,NA,Florida,missed,Scottie Lewis,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,239,2,10:41,641,641,Andrew Nembhard Offensive Rebound.,67,54,13,0,0.9292941876945696,0.9418554173399449,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,240,2,10:35,635,635,Andrew Nembhard missed Jumper.,67,54,13,6,0.930048660835546,0.9424552107793776,4,3,-2,NA,NA,Florida,missed,Andrew Nembhard,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,241,2,10:35,635,635,Mark Smith Block.,67,54,13,0,0.930048660835546,0.9424552107793776,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,242,2,10:33,633,633,Mark Smith Defensive Rebound.,67,54,13,2,0.9303027886172821,0.9426573570118448,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,243,2,10:14,614,614,Foul on Scottie Lewis.,67,54,13,19,0.9328111555490209,0.9446563824429383,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,244,2,10:09,609,609,Kobe Brown missed Jumper.,67,54,13,5,0.9335072060666463,0.945212393216739,4,3,-2,NA,NA,Missouri,missed,Kobe Brown,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,245,2,10:09,609,609,Keyontae Johnson Block.,67,54,13,0,0.9335072060666463,0.945212393216739,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,246,2,10:08,608,608,Keyontae Johnson Defensive Rebound.,67,54,13,1,0.9336485557925712,0.9453253754659777,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,247,2,10:04,604,604,Noah Locke missed Three Point Jumper.,67,54,13,4,0.9342215043458143,0.9457835837541463,4,3,-2,NA,NA,Florida,missed,Noah Locke,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,248,2,10:04,604,604,Dru Smith Defensive Rebound.,67,54,13,0,0.9342215043458143,0.9457835837541463,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,249,2,9:52,592,592,Javon Pickett made Jumper.,69,54,15,12,0.9580040333501523,0.965500440295633,4,3,-2,NA,NA,Missouri,made,Javon Pickett,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,250,2,9:30,570,570,Keyontae Johnson missed Three Point Jumper.,69,54,15,22,0.960802798199165,0.9677440048080076,4,3,-2,NA,NA,Florida,missed,Keyontae Johnson,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,251,2,9:30,570,570,Mark Smith Defensive Rebound.,69,54,15,0,0.960802798199165,0.9677440048080076,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,252,2,9:06,546,546,Foul on Mark Smith.,69,54,15,24,0.9642401777564249,0.970511679695025,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,253,2,9:06,546,546,Mark Smith Turnover.,69,54,15,0,0.9642401777564249,0.970511679695025,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,254,2,8:57,537,537,Tre Mann made Jumper.,69,56,13,9,0.9457883436656181,0.9551002287562532,4,3,-2,NA,NA,Florida,made,Tre Mann,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,255,2,8:18,498,498,Javon Pickett made Three Point Jumper. Assisted by Dru Smith.,72,56,16,39,0.9758748788490563,0.9800421127212834,4,3,-2,NA,NA,Missouri,made,Javon Pickett,Dru Smith,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,256,2,7:53,473,473,Kerry Blackshear Jr. made Layup.,72,58,14,25,0.9641459795851527,0.9701943951442921,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,257,2,7:34,454,454,Torrence Watson made Three Point Jumper. Assisted by Dru Smith.,75,58,17,19,0.9841237191390271,0.9868171612152019,4,3,-2,NA,NA,Missouri,made,Torrence Watson,Dru Smith,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,258,2,7:11,431,431,Kerry Blackshear Jr. Turnover.,75,58,17,23,0.9861900309691877,0.9885005392637017,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,259,2,7:10,430,430,Dru Smith Steal.,75,58,17,1,0.9862881474115557,0.9885807327768096,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,260,2,7:10,430,430,Foul on Andrew Nembhard.,75,58,17,0,0.9862881474115557,0.9885807327768096,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,261,2,7:10,430,430,Official TV Timeout,75,58,17,0,0.9862881474115557,0.9885807327768096,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,262,2,6:56,416,416,Dru Smith made Layup.,77,58,19,14,0.9926729876631046,0.9938915068822366,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,263,2,6:35,395,395,Tre Mann missed Layup.,77,58,19,21,0.9936915125449401,0.9947234761688795,4,3,-2,NA,NA,Florida,missed,Tre Mann,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,264,2,6:35,395,395,Tre Mann Offensive Rebound.,77,58,19,0,0.9936915125449401,0.9947234761688795,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,265,2,6:32,392,392,Tre Mann missed Jumper.,77,58,19,3,0.9938233110541301,0.994831195323872,4,3,-2,NA,NA,Florida,missed,Tre Mann,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,266,2,6:32,392,392,Ques Glover Offensive Rebound.,77,58,19,0,0.9938233110541301,0.994831195323872,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,267,2,6:26,386,386,Tre Mann missed Three Point Jumper.,77,58,19,6,0.9940805514410312,0.9950415505951437,4,3,-2,NA,NA,Florida,missed,Tre Mann,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,268,2,6:26,386,386,Torrence Watson Defensive Rebound.,77,58,19,0,0.9940805514410312,0.9950415505951437,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,269,2,5:58,358,358,Javon Pickett made Jumper.,79,58,21,28,0.9973226141603556,0.997747043018518,4,3,-2,NA,NA,Missouri,made,Javon Pickett,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,270,2,5:46,346,346,Kerry Blackshear Jr. Turnover.,79,58,21,12,0.99762296971067,0.9979952705961946,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,271,2,5:45,345,345,Mark Smith Steal.,79,58,21,1,0.9976479514562927,0.9980159602124947,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,272,2,5:39,339,339,Torrence Watson made Layup.,81,58,23,6,0.9987884496491499,0.9989769861439617,4,3,-2,NA,NA,Missouri,made,Torrence Watson,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,273,2,5:39,339,339,Foul on Kerry Blackshear Jr..,81,58,23,0,0.9987884496491499,0.9989769861439617,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,274,2,5:39,339,339,Torrence Watson made Free Throw.,82,58,24,0,0.9991015544409719,0.9992414038594336,4,3,-2,NA,NA,Missouri,made,Torrence Watson,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,275,2,5:19,319,319,Kerry Blackshear Jr. missed Three Point Jumper.,82,58,24,20,0.9993274924419384,0.9994298749514696,4,3,-2,NA,NA,Florida,missed,Kerry Blackshear Jr.,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,276,2,5:19,319,319,Torrence Watson Defensive Rebound.,82,58,24,0,0.9993274924419384,0.9994298749514696,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,277,2,5:17,317,317,Foul on Mark Smith.,82,58,24,2,0.9993491858796094,0.9994480367532893,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,278,2,5:17,317,317,Scottie Lewis made Free Throw.,82,59,23,0,0.9991106002087393,0.9992456620358681,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,279,2,5:17,317,317,Scottie Lewis made Free Throw.,82,60,22,0,0.9987846564207685,0.9989691641141337,4,3,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,280,2,5:03,303,303,Foul on Omar Payne.,82,60,22,14,0.999008949576249,0.9991569414152357,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,281,2,5:03,303,303,Dru Smith made Free Throw.,83,60,23,0,0.9992813836723633,0.9993887182937132,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,282,2,5:03,303,303,Dru Smith made Free Throw.,84,60,24,0,0.999478966252062,0.9995568024544191,4,3,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,283,2,4:46,286,286,Ques Glover Turnover.,84,60,24,17,0.9995179991908072,0.9995885449260095,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,284,2,4:45,285,285,Dru Smith Steal.,84,60,24,1,0.9995174206496896,0.9995879650658427,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,285,2,4:34,274,274,Foul on Ques Glover.,84,60,24,11,0.999496961723321,0.9995695065679476,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,286,2,4:34,274,274,Xavier Pinson missed Free Throw.,84,60,24,0,0.999496961723321,0.9995695065679476,4,3,-2,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,287,2,4:34,274,274,Andrew Nembhard Defensive Rebound.,84,60,24,0,0.999496961723321,0.9995695065679476,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,288,2,4:24,264,264,Foul on Mitchell Smith.,84,60,24,10,0.9994627286631041,0.9995392363698679,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,289,2,4:24,264,264,Kerry Blackshear Jr. made Free Throw.,84,61,23,0,0.9992601919419629,0.9993655226699858,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,290,2,4:24,264,264,Kerry Blackshear Jr. made Free Throw.,84,62,22,0,0.9989813821846713,0.9991263739564216,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,291,2,4:11,251,251,Missouri  Turnover.,84,62,22,13,0.998895869133132,0.9990503668702984,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,292,2,4:02,242,242,Ques Glover missed Three Point Jumper.,84,62,22,9,0.9988552947765922,0.9990135012613682,4,3,-2,NA,NA,Florida,missed,Ques Glover,NA,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,293,2,4:02,242,242,Mitchell Smith Defensive Rebound.,84,62,22,0,0.9988552947765922,0.9990135012613682,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,294,2,3:58,238,238,Foul on Kerry Blackshear Jr..,84,62,22,4,0.9988480473407837,0.9990063575046545,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,295,2,3:58,238,238,Mitchell Smith made Free Throw.,85,62,23,0,0.9991584117908666,0.9992741002903999,4,3,-2,NA,NA,Missouri,made,Mitchell Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,296,2,3:58,238,238,Mitchell Smith made Free Throw.,86,62,24,0,0.9993852078735481,0.9994697365093755,4,3,-2,NA,NA,Missouri,made,Mitchell Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,297,2,3:47,227,227,Foul on Dru Smith.,86,62,24,11,0.9994028172495021,0.9994836098960572,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,298,2,3:47,227,227,Kerry Blackshear Jr. made Free Throw.,86,63,23,0,0.9991816086622957,0.9992923073497174,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,299,2,3:47,227,227,Kerry Blackshear Jr. made Free Throw.,86,64,22,0,0.9988785518801548,0.9990302033796115,4,3,-2,NA,NA,Florida,made,Kerry Blackshear Jr.,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,300,2,3:47,227,227,Mitchell Smith made Dunk. Assisted by Javon Pickett.,88,64,24,0,0.9994028172495021,0.9994836098960572,4,3,-2,NA,NA,Missouri,made,Mitchell Smith,Javon Pickett,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,301,2,3:21,201,201,Foul on Jason Jitoboh.,88,64,24,26,0.9996359125180715,0.9996831172143709,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,302,2,3:21,201,201,Jason Jitoboh Turnover.,88,64,24,0,0.9996359125180715,0.9996831172143709,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,303,2,3:15,195,195,Tre Mann missed Three Point Jumper.,88,64,24,6,0.9997106051104355,0.9997477177377135,4,3,-2,NA,NA,Florida,missed,Tre Mann,NA,TRUE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,304,2,3:15,195,195,Tre Mann Offensive Rebound.,88,64,24,0,0.9997106051104355,0.9997477177377135,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,305,2,3:08,188,188,Keyontae Johnson made Three Point Jumper. Assisted by Ques Glover.,88,67,21,7,0.9993909903001944,0.999468025504935,4,3,-2,NA,NA,Florida,made,Keyontae Johnson,Ques Glover,TRUE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,306,2,2:31,151,151,Dru Smith missed Three Point Jumper.,88,67,21,37,0.9998936644702107,0.9999061033086893,4,3,-2,NA,NA,Missouri,missed,Dru Smith,NA,TRUE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,307,2,2:31,151,151,Jason Jitoboh Defensive Rebound.,88,67,21,0,0.9998936644702107,0.9999061033086893,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,308,2,2:20,140,140,Keyontae Johnson missed Layup.,88,67,21,11,0.9999420871652425,0.9999486870732287,4,3,-2,NA,NA,Florida,missed,Keyontae Johnson,NA,FALSE,FALSE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,309,2,2:20,140,140,Keyontae Johnson Offensive Rebound.,88,67,21,0,0.9999420871652425,0.9999486870732287,4,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,310,2,2:17,137,137,Keyontae Johnson made Jumper.,88,69,19,3,0.9998735612832165,0.9998878635769418,4,3,-2,NA,NA,Florida,made,Keyontae Johnson,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,311,2,2:16,136,136,Florida  Timeout,88,69,19,1,0.9998802434438367,0.9998937562555623,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,312,2,1:52,112,112,Mark Smith missed Three Point Jumper.,88,69,19,24,0.9999728462028131,0.9999757200290779,4,2,-2,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,313,2,1:52,112,112,Kobe Brown Offensive Rebound.,88,69,19,0,0.9999728462028131,0.9999757200290779,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,314,2,1:32,92,92,Dru Smith made Layup.,90,69,21,20,0.9999984186061022,0.9999985760836105,4,2,-2,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,315,2,1:12,72,72,Ques Glover made Layup.,90,71,19,20,0.9999990417043001,0.9999991308176936,4,2,-2,NA,NA,Florida,made,Ques Glover,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,316,2,0:44,44,44,Mitchell Smith Turnover.,90,71,19,28,0.9999999468092285,0.9999999512317973,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,317,2,0:44,44,44,Scottie Lewis Steal.,90,71,19,0,0.9999999468092285,0.9999999512317973,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,318,2,0:44,44,44,Foul on Mark Smith.,90,71,19,0,0.9999999468092285,0.9999999512317973,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,319,2,0:44,44,44,Scottie Lewis made Free Throw.,90,72,18,0,0.9999998709758036,0.999999881703573,4,2,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Florida
+401166289,2020-01-11,Missouri,Florida,320,2,0:44,44,44,Scottie Lewis made Free Throw.,90,73,17,0,0.9999996870276363,0.9999997130498469,4,2,-2,NA,NA,Florida,made,Scottie Lewis,NA,FALSE,TRUE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,321,2,0:35,35,35,Foul on Scottie Lewis.,90,73,17,9,0.9999998757291211,0.9999998856481894,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,322,2,0:35,35,35,Mark Smith missed Free Throw.,90,73,17,0,0.9999998757291211,0.9999998856481894,4,2,-2,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,323,2,0:35,35,35,Missouri Deadball Team Rebound.,90,73,17,0,0.9999998757291211,0.9999998856481894,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166289,2020-01-11,Missouri,Florida,324,2,0:35,35,35,Mark Smith made Free Throw.,91,73,18,0,0.9999999514677125,0.9999999553414689,4,2,-2,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Florida
+401166289,2020-01-11,Missouri,Florida,325,2,0:21,21,21,Ques Glover made Jumper.,91,75,16,14,0.9999999235201452,0.99999992921745,4,2,-2,NA,NA,Florida,made,Ques Glover,NA,FALSE,FALSE,Florida,Missouri
+401166289,2020-01-11,Missouri,Florida,326,2,0:00,0,0,End of Game,91,75,16,21,1,1,4,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,NA

@@ -1,0 +1,303 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401176066,2020-01-08,Samford,Wofford,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.30956470741753095,0.5,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wofford
+401176066,2020-01-08,Samford,Wofford,2,1,19:48,2388,2388,Storm Murphy missed Three Point Jumper.,0,0,0,12,0.30977029571686115,0.5,4,4,-5,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,3,1,19:43,2383,2383,Chevez Goodwin Offensive Rebound.,0,0,0,5,0.30985685118237105,0.5,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,4,1,19:40,2380,2380,Storm Murphy missed Three Point Jumper.,0,0,0,3,0.30990903926096225,0.5,4,4,-5,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,5,1,19:36,2376,2376,Chevez Goodwin Offensive Rebound.,0,0,0,4,0.30997892236090613,0.5,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,6,1,19:34,2374,2374,Chevez Goodwin made Layup.,0,2,-2,2,0.27312398442374125,0.45542461220397373,4,4,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,7,1,19:22,2362,2362,Brandon Austin missed Three Point Jumper.,0,2,-2,12,0.2731154259359382,0.4551678976921304,4,4,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,8,1,19:15,2355,2355,Storm Murphy Defensive Rebound.,0,2,-2,7,0.27311101490602024,0.45501724388899867,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,9,1,19:10,2350,2350,Nathan Hoover made Three Point Jumper. Assisted by Storm Murphy.,0,5,-5,5,0.22266699882582763,0.3888530388008238,4,4,-5,NA,NA,Wofford,made,Nathan Hoover,Storm Murphy,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,10,1,18:40,2320,2320,Jalen Dupree made Layup. Assisted by Josh Sharkey.,2,5,-3,30,0.2552668026603669,0.4316207473002184,4,4,-5,NA,NA,Samford,made,Jalen Dupree,Josh Sharkey,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,11,1,18:22,2302,2302,Storm Murphy Turnover.,2,5,-3,18,0.25511227307334505,0.4310304656645372,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,12,1,18:22,2302,2302,Josh Sharkey Steal.,2,5,-3,0,0.25511227307334505,0.4310304656645372,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,13,1,18:15,2295,2295,Josh Sharkey made Layup.,4,5,-1,7,0.2919120430136296,0.47680086405453603,4,4,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,14,1,18:10,2290,2290,Storm Murphy Turnover.,4,5,-1,5,0.291959134848842,0.4767447867309777,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,15,1,18:01,2281,2281,Josh Sharkey Turnover.,4,5,-1,9,0.29204508165763016,0.4766435374630905,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,16,1,18:01,2281,2281,Ryan Larson Steal.,4,5,-1,0,0.29204508165763016,0.4766435374630905,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,17,1,17:42,2262,2262,Chevez Goodwin missed Jumper.,4,5,-1,19,0.29223166248458005,0.47642855684274604,4,4,-5,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,18,1,17:38,2258,2258,Jalen Dupree Defensive Rebound.,4,5,-1,4,0.2922718561206934,0.4763830976089766,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,19,1,17:33,2253,2253,Josh Sharkey made Three Point Jumper.,7,5,2,5,0.35438209202915655,0.5472417311522229,4,4,-5,NA,NA,Samford,made,Josh Sharkey,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,20,1,17:10,2230,2230,Storm Murphy missed Three Point Jumper.,7,5,2,23,0.35537186941155946,0.5477642609005232,4,4,-5,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,21,1,17:06,2226,2226,Deandre Thomas Defensive Rebound.,7,5,2,4,0.35554592999617096,0.5478555076754315,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,22,1,17:02,2222,2222,Josh Sharkey missed Jumper.,7,5,2,4,0.355720559020299,0.5479468560005873,4,4,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,23,1,17:01,2221,2221,Jalen Dupree Offensive Rebound.,7,5,2,1,0.35576430500205924,0.5479697085553288,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,24,1,16:51,2211,2211,Jalen Dupree missed Three Point Jumper.,7,5,2,10,0.35620371337434364,0.5481985600824828,4,4,-5,NA,NA,Samford,missed,Jalen Dupree,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,25,1,16:47,2207,2207,Storm Murphy Defensive Rebound.,7,5,2,4,0.35638046697633163,0.548290259298426,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,26,1,16:42,2202,2202,Foul on Chevez Goodwin.,7,5,2,5,0.356602202946571,0.5484050032906047,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,27,1,16:42,2202,2202,Chevez Goodwin Turnover.,7,5,2,0,0.356602202946571,0.5484050032906047,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,28,1,16:26,2186,2186,Robert Allen made Layup. Assisted by Josh Sharkey.,9,5,4,16,0.4034017485182889,0.5966265891177618,4,4,-5,NA,NA,Samford,made,Robert Allen,Josh Sharkey,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,29,1,16:01,2161,2161,Messiah Jones made Layup. Assisted by Trevor Stumpe.,9,7,2,25,0.358453591891328,0.5493502722348179,4,4,-5,NA,NA,Wofford,made,Messiah Jones,Trevor Stumpe,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,30,1,15:38,2138,2138,Official TV Timeout,9,7,2,23,0.35951869930779157,0.549885098381004,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,31,1,15:25,2125,2125,Brandon Austin Turnover.,9,7,2,13,0.3601293588215675,0.5501893043774503,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,32,1,15:25,2125,2125,Tray Hollowell Steal.,9,7,2,0,0.3601293588215675,0.5501893043774503,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,33,1,15:17,2117,2117,Storm Murphy missed Jumper.,9,7,2,8,0.36050826684829645,0.5503772361608644,4,4,-5,NA,NA,Wofford,missed,Storm Murphy,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,34,1,15:12,2112,2112,Donte Tatum Defensive Rebound.,9,7,2,5,0.3607462940462903,0.5504949846856952,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,35,1,15:10,2110,2110,Donte Tatum missed Jumper.,9,7,2,2,0.36084176590571265,0.5505421479818391,4,4,-5,NA,NA,Samford,missed,Donte Tatum,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,36,1,15:07,2107,2107,Jalen Dupree Offensive Rebound.,9,7,2,3,0.36098525362641676,0.5506129622145127,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,37,1,15:04,2104,2104,Robert Allen missed Three Point Jumper.,9,7,2,3,0.36112907756269536,0.5506838603985946,4,4,-5,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,38,1,15:00,2100,2100,Storm Murphy Defensive Rebound.,9,7,2,4,0.36132136639224044,0.5507785234673286,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,39,1,14:48,2088,2088,Tray Hollowell missed Three Point Jumper.,9,7,2,12,0.3619018307052668,0.5510634392815655,4,4,-5,NA,NA,Wofford,missed,Tray Hollowell,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,40,1,14:44,2084,2084,Jalen Dupree Defensive Rebound.,9,7,2,4,0.3620965207375536,0.5511587272416973,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,41,1,14:39,2079,2079,Donte Tatum missed Three Point Jumper.,9,7,2,5,0.3623407303444821,0.5512780646738821,4,4,-5,NA,NA,Samford,missed,Donte Tatum,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,42,1,14:35,2075,2075,Storm Murphy Defensive Rebound.,9,7,2,4,0.36253677665551454,0.5513737192187661,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,43,1,14:31,2071,2071,Tray Hollowell missed Three Point Jumper.,9,7,2,4,0.3627334270540538,0.5514695401743815,4,4,-5,NA,NA,Wofford,missed,Tray Hollowell,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,44,1,14:27,2067,2067,Samford Defensive Rebound.,9,7,2,4,0.3629306823390078,0.5515655296841933,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,45,1,14:11,2051,2051,Jalen Dupree made Dunk. Assisted by Robert Allen.,11,7,4,16,0.41321949522583157,0.6027927113774534,4,4,-5,NA,NA,Samford,made,Jalen Dupree,Robert Allen,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,46,1,13:47,2027,2027,Trevor Stumpe made Jumper.,11,9,2,24,0.36493668008152147,0.5525351664936086,4,4,-5,NA,NA,Wofford,made,Trevor Stumpe,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,47,1,13:22,2002,2002,Robert Allen made Layup. Assisted by Jalen Dupree.,13,9,4,25,0.4170120297393847,0.6051138277338701,4,4,-5,NA,NA,Samford,made,Robert Allen,Jalen Dupree,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,48,1,13:10,1990,1990,Tray Hollowell Turnover.,13,9,4,12,0.41796051112649585,0.6056905202891126,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,49,1,13:06,1986,1986,Josh Sharkey missed Jumper.,13,9,4,4,0.4182784251350224,0.6058835156585967,4,4,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,50,1,13:06,1986,1986,Josh Sharkey Offensive Rebound.,13,9,4,0,0.4182784251350224,0.6058835156585967,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,51,1,13:06,1986,1986,Josh Sharkey made Layup.,15,9,6,0,0.47132549290681625,0.6558968022544622,4,4,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,52,1,13:06,1986,1986,Foul on Isaiah Bigelow.,15,9,6,0,0.47132549290681625,0.6558968022544622,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,53,1,13:06,1986,1986,Josh Sharkey made Free Throw.,16,9,7,0,0.49817158030394193,0.6797389029106076,4,4,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,54,1,12:44,1964,1964,Chevez Goodwin made Jumper. Assisted by Donovan Theme-Love.,16,11,5,22,0.4467111013744417,0.6325443478137311,4,4,-5,NA,NA,Wofford,made,Chevez Goodwin,Donovan Theme-Love,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,55,1,12:26,1946,1946,Foul on Tray Hollowell.,16,11,5,18,0.4484250276040764,0.6336200571896707,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,56,1,12:26,1946,1946,Robert Allen made Jumper.,18,11,7,0,0.50301875711619,0.6828477650685788,4,4,-5,NA,NA,Samford,made,Robert Allen,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,57,1,12:26,1946,1946,Chevez Goodwin made Jumper.,18,13,5,0,0.4484250276040764,0.6336200571896707,4,4,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,58,1,12:26,1946,1946,Foul on Josh Sharkey.,18,13,5,0,0.4484250276040764,0.6336200571896707,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,59,1,11:14,1874,1874,Foul on Tray Hollowell.,18,13,5,72,0.45543852655352945,0.6379599759143958,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,60,1,10:51,1851,1851,Foul on Logan Dye.,18,13,5,23,0.45772184237044816,0.6393460595508784,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,61,1,10:51,1851,1851,Logan Dye Turnover.,18,13,5,0,0.45772184237044816,0.6393460595508784,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,62,1,10:27,1827,1827,Nathan Hoover made Layup.,18,15,3,24,0.40339388577617546,0.5859628545555444,4,4,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,63,1,10:15,1815,1815,Robert Allen made Jumper.,20,15,5,12,0.46134956091461043,0.6415298400236693,4,4,-5,NA,NA,Samford,made,Robert Allen,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,64,1,9:46,1786,1786,Donovan Theme-Love made Three Point Jumper. Assisted by Nathan Hoover.,20,18,2,29,0.37829516740882946,0.5587045700491609,4,4,-5,NA,NA,Wofford,made,Donovan Theme-Love,Nathan Hoover,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,65,1,9:25,1765,1765,Josh Sharkey Turnover.,20,18,2,21,0.3795634946540977,0.5592670422161009,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,66,1,9:25,1765,1765,Nathan Hoover Steal.,20,18,2,0,0.3795634946540977,0.5592670422161009,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,67,1,9:25,1765,1765,Foul on Josh Sharkey.,20,18,2,0,0.3795634946540977,0.5592670422161009,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,68,1,9:08,1748,1748,Nathan Hoover missed Three Point Jumper.,20,18,2,17,0.38060410303221553,0.5597287177246654,4,4,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,69,1,9:08,1748,1748,Chevez Goodwin Offensive Rebound.,20,18,2,0,0.38060410303221553,0.5597287177246654,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,70,1,9:08,1748,1748,Foul on Robert Allen.,20,18,2,0,0.38060410303221553,0.5597287177246654,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,71,1,8:56,1736,1736,Nathan Hoover Turnover.,20,18,2,12,0.38134632529873996,0.5600584648246061,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,72,1,8:56,1736,1736,Brandon Austin Steal.,20,18,2,0,0.38134632529873996,0.5600584648246061,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,73,1,8:54,1734,1734,J.P. Robinson Turnover.,20,18,2,2,0.38147065679923803,0.5601137551935602,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,74,1,8:36,1716,1716,Ryan Larson missed Jumper.,20,18,2,18,0.3825978481965843,0.5606159363618041,4,4,-5,NA,NA,Wofford,missed,Ryan Larson,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,75,1,8:32,1712,1712,Brandon Austin Defensive Rebound.,20,18,2,4,0.3828503665820619,0.5607287023735282,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,76,1,8:16,1696,1696,Deandre Thomas made Three Point Jumper. Assisted by J.P. Robinson.,23,18,5,16,0.47397164411562626,0.6490634336968449,4,4,-5,NA,NA,Samford,made,Deandre Thomas,JP Robinson,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,77,1,8:00,1680,1680,Ryan Larson Turnover.,23,18,5,16,0.4757535355940803,0.6501254191297504,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,78,1,8:00,1680,1680,Official TV Timeout,23,18,5,0,0.4757535355940803,0.6501254191297504,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,79,1,7:44,1664,1664,Deandre Thomas missed Jumper.,23,18,5,16,0.4775273271225078,0.651164569988355,4,4,-5,NA,NA,Samford,missed,Deandre Thomas,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,80,1,7:44,1664,1664,Jalen Dupree Offensive Rebound.,23,18,5,0,0.4775273271225078,0.651164569988355,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,81,1,7:44,1664,1664,Foul on Messiah Jones.,23,18,5,0,0.4775273271225078,0.651164569988355,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,82,1,7:38,1658,1658,J.P. Robinson Turnover.,23,18,5,6,0.4781905588928094,0.6515485755763305,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,83,1,7:24,1644,1644,Trevor Stumpe missed Three Point Jumper.,23,18,5,14,0.4797356947678056,0.6524346808336181,4,4,-5,NA,NA,Wofford,missed,Trevor Stumpe,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,84,1,7:19,1639,1639,Logan Padgett Defensive Rebound.,23,18,5,5,0.4802871164040959,0.6527482860491691,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,85,1,7:05,1625,1625,Jalen Dupree missed Layup.,23,18,5,14,0.48183143361299235,0.6536202142266724,4,4,-5,NA,NA,Samford,missed,Jalen Dupree,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,86,1,6:58,1618,1618,Trevor Stumpe Defensive Rebound.,23,18,5,7,0.48260442828856287,0.6540535708590453,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,87,1,6:48,1608,1608,Trevor Stumpe made Layup.,23,20,3,10,0.4204236739182341,0.5947845747630514,4,4,-5,NA,NA,Wofford,made,Trevor Stumpe,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,88,1,6:32,1592,1592,J.P. Robinson missed Jumper.,23,20,3,16,0.42173238062452245,0.5954153019372749,4,4,-5,NA,NA,Samford,missed,J.P. Robinson,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,89,1,6:26,1586,1586,Messiah Jones Defensive Rebound.,23,20,3,6,0.4222258993854369,0.595652152557261,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,90,1,6:23,1583,1583,Trevor Stumpe made Three Point Jumper. Assisted by Storm Murphy.,23,23,0,3,0.3317008838749616,0.5,4,4,-5,NA,NA,Wofford,made,Trevor Stumpe,Storm Murphy,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,91,1,5:55,1555,1555,Foul on Nathan Hoover.,23,23,0,28,0.3327904583525404,0.5,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,92,1,5:55,1555,1555,Brandon Austin made Free Throw.,24,23,1,0,0.3624480878470155,0.5326625864243282,4,4,-5,NA,NA,Samford,made,Brandon Austin,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,93,1,5:55,1555,1555,Brandon Austin made Free Throw.,25,23,2,0,0.3931911912876134,0.5650475901798591,4,4,-5,NA,NA,Samford,made,Brandon Austin,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,94,1,5:54,1554,1554,Foul on Brandon Austin.,25,23,2,1,0.39325996933147433,0.5650750272918782,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,95,1,5:45,1545,1545,Tray Hollowell missed Three Point Jumper.,25,23,2,9,0.3938811054450371,0.5653232062025131,4,4,-5,NA,NA,Wofford,missed,Tray Hollowell,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,96,1,5:45,1545,1545,Robert Allen Block.,25,23,2,0,0.3938811054450371,0.5653232062025131,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,97,1,5:37,1537,1537,Jalen Dupree Defensive Rebound.,25,23,2,8,0.39443653297711934,0.5655459114045983,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,98,1,5:35,1535,1535,Brandon Austin missed Three Point Jumper.,25,23,2,2,0.39457588889852563,0.5656019310056535,4,4,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,99,1,5:30,1530,1530,Brandon Austin Offensive Rebound.,25,23,2,5,0.3949251697014248,0.5657426280477328,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,100,1,5:24,1524,1524,J.P. Robinson missed Three Point Jumper.,25,23,2,6,0.3953460157652488,0.5659127637304104,4,4,-5,NA,NA,Samford,missed,J.P. Robinson,NA,TRUE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,101,1,5:20,1520,1520,Jalen Dupree Offensive Rebound.,25,23,2,4,0.3956276358752684,0.5660270289131002,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,102,1,5:20,1520,1520,Jalen Dupree Turnover.,25,23,2,0,0.3956276358752684,0.5660270289131002,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,103,1,5:02,1502,1502,Storm Murphy Turnover.,25,23,2,18,0.3969057562947236,0.5665505490234393,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,104,1,4:50,1490,1490,Robert Allen missed Jumper.,25,23,2,12,0.39776809663444024,0.5669091410882443,4,4,-5,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,105,1,4:50,1490,1490,Chevez Goodwin Block.,25,23,2,0,0.39776809663444024,0.5669091410882443,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,106,1,4:40,1480,1480,Storm Murphy Defensive Rebound.,25,23,2,10,0.39849328243986637,0.5672146114386868,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,107,1,4:39,1479,1479,Storm Murphy Turnover.,25,23,2,1,0.3985661380725855,0.5672455133490617,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,108,1,4:39,1479,1479,Jalen Dupree Steal.,25,23,2,0,0.3985661380725855,0.5672455133490617,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,109,1,4:37,1477,1477,J.P. Robinson Turnover.,25,23,2,2,0.39871203584238313,0.5673075177309964,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,110,1,4:08,1448,1448,Chevez Goodwin missed Jumper.,25,23,2,29,0.40085628695769493,0.5682388887188476,4,4,-5,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,111,1,4:01,1441,1441,Jalen Dupree Defensive Rebound.,25,23,2,7,0.40137867030543845,0.5684676639493434,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,112,1,3:41,1421,1421,Robert Allen missed Jumper.,25,23,2,20,0.4028658846231858,0.5691037296849245,4,4,-5,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,113,1,3:36,1416,1416,Jalen Dupree Offensive Rebound.,25,23,2,5,0.4032369276142793,0.5692593226726169,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,114,1,3:34,1414,1414,Brandon Austin made Three Point Jumper. Assisted by Jalen Dupree.,28,23,5,2,0.506810635383039,0.6676789433786084,4,4,-5,NA,NA,Samford,made,Brandon Austin,Jalen Dupree,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,115,1,3:03,1383,1383,Nathan Hoover made Jumper.,28,25,3,31,0.4401971661885329,0.6045332986262809,4,4,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,116,1,2:46,1366,1366,Official TV Timeout,28,25,3,17,0.441749478560952,0.6052788136162416,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,117,1,2:43,1363,1363,Deandre Thomas Turnover.,28,25,3,3,0.4420242192247889,0.60541028891113835,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,118,1,2:43,1363,1363,Donovan Theme-Love Steal.,28,25,3,0,0.4420242192247889,0.60541028891113835,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,119,1,2:33,1353,1353,Nathan Hoover missed Three Point Jumper.,28,25,3,10,0.44294254865323346,0.6058492691702696,4,4,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,120,1,2:28,1348,1348,Jalen Dupree Defensive Rebound.,28,25,3,5,0.443403444179016,0.6060694966760106,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,121,1,2:15,1335,1335,Brandon Austin made Three Point Jumper. Assisted by Deandre Thomas.,31,25,6,13,0.552494828109087,0.7040107042918414,4,4,-5,NA,NA,Samford,made,Brandon Austin,Deandre Thomas,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,122,1,1:53,1313,1313,Nathan Hoover made Layup.,31,27,4,22,0.4829299452429436,0.6418058468047609,4,4,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,123,1,1:34,1294,1294,Deandre Thomas Turnover.,31,27,4,19,0.48508200228727205,0.6429490410415435,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,124,1,1:18,1278,1278,Nathan Hoover missed Three Point Jumper.,31,27,4,16,0.48693749943310605,0.6439482839231843,4,4,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,125,1,1:13,1273,1273,Chevez Goodwin Offensive Rebound.,31,27,4,5,0.4875266496911944,0.6442686406346235,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,126,1,1:12,1272,1272,Chevez Goodwin made Layup.,31,29,2,1,0.4142215388756427,0.5737360891192619,4,4,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,127,1,0:52,1252,1252,Robert Allen Turnover.,31,29,2,20,0.4158591181229432,0.5744460673606648,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,128,1,0:52,1252,1252,Donovan Theme-Love Steal.,31,29,2,0,0.4158591181229432,0.5744460673606648,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,129,1,0:42,1242,1242,Chevez Goodwin Turnover.,31,29,2,10,0.416694449289724,0.574817461156927,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,130,1,0:42,1242,1242,Samford  Timeout,31,29,2,0,0.416694449289724,0.574817461156927,3,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,131,1,0:39,1239,1239,Foul on Donovan Theme-Love.,31,29,2,3,0.4169473559026906,0.574931216544099,3,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,132,1,0:39,1239,1239,J.P. Robinson made Free Throw.,32,29,3,0,0.45405056169370167,0.6113520636983047,3,4,-5,NA,NA,Samford,made,J.P. Robinson,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,133,1,0:39,1239,1239,J.P. Robinson made Free Throw.,33,29,4,0,0.49167124523210926,0.6465706398977864,3,4,-5,NA,NA,Samford,made,J.P. Robinson,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,134,1,0:19,1219,1219,Isaiah Bigelow made Three Point Jumper. Assisted by Donovan Theme-Love.,33,32,1,20,0.38204446150258414,0.5380793740658301,3,4,-5,NA,NA,Wofford,made,Isaiah Bigelow,Donovan Theme-Love,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,135,1,0:03,1203,1203,Jalen Dupree made Dunk. Assisted by Robert Allen.,35,32,3,16,0.4579691975012136,0.6134714072603277,3,4,-5,NA,NA,Samford,made,Jalen Dupree,Robert Allen,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,136,1,0:00,1200,1200,End of 1st half,35,32,3,3,0.4582994377079538,0.6136521367497382,3,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,NA
+401176066,2020-01-08,Samford,Wofford,137,2,20:00,1200,1200,PLAY,35,32,3,0,0.4582994377079538,0.6136521367497382,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Samford
+401176066,2020-01-08,Samford,Wofford,138,2,19:49,1189,1189,Brandon Austin Turnover.,35,32,3,11,0.459499577790446,0.6143057500313388,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,139,2,19:33,1173,1173,Nathan Hoover made Three Point Jumper.,35,35,0,16,0.3486896031129006,0.5,4,4,-5,NA,NA,Wofford,made,Nathan Hoover,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,140,2,19:11,1151,1151,Robert Allen missed Three Point Jumper.,35,35,0,22,0.3496215373364041,0.5,4,4,-5,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,141,2,19:06,1146,1146,Ryan Larson Defensive Rebound.,35,35,0,5,0.3498328621229578,0.5,4,4,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,142,2,18:54,1134,1134,Wofford  Timeout,35,35,0,12,0.3503397188545979,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,143,2,18:54,1134,1134,Official TV Timeout,35,35,0,0,0.3503397188545979,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,144,2,18:22,1102,1102,Nathan Hoover missed Jumper.,35,35,0,32,0.3516925937068023,0.5,4,3,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,145,2,18:22,1102,1102,Robert Allen Block.,35,35,0,0,0.3516925937068023,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,146,2,18:21,1101,1101,Wofford Offensive Rebound.,35,35,0,1,0.3517349757151528,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,147,2,18:21,1101,1101,Wofford  Turnover.,35,35,0,0,0.3517349757151528,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,148,2,18:10,1090,1090,Robert Allen missed Jumper.,35,35,0,11,0.3522018915479572,0.5,4,3,-5,NA,NA,Samford,missed,Robert Allen,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,149,2,18:04,1084,1084,Brandon Austin Offensive Rebound.,35,35,0,6,0.35245721796787766,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,150,2,18:00,1080,1080,Robert Allen Turnover.,35,35,0,4,0.3526277313870774,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,151,2,18:00,1080,1080,Storm Murphy Steal.,35,35,0,0,0.3526277313870774,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,152,2,17:54,1074,1074,Trevor Stumpe missed Three Point Jumper.,35,35,0,6,0.35288399425965145,0.5,4,3,-5,NA,NA,Wofford,missed,Trevor Stumpe,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,153,2,17:50,1070,1070,Deandre Thomas Defensive Rebound.,35,35,0,4,0.3530551933053684,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,154,2,17:44,1064,1064,Foul on Ryan Larson.,35,35,0,6,0.3533125767116406,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,155,2,17:41,1061,1061,Brandon Austin missed Jumper.,35,35,0,3,0.35344154957776197,0.5,4,3,-5,NA,NA,Samford,missed,Brandon Austin,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,156,2,17:38,1058,1058,Storm Murphy Defensive Rebound.,35,35,0,3,0.35357072096384534,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,157,2,17:36,1056,1056,Storm Murphy Turnover.,35,35,0,2,0.3536569496161871,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,158,2,17:36,1056,1056,Deandre Thomas Steal.,35,35,0,0,0.3536569496161871,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,159,2,17:30,1050,1050,Brandon Austin missed Three Point Jumper.,35,35,0,6,0.3539162117898696,0.5,4,3,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,160,2,17:27,1047,1047,Jalen Dupree Offensive Rebound.,35,35,0,3,0.3540461822657557,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,161,2,17:26,1046,1046,Jalen Dupree missed Layup.,35,35,0,1,0.3540895580951123,0.5,4,3,-5,NA,NA,Samford,missed,Jalen Dupree,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,162,2,17:22,1042,1042,Brandon Austin Offensive Rebound.,35,35,0,4,0.3542633313359721,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,163,2,17:20,1040,1040,Brandon Austin made Layup.,37,35,2,2,0.4341200829520453,0.5829535849216593,4,3,-5,NA,NA,Samford,made,Brandon Austin,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,164,2,16:51,1011,1011,Ryan Larson made Jumper.,37,37,0,29,0.3556267323521558,0.5,4,3,-5,NA,NA,Wofford,made,Ryan Larson,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,165,2,16:15,975,975,Jalen Dupree made Layup. Assisted by Josh Sharkey.,39,37,2,36,0.44054065916844676,0.5862115923304669,4,3,-5,NA,NA,Samford,made,Jalen Dupree,Josh Sharkey,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,166,2,15:41,941,941,Chevez Goodwin missed Jumper.,39,37,2,34,0.444010991113285,0.5880270630885638,4,3,-5,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,167,2,15:40,940,940,Wofford Offensive Rebound.,39,37,2,1,0.4441060486979755,0.5880758823746011,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,168,2,15:40,940,940,Official TV Timeout,39,37,2,0,0.4441060486979755,0.5880758823746011,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,169,2,15:25,925,925,Ryan Larson missed Three Point Jumper.,39,37,2,15,0.44549313530835205,0.5887831895018086,4,3,-5,NA,NA,Wofford,missed,Ryan Larson,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,170,2,15:22,922,922,Josh Sharkey Defensive Rebound.,39,37,2,3,0.44576280026496856,0.5889196986555838,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,171,2,15:20,920,920,Josh Sharkey Turnover.,39,37,2,2,0.4459413310539134,0.5890099179219168,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,172,2,15:20,920,920,Messiah Jones Steal.,39,37,2,0,0.4459413310539134,0.5890099179219168,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,173,2,15:10,910,910,Nathan Hoover missed Three Point Jumper.,39,37,2,10,0.44682074524720283,0.5894527432170011,4,3,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,174,2,15:05,905,905,Jalen Dupree Defensive Rebound.,39,37,2,5,0.4472533901440914,0.5896698153530617,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,175,2,14:47,887,887,Robert Allen made Layup.,41,37,4,18,0.539961485851225,0.6751426154016695,4,3,-5,NA,NA,Samford,made,Robert Allen,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,176,2,14:26,866,866,Foul on Brandon Austin.,41,37,4,21,0.5426488975955389,0.6767511526246751,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,177,2,14:04,844,844,Nathan Hoover made Three Point Jumper. Assisted by Messiah Jones.,41,40,1,22,0.4067286748109991,0.5465415485573548,4,3,-5,NA,NA,Wofford,made,Nathan Hoover,Messiah Jones,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,178,2,13:36,816,816,Josh Sharkey missed Layup.,41,40,1,28,0.4085508433386591,0.5472241446625227,4,3,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,179,2,13:32,812,812,Jalen Dupree Offensive Rebound.,41,40,1,4,0.40882359719760153,0.5473290672567583,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,180,2,13:31,811,811,Samford  Turnover.,41,40,1,1,0.4088923733531501,0.5473556419586071,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,181,2,13:15,795,795,Nathan Hoover Turnover.,41,40,1,16,0.41002828877792163,0.547801444170172,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,182,2,13:15,795,795,Deandre Thomas Steal.,41,40,1,0,0.41002828877792163,0.547801444170172,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,183,2,12:59,779,779,Robert Allen missed Three Point Jumper.,41,40,1,16,0.4112414764254295,0.548291624872937,4,3,-5,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,184,2,12:54,774,774,Storm Murphy Defensive Rebound.,41,40,1,5,0.41163885398131,0.5484551916654117,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,185,2,12:45,765,765,Foul on Jalen Dupree.,41,40,1,9,0.41237839288071215,0.5487633227538029,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,186,2,12:45,765,765,Nathan Hoover made Free Throw.,41,41,0,0,0.36590684060282735,0.5,4,3,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,TRUE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,187,2,12:45,765,765,Nathan Hoover made Free Throw.,41,42,-1,0,0.32180428244637393,0.451236677246197,4,3,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,TRUE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,188,2,12:31,751,751,Josh Sharkey Turnover.,41,42,-1,14,0.3219888211895805,0.45071934835374017,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,189,2,12:12,732,732,Trevor Stumpe missed Three Point Jumper.,41,42,-1,19,0.3222248431960947,0.44993455929079634,4,3,-5,NA,NA,Wofford,missed,Trevor Stumpe,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,190,2,12:08,728,728,Trevor Stumpe Offensive Rebound.,41,42,-1,4,0.3222727405097126,0.44975739918281593,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,191,2,12:08,728,728,Trevor Stumpe missed Jumper.,41,42,-1,0,0.3222727405097126,0.44975739918281593,4,3,-5,NA,NA,Wofford,missed,Trevor Stumpe,NA,FALSE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,192,2,12:08,728,728,Logan Dye Block.,41,42,-1,0,0.3222727405097126,0.44975739918281593,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,193,2,12:08,728,728,Wofford Offensive Rebound.,41,42,-1,0,0.3222727405097126,0.44975739918281593,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,194,2,11:58,718,718,Trevor Stumpe Turnover.,41,42,-1,10,0.32240264961255,0.4493346628499843,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,195,2,11:58,718,718,Official TV Timeout,41,42,-1,0,0.32240264961255,0.4493346628499843,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,196,2,11:46,706,706,Josh Sharkey missed Layup.,41,42,-1,12,0.3225771743255586,0.44886538366240486,4,3,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,197,2,11:46,706,706,Tray Hollowell Block.,41,42,-1,0,0.3225771743255586,0.44886538366240486,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,198,2,11:46,706,706,Samford Offensive Rebound.,41,42,-1,0,0.3225771743255586,0.44886538366240486,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,199,2,11:40,700,700,Foul on Tray Hollowell.,41,42,-1,6,0.322670903089789,0.4486435370162313,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,200,2,11:40,700,700,Josh Sharkey made Free Throw.,42,42,0,0,0.3692649522640042,0.5,4,3,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,201,2,11:39,699,699,Josh Sharkey missed Free Throw.,42,42,0,1,0.3693161407999537,0.5,4,3,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,202,2,11:37,697,697,Nathan Hoover Defensive Rebound.,42,42,0,2,0.36941831594587266,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,203,2,11:27,687,687,Donovan Theme-Love missed Three Point Jumper.,42,42,0,10,0.3699258463139339,0.5,4,3,-5,NA,NA,Wofford,missed,Donovan Theme-Love,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,204,2,11:22,682,682,Donte Tatum Defensive Rebound.,42,42,0,5,0.370178087768533,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,205,2,11:18,678,678,Robert Allen missed Three Point Jumper.,42,42,0,4,0.3703794541552755,0.5,4,3,-5,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,206,2,11:14,674,674,Donovan Theme-Love Defensive Rebound.,42,42,0,4,0.37058062668926744,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,207,2,11:03,663,663,Nathan Hoover made Jumper.,42,44,-2,11,0.27891631201690337,0.39592119171033296,4,3,-5,NA,NA,Wofford,made,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,208,2,10:40,640,640,Robert Allen made Three Point Jumper. Assisted by Josh Sharkey.,45,44,1,23,0.42361078453745915,0.5533867732645816,4,3,-5,NA,NA,Samford,made,Robert Allen,Josh Sharkey,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,209,2,10:17,617,617,Nathan Hoover made Three Point Jumper. Assisted by Donovan Theme-Love.,45,47,-2,23,0.2783510407432594,0.3928036624075061,4,3,-5,NA,NA,Wofford,made,Nathan Hoover,Donovan Theme-Love,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,210,2,9:57,597,597,Foul on Nathan Hoover.,45,47,-2,20,0.2779490155652246,0.3911807480184838,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,211,2,9:57,597,597,Josh Sharkey made Free Throw.,46,47,-1,0,0.3244310482133378,0.44493034901802614,4,3,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,212,2,9:57,597,597,Josh Sharkey made Free Throw.,47,47,0,0,0.3746530195971246,0.5,4,3,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,213,2,9:55,595,595,Isaiah Bigelow Turnover.,47,47,0,2,0.3747697652142376,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,214,2,9:55,595,595,Donte Tatum Steal.,47,47,0,0,0.3747697652142376,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,215,2,9:55,595,595,Donte Tatum Turnover.,47,47,0,0,0.3747697652142376,0.5,4,3,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,216,2,9:38,578,578,Storm Murphy made Jumper.,47,49,-2,17,0.2774111135895073,0.38937976821980935,4,3,-5,NA,NA,Wofford,made,Storm Murphy,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,217,2,9:38,578,578,Wofford  Timeout,47,49,-2,0,0.2774111135895073,0.38937976821980935,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,218,2,9:22,562,562,Logan Dye made Dunk. Assisted by Josh Sharkey.,49,49,0,16,0.3768349518111908,0.5,4,2,-5,NA,NA,Samford,made,Logan Dye,Josh Sharkey,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,219,2,8:56,536,536,Nathan Hoover missed Jumper.,49,49,0,26,0.3786307990182765,0.5,4,2,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,220,2,8:52,532,532,Deandre Thomas Defensive Rebound.,49,49,0,4,0.37890004796042775,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,221,2,8:37,517,517,Logan Dye missed Jumper.,49,49,0,15,0.37989172875690314,0.5,4,2,-5,NA,NA,Samford,missed,Logan Dye,NA,FALSE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,222,2,8:33,513,513,Josh Sharkey Offensive Rebound.,49,49,0,4,0.38015348978768265,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,223,2,8:21,501,501,Josh Sharkey missed Three Point Jumper.,49,49,0,12,0.3809391981692607,0.5,4,2,-5,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,224,2,8:17,497,497,Ryan Larson Defensive Rebound.,49,49,0,4,0.38120279774693167,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,225,2,8:15,495,495,Nathan Hoover missed Layup.,49,49,0,2,0.3813351784752025,0.5,4,2,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,226,2,8:05,485,485,Chevez Goodwin Offensive Rebound.,49,49,0,10,0.3820052318086524,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,227,2,8:05,485,485,Chevez Goodwin made Layup.,49,51,-2,0,0.2742499772257618,0.3793942934447768,4,2,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,228,2,7:53,473,473,Foul on Nathan Hoover.,49,51,-2,12,0.2738700362702207,0.37811827998510006,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,229,2,7:53,473,473,Official TV Timeout,49,51,-2,0,0.2738700362702207,0.37811827998510006,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,230,2,7:53,473,473,Logan Dye made Free Throw.,50,51,-1,0,0.32600633239650956,0.43812591546918006,4,2,-5,NA,NA,Samford,made,Logan Dye,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,231,2,7:53,473,473,Logan Dye made Free Throw.,51,51,0,0,0.38283496288387847,0.5,4,2,-5,NA,NA,Samford,made,Logan Dye,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,232,2,7:42,462,462,Foul on Deandre Thomas.,51,51,0,11,0.3836303687357949,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,233,2,7:19,439,439,Nathan Hoover missed Jumper.,51,51,0,23,0.3854453413850241,0.5,4,2,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,234,2,7:16,436,436,Chevez Goodwin Offensive Rebound.,51,51,0,3,0.3857007863689368,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,235,2,7:13,433,433,Chevez Goodwin made Layup.,51,53,-2,3,0.27156890085789714,0.37230151851488746,4,2,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,236,2,7:05,425,425,Foul on Chevez Goodwin.,51,53,-2,8,0.27086640514570426,0.37076568932010795,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,237,2,7:05,425,425,Jalen Dupree made Free Throw.,52,53,-1,0,0.3261248567138858,0.4342660128438776,4,2,-5,NA,NA,Samford,made,Jalen Dupree,NA,FALSE,TRUE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,238,2,7:05,425,425,Jalen Dupree missed Free Throw.,52,53,-1,0,0.3261248567138858,0.4342660128438776,4,2,-5,NA,NA,Samford,missed,Jalen Dupree,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,239,2,7:03,423,423,Nathan Hoover Defensive Rebound.,52,53,-1,2,0.326118000954717,0.43406898902260355,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,240,2,6:42,402,402,Chevez Goodwin made Jumper.,52,55,-3,21,0.21896448276988378,0.30584733394245506,4,2,-5,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,241,2,6:27,387,387,Jalen Dupree missed Three Point Jumper.,52,55,-3,15,0.21725571586942144,0.3023770635861099,4,2,-5,NA,NA,Samford,missed,Jalen Dupree,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,242,2,6:23,383,383,Chevez Goodwin Defensive Rebound.,52,55,-3,4,0.21679859337301446,0.30144100439810884,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,243,2,6:09,369,369,Nathan Hoover missed Three Point Jumper.,52,55,-3,14,0.21512290258003494,0.2980425811408535,4,2,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,244,2,6:05,365,365,Josh Sharkey Defensive Rebound.,52,55,-3,4,0.21460917918372277,0.29702043255506244,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,245,2,5:58,358,358,Brandon Austin made Three Point Jumper. Assisted by Josh Sharkey.,55,55,0,7,0.3935159116313685,0.5,4,2,-5,NA,NA,Samford,made,Brandon Austin,Josh Sharkey,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,246,2,5:39,339,339,Trevor Stumpe made Jumper. Assisted by Storm Murphy.,55,57,-2,19,0.26464809103482345,0.35466249046924553,4,2,-5,NA,NA,Wofford,made,Trevor Stumpe,Storm Murphy,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,247,2,5:21,321,321,Josh Sharkey made Layup.,57,57,0,18,0.3979074687349581,0.5,4,2,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,248,2,4:58,298,298,Foul on Deandre Thomas.,57,57,0,23,0.4008166641904836,0.5,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,249,2,4:43,283,283,Storm Murphy made Jumper.,57,59,-2,15,0.2605010180805232,0.34318325306169456,4,2,-5,NA,NA,Wofford,made,Storm Murphy,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,250,2,4:29,269,269,Josh Sharkey missed Three Point Jumper.,57,59,-2,14,0.2630734228079421,0.34453039135523844,4,2,-5,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,251,2,4:25,265,265,Nathan Hoover Defensive Rebound.,57,59,-2,4,0.2639457508704644,0.34506746805711414,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,252,2,4:06,246,246,Chevez Goodwin made Dunk. Assisted by Storm Murphy.,57,61,-4,19,0.16311587167653072,0.2208454383109767,4,2,-5,NA,NA,Wofford,made,Chevez Goodwin,Storm Murphy,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,253,2,3:46,226,226,Brandon Austin missed Three Point Jumper.,57,61,-4,20,0.1644520262549266,0.22055090732331803,4,2,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,254,2,3:46,226,226,Robert Allen Offensive Rebound.,57,61,-4,0,0.1644520262549266,0.22055090732331803,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,255,2,3:46,226,226,Foul on Trevor Stumpe.,57,61,-4,0,0.1644520262549266,0.22055090732331803,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,256,2,3:46,226,226,Official TV Timeout,57,61,-4,0,0.1644520262549266,0.22055090732331803,4,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,257,2,3:38,218,218,Samford  Timeout,57,61,-4,8,0.16320825567338385,0.21816722937834518,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,258,2,3:28,208,208,Josh Sharkey made Jumper.,59,61,-2,10,0.2677301750680924,0.3420210514339076,3,2,-5,NA,NA,Samford,made,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,259,2,2:58,178,178,Chevez Goodwin missed Jumper.,59,61,-2,30,0.2514077720977379,0.3186467575696597,3,2,-5,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,260,2,2:54,174,174,Jalen Dupree Defensive Rebound.,59,61,-2,4,0.24873695601436338,0.31493571200350956,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,261,2,2:43,163,163,Brandon Austin missed Three Point Jumper.,59,61,-2,11,0.24121179164560932,0.3045042714980945,3,2,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,262,2,2:39,159,159,Chevez Goodwin Defensive Rebound.,59,61,-2,4,0.23837959897831446,0.3005938885497191,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,263,2,2:31,151,151,Storm Murphy missed Jumper.,59,61,-2,8,0.23250756587956406,0.2925225593951903,3,2,-5,NA,NA,Wofford,missed,Storm Murphy,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,264,2,2:31,151,151,Jalen Dupree Block.,59,61,-2,0,0.23250756587956406,0.2925225593951903,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,265,2,2:25,145,145,Josh Sharkey Defensive Rebound.,59,61,-2,6,0.22788786721617518,0.2862103234441076,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,266,2,2:22,142,142,Deandre Thomas missed Three Point Jumper.,59,61,-2,3,0.22549918468247457,0.2829599831922035,3,2,-5,NA,NA,Samford,missed,Deandre Thomas,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,267,2,2:22,142,142,Brandon Austin Offensive Rebound.,59,61,-2,0,0.22549918468247457,0.2829599831922035,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,268,2,2:22,142,142,Brandon Austin made Layup.,61,61,0,0,0.4245613737028375,0.5,3,2,-5,NA,NA,Samford,made,Brandon Austin,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,269,2,2:22,142,142,Foul on Chevez Goodwin.,61,61,0,0,0.4245613737028375,0.5,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,270,2,2:22,142,142,Brandon Austin made Free Throw.,62,61,1,0,0.5401228135316312,0.6141790467362154,3,2,-5,NA,NA,Samford,made,Brandon Austin,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,271,2,2:04,124,124,Chevez Goodwin made Dunk. Assisted by Donovan Theme-Love.,62,63,-1,18,0.3083940013065625,0.3733266436572909,3,2,-5,NA,NA,Wofford,made,Chevez Goodwin,Donovan Theme-Love,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,272,2,1:48,108,108,Robert Allen missed Three Point Jumper.,62,63,-1,16,0.29932576132833666,0.3602572487808431,3,2,-5,NA,NA,Samford,missed,Robert Allen,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,273,2,1:44,104,104,Nathan Hoover Defensive Rebound.,62,63,-1,4,0.2967698710957765,0.35665532669804234,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,274,2,1:31,91,91,Trevor Stumpe missed Jumper.,62,63,-1,13,0.28764566962330235,0.3440041863322106,3,2,-5,NA,NA,Wofford,missed,Trevor Stumpe,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,275,2,1:27,87,87,Josh Sharkey Defensive Rebound.,62,63,-1,4,0.28471420172950623,0.3399671194386317,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,276,2,1:23,83,83,Foul on Donovan Theme-Love.,62,63,-1,4,0.2817412781608611,0.3358815382198814,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Samford
+401176066,2020-01-08,Samford,Wofford,277,2,1:23,83,83,Brandon Austin missed Free Throw.,62,63,-1,0,0.2817412781608611,0.3358815382198814,3,2,-5,NA,NA,Samford,missed,Brandon Austin,NA,FALSE,TRUE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,278,2,1:21,81,81,Trevor Stumpe Defensive Rebound.,62,63,-1,2,0.28023278673119884,0.33381313742127333,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,279,2,0:58,58,58,Storm Murphy missed Three Point Jumper.,62,63,-1,23,0.26149708836723473,0.30842720583430067,3,2,-5,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,280,2,0:55,55,55,Trevor Stumpe Offensive Rebound.,62,63,-1,3,0.25891368360305816,0.30495728451128856,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,281,2,0:54,54,54,Foul on Robert Allen.,62,63,-1,1,0.2580455562072044,0.3037927896996413,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,282,2,0:36,36,36,Nathan Hoover missed Jumper.,62,63,-1,18,0.24175739154010512,0.2820949510125366,3,2,-5,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,283,2,0:34,34,34,Samford Defensive Rebound.,62,63,-1,2,0.23987825865959617,0.27960847021847124,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,284,2,0:22,22,22,Josh Sharkey missed Layup.,62,63,-1,12,0.2284596547402277,0.2645508105298305,3,2,-5,NA,NA,Samford,missed,Josh Sharkey,NA,FALSE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,285,2,0:22,22,22,Chevez Goodwin Defensive Rebound.,62,63,-1,0,0.2284596547402277,0.2645508105298305,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,286,2,0:22,22,22,Foul on Josh Sharkey.,62,63,-1,0,0.2284596547402277,0.2645508105298305,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,287,2,0:14,14,14,Foul on Josh Sharkey.,62,63,-1,8,0.22058966231234353,0.25424668313989673,3,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,288,2,0:14,14,14,Samford  Timeout,62,63,-1,0,0.22058966231234353,0.25424668313989673,2,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,289,2,0:14,14,14,Isaiah Bigelow made Free Throw.,62,64,-2,0,0.0879983853652604,0.10412770804069946,2,2,-5,NA,NA,Wofford,made,Isaiah Bigelow,NA,FALSE,TRUE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,290,2,0:14,14,14,Isaiah Bigelow made Free Throw.,62,65,-3,0,0.03184804125052473,0.03811563608747347,2,2,-5,NA,NA,Wofford,made,Isaiah Bigelow,NA,FALSE,TRUE,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,291,2,0:10,10,10,Josh Sharkey missed Three Point Jumper.,62,65,-3,4,0.029489266778032302,0.035163883243131466,2,2,-5,NA,NA,Samford,missed,Josh Sharkey,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,292,2,0:08,8,8,Nathan Hoover Turnover.,62,65,-3,2,0.028356052655781977,0.033749757602105614,2,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Samford
+401176066,2020-01-08,Samford,Wofford,293,2,0:08,8,8,Samford  Timeout,62,65,-3,0,0.028356052655781977,0.033749757602105614,1,2,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,294,2,0:08,8,8,Wofford  Timeout,62,65,-3,0,0.028356052655781977,0.033749757602105614,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,295,2,0:08,8,8,Nathan Hoover Defensive Rebound.,62,65,-3,0,0.028356052655781977,0.033749757602105614,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,296,2,0:03,3,3,Brandon Austin missed Three Point Jumper.,62,65,-3,5,0.025663747451638533,0.030400848236932055,1,1,-5,NA,NA,Samford,missed,Brandon Austin,NA,TRUE,FALSE,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,297,2,0:01,1,1,Trevor Stumpe Defensive Rebound.,62,65,-3,2,0.02464435695392993,0.029136972928700006,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,298,2,0:01,1,1,Foul on Jalen Dupree.,62,65,-3,0,0.02464435695392993,0.029136972928700006,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Samford,Wofford
+401176066,2020-01-08,Samford,Wofford,299,2,0:01,1,1,Trevor Stumpe made Free Throw.,62,66,-4,0,0.007790880209203552,0.00924024840272953,1,1,-5,NA,NA,Wofford,made,Trevor Stumpe,NA,FALSE,TRUE,Wofford,Wofford
+401176066,2020-01-08,Samford,Wofford,300,2,0:01,1,1,Trevor Stumpe made Free Throw.,62,67,-5,0,0.002434185622078905,0.002889929286074279,1,1,-5,NA,NA,Wofford,made,Trevor Stumpe,NA,FALSE,TRUE,Wofford,NA
+401176066,2020-01-08,Samford,Wofford,301,2,0:00,0,0,End of 2nd half,62,67,-5,1,3.131986137656969e-44,3.720075976020836e-44,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,NA
+401176066,2020-01-08,Samford,Wofford,302,2,0:00,0,0,End of Game,62,67,-5,0,3.131986137656969e-44,3.720075976020836e-44,1,1,-5,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,NA

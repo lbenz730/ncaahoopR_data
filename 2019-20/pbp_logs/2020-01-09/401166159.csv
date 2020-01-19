@@ -1,0 +1,380 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166159,2020-01-09,Michigan,Purdue,1,1,20:00,2400,3000,PLAY,0,0,0,0,0.707313232497319,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
+401166159,2020-01-09,Michigan,Purdue,2,1,19:35,2375,2975,Trevion Williams made Jumper.,0,2,-2,25,0.6685112174687509,0.45544591446758104,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,3,1,19:15,2355,2955,Jon Teske missed Jumper.,0,2,-2,20,0.6677232055461462,0.45501724388899867,4,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,4,1,19:11,2351,2951,Matt Haarms Defensive Rebound.,0,2,-2,4,0.6675637356976988,0.4549308659299886,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,5,1,18:56,2336,2936,Trevion Williams missed Jumper.,0,2,-2,15,0.6669601937153369,0.4546051347726533,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,6,1,18:51,2331,2931,Franz Wagner Defensive Rebound.,0,2,-2,5,0.6667570757042117,0.4544959423640643,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,7,1,18:46,2326,2926,Jon Teske made Three Point Jumper. Assisted by Zavier Simpson.,3,2,1,5,0.7245370980083762,0.5228544235375375,4,4,5.5,NA,NA,Michigan,made,Jon Teske,Zavier Simpson,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,8,1,18:25,2305,2905,Eric Hunter Jr. made Jumper. Assisted by Sasha Stefanovic.,3,4,-1,21,0.6859277884189279,0.47691263374444354,4,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,Sasha Stefanovic,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,9,1,18:12,2292,2892,Jon Teske missed Three Point Jumper.,3,4,-1,13,0.6855252229397927,0.47676723271618027,4,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,TRUE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,10,1,18:10,2290,2890,Michigan Offensive Rebound.,3,4,-1,2,0.6854628117371315,0.4767447867309777,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,11,1,17:55,2275,2875,Brandon Johns Jr. missed Jumper.,3,4,-1,15,0.684990646298364,0.4765758243650507,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,FALSE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,12,1,17:55,2275,2875,Matt Haarms Block.,3,4,-1,0,0.684990646298364,0.4765758243650507,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,13,1,17:55,2275,2875,Michigan Offensive Rebound.,3,4,-1,0,0.684990646298364,0.4765758243650507,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,14,1,17:54,2274,2874,Franz Wagner missed Jumper.,3,4,-1,1,0.6849589118345809,0.476564522728214,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,15,1,17:51,2271,2871,Sasha Stefanovic Defensive Rebound.,3,4,-1,3,0.6848635153288013,0.4765305907094315,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,16,1,17:44,2264,2864,Nojel Eastern missed Jumper.,3,4,-1,7,0.6846397951577491,0.47645126124796555,4,4,5.5,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,17,1,17:41,2261,2861,Michigan Defensive Rebound.,3,4,-1,3,0.6845434305921038,0.476417198297709,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,18,1,17:20,2240,2840,Brandon Johns Jr. missed Three Point Jumper.,3,4,-1,21,0.6838607019880019,0.47617774079402875,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,19,1,17:17,2237,2837,Trevion Williams Defensive Rebound.,3,4,-1,3,0.6837619965974854,0.47614339584835497,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,20,1,17:02,2222,2822,Eric Hunter Jr. missed Three Point Jumper.,3,4,-1,15,0.6832640466562683,0.47597120459978587,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,TRUE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,21,1,16:58,2218,2818,Nojel Eastern Offensive Rebound.,3,4,-1,4,0.6831300109912065,0.4759251629552016,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,22,1,16:56,2216,2816,Nojel Eastern Turnover.,3,4,-1,2,0.6830627953379187,0.4759021236633784,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,23,1,16:56,2216,2816,Eli Brooks Steal.,3,4,-1,0,0.6830627953379187,0.4759021236633784,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,24,1,16:51,2211,2811,Eli Brooks made Layup. Assisted by Franz Wagner.,5,4,1,5,0.7232217294404211,0.5241555267460252,4,4,5.5,NA,NA,Michigan,made,Eli Brooks,Franz Wagner,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,25,1,16:33,2193,2793,Trevion Williams made Layup.,5,6,-1,18,0.6822802960092146,0.47563635998670234,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,26,1,16:33,2193,2793,Foul on Jon Teske.,5,6,-1,0,0.6822802960092146,0.47563635998670234,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,27,1,16:33,2193,2793,Trevion Williams missed Free Throw.,5,6,-1,0,0.6822802960092146,0.47563635998670234,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,28,1,16:31,2191,2791,Eli Brooks Defensive Rebound.,5,6,-1,2,0.6822114215417544,0.4756131854327252,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,29,1,16:21,2181,2781,Franz Wagner missed Layup.,5,6,-1,10,0.6818650444462665,0.47549717588611884,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,FALSE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,30,1,16:21,2181,2781,Franz Wagner Offensive Rebound.,5,6,-1,0,0.6818650444462665,0.47549717588611884,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,31,1,16:21,2181,2781,Matt Haarms Block.,5,6,-1,0,0.6818650444462665,0.47549717588611884,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,32,1,16:15,2175,2775,Zavier Simpson Turnover.,5,6,-1,6,0.6816556101510787,0.4754274683183452,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,33,1,16:08,2168,2768,Sasha Stefanovic missed Three Point Jumper.,5,6,-1,7,0.6814097411047757,0.47534605158204335,4,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,34,1,16:05,2165,2765,Franz Wagner Defensive Rebound.,5,6,-1,3,0.6813038653898869,0.475311112717869,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,35,1,15:54,2154,2754,Official TV Timeout,5,6,-1,11,0.680913077823132,0.4751827076689996,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,36,1,15:45,2145,2745,Zavier Simpson Turnover.,5,6,-1,9,0.6805903344494411,0.47507729138774896,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,37,1,15:39,2139,2739,Sasha Stefanovic made Layup. Assisted by Isaiah Thompson.,5,8,-3,6,0.6353822901303156,0.42551635862385584,4,4,5.5,NA,NA,Purdue,made,Sasha Stefanovic,Isaiah Thompson,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,38,1,15:21,2121,2721,Jon Teske made Layup. Assisted by Zavier Simpson.,7,8,-1,18,0.6797164795344399,0.4747945087762299,4,4,5.5,NA,NA,Michigan,made,Jon Teske,Zavier Simpson,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,39,1,15:21,2121,2721,Foul on Aaron Wheeler.,7,8,-1,0,0.6797164795344399,0.4747945087762299,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,40,1,15:21,2121,2721,Jon Teske made Free Throw.,8,8,0,0,0.7012749949368601,0.5,4,4,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,41,1,14:58,2098,2698,Sasha Stefanovic missed Three Point Jumper.,8,8,0,23,0.7006818261376069,0.5,4,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,42,1,14:52,2092,2692,Brandon Johns Jr. Defensive Rebound.,8,8,0,6,0.7005247471361413,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,43,1,14:44,2084,2684,Jon Teske Turnover.,8,8,0,8,0.7003138170076298,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,44,1,14:44,2084,2684,Aaron Wheeler Steal.,8,8,0,0,0.7003138170076298,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,45,1,14:37,2077,2677,Aaron Wheeler Turnover.,8,8,0,7,0.7001278625210778,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,46,1,14:37,2077,2677,Eli Brooks Steal.,8,8,0,0,0.7001278625210778,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,47,1,14:32,2072,2672,Franz Wagner missed Three Point Jumper.,8,8,0,5,0.6999942473947286,0.5,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,48,1,14:31,2071,2671,Jon Teske Offensive Rebound.,8,8,0,1,0.699967445589989,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,49,1,14:31,2071,2671,Foul on Aaron Wheeler.,8,8,0,0,0.699967445589989,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,50,1,14:17,2057,2657,Franz Wagner Turnover.,8,8,0,14,0.6995894775820592,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,51,1,14:12,2052,2652,Eric Hunter Jr. made Layup.,8,10,-2,5,0.6539020916631995,0.44807297189182055,4,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,52,1,13:42,2022,2622,Jon Teske missed Jumper.,8,10,-2,30,0.6523379883109655,0.44734232206351526,4,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,53,1,13:39,2019,2619,Eric Hunter Jr. Defensive Rebound.,8,10,-2,3,0.6521795698067503,0.44726866938491106,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,54,1,13:21,2001,2601,Jahaad Proctor Turnover.,8,10,-2,18,0.6512213542597018,0.44682440207285135,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,55,1,13:21,2001,2601,Jon Teske Steal.,8,10,-2,0,0.6512213542597018,0.44682440207285135,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,56,1,13:09,1989,2589,Jon Teske made Jumper. Assisted by Zavier Simpson.,10,10,0,12,0.6976824128263628,0.5,4,4,5.5,NA,NA,Michigan,made,Jon Teske,Zavier Simpson,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,57,1,12:50,1970,2570,Jahaad Proctor Turnover.,10,10,0,19,0.6971290246097882,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,58,1,12:50,1970,2570,Franz Wagner Steal.,10,10,0,0,0.6971290246097882,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,59,1,12:49,1969,2569,Foul on Jahaad Proctor.,10,10,0,1,0.6970996566433062,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,60,1,12:31,1951,2551,Franz Wagner made Three Point Jumper. Assisted by Brandon Johns Jr..,13,10,3,18,0.7611319253633755,0.5812464862174684,4,4,5.5,NA,NA,Michigan,made,Franz Wagner,Brandon Johns Jr,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,61,1,12:09,1929,2529,Trevion Williams made Jumper.,13,12,1,22,0.7187590479967741,0.5275818337881809,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,62,1,11:43,1903,2503,Franz Wagner missed Three Point Jumper.,13,12,1,26,0.7182687822364971,0.5279195116963304,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,63,1,11:39,1899,2499,Trevion Williams Defensive Rebound.,13,12,1,4,0.7181914509525862,0.527971394843824,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,64,1,11:23,1883,2483,Nojel Eastern Turnover.,13,12,1,16,0.7178773792392306,0.5281789384956048,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,65,1,11:23,1883,2483,Official TV Timeout,13,12,1,0,0.7178773792392306,0.5281789384956048,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,66,1,11:08,1868,2468,Brandon Johns Jr. missed Three Point Jumper.,13,12,1,15,0.7175764113525697,0.5283737373612436,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,67,1,11:06,1866,2466,Purdue Defensive Rebound.,13,12,1,2,0.7175358308162042,0.5283997416370915,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,68,1,11:06,1866,2466,Foul on Austin Davis.,13,12,1,0,0.7175358308162042,0.5283997416370915,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,69,1,11:03,1863,2463,Foul on Nojel Eastern.,13,12,1,3,0.7174747676971897,0.5284387656502132,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,70,1,11:03,1863,2463,Nojel Eastern Turnover.,13,12,1,0,0.7174747676971897,0.5284387656502132,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,71,1,10:48,1848,2448,Franz Wagner made Layup. Assisted by Zavier Simpson.,15,12,3,15,0.7612914376184977,0.5851588456436801,4,4,5.5,NA,NA,Michigan,made,Franz Wagner,Zavier Simpson,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,72,1,10:16,1816,2416,Evan Boudreaux missed Jumper.,15,12,3,32,0.7612997819102182,0.586386455554236,4,4,5.5,NA,NA,Purdue,missed,Evan Boudreaux,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,73,1,10:13,1813,2413,Trevion Williams Offensive Rebound.,15,12,3,3,0.7613000843155876,0.5865023309898767,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,74,1,10:12,1812,2412,Trevion Williams made Layup.,15,14,1,1,0.7164049272522173,0.5291074000864612,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,75,1,9:52,1792,2392,Brandon Johns Jr. missed Layup.,15,14,1,20,0.7159714227865236,0.529373663315156,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,76,1,9:49,1789,2389,Evan Boudreaux Defensive Rebound.,15,14,1,3,0.7159058368201909,0.5294138657886375,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,77,1,9:42,1782,2382,Evan Boudreaux Turnover.,15,14,1,7,0.7157522831869785,0.5295079655044297,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,78,1,9:36,1776,2376,Franz Wagner made Dunk. Assisted by David DeJulius.,17,14,3,6,0.761301302143635,0.5879465458826649,4,4,5.5,NA,NA,Michigan,made,Franz Wagner,David DeJulius,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,79,1,9:15,1755,2355,Trevion Williams made Layup.,17,16,1,21,0.7151539790491223,0.5298752153615465,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,80,1,9:15,1755,2355,Foul on Austin Davis.,17,16,1,0,0.7151539790491223,0.5298752153615465,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,81,1,9:15,1755,2355,Trevion Williams missed Free Throw.,17,16,1,0,0.7151539790491223,0.5298752153615465,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,82,1,9:15,1755,2355,Colin Castleton Defensive Rebound.,17,16,1,0,0.7151539790491223,0.5298752153615465,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,83,1,8:50,1730,2330,Austin Davis made Layup. Assisted by David DeJulius.,19,16,3,25,0.761309437900015,0.5897932240047887,4,4,5.5,NA,NA,Michigan,made,Austin Davis,David DeJulius,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,84,1,8:31,1711,2311,Eric Hunter Jr. made Jumper.,19,18,1,19,0.7141641461223757,0.5304914566542098,4,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,85,1,8:05,1685,2285,Colin Castleton Turnover.,19,18,1,26,0.7135737893529956,0.530867731315977,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,86,1,7:48,1668,2268,Eric Hunter Jr. missed Jumper.,19,18,1,17,0.7131709565117786,0.5311111654714938,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,87,1,7:48,1668,2268,Austin Davis Block.,19,18,1,0,0.7131709565117786,0.5311111654714938,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,88,1,7:43,1663,2263,Zavier Simpson Defensive Rebound.,19,18,1,5,0.7130486630492114,0.5311817203704111,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,89,1,7:41,1661,2261,Adrien Nunez missed Three Point Jumper.,19,18,1,2,0.7129992898626838,0.531209824925366,4,4,5.5,NA,NA,Michigan,missed,Adrien Nunez,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,90,1,7:38,1658,2258,Sasha Stefanovic Defensive Rebound.,19,18,1,3,0.7129247549153752,0.5312518628367782,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,91,1,7:36,1656,2256,Sasha Stefanovic missed Jumper.,19,18,1,2,0.7128747543311355,0.5312798120360661,4,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,92,1,7:33,1653,2253,Austin Davis Defensive Rebound.,19,18,1,3,0.7127992980884562,0.5313216272177975,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,93,1,7:20,1640,2240,Colin Castleton made Jumper.,21,18,3,13,0.7612852670733861,0.5935159166455239,4,4,5.5,NA,NA,Michigan,made,Colin Castleton,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,94,1,7:05,1625,2225,Matt Haarms Turnover.,21,18,3,15,0.7612347639299646,0.59411291541535,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,95,1,7:05,1625,2225,Official TV Timeout,21,18,3,0,0.7612347639299646,0.59411291541535,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,96,1,6:50,1610,2210,Eli Brooks missed Three Point Jumper.,21,18,3,15,0.7611737012750774,0.5947057086200391,4,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,97,1,6:47,1607,2207,Aaron Wheeler Defensive Rebound.,21,18,3,3,0.761160481996821,0.5948239997537945,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,98,1,6:36,1596,2196,Aaron Wheeler Turnover.,21,18,3,11,0.7611097930429257,0.5952575645806943,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,99,1,6:14,1574,2174,Foul on Isaiah Thompson.,21,18,3,22,0.7610017802697702,0.5961273640994997,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,100,1,6:12,1572,2172,Foul on Colin Castleton.,21,18,3,2,0.7609917680976367,0.59620683596449,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,101,1,6:12,1572,2172,Colin Castleton Turnover.,21,18,3,0,0.7609917680976367,0.59620683596449,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,102,1,6:02,1562,2162,Eric Hunter Jr. missed Jumper.,21,18,3,10,0.7609418225763803,0.596605733210274,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,103,1,6:00,1560,2160,Michigan Defensive Rebound.,21,18,3,2,0.7609319057639611,0.5966858646589045,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,104,1,5:47,1547,2147,Adrien Nunez Turnover.,21,18,3,13,0.7608687483126885,0.5972102229022763,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,105,1,5:47,1547,2147,Sasha Stefanovic Steal.,21,18,3,0,0.7608687483126885,0.5972102229022763,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,106,1,5:43,1543,2143,Foul on Adrien Nunez.,21,18,3,4,0.7608499586465615,0.5973729562093391,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,107,1,5:43,1543,2143,Sasha Stefanovic missed Free Throw.,21,18,3,0,0.7608499586465615,0.5973729562093391,4,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,108,1,5:43,1543,2143,Purdue Offensive Rebound.,21,18,3,0,0.7608499586465615,0.5973729562093391,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,109,1,5:43,1543,2143,Sasha Stefanovic made Free Throw.,21,19,2,0,0.7361075718941874,0.5653786851670344,4,4,5.5,NA,NA,Purdue,made,Sasha Stefanovic,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,110,1,5:24,1524,2124,Foul on Matt Haarms.,21,19,2,19,0.7358079366009764,0.5659127637304104,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,111,1,5:24,1524,2124,David DeJulius made Free Throw.,22,19,3,0,0.7607671501034559,0.598156959867669,4,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,112,1,5:24,1524,2124,David DeJulius made Free Throw.,23,19,4,0,0.7840603792962573,0.6295737979277718,4,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,113,1,5:02,1502,2102,Trevion Williams made Jumper.,23,21,2,22,0.7354735702469755,0.5665505490234393,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,114,1,4:32,1472,2072,David DeJulius missed Three Point Jumper.,23,21,2,30,0.735052835768736,0.5674637237186487,4,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,115,1,4:30,1470,2070,Trevion Williams Defensive Rebound.,23,21,2,2,0.735026652729314,0.5675266954159719,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,116,1,4:23,1463,2063,Matt Haarms missed Jumper.,23,21,2,7,0.7349371486496187,0.5677493772119581,4,4,5.5,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,117,1,4:19,1459,2059,Zavier Simpson Defensive Rebound.,23,21,2,4,0.7348875655159691,0.5678782681398279,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,118,1,4:06,1446,2046,Eli Brooks missed Three Point Jumper.,23,21,2,13,0.734733471125201,0.5683046189503748,4,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,119,1,4:06,1446,2046,Trevion Williams Defensive Rebound.,23,21,2,0,0.734733471125201,0.5683046189503748,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,120,1,4:06,1446,2046,Sasha Stefanovic Block.,23,21,2,0,0.734733471125201,0.5683046189503748,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,121,1,3:50,1430,2030,Foul on Jon Teske.,23,21,2,16,0.734530917224215,0.5688204350588157,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,122,1,3:50,1430,2030,Official TV Timeout,23,21,2,0,0.734530917224215,0.5688204350588157,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,123,1,3:38,1418,2018,Aaron Wheeler missed Three Point Jumper.,23,21,2,12,0.7343653410454722,0.5691972275460725,4,4,5.5,NA,NA,Purdue,missed,Aaron Wheeler,NA,TRUE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,124,1,3:32,1412,2012,Nojel Eastern Offensive Rebound.,23,21,2,6,0.7342787563554666,0.5693829794701808,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,125,1,3:30,1410,2010,Sasha Stefanovic made Three Point Jumper. Assisted by Nojel Eastern.,23,24,-1,2,0.6449495986873555,0.4651086370861724,4,4,5.5,NA,NA,Purdue,made,Sasha Stefanovic,Nojel Eastern,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,126,1,3:09,1389,1989,Austin Davis made Layup. Assisted by Zavier Simpson.,25,24,1,21,0.7054834303105166,0.5352153754204546,4,4,5.5,NA,NA,Michigan,made,Austin Davis,Zavier Simpson,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,127,1,2:50,1370,1970,Sasha Stefanovic Turnover.,25,24,1,19,0.7049154339267547,0.5355048141624769,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,128,1,2:37,1357,1957,Franz Wagner Turnover.,25,24,1,13,0.7045215514549199,0.5357026163874019,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,129,1,2:21,1341,1941,Trevion Williams made Jumper.,25,26,-1,16,0.6407223003908462,0.4640523799907425,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,130,1,1:56,1316,1916,Brandon Johns Jr. missed Layup.,25,26,-1,25,0.639153035093014,0.4636616141633348,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,131,1,1:56,1316,1916,Trevion Williams Block.,25,26,-1,0,0.639153035093014,0.4636616141633348,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,132,1,1:50,1310,1910,Sasha Stefanovic Defensive Rebound.,25,26,-1,6,0.6387727853222158,0.46356567553874145,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,133,1,1:40,1300,1900,Eric Hunter Jr. Turnover.,25,26,-1,10,0.6381356863866786,0.46340338962119415,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,134,1,1:40,1300,1900,Franz Wagner Steal.,25,26,-1,0,0.6381356863866786,0.46340338962119415,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,135,1,1:33,1293,1893,Zavier Simpson made Layup.,27,26,1,7,0.7025701448865186,0.536712209743297,4,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,136,1,1:33,1293,1893,Purdue  Timeout,27,26,1,0,0.7025701448865186,0.536712209743297,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,137,1,1:05,1265,1865,Trevion Williams made Layup.,27,28,-1,28,0.635870037528169,0.46280533670823504,3,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,138,1,0:46,1246,1846,Brandon Johns Jr. made Three Point Jumper. Assisted by Zavier Simpson.,30,28,2,19,0.7317353981420137,0.5746674920233126,3,4,5.5,NA,NA,Michigan,made,Brandon Johns Jr.,Zavier Simpson,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,139,1,0:23,1223,1823,Eric Hunter Jr. missed Jumper.,30,28,2,23,0.7314996096402401,0.5755575300958228,3,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,140,1,0:19,1219,1819,Trevion Williams Offensive Rebound.,30,28,2,4,0.731464940809156,0.5757195629363832,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,141,1,0:19,1219,1819,Trevion Williams missed Layup.,30,28,2,0,0.731464940809156,0.5757195629363832,3,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,142,1,0:19,1219,1819,Michigan Defensive Rebound.,30,28,2,0,0.731464940809156,0.5757195629363832,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,143,1,0:19,1219,1819,Michigan  Timeout,30,28,2,0,0.731464940809156,0.5757195629363832,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,144,1,0:02,1202,1802,Zavier Simpson made Layup.,32,28,4,17,0.7874342303002907,0.649363644672055,3,3,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,145,2,20:00,1200,1800,PLAY,32,28,4,2,0.7874778127540533,0.6495177425372646,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michigan
+401166159,2020-01-09,Michigan,Purdue,146,2,19:49,1189,1789,Brandon Johns Jr. missed Three Point Jumper.,32,28,4,11,0.7877110153333079,0.6503543333281742,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,147,2,19:45,1185,1785,Trevion Williams Defensive Rebound.,32,28,4,4,0.7877933607066595,0.6506543839352416,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,148,2,19:16,1156,1756,Trevion Williams missed Layup.,32,28,4,29,0.7883623904051115,0.6527809645321083,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,149,2,19:15,1155,1755,Michigan Defensive Rebound.,32,28,4,1,0.7883814053913746,0.6528531907838526,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,150,2,18:54,1134,1734,Zavier Simpson missed Three Point Jumper.,32,28,4,21,0.7887775947038164,0.6543627092846436,4,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,151,2,18:51,1131,1731,Nojel Eastern Defensive Rebound.,32,28,4,3,0.7888341794373658,0.6545779701122947,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,152,2,18:46,1126,1726,Sasha Stefanovic missed Three Point Jumper.,32,28,4,5,0.788928784134317,0.6549370015626366,4,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,153,2,18:44,1124,1724,Michigan Defensive Rebound.,32,28,4,2,0.7889667665638389,0.6550807637411296,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,154,2,18:28,1108,1708,Franz Wagner missed Three Point Jumper.,32,28,4,16,0.7892752492199452,0.6562366477109108,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,155,2,18:23,1103,1703,Trevion Williams Defensive Rebound.,32,28,4,5,0.7893739657974732,0.6566009559980501,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,156,2,18:11,1091,1691,Foul on Brandon Johns Jr..,32,28,4,12,0.7896171370466505,0.657484043492174,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,157,2,18:08,1088,1688,Isaiah Thompson made Jumper.,32,30,2,3,0.7303597185949222,0.5809188424766013,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,158,2,17:47,1067,1667,Franz Wagner made Layup. Assisted by Zavier Simpson.,34,30,4,21,0.790139135807812,0.6593015705169385,4,4,5.5,NA,NA,Michigan,made,Franz Wagner,Zavier Simpson,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,159,2,17:25,1045,1645,Nojel Eastern missed Jumper.,34,30,4,22,0.7906745226709821,0.6610513078078872,4,4,5.5,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,160,2,17:21,1041,1641,Trevion Williams Offensive Rebound.,34,30,4,4,0.7907790432933535,0.6613801076901014,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,161,2,17:19,1039,1639,Trevion Williams missed Jumper.,34,30,4,2,0.7908322172884904,0.6615458709061123,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,162,2,17:19,1039,1639,Jon Teske Block.,34,30,4,0,0.7908322172884904,0.6615458709061123,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,163,2,17:13,1033,1633,Trevion Williams Offensive Rebound.,34,30,4,6,0.7909955399321359,0.6620488397977552,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,164,2,17:12,1032,1632,Trevion Williams made Layup.,34,32,2,1,0.7300145948654256,0.5833177740681952,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,165,2,16:54,1014,1614,Jon Teske missed Three Point Jumper.,34,32,2,18,0.7299553299647756,0.5841709804539683,4,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,TRUE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,166,2,16:52,1012,1612,Michigan Offensive Rebound.,34,32,2,2,0.7299506966816981,0.5842689133152238,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,167,2,16:52,1012,1612,Foul on Sasha Stefanovic.,34,32,2,0,0.7299506966816981,0.5842689133152238,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,168,2,16:42,1002,1602,Franz Wagner missed Three Point Jumper.,34,32,2,10,0.7299338588450909,0.5847687598775883,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,169,2,16:38,998,1598,Trevion Williams Defensive Rebound.,34,32,2,4,0.7299301948109186,0.5849736454699718,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,170,2,16:32,992,1592,Foul on Eli Brooks.,34,32,2,6,0.7299281468610966,0.5852865353705452,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,171,2,16:32,992,1592,Isaiah Thompson made Free Throw.,34,33,1,0,0.6946609753684544,0.5429580421010213,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,172,2,16:32,992,1592,Isaiah Thompson made Free Throw.,34,34,0,0,0.6569528519594919,0.5,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,173,2,16:17,977,1577,Brandon Johns Jr. missed Three Point Jumper.,34,34,0,15,0.656213303155732,0.5,4,4,5.5,NA,NA,Michigan,missed,Brandon Johns Jr.,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,174,2,16:13,973,1573,Sasha Stefanovic Defensive Rebound.,34,34,0,4,0.6560141375625437,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,175,2,15:46,946,1546,Eric Hunter Jr. missed Three Point Jumper.,34,34,0,27,0.654709144691914,0.5,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,TRUE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,176,2,15:43,943,1543,Trevion Williams Offensive Rebound.,34,34,0,3,0.6545706579098641,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,177,2,15:37,937,1537,Isaiah Thompson made Jumper.,34,36,-2,6,0.5698810496280045,0.4117790027843806,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,178,2,15:16,916,1516,Foul on Zavier Simpson.,34,36,-2,21,0.5678968784091813,0.41081139140319084,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,179,2,15:16,916,1516,Zavier Simpson Turnover.,34,36,-2,0,0.5678968784091813,0.41081139140319084,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,180,2,15:16,916,1516,Official TV Timeout,34,36,-2,0,0.5678968784091813,0.41081139140319084,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,181,2,15:05,905,1505,Isaiah Thompson made Three Point Jumper. Assisted by Nojel Eastern.,34,39,-5,11,0.43175631867598535,0.28771628130857174,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,Nojel Eastern,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,182,2,14:53,893,1493,Foul on Sasha Stefanovic.,34,39,-5,12,0.42991122319577574,0.28663158202901007,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,183,2,14:30,870,1470,Brandon Johns Jr. made Layup.,36,39,-3,23,0.5180620181892098,0.3651442537322026,4,4,5.5,NA,NA,Michigan,made,Brandon Johns Jr.,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,184,2,14:12,852,1452,Isaiah Thompson made Three Point Jumper. Assisted by Sasha Stefanovic.,36,42,-6,18,0.3790160730853014,0.24678562253641198,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,Sasha Stefanovic,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,185,2,13:40,820,1420,Brandon Johns Jr. made Three Point Jumper. Assisted by Zavier Simpson.,39,42,-3,32,0.5122457322219327,0.36189725019006946,4,4,5.5,NA,NA,Michigan,made,Brandon Johns Jr.,Zavier Simpson,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,186,2,13:22,802,1402,Isaiah Thompson missed Jumper.,39,42,-3,18,0.5099144225761816,0.3605558775588056,4,4,5.5,NA,NA,Purdue,missed,Isaiah Thompson,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,187,2,13:19,799,1399,Jon Teske Defensive Rebound.,39,42,-3,3,0.5095076965812153,0.3603193542729557,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,188,2,13:07,787,1387,Jon Teske missed Jumper.,39,42,-3,12,0.5078209596305918,0.35933085682045973,4,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,189,2,13:04,784,1384,Nojel Eastern Defensive Rebound.,39,42,-3,3,0.507383239234267,0.35907240251785594,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,190,2,12:55,775,1375,Nojel Eastern missed Jumper.,39,42,-3,9,0.5060281428319356,0.3582675253416958,4,4,5.5,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,191,2,12:55,775,1375,Franz Wagner Block.,39,42,-3,0,0.5060281428319356,0.3582675253416958,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,192,2,12:55,775,1375,Purdue Offensive Rebound.,39,42,-3,0,0.5060281428319356,0.3582675253416958,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,193,2,12:50,770,1370,Eric Hunter Jr. missed Jumper.,39,42,-3,5,0.5052465486972461,0.35780018079235115,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,194,2,12:43,763,1363,Colin Castleton Defensive Rebound.,39,42,-3,7,0.5041154566732653,0.3571201041110569,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,195,2,12:38,758,1358,Zavier Simpson made Jumper.,41,42,-1,5,0.6002508871977023,0.45098405608518105,4,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,196,2,12:04,724,1324,Jahaad Proctor made Three Point Jumper. Assisted by Trevion Williams.,41,45,-4,34,0.44656609250835577,0.3080185353551716,4,4,5.5,NA,NA,Purdue,made,Jahaad Proctor,Trevion Williams,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,197,2,12:04,724,1324,Foul on Brandon Johns Jr..,41,45,-4,0,0.44656609250835577,0.3080185353551716,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,198,2,12:04,724,1324,Jahaad Proctor missed Free Throw.,41,45,-4,0,0.44656609250835577,0.3080185353551716,4,4,5.5,NA,NA,Purdue,missed,Jahaad Proctor,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,199,2,12:03,723,1323,Colin Castleton Defensive Rebound.,41,45,-4,1,0.44633399533930374,0.30787243324271024,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,200,2,11:40,700,1300,David DeJulius made Jumper.,43,45,-2,23,0.5440363254915893,0.39835937703089747,4,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,201,2,11:20,680,1280,Foul on Zavier Simpson.,43,45,-2,20,0.5414521615346883,0.39701149032923805,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,202,2,11:20,680,1280,Official TV Timeout,43,45,-2,0,0.5414521615346883,0.39701149032923805,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,203,2,11:20,680,1280,Isaiah Thompson made Free Throw.,43,46,-3,0,0.4893075393845641,0.3482139266286869,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,204,2,11:20,680,1280,Isaiah Thompson made Free Throw.,43,47,-4,0,0.43739457754468186,0.3024062004176275,4,4,5.5,NA,NA,Purdue,made,Isaiah Thompson,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,205,2,11:05,665,1265,Foul on Evan Boudreaux.,43,47,-4,15,0.43454073877094324,0.30071129717758593,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,206,2,10:49,649,1249,Zavier Simpson missed Three Point Jumper.,43,47,-4,16,0.43149549959206435,0.29890942308535845,4,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,207,2,10:45,645,1245,Aaron Wheeler Defensive Rebound.,43,47,-4,4,0.4307225000724056,0.2984513163804,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,208,2,10:20,620,1220,Nojel Eastern missed Jumper.,43,47,-4,25,0.42565218865962995,0.29541997247320634,4,4,5.5,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,209,2,10:17,617,1217,Colin Castleton Defensive Rebound.,43,47,-4,3,0.4250051556294012,0.2950286718655595,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,210,2,10:17,617,1217,Foul on Aaron Wheeler.,43,47,-4,0,0.4250051556294012,0.2950286718655595,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,211,2,10:02,602,1202,Foul on Nojel Eastern.,43,47,-4,15,0.4215992278228666,0.2929493468166664,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,212,2,10:02,602,1202,David DeJulius made Free Throw.,44,47,-3,0,0.4760343303270804,0.34055387447890334,4,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,213,2,10:02,602,1202,David DeJulius missed Free Throw.,44,47,-3,0,0.4760343303270804,0.34055387447890334,4,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,214,2,10:00,600,1200,Trevion Williams Defensive Rebound.,44,47,-3,2,0.4756337427160372,0.3403142121083677,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,215,2,9:44,584,1184,Trevion Williams missed Jumper.,44,47,-3,16,0.4722307338074641,0.3382521115473278,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,216,2,9:40,580,1180,Franz Wagner Defensive Rebound.,44,47,-3,4,0.4713192168476565,0.33769219839909925,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,217,2,9:24,564,1164,Zavier Simpson missed Three Point Jumper.,44,47,-3,16,0.4673930845838919,0.33524806445252725,4,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,218,2,9:20,560,1160,Trevion Williams Defensive Rebound.,44,47,-3,4,0.46633540335859613,0.33458148929182446,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,219,2,9:13,553,1153,Foul on Brandon Johns Jr..,44,47,-3,7,0.46440456545534425,0.3333568011219204,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,220,2,9:09,549,1149,Foul on Franz Wagner.,44,47,-3,4,0.4632560997838459,0.33262426350072716,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,221,2,9:09,549,1149,Aaron Wheeler made Free Throw.,44,48,-4,0,0.4062826483105214,0.28323868744363734,4,4,5.5,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,222,2,9:09,549,1149,Aaron Wheeler made Free Throw.,44,49,-5,0,0.35172451325535725,0.2385644263663513,4,4,5.5,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,223,2,8:41,521,1121,Franz Wagner made Three Point Jumper. Assisted by Zavier Simpson.,47,49,-2,28,0.5156836049504496,0.3828475242940222,4,4,5.5,NA,NA,Michigan,made,Franz Wagner,Zavier Simpson,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,224,2,8:19,499,1099,Eric Hunter Jr. Turnover.,47,49,-2,22,0.5117880717807969,0.38075493725155396,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,225,2,8:02,482,1082,Zavier Simpson made Jumper.,49,49,0,17,0.629062738403915,0.5,4,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,226,2,7:40,460,1060,Trevion Williams made Layup.,49,51,-2,22,0.5041623286848363,0.37654446961775334,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,227,2,7:19,439,1039,Franz Wagner missed Three Point Jumper.,49,51,-2,21,0.49885500331799754,0.3733835819543717,4,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,228,2,7:19,439,1039,Purdue Defensive Rebound.,49,51,-2,0,0.49885500331799754,0.3733835819543717,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,229,2,7:19,439,1039,Official TV Timeout,49,51,-2,0,0.49885500331799754,0.3733835819543717,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,230,2,6:56,416,1016,Eric Hunter Jr. missed Jumper.,49,51,-2,23,0.491893287083213,0.36911985007285764,4,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,231,2,6:56,416,1016,Jon Teske Block.,49,51,-2,0,0.491893287083213,0.36911985007285764,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,232,2,6:51,411,1011,Jon Teske Defensive Rebound.,49,51,-2,5,0.49039996943392683,0.36824078852806175,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,233,2,6:26,386,986,David DeJulius missed Jumper.,49,51,-2,25,0.4829435044220773,0.363993498061385,4,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,234,2,6:23,383,983,Aaron Wheeler Defensive Rebound.,49,51,-2,3,0.48202687178890585,0.36347877140643564,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,235,2,5:56,356,956,Trevion Williams made Jumper.,49,53,-4,27,0.3341687878506865,0.23791231893879092,4,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,236,2,5:26,326,926,Foul on Sasha Stefanovic.,49,53,-4,30,0.3168111311804595,0.22672154803408875,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,237,2,5:14,314,914,David DeJulius missed Layup.,49,53,-4,12,0.30852831721775426,0.22121738814461342,4,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,FALSE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,238,2,5:10,310,910,Jon Teske Offensive Rebound.,49,53,-4,4,0.30556603187235515,0.2192274258031606,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,239,2,5:09,309,909,Jon Teske made Layup.,51,53,-2,1,0.4531703681045175,0.3460321657423441,4,4,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,240,2,4:46,286,886,Trevion Williams missed Jumper.,51,53,-2,23,0.4466424093567522,0.34307594121108087,4,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,241,2,4:43,283,883,Jon Teske Defensive Rebound.,51,53,-2,3,0.4463344438483915,0.34318325306169456,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,242,2,4:35,275,875,Jon Teske made Jumper. Assisted by David DeJulius.,53,53,0,8,0.6056457770425328,0.5,4,4,5.5,NA,NA,Michigan,made,Jon Teske,David DeJulius,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,243,2,4:28,268,868,Purdue  Timeout,53,53,0,7,0.6046774014402663,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,244,2,4:16,256,856,Sasha Stefanovic missed Three Point Jumper.,53,53,0,12,0.6029912610395104,0.5,3,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,245,2,4:11,251,851,Franz Wagner Defensive Rebound.,53,53,0,5,0.6022753694385714,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,246,2,4:00,240,840,Foul on Eric Hunter Jr..,53,53,0,11,0.6006640315451618,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,247,2,4:00,240,840,Official TV Timeout,53,53,0,0,0.6006640315451618,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,248,2,4:00,240,840,Jon Teske made Free Throw.,54,53,1,0,0.6731770290930862,0.5779484012791622,3,4,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,249,2,4:00,240,840,Jon Teske made Free Throw.,55,53,2,0,0.7382604410563472,0.6521978153087602,3,4,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,250,2,3:47,227,827,Trevion Williams missed Jumper.,55,53,2,13,0.7370403068061296,0.6526430964646633,3,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,251,2,3:47,227,827,Jon Teske Block.,55,53,2,0,0.7370403068061296,0.6526430964646633,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,252,2,3:47,227,827,Purdue Offensive Rebound.,55,53,2,0,0.7370403068061296,0.6526430964646633,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,253,2,3:47,227,827,Foul on Franz Wagner.,55,53,2,0,0.7370403068061296,0.6526430964646633,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,254,2,3:47,227,827,Aaron Wheeler made Free Throw.,55,54,1,0,0.6715718692693736,0.57818786731953,3,4,5.5,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,255,2,3:47,227,827,Aaron Wheeler made Free Throw.,55,55,0,0,0.5986790563888105,0.5,3,4,5.5,NA,NA,Purdue,made,Aaron Wheeler,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,256,2,3:35,215,815,Eli Brooks missed Three Point Jumper.,55,55,0,12,0.5967497922632503,0.5,3,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,TRUE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,257,2,3:30,210,810,Jon Teske Offensive Rebound.,55,55,0,5,0.5959138458557496,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,258,2,3:16,196,796,Eli Brooks made Layup.,57,55,2,14,0.74368412198485,0.6652830777540031,3,4,5.5,NA,NA,Michigan,made,Eli Brooks,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,259,2,2:47,167,767,Trevion Williams made Jumper.,57,57,0,29,0.5879227999486184,0.5,3,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,260,2,2:31,151,751,Foul on Isaiah Thompson.,57,57,0,16,0.5847117401677714,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,261,2,2:31,151,751,David DeJulius made Free Throw.,58,57,1,0,0.6864830415055725,0.6086359194653368,3,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,262,2,2:31,151,751,David DeJulius missed Free Throw.,58,57,1,0,0.6864830415055725,0.6086359194653368,3,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,263,2,2:28,148,748,Trevion Williams Defensive Rebound.,58,57,1,3,0.6875668073418516,0.6104390648438671,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,264,2,2:09,129,729,Trevion Williams missed Jumper.,58,57,1,19,0.6953747865026662,0.6229898931327029,3,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,265,2,2:07,127,727,Aaron Wheeler Offensive Rebound.,58,57,1,2,0.6963068921283797,0.6244421452031069,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,266,2,2:05,125,725,Isaiah Thompson missed Jumper.,58,57,1,2,0.6972626903699408,0.6259224464632573,3,4,5.5,NA,NA,Purdue,missed,Isaiah Thompson,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,267,2,2:02,122,722,Isaiah Thompson Offensive Rebound.,58,57,1,3,0.698742285241732,0.6281971696563706,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,268,2,2:00,120,720,Isaiah Thompson missed Three Point Jumper.,58,57,1,2,0.6997602452407709,0.6297509319903091,3,4,5.5,NA,NA,Purdue,missed,Isaiah Thompson,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,269,2,1:58,118,718,Jon Teske Defensive Rebound.,58,57,1,2,0.7008042133174222,0.6313353810369734,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,270,2,1:58,118,718,Foul on Trevion Williams.,58,57,1,0,0.7008042133174222,0.6313353810369734,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,271,2,1:58,118,718,Jon Teske missed Free Throw.,58,57,1,0,0.7008042133174222,0.6313353810369734,3,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,272,2,1:57,117,717,Aaron Wheeler Defensive Rebound.,58,57,1,1,0.7013361495770402,0.6321393398886925,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,273,2,1:28,88,688,Trevion Williams made Three Point Jumper.,58,60,-2,29,0.2624372305750758,0.21117452832252023,3,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,274,2,0:56,56,656,Zavier Simpson made Layup.,60,60,0,32,0.562587019057589,0.5,3,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,275,2,0:52,52,652,Purdue  Timeout,60,60,0,4,0.5615346290965312,0.5,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,276,2,0:44,44,644,Trevion Williams made Jumper.,60,62,-2,8,0.17748032580736092,0.14526519614069563,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,277,2,0:27,27,627,Michigan  Timeout,60,62,-2,17,0.14667149383648512,0.12124526174094326,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,278,2,0:19,19,619,Zavier Simpson made Layup.,62,62,0,8,0.5524522068016742,0.5,2,3,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,279,2,0:15,15,615,Purdue  Timeout,62,62,0,4,0.5513011585282862,0.5,1,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,280,2,0:00,600,600,Trevion Williams missed Layup.,62,62,0,15,0.6374589108509932,0.5,1,3,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,281,2,0:00,600,600,Purdue Offensive Rebound.,62,62,0,0,0.6374589108509932,0.5,1,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,282,2,0:00,600,600,Franz Wagner Block.,62,62,0,0,0.6374589108509932,0.5,1,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,283,2,0:00,600,600,End of 2nd half,62,62,0,0,0.6374589108509932,0.5,1,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA
+401166159,2020-01-09,Michigan,Purdue,284,3,5:00,600,600,PLAY,62,62,0,0,0.6374589108509932,0.5,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michigan
+401166159,2020-01-09,Michigan,Purdue,285,3,4:37,277,577,Zavier Simpson made Layup.,64,62,2,23,0.7460023865819913,0.6563804381004261,2,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,286,3,4:37,277,577,Foul on Eric Hunter Jr..,64,62,2,0,0.7460023865819913,0.6563804381004261,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,287,3,4:37,277,577,Zavier Simpson missed Free Throw.,64,62,2,0,0.7460023865819913,0.6563804381004261,2,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,288,3,4:37,277,577,Aaron Wheeler Defensive Rebound.,64,62,2,0,0.7460023865819913,0.6563804381004261,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,289,3,4:23,263,563,Sasha Stefanovic Turnover.,64,62,2,14,0.7430037850044967,0.6546551522861564,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,290,3,4:23,263,563,David DeJulius Steal.,64,62,2,0,0.7430037850044967,0.6546551522861564,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,291,3,4:18,258,558,Foul on Isaiah Thompson.,64,62,2,5,0.7418552193469194,0.65396252850165415,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,292,3,4:18,258,558,Zavier Simpson missed Free Throw.,64,62,2,0,0.7418552193469194,0.65396252850165415,2,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,293,3,4:18,258,558,Michigan Offensive Rebound.,64,62,2,0,0.7418552193469194,0.65396252850165415,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,294,3,4:18,258,558,Zavier Simpson made Free Throw.,65,62,3,0,0.7980071089514645,0.7220703360985865,2,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,295,3,3:54,234,534,Trevion Williams missed Jumper.,65,62,3,24,0.7936791298422713,0.7196611356146402,2,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,296,3,3:52,232,532,Jon Teske Defensive Rebound.,65,62,3,2,0.7935515583852665,0.7197609786510355,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,297,3,3:52,232,532,Foul on Trevion Williams.,65,62,3,0,0.7935515583852665,0.7197609786510355,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,298,3,3:52,232,532,Jon Teske made Free Throw.,66,62,4,0,0.8403578737259724,0.7786302193774729,2,4,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,299,3,3:52,232,532,Jon Teske missed Free Throw.,66,62,4,0,0.8403578737259724,0.7786302193774729,2,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,300,3,3:50,230,530,Trevion Williams Defensive Rebound.,66,62,4,2,0.8403336983425901,0.7788203186173192,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,301,3,3:36,216,516,Foul on Jon Teske.,66,62,4,14,0.8421128627910569,0.7826893536051683,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,302,3,3:36,216,516,Trevion Williams made Free Throw.,66,63,3,0,0.7947308714672401,0.7233331838716366,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,303,3,3:36,216,516,Trevion Williams made Free Throw.,66,64,2,0,0.7375608971046581,0.6549125832588967,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,304,3,3:11,191,491,Franz Wagner missed Layup.,66,64,2,25,0.74648647854097006,0.6694070433011268,2,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,305,3,3:08,188,488,Trevion Williams Defensive Rebound.,66,64,2,3,0.7483929217336732,0.6721535004645761,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,306,3,2:43,163,463,Isaiah Thompson missed Jumper.,66,64,2,25,0.7645984664709571,0.6954957285019054,2,4,5.5,NA,NA,Purdue,missed,Isaiah Thompson,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,307,3,2:42,162,462,Eric Hunter Jr. Offensive Rebound.,66,64,2,1,0.7652757199167934,0.6964664063362844,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,308,3,2:30,150,450,Trevion Williams made Layup.,66,66,0,12,0.5845069442982309,0.5,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,309,3,2:12,132,432,Franz Wagner missed Three Point Jumper.,66,66,0,18,0.5807294706960707,0.5,2,4,5.5,NA,NA,Michigan,missed,Franz Wagner,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,310,3,2:08,128,428,Sasha Stefanovic Defensive Rebound.,66,66,0,4,0.579865123270118,0.5,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,311,3,1:52,112,412,Aaron Wheeler missed Three Point Jumper.,66,66,0,16,0.5763083760816627,0.5,2,4,5.5,NA,NA,Purdue,missed,Aaron Wheeler,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,312,3,1:49,109,409,David DeJulius Defensive Rebound.,66,66,0,3,0.5756228375622182,0.5,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,313,3,1:32,92,392,Eli Brooks missed Jumper.,66,66,0,17,0.571619873680878,0.5,2,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,314,3,1:29,89,389,Purdue Defensive Rebound.,66,66,0,3,0.5708962841665082,0.5,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,315,3,1:00,60,360,Trevion Williams made Jumper.,66,68,-2,29,0.20790654505306266,0.16889261165891484,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,316,3,0:48,48,348,Zavier Simpson made Layup.,68,68,0,12,0.5604716927452406,0.5,2,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,317,3,0:44,44,344,Purdue  Timeout,68,68,0,4,0.5593975975299881,0.5,1,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,318,3,0:26,26,326,Trevion Williams missed Jumper.,68,68,0,18,0.5544346010951877,0.5,1,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,319,3,0:24,24,324,Isaiah Thompson Offensive Rebound.,68,68,0,2,0.5538716543306281,0.5,1,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,320,3,0:05,5,305,Aaron Wheeler missed Jumper.,68,68,0,19,0.548370635516869,0.5,1,4,5.5,NA,NA,Purdue,missed,Aaron Wheeler,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,321,3,0:02,2,302,Zavier Simpson Defensive Rebound.,68,68,0,3,0.5474787506570595,0.5,1,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,322,3,0:00,300,300,Zavier Simpson missed Three Point Jumper.,68,68,0,2,0.6090748029763365,0.5,1,4,5.5,NA,NA,Michigan,missed,Zavier Simpson,NA,TRUE,FALSE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,323,3,0:00,300,300,Michigan Offensive Rebound.,68,68,0,0,0.6090748029763365,0.5,1,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,324,3,0:00,300,300,End of 1st overtime,68,68,0,0,0.6090748029763365,0.5,1,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,NA
+401166159,2020-01-09,Michigan,Purdue,325,4,5:00,300,300,PLAY,68,68,0,0,0.6090748029763365,0.5,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michigan
+401166159,2020-01-09,Michigan,Purdue,326,4,4:47,287,287,Jon Teske made Layup. Assisted by David DeJulius.,70,68,2,13,0.7475588185342735,0.6569406598514745,2,5,5.5,NA,NA,Michigan,made,Jon Teske,David DeJulius,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,327,4,4:47,287,287,Foul on Nojel Eastern.,70,68,2,0,0.7475588185342735,0.6569406598514745,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,328,4,4:47,287,287,Jon Teske made Free Throw.,71,68,3,0,0.8038416162478703,0.7260225733272759,2,5,5.5,NA,NA,Michigan,made,Jon Teske,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,329,4,4:24,264,264,Eric Hunter Jr. missed Three Point Jumper.,71,68,3,23,0.7994612808148419,0.7231759732130546,2,5,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,330,4,4:21,261,261,Jon Teske Defensive Rebound.,71,68,3,3,0.7987336431517398,0.7226205704058416,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,331,4,4:08,248,248,Zavier Simpson made Three Point Jumper. Assisted by David DeJulius.,74,68,6,13,0.9094298463961168,0.869159810718717,2,5,5.5,NA,NA,Michigan,made,Zavier Simpson,David DeJulius,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,332,4,3:34,214,214,Trevion Williams missed Jumper.,74,68,6,34,0.9106767061587319,0.8733238950231285,2,5,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,333,4,3:31,211,211,Eli Brooks Defensive Rebound.,74,68,6,3,0.9117094221170208,0.874957192796394,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,334,4,3:08,188,188,Jon Teske missed Three Point Jumper.,74,68,6,23,0.9259405536087625,0.8960255455346585,2,5,5.5,NA,NA,Michigan,missed,Jon Teske,NA,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,335,4,3:05,185,185,Nojel Eastern Defensive Rebound.,74,68,6,3,0.9283218927967809,0.8994769140896962,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,336,4,2:52,172,172,Eric Hunter Jr. Turnover.,74,68,6,13,0.9380157770344435,0.9135250840022943,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,337,4,2:52,172,172,Eli Brooks Steal.,74,68,6,0,0.9380157770344435,0.9135250840022943,2,5,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,338,4,2:52,172,172,Michigan  Timeout,74,68,6,0,0.9380157770344435,0.9135250840022943,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,339,4,2:34,154,154,Franz Wagner made Three Point Jumper. Assisted by David DeJulius.,77,68,9,18,0.9859690804522235,0.9803088261698596,2,4,5.5,NA,NA,Michigan,made,Franz Wagner,David DeJulius,TRUE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,340,4,2:13,133,133,Foul on David DeJulius.,77,68,9,21,0.9913279600187888,0.9880179506745548,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,341,4,2:13,133,133,Eric Hunter Jr. made Free Throw.,77,69,8,0,0.9859181524639372,0.980583729667206,2,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,342,4,2:13,133,133,Eric Hunter Jr. made Free Throw.,77,70,7,0,0.9772111685601553,0.9686831737890672,2,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,343,4,1:46,106,106,Jon Teske missed Jumper.,77,70,7,27,0.9875800564354111,0.9832745193712434,2,4,5.5,NA,NA,Michigan,missed,Jon Teske,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,344,4,1:41,101,101,Trevion Williams Defensive Rebound.,77,70,7,5,0.9891431537117943,0.9854401022550683,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,345,4,1:36,96,96,Nojel Eastern made Jumper.,77,72,5,5,0.967992438679734,0.9575832660763629,2,4,5.5,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,346,4,1:15,75,75,David DeJulius made Jumper.,79,72,7,21,0.9950774998436563,0.9935520330848125,2,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,FALSE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,347,4,1:00,60,60,Foul on Zavier Simpson.,79,72,7,15,0.9970796902336452,0.9962312490461801,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,348,4,1:00,60,60,Trevion Williams made Free Throw.,79,73,6,0,0.9935447992788229,0.9916779336383338,2,4,5.5,NA,NA,Purdue,made,Trevion Williams,NA,FALSE,TRUE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,349,4,1:00,60,60,Trevion Williams missed Free Throw.,79,73,6,0,0.9935447992788229,0.9916779336383338,2,4,5.5,NA,NA,Purdue,missed,Trevion Williams,NA,FALSE,TRUE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,350,4,0:58,58,58,Michigan Defensive Rebound.,79,73,6,2,0.9939322828843684,0.9921929883204408,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,351,4,0:58,58,58,Foul on Eric Hunter Jr..,79,73,6,0,0.9939322828843684,0.9921929883204408,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,352,4,0:58,58,58,Eli Brooks missed Free Throw.,79,73,6,0,0.9939322828843684,0.9921929883204408,2,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,353,4,0:58,58,58,Michigan Offensive Rebound.,79,73,6,0,0.9939322828843684,0.9921929883204408,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,354,4,0:58,58,58,Eli Brooks missed Free Throw.,79,73,6,0,0.9939322828843684,0.9921929883204408,2,4,5.5,NA,NA,Michigan,missed,Eli Brooks,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,355,4,0:57,57,57,Trevion Williams Defensive Rebound.,79,73,6,1,0.9941187484791545,0.9924404568016248,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,356,4,0:48,48,48,Eric Hunter Jr. made Jumper.,79,75,4,9,0.9757542699688183,0.9692875630820613,2,4,5.5,NA,NA,Purdue,made,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,357,4,0:43,43,43,Foul on Aaron Wheeler.,79,75,4,5,0.9782381334172499,0.9725611464308712,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,358,4,0:43,43,43,David DeJulius missed Free Throw.,79,75,4,0,0.9782381334172499,0.9725611464308712,2,4,5.5,NA,NA,Michigan,missed,David DeJulius,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,359,4,0:43,43,43,Michigan Offensive Rebound.,79,75,4,0,0.9782381334172499,0.9725611464308712,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,360,4,0:43,43,43,David DeJulius made Free Throw.,80,75,5,0,0.9909651241973977,0.9885694144703858,2,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,361,4,0:34,34,34,Eric Hunter Jr. missed Jumper.,80,75,5,9,0.9930335558439728,0.9912682792741424,2,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,FALSE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,362,4,0:34,34,34,Jon Teske Block.,80,75,5,0,0.9930335558439728,0.9912682792741424,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,363,4,0:33,33,33,Purdue Offensive Rebound.,80,75,5,1,0.993237187043782,0.9915324896539068,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,364,4,0:31,31,31,Sasha Stefanovic missed Three Point Jumper.,80,75,5,2,0.9936294328739389,0.9920405962771082,2,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,365,4,0:29,29,29,Michigan Defensive Rebound.,80,75,5,2,0.9940021124947305,0.9925223005850036,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,366,4,0:26,26,26,Foul on Eric Hunter Jr..,80,75,5,3,0.9945257148622915,0.9931972303454936,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,367,4,0:26,26,26,David DeJulius made Free Throw.,81,75,6,0,0.9979725039035665,0.9974783558486602,2,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,368,4,0:26,26,26,David DeJulius made Free Throw.,82,75,7,0,0.9992507168389663,0.9990678080725697,2,4,5.5,NA,NA,Michigan,made,David DeJulius,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,369,4,0:17,17,17,Eric Hunter Jr. missed Three Point Jumper.,82,75,7,9,0.9994985783475338,0.9993825524408365,2,4,5.5,NA,NA,Purdue,missed,Eric Hunter Jr.,NA,TRUE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,370,4,0:13,13,13,Trevion Williams Offensive Rebound.,82,75,7,4,0.9995840789163978,0.9994902170141574,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,371,4,0:10,10,10,Sasha Stefanovic made Three Point Jumper. Assisted by Trevion Williams.,82,78,4,3,0.9902042384015559,0.9880608141620681,2,4,5.5,NA,NA,Purdue,made,Sasha Stefanovic,Trevion Williams,TRUE,FALSE,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,372,4,0:10,10,10,Foul on Isaiah Thompson.,82,78,4,0,0.9902042384015559,0.9880608141620681,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,373,4,0:10,10,10,Zavier Simpson made Free Throw.,83,78,5,0,0.9967308182051937,0.9960097291441499,2,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,TRUE,Michigan,Michigan
+401166159,2020-01-09,Michigan,Purdue,374,4,0:10,10,10,Zavier Simpson made Free Throw.,84,78,6,0,0.9989137321455706,0.9986734913790579,2,4,5.5,NA,NA,Michigan,made,Zavier Simpson,NA,FALSE,TRUE,Michigan,Purdue
+401166159,2020-01-09,Michigan,Purdue,375,4,0:05,5,5,Sasha Stefanovic missed Three Point Jumper.,84,78,6,5,0.9991176251238824,0.9989288184707279,2,4,5.5,NA,NA,Purdue,missed,Sasha Stefanovic,NA,TRUE,FALSE,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,376,4,0:02,2,2,Purdue Offensive Rebound.,84,78,6,3,0.9992227762064703,0.9990598361403993,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+401166159,2020-01-09,Michigan,Purdue,377,4,0:01,1,1,Isaiah Thompson Turnover.,84,78,6,1,0.9992551922732494,0.9991001254907949,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Michigan
+401166159,2020-01-09,Michigan,Purdue,378,4,0:00,0,0,End of 2nd overtime,84,78,6,1,1,1,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,NA
+401166159,2020-01-09,Michigan,Purdue,379,4,0:00,0,0,End of Game,84,78,6,0,1,1,2,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Michigan,NA

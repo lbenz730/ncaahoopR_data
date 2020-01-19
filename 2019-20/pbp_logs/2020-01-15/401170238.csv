@@ -1,0 +1,306 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401170238,2020-01-15,Duquesne,Fordham,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.943082070191451,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,2,1,19:32,2372,2672,Lamar Norman Jr. made Three Point Jumper. Assisted by Maceo Austin.,3,0,3,28,0.9555548188052227,0.5667055204091812,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Maceo Austin,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,3,1,19:09,2349,2649,Onyi Eyisi made Layup.,3,2,1,23,0.9470181663743228,0.5226022929662745,4,4,17.5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,4,1,18:44,2324,2624,Lamar Norman Jr. made Three Point Jumper. Assisted by Sincere Carry.,6,2,4,25,0.9589743099775832,0.590559724660528,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Sincere Carry,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,5,1,18:11,2291,2591,Jalen Cobb made Three Point Jumper. Assisted by Josh Colon.,6,5,1,33,0.9462498629321163,0.5232439877846887,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,Josh Colon,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,6,1,17:38,2258,2558,Sincere Carry missed Jumper.,6,5,1,33,0.9457805012199899,0.5236169023910233,4,4,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,7,1,17:36,2256,2556,Ivan Raut Defensive Rebound.,6,5,1,2,0.9457512563893847,0.523639656798127,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,8,1,17:25,2245,2545,Onyi Eyisi missed Dunk.,6,5,1,11,0.9455887286919161,0.5237650907820912,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,9,1,17:25,2245,2545,Duquesne Defensive Rebound.,6,5,1,0,0.9455887286919161,0.5237650907820912,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,10,1,17:25,2245,2545,Michael Hughes Block.,6,5,1,0,0.9455887286919161,0.5237650907820912,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,11,1,17:12,2232,2532,Lamar Norman Jr. missed Three Point Jumper.,6,5,1,13,0.9453929203191437,0.5239139165975408,4,4,17.5,NA,NA,Duquesne,missed,Lamar Norman Jr.,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,12,1,17:11,2231,2531,Fordham Defensive Rebound.,6,5,1,1,0.9453776880468031,0.5239253894801664,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,13,1,16:50,2210,2510,Ivan Raut made Three Point Jumper. Assisted by Jalen Cobb.,6,8,-2,21,0.9278834842477988,0.45177852332157903,4,4,17.5,NA,NA,Fordham,made,Ivan Raut,Jalen Cobb,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,14,1,16:30,2190,2490,Maceo Austin missed Jumper.,6,8,-2,20,0.927283023130161,0.45131910471459613,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,15,1,16:26,2186,2486,Ty Perry Defensive Rebound.,6,8,-2,4,0.9271609267718315,0.45122699359142715,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,16,1,16:03,2163,2463,Foul on Michael Hughes.,6,8,-2,23,0.926445653766682,0.45069604065537827,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,17,1,16:03,2163,2463,Onyi Eyisi missed Free Throw.,6,8,-2,0,0.926445653766682,0.45069604065537827,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,18,1,16:03,2163,2463,Fordham Offensive Rebound.,6,8,-2,0,0.926445653766682,0.45069604065537827,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,19,1,16:03,2163,2463,Onyi Eyisi made Free Throw.,6,9,-3,0,0.9194132497219637,0.42634282019557657,4,4,17.5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,TRUE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,20,1,15:39,2139,2439,Lamar Norman Jr. made Three Point Jumper. Assisted by Tavian Dunn-Martin.,9,9,0,24,0.9383234361975242,0.5,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Tavian Dunn-Martin,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,21,1,15:18,2118,2418,Kyle Rose missed Jumper.,9,9,0,21,0.9378550982438035,0.5,4,4,17.5,NA,NA,Fordham,missed,Kyle Rose,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,22,1,15:18,2118,2418,Marcus Weathers Block.,9,9,0,0,0.9378550982438035,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,23,1,15:12,2112,2412,Baylee Steele Defensive Rebound.,9,9,0,6,0.937718807071465,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,24,1,15:05,2105,2405,Foul on Onyi Eyisi.,9,9,0,7,0.9375584053608718,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,25,1,15:05,2105,2405,Official TV Timeout,9,9,0,0,0.9375584053608718,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,26,1,14:49,2089,2389,Tavian Dunn-Martin missed Three Point Jumper.,9,9,0,16,0.9371861228518314,0.5,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,27,1,14:45,2085,2385,Onyi Eyisi Defensive Rebound.,9,9,0,4,0.9370918224540168,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,28,1,14:39,2079,2379,Kyle Rose missed Three Point Jumper.,9,9,0,6,0.9369494484287699,0.5,4,4,17.5,NA,NA,Fordham,missed,Kyle Rose,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,29,1,14:35,2075,2375,Marcus Weathers Defensive Rebound.,9,9,0,4,0.9368539163933616,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,30,1,14:14,2054,2354,Marcus Weathers Turnover.,9,9,0,21,0.9363442762140916,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,31,1,14:14,2054,2354,Jalen Cobb Steal.,9,9,0,0,0.9363442762140916,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,32,1,13:48,2028,2328,Josh Colon missed Jumper.,9,9,0,26,0.9356944006766048,0.5,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,33,1,13:45,2025,2325,Marcus Weathers Defensive Rebound.,9,9,0,3,0.9356180667582062,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,34,1,13:39,2019,2319,Tavian Dunn-Martin Turnover.,9,9,0,6,0.9354645606365467,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,35,1,13:23,2003,2303,Jalen Cobb missed Three Point Jumper.,9,9,0,16,0.9350497399317288,0.5,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,36,1,13:19,1999,2299,Michael Hughes Defensive Rebound.,9,9,0,4,0.9349447897534982,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,37,1,13:08,1988,2288,Sincere Carry missed Layup.,9,9,0,11,0.9346536050429316,0.5,4,4,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,38,1,13:05,1985,2285,Joel Soriano Defensive Rebound.,9,9,0,3,0.9345735358330172,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,39,1,12:45,1965,2265,Jalen Cobb missed Jumper.,9,9,0,20,0.9340325531493797,0.5,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,40,1,12:45,1965,2265,Michael Hughes Defensive Rebound.,9,9,0,0,0.9340325531493797,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,41,1,12:45,1965,2265,Michael Hughes Block.,9,9,0,0,0.9340325531493797,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,42,1,12:42,1962,2262,Chris Austin missed Jumper.,9,9,0,3,0.933950326180857,0.5,4,4,17.5,NA,NA,Fordham,missed,Chris Austin,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,43,1,12:38,1958,2258,Maceo Austin Defensive Rebound.,9,9,0,4,0.9338402515598523,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,44,1,12:10,1930,2230,Lamar Norman Jr. made Three Point Jumper. Assisted by Tavian Dunn-Martin.,12,9,3,28,0.9510033272097117,0.5820420118260582,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Tavian Dunn-Martin,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,45,1,11:53,1913,2213,Chris Austin missed Three Point Jumper.,12,9,3,17,0.9507624486776832,0.582688810253609,4,4,17.5,NA,NA,Fordham,missed,Chris Austin,NA,TRUE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,46,1,11:53,1913,2213,Jalen Cobb Offensive Rebound.,12,9,3,0,0.9507624486776832,0.582688810253609,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,47,1,11:33,1893,2193,Joel Soriano missed Layup.,12,9,3,20,0.9504690889121616,0.5834480717837793,4,4,17.5,NA,NA,Fordham,missed,Joel Soriano,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,48,1,11:33,1893,2193,Baylee Steele Defensive Rebound.,12,9,3,0,0.9504690889121616,0.5834480717837793,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,49,1,11:33,1893,2193,Tavian Dunn-Martin missed Three Point Jumper.,12,9,3,0,0.9504690889121616,0.5834480717837793,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,50,1,11:06,1866,2166,Baylee Steele Offensive Rebound.,12,9,3,27,0.9500570541638482,0.5844732693805441,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,51,1,11:06,1866,2166,Foul on Joel Soriano.,12,9,3,0,0.9500570541638482,0.5844732693805441,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,52,1,11:06,1866,2166,Official TV Timeout,12,9,3,0,0.9500570541638482,0.5844732693805441,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,53,1,11:06,1866,2166,Baylee Steele missed Free Throw.,12,9,3,0,0.9500570541638482,0.5844732693805441,4,4,17.5,NA,NA,Duquesne,missed,Baylee Steele,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,54,1,11:06,1866,2166,Duquesne Offensive Rebound.,12,9,3,0,0.9500570541638482,0.5844732693805441,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,55,1,11:06,1866,2166,Baylee Steele made Free Throw.,13,9,4,0,0.9551850000935799,0.6118001680963009,4,4,17.5,NA,NA,Duquesne,made,Baylee Steele,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,56,1,10:43,1843,2143,Josh Colon missed Jumper.,13,9,4,23,0.9549081072257148,0.6129427976650662,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,57,1,10:43,1843,2143,Baylee Steele Defensive Rebound.,13,9,4,0,0.9549081072257148,0.6129427976650662,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,58,1,10:36,1836,2136,Baylee Steele made Layup. Assisted by Lamar Norman Jr..,15,9,6,7,0.963788651833157,0.66635736786108,4,4,17.5,NA,NA,Duquesne,made,Baylee Steele,Lamar Norman Jr,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,59,1,10:13,1813,2113,Foul on Maceo Austin.,15,9,6,23,0.963640507847704,0.6679770071739237,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,60,1,10:07,1807,2107,Jalen Cobb Turnover.,15,9,6,6,0.9636011049470009,0.668401673166083,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,61,1,9:53,1793,2093,Maceo Austin made Three Point Jumper. Assisted by Michael Hughes.,18,9,9,14,0.9740735043891194,0.7423440029146154,4,4,17.5,NA,NA,Duquesne,made,Maceo Austin,Michael Hughes,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,62,1,9:22,1762,2062,Ty Perry made Three Point Jumper.,18,12,6,31,0.9632985744811112,0.6716263549779672,4,4,17.5,NA,NA,Fordham,made,Ty Perry,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,63,1,8:59,1739,2039,Michael Hughes made Jumper. Assisted by Maceo Austin.,20,12,8,23,0.9708061851566915,0.7239727028726731,4,4,17.5,NA,NA,Duquesne,made,Michael Hughes,Maceo Austin,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,64,1,8:31,1711,2011,Onyi Eyisi missed Jumper.,20,12,8,28,0.9707434582141221,0.7265003986364933,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,65,1,8:26,1706,2006,Marcus Weathers Defensive Rebound.,20,12,8,5,0.9707327188001293,0.7269575069377275,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,66,1,8:03,1683,1983,Lamar Norman Jr. missed Three Point Jumper.,20,12,8,23,0.970684396888653,0.7290790640489923,4,4,17.5,NA,NA,Duquesne,missed,Lamar Norman Jr.,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,67,1,7:59,1679,1979,Onyi Eyisi Defensive Rebound.,20,12,8,4,0.9706747182310613,0.7294446410355339,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,68,1,7:46,1666,1966,Jalen Cobb missed Jumper.,20,12,8,13,0.9706385787007076,0.7306166352181016,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,69,1,7:35,1655,1955,Onyi Eyisi Offensive Rebound.,20,12,8,11,0.9706028696113876,0.7315912815353478,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,70,1,7:35,1655,1955,Onyi Eyisi made Layup.,20,14,6,0,0.9625414647806618,0.6796215909290247,4,4,17.5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,71,1,7:23,1643,1943,Foul on Ty Perry.,20,14,6,12,0.9624379715579888,0.6804939212147533,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,72,1,7:23,1643,1943,Marcus Weathers made Free Throw.,21,14,7,0,0.9667370721535097,0.7072467866619507,4,4,17.5,NA,NA,Duquesne,made,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,73,1,7:23,1643,1943,Marcus Weathers missed Free Throw.,21,14,7,0,0.9667370721535097,0.7072467866619507,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,74,1,7:21,1641,1941,Onyi Eyisi Defensive Rebound.,21,14,7,2,0.9667248253635995,0.7074072042519296,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,75,1,7:03,1623,1923,Josh Colon missed Three Point Jumper.,21,14,7,18,0.9666092178729193,0.7088393031797384,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,76,1,6:58,1618,1918,Marcus Weathers Defensive Rebound.,21,14,7,5,0.9665755707290932,0.7092341573492061,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,77,1,6:40,1600,1900,Marcus Weathers Turnover.,21,14,7,18,0.9664500287223674,0.7106495438336919,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,78,1,6:33,1593,1893,Ty Perry made Three Point Jumper. Assisted by Kyle Rose.,21,17,4,7,0.9513304472663451,0.6259729594833395,4,4,17.5,NA,NA,Fordham,made,Ty Perry,Kyle Rose,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,79,1,6:13,1573,1873,Marcus Weathers missed Layup.,21,17,4,20,0.9509680308875074,0.6269980294192325,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,80,1,6:08,1568,1868,Onyi Eyisi Defensive Rebound.,21,17,4,5,0.9508762921844964,0.6272557377956296,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,81,1,5:52,1552,1852,Jalen Cobb made Jumper.,21,19,2,16,0.9367144964928381,0.5651299807247411,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,82,1,5:31,1531,1831,Maceo Austin missed Three Point Jumper.,21,19,2,21,0.9360795870693651,0.5657144124175519,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,83,1,5:27,1527,1827,Onyi Eyisi Defensive Rebound.,21,19,2,4,0.9359579334623104,0.5658275122425703,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,84,1,5:19,1519,1819,Jalen Cobb made Three Point Jumper. Assisted by Kyle Rose.,21,22,-1,8,0.9071486185928099,0.4668267635341371,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,Kyle Rose,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,85,1,4:58,1498,1798,Maceo Austin made Layup. Assisted by Michael Hughes.,23,22,1,21,0.9264380351815208,0.5334840792704789,4,4,17.5,NA,NA,Duquesne,made,Maceo Austin,Michael Hughes,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,86,1,4:43,1483,1783,Josh Colon Turnover.,23,22,1,15,0.9258608367780963,0.5337137347370322,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,87,1,4:31,1471,1771,Sincere Carry missed Layup.,23,22,1,12,0.9253985885326572,0.533902744416709,4,4,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,88,1,4:31,1471,1771,Joel Soriano Block.,23,22,1,0,0.9253985885326572,0.533902744416709,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,89,1,4:30,1470,1770,Fordham Defensive Rebound.,23,22,1,1,0.9253600740368041,0.5339187239103417,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,90,1,4:04,1444,1744,Jalen Cobb made Jumper.,23,24,-1,26,0.9027275785677485,0.4656536654037804,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,91,1,3:53,1433,1733,Official TV Timeout,23,24,-1,11,0.9020587696295188,0.4654736588957837,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,92,1,3:53,1433,1733,Foul on Josh Colon.,23,24,-1,0,0.9020587696295188,0.4654736588957837,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,93,1,3:53,1433,1733,Foul on Duquesne.,23,24,-1,0,0.9020587696295188,0.4654736588957837,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,94,1,3:53,1433,1733,Tavian Dunn-Martin missed Free Throw.,23,24,-1,0,0.9020587696295188,0.4654736588957837,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,95,1,3:53,1433,1733,Duquesne Offensive Rebound.,23,24,-1,0,0.9020587696295188,0.4654736588957837,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,96,1,3:53,1433,1733,Tavian Dunn-Martin made Free Throw.,24,24,0,0,0.9136183430204404,0.5,4,4,17.5,NA,NA,Duquesne,made,Tavian Dunn-Martin,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,97,1,3:53,1433,1733,Tavian Dunn-Martin made Free Throw.,25,24,1,0,0.923928645421229,0.5345263411042163,4,4,17.5,NA,NA,Duquesne,made,Tavian Dunn-Martin,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,98,1,3:38,1418,1718,Ivan Raut missed Three Point Jumper.,25,24,1,15,0.9233281827343275,0.534765886565718,4,4,17.5,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,99,1,3:33,1413,1713,Tavian Dunn-Martin Defensive Rebound.,25,24,1,5,0.9231248761703912,0.5348444707603277,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,100,1,3:22,1402,1702,Sincere Carry Turnover.,25,24,1,11,0.9226723399503495,0.5350155762619505,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,101,1,3:22,1402,1702,Jalen Cobb Steal.,25,24,1,0,0.9226723399503495,0.5350155762619505,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,102,1,3:16,1396,1696,Jalen Cobb missed Jumper.,25,24,1,6,0.9224225725607619,0.5351080582733805,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,103,1,3:14,1394,1694,Marcus Weathers Defensive Rebound.,25,24,1,2,0.9223388736988042,0.5351387773616841,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,104,1,3:13,1393,1693,Foul on Jalen Cobb.,25,24,1,1,0.922296942669793,0.5351541188126745,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,105,1,2:59,1379,1679,Marcus Weathers missed Layup.,25,24,1,14,0.921704394014448,0.5353679239274404,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,106,1,2:55,1375,1675,Ty Perry Defensive Rebound.,25,24,1,4,0.9215332803610551,0.5354287883717018,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,107,1,2:45,1365,1665,Kyle Rose missed Three Point Jumper.,25,24,1,10,0.9211021916979816,0.5355808362077563,4,4,17.5,NA,NA,Fordham,missed,Kyle Rose,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,108,1,2:42,1362,1662,Marcus Weathers Defensive Rebound.,25,24,1,3,0.9209719828498986,0.5356264730872795,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,109,1,2:37,1357,1657,Baylee Steele made Layup. Assisted by Tavian Dunn-Martin.,27,24,3,5,0.939274568366336,0.6056734917507002,4,4,17.5,NA,NA,Duquesne,made,Baylee Steele,Tavian Dunn-Martin,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,110,1,2:06,1326,1626,Ty Perry made Three Point Jumper. Assisted by Jalen Cobb.,27,27,0,31,0.9079620479425261,0.5,4,4,17.5,NA,NA,Fordham,made,Ty Perry,Jalen Cobb,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,111,1,1:54,1314,1614,Tavian Dunn-Martin missed Layup.,27,27,0,12,0.9072895534385981,0.5,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,112,1,1:54,1314,1614,Onyi Eyisi Block.,27,27,0,0,0.9072895534385981,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,113,1,1:48,1308,1608,Ty Perry Defensive Rebound.,27,27,0,6,0.9069509588899801,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,114,1,1:42,1302,1602,Ty Perry missed Three Point Jumper.,27,27,0,6,0.9066108738054475,0.5,4,4,17.5,NA,NA,Fordham,missed,Ty Perry,NA,TRUE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,115,1,1:39,1299,1599,Onyi Eyisi Offensive Rebound.,27,27,0,3,0.906440290013319,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,116,1,1:37,1297,1597,Onyi Eyisi missed Layup.,27,27,0,2,0.906326371878398,0.5,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,117,1,1:37,1297,1597,Michael Hughes Block.,27,27,0,0,0.906326371878398,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,118,1,1:27,1287,1587,Tavian Dunn-Martin Defensive Rebound.,27,27,0,10,0.9057545143701334,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,119,1,1:09,1269,1569,Foul on Kyle Rose.,27,27,0,18,0.9047163390610854,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,120,1,0:49,1249,1549,Tavian Dunn-Martin missed Three Point Jumper.,27,27,0,20,0.9035512039265537,0.5,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,121,1,0:45,1245,1545,Josh Colon Defensive Rebound.,27,27,0,4,0.903316905491536,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,122,1,0:23,1223,1523,Onyi Eyisi missed Layup.,27,27,0,22,0.9020220054825673,0.5,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,123,1,0:23,1223,1523,Michael Hughes Block.,27,27,0,0,0.9020220054825673,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,124,1,0:16,1216,1516,Josh Colon Offensive Rebound.,27,27,0,7,0.9016081157586167,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,125,1,0:11,1211,1511,Ivan Raut made Three Point Jumper. Assisted by Jalen Cobb.,27,30,-3,5,0.8522069484898979,0.38701616770361014,4,4,17.5,NA,NA,Fordham,made,Ivan Raut,Jalen Cobb,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,126,1,0:00,1200,1500,Tavian Dunn-Martin missed Jumper.,27,30,-3,11,0.8509272613015881,0.38634786325026177,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,FALSE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,127,1,0:00,1200,1500,Duquesne Offensive Rebound.,27,30,-3,0,0.8509272613015881,0.38634786325026177,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,128,1,0:00,1200,1500,End of 1st half,27,30,-3,0,0.8509272613015881,0.38634786325026177,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,NA
+401170238,2020-01-15,Duquesne,Fordham,129,2,20:00,1200,1500,PLAY,27,30,-3,0,0.8509272613015881,0.38634786325026177,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,130,2,19:47,1187,1487,Maceo Austin Turnover.,27,30,-3,13,0.8494198378832521,0.38557680520176574,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,131,2,19:47,1187,1487,Jalen Cobb Steal.,27,30,-3,0,0.8494198378832521,0.38557680520176574,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,132,2,19:20,1160,1460,Jalen Cobb missed Three Point Jumper.,27,30,-3,27,0.8462928674822994,0.38402307915424205,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,133,2,19:15,1155,1455,Onyi Eyisi Offensive Rebound.,27,30,-3,5,0.8457125074435996,0.3837400781184905,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,134,2,19:04,1144,1444,Jalen Cobb made Jumper.,27,32,-5,11,0.7980309805156884,0.311337122815824,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,135,2,19:04,1144,1444,Foul on Michael Hughes.,27,32,-5,0,0.7980309805156884,0.311337122815824,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,136,2,19:04,1144,1444,Jalen Cobb made Free Throw.,27,33,-6,0,0.7712279682299752,0.278352068512632,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,TRUE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,137,2,18:35,1115,1415,Lamar Norman Jr. made Three Point Jumper. Assisted by Sincere Carry.,30,33,-3,29,0.8410197508132831,0.3814872987700025,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Sincere Carry,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,138,2,17:53,1073,1373,Onyi Eyisi Turnover.,30,33,-3,42,0.835909340986835,0.37904702653987343,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,139,2,17:53,1073,1373,Michael Hughes Steal.,30,33,-3,0,0.835909340986835,0.37904702653987343,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,140,2,17:53,1073,1373,Foul on Onyi Eyisi.,30,33,-3,0,0.835909340986835,0.37904702653987343,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,141,2,17:42,1062,1362,Maceo Austin Turnover.,30,33,-3,11,0.8345231365808732,0.3783779054819348,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,142,2,17:18,1038,1338,Ivan Raut made Three Point Jumper. Assisted by Jalen Cobb.,30,36,-6,24,0.7488936585417906,0.2677940220492321,4,4,17.5,NA,NA,Fordham,made,Ivan Raut,Jalen Cobb,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,143,2,17:02,1022,1322,Foul on Onyi Eyisi.,30,36,-6,16,0.745135475286387,0.26600230232393024,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,144,2,16:56,1016,1316,Lamar Norman Jr. made Three Point Jumper. Assisted by Michael Hughes.,33,36,-3,6,0.8284244256897273,0.37536264183602247,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,Michael Hughes,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,145,2,16:32,992,1292,Ty Perry Turnover.,33,36,-3,24,0.8250000655629001,0.3736076979620096,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,146,2,16:08,968,1268,Baylee Steele missed Three Point Jumper.,33,36,-3,24,0.8213699008443428,0.3716961737429778,4,4,17.5,NA,NA,Duquesne,missed,Baylee Steele,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,147,2,16:07,967,1267,Fordham Defensive Rebound.,33,36,-3,1,0.8212160132976163,0.37161467912457175,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,148,2,15:44,944,1244,Jalen Cobb Turnover.,33,36,-3,23,0.8178176336389958,0.3698623199089921,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,149,2,15:44,944,1244,Official TV Timeout,33,36,-3,0,0.8178176336389958,0.3698623199089921,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,150,2,15:24,924,1224,Foul on Joel Soriano.,33,36,-3,20,0.8150427133097791,0.36849259501230297,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,151,2,15:16,916,1216,Sincere Carry missed Three Point Jumper.,33,36,-3,8,0.8139672317437691,0.36797400794616564,4,4,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,152,2,15:16,916,1216,Baylee Steele Offensive Rebound.,33,36,-3,0,0.8139672317437691,0.36797400794616564,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,153,2,15:16,916,1216,Foul on Jalen Cobb.,33,36,-3,0,0.8139672317437691,0.36797400794616564,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,154,2,14:59,899,1199,Tavian Dunn-Martin Turnover.,33,36,-3,17,0.8117254030749516,0.3669095868979556,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,155,2,14:44,884,1184,Ty Perry missed Three Point Jumper.,33,36,-3,15,0.809773750250595,0.3659948216813574,4,4,17.5,NA,NA,Fordham,missed,Ty Perry,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,156,2,14:40,880,1180,Lamar Norman Jr. Defensive Rebound.,33,36,-3,4,0.8092541665136939,0.36575219406396603,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,157,2,14:36,876,1176,Tavian Dunn-Martin missed Three Point Jumper.,33,36,-3,4,0.8087340287811385,0.36550943166924993,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,158,2,14:32,872,1172,Joel Soriano Defensive Rebound.,33,36,-3,4,0.8082128529261531,0.36526617712653187,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,159,2,14:22,862,1162,Ty Perry Turnover.,33,36,-3,10,0.8069021580291819,0.3646535460524669,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,160,2,14:09,849,1149,Maceo Austin missed Three Point Jumper.,33,36,-3,13,0.8051712316484883,0.3638400418538288,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,161,2,14:04,844,1144,Ty Perry Defensive Rebound.,33,36,-3,5,0.804494037575707,0.36351968276771635,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,162,2,13:40,820,1120,Josh Colon missed Three Point Jumper.,33,36,-3,24,0.8011153765985719,0.36189725019006946,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,163,2,13:36,816,1116,Baylee Steele Defensive Rebound.,33,36,-3,4,0.8005265220958232,0.36160982412589665,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,164,2,13:32,812,1112,Foul on Tavian Dunn-Martin.,33,36,-3,4,0.7999288626950224,0.3613165994841882,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,165,2,13:32,812,1112,Tavian Dunn-Martin Turnover.,33,36,-3,0,0.7999288626950224,0.3613165994841882,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,166,2,13:01,781,1081,Josh Colon missed Three Point Jumper.,33,36,-3,31,0.794936315832362,0.3588091256476457,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,167,2,12:56,776,1076,Sincere Carry Defensive Rebound.,33,36,-3,5,0.794060358854538,0.3583592209228534,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,168,2,12:55,775,1075,Foul on Chris Austin.,33,36,-3,1,0.7938824662563504,0.3582675253416958,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,169,2,12:48,768,1068,Tavian Dunn-Martin missed Jumper.,33,36,-3,7,0.7926108431315583,0.3576090058539153,4,4,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,170,2,12:48,768,1068,Fordham Defensive Rebound.,33,36,-3,0,0.7926108431315583,0.3576090058539153,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,171,2,12:23,743,1043,Jalen Cobb missed Jumper.,33,36,-3,25,0.7876491281733837,0.3549960014746966,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,172,2,12:19,739,1039,Baylee Steele Defensive Rebound.,33,36,-3,4,0.7867872547738134,0.3545364016851935,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,173,2,12:13,733,1033,Foul on Sincere Carry.,33,36,-3,6,0.7854555942769762,0.3538237093689018,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,174,2,12:13,733,1033,Sincere Carry Turnover.,33,36,-3,0,0.7854555942769762,0.3538237093689018,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,175,2,12:12,732,1032,Fordham  Turnover.,33,36,-3,1,0.7852289792748263,0.35370214388473203,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,176,2,12:12,732,1032,Official TV Timeout,33,36,-3,0,0.7852289792748263,0.35370214388473203,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,177,2,12:06,726,1026,Ty Perry missed Layup.,33,36,-3,6,0.783858840944225,0.3529700812536586,4,4,17.5,NA,NA,Fordham,missed,Ty Perry,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,178,2,12:06,726,1026,Maceo Austin Block.,33,36,-3,0,0.783858840944225,0.3529700812536586,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,179,2,12:01,721,1021,Maceo Austin Defensive Rebound.,33,36,-3,5,0.7827375252342097,0.35238309580782573,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,180,2,11:43,703,1003,Lamar Norman Jr. missed Three Point Jumper.,33,36,-3,18,0.7788521526061265,0.35043565133041177,4,4,17.5,NA,NA,Duquesne,missed,Lamar Norman Jr.,NA,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,181,2,11:39,699,999,Onyi Eyisi Defensive Rebound.,33,36,-3,4,0.7780143933537509,0.35003202328635535,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,182,2,11:26,686,986,Josh Colon Turnover.,33,36,-3,13,0.7753341741053781,0.34877372234402615,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,183,2,11:26,686,986,Sincere Carry Steal.,33,36,-3,0,0.7753341741053781,0.34877372234402615,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,184,2,11:09,669,969,Maceo Austin missed Three Point Jumper.,33,36,-3,17,0.7718762307294422,0.3472078836431557,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,185,2,11:03,663,963,Michael Hughes Offensive Rebound.,33,36,-3,6,0.770653438721257,0.3466642955419774,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,186,2,11:00,660,960,Michael Hughes made Dunk.,35,36,-1,3,0.8364192627890847,0.44728542487974876,4,4,17.5,NA,NA,Duquesne,made,Michael Hughes,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,187,2,10:59,659,959,Foul on Michael Hughes.,35,36,-1,1,0.8362972685605873,0.44725241377354186,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,188,2,10:59,659,959,Jalen Cobb missed Free Throw.,35,36,-1,0,0.8362972685605873,0.44725241377354186,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,TRUE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,189,2,10:59,659,959,Fordham Offensive Rebound.,35,36,-1,0,0.8362972685605873,0.44725241377354186,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,190,2,10:59,659,959,Jalen Cobb made Free Throw.,35,37,-2,0,0.8052056981318999,0.3956659849446598,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,TRUE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,191,2,10:39,639,939,Jalen Cobb missed Jumper.,35,37,-2,20,0.8019263596583468,0.3943630355660738,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,192,2,10:35,635,935,Onyi Eyisi Offensive Rebound.,35,37,-2,4,0.80125003919829,0.3940923573368277,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,193,2,10:30,630,930,Onyi Eyisi missed Jumper.,35,37,-2,5,0.8003919861433486,0.3937470009501744,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,194,2,10:27,627,927,Josh Colon Offensive Rebound.,35,37,-2,3,0.7998697159226672,0.3935355471664673,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,195,2,10:23,623,923,Chris Austin missed Three Point Jumper.,35,37,-2,4,0.7991638635496344,0.3932480771524287,4,4,17.5,NA,NA,Fordham,missed,Chris Austin,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,196,2,10:23,623,923,Duquesne Defensive Rebound.,35,37,-2,0,0.7991638635496344,0.3932480771524287,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,197,2,10:13,613,913,Lamar Norman Jr. missed Three Point Jumper.,35,37,-2,10,0.7973459207599464,0.392497607084674,4,4,17.5,NA,NA,Duquesne,missed,Lamar Norman Jr.,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,198,2,10:13,613,913,Michael Hughes Offensive Rebound.,35,37,-2,0,0.7973459207599464,0.392497607084674,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,199,2,10:10,610,910,Foul on Josh Colon.,35,37,-2,3,0.7967840340918375,0.39226245838930834,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,200,2,10:07,607,907,Sincere Carry Turnover.,35,37,-2,3,0.7962138021632309,0.39202219190052895,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,201,2,10:07,607,907,Josh Colon Steal.,35,37,-2,0,0.7962138021632309,0.39202219190052895,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,202,2,9:50,590,890,Ty Perry Turnover.,35,37,-2,17,0.7928045970029709,0.39055051156281106,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,203,2,9:37,577,877,Michael Hughes made Jumper. Assisted by Sincere Carry.,37,37,0,13,0.8550825239130941,0.5,4,4,17.5,NA,NA,Duquesne,made,Michael Hughes,Sincere Carry,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,204,2,9:37,577,877,Foul on Josh Colon.,37,37,0,0,0.8550825239130941,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,205,2,9:37,577,877,Michael Hughes made Free Throw.,38,37,1,0,0.8808191790573903,0.5560575804932644,4,4,17.5,NA,NA,Duquesne,made,Michael Hughes,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,206,2,9:06,546,846,Josh Colon missed Jumper.,38,37,1,31,0.8783521496326254,0.5579686436124873,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,207,2,9:02,542,842,Onyi Eyisi Offensive Rebound.,38,37,1,4,0.8780210414488124,0.5582235918514536,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,208,2,9:01,541,841,Onyi Eyisi made Jumper.,38,39,-1,1,0.8182649311949783,0.4417145083191431,4,4,17.5,NA,NA,Fordham,made,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,209,2,8:46,526,826,Maceo Austin Turnover.,38,39,-1,15,0.8154999273662281,0.4408587103236151,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,210,2,8:46,526,826,Ivan Raut Steal.,38,39,-1,0,0.8154999273662281,0.4408587103236151,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,211,2,8:28,508,808,Onyi Eyisi Turnover.,38,39,-1,18,0.8122817271201404,0.43994659728510555,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,212,2,8:28,508,808,Maceo Austin Steal.,38,39,-1,0,0.8122817271201404,0.43994659728510555,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,213,2,8:24,504,804,Foul on Chris Austin.,38,39,-1,4,0.8115664490423989,0.439750437247205,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,214,2,8:24,504,804,Marcus Weathers missed Free Throw.,38,39,-1,0,0.8115664490423989,0.439750437247205,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,215,2,8:24,504,804,Onyi Eyisi Defensive Rebound.,38,39,-1,0,0.8115664490423989,0.439750437247205,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,216,2,7:59,479,779,Onyi Eyisi missed Jumper.,38,39,-1,25,0.806931514059508,0.43846871941156573,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,217,2,7:55,475,775,Sincere Carry Defensive Rebound.,38,39,-1,4,0.8061445538707741,0.4382424410834425,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,218,2,7:38,458,758,Sincere Carry made Three Point Jumper. Assisted by Tavian Dunn-Martin.,41,39,2,17,0.8966479664803099,0.6237202285577227,4,4,17.5,NA,NA,Duquesne,made,Sincere Carry,Tavian Dunn-Martin,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,219,2,7:18,438,738,Jalen Cobb missed Jumper.,41,39,2,20,0.8956657289088995,0.6267905898391068,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,220,2,7:18,438,738,Sincere Carry Block.,41,39,2,0,0.8956657289088995,0.6267905898391068,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,221,2,7:18,438,738,Duquesne Defensive Rebound.,41,39,2,0,0.8956657289088995,0.6267905898391068,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,222,2,7:15,435,735,Official TV Timeout,41,39,2,3,0.8955254168023935,0.6273277779049133,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,223,2,7:00,420,720,Fordham  Turnover.,41,39,2,15,0.8947933277447303,0.630160175578846,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,224,2,6:35,395,695,Sincere Carry missed Jumper.,41,39,2,25,0.8931735613326326,0.6344822451457799,4,4,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,225,2,6:30,390,690,Onyi Eyisi Defensive Rebound.,41,39,2,5,0.8928060384219276,0.6353264483621032,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,226,2,6:25,385,685,Chris Austin made Jumper. Assisted by Kyle Rose.,41,41,0,5,0.8259208928502191,0.5,4,4,17.5,NA,NA,Fordham,made,Chris Austin,Kyle Rose,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,227,2,6:02,362,662,Lamar Norman Jr. made Jumper.,43,41,2,23,0.8906499438681672,0.6403452098856208,4,4,17.5,NA,NA,Duquesne,made,Lamar Norman Jr.,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,228,2,5:31,331,631,Josh Colon made Three Point Jumper.,43,44,-1,31,0.7620394779029264,0.4246427777110048,4,4,17.5,NA,NA,Fordham,made,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,229,2,5:10,310,610,Marcus Weathers made Three Point Jumper. Assisted by Sincere Carry.,46,44,2,21,0.8874042712777328,0.653642055101296,4,4,17.5,NA,NA,Duquesne,made,Marcus Weathers,Sincere Carry,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,230,2,4:45,285,585,Josh Colon missed Three Point Jumper.,46,44,2,25,0.8842126698845915,0.6568975978012273,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,231,2,4:41,281,581,Sincere Carry Defensive Rebound.,46,44,2,4,0.8833726377150056,0.6567014063507581,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,232,2,4:35,275,575,Marcus Weathers made Layup. Assisted by Sincere Carry.,48,44,4,6,0.934489606261828,0.7845947414026895,4,4,17.5,NA,NA,Duquesne,made,Marcus Weathers,Sincere Carry,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,233,2,4:35,275,575,Foul on Chris Austin.,48,44,4,0,0.934489606261828,0.7845947414026895,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,234,2,4:35,275,575,Marcus Weathers made Free Throw.,49,44,5,0,0.9517062020360134,0.8342161475611947,4,4,17.5,NA,NA,Duquesne,made,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,235,2,4:31,271,571,Foul on Sincere Carry.,49,44,5,4,0.9511313341034344,0.8335121871299697,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,236,2,4:05,245,545,Josh Colon missed Three Point Jumper.,49,44,5,26,0.9470377741802087,0.828499378371002,4,4,17.5,NA,NA,Fordham,missed,Josh Colon,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,237,2,4:01,241,541,Marcus Weathers Defensive Rebound.,49,44,5,4,0.9465028197323546,0.8281039346531525,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,238,2,3:47,227,527,Michael Hughes missed Jumper.,49,44,5,14,0.9452828705250258,0.8287358080864842,4,4,17.5,NA,NA,Duquesne,missed,Michael Hughes,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,239,2,3:46,226,526,Josh Colon Defensive Rebound.,49,44,5,1,0.9452467183145686,0.8289315123153727,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,240,2,3:46,226,526,Foul on Michael Hughes.,49,44,5,0,0.9452467183145686,0.8289315123153727,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,241,2,3:46,226,526,Official TV Timeout,49,44,5,0,0.9452467183145686,0.8289315123153727,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,242,2,3:21,201,501,Onyi Eyisi missed Layup.,49,44,5,25,0.9475455022366837,0.8427019844702723,4,4,17.5,NA,NA,Fordham,missed,Onyi Eyisi,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,243,2,3:18,198,498,Maceo Austin Defensive Rebound.,49,44,5,3,0.9483036863006155,0.8456522974128022,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,244,2,2:52,172,472,Maceo Austin missed Three Point Jumper.,49,44,5,26,0.9572292857907073,0.877024204820258,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,245,2,2:48,168,468,Michael Hughes Offensive Rebound.,49,44,5,4,0.9585876934691141,0.8816895391139155,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,246,2,2:46,166,466,Michael Hughes Turnover.,49,44,5,2,0.9592635266977113,0.8839994994293658,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,247,2,2:36,156,456,Ivan Raut missed Three Point Jumper.,49,44,5,10,0.9626279378403755,0.8953667982414565,4,4,17.5,NA,NA,Fordham,missed,Ivan Raut,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,248,2,2:32,152,452,Marcus Weathers Defensive Rebound.,49,44,5,4,0.9639736411359252,0.8998437190197522,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,249,2,2:21,141,441,Foul on Onyi Eyisi.,49,44,5,11,0.9676932334273495,0.9119848348636777,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,250,2,2:21,141,441,Maceo Austin made Free Throw.,50,44,6,0,0.9795129258544688,0.9429850587218213,4,4,17.5,NA,NA,Duquesne,made,Maceo Austin,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,251,2,2:21,141,441,Maceo Austin missed Free Throw.,50,44,6,0,0.9795129258544688,0.9429850587218213,4,4,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,252,2,2:20,140,440,Marcus Weathers Offensive Rebound.,50,44,6,1,0.9797852958695784,0.9438609698671054,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,253,2,2:19,139,439,Foul on Ivan Raut.,50,44,6,1,0.9800570134813641,0.9447323032536685,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,254,2,2:19,139,439,Marcus Weathers missed Free Throw.,50,44,6,0,0.9800570134813641,0.9447323032536685,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,255,2,2:19,139,439,Duquesne Offensive Rebound.,50,44,6,0,0.9800570134813641,0.9447323032536685,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,256,2,2:19,139,439,Marcus Weathers made Free Throw.,51,44,7,0,0.9874802865403692,0.964832489957789,4,4,17.5,NA,NA,Duquesne,made,Marcus Weathers,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,257,2,1:57,117,417,Jalen Cobb made Jumper.,51,46,5,22,0.9758869166283715,0.9374400841505726,4,4,17.5,NA,NA,Fordham,made,Jalen Cobb,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,258,2,1:32,92,392,Maceo Austin Turnover.,51,46,5,25,0.9840638254646837,0.9610317950411088,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,259,2,1:17,77,377,Ty Perry made Three Point Jumper. Assisted by Josh Colon.,51,49,2,15,0.9080597247933713,0.8053216373900555,4,4,17.5,NA,NA,Fordham,made,Ty Perry,Josh Colon,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,260,2,0:43,43,343,Marcus Weathers missed Jumper.,51,49,2,34,0.9269024378395373,0.8561884157038872,4,4,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,261,2,0:41,41,341,Josh Colon Defensive Rebound.,51,49,2,2,0.9280273195464581,0.859085039816666,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,262,2,0:23,23,323,Onyi Eyisi made Jumper. Assisted by Jalen Cobb.,51,51,0,18,0.664781750581919,0.5,4,4,17.5,NA,NA,Fordham,made,Onyi Eyisi,Jalen Cobb,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,263,2,0:04,4,304,Sincere Carry Turnover.,51,51,0,19,0.6487948176969882,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,264,2,0:04,4,304,Fordham  Turnover.,51,51,0,0,0.6487948176969882,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,265,2,0:00,300,300,Jalen Cobb missed Jumper.,51,51,0,4,0.8039074297745471,0.5,4,4,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,FALSE,FALSE,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,266,2,0:00,300,300,Fordham Offensive Rebound.,51,51,0,0,0.8039074297745471,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Fordham
+401170238,2020-01-15,Duquesne,Fordham,267,2,0:00,300,300,End of 2nd half,51,51,0,0,0.8039074297745471,0.5,4,4,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,NA
+401170238,2020-01-15,Duquesne,Fordham,268,3,5:00,300,300,PLAY,51,51,0,0,0.8039074297745471,0.5,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,269,3,4:46,286,286,Michael Hughes missed Layup.,51,51,0,14,0.7998359968805386,0.5,5,5,17.5,NA,NA,Duquesne,missed,Michael Hughes,NA,FALSE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,270,3,4:40,280,280,Marcus Weathers Offensive Rebound.,51,51,0,6,0.7980749000826934,0.5,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,271,3,4:40,280,280,Marcus Weathers missed Layup.,51,51,0,0,0.7980749000826934,0.5,5,5,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,272,3,4:37,277,277,Ty Perry Defensive Rebound.,51,51,0,3,0.79718837023656,0.5,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,273,3,4:22,262,262,Ty Perry made Jumper. Assisted by Joel Soriano.,51,53,-2,15,0.6686642821462988,0.34548429737347536,5,5,17.5,NA,NA,Fordham,made,Ty Perry,Joel Soriano,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,274,3,3:59,239,239,Marcus Weathers missed Layup.,51,53,-2,23,0.6611385479174724,0.3478350100042756,5,5,17.5,NA,NA,Duquesne,missed,Marcus Weathers,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,275,3,3:59,239,239,Joel Soriano Block.,51,53,-2,0,0.6611385479174724,0.3478350100042756,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,276,3,3:53,233,233,Ty Perry Defensive Rebound.,51,53,-2,6,0.6584182348249376,0.3478146460132689,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,277,3,3:30,210,210,Joel Soriano missed Layup.,51,53,-2,23,0.6423763610074457,0.34291262801810646,5,5,17.5,NA,NA,Fordham,missed,Joel Soriano,NA,FALSE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,278,3,3:27,207,207,Michael Hughes Defensive Rebound.,51,53,-2,3,0.639420211049615,0.34154232703823945,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,279,3,3:13,193,193,Tavian Dunn-Martin made Three Point Jumper. Assisted by Sincere Carry.,54,53,1,14,0.8242196621415625,0.586337999629403,5,5,17.5,NA,NA,Duquesne,made,Tavian Dunn-Martin,Sincere Carry,TRUE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,280,3,2:52,172,172,Jalen Cobb missed Three Point Jumper.,54,53,1,21,0.8229628839996482,0.5969828835393769,5,5,17.5,NA,NA,Fordham,missed,Jalen Cobb,NA,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,281,3,2:49,169,169,Maceo Austin Defensive Rebound.,54,53,1,3,0.8227986456991908,0.5985651411216056,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,282,3,2:23,143,143,Sincere Carry missed Jumper.,54,53,1,26,0.8218935167066197,0.6135426192371547,5,5,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,283,3,2:23,143,143,Joel Soriano Block.,54,53,1,0,0.8218935167066197,0.6135426192371547,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,284,3,2:18,138,138,Joel Soriano Defensive Rebound.,54,53,1,5,0.8218839605959027,0.6167806867201858,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,285,3,2:03,123,123,Kyle Rose Turnover.,54,53,1,15,0.8223242867285846,0.627431565993633,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,286,3,1:49,109,109,Tavian Dunn-Martin missed Three Point Jumper.,54,53,1,14,0.8235158523381094,0.638864218155905,5,5,17.5,NA,NA,Duquesne,missed,Tavian Dunn-Martin,NA,TRUE,FALSE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,287,3,1:47,107,107,Maceo Austin Offensive Rebound.,54,53,1,2,0.8237577038390809,0.6406299849009939,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,288,3,1:47,107,107,Maceo Austin missed Layup.,54,53,1,0,0.8237577038390809,0.6406299849009939,5,5,17.5,NA,NA,Duquesne,missed,Maceo Austin,NA,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,289,3,1:47,107,107,Kyle Rose Block.,54,53,1,0,0.8237577038390809,0.6406299849009939,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,290,3,1:47,107,107,Kyle Rose Defensive Rebound.,54,53,1,0,0.8237577038390809,0.6406299849009939,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,291,3,1:28,88,88,Kyle Rose Turnover.,54,53,1,19,0.8269586084185715,0.6590200042004464,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,292,3,1:28,88,88,Michael Hughes Steal.,54,53,1,0,0.8269586084185715,0.6590200042004464,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,293,3,1:10,70,70,Baylee Steele made Layup. Assisted by Maceo Austin.,56,53,3,18,0.9561182029607559,0.9032541821171107,5,5,17.5,NA,NA,Duquesne,made,Baylee Steele,Maceo Austin,FALSE,FALSE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,294,3,0:40,40,40,Ty Perry made Three Point Jumper. Assisted by Onyi Eyisi.,56,56,0,30,0.6782080885767391,0.5,5,5,17.5,NA,NA,Fordham,made,Ty Perry,Onyi Eyisi,TRUE,FALSE,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,295,3,0:21,21,21,Foul on Kyle Rose.,56,56,0,19,0.6631537207807813,0.5,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,296,3,0:21,21,21,Baylee Steele missed Free Throw.,56,56,0,0,0.6631537207807813,0.5,5,5,17.5,NA,NA,Duquesne,missed,Baylee Steele,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,297,3,0:21,21,21,Duquesne Offensive Rebound.,56,56,0,0,0.6631537207807813,0.5,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,298,3,0:21,21,21,Baylee Steele made Free Throw.,57,56,1,0,0.8463633639166864,0.7367177756567828,5,5,17.5,NA,NA,Duquesne,made,Baylee Steele,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,299,3,0:04,4,4,Josh Colon Turnover.,57,56,1,17,0.8532882401279516,0.7589408788562625,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,300,3,0:03,3,3,Foul on Jalen Cobb.,57,56,1,1,0.8537179659744539,0.7602658201596585,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,301,3,0:03,3,3,Sincere Carry made Free Throw.,58,56,2,0,0.9487389170850163,0.9095600412345216,5,5,17.5,NA,NA,Duquesne,made,Sincere Carry,NA,FALSE,TRUE,Duquesne,Duquesne
+401170238,2020-01-15,Duquesne,Fordham,302,3,0:03,3,3,Sincere Carry missed Free Throw.,58,56,2,0,0.9487389170850163,0.9095600412345216,5,5,17.5,NA,NA,Duquesne,missed,Sincere Carry,NA,FALSE,TRUE,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,303,3,0:03,3,3,Onyi Eyisi Defensive Rebound.,58,56,2,0,0.9487389170850163,0.9095600412345216,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Duquesne,Fordham
+401170238,2020-01-15,Duquesne,Fordham,304,3,0:00,0,0,End of 1st overtime,58,56,2,3,1,1,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,NA
+401170238,2020-01-15,Duquesne,Fordham,305,3,0:00,0,0,End of Game,58,56,2,0,1,1,5,5,17.5,NA,NA,NA,NA,NA,NA,NA,NA,Fordham,NA

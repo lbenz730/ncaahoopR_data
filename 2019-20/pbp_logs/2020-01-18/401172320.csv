@@ -1,0 +1,304 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172320,2020-01-18,Harvard,Dartmouth,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8538024751604798,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,2,1,19:43,2383,2383,Aaryn Rai missed Three Point Jumper.,0,0,0,17,0.853426818413882,0.5,4,4,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,3,1,19:43,2383,2383,Robert Baker Defensive Rebound.,0,0,0,0,0.853426818413882,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,4,1,19:40,2380,2380,Foul on Chris Knight.,0,0,0,3,0.8533596481957934,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,5,1,19:32,2372,2372,Christian Juzang Turnover.,0,0,0,8,0.853179220569174,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,6,1,19:31,2371,2371,Chris Knight Steal.,0,0,0,1,0.8531565325805472,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,7,1,19:07,2347,2347,Ian Sistare made Three Point Jumper. Assisted by Aaryn Rai.,0,3,-3,24,0.8150989972554186,0.4324960459988248,4,4,11,NA,NA,Dartmouth,made,Ian Sistare,Aaryn Rai,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,8,1,18:46,2326,2326,Christian Juzang Turnover.,0,3,-3,21,0.8140816098515379,0.4318163477183905,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,9,1,18:36,2316,2316,Taurus Samuels missed Layup.,0,3,-3,10,0.8135885364411156,0.4314900174104827,4,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,10,1,18:36,2316,2316,Chris Lewis Defensive Rebound.,0,3,-3,0,0.8135885364411156,0.4314900174104827,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,11,1,18:28,2308,2308,Justin Bassey made Layup.,2,3,-1,8,0.8396243180878064,0.47694606147987817,4,4,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,12,1,18:17,2297,2297,Aaryn Rai made Three Point Jumper. Assisted by Chris Knight.,2,6,-4,11,0.7980995328000952,0.4082767515749292,4,4,11,NA,NA,Dartmouth,made,Aaryn Rai,Chris Knight,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,13,1,17:42,2262,2262,Christian Juzang missed Three Point Jumper.,2,6,-4,35,0.7959300581957379,0.4067486224997753,4,4,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,14,1,17:42,2262,2262,Aaryn Rai Defensive Rebound.,2,6,-4,0,0.7959300581957379,0.4067486224997753,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,15,1,17:31,2251,2251,Foul on Christian Juzang.,2,6,-4,11,0.7952315418956966,0.406264365373249,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,16,1,17:16,2236,2236,Ian Sistare missed Three Point Jumper.,2,6,-4,15,0.7942661000144513,0.4056013537259755,4,4,11,NA,NA,Dartmouth,missed,Ian Sistare,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,17,1,17:16,2236,2236,Robert Baker Defensive Rebound.,2,6,-4,0,0.7942661000144513,0.4056013537259755,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,18,1,17:00,2220,2220,Chris Lewis made Layup.,4,6,-2,16,0.8230292271007942,0.4520074328055469,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,19,1,16:31,2191,2191,Taurus Samuels missed Three Point Jumper.,4,6,-2,29,0.8216998177349434,0.4513421214820302,4,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,20,1,16:31,2191,2191,Robert Baker Defensive Rebound.,4,6,-2,0,0.8216998177349434,0.4513421214820302,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,21,1,16:15,2175,2175,Noah Kirkwood missed Three Point Jumper.,4,6,-2,16,0.8209477131669451,0.45097334763387426,4,4,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,22,1,16:15,2175,2175,Aaryn Rai Defensive Rebound.,4,6,-2,0,0.8209477131669451,0.45097334763387426,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,23,1,15:57,2157,2157,Ian Carter missed Layup.,4,6,-2,18,0.8200855300703229,0.4505570115494483,4,4,11,NA,NA,Dartmouth,missed,Ian Carter,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,24,1,15:57,2157,2157,Chris Lewis Block.,4,6,-2,0,0.8200855300703229,0.4505570115494483,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,25,1,15:55,2155,2155,Robert Baker Defensive Rebound.,4,6,-2,2,0.8199886790675469,0.4505106076857768,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,26,1,15:49,2149,2149,Justin Bassey made Layup.,6,6,0,6,0.8472853020197624,0.5,4,4,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,27,1,15:22,2122,2122,James Foye missed Jumper.,6,6,0,27,0.8464463040422944,0.5,4,4,11,NA,NA,Dartmouth,missed,James Foye,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,28,1,15:22,2122,2122,Christian Juzang Defensive Rebound.,6,6,0,0,0.8464463040422944,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,29,1,15:06,2106,2106,Justin Bassey Turnover.,6,6,0,16,0.8459361648732936,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,30,1,15:06,2106,2106,Official TV Timeout,6,6,0,0,0.8459361648732936,0.5,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,31,1,14:41,2081,2081,Aaryn Rai made Jumper.,6,8,-2,25,0.8162560104781346,0.4487697008644929,4,4,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,32,1,14:13,2053,2053,Rio Haskett missed Three Point Jumper.,6,8,-2,28,0.8147672057578739,0.4480971487316694,4,4,11,NA,NA,Harvard,missed,Rio Haskett,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,33,1,14:13,2053,2053,Taurus Samuels Defensive Rebound.,6,8,-2,0,0.8147672057578739,0.4480971487316694,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,34,1,13:54,2034,2034,Taurus Samuels made Layup.,6,10,-4,19,0.7797520969686128,0.39640789253425024,4,4,11,NA,NA,Dartmouth,made,Taurus Samuels,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,35,1,13:44,2024,2024,Chris Ledlum missed Three Point Jumper.,6,10,-4,10,0.7789561577888208,0.3959347978624396,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,36,1,13:44,2024,2024,Ian Carter Defensive Rebound.,6,10,-4,0,0.7789561577888208,0.3959347978624396,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,37,1,13:12,1992,1992,Aaryn Rai missed Layup.,6,10,-4,32,0.7763572982820061,0.39440583282157055,4,4,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,38,1,13:12,1992,1992,Chris Ledlum Defensive Rebound.,6,10,-4,0,0.7763572982820061,0.39440583282157055,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,39,1,13:01,1981,1981,Christian Juzang Turnover.,6,10,-4,11,0.7754454795282306,0.3938746929222732,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,40,1,13:00,1980,1980,Ian Carter Steal.,6,10,-4,1,0.7753621140729858,0.3938262610652755,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,41,1,12:59,1979,1979,Foul on Mason Forbes.,6,10,-4,1,0.7752786695882542,0.3937778045411416,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,42,1,12:29,1949,1949,Chris Knight made Jumper.,6,12,-6,30,0.7320477641144946,0.3415478397286148,4,4,11,NA,NA,Dartmouth,made,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,43,1,12:00,1920,1920,Chris Ledlum made Layup. Assisted by Rio Haskett.,8,12,-4,29,0.7702142024865765,0.390874974500516,4,4,11,NA,NA,Harvard,made,Chris Ledlum,Rio Haskett,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,44,1,11:37,1897,1897,James Foye made Three Point Jumper. Assisted by Wes Slajchert.,8,15,-7,23,0.7030101128099394,0.31329786904357765,4,4,11,NA,NA,Dartmouth,made,James Foye,Wes Slajchert,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,45,1,11:18,1878,1878,Luka Sakota missed Three Point Jumper.,8,15,-7,19,0.7003717024150532,0.31181018112537007,4,4,11,NA,NA,Harvard,missed,Luka Sakota,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,46,1,11:18,1878,1878,Chris Knight Defensive Rebound.,8,15,-7,0,0.7003717024150532,0.31181018112537007,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,47,1,10:59,1859,1859,James Foye missed Layup.,8,15,-7,19,0.6976961036641974,0.3103232673875361,4,4,11,NA,NA,Dartmouth,missed,James Foye,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,48,1,10:59,1859,1859,Danilo Djuricic Defensive Rebound.,8,15,-7,0,0.6976961036641974,0.3103232673875361,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,49,1,10:59,1859,1859,Foul on Chris Knight.,8,15,-7,0,0.6976961036641974,0.3103232673875361,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,50,1,10:59,1859,1859,Official TV Timeout,8,15,-7,0,0.6976961036641974,0.3103232673875361,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,51,1,10:48,1848,1848,Foul on Ian Carter.,8,15,-7,11,0.6961291702258409,0.3094615376283314,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,52,1,10:48,1848,1848,Chris Ledlum missed Free Throw.,8,15,-7,0,0.6961291702258409,0.3094615376283314,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,53,1,10:48,1848,1848,Harvard Deadball Team Rebound.,8,15,-7,0,0.6961291702258409,0.3094615376283314,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,54,1,10:48,1848,1848,Chris Ledlum missed Free Throw.,8,15,-7,0,0.6961291702258409,0.3094615376283314,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,55,1,10:48,1848,1848,Ian Carter Defensive Rebound.,8,15,-7,0,0.6961291702258409,0.3094615376283314,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,56,1,10:29,1829,1829,Foul on Mason Forbes.,8,15,-7,19,0.6933901414553099,0.3079694476833575,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,57,1,10:14,1814,1814,Aaryn Rai Turnover.,8,15,-7,15,0.6911973462745256,0.30678649339807196,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,58,1,10:14,1814,1814,Robert Baker Steal.,8,15,-7,0,0.6911973462745256,0.30678649339807196,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,59,1,10:00,1800,1800,Robert Baker missed Three Point Jumper.,8,15,-7,14,0.6891254011802541,0.30567697989727144,4,4,11,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,60,1,10:00,1800,1800,Ian Sistare Defensive Rebound.,8,15,-7,0,0.6891254011802541,0.30567697989727144,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,61,1,9:52,1792,1792,Garrison Wade Turnover.,8,15,-7,8,0.6879300670284587,0.30504014059994267,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,62,1,9:36,1776,1776,Chris Lewis made Layup.,10,15,-5,16,0.7342350177927751,0.356067958922017,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,63,1,9:03,1743,1743,Taurus Samuels missed Three Point Jumper.,10,15,-5,33,0.7303311572675687,0.35399084768418265,4,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,TRUE,FALSE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,64,1,9:03,1743,1743,Ian Carter Offensive Rebound.,10,15,-5,0,0.7303311572675687,0.35399084768418265,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,65,1,8:58,1738,1738,Foul on Chris Lewis.,10,15,-5,5,0.7297290010029662,0.35367173710877065,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,66,1,8:58,1738,1738,Ian Carter made Free Throw.,10,16,-6,0,0.7052989725103629,0.32661700633002544,4,4,11,NA,NA,Dartmouth,made,Ian Carter,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,67,1,8:58,1738,1738,Ian Carter made Free Throw.,10,17,-7,0,0.6796301719044185,0.30066910574269007,4,4,11,NA,NA,Dartmouth,made,Ian Carter,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,68,1,8:55,1735,1735,Christian Juzang Turnover.,10,17,-7,3,0.6791565757384204,0.3004217769154902,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,69,1,8:44,1724,1724,Aaryn Rai Turnover.,10,17,-7,11,0.6774081654982146,0.2995101170553057,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,70,1,8:44,1724,1724,Noah Kirkwood Steal.,10,17,-7,0,0.6774081654982146,0.2995101170553057,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,71,1,8:40,1720,1720,Christian Juzang made Three Point Jumper. Assisted by Noah Kirkwood.,13,17,-4,4,0.7509650725291654,0.3807390926784297,4,4,11,NA,NA,Harvard,made,Christian Juzang,Noah Kirkwood,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,72,1,8:09,1689,1689,Ian Carter made Layup. Assisted by Taurus Samuels.,13,19,-6,31,0.6983284234545639,0.3229238242141452,4,4,11,NA,NA,Dartmouth,made,Ian Carter,Taurus Samuels,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,73,1,7:45,1665,1665,Foul on James Foye.,13,19,-6,24,0.694819243559614,0.3211144393226315,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,74,1,7:45,1665,1665,Official TV Timeout,13,19,-6,0,0.694819243559614,0.3211144393226315,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,75,1,7:45,1665,1665,Chris Lewis made Free Throw.,14,19,-5,0,0.7206168248875713,0.34889970969178885,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,76,1,7:45,1665,1665,Chris Lewis made Free Throw.,15,19,-4,0,0.7450339052883173,0.377751411294888,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,77,1,7:18,1638,1638,Foul on Robert Baker.,15,19,-4,27,0.7420357026211133,0.3763348830541847,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,78,1,7:18,1638,1638,Ian Sistare made Free Throw.,15,20,-5,0,0.7171346491574073,0.34718914836009274,4,4,11,NA,NA,Dartmouth,made,Ian Sistare,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,79,1,7:18,1638,1638,Ian Sistare made Free Throw.,15,21,-6,0,0.6908314096903897,0.31914556003600775,4,4,11,NA,NA,Dartmouth,made,Ian Sistare,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,80,1,7:05,1625,1625,Chris Lewis made Layup. Assisted by Christian Juzang.,17,21,-4,13,0.7405714365494008,0.3756642433422459,4,4,11,NA,NA,Harvard,made,Chris Lewis,Christian Juzang,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,81,1,7:05,1625,1625,Foul on Aaryn Rai.,17,21,-4,0,0.7405714365494008,0.3756642433422459,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,82,1,7:05,1625,1625,Chris Lewis made Free Throw.,18,21,-3,0,0.7642168127480907,0.40588708458465,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,83,1,6:36,1596,1596,Aaryn Rai missed Layup.,18,21,-3,29,0.761390356004906,0.4047424354193056,4,4,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,84,1,6:36,1596,1596,Chris Ledlum Defensive Rebound.,18,21,-3,0,0.761390356004906,0.4047424354193056,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,85,1,6:22,1582,1582,Justin Bassey missed Layup.,18,21,-3,14,0.7600008148356183,0.4041897097353757,4,4,11,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,86,1,6:22,1582,1582,Ian Carter Defensive Rebound.,18,21,-3,0,0.7600008148356183,0.4041897097353757,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,87,1,5:59,1559,1559,Foul on Ian Sistare.,18,21,-3,23,0.7576817243926964,0.4032740204640884,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,88,1,5:59,1559,1559,Ian Sistare Turnover.,18,21,-3,0,0.7576817243926964,0.4032740204640884,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,89,1,5:49,1549,1549,Chris Lewis made Layup. Assisted by Chris Ledlum.,20,21,-1,10,0.8016747156315015,0.4672538350419146,4,4,11,NA,NA,Harvard,made,Chris Lewis,Chris Ledlum,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,90,1,5:39,1539,1539,Taurus Samuels missed Layup.,20,21,-1,10,0.8009639047562327,0.46711332395205285,4,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,91,1,5:39,1539,1539,Robert Baker Defensive Rebound.,20,21,-1,0,0.8009639047562327,0.46711332395205285,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,92,1,5:27,1527,1527,Foul on Wes Slajchert.,20,21,-1,12,0.8001046363279152,0.4669423703625333,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,93,1,5:27,1527,1527,Christian Juzang made Free Throw.,21,21,0,0,0.8204460096310292,0.5,4,4,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,94,1,5:27,1527,1527,Christian Juzang made Free Throw.,22,21,1,0,0.8391336179639471,0.5330576296374667,4,4,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,95,1,5:12,1512,1512,Taurus Samuels made Three Point Jumper. Assisted by Ian Carter.,22,24,-2,15,0.7767612500135823,0.4337422659730697,4,4,11,NA,NA,Dartmouth,made,Taurus Samuels,Ian Carter,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,96,1,4:52,1492,1492,Noah Kirkwood missed Three Point Jumper.,22,24,-2,20,0.7749775419888607,0.43315120668865426,4,4,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,97,1,4:52,1492,1492,Ian Carter Defensive Rebound.,22,24,-2,0,0.7749775419888607,0.43315120668865426,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,98,1,4:37,1477,1477,Ian Carter made Jumper.,22,26,-4,15,0.7227233558702725,0.3677809337097305,4,4,11,NA,NA,Dartmouth,made,Ian Carter,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,99,1,4:06,1446,1446,Christian Juzang missed Jumper.,22,26,-4,31,0.7186542340653882,0.36589346942173423,4,4,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,100,1,4:06,1446,1446,Wes Slajchert Defensive Rebound.,22,26,-4,0,0.7186542340653882,0.36589346942173423,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,101,1,3:43,1423,1423,Garrison Wade missed Three Point Jumper.,22,26,-4,23,0.7155979467002256,0.3645012181050987,4,4,11,NA,NA,Dartmouth,missed,Garrison Wade,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,102,1,3:43,1423,1423,Danilo Djuricic Defensive Rebound.,22,26,-4,0,0.7155979467002256,0.3645012181050987,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,103,1,3:34,1414,1414,Foul on Noah Kirkwood.,22,26,-4,9,0.7144000316197936,0.3639722153372846,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,104,1,3:34,1414,1414,Noah Kirkwood Turnover.,22,26,-4,0,0.7144000316197936,0.3639722153372846,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,105,1,3:34,1414,1414,Official TV Timeout,22,26,-4,0,0.7144000316197936,0.3639722153372846,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,106,1,3:06,1386,1386,Chris Knight made Layup. Assisted by Ian Sistare.,22,28,-6,28,0.6493093907939531,0.2999205218010365,4,4,11,NA,NA,Dartmouth,made,Chris Knight,Ian Sistare,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,107,1,2:58,1378,1378,Chris Ledlum Turnover.,22,28,-6,8,0.6478924107609525,0.29930337594029943,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,108,1,2:57,1377,1377,Aaryn Rai Steal.,22,28,-6,1,0.6477149902946865,0.29922640090538843,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,109,1,2:52,1372,1372,Ian Sistare made Three Point Jumper. Assisted by Aaryn Rai.,22,31,-9,5,0.5445590681685957,0.2176816640248503,4,4,11,NA,NA,Dartmouth,made,Ian Sistare,Aaryn Rai,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,110,1,2:50,1370,1370,Harvard  Timeout,22,31,-9,2,0.5440817968825049,0.2174943664915142,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,111,1,2:31,1351,1351,Chris Ledlum made Three Point Jumper. Assisted by Justin Bassey.,25,31,-6,19,0.6430698462741591,0.2972280338249043,3,4,11,NA,NA,Harvard,made,Chris Ledlum,Justin Bassey,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,112,1,2:03,1323,1323,Taurus Samuels missed Three Point Jumper.,25,31,-6,28,0.6379672288051893,0.2950483892083906,3,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,113,1,2:03,1323,1323,Chris Ledlum Defensive Rebound.,25,31,-6,0,0.6379672288051893,0.2950483892083906,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,114,1,1:53,1313,1313,Danilo Djuricic missed Three Point Jumper.,25,31,-6,10,0.6361105727353493,0.29425318004686735,3,4,11,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,115,1,1:53,1313,1313,Christian Juzang Offensive Rebound.,25,31,-6,0,0.6361105727353493,0.29425318004686735,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,116,1,1:46,1306,1306,Chris Ledlum made Layup. Assisted by Christian Juzang.,27,31,-4,7,0.6995945728163403,0.35777776303255127,3,4,11,NA,NA,Harvard,made,Chris Ledlum,Christian Juzang,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,117,1,1:31,1291,1291,Aaryn Rai missed Three Point Jumper.,27,31,-4,15,0.6974260963122385,0.35686640023570215,3,4,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,118,1,1:31,1291,1291,Christian Juzang Defensive Rebound.,27,31,-4,0,0.6974260963122385,0.35686640023570215,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,119,1,1:15,1275,1275,Chris Ledlum missed Three Point Jumper.,27,31,-4,16,0.6950684077364684,0.3558599980503011,3,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,120,1,1:15,1275,1275,Chris Knight Defensive Rebound.,27,31,-4,0,0.6950684077364684,0.3558599980503011,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,121,1,0:45,1245,1245,Taurus Samuels Turnover.,27,31,-4,30,0.6905050682158911,0.35385286720955367,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,122,1,0:32,1232,1232,Chris Lewis made Layup. Assisted by Chris Ledlum.,29,31,-2,13,0.7495182597034039,0.42479893683050085,3,4,11,NA,NA,Harvard,made,Chris Lewis,Chris Ledlum,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,123,1,0:32,1232,1232,Foul on Wes Slajchert.,29,31,-2,0,0.7495182597034039,0.42479893683050085,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,124,1,0:32,1232,1232,Chris Lewis made Free Throw.,30,31,-1,0,0.7768835263128044,0.4621843903160427,3,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,125,1,0:05,1205,1205,James Foye missed Layup.,30,31,-1,27,0.774520655713972,0.46162420343577754,3,4,11,NA,NA,Dartmouth,missed,James Foye,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,126,1,0:05,1205,1205,Chris Lewis Block.,30,31,-1,0,0.774520655713972,0.46162420343577754,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,127,1,0:05,1205,1205,Justin Bassey Defensive Rebound.,30,31,-1,0,0.774520655713972,0.46162420343577754,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,128,1,0:00,1200,1200,Chris Ledlum missed Layup.,30,31,-1,5,0.7740823045663894,0.4615187446422248,3,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,129,1,0:00,1200,1200,Chris Ledlum Offensive Rebound.,30,31,-1,0,0.7740823045663894,0.4615187446422248,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,130,1,0:00,1200,1200,End of 1st half,30,31,-1,0,0.7740823045663894,0.4615187446422248,3,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,NA
+401172320,2020-01-18,Harvard,Dartmouth,131,2,20:00,1200,1200,PLAY,30,31,-1,0,0.7740823045663894,0.4615187446422248,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,132,2,19:47,1187,1187,Foul on James Foye.,30,31,-1,13,0.7729474019446795,0.46124923906148163,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,133,2,19:32,1172,1172,Chris Lewis missed Layup.,30,31,-1,15,0.7716443504831634,0.460945114653894,4,4,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,134,2,19:32,1172,1172,Ian Sistare Defensive Rebound.,30,31,-1,0,0.7716443504831634,0.460945114653894,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,135,2,19:07,1147,1147,Aaryn Rai missed Layup.,30,31,-1,25,0.7694794729613121,0.4604485354055376,4,4,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,136,2,19:07,1147,1147,Robert Baker Defensive Rebound.,30,31,-1,0,0.7694794729613121,0.4604485354055376,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,137,2,18:42,1122,1122,Christian Juzang made Three Point Jumper. Assisted by Chris Lewis.,33,31,2,25,0.8422076959253533,0.5795783046531955,4,4,11,NA,NA,Harvard,made,Christian Juzang,Chris Lewis,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,138,2,18:21,1101,1101,Chris Knight missed Layup.,33,31,2,21,0.8415149608409541,0.5804000944655658,4,4,11,NA,NA,Dartmouth,missed,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,139,2,18:21,1101,1101,Robert Baker Defensive Rebound.,33,31,2,0,0.8415149608409541,0.5804000944655658,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,140,2,18:10,1090,1090,Chris Ledlum made Three Point Jumper. Assisted by Christian Juzang.,36,31,5,11,0.8962433644851189,0.6932887717816105,4,4,11,NA,NA,Harvard,made,Chris Ledlum,Christian Juzang,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,141,2,17:52,1072,1072,Chris Knight missed Layup.,36,31,5,18,0.8962569493699787,0.6948907206847317,4,4,11,NA,NA,Dartmouth,missed,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,142,2,17:52,1072,1072,Chris Lewis Block.,36,31,5,0,0.8962569493699787,0.6948907206847317,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,143,2,17:51,1071,1071,Robert Baker Defensive Rebound.,36,31,5,1,0.8962583140322681,0.694981253861646,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,144,2,17:41,1061,1061,Justin Bassey missed Three Point Jumper.,36,31,5,10,0.896276020703388,0.6958969661322005,4,4,11,NA,NA,Harvard,missed,Justin Bassey,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,145,2,17:41,1061,1061,Ian Sistare Defensive Rebound.,36,31,5,0,0.896276020703388,0.6958969661322005,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,146,2,17:14,1034,1034,James Foye made Three Point Jumper. Assisted by Taurus Samuels.,36,34,2,27,0.8393565677472113,0.5832259131374267,4,4,11,NA,NA,Dartmouth,made,James Foye,Taurus Samuels,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,147,2,16:58,1018,1018,Chris Ledlum missed Three Point Jumper.,36,34,2,16,0.8388608986024965,0.5839770674202643,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,148,2,16:58,1018,1018,Danilo Djuricic Offensive Rebound.,36,34,2,0,0.8388608986024965,0.5839770674202643,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,149,2,16:43,1003,1003,Christian Juzang missed Layup.,36,34,2,15,0.8384058523405962,0.5847179899734061,4,4,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,150,2,16:43,1003,1003,Justin Bassey Offensive Rebound.,36,34,2,0,0.8384058523405962,0.5847179899734061,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,151,2,16:41,1001,1001,Foul on Ian Sistare.,36,34,2,2,0.8383459525268541,0.5848197090733765,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,152,2,16:41,1001,1001,Justin Bassey made Free Throw.,37,34,3,0,0.860237946986737,0.6257170294951038,4,4,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,153,2,16:41,1001,1001,Justin Bassey made Free Throw.,38,34,4,0,0.8795910324695274,0.6648941708376659,4,4,11,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,154,2,16:30,990,990,Foul on Justin Bassey.,38,34,4,11,0.8795863420603591,0.6659445398028806,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,155,2,16:14,974,974,Foul on Chris Ledlum.,38,34,4,16,0.8796078400467525,0.6675480809675746,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,156,2,16:01,961,961,Taurus Samuels missed Three Point Jumper.,38,34,4,13,0.8796410067496443,0.6688814638962944,4,4,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,TRUE,FALSE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,157,2,16:01,961,961,Dartmouth Offensive Rebound.,38,34,4,0,0.8796410067496443,0.6688814638962944,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,158,2,15:57,957,957,Official TV Timeout,38,34,4,4,0.8796477991457098,0.6692739795089394,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,159,2,15:50,950,950,Chris Knight made Layup.,38,36,2,7,0.8368828561778103,0.5875768531083857,4,4,11,NA,NA,Dartmouth,made,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,160,2,15:33,933,933,Chris Ledlum Turnover.,38,36,2,17,0.836412600027813,0.5884114960900322,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,161,2,15:16,916,916,James Foye missed Three Point Jumper.,38,36,2,17,0.8359486358150311,0.5891886085968092,4,4,11,NA,NA,Dartmouth,missed,James Foye,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,162,2,15:16,916,916,Chris Lewis Defensive Rebound.,38,36,2,0,0.8359486358150311,0.5891886085968092,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,163,2,14:57,897,897,Chris Ledlum missed Layup.,38,36,2,19,0.8354378946598324,0.5900126656855964,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,164,2,14:57,897,897,Chris Lewis Offensive Rebound.,38,36,2,0,0.8354378946598324,0.5900126656855964,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,165,2,14:56,896,896,Foul on Aaryn Rai.,38,36,2,1,0.8354112492270218,0.5900552173564858,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,166,2,14:43,883,883,Chris Lewis missed Layup.,38,36,2,13,0.8350670635888465,0.5906048255469906,4,4,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,167,2,14:43,883,883,Chris Knight Defensive Rebound.,38,36,2,0,0.8350670635888465,0.5906048255469906,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,168,2,14:30,870,870,Ian Sistare missed Layup.,38,36,2,13,0.8347270648211248,0.5911537273786149,4,4,11,NA,NA,Dartmouth,missed,Ian Sistare,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,169,2,14:30,870,870,Chris Ledlum Block.,38,36,2,0,0.8347270648211248,0.5911537273786149,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,170,2,14:29,869,869,Justin Bassey Defensive Rebound.,38,36,2,1,0.8347010883032735,0.5911961659823389,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,171,2,14:12,852,852,Chris Lewis missed Jumper.,38,36,2,17,0.8342634572540287,0.5919284606319891,4,4,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,172,2,14:12,852,852,Chris Knight Defensive Rebound.,38,36,2,0,0.8342634572540287,0.5919284606319891,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,173,2,14:02,842,842,Wes Slajchert Turnover.,38,36,2,10,0.8340096065841042,0.5923736646239279,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,174,2,13:53,833,833,Chris Ledlum missed Three Point Jumper.,38,36,2,9,0.8337834704344682,0.5927874628212217,4,4,11,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,175,2,13:53,833,833,Chris Lewis Offensive Rebound.,38,36,2,0,0.8337834704344682,0.5927874628212217,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,176,2,13:48,828,828,Christian Juzang missed Three Point Jumper.,38,36,2,5,0.8336588099167264,0.5930238003624897,4,4,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,177,2,13:48,828,828,Chris Ledlum Offensive Rebound.,38,36,2,0,0.8336588099167264,0.5930238003624897,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,178,2,13:45,825,825,Chris Ledlum made Layup.,40,36,4,3,0.8795657102420024,0.6800834464153473,4,4,11,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,179,2,13:44,824,824,Foul on Chris Knight.,40,36,4,1,0.8795681037693496,0.6801709447824689,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,180,2,13:44,824,824,Chris Ledlum made Free Throw.,41,36,5,0,0.8981637212132498,0.7197449600779627,4,4,11,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,181,2,13:35,815,815,Ian Sistare Turnover.,41,36,5,9,0.8982720187071986,0.720678903639424,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,182,2,13:34,814,814,Chris Lewis Steal.,41,36,5,1,0.8982848609651214,0.7207851688633232,4,4,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,183,2,13:32,812,812,Chris Lewis made Dunk.,43,36,7,2,0.9281336334801623,0.7907071729642441,4,4,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,184,2,13:22,802,802,Dartmouth  Timeout,43,36,7,10,0.9283834767821202,0.7919778218896013,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,185,2,13:10,790,790,Ian Sistare made Three Point Jumper. Assisted by Aaryn Rai.,43,39,4,12,0.8797340121843878,0.68342495688582106,4,3,11,NA,NA,Dartmouth,made,Ian Sistare,Aaryn Rai,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,186,2,12:51,771,771,Christian Juzang missed Three Point Jumper.,43,39,4,19,0.8799138378296658,0.6855401073430151,4,3,11,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,187,2,12:51,771,771,James Foye Defensive Rebound.,43,39,4,0,0.8799138378296658,0.6855401073430151,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,188,2,12:34,754,754,Ian Sistare missed Three Point Jumper.,43,39,4,17,0.8801398203459849,0.6876597684752807,4,3,11,NA,NA,Dartmouth,missed,Ian Sistare,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,189,2,12:34,754,754,Chris Ledlum Defensive Rebound.,43,39,4,0,0.8801398203459849,0.6876597684752807,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,190,2,12:16,736,736,Chris Lewis Turnover.,43,39,4,18,0.8804555563842741,0.6901740420277233,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,191,2,11:50,710,710,Ian Carter made Dunk. Assisted by Wes Slajchert.,43,41,2,26,0.8308938305595532,0.6009153501141676,4,3,11,NA,NA,Dartmouth,made,Ian Carter,Wes Slajchert,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,192,2,11:36,696,696,Foul on Ian Carter.,43,41,2,14,0.8305256031069479,0.6019195648749348,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,193,2,11:36,696,696,Official TV Timeout,43,41,2,0,0.8305256031069479,0.6019195648749348,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,194,2,11:36,696,696,Danilo Djuricic made Free Throw.,44,41,3,0,0.8576725216844755,0.6502650825097257,4,3,11,NA,NA,Harvard,made,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,195,2,11:36,696,696,Danilo Djuricic made Free Throw.,45,41,4,0,0.8810935369647617,0.6957074103634493,4,3,11,NA,NA,Harvard,made,Danilo Djuricic,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,196,2,11:25,685,685,Foul on Christian Juzang.,45,41,4,11,0.8811906877994091,0.6970164528452436,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,197,2,11:13,673,673,Aaryn Rai missed Jumper.,45,41,4,12,0.8812755941506892,0.6983895919238636,4,3,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,198,2,11:13,673,673,Danilo Djuricic Defensive Rebound.,45,41,4,0,0.8812755941506892,0.6983895919238636,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,199,2,10:47,647,647,Justin Bassey missed Jumper.,45,41,4,26,0.8814373058509557,0.7013190285650788,4,3,11,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,200,2,10:47,647,647,Ian Sistare Defensive Rebound.,45,41,4,0,0.8814373058509557,0.7013190285650788,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,201,2,10:24,624,624,Foul on Chris Lewis.,45,41,4,23,0.8816302357071356,0.7040692226768112,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,202,2,10:24,624,624,Ian Carter made Free Throw.,45,42,3,0,0.8570831119827844,0.6570247347730721,4,3,11,NA,NA,Dartmouth,made,Ian Carter,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,203,2,10:24,624,624,Ian Carter made Free Throw.,45,43,2,0,0.8284360918595577,0.6066794313541077,4,3,11,NA,NA,Dartmouth,made,Ian Carter,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,204,2,10:08,608,608,Chris Lewis missed Layup.,45,43,2,16,0.8279907199863653,0.60789713332901,4,3,11,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,205,2,10:08,608,608,Ian Sistare Defensive Rebound.,45,43,2,0,0.8279907199863653,0.60789713332901,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,206,2,9:44,584,584,Taurus Samuels missed Three Point Jumper.,45,43,2,24,0.8273838999831918,0.610019795253782,4,3,11,NA,NA,Dartmouth,missed,Taurus Samuels,NA,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,207,2,9:44,584,584,Danilo Djuricic Defensive Rebound.,45,43,2,0,0.8273838999831918,0.610019795253782,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,208,2,9:25,565,565,Danilo Djuricic made Three Point Jumper. Assisted by Christian Juzang.,48,43,5,19,0.9044924175987515,0.7576220646227245,4,3,11,NA,NA,Harvard,made,Danilo Djuricic,Christian Juzang,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,209,2,9:05,545,545,Ian Carter missed Layup.,48,43,5,20,0.9056377482146308,0.7624076481921732,4,3,11,NA,NA,Dartmouth,missed,Ian Carter,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,210,2,9:05,545,545,Danilo Djuricic Defensive Rebound.,48,43,5,0,0.9056377482146308,0.7624076481921732,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,211,2,8:32,512,512,Harvard  Turnover.,48,43,5,33,0.9070264929776867,0.76903931153944,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,212,2,8:06,486,486,Wes Slajchert made Three Point Jumper. Assisted by James Foye.,48,46,2,26,0.8250038270222926,0.6205049769548486,4,3,11,NA,NA,Dartmouth,made,Wes Slajchert,James Foye,TRUE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,213,2,7:47,467,467,Foul on Taurus Samuels.,48,46,2,19,0.8244923776208877,0.6225787708237034,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,214,2,7:47,467,467,Official TV Timeout,48,46,2,0,0.8244923776208877,0.6225787708237034,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,215,2,7:27,447,447,Robert Baker Turnover.,48,46,2,20,0.8241245149268082,0.6253060005374815,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,216,2,7:27,447,447,Wes Slajchert Steal.,48,46,2,0,0.8241245149268082,0.6253060005374815,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,217,2,6:58,418,418,Chris Knight missed Layup.,48,46,2,29,0.8239476122157857,0.6305222425767422,4,3,11,NA,NA,Dartmouth,missed,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,218,2,6:58,418,418,Danilo Djuricic Block.,48,46,2,0,0.8239476122157857,0.6305222425767422,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,219,2,6:57,417,417,Harvard Defensive Rebound.,48,46,2,1,0.8239335359585741,0.6307016924486945,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,220,2,6:44,404,404,Noah Kirkwood made Layup.,50,46,4,13,0.8895681981214499,0.7483601547531593,4,3,11,NA,NA,Harvard,made,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,221,2,6:28,388,388,Chris Knight Turnover.,50,46,4,16,0.8903925986954203,0.7527256196466688,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,222,2,6:27,387,387,Rio Haskett Steal.,50,46,4,1,0.8904427338321186,0.7529990797673966,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,223,2,6:24,384,384,Noah Kirkwood made Three Point Jumper. Assisted by Rio Haskett.,53,46,7,3,0.9496047960324043,0.876363549789256,4,3,11,NA,NA,Harvard,made,Noah Kirkwood,Rio Haskett,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,224,2,6:03,363,363,Foul on Chris Knight.,53,46,7,21,0.9513327840826118,0.8824736224829055,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,225,2,6:03,363,363,Chris Knight Turnover.,53,46,7,0,0.9513327840826118,0.8824736224829055,4,3,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,226,2,6:03,363,363,Dartmouth  Timeout,53,46,7,0,0.9513327840826118,0.8824736224829055,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,227,2,5:48,348,348,Chris Ledlum made Layup. Assisted by Robert Baker.,55,46,9,15,0.9732430258616095,0.9341807922660087,4,2,11,NA,NA,Harvard,made,Chris Ledlum,Robert Baker,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,228,2,5:47,347,347,Foul on James Foye.,55,46,9,1,0.9733286722915767,0.9344486103888152,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,229,2,5:47,347,347,Chris Ledlum missed Free Throw.,55,46,9,0,0.9733286722915767,0.9344486103888152,4,2,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,230,2,5:47,347,347,Aaryn Rai Defensive Rebound.,55,46,9,0,0.9733286722915767,0.9344486103888152,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,231,2,5:28,328,328,Aaryn Rai missed Layup.,55,46,9,19,0.9751269033060969,0.9398922053145031,4,2,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,232,2,5:28,328,328,Danilo Djuricic Defensive Rebound.,55,46,9,0,0.9751269033060969,0.9398922053145031,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,233,2,5:15,315,315,Foul on Rio Haskett.,55,46,9,13,0.9765648807055656,0.9440378124300821,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,234,2,5:15,315,315,Rio Haskett Turnover.,55,46,9,0,0.9765648807055656,0.9440378124300821,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,235,2,4:50,290,290,Ian Carter missed Layup.,55,46,9,25,0.9780902528104697,0.9489880752947332,4,2,11,NA,NA,Dartmouth,missed,Ian Carter,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,236,2,4:50,290,290,Rio Haskett Defensive Rebound.,55,46,9,0,0.9780902528104697,0.9489880752947332,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,237,2,4:37,277,277,Robert Baker missed Jumper.,55,46,9,13,0.9775294190551587,0.9484572161005834,4,2,11,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,238,2,4:37,277,277,Ian Sistare Defensive Rebound.,55,46,9,0,0.9775294190551587,0.9484572161005834,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,239,2,4:28,268,268,Wes Slajchert Turnover.,55,46,9,9,0.9768341720175437,0.9474322555601006,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,240,2,4:16,256,256,Foul on Ian Carter.,55,46,9,12,0.9757508128783967,0.9457787272557109,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,241,2,4:16,256,256,Chris Lewis made Free Throw.,56,46,10,0,0.9822329629354017,0.9599439356448171,4,2,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,242,2,4:16,256,256,Chris Lewis made Free Throw.,57,46,11,0,0.9870054189722172,0.9705238432862102,4,2,11,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,243,2,4:09,249,249,Foul on Rio Haskett.,57,46,11,7,0.9866322721045777,0.9699376162140892,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,244,2,3:58,238,238,Chris Knight made Jumper.,57,48,9,11,0.9744708433550471,0.9441756621171565,4,2,11,NA,NA,Dartmouth,made,Chris Knight,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,245,2,3:39,219,219,Chris Ledlum made Three Point Jumper. Assisted by Christian Juzang.,60,48,12,19,0.9901623568148255,0.9785915589900493,4,2,11,NA,NA,Harvard,made,Chris Ledlum,Christian Juzang,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,246,2,3:28,208,208,Taurus Samuels Turnover.,60,48,12,11,0.9909859432961815,0.9806553256212037,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,247,2,3:26,206,206,Chris Lewis Steal.,60,48,12,2,0.9911916375361856,0.9811450999955544,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,248,2,3:08,188,188,Danilo Djuricic Turnover.,60,48,12,18,0.9936433944672476,0.9867137114248729,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,249,2,3:07,187,187,Ian Sistare Steal.,60,48,12,1,0.9937899571668831,0.9870379963334664,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,250,2,2:52,172,172,Foul on James Foye.,60,48,12,15,0.9956523979947353,0.9911189336134653,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,251,2,2:52,172,172,James Foye Turnover.,60,48,12,0,0.9956523979947353,0.9911189336134653,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,252,2,2:52,172,172,Official TV Timeout,60,48,12,0,0.9956523979947353,0.9911189336134653,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,253,2,2:27,147,147,Christian Juzang missed Jumper.,60,48,12,25,0.9977582186317665,0.9955955182793973,4,2,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,254,2,2:27,147,147,Aaryn Rai Defensive Rebound.,60,48,12,0,0.9977582186317665,0.9955955182793973,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,255,2,2:19,139,139,Foul on Danilo Djuricic.,60,48,12,8,0.9982409313389496,0.9965893164374272,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,256,2,2:19,139,139,Chris Knight made Free Throw.,60,49,11,0,0.997179710106644,0.9945371520565179,4,2,11,NA,NA,Dartmouth,made,Chris Knight,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,257,2,2:19,139,139,Chris Knight made Free Throw.,60,50,10,0,0.9954811672652316,0.991261054230281,4,2,11,NA,NA,Dartmouth,made,Chris Knight,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,258,2,2:09,129,129,Danilo Djuricic made Layup. Assisted by Christian Juzang.,62,50,12,10,0.9987374021473171,0.9975933250565302,4,2,11,NA,NA,Harvard,made,Danilo Djuricic,Christian Juzang,FALSE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,259,2,1:55,115,115,Aaryn Rai made Layup.,62,52,10,14,0.9977735917958893,0.9958657071223712,4,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,260,2,1:18,78,78,Noah Kirkwood missed Three Point Jumper.,62,52,10,37,0.9995001002296758,0.9991346804655409,4,2,11,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,261,2,1:18,78,78,Aaryn Rai Defensive Rebound.,62,52,10,0,0.9995001002296758,0.9991346804655409,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,262,2,1:15,75,75,Foul on Danilo Djuricic.,62,52,10,3,0.9995648673361743,0.9992513270545244,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,263,2,1:15,75,75,Aaryn Rai made Free Throw.,62,53,9,0,0.9991067750085543,0.998463657915368,4,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,264,2,1:15,75,75,Aaryn Rai missed Free Throw.,62,53,9,0,0.9991067750085543,0.998463657915368,4,2,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,265,2,1:15,75,75,Taurus Samuels Offensive Rebound.,62,53,9,0,0.9991067750085543,0.998463657915368,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,266,2,1:05,65,65,Taurus Samuels made Layup.,62,55,7,10,0.9973085879752288,0.9954708939197109,4,2,11,NA,NA,Dartmouth,made,Taurus Samuels,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,267,2,0:51,51,51,Christian Juzang Turnover.,62,55,7,14,0.9983651433413919,0.9973271377819525,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,268,2,0:51,51,51,Aaryn Rai Steal.,62,55,7,0,0.9983651433413919,0.9973271377819525,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,269,2,0:48,48,48,Foul on Justin Bassey.,62,55,7,3,0.9985387009506156,0.9976260277602333,4,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,270,2,0:48,48,48,Aaryn Rai made Free Throw.,62,56,6,0,0.9965433533432336,0.9943914597439802,4,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,271,2,0:48,48,48,Aaryn Rai made Free Throw.,62,57,5,0,0.9918456848961661,0.9868080280146234,4,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,272,2,0:48,48,48,Harvard  Timeout,62,57,5,0,0.9918456848961661,0.9868080280146234,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,273,2,0:45,45,45,Foul on Wes Slajchert.,62,57,5,3,0.9924676729903577,0.9878879377698051,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,274,2,0:45,45,45,Chris Ledlum missed Free Throw.,62,57,5,0,0.9924676729903577,0.9878879377698051,3,2,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,275,2,0:45,45,45,Harvard Deadball Team Rebound.,62,57,5,0,0.9924676729903577,0.9878879377698051,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,276,2,0:45,45,45,Chris Ledlum missed Free Throw.,62,57,5,0,0.9924676729903577,0.9878879377698051,3,2,11,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,277,2,0:45,45,45,Ian Sistare Defensive Rebound.,62,57,5,0,0.9924676729903577,0.9878879377698051,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,278,2,0:34,34,34,Aaryn Rai made Layup.,62,59,3,11,0.9642392039415406,0.9447584372663004,3,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,279,2,0:30,30,30,Foul on Taurus Samuels.,62,59,3,4,0.9664423971862105,0.948538211538235,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,280,2,0:30,30,30,Christian Juzang made Free Throw.,63,59,4,0,0.9870256165874925,0.979874628532239,3,2,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,281,2,0:30,30,30,Christian Juzang missed Free Throw.,63,59,4,0,0.9870256165874925,0.979874628532239,3,2,11,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,282,2,0:30,30,30,Ian Sistare Defensive Rebound.,63,59,4,0,0.9870256165874925,0.979874628532239,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,283,2,0:20,20,20,Aaryn Rai missed Layup.,63,59,4,10,0.9897047497426106,0.9843613261750888,3,2,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,284,2,0:20,20,20,Chris Ledlum Block.,63,59,4,0,0.9897047497426106,0.9843613261750888,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,285,2,0:19,19,19,Aaryn Rai Offensive Rebound.,63,59,4,1,0.9899487089044584,0.9847646583833194,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,286,2,0:19,19,19,Foul on Noah Kirkwood.,63,59,4,0,0.9899487089044584,0.9847646583833194,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,287,2,0:19,19,19,Aaryn Rai missed Free Throw.,63,59,4,0,0.9899487089044584,0.9847646583833194,3,2,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,288,2,0:19,19,19,Dartmouth Deadball Team Rebound.,63,59,4,0,0.9899487089044584,0.9847646583833194,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,289,2,0:19,19,19,Aaryn Rai made Free Throw.,63,60,3,0,0.9720164482462096,0.9579762736338373,3,2,11,NA,NA,Dartmouth,made,Aaryn Rai,NA,FALSE,TRUE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,290,2,0:14,14,14,Foul on Wes Slajchert.,63,60,3,5,0.9743639519416493,0.9618843639125265,3,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,291,2,0:14,14,14,Christian Juzang made Free Throw.,64,60,4,0,0.9911097957339591,0.9866705395591697,3,2,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,292,2,0:14,14,14,Christian Juzang made Free Throw.,65,60,5,0,0.9969512347270169,0.9954153640975865,3,2,11,NA,NA,Harvard,made,Christian Juzang,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,293,2,0:14,14,14,Harvard  Timeout,65,60,5,0,0.9969512347270169,0.9954153640975865,2,2,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,294,2,0:11,11,11,Taurus Samuels made Layup.,65,62,3,3,0.9757146693785921,0.9641134250897672,2,2,11,NA,NA,Dartmouth,made,Taurus Samuels,NA,FALSE,FALSE,Dartmouth,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,295,2,0:10,10,10,Dartmouth  Timeout,65,62,3,1,0.9761544901289471,0.9648361167568685,2,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,296,2,0:09,9,9,Foul on Wes Slajchert.,65,62,3,1,0.976588922473565,0.965548425338804,2,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,297,2,0:09,9,9,Rio Haskett made Free Throw.,66,62,4,0,0.9921697803752872,0.988389749540432,2,1,11,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,TRUE,Harvard,Harvard
+401172320,2020-01-18,Harvard,Dartmouth,298,2,0:09,9,9,Rio Haskett made Free Throw.,67,62,5,0,0.9974085705911852,0.9961477412586438,2,1,11,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,TRUE,Harvard,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,299,2,0:05,5,5,James Foye missed Three Point Jumper.,67,62,5,4,0.9977316842784755,0.99665943014498,2,1,11,NA,NA,Dartmouth,missed,James Foye,NA,TRUE,FALSE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,300,2,0:05,5,5,Aaryn Rai Offensive Rebound.,67,62,5,0,0.9977316842784755,0.99665943014498,2,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,301,2,0:00,0,0,Aaryn Rai missed Jumper.,67,62,5,5,1,1,2,1,11,NA,NA,Dartmouth,missed,Aaryn Rai,NA,FALSE,FALSE,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,302,2,0:00,0,0,Chris Knight Offensive Rebound.,67,62,5,0,1,1,2,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,Dartmouth
+401172320,2020-01-18,Harvard,Dartmouth,303,2,0:00,0,0,End of Game,67,62,5,0,1,1,2,1,11,NA,NA,NA,NA,NA,NA,NA,NA,Dartmouth,NA

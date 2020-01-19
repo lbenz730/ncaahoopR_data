@@ -1,0 +1,326 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172002,2020-01-12,Manhattan,Siena,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.4010534725030346,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Siena
+401172002,2020-01-12,Manhattan,Siena,2,1,19:41,2381,2381,Matt Hein missed Jumper.,0,0,0,19,0.4012371375643364,0.5,4,4,-2.5,NA,NA,Siena,missed,Matt Hein,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,3,1,19:37,2377,2377,Elijah Burns Offensive Rebound.,0,0,0,4,0.40127634053255923,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,4,1,19:36,2376,2376,Elijah Burns missed Jumper.,0,0,0,1,0.40128617077090695,0.5,4,4,-2.5,NA,NA,Siena,missed,Elijah Burns,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,5,1,19:31,2371,2371,Pauly Paulicap Defensive Rebound.,0,0,0,5,0.40133549976844235,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,6,1,19:16,2356,2356,Elijah Buchanan made Jumper. Assisted by Christian Hinckson.,2,0,2,15,0.44548053569512475,0.5449611943204852,4,4,-2.5,NA,NA,Manhattan,made,Elijah Buchanan,Christian Hinckson,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,7,1,18:54,2334,2334,Matt Hein Turnover.,2,0,2,22,0.4461870884030866,0.5454385061647294,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,8,1,18:54,2334,2334,Elijah Buchanan Steal.,2,0,2,0,0.4461870884030866,0.5454385061647294,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,9,1,18:38,2318,2318,Tyler Reynolds made Three Point Jumper. Assisted by Samir Stewart.,5,0,5,16,0.5153776347663356,0.6128195944209217,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,Samir Stewart,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,10,1,18:31,2311,2311,Matt Hein missed Layup.,5,0,5,7,0.515843586641585,0.6131889823117003,4,4,-2.5,NA,NA,Siena,missed,Matt Hein,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,11,1,18:27,2307,2307,Matt Hein Offensive Rebound.,5,0,5,4,0.5161107373390552,0.613400584005684,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,12,1,18:25,2305,2305,Donald Carey made Three Point Jumper. Assisted by Matt Hein.,5,3,2,2,0.4471371826057338,0.5460764925484636,4,4,-2.5,NA,NA,Siena,made,Donald Carey,Matt Hein,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,13,1,17:55,2275,2275,Pauly Paulicap missed Jumper.,5,3,2,30,0.4481416258666306,0.5467457551815094,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,14,1,17:53,2273,2273,Manny Camper Defensive Rebound.,5,3,2,2,0.44820934674692436,0.5467906738870376,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,15,1,17:48,2268,2268,Manny Camper Turnover.,5,3,2,5,0.44837905598512506,0.5469031240173988,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,16,1,17:48,2268,2268,Samir Stewart Steal.,5,3,2,0,0.44837905598512506,0.5469031240173988,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,17,1,17:44,2264,2264,Samir Stewart made Layup.,7,3,4,4,0.4954645855777056,0.5931635207693176,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,18,1,17:20,2240,2240,Matt Hein missed Jumper.,7,3,4,24,0.49684621665694173,0.5942215597164868,4,4,-2.5,NA,NA,Siena,missed,Matt Hein,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,19,1,17:16,2236,2236,Christian Hinckson Defensive Rebound.,7,3,4,4,0.4970781634365723,0.5943986462740244,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,20,1,17:00,2220,2220,Tyler Reynolds missed Three Point Jumper.,7,3,4,16,0.49801052506476995,0.5951088823675076,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,21,1,16:57,2217,2217,Jalen Pickett Defensive Rebound.,7,3,4,3,0.4981861380439028,0.5952423656117797,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,22,1,16:52,2212,2212,Donald Carey made Layup. Assisted by Manny Camper.,7,5,2,5,0.45031827911355155,0.5481756490460405,4,4,-2.5,NA,NA,Siena,made,Donald Carey,Manny Camper,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,23,1,16:44,2204,2204,Elijah Buchanan Turnover.,7,5,2,8,0.45060087341651994,0.5483590900647362,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,24,1,16:37,2197,2197,Donald Carey Turnover.,7,5,2,7,0.45084924083715466,0.5485198744639151,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,25,1,16:22,2182,2182,Foul on Sammy Friday IV.,7,5,2,15,0.45138484809418217,0.5488651855001424,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,26,1,16:20,2180,2180,Christian Hinckson made Layup. Assisted by Nehemiah Mack.,9,5,4,2,0.5003714341543505,0.5968953817854274,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,Nehemiah Mack,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,27,1,16:04,2164,2164,Foul on Michael Okafor.,9,5,4,16,0.5013269568889444,0.5976133733505369,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,28,1,16:04,2164,2164,Sammy Friday IV missed Free Throw.,9,5,4,0,0.5013269568889444,0.5976133733505369,4,4,-2.5,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,29,1,16:04,2164,2164,Siena Offensive Rebound.,9,5,4,0,0.5013269568889444,0.5976133733505369,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,30,1,16:03,2163,2163,Sammy Friday IV missed Free Throw.,9,5,4,1,0.5013869106184601,0.5976583357494077,4,4,-2.5,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,31,1,16:03,2163,2163,Christian Hinckson Defensive Rebound.,9,5,4,0,0.5013869106184601,0.5976583357494077,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,32,1,16:03,2163,2163,Foul on Manny Camper.,9,5,4,0,0.5013869106184601,0.5976583357494077,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,33,1,15:40,2140,2140,Michael Okafor missed Three Point Jumper.,9,5,4,23,0.5027742594902063,0.59869625318022,4,4,-2.5,NA,NA,Manhattan,missed,Michael Okafor,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,34,1,15:37,2137,2137,Matt Hein Defensive Rebound.,9,5,4,3,0.5029564256163376,0.5988321904469439,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,35,1,15:31,2131,2131,Jalen Pickett missed Three Point Jumper.,9,5,4,6,0.5033216092721319,0.5991044686659226,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,36,1,15:29,2129,2129,Manhattan Defensive Rebound.,9,5,4,2,0.5034435909909588,0.599195349539166,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,37,1,15:28,2128,2128,Official TV Timeout,9,5,4,1,0.5035046296842987,0.5992408130354591,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,38,1,15:11,2111,2111,Tyler Reynolds missed Three Point Jumper.,9,5,4,17,0.5045472209206647,0.6000161089931656,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,39,1,15:08,2108,2108,Gary Harris Jr. Defensive Rebound.,9,5,4,3,0.5047321861425769,0.6001534130055126,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,40,1,14:56,2096,2096,Donald Carey made Jumper.,9,7,2,12,0.4545510580265878,0.5508733395399744,4,4,-2.5,NA,NA,Siena,made,Donald Carey,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,41,1,14:51,2091,2091,Nehemiah Mack made Three Point Jumper. Assisted by Romar Reid.,12,7,5,5,0.5313301241125226,0.6252048512715497,4,4,-2.5,NA,NA,Manhattan,made,Nehemiah Mack,Romar Reid,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,42,1,14:23,2063,2063,Jalen Pickett missed Three Point Jumper.,12,7,5,28,0.5334171774708335,0.6267892730067947,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,43,1,14:21,2061,2061,Gary Harris Jr. Offensive Rebound.,12,7,5,2,0.5335674218431493,0.6269031048629435,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,44,1,14:20,2060,2060,Foul on Michael Okafor.,12,7,5,1,0.5336426035150651,0.6269600548841088,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,45,1,14:00,2040,2040,Donald Carey missed Three Point Jumper.,12,7,5,20,0.5351546714880736,0.6281039472021778,4,4,-2.5,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,46,1,13:57,2037,2037,Christian Hinckson Defensive Rebound.,12,7,5,3,0.5353828855863458,0.6282763550482867,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,47,1,13:37,2017,2017,Samir Stewart made Three Point Jumper. Assisted by Elijah Buchanan.,15,7,8,20,0.6143872671087282,0.7000730587849326,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,Elijah Buchanan,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,48,1,13:16,1996,1996,Foul on Warren Williams.,15,7,8,21,0.6166808287686956,0.7018343572039175,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,49,1,13:16,1996,1996,Elijah Burns made Free Throw.,15,8,7,0,0.5910910563600942,0.6789699652267809,4,4,-2.5,NA,NA,Siena,made,Elijah Burns,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,50,1,13:16,1996,1996,Elijah Burns made Free Throw.,15,9,6,0,0.5649979964194733,0.6552135962858854,4,4,-2.5,NA,NA,Siena,made,Elijah Burns,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,51,1,13:01,1981,1981,Foul on Kyle Young.,15,9,6,15,0.5663441388685589,0.6562395592394241,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,52,1,12:44,1964,1964,Samir Stewart made Three Point Jumper. Assisted by Tyler Reynolds.,18,9,9,17,0.6454521817991263,0.726644825158809,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,Tyler Reynolds,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,53,1,12:28,1948,1948,Donald Carey missed Jumper.,18,9,9,16,0.6473782911655137,0.7281132547816689,4,4,-2.5,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,54,1,12:26,1946,1946,Manhattan Defensive Rebound.,18,9,9,2,0.6476200201295107,0.7282974188067917,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,55,1,12:09,1929,1929,Tyler Reynolds missed Three Point Jumper.,18,9,9,17,0.6496834916150468,0.7298684101166134,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,56,1,12:06,1926,1926,Manny Camper Defensive Rebound.,18,9,9,3,0.6500486993914262,0.7301461621936179,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,57,1,11:47,1907,1907,Manny Camper missed Three Point Jumper.,18,9,9,19,0.6523576454124626,0.7318982779945662,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,58,1,11:43,1903,1903,Pauly Paulicap Defensive Rebound.,18,9,9,4,0.6528430835269087,0.7322658293160249,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,59,1,11:26,1886,1886,Tyler Reynolds missed Layup.,18,9,9,17,0.6549050298543596,0.7338241278528949,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,60,1,11:24,1884,1884,Manny Camper Defensive Rebound.,18,9,9,2,0.6551475715096878,0.7340071325710886,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,61,1,11:21,1881,1881,Gary Harris Jr. made Layup. Assisted by Manny Camper.,18,11,7,3,0.6028790638623169,0.6879550535289438,4,4,-2.5,NA,NA,Siena,made,Gary Harris Jr.,Manny Camper,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,62,1,11:11,1871,1871,Elijah Buchanan missed Jumper.,18,11,7,10,0.6039163055696134,0.6887375514072874,4,4,-2.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,63,1,11:11,1871,1871,Manhattan Offensive Rebound.,18,11,7,0,0.6039163055696134,0.6887375514072874,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,64,1,11:11,1871,1871,Official TV Timeout,18,11,7,0,0.6039163055696134,0.6887375514072874,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,65,1,10:57,1857,1857,Tyler Reynolds missed Three Point Jumper.,18,11,7,14,0.6053716425440402,0.6898333336842516,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,66,1,10:54,1854,1854,Manny Camper Defensive Rebound.,18,11,7,3,0.6056840922840323,0.6900682926813577,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,67,1,10:46,1846,1846,Manny Camper made Layup. Assisted by Elijah Burns.,18,13,5,8,0.5506175873639615,0.6396480660673586,4,4,-2.5,NA,NA,Siena,made,Manny Camper,Elijah Burns,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,68,1,10:31,1831,1831,Pauly Paulicap made Jumper. Assisted by Samir Stewart.,20,13,7,15,0.608088316913832,0.6918732009063256,4,4,-2.5,NA,NA,Manhattan,made,Pauly Paulicap,Samir Stewart,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,69,1,10:31,1831,1831,Foul on Elijah Burns.,20,13,7,0,0.608088316913832,0.6918732009063256,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,70,1,10:30,1830,1830,Pauly Paulicap missed Free Throw.,20,13,7,1,0.6081932502121744,0.6919518667519139,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,71,1,10:29,1829,1829,Siena Defensive Rebound.,20,13,7,1,0.6082982208050144,0.6920305523166426,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,72,1,10:18,1818,1818,Elijah Burns Turnover.,20,13,7,11,0.609455489050047,0.6928975231473159,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,73,1,10:18,1818,1818,Pauly Paulicap Steal.,20,13,7,0,0.609455489050047,0.6928975231473159,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,74,1,10:12,1812,1812,Christian Hinckson missed Three Point Jumper.,20,13,7,6,0.6100888680596556,0.6933716577490125,4,4,-2.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,75,1,10:10,1810,1810,Christian Hinckson Offensive Rebound.,20,13,7,2,0.6103003533380723,0.6935299199156362,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,76,1,10:08,1808,1808,Christian Hinckson Turnover.,20,13,7,2,0.6105120241183943,0.693688296650932,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,77,1,10:08,1808,1808,Gary Harris Jr. Steal.,20,13,7,0,0.6105120241183943,0.693688296650932,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,78,1,10:08,1808,1808,Foul on Samir Stewart.,20,13,7,0,0.6105120241183943,0.693688296650932,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,79,1,10:08,1808,1808,Gary Harris Jr. missed Free Throw.,20,13,7,0,0.6105120241183943,0.693688296650932,4,4,-2.5,NA,NA,Siena,missed,Gary Harris Jr.,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,80,1,10:08,1808,1808,Siena Offensive Rebound.,20,13,7,0,0.6105120241183943,0.693688296650932,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,81,1,10:08,1808,1808,Gary Harris Jr. made Free Throw.,20,14,6,0,0.582413940857675,0.6683308243036432,4,4,-2.5,NA,NA,Siena,made,Gary Harris Jr.,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,82,1,9:52,1792,1792,Pauly Paulicap made Jumper. Assisted by Michael Okafor.,22,14,8,16,0.6397437316707043,0.7193098487926375,4,4,-2.5,NA,NA,Manhattan,made,Pauly Paulicap,Michael Okafor,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,83,1,9:34,1774,1774,Manny Camper missed Layup.,22,14,8,18,0.641840402758426,0.7208786025463384,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,84,1,9:30,1770,1770,Gary Harris Jr. Offensive Rebound.,22,14,8,4,0.6423090163738719,0.7212290803408923,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,85,1,9:21,1761,1761,Gary Harris Jr. made Three Point Jumper. Assisted by Jalen Pickett.,22,17,5,9,0.557758405375513,0.6448702892483151,4,4,-2.5,NA,NA,Siena,made,Gary Harris Jr.,Jalen Pickett,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,86,1,9:04,1744,1744,Nehemiah Mack made Layup.,24,17,7,17,0.6174048843901263,0.6988378396486041,4,4,-2.5,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,87,1,8:50,1730,1730,Manny Camper missed Layup.,24,17,7,14,0.6189500155418617,0.6999916645290911,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,88,1,8:48,1728,1728,Michael Okafor Defensive Rebound.,24,17,7,2,0.6191720289483736,0.7001574802550292,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,89,1,8:34,1714,1714,Warren Williams made Layup. Assisted by Nehemiah Mack.,26,17,9,14,0.6762436812862741,0.7497930434634539,4,4,-2.5,NA,NA,Manhattan,made,Warren Williams,Nehemiah Mack,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,90,1,8:30,1710,1710,Foul on Samir Stewart.,26,17,9,4,0.6767623566673923,0.7501801017949069,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,91,1,8:08,1688,1688,Donald Carey Turnover.,26,17,9,22,0.6796422810286101,0.752329996888106,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,92,1,7:46,1666,1666,Tyler Reynolds made Three Point Jumper.,29,17,12,22,0.7575718537393885,0.8170713229461355,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,93,1,7:28,1648,1648,Foul on Tyler Reynolds.,29,17,12,18,0.7600577265864591,0.8188765776471553,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,94,1,7:28,1648,1648,Official TV Timeout,29,17,12,0,0.7600577265864591,0.8188765776471553,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,95,1,7:16,1636,1636,Gary Harris Jr. made Dunk. Assisted by Jalen Pickett.,29,19,10,12,0.7128303446006515,0.7797033352760713,4,4,-2.5,NA,NA,Siena,made,Gary Harris Jr.,Jalen Pickett,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,96,1,7:02,1622,1622,Tyler Reynolds made Layup. Assisted by Nehemiah Mack.,31,19,12,14,0.7635699920623508,0.8214127455803127,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,Nehemiah Mack,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,97,1,6:42,1602,1602,Elijah Burns Turnover.,31,19,12,20,0.7662315933836065,0.8233261732373509,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,98,1,6:42,1602,1602,Nehemiah Mack Steal.,31,19,12,0,0.7662315933836065,0.8233261732373509,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,99,1,6:37,1597,1597,Foul on Gary Harris Jr..,31,19,12,5,0.7668939589494911,0.8238015398887714,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,100,1,6:37,1597,1597,Nehemiah Mack made Free Throw.,32,19,13,0,0.7890788078213339,0.8416884802100812,4,4,-2.5,NA,NA,Manhattan,made,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,101,1,6:37,1597,1597,Nehemiah Mack missed Free Throw.,32,19,13,0,0.7890788078213339,0.8416884802100812,4,4,-2.5,NA,NA,Manhattan,missed,Nehemiah Mack,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,102,1,6:35,1595,1595,Elijah Burns Defensive Rebound.,32,19,13,2,0.7893434201088588,0.8418773561883458,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,103,1,6:22,1582,1582,Foul on Warren Williams.,32,19,13,13,0.7910611706109636,0.8431027691660736,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,104,1,6:22,1582,1582,Elijah Burns made Free Throw.,32,20,12,0,0.7688782102567883,0.825224310105401,4,4,-2.5,NA,NA,Siena,made,Elijah Burns,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,105,1,6:22,1582,1582,Elijah Burns missed Free Throw.,32,20,12,0,0.7688782102567883,0.825224310105401,4,4,-2.5,NA,NA,Siena,missed,Elijah Burns,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,106,1,6:20,1580,1580,Elijah Buchanan Defensive Rebound.,32,20,12,2,0.7691427266393063,0.8254138709729694,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,107,1,6:06,1566,1566,Tyler Reynolds missed Layup.,32,20,12,14,0.7709964970056864,0.8267420153966129,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,108,1,6:03,1563,1563,Manny Camper Defensive Rebound.,32,20,12,3,0.7713945665748904,0.8270271910784707,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,109,1,5:58,1558,1558,Foul on Pauly Paulicap.,32,20,12,5,0.7720589768506598,0.8275031993635494,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,110,1,5:58,1558,1558,Elijah Burns made Free Throw.,32,21,11,0,0.7482507305190713,0.8080462377777434,4,4,-2.5,NA,NA,Siena,made,Elijah Burns,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,111,1,5:58,1558,1558,Elijah Burns made Free Throw.,32,22,10,0,0.7228484200579273,0.7869596239856232,4,4,-2.5,NA,NA,Siena,made,Elijah Burns,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,112,1,5:37,1537,1537,Elijah Buchanan made Jumper.,34,22,12,21,0.7748680471366021,0.829516888742498,4,4,-2.5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,113,1,5:24,1524,1524,Sammy Friday IV missed Jumper.,34,22,12,13,0.7766278058284497,0.8307801605500004,4,4,-2.5,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,114,1,5:19,1519,1519,Pauly Paulicap Defensive Rebound.,34,22,12,5,0.7773100285858966,0.8312704310191156,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,115,1,4:55,1495,1495,Tyler Reynolds made Three Point Jumper.,37,22,15,24,0.8418866377664264,0.8823413630303342,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,116,1,4:48,1488,1488,Donald Carey Turnover.,37,22,15,7,0.842825464667915,0.8830088755163462,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,117,1,4:48,1488,1488,Elijah Buchanan Steal.,37,22,15,0,0.842825464667915,0.8830088755163462,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,118,1,4:44,1484,1484,Elijah Buchanan Turnover.,37,22,15,4,0.843365355803389,0.883393112369855,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,119,1,4:44,1484,1484,Siena  Turnover.,37,22,15,0,0.843365355803389,0.883393112369855,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,120,1,4:44,1484,1484,Sammy Friday IV Turnover.,37,22,15,0,0.843365355803389,0.883393112369855,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,121,1,4:21,1461,1461,Romar Reid missed Layup.,37,22,15,23,0.8465234836562573,0.8856465429088287,4,4,-2.5,NA,NA,Manhattan,missed,Romar Reid,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,122,1,4:20,1460,1460,Siena Defensive Rebound.,37,22,15,1,0.8466630396599538,0.8857463602038289,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,123,1,4:19,1459,1459,Manny Camper Turnover.,37,22,15,1,0.8468027949739899,0.8858463409987932,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,124,1,3:57,1437,1437,Elijah Buchanan missed Jumper.,37,22,15,22,0.8498797635109121,0.8880488937002371,4,4,-2.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,125,1,3:54,1434,1434,Sammy Friday IV Defensive Rebound.,37,22,15,3,0.850288815147264,0.8883409826318845,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,126,1,3:52,1432,1432,Sammy Friday IV Turnover.,37,22,15,2,0.850559846544758,0.8885343953784112,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,127,1,3:52,1432,1432,Official TV Timeout,37,22,15,0,0.850559846544758,0.8885343953784112,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,128,1,3:49,1429,1429,Adam Cisse missed Layup.,37,22,15,3,0.8509639738448705,0.888822612351061,4,4,-2.5,NA,NA,Manhattan,missed,Adam Cisse,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,129,1,3:46,1426,1426,Elijah Burns Defensive Rebound.,37,22,15,3,0.8513652982833128,0.8891086272839948,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,130,1,3:40,1420,1420,Jalen Pickett missed Three Point Jumper.,37,22,15,6,0.8521599880892737,0.8896744097297317,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,131,1,3:36,1416,1416,Elijah Buchanan Defensive Rebound.,37,22,15,4,0.8526842423361259,0.890047254806901,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,132,1,3:13,1393,1393,Adam Cisse missed Jumper.,37,22,15,23,0.8556264174403786,0.8921346115215646,4,4,-2.5,NA,NA,Manhattan,missed,Adam Cisse,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,133,1,3:11,1391,1391,Elijah Burns Defensive Rebound.,37,22,15,2,0.8558773848744956,0.8923123255328022,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,134,1,3:01,1381,1381,Manny Camper made Layup. Assisted by Jalen Pickett.,37,24,13,10,0.818827978081245,0.8630216550361782,4,4,-2.5,NA,NA,Siena,made,Manny Camper,Jalen Pickett,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,135,1,2:37,1357,1357,Foul on Manny Camper.,37,24,13,24,0.8219712778134187,0.8652620993652906,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,136,1,2:21,1341,1341,Nehemiah Mack made Three Point Jumper. Assisted by Pauly Paulicap.,40,24,16,16,0.878275168448887,0.9092592715507578,4,4,-2.5,NA,NA,Manhattan,made,Nehemiah Mack,Pauly Paulicap,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,137,1,2:11,1331,1331,Foul on Donald Carey.,40,24,16,10,0.8794368337160423,0.91007774006325,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,138,1,2:11,1331,1331,Donald Carey Turnover.,40,24,16,0,0.8794368337160423,0.91007774006325,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,139,1,2:00,1320,1320,Elijah Buchanan made Jumper.,42,24,18,11,0.9080426293711509,0.9319092418738371,4,4,-2.5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,140,1,1:43,1303,1303,Jalen Pickett missed Jumper.,42,24,18,17,0.9098107728585865,0.9331508305138895,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,141,1,1:40,1300,1300,Tyler Reynolds Defensive Rebound.,42,24,18,3,0.9101250478884869,0.9333718491887086,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,142,1,1:27,1287,1287,Pauly Paulicap made Layup. Assisted by Tyler Reynolds.,44,24,20,13,0.9325849763827507,0.9502804465790513,4,4,-2.5,NA,NA,Manhattan,made,Pauly Paulicap,Tyler Reynolds,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,143,1,1:12,1272,1272,Foul on Pauly Paulicap.,44,24,20,15,0.9339667685299798,0.9512517068857487,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,144,1,1:12,1272,1272,Manny Camper made Free Throw.,44,25,19,0,0.9241927913479486,0.9438824529928218,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,145,1,1:12,1272,1272,Manny Camper made Free Throw.,44,26,18,0,0.913106705665536,0.9354747580522085,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,146,1,0:58,1258,1258,Tyler Reynolds made Layup. Assisted by Nehemiah Mack.,46,26,20,14,0.9352798208932273,0.952177434336224,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,Nehemiah Mack,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,147,1,0:39,1239,1239,Manny Camper made Jumper. Assisted by Jalen Pickett.,46,28,18,19,0.91677667428553,0.9380801565375814,4,4,-2.5,NA,NA,Siena,made,Manny Camper,Jalen Pickett,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,148,1,0:11,1211,1211,Elijah Buchanan missed Layup.,46,28,18,28,0.9200663212070518,0.9404326567241805,4,4,-2.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,149,1,0:05,1205,1205,Adam Cisse Offensive Rebound.,46,28,18,6,0.9207869910964518,0.940949816393285,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,150,1,0:05,1205,1205,Adam Cisse made Layup.,48,28,20,0,0.9405147831141915,0.9558966267940495,4,4,-2.5,NA,NA,Manhattan,made,Adam Cisse,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,151,1,0:01,1201,1201,Gary Harris Jr. made Three Point Jumper. Assisted by Matt Hein.,48,31,17,4,0.90932645000033,0.9321676477246763,4,4,-2.5,NA,NA,Siena,made,Gary Harris Jr.,Matt Hein,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,152,1,0:00,1200,1200,End of 1st half,48,31,17,1,0.9094526450880582,0.9322584459832474,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,NA
+401172002,2020-01-12,Manhattan,Siena,153,2,20:00,1200,1200,PLAY,48,31,17,0,0.9094526450880582,0.9322584459832474,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Siena
+401172002,2020-01-12,Manhattan,Siena,154,2,19:48,1188,1188,Elijah Burns Turnover.,48,31,17,12,0.910937404029639,0.933326235788153,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,155,2,19:48,1188,1188,Nehemiah Mack Steal.,48,31,17,0,0.910937404029639,0.933326235788153,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,156,2,19:20,1160,1160,Christian Hinckson made Layup.,50,31,19,28,0.9359173974878036,0.9522361209521284,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,157,2,19:09,1149,1149,Jalen Pickett Turnover.,50,31,19,11,0.9369688947867713,0.9529874636392806,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,158,2,18:50,1130,1130,Pauly Paulicap missed Layup.,50,31,19,19,0.9387404147554487,0.9542537916801155,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,159,2,18:47,1127,1127,Donald Carey Defensive Rebound.,50,31,19,3,0.9390161390070202,0.9544509834873579,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,160,2,18:31,1111,1111,Jalen Pickett missed Jumper.,50,31,19,16,0.940474182827729,0.9554943900606092,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,161,2,18:28,1108,1108,Elijah Burns Offensive Rebound.,50,31,19,3,0.9407458285877979,0.9556889277297909,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,162,2,18:10,1090,1090,Matt Hein made Three Point Jumper. Assisted by Jalen Pickett.,50,34,16,18,0.9092936329436428,0.9314850248516916,4,4,-2.5,NA,NA,Siena,made,Matt Hein,Jalen Pickett,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,163,2,17:47,1067,1067,Pauly Paulicap missed Layup.,50,34,16,23,0.9119914409718631,0.9334375422765409,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,164,2,17:45,1065,1065,Pauly Paulicap Offensive Rebound.,50,34,16,2,0.9122282886124393,0.9336092322712571,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,165,2,17:44,1064,1064,Pauly Paulicap missed Layup.,50,34,16,1,0.9123468847885253,0.933695219957798,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,166,2,17:41,1061,1061,Jalen Pickett Defensive Rebound.,50,34,16,3,0.9127033953884276,0.9339537787866727,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,167,2,17:38,1058,1058,Foul on Pauly Paulicap.,50,34,16,3,0.9130610453910187,0.9342132744093519,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,168,2,17:38,1058,1058,Manny Camper made Free Throw.,50,35,15,0,0.8989640019975588,0.9232577653714981,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,169,2,17:38,1058,1058,Manny Camper missed Free Throw.,50,35,15,0,0.8989640019975588,0.9232577653714981,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,170,2,17:38,1058,1058,Elijah Buchanan Defensive Rebound.,50,35,15,0,0.8989640019975588,0.9232577653714981,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,171,2,17:17,1037,1037,Tyler Reynolds made Three Point Jumper. Assisted by Christian Hinckson.,53,35,18,21,0.9381680875872925,0.9534344232446377,4,4,-2.5,NA,NA,Manhattan,made,Tyler Reynolds,Christian Hinckson,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,172,2,17:00,1020,1020,Elijah Burns missed Jumper.,53,35,18,17,0.9399396837842585,0.9547192671069428,4,4,-2.5,NA,NA,Siena,missed,Elijah Burns,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,173,2,16:57,1017,1017,Elijah Buchanan Defensive Rebound.,53,35,18,3,0.9402568932980131,0.9549496965152259,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,174,2,16:28,988,988,Nehemiah Mack Turnover.,53,35,18,29,0.9434040585585148,0.9572420128957451,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,175,2,16:28,988,988,Manny Camper Steal.,53,35,18,0,0.9434040585585148,0.9572420128957451,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,176,2,16:22,982,982,Foul on Nehemiah Mack.,53,35,18,6,0.9440748827025617,0.9577320407553921,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,177,2,16:22,982,982,Manny Camper made Free Throw.,53,36,17,0,0.934185117224039,0.9501298217823811,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,178,2,16:22,982,982,Manny Camper made Free Throw.,53,37,16,0,0.9226896688516848,0.9412441684811081,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,179,2,16:03,963,963,Foul on Jalen Pickett.,53,37,16,19,0.9252883112252752,0.9431557289251402,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,180,2,15:58,958,958,Warren Williams made Jumper. Assisted by Christian Hinckson.,55,37,18,5,0.946754540930557,0.9596929366329671,4,4,-2.5,NA,NA,Manhattan,made,Warren Williams,Christian Hinckson,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,181,2,15:46,946,946,Donald Carey made Three Point Jumper.,55,40,15,12,0.9145209468118951,0.934682627995295,4,4,-2.5,NA,NA,Siena,made,Donald Carey,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,182,2,15:29,929,929,Elijah Buchanan made Jumper.,57,40,17,17,0.9402076778447535,0.9545442870488149,4,4,-2.5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,183,2,15:17,917,917,Elijah Burns Turnover.,57,40,17,12,0.9413332622554026,0.9553678409507869,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,184,2,15:17,917,917,Official TV Timeout,57,40,17,0,0.9413332622554026,0.9553678409507869,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,185,2,15:03,903,903,Foul on Jalen Pickett.,57,40,17,14,0.9425738512740331,0.9562752836982615,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,186,2,14:50,890,890,Warren Williams made Jumper. Assisted by Tyler Reynolds.,59,40,19,13,0.9602239949912277,0.9698169803013962,4,4,-2.5,NA,NA,Manhattan,made,Warren Williams,Tyler Reynolds,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,187,2,14:35,875,875,Foul on Christian Hinckson.,59,40,19,15,0.9612090603968464,0.970536152946749,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,188,2,14:28,868,868,Foul on Michael Okafor.,59,40,19,7,0.9616626154844844,0.9708675843924509,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,189,2,14:28,868,868,Manny Camper made Free Throw.,59,41,18,0,0.9542482591016243,0.965168967683424,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,190,2,14:28,868,868,Manny Camper made Free Throw.,59,42,17,0,0.9454812762516364,0.958403399242115,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,191,2,14:04,844,844,Tyler Reynolds Turnover.,59,42,17,24,0.9474449436756922,0.9598445672780475,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,192,2,14:04,844,844,Manny Camper Steal.,59,42,17,0,0.9474449436756922,0.9598445672780475,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,193,2,14:00,840,840,Manny Camper made Layup.,59,44,15,4,0.9258381724449017,0.9430110116424739,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,194,2,13:33,813,813,Elijah Buchanan missed Jumper.,59,44,15,27,0.9287222061513128,0.9451463478201645,4,4,-2.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,195,2,13:30,810,810,Manny Camper Defensive Rebound.,59,44,15,3,0.929058599871438,0.9453960569744049,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,196,2,13:19,799,799,Gary Harris Jr. missed Three Point Jumper.,59,44,15,11,0.9303257245518343,0.9463378452988014,4,4,-2.5,NA,NA,Siena,missed,Gary Harris Jr.,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,197,2,13:16,796,796,Elijah Buchanan Defensive Rebound.,59,44,15,3,0.9306811412995727,0.9466023373798282,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,198,2,13:10,790,790,Michael Okafor made Three Point Jumper. Assisted by Elijah Buchanan.,62,44,18,6,0.960290695836945,0.9696166031344924,4,4,-2.5,NA,NA,Manhattan,made,Michael Okafor,Elijah Buchanan,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,199,2,13:03,783,783,Gary Harris Jr. Turnover.,62,44,18,7,0.9609071883016004,0.9700735344176101,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,200,2,12:53,773,773,Christian Hinckson made Three Point Jumper.,65,44,21,10,0.9783352255640065,0.9834694832949417,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,201,2,12:23,743,743,Foul on Donald Carey.,65,44,21,30,0.9803047079231382,0.9849327511882023,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,202,2,12:23,743,743,Donald Carey Turnover.,65,44,21,0,0.9803047079231382,0.9849327511882023,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,203,2,12:04,724,724,Elijah Buchanan made Layup.,67,44,23,19,0.9876742417191227,0.9905668329833153,4,4,-2.5,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,204,2,11:34,694,694,Manny Camper missed Dunk.,67,44,23,30,0.9889527942238227,0.9915197392965426,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,205,2,11:34,694,694,Warren Williams Block.,67,44,23,0,0.9889527942238227,0.9915197392965426,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,206,2,11:30,690,690,Romar Reid Defensive Rebound.,67,44,23,4,0.9890988016351606,0.9916284924405002,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,207,2,11:28,688,688,Christian Hinckson made Three Point Jumper. Assisted by Romar Reid.,70,44,26,2,0.9941658146419659,0.9955240259824985,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,Romar Reid,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,208,2,11:01,661,661,Foul on Elijah Buchanan.,70,44,26,27,0.9947057994274122,0.9959270067791549,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,209,2,11:01,661,661,Official TV Timeout,70,44,26,0,0.9947057994274122,0.9959270067791549,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,210,2,10:58,658,658,Jalen Pickett made Jumper. Assisted by Matt Hein.,70,46,24,3,0.9920195793310571,0.9938546038155287,4,4,-2.5,NA,NA,Siena,made,Jalen Pickett,Matt Hein,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,211,2,10:30,630,630,Elijah Buchanan Turnover.,70,46,24,28,0.9927466923507168,0.9943982893064924,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,212,2,10:30,630,630,Kyle Young Steal.,70,46,24,0,0.9927466923507168,0.9943982893064924,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,213,2,10:26,626,626,Jordan King missed Layup.,70,46,24,4,0.9928515479705893,0.9944769096760707,4,4,-2.5,NA,NA,Siena,missed,Jordan King,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,214,2,10:26,626,626,Michael Okafor Block.,70,46,24,0,0.9928515479705893,0.9944769096760707,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,215,2,10:20,620,620,Manny Camper Offensive Rebound.,70,46,24,6,0.9930104047213756,0.9945961420915345,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,216,2,10:19,619,619,Jalen Pickett made Three Point Jumper. Assisted by Manny Camper.,70,49,21,1,0.9867157281314534,0.989713575174383,4,4,-2.5,NA,NA,Siena,made,Jalen Pickett,Manny Camper,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,217,2,9:47,587,587,Warren Williams Turnover.,70,49,21,32,0.9882260093016931,0.9908508926984565,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,218,2,9:47,587,587,Jordan King Steal.,70,49,21,0,0.9882260093016931,0.9908508926984565,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,219,2,9:39,579,579,Manny Camper missed Three Point Jumper.,70,49,21,8,0.9886351724436839,0.9911604908625374,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,TRUE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,220,2,9:35,575,575,Jalen Pickett Offensive Rebound.,70,49,21,4,0.988844927646815,0.9913194369386147,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,221,2,9:34,574,574,Matt Hein Turnover.,70,49,21,1,0.9888979070149236,0.9913596074730572,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,222,2,9:10,550,550,Elijah Buchanan missed Three Point Jumper.,70,49,21,24,0.9902320593308833,0.9923742868952514,4,4,-2.5,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,223,2,9:07,547,547,Luke Sutherland Defensive Rebound.,70,49,21,3,0.9904012607587829,0.9925033147356428,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,224,2,8:56,536,536,Luke Sutherland missed Jumper.,70,49,21,11,0.9909523412121434,0.9929232762152763,4,4,-2.5,NA,NA,Siena,missed,Luke Sutherland,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,225,2,8:54,534,534,Elijah Buchanan Defensive Rebound.,70,49,21,2,0.9910426219501052,0.9929920338029388,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,226,2,8:48,528,528,Tyler Reynolds missed Three Point Jumper.,70,49,21,6,0.9912986711892277,0.9931869777950646,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,227,2,8:45,525,525,Manny Camper Defensive Rebound.,70,49,21,3,0.9914194048751188,0.9932788704308252,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,228,2,8:35,515,515,Foul on Elijah Buchanan.,70,49,21,10,0.991794560107077,0.9935643415206277,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,229,2,8:25,505,505,Jordan King missed Jumper.,70,49,21,10,0.992140621967506,0.9938277210491782,4,4,-2.5,NA,NA,Siena,missed,Jordan King,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,230,2,8:21,501,501,Luke Sutherland Offensive Rebound.,70,49,21,4,0.9922742748002887,0.9939295024974872,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,231,2,8:21,501,501,Luke Sutherland made Layup.,70,51,19,0,0.9875055621233226,0.990172362013882,4,4,-2.5,NA,NA,Siena,made,Luke Sutherland,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,232,2,8:17,497,497,Christian Hinckson Turnover.,70,51,19,4,0.9876989102352276,0.9903194906534546,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,233,2,8:17,497,497,Manhattan  Turnover.,70,51,19,0,0.9876989102352276,0.9903194906534546,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,234,2,8:17,497,497,Official TV Timeout,70,51,19,0,0.9876989102352276,0.9903194906534546,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,235,2,8:02,482,482,Jalen Pickett made Three Point Jumper.,70,54,16,15,0.9760440716009502,0.9810604535101927,4,4,-2.5,NA,NA,Siena,made,Jalen Pickett,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,236,2,7:51,471,471,Christian Hinckson Turnover.,70,54,16,11,0.9770138878872887,0.9818019787070751,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,237,2,7:51,471,471,Manny Camper Steal.,70,54,16,0,0.9770138878872887,0.9818019787070751,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,238,2,7:46,466,466,Foul on Christian Hinckson.,70,54,16,5,0.977477812797595,0.9821576950401206,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,239,2,7:46,466,466,Official TV Timeout,70,54,16,0,0.977477812797595,0.9821576950401206,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,240,2,7:46,466,466,Jordan King made Free Throw.,70,55,15,0,0.9712504835046198,0.9771941514941438,4,4,-2.5,NA,NA,Siena,made,Jordan King,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,241,2,7:46,466,466,Jordan King made Free Throw.,70,56,14,0,0.9633658445901879,0.9708907262427222,4,4,-2.5,NA,NA,Siena,made,Jordan King,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,242,2,7:22,442,442,Tyler Reynolds missed Three Point Jumper.,70,56,14,24,0.9669177094972718,0.9736322944594891,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,243,2,7:18,438,438,Pauly Paulicap Offensive Rebound.,70,56,14,4,0.9675867891851521,0.974151385021231,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,244,2,7:16,436,436,Pauly Paulicap missed Layup.,70,56,14,2,0.9679301638667387,0.974418068734693,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,245,2,7:16,436,436,Luke Sutherland Block.,70,56,14,0,0.9679301638667387,0.974418068734693,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,246,2,7:16,436,436,Manhattan Offensive Rebound.,70,56,14,0,0.9679301638667387,0.974418068734693,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,247,2,7:01,421,421,Foul on Manny Camper.,70,56,14,15,0.9705441838548826,0.9764509934308673,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,248,2,6:52,412,412,Pauly Paulicap missed Jumper.,70,56,14,9,0.9719431003224588,0.9775368045455455,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,249,2,6:46,406,406,Luke Sutherland Defensive Rebound.,70,56,14,6,0.9728129681027942,0.9782111978605325,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,250,2,6:27,387,387,Manny Camper made Layup.,70,58,12,19,0.9577568739475568,0.9659083290137138,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,251,2,6:27,387,387,Foul on Christian Hinckson.,70,58,12,0,0.9577568739475568,0.9659083290137138,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,252,2,6:27,387,387,Manny Camper missed Free Throw.,70,58,12,0,0.9577568739475568,0.9659083290137138,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,253,2,6:26,386,386,Warren Williams Defensive Rebound.,70,58,12,1,0.9579441544194611,0.9660536058896403,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,254,2,6:03,363,363,Tyler Reynolds missed Three Point Jumper.,70,58,12,23,0.9622635005280813,0.9694129307425476,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,255,2,5:59,359,359,Manny Camper Defensive Rebound.,70,58,12,4,0.9630346344660231,0.9700152421841272,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,256,2,5:49,349,349,Manny Camper made Layup.,70,60,10,10,0.9386924536146609,0.9499177806147348,4,4,-2.5,NA,NA,Siena,made,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,257,2,5:17,317,317,Samir Stewart Turnover.,70,60,10,32,0.9488051010784063,0.9579370761174603,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,258,2,5:17,317,317,Jordan King Steal.,70,60,10,0,0.9488051010784063,0.9579370761174603,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,259,2,5:09,309,309,Jalen Pickett missed Three Point Jumper.,70,60,10,8,0.9516023980213768,0.9601754380444915,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,260,2,5:05,305,305,Christian Hinckson Defensive Rebound.,70,60,10,4,0.9527696623796956,0.9611047455138827,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,261,2,4:38,278,278,Elijah Buchanan Turnover.,70,60,10,27,0.9544457576805575,0.9622407254354328,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,262,2,4:38,278,278,Jalen Pickett Steal.,70,60,10,0,0.9544457576805575,0.9622407254354328,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,263,2,4:24,264,264,Jalen Pickett missed Jumper.,70,60,10,14,0.9529693671628616,0.9608682024023923,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,264,2,4:22,262,262,Nehemiah Mack Defensive Rebound.,70,60,10,2,0.9527165204861845,0.9606359261208155,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,265,2,3:59,239,239,Tyler Reynolds missed Three Point Jumper.,70,60,10,23,0.9506200166512292,0.9586259315596799,4,4,-2.5,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,266,2,3:56,236,236,Christian Hinckson Offensive Rebound.,70,60,10,3,0.9506199025673998,0.9585919237257793,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,267,2,3:38,218,218,Nehemiah Mack missed Three Point Jumper.,70,60,10,18,0.953107183980273,0.960492190243706,4,4,-2.5,NA,NA,Manhattan,missed,Nehemiah Mack,NA,TRUE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,268,2,3:35,215,215,Warren Williams Offensive Rebound.,70,60,10,3,0.9540114295937453,0.9612251792409465,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,269,2,3:21,201,201,Foul on Luke Sutherland.,70,60,10,14,0.9602011797173694,0.9663314383828615,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,270,2,3:21,201,201,Official TV Timeout,70,60,10,0,0.9602011797173694,0.9663314383828615,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,271,2,3:21,201,201,Christian Hinckson made Free Throw.,71,60,11,0,0.9712235630419256,0.9756989992482257,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,272,2,3:21,201,201,Christian Hinckson missed Free Throw.,71,60,11,0,0.9712235630419256,0.9756989992482257,4,4,-2.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,273,2,3:20,200,200,Kyle Young Defensive Rebound.,71,60,11,1,0.9716715568769408,0.9760712140663871,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,274,2,3:06,186,186,Manny Camper missed Layup.,71,60,11,14,0.9786719537513554,0.9819182764928265,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,275,2,3:04,184,184,Samir Stewart Defensive Rebound.,71,60,11,2,0.9796265667376592,0.9827180258302555,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,276,2,2:37,157,157,Samir Stewart missed Three Point Jumper.,71,60,11,27,0.989426831219026,0.9909563605923387,4,4,-2.5,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,277,2,2:34,154,154,Kyle Young Defensive Rebound.,71,60,11,3,0.9902376193402446,0.9916414305563203,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,278,2,2:29,149,149,Manny Camper made Three Point Jumper. Assisted by Jalen Pickett.,71,63,8,5,0.9682666602949809,0.9726921400768962,4,4,-2.5,NA,NA,Siena,made,Manny Camper,Jalen Pickett,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,279,2,2:00,120,120,Samir Stewart made Three Point Jumper. Assisted by Tyler Reynolds.,74,63,11,29,0.9966633562156721,0.9971071990072935,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,Tyler Reynolds,TRUE,FALSE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,280,2,1:45,105,105,Jordan King made Three Point Jumper. Assisted by Kyle Young.,74,66,8,15,0.9895495323990714,0.9908738559449926,4,4,-2.5,NA,NA,Siena,made,Jordan King,Kyle Young,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,281,2,1:41,101,101,Foul on Jordan King.,74,66,8,4,0.9908229623874798,0.9919733906086745,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,282,2,1:24,84,84,Pauly Paulicap missed Layup.,74,66,8,17,0.9949799353593218,0.995578313521328,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,283,2,1:24,84,84,Jalen Pickett Block.,74,66,8,0,0.9949799353593218,0.995578313521328,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,284,2,1:23,83,83,Pauly Paulicap Offensive Rebound.,74,66,8,1,0.9951626865630582,0.9957374500398825,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,285,2,1:23,83,83,Foul on Manny Camper.,74,66,8,0,0.9951626865630582,0.9957374500398825,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,286,2,1:23,83,83,Pauly Paulicap missed Free Throw.,74,66,8,0,0.9951626865630582,0.9957374500398825,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,287,2,1:23,83,83,Manhattan Offensive Rebound.,74,66,8,0,0.9951626865630582,0.9957374500398825,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,288,2,1:23,83,83,Pauly Paulicap missed Free Throw.,74,66,8,0,0.9951626865630582,0.9957374500398825,4,4,-2.5,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,289,2,1:22,82,82,Kyle Young Defensive Rebound.,74,66,8,1,0.9953398311503681,0.9958917741181347,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,290,2,1:11,71,71,Jordan King missed Three Point Jumper.,74,66,8,11,0.9969662739205352,0.9973125231327212,4,4,-2.5,NA,NA,Siena,missed,Jordan King,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,291,2,1:08,68,68,Tyler Reynolds Defensive Rebound.,74,66,8,3,0.9973188276700184,0.9976215880151447,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,292,2,0:56,56,56,Foul on Jordan King.,74,66,8,12,0.9983937780749502,0.998567152294397,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,293,2,0:56,56,56,Christian Hinckson made Free Throw.,75,66,9,0,0.9992907515480927,0.9993673685677763,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,294,2,0:56,56,56,Christian Hinckson missed Free Throw.,75,66,9,0,0.9992907515480927,0.9993673685677763,4,4,-2.5,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,295,2,0:55,55,55,Kyle Young Defensive Rebound.,75,66,9,1,0.9993251222642905,0.9993977372483436,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,296,2,0:43,43,43,Jordan King Turnover.,75,66,9,12,0.9996367040980594,0.9996738865566699,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,297,2,0:43,43,43,Samir Stewart Steal.,75,66,9,0,0.9996367040980594,0.9996738865566699,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,298,2,0:43,43,43,Foul on Jalen Pickett.,75,66,9,0,0.9996367040980594,0.9996738865566699,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,299,2,0:43,43,43,Christian Hinckson made Free Throw.,76,66,10,0,0.9998510755911841,0.9998663205789873,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,300,2,0:43,43,43,Christian Hinckson made Free Throw.,77,66,11,0,0.9999389597479903,0.9999452087660299,4,4,-2.5,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,301,2,0:39,39,39,Jordan King made Three Point Jumper. Assisted by Donald Carey.,77,69,8,4,0.9992693395189144,0.9993427801713602,4,4,-2.5,NA,NA,Siena,made,Jordan King,Donald Carey,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,302,2,0:29,29,29,Foul on Jordan King.,77,69,8,10,0.9995565164600992,0.9995990684704311,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,303,2,0:29,29,29,Samir Stewart made Free Throw.,78,69,9,0,0.999833120413228,0.9998491364267251,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,304,2,0:29,29,29,Samir Stewart made Free Throw.,79,69,10,0,0.9999372152781297,0.9999432415130637,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,305,2,0:24,24,24,Jordan King missed Three Point Jumper.,79,69,10,5,0.9999544663224624,0.9999587303921296,4,4,-2.5,NA,NA,Siena,missed,Jordan King,NA,TRUE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,306,2,0:21,21,21,Jalen Pickett Offensive Rebound.,79,69,10,3,0.9999625705274857,0.9999660226783988,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,307,2,0:19,19,19,Foul on Tyler Reynolds.,79,69,10,2,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,308,2,0:19,19,19,Jalen Pickett missed Free Throw.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,309,2,0:19,19,19,Siena Offensive Rebound.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,310,2,0:19,19,19,Jalen Pickett missed Free Throw.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,311,2,0:19,19,19,Siena Offensive Rebound.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,312,2,0:19,19,19,Jalen Pickett missed Free Throw.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,TRUE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,313,2,0:19,19,19,Jalen Pickett Offensive Rebound.,79,69,10,0,0.99996723910815,0.9999702294795415,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,314,2,0:17,17,17,Jordan King missed Three Point Jumper.,79,69,10,2,0.9999713828621262,0.9999739675610575,4,4,-2.5,NA,NA,Siena,missed,Jordan King,NA,TRUE,FALSE,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,315,2,0:14,14,14,Pauly Paulicap Defensive Rebound.,79,69,10,3,0.9999767184727893,0.9999787875022106,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Manhattan
+401172002,2020-01-12,Manhattan,Siena,316,2,0:11,11,11,Foul on Donald Carey.,79,69,10,3,0.99998113190395,0.9999827810979681,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,317,2,0:11,11,11,Samir Stewart made Free Throw.,80,69,11,0,0.9999937000829663,0.9999942507429072,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172002,2020-01-12,Manhattan,Siena,318,2,0:11,11,11,Samir Stewart made Free Throw.,81,69,12,0,0.9999978965221368,0.9999980803825631,4,4,-2.5,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Siena
+401172002,2020-01-12,Manhattan,Siena,319,2,0:02,2,2,Manny Camper missed Layup.,81,69,12,9,0.9999990343328581,0.9999991144283177,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,320,2,0:02,2,2,Gary Harris Jr. Offensive Rebound.,81,69,12,0,0.9999990343328581,0.9999991144283177,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,321,2,0:01,1,1,Gary Harris Jr. missed Jumper.,81,69,12,1,0.9999991158794653,0.999999188767166,4,4,-2.5,NA,NA,Siena,missed,Gary Harris Jr.,NA,FALSE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,322,2,0:01,1,1,Manny Camper Offensive Rebound.,81,69,12,0,0.9999991158794653,0.999999188767166,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,323,2,0:00,0,0,Manny Camper missed Three Point Jumper.,81,69,12,1,1,1,4,4,-2.5,NA,NA,Siena,missed,Manny Camper,NA,TRUE,FALSE,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,324,2,0:00,0,0,Siena Offensive Rebound.,81,69,12,0,1,1,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172002,2020-01-12,Manhattan,Siena,325,2,0:00,0,0,End of Game,81,69,12,0,1,1,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Siena,NA

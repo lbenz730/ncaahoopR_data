@@ -1,0 +1,303 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166158,2020-01-08,Wisconsin,Illinois,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6551430901604922,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,2,1,19:31,2371,2371,Trent Frazier missed Three Point Jumper.,0,0,0,29,0.6547185958323591,0.5,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,3,1,19:27,2367,2367,Trent Frazier Offensive Rebound.,0,0,0,4,0.6546588630993171,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,4,1,19:20,2360,2360,Foul on Ayo Dosunmu.,0,0,0,7,0.654553628312233,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,5,1,19:20,2360,2360,Ayo Dosunmu Turnover.,0,0,0,0,0.654553628312233,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,6,1,18:58,2338,2338,Aleem Ford missed Layup.,0,0,0,22,0.6542169797629246,0.5,4,4,4,NA,NA,Wisconsin,missed,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,7,1,18:53,2333,2333,Da'Monte Williams Defensive Rebound.,0,0,0,5,0.6541391984214443,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,8,1,18:33,2313,2313,Trent Frazier missed Layup.,0,0,0,20,0.6538232675777066,0.5,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,9,1,18:33,2313,2313,Nate Reuvers Block.,0,0,0,0,0.6538232675777066,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,10,1,18:29,2309,2309,Brad Davison Defensive Rebound.,0,0,0,4,0.6537591468153932,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,11,1,18:13,2293,2293,Brad Davison missed Jumper.,0,0,0,16,0.6534994934673524,0.5,4,4,4,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,12,1,18:08,2288,2288,Aleem Ford Offensive Rebound.,0,0,0,5,0.6534173002481203,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,13,1,18:07,2287,2287,Aleem Ford made Layup.,2,0,2,1,0.6943356581354504,0.5464770070814524,4,4,4,NA,NA,Wisconsin,made,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,14,1,17:49,2269,2269,Kofi Cockburn missed Jumper.,2,0,2,18,0.6943997686559858,0.5468806166740243,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,15,1,17:45,2265,2265,D'Mitrik Trice Defensive Rebound.,2,0,2,4,0.6944135207311005,0.5469706971582785,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,16,1,17:41,2261,2261,Kobe King made Layup. Assisted by D'Mitrik Trice.,4,0,4,4,0.7329616765610687,0.5932953283113396,4,4,4,NA,NA,Wisconsin,made,Kobe King,D'Mitrik Trice,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,17,1,17:25,2245,2245,Giorgi Bezhanishvili made Jumper.,4,2,2,16,0.694479355763101,0.5474230472968541,4,4,4,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,18,1,17:07,2227,2227,Kobe King missed Jumper.,4,2,2,18,0.6945341153471047,0.5478326863301047,4,4,4,NA,NA,Wisconsin,missed,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,19,1,17:02,2222,2222,Kofi Cockburn Defensive Rebound.,4,2,2,5,0.694548515468757,0.5479468560005873,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,20,1,16:49,2209,2209,Da'Monte Williams missed Three Point Jumper.,4,2,2,13,0.6945842110406865,0.5482443987813758,4,4,4,NA,NA,Illinois,missed,Da'Monte Williams,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,21,1,16:47,2207,2207,Nate Reuvers Defensive Rebound.,4,2,2,2,0.6945894722305906,0.548290259298426,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,22,1,16:47,2207,2207,Foul on Giorgi Bezhanishvili.,4,2,2,0,0.6945894722305906,0.548290259298426,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,23,1,16:31,2191,2191,Kobe King made Jumper.,6,2,4,16,0.7344075390444857,0.5964027882570464,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,24,1,16:21,2181,2181,Foul on Nate Reuvers.,6,2,4,10,0.7346098133736121,0.5968505663186051,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,25,1,16:03,2163,2163,Andres Feliz missed Layup.,6,2,4,18,0.7349705595663003,0.5976583357494077,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,26,1,16:03,2163,2163,Micah Potter Block.,6,2,4,0,0.7349705595663003,0.5976583357494077,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,27,1,15:59,2159,2159,Micah Potter Defensive Rebound.,6,2,4,4,0.7350503066741726,0.5978383183584584,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,28,1,15:48,2148,2148,Foul on Kobe King.,6,2,4,11,0.7352690556975238,0.5983343958667185,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,29,1,15:48,2148,2148,Kobe King Turnover.,6,2,4,0,0.7352690556975238,0.5983343958667185,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,30,1,15:48,2148,2148,Official TV Timeout,6,2,4,0,0.7352690556975238,0.5983343958667185,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,31,1,15:27,2127,2127,Kipper Nichols missed Layup.,6,2,4,21,0.7356846896283774,0.5992862919891592,4,4,4,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,32,1,15:27,2127,2127,Micah Potter Block.,6,2,4,0,0.7356846896283774,0.5992862919891592,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,33,1,15:24,2124,2124,Illinois Offensive Rebound.,6,2,4,3,0.7357438835887874,0.5994228222266862,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,34,1,15:15,2115,2115,Trent Frazier made Jumper.,6,4,2,9,0.6947647393400501,0.5504243083587975,4,4,4,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,35,1,14:55,2095,2095,D'Mitrik Trice missed Jumper.,6,4,2,20,0.6947886946750644,0.5508970677165204,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,36,1,14:51,2091,2091,Andres Feliz Defensive Rebound.,6,4,2,4,0.6947929870854352,0.5509920780621692,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,37,1,14:41,2081,2081,Kofi Cockburn made Layup. Assisted by Kipper Nichols.,6,6,0,10,0.6495423505516498,0.5,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,Kipper Nichols,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,38,1,14:25,2065,2065,Foul on Alan Griffin.,6,6,0,16,0.6492046931520395,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,39,1,14:25,2065,2065,Micah Potter made Free Throw.,7,6,1,0,0.6724179149413235,0.525875911233899,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,40,1,14:25,2065,2065,Micah Potter made Free Throw.,8,6,2,0,0.6948171423155197,0.5516135883166307,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,41,1,14:03,2043,2043,Alan Griffin made Three Point Jumper.,8,9,-1,22,0.6245250208228125,0.47385615436439604,4,4,4,NA,NA,Illinois,made,Alan Griffin,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,42,1,13:30,2010,2010,Trevor Anderson Turnover.,8,9,-1,33,0.6233937304668055,0.4734488627503662,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,43,1,13:14,1994,1994,Foul on Tyler Wahl.,8,9,-1,16,0.6228348954350506,0.4732489017809514,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,44,1,13:14,1994,1994,Foul on Giorgi Bezhanishvili.,8,9,-1,0,0.6228348954350506,0.4732489017809514,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,45,1,13:14,1994,1994,Giorgi Bezhanishvili Turnover.,8,9,-1,0,0.6228348954350506,0.4732489017809514,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,46,1,12:56,1976,1976,Foul on Andres Feliz.,8,9,-1,18,0.6221981510658054,0.47302188854523886,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,47,1,12:41,1961,1961,Nate Reuvers made Jumper.,10,9,1,15,0.671322114416302,0.5271690218209801,4,4,4,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,48,1,12:33,1953,1953,Ayo Dosunmu made Layup.,10,11,-1,8,0.6213721339057507,0.4727284938592801,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,49,1,12:18,1938,1938,Foul on Alan Griffin.,10,11,-1,15,0.6208259394332428,0.4725350508553408,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,50,1,11:59,1919,1919,Nate Reuvers missed Three Point Jumper.,10,11,-1,19,0.6201256460179718,0.47228815893659803,4,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,51,1,11:54,1914,1914,Andres Feliz Defensive Rebound.,10,11,-1,5,0.6199398081162968,0.4722232274586423,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,52,1,11:38,1898,1898,Kofi Cockburn missed Layup.,10,11,-1,16,0.6193407769862548,0.4720156351671368,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,53,1,11:34,1894,1894,Tyler Wahl Defensive Rebound.,10,11,-1,4,0.6191899800922123,0.4719637560726225,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,54,1,11:34,1894,1894,Official TV Timeout,10,11,-1,0,0.6191899800922123,0.4719637560726225,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,55,1,11:12,1872,1872,Nate Reuvers made Jumper.,12,11,1,22,0.6702643137358475,0.5283217541739113,4,4,4,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,56,1,10:37,1837,1837,Kipper Nichols missed Three Point Jumper.,12,11,1,35,0.6698031814822105,0.5287781608038282,4,4,4,NA,NA,Illinois,missed,Kipper Nichols,NA,TRUE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,57,1,10:31,1831,1831,Ayo Dosunmu Offensive Rebound.,12,11,1,6,0.6697220565881712,0.5288568719561721,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,58,1,10:30,1830,1830,Ayo Dosunmu made Dunk.,12,13,-1,1,0.6167200724998055,0.4711299923414153,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,59,1,10:15,1815,1815,Foul on Da'Monte Williams.,12,13,-1,15,0.6161254546805188,0.47093229959982474,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,60,1,10:15,1815,1815,Brevin Pritzl made Free Throw.,13,13,0,0,0.6432588738092203,0.5,4,4,4,NA,NA,Wisconsin,made,Brevin Pritzl,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,61,1,10:15,1815,1815,Brevin Pritzl made Free Throw.,14,13,1,0,0.6695031894001494,0.5290677004001753,4,4,4,NA,NA,Wisconsin,made,Brevin Pritzl,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,62,1,9:53,1793,1793,Kofi Cockburn made Jumper.,14,15,-1,22,0.6152423985496376,0.4706397212812061,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,63,1,9:32,1772,1772,Tyler Wahl made Layup.,16,15,1,21,0.6689002853977365,0.5296431514753851,4,4,4,NA,NA,Wisconsin,made,Tyler Wahl,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,64,1,9:16,1756,1756,Ayo Dosunmu missed Layup.,16,15,1,16,0.6686720134385595,0.5298614808173907,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,65,1,9:12,1752,1752,Tyler Wahl Defensive Rebound.,16,15,1,4,0.6686147212779019,0.5299164848900471,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,66,1,9:01,1741,1741,Nate Reuvers missed Jumper.,16,15,1,11,0.668456816641174,0.5300686819994131,4,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,67,1,8:57,1737,1737,Da'Monte Williams Defensive Rebound.,16,15,1,4,0.6683992938590134,0.5301243814583058,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,68,1,8:38,1718,1718,Andres Feliz missed Three Point Jumper.,16,15,1,19,0.6681256344885993,0.5303917317582819,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,TRUE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,69,1,8:34,1714,1714,Kofi Cockburn Offensive Rebound.,16,15,1,4,0.6680679863851534,0.5304486329211405,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,70,1,8:34,1714,1714,Foul on Kofi Cockburn.,16,15,1,0,0.6680679863851534,0.5304486329211405,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,71,1,8:34,1714,1714,Kofi Cockburn Turnover.,16,15,1,0,0.6680679863851534,0.5304486329211405,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,72,1,8:16,1696,1696,Micah Potter missed Jumper.,16,15,1,18,0.6678087707055473,0.5307075530645843,4,4,4,NA,NA,Wisconsin,missed,Micah Potter,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,73,1,8:13,1693,1693,Kofi Cockburn Defensive Rebound.,16,15,1,3,0.6677656344126366,0.5307511825321546,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,74,1,8:03,1683,1683,Ayo Dosunmu missed Jumper.,16,15,1,10,0.6676203515596064,0.5308966826705475,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,75,1,8:01,1681,1681,Illinois Offensive Rebound.,16,15,1,2,0.6675905746531036,0.530925546049774,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,76,1,7:47,1667,1667,Trent Frazier missed Jumper.,16,15,1,14,0.6673752855241719,0.5311253110946292,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,77,1,7:47,1667,1667,Brad Davison Defensive Rebound.,16,15,1,0,0.6673752855241719,0.5311253110946292,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,78,1,7:35,1655,1655,Brad Davison made Three Point Jumper. Assisted by D'Mitrik Trice.,19,15,4,12,0.744878910775063,0.6227778389481408,4,4,4,NA,NA,Wisconsin,made,Brad Davison,D'Mitrik Trice,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,79,1,7:20,1640,1640,Andres Feliz made Three Point Jumper. Assisted by Ayo Dosunmu.,19,18,1,15,0.6669300900131344,0.53150149162019,4,4,4,NA,NA,Illinois,made,Andres Feliz,Ayo Dosunmu,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,80,1,7:03,1623,1623,Brevin Pritzl missed Three Point Jumper.,19,18,1,17,0.6666330372050019,0.5317341968506883,4,4,4,NA,NA,Wisconsin,missed,Brevin Pritzl,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,81,1,7:01,1621,1621,Trent Frazier Defensive Rebound.,19,18,1,2,0.6665973812875303,0.5317614431760985,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,82,1,6:59,1619,1619,Ayo Dosunmu made Dunk. Assisted by Trent Frazier.,19,20,-1,2,0.6077875014125181,0.46821133033697643,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,Trent Frazier,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,83,1,6:27,1587,1587,D'Mitrik Trice missed Layup.,19,20,-1,32,0.606323824526476,0.4677766120289617,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,84,1,6:27,1587,1587,Micah Potter Offensive Rebound.,19,20,-1,0,0.606323824526476,0.4677766120289617,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,85,1,6:27,1587,1587,Foul on Jermaine Hamlin.,19,20,-1,0,0.606323824526476,0.4677766120289617,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,86,1,6:27,1587,1587,Official TV Timeout,19,20,-1,0,0.606323824526476,0.4677766120289617,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,87,1,6:27,1587,1587,Micah Potter made Free Throw.,20,20,0,0,0.636674167466083,0.5,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,88,1,6:27,1587,1587,Micah Potter made Free Throw.,21,20,1,0,0.6659736933297883,0.5322233879710383,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,89,1,6:17,1577,1577,Ayo Dosunmu missed Jumper.,21,20,1,10,0.6657856029131499,0.5323597335139099,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,90,1,6:17,1577,1577,Nate Reuvers Block.,21,20,1,0,0.6657856029131499,0.5323597335139099,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,91,1,6:12,1572,1572,Kipper Nichols Offensive Rebound.,21,20,1,5,0.6656910648927062,0.5324281561398976,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,92,1,6:06,1566,1566,Ayo Dosunmu missed Three Point Jumper.,21,20,1,6,0.6655772990122178,0.5325105465611225,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,93,1,6:02,1562,1562,Nate Reuvers Defensive Rebound.,21,20,1,4,0.6655013101308594,0.5325656726299244,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,94,1,5:49,1549,1549,Aleem Ford missed Three Point Jumper.,21,20,1,13,0.6652539619284025,0.5327461649580855,4,4,4,NA,NA,Wisconsin,missed,Aleem Ford,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,95,1,5:42,1542,1542,Kofi Cockburn Defensive Rebound.,21,20,1,7,0.6651208065614506,0.5328443509627893,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,96,1,5:32,1532,1532,Foul on Nate Reuvers.,21,20,1,10,0.6649310423405443,0.5329860615105957,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,97,1,5:32,1532,1532,Kofi Cockburn missed Free Throw.,21,20,1,0,0.6649310423405443,0.5329860615105957,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,98,1,5:32,1532,1532,Illinois Offensive Rebound.,21,20,1,0,0.6649310423405443,0.5329860615105957,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,99,1,5:32,1532,1532,Kofi Cockburn made Free Throw.,21,21,0,0,0.6348802036311985,0.5,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,100,1,5:16,1516,1516,Kobe King made Jumper.,23,21,2,16,0.6936115722580509,0.5661420075035216,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,101,1,4:55,1495,1495,Kofi Cockburn missed Layup.,23,21,2,21,0.6935082436887081,0.5667587178944022,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,102,1,4:52,1492,1492,Micah Potter Defensive Rebound.,23,21,2,3,0.6934952225634198,0.5668487933113459,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,103,1,4:37,1477,1477,Micah Potter made Three Point Jumper. Assisted by Aleem Ford.,26,21,5,15,0.7725124507099768,0.6631102649427902,4,4,4,NA,NA,Wisconsin,made,Micah Potter,Aleem Ford,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,104,1,4:06,1446,1446,Trent Frazier missed Jumper.,26,21,5,31,0.7735234525302815,0.6653756996873851,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,105,1,4:03,1443,1443,Micah Potter Defensive Rebound.,26,21,5,3,0.7736238593083319,0.6655981108897443,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,106,1,3:57,1437,1437,Kobe King made Jumper.,28,21,7,6,0.8184884685808121,0.7244113694174779,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,107,1,3:39,1419,1419,Foul on Brad Davison.,28,21,7,18,0.8193086560563928,0.7260302538491947,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,108,1,3:39,1419,1419,Official TV Timeout,28,21,7,0,0.8193086560563928,0.7260302538491947,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,109,1,3:32,1412,1412,Kofi Cockburn made Dunk. Assisted by Ayo Dosunmu.,28,23,5,7,0.7745900313201872,0.6678186116021697,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,Ayo Dosunmu,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,110,1,3:09,1389,1389,Foul on Kofi Cockburn.,28,23,5,23,0.775245068409003,0.669400653669728,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,111,1,3:09,1389,1389,Micah Potter made Free Throw.,29,23,6,0,0.798872719991547,0.6998472675052645,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,112,1,3:09,1389,1389,Micah Potter made Free Throw.,30,23,7,0,0.8205913102053948,0.7286266237199672,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,113,1,2:56,1376,1376,Andres Feliz missed Layup.,30,23,7,13,0.8211268943919185,0.7297280503340247,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,114,1,2:52,1372,1372,Micah Potter Defensive Rebound.,30,23,7,4,0.821290385723617,0.7300655375431236,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,115,1,2:49,1369,1369,Kobe King missed Three Point Jumper.,30,23,7,3,0.8214127522984034,0.7303184072313745,4,4,4,NA,NA,Wisconsin,missed,Kobe King,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,116,1,2:45,1365,1365,Brad Davison Offensive Rebound.,30,23,7,4,0.8215756818880916,0.7306553784084776,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,117,1,2:30,1350,1350,Micah Potter Turnover.,30,23,7,15,0.8221865991280238,0.7319199221452796,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,118,1,2:03,1323,1323,Andres Feliz missed Three Point Jumper.,30,23,7,27,0.8233043662402797,0.734222915731731,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,TRUE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,119,1,2:00,1320,1320,Illinois Offensive Rebound.,30,23,7,3,0.8234314151942845,0.7344827170730402,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,120,1,2:00,1320,1320,Foul on Brad Davison.,30,23,7,0,0.8234314151942845,0.7344827170730402,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,121,1,1:39,1299,1299,Andres Feliz made Layup.,30,25,5,21,0.7777568767156853,0.6755889404867471,4,4,4,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,122,1,1:19,1279,1279,Micah Potter missed Layup.,30,25,5,20,0.7783934409674214,0.677068321321265,4,4,4,NA,NA,Wisconsin,missed,Micah Potter,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,123,1,1:15,1275,1275,Giorgi Bezhanishvili Defensive Rebound.,30,25,5,4,0.7785274768082111,0.6773725978603699,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,124,1,1:08,1268,1268,Andres Feliz Turnover.,30,25,5,7,0.778768142002117,0.6779126463292786,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,125,1,1:08,1268,1268,Micah Potter Steal.,30,25,5,0,0.778768142002117,0.6779126463292786,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,126,1,0:57,1257,1257,D'Mitrik Trice made Jumper.,32,25,7,11,0.8263633459134675,0.7402856134038083,4,4,4,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,127,1,0:53,1253,1253,Illinois  Timeout,32,25,7,4,0.8265727720145812,0.7406842882280281,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,128,1,0:41,1241,1241,Ayo Dosunmu made Jumper.,32,27,5,12,0.7797794623066108,0.680097844344654,3,4,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,129,1,0:10,1210,1210,Micah Potter made Layup. Assisted by D'Mitrik Trice.,34,27,7,31,0.8290713263648097,0.7452880623537732,3,4,4,NA,NA,Wisconsin,made,Micah Potter,D'Mitrik Trice,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,130,1,0:02,1202,1202,Trent Frazier missed Three Point Jumper.,34,27,7,8,0.8295770968702538,0.7461959315992981,3,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,131,1,0:00,1200,1200,Andres Feliz Offensive Rebound.,34,27,7,2,0.8297017028640887,0.7464201950257411,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,132,1,0:00,1200,1200,Foul on Tyler Wahl.,34,27,7,0,0.8297017028640887,0.7464201950257411,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,133,1,0:00,1200,1200,Wisconsin  Timeout,34,27,7,0,0.8297017028640887,0.7464201950257411,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,134,1,0:00,1200,1200,Andres Feliz missed Free Throw.,34,27,7,0,0.8297017028640887,0.7464201950257411,3,3,4,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,135,1,0:00,1200,1200,Illinois Offensive Rebound.,34,27,7,0,0.8297017028640887,0.7464201950257411,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,136,1,0:00,1200,1200,Andres Feliz made Free Throw.,34,28,6,0,0.8067898293812962,0.7161370692370593,3,3,4,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,137,1,0:00,1200,1200,End of 1st half,34,27,7,0,0.8297017028640887,0.7464201950257411,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA
+401166158,2020-01-08,Wisconsin,Illinois,138,2,20:00,1200,1200,PLAY,34,27,7,0,0.8297017028640887,0.7464201950257411,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,139,2,19:41,1181,1181,Ayo Dosunmu made Three Point Jumper. Assisted by Giorgi Bezhanishvili.,34,31,3,19,0.7248130855955048,0.6147732529912852,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,Giorgi Bezhanishvili,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,140,2,19:06,1146,1146,Kobe King made Layup.,36,31,5,35,0.7839611792242833,0.6884927587551898,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,141,2,18:55,1135,1135,Kofi Cockburn made Jumper. Assisted by Trent Frazier.,36,33,3,11,0.7256476756721367,0.6173855801884942,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,Trent Frazier,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,142,2,18:35,1115,1115,Kobe King made Jumper.,38,33,5,20,0.7852651640294079,0.6911284673489984,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,143,2,18:09,1089,1089,Giorgi Bezhanishvili made Jumper.,38,35,3,26,0.7264970781352295,0.6200055132220097,4,4,4,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,144,2,17:48,1068,1068,Kobe King made Layup.,40,35,5,21,0.7873470142766452,0.6952539468019623,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,145,2,17:42,1062,1062,Foul on Brad Davison.,40,35,5,6,0.7876311253454844,0.6958045038468726,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,146,2,17:42,1062,1062,Ayo Dosunmu made Free Throw.,40,36,4,0,0.7586377539765382,0.6596912276379977,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,147,2,17:42,1062,1062,Ayo Dosunmu made Free Throw.,40,37,3,0,0.7270577871320936,0.6216220945180652,4,4,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,148,2,17:32,1052,1052,Foul on Alan Griffin.,40,37,3,10,0.7272843127341432,0.6222453938019109,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,149,2,17:31,1051,1051,Foul on Andres Feliz.,40,37,3,1,0.7273076232472961,0.6223085863082917,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,150,2,17:22,1042,1042,Foul on Kofi Cockburn.,40,37,3,9,0.7275232191096715,0.6228849437385835,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,151,2,17:22,1042,1042,Nate Reuvers missed Free Throw.,40,37,3,0,0.7275232191096715,0.6228849437385835,4,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,152,2,17:22,1042,1042,Wisconsin Offensive Rebound.,40,37,3,0,0.7275232191096715,0.6228849437385835,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,153,2,17:22,1042,1042,Nate Reuvers made Free Throw.,41,37,4,0,0.7593945487179803,0.6612975704393407,4,4,4,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,154,2,17:11,1031,1031,Kipper Nichols Turnover.,41,37,4,11,0.7598392119070322,0.6622184518530531,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,155,2,17:11,1031,1031,Nate Reuvers Steal.,41,37,4,0,0.7598392119070322,0.6622184518530531,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,156,2,16:44,1004,1004,D'Mitrik Trice missed Jumper.,41,37,4,27,0.7610333770688046,0.6646145923204054,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,157,2,16:41,1001,1001,Kobe King Offensive Rebound.,41,37,4,3,0.7611761270934033,0.6648941708376659,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,158,2,16:39,999,999,Kobe King made Jumper.,43,37,6,2,0.8179740461593399,0.7367293519572334,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,159,2,16:20,980,980,Ayo Dosunmu missed Layup.,43,37,6,19,0.8193830706400788,0.7391465626638178,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,160,2,16:17,977,977,Nate Reuvers Defensive Rebound.,43,37,6,3,0.819616288113483,0.7395428710357697,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,161,2,16:14,974,974,Foul on D'Mitrik Trice.,43,37,6,3,0.8198525786205179,0.7399433737615658,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,162,2,16:14,974,974,D'Mitrik Trice Turnover.,43,37,6,0,0.8198525786205179,0.7399433737615658,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,163,2,15:52,952,952,Kipper Nichols missed Jumper.,43,37,6,22,0.821539541231526,0.7428048230399745,4,4,4,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,164,2,15:48,948,948,Brevin Pritzl Defensive Rebound.,43,37,6,4,0.8218223317475705,0.7432885999774744,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,165,2,15:40,940,940,Tyler Wahl Turnover.,43,37,6,8,0.8223681939314699,0.7442260015260497,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,166,2,15:40,940,940,Trent Frazier Steal.,43,37,6,0,0.8223681939314699,0.7442260015260497,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,167,2,15:36,936,936,Trent Frazier missed Layup.,43,37,6,4,0.822632104407485,0.744680866604752,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,168,2,15:36,936,936,Kobe King Block.,43,37,6,0,0.822632104407485,0.744680866604752,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,169,2,15:27,927,927,Kipper Nichols Offensive Rebound.,43,37,6,9,0.8232065756499822,0.7456745240913136,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,170,2,15:27,927,927,Kipper Nichols made Layup.,43,39,4,0,0.7648879412291483,0.67197167798521,4,4,4,NA,NA,Illinois,made,Kipper Nichols,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,171,2,15:18,918,918,Foul on Andres Feliz.,43,39,4,9,0.765266857021488,0.6727145523774648,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,172,2,15:18,918,918,Official TV Timeout,43,39,4,0,0.765266857021488,0.6727145523774648,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,173,2,15:13,913,913,Kobe King missed Jumper.,43,39,4,5,0.765471495972457,0.6731177136852942,4,4,4,NA,NA,Wisconsin,missed,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,174,2,15:10,910,910,Ayo Dosunmu Defensive Rebound.,43,39,4,3,0.7655925933379468,0.6733568245467949,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,175,2,15:06,906,906,Andres Feliz missed Three Point Jumper.,43,39,4,4,0.7657523576479315,0.6736727889225639,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,176,2,15:02,902,902,Trevor Anderson Defensive Rebound.,43,39,4,4,0.7659104607961117,0.6739859143652248,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,177,2,14:48,888,888,Micah Potter missed Three Point Jumper.,43,39,4,14,0.7664551428224013,0.6750660648988662,4,4,4,NA,NA,Wisconsin,missed,Micah Potter,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,178,2,14:45,885,885,Andres Feliz Defensive Rebound.,43,39,4,3,0.7665709519565552,0.675295595352952,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,179,2,14:40,880,880,Kipper Nichols made Jumper. Assisted by Andres Feliz.,43,41,2,5,0.6949022197514024,0.5907312471281638,4,4,4,NA,NA,Illinois,made,Kipper Nichols,Andres Feliz,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,180,2,14:14,854,854,Foul on Kipper Nichols.,43,41,2,26,0.6951453446318467,0.5918409358161204,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,181,2,14:12,852,852,Brevin Pritzl made Three Point Jumper. Assisted by D'Mitrik Trice.,46,41,5,2,0.7993596465893067,0.7170465182029008,4,4,4,NA,NA,Wisconsin,made,Brevin Pritzl,D'Mitrik Trice,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,182,2,13:45,825,825,Giorgi Bezhanishvili made Jumper.,46,43,3,27,0.7338813475824018,0.637751088090427,4,4,4,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,183,2,13:32,812,812,D'Mitrik Trice made Jumper.,48,43,5,13,0.8016113943380367,0.7209992880970789,4,4,4,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,184,2,13:23,803,803,Trent Frazier missed Layup.,48,43,5,9,0.8021902885914848,0.7219905566053946,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,185,2,13:22,802,802,Wisconsin Defensive Rebound.,48,43,5,1,0.8022566844096862,0.7221036513220115,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,186,2,13:22,802,802,Foul on Giorgi Bezhanishvili.,48,43,5,0,0.8022566844096862,0.7221036513220115,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,187,2,12:56,776,776,Aleem Ford made Layup.,50,43,7,26,0.8582420893090074,0.7956214633860745,4,4,4,NA,NA,Wisconsin,made,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,188,2,12:39,759,759,Kofi Cockburn made Jumper.,50,45,5,17,0.8055886150729518,0.7276503814916007,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,189,2,12:26,746,746,Foul on Da'Monte Williams.,50,45,5,13,0.8068132922816951,0.7296404458325784,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,190,2,12:26,746,746,Brevin Pritzl made Free Throw.,51,45,6,0,0.8358947867966837,0.7669840216721993,4,4,4,NA,NA,Wisconsin,made,Brevin Pritzl,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,191,2,12:26,746,746,Brevin Pritzl made Free Throw.,52,45,7,0,0.8613507948634636,0.8005792740837473,4,4,4,NA,NA,Wisconsin,made,Brevin Pritzl,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,192,2,12:15,735,735,Andres Feliz made Layup.,52,47,5,11,0.8079422229247982,0.7314584440467076,4,4,4,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,193,2,11:47,707,707,D'Mitrik Trice missed Jumper.,52,47,5,28,0.8107749072353003,0.7360459811260197,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,194,2,11:41,701,701,Kofi Cockburn Defensive Rebound.,52,47,5,6,0.8113032438176371,0.7369212058334468,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,195,2,11:30,690,690,Kipper Nichols Turnover.,52,47,5,11,0.8122179636542965,0.7384519354160238,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,196,2,11:30,690,690,Brevin Pritzl Steal.,52,47,5,0,0.8122179636542965,0.7384519354160238,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,197,2,11:30,690,690,Official TV Timeout,52,47,5,0,0.8122179636542965,0.7384519354160238,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,198,2,11:15,675,675,Brevin Pritzl Turnover.,52,47,5,15,0.8133859346970458,0.7404308657596894,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,199,2,11:08,668,668,Foul on D'Mitrik Trice.,52,47,5,7,0.8139129139391519,0.7413298670075076,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,200,2,11:00,660,660,Foul on Brevin Pritzl.,52,47,5,8,0.8145103671873332,0.7423510069703544,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,201,2,11:00,660,660,Kofi Cockburn missed Free Throw.,52,47,5,0,0.8145103671873332,0.7423510069703544,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,202,2,11:00,660,660,Illinois Offensive Rebound.,52,47,5,0,0.8145103671873332,0.7423510069703544,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,203,2,11:00,660,660,Kofi Cockburn made Free Throw.,52,48,4,0,0.7803904817127297,0.6998490629994716,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,204,2,10:40,640,640,Foul on Ayo Dosunmu.,52,48,4,20,0.7816525406834218,0.7021290422373617,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,205,2,10:40,640,640,Brad Davison made Free Throw.,53,48,5,0,0.8160312714001493,0.7449430755899769,4,4,4,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,206,2,10:40,640,640,Brad Davison missed Free Throw.,53,48,5,0,0.8160312714001493,0.7449430755899769,4,4,4,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,207,2,10:40,640,640,Brad Davison made Free Throw.,54,48,6,0,0.8460630912635699,0.7835008057311627,4,4,4,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,208,2,10:40,640,640,Wisconsin Offensive Rebound.,54,48,6,0,0.8460630912635699,0.7835008057311627,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,209,2,10:27,627,627,Alan Griffin made Layup.,54,50,4,13,0.7825318131769007,0.7036936945160989,4,4,4,NA,NA,Illinois,made,Alan Griffin,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,210,2,10:11,611,611,Aleem Ford missed Jumper.,54,50,4,16,0.7837277234785637,0.7057770740074178,4,4,4,NA,NA,Wisconsin,missed,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,211,2,10:11,611,611,Kofi Cockburn Block.,54,50,4,0,0.7837277234785637,0.7057770740074178,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,212,2,10:10,610,610,Wisconsin Offensive Rebound.,54,50,4,1,0.7838077403925934,0.7059145703132192,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,213,2,9:58,598,598,Foul on Nate Reuvers.,54,50,4,12,0.7848259960101557,0.7076445720836724,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,214,2,9:58,598,598,Nate Reuvers Turnover.,54,50,4,0,0.7848259960101557,0.7076445720836724,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,215,2,9:50,590,590,Kofi Cockburn made Dunk. Assisted by Ayo Dosunmu.,54,52,2,8,0.7012874387594262,0.6094494884371889,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,Ayo Dosunmu,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,216,2,9:33,573,573,Foul on Kofi Cockburn.,54,52,2,17,0.7020305901803948,0.6111452058122787,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,217,2,9:33,573,573,D'Mitrik Trice made Free Throw.,55,52,3,0,0.7470708173538944,0.6633352486065501,4,4,4,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,218,2,9:33,573,573,D'Mitrik Trice missed Free Throw.,55,52,3,0,0.7470708173538944,0.6633352486065501,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,219,2,9:32,572,572,Alan Griffin Defensive Rebound.,55,52,3,1,0.7471581255115383,0.6634871950436529,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,220,2,9:13,553,553,Giorgi Bezhanishvili made Jumper.,55,54,1,19,0.6527883163339478,0.5574979821026458,4,4,4,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,221,2,8:48,528,528,D'Mitrik Trice missed Jumper.,55,54,1,25,0.6528772952836452,0.5590338852798418,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,222,2,8:45,525,525,Andres Feliz Defensive Rebound.,55,54,1,3,0.6528717627737999,0.5591943732679755,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,223,2,8:41,521,521,Andres Feliz missed Layup.,55,54,1,4,0.6528606331544425,0.5594030345412659,4,4,4,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,224,2,8:38,518,518,Micah Potter Defensive Rebound.,55,54,1,3,0.6528498960033222,0.5595562147443754,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,225,2,8:29,509,509,Tyler Wahl made Layup.,57,54,3,9,0.7528308729057206,0.6733856541178536,4,4,4,NA,NA,Wisconsin,made,Tyler Wahl,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,226,2,8:12,492,492,Ayo Dosunmu missed Layup.,57,54,3,17,0.754026818139549,0.675632858468437,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,227,2,8:12,492,492,Micah Potter Block.,57,54,3,0,0.754026818139549,0.675632858468437,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,228,2,8:07,487,487,Kobe King Defensive Rebound.,57,54,3,5,0.7543958346403148,0.6763178198381369,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,229,2,7:42,462,462,Tyler Wahl missed Three Point Jumper.,57,54,3,25,0.756584905191478,0.6802047056538788,4,4,4,NA,NA,Wisconsin,missed,Tyler Wahl,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,230,2,7:40,460,460,Micah Potter Offensive Rebound.,57,54,3,2,0.7567957428331598,0.6805633487731411,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,231,2,7:40,460,460,Wisconsin  Turnover.,57,54,3,0,0.7567957428331598,0.6805633487731411,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,232,2,7:40,460,460,Official TV Timeout,57,54,3,0,0.7567957428331598,0.6805633487731411,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,233,2,7:25,445,445,Ayo Dosunmu missed Jumper.,57,54,3,15,0.7586123069560811,0.6835662125453067,4,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,234,2,7:21,441,441,Aleem Ford Defensive Rebound.,57,54,3,4,0.7591765514595178,0.6844730745644677,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,235,2,7:11,431,431,Kobe King made Dunk.,59,54,5,10,0.8430142438899679,0.7875076950743103,4,4,4,NA,NA,Wisconsin,made,Kobe King,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,236,2,6:50,410,410,Foul on Kobe King.,59,54,5,21,0.8475612178900704,0.7943409140408108,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,237,2,6:50,410,410,Alan Griffin missed Free Throw.,59,54,5,0,0.8475612178900704,0.7943409140408108,4,4,4,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,238,2,6:50,410,410,Illinois Offensive Rebound.,59,54,5,0,0.8475612178900704,0.7943409140408108,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,239,2,6:50,410,410,Alan Griffin made Free Throw.,59,55,4,0,0.8092804371955823,0.7466896623055245,4,4,4,NA,NA,Illinois,made,Alan Griffin,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,240,2,6:48,408,408,Foul on Kipper Nichols.,59,55,4,2,0.8096380135559902,0.747250566450897,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,241,2,6:48,408,408,D'Mitrik Trice made Free Throw.,60,55,5,0,0.84795619211896045,0.7949462607042325,4,4,4,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,242,2,6:48,408,408,D'Mitrik Trice made Free Throw.,61,55,6,0,0.87970724410179435,0.8356213420120696,4,4,4,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,243,2,6:28,388,388,Kipper Nichols Turnover.,61,55,6,20,0.8835753754454685,0.8415495955241161,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,244,2,6:07,367,367,Nate Reuvers missed Jumper.,61,55,6,21,0.8877076165162411,0.8478874807018262,4,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,245,2,6:07,367,367,Giorgi Bezhanishvili Block.,61,55,6,0,0.8877076165162411,0.8478874807018262,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,246,2,6:07,367,367,Trent Frazier Defensive Rebound.,61,55,6,0,0.8877076165162411,0.8478874807018262,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,247,2,6:07,367,367,Foul on Nate Reuvers.,61,55,6,0,0.8877076165162411,0.8478874807018262,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,248,2,6:07,367,367,Trent Frazier made Free Throw.,61,56,5,0,0.855842735315679,0.8071773978104729,4,4,4,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,249,2,6:07,367,367,Trent Frazier missed Free Throw.,61,56,5,0,0.855842735315679,0.8071773978104729,4,4,4,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,250,2,6:05,365,365,Micah Potter Defensive Rebound.,61,56,5,2,0.8562574112063499,0.8078155486514058,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,251,2,5:43,343,343,D'Mitrik Trice missed Jumper.,61,56,5,22,0.8613308067404202,0.8154969719579099,4,4,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,252,2,5:39,339,339,Micah Potter Offensive Rebound.,61,56,5,4,0.8623788654286962,0.8170544409669148,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,253,2,5:37,337,337,Brad Davison missed Three Point Jumper.,61,56,5,2,0.8629200556983861,0.8178550021989334,4,4,4,NA,NA,Wisconsin,missed,Brad Davison,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,254,2,5:33,333,333,Ayo Dosunmu Defensive Rebound.,61,56,5,4,0.8640384952141231,0.8195018966418011,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,255,2,5:05,305,305,Alan Griffin missed Three Point Jumper.,61,56,5,28,0.8730505653870533,0.8325217108037244,4,4,4,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,256,2,5:01,301,301,D'Mitrik Trice Defensive Rebound.,61,56,5,4,0.873874696334868,0.8337927904841395,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,257,2,4:50,290,290,Foul on Giorgi Bezhanishvili.,61,56,5,11,0.8746132803989146,0.8353564939465343,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,258,2,4:50,290,290,Micah Potter made Free Throw.,62,56,6,0,0.9061233966166578,0.875325688836894,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,259,2,4:50,290,290,Micah Potter made Free Throw.,63,56,7,0,0.9303455513018263,0.906675877517451,4,4,4,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,260,2,4:41,281,281,Foul on Brad Davison.,63,56,7,9,0.9298733766003632,0.9063788374486402,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,261,2,4:41,281,281,Kofi Cockburn made Free Throw.,63,57,6,0,0.9055465440197522,0.8749974125456466,4,4,4,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,262,2,4:41,281,281,Kofi Cockburn missed Free Throw.,63,57,6,0,0.9055465440197522,0.8749974125456466,4,4,4,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,263,2,4:39,279,279,Brevin Pritzl Defensive Rebound.,63,57,6,2,0.9053079867250101,0.8747840000330049,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,264,2,4:22,262,262,Micah Potter missed Jumper.,63,57,6,17,0.9023296533684776,0.8717862138203755,4,4,4,NA,NA,Wisconsin,missed,Micah Potter,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,265,2,4:19,259,259,Ayo Dosunmu Defensive Rebound.,63,57,6,3,0.9017280544601398,0.871167624409295,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,266,2,4:16,256,256,Alan Griffin made Three Point Jumper. Assisted by Ayo Dosunmu.,63,60,3,3,0.7784985532817603,0.7217137717475034,4,4,4,NA,NA,Illinois,made,Alan Griffin,Ayo Dosunmu,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,267,2,4:13,253,253,Illinois  Timeout,63,60,3,3,0.7778372522858837,0.7212054404751315,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,268,2,3:51,231,231,Nate Reuvers missed Three Point Jumper.,63,60,3,22,0.774938758019786,0.7198357592927233,3,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,269,2,3:47,227,227,Kobe King Offensive Rebound.,63,60,3,4,0.7750238645286242,0.7203133471989596,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,270,2,3:34,214,214,Nate Reuvers missed Jumper.,63,60,3,13,0.7772797592650994,0.7241889907663716,3,4,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,271,2,3:33,213,213,Illinois Defensive Rebound.,63,60,3,1,0.7775972996460967,0.7246557221037593,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,272,2,3:33,213,213,Official TV Timeout,63,60,3,0,0.7775972996460967,0.7246557221037593,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,273,2,3:22,202,202,Alan Griffin made Three Point Jumper. Assisted by Ayo Dosunmu.,63,63,0,11,0.5691421547674592,0.5,3,4,4,NA,NA,Illinois,made,Alan Griffin,Ayo Dosunmu,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,274,2,3:00,180,180,Nate Reuvers made Jumper.,65,63,2,22,0.7344973630591214,0.6795076201741087,3,4,4,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,275,2,2:42,162,162,Ayo Dosunmu missed Jumper.,65,63,2,18,0.7476308161968231,0.6964664063362844,3,4,4,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,276,2,2:38,158,158,D'Mitrik Trice Defensive Rebound.,65,63,2,4,0.7506853887468189,0.700395801758826,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,277,2,2:17,137,137,Aleem Ford missed Three Point Jumper.,65,63,2,21,0.7680889996865055,0.7226090047072781,3,4,4,NA,NA,Wisconsin,missed,Aleem Ford,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,278,2,2:14,134,134,Kofi Cockburn Defensive Rebound.,65,63,2,3,0.7708045339035249,0.7260466532636572,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,279,2,2:00,120,120,Illinois  Timeout,65,63,2,14,0.7843829813574401,0.7431292446575473,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,280,2,1:54,114,114,Trent Frazier made Three Point Jumper. Assisted by Ayo Dosunmu.,65,66,-1,6,0.41899229360581686,0.36540077895184797,2,4,4,NA,NA,Illinois,made,Trent Frazier,Ayo Dosunmu,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,281,2,1:39,99,99,Wisconsin  Timeout,65,66,-1,15,0.4023414324621029,0.35194970019123467,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,282,2,1:32,92,92,Foul on Alan Griffin.,65,66,-1,7,0.39382529946092243,0.34500870711226755,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,283,2,1:32,92,92,Brad Davison made Free Throw.,66,66,0,0,0.5522563463001058,0.5,2,3,4,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,284,2,1:32,92,92,Brad Davison made Free Throw.,67,66,1,0,0.7007441092552342,0.6549912928877325,2,3,4,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,285,2,1:25,85,85,Ayo Dosunmu made Layup.,67,68,-1,7,0.38514574524790546,0.337931887157678,2,3,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,286,2,1:08,68,68,Aleem Ford missed Three Point Jumper.,67,68,-1,17,0.36293031149154104,0.31976159598171255,2,3,4,NA,NA,Wisconsin,missed,Aleem Ford,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,287,2,1:03,63,63,Nate Reuvers Offensive Rebound.,67,68,-1,5,0.35607409659141825,0.3141363603961077,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,288,2,1:03,63,63,Nate Reuvers missed Layup.,67,68,-1,0,0.35607409659141825,0.3141363603961077,2,3,4,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,289,2,1:02,62,62,Ayo Dosunmu Defensive Rebound.,67,68,-1,1,0.3546915217200995,0.3130015714500615,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,290,2,0:46,46,46,Ayo Dosunmu made Three Point Jumper.,67,71,-4,16,0.03480145456326322,0.029372709379556095,2,3,4,NA,NA,Illinois,made,Ayo Dosunmu,NA,TRUE,FALSE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,291,2,0:41,41,41,Wisconsin  Timeout,67,71,-4,5,0.030942053438614663,0.026200609267929203,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,292,2,0:32,32,32,D'Mitrik Trice missed Three Point Jumper.,67,71,-4,9,0.024809765813825182,0.021138037812682437,2,2,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,293,2,0:29,29,29,Kobe King Offensive Rebound.,67,71,-4,3,0.02299535220519792,0.019634072620910766,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,294,2,0:22,22,22,Kobe King made Three Point Jumper.,70,71,-1,7,0.2959241021529708,0.2645508105298305,2,2,4,NA,NA,Wisconsin,made,Kobe King,NA,TRUE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,295,2,0:22,22,22,Wisconsin  Timeout,70,71,-1,0,0.2959241021529708,0.2645508105298305,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,296,2,0:15,15,15,Foul on D'Mitrik Trice.,70,71,-1,7,0.28506929515409346,0.2555514296206448,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,297,2,0:15,15,15,Giorgi Bezhanishvili missed Free Throw.,70,71,-1,0,0.28506929515409346,0.2555514296206448,2,1,4,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,TRUE,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,298,2,0:13,13,13,Nate Reuvers Defensive Rebound.,70,71,-1,2,0.2819232669037329,0.2529382952860352,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Wisconsin
+401166158,2020-01-08,Wisconsin,Illinois,299,2,0:03,3,3,D'Mitrik Trice missed Layup.,70,71,-1,10,0.26605607610774684,0.23973417984034148,2,1,4,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,300,2,0:01,1,1,Alan Griffin Defensive Rebound.,70,71,-1,2,0.2628777933321359,0.23708537434148508,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Illinois
+401166158,2020-01-08,Wisconsin,Illinois,301,2,0:00,0,0,End of 2nd half,70,71,-1,1,2.3653528946396368e-9,2.0611536181902033e-9,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA
+401166158,2020-01-08,Wisconsin,Illinois,302,2,0:00,0,0,End of Game,70,71,-1,0,2.3653528946396368e-9,2.0611536181902033e-9,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA

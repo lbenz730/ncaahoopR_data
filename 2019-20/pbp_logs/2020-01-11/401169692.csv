@@ -1,0 +1,302 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401169692,2020-01-11,Texas,Kansas State,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Texas
+401169692,2020-01-11,Texas,Kansas State,2,1,19:29,2369,2369,Matt Coleman III made Three Point Jumper. Assisted by Courtney Ramey.,3,0,3,31,0.7443024234685535,0.5668006792331098,4,4,5,NA,NA,Texas,made,Matt Coleman III,Courtney Ramey,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,3,1,19:07,2347,2347,Makol Mawien made Layup. Assisted by Cartier Diarra.,3,2,1,22,0.7085515747255084,0.5226240852276702,4,4,5,NA,NA,Kansas State,made,Makol Mawien,Cartier Diarra,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,4,1,18:46,2326,2326,Jase Febres made Three Point Jumper. Assisted by Courtney Ramey.,6,2,4,21,0.7616822224109062,0.5904741331517216,4,4,5,NA,NA,Texas,made,Jase Febres,Courtney Ramey,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,5,1,18:13,2293,2293,Makol Mawien missed Jumper.,6,2,4,33,0.7622190586877324,0.5918968239578065,4,4,5,NA,NA,Kansas State,missed,Makol Mawien,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,6,1,18:10,2290,2290,Jericho Sims Defensive Rebound.,6,2,4,3,0.7622676017043388,0.5920271966709986,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,7,1,17:43,2263,2263,Kamaka Hepa made Three Point Jumper. Assisted by Courtney Ramey.,9,2,7,27,0.8100722179438111,0.6592988837879349,4,4,5,NA,NA,Texas,made,Kamaka Hepa,Courtney Ramey,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,8,1,17:17,2237,2237,Cartier Diarra made Jumper.,9,4,5,26,0.7799414675724927,0.6171560986146801,4,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,9,1,17:01,2221,2221,Jericho Sims Turnover.,9,4,5,16,0.7803048975925204,0.6180257764897529,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,10,1,17:01,2221,2221,Montavious Murphy Steal.,9,4,5,0,0.7803048975925204,0.6180257764897529,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,11,1,16:55,2215,2215,Montavious Murphy missed Layup.,9,4,5,6,0.7804404711953166,0.6183527268036805,4,4,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,12,1,16:50,2210,2210,Montavious Murphy Offensive Rebound.,9,4,5,5,0.7805531246591406,0.618625495822218,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,13,1,16:50,2210,2210,Montavious Murphy made Layup.,9,6,3,0,0.7456235008057543,0.5720526697042271,4,4,5,NA,NA,Kansas State,made,Montavious Murphy,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,14,1,16:26,2186,2186,Courtney Ramey missed Three Point Jumper.,9,6,3,24,0.7457952881596956,0.572870280824908,4,4,5,NA,NA,Texas,missed,Courtney Ramey,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,15,1,16:22,2182,2182,Cartier Diarra Defensive Rebound.,9,6,3,4,0.7458229185813642,0.5730069095953896,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,16,1,16:21,2181,2181,Foul on Kamaka Hepa.,9,6,3,1,0.7458297794612396,0.5730410809822923,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,17,1,16:14,2174,2174,Foul on Courtney Ramey.,9,6,3,7,0.7458772728121098,0.5732804309210933,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,18,1,16:14,2174,2174,Montavious Murphy made Free Throw.,9,7,2,0,0.7267762813687872,0.5490497341659156,4,4,5,NA,NA,Kansas State,made,Montavious Murphy,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,19,1,16:14,2174,2174,Montavious Murphy missed Free Throw.,9,7,2,0,0.7267762813687872,0.5490497341659156,4,4,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,FALSE,TRUE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,20,1,16:12,2172,2172,Jericho Sims Defensive Rebound.,9,7,2,2,0.7267717990738682,0.5490959085697926,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,21,1,15:57,2157,2157,Jase Febres missed Three Point Jumper.,9,7,2,15,0.7267357765102409,0.5494429884505517,4,4,5,NA,NA,Texas,missed,Jase Febres,NA,TRUE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,22,1,15:53,2153,2153,Kamaka Hepa Offensive Rebound.,9,7,2,4,0.7267255203323097,0.5495358270404799,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,23,1,15:49,2149,2149,Jericho Sims made Layup. Assisted by Jase Febres.,11,7,4,4,0.7644422052798292,0.5982892282270783,4,4,5,NA,NA,Texas,made,Jericho Sims,Jase Febres,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,24,1,15:28,2128,2128,Xavier Sneed missed Three Point Jumper.,11,7,4,21,0.7647447429037016,0.5992408130354591,4,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,25,1,15:25,2125,2125,Jericho Sims Defensive Rebound.,11,7,4,3,0.764787653260149,0.5993772965215867,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,26,1,15:06,2106,2106,Matt Coleman III missed Three Point Jumper.,11,7,4,19,0.7650578308571463,0.6002450325045777,4,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,27,1,15:03,2103,2103,Kansas State Defensive Rebound.,11,7,4,3,0.765100258769782,0.6003825882484426,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,28,1,15:03,2103,2103,Official TV Timeout,11,7,4,0,0.765100258769782,0.6003825882484426,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,29,1,14:42,2082,2082,DaJuan Gordon missed Layup.,11,7,4,21,0.7653957341872979,0.6013498659798583,4,4,5,NA,NA,Kansas State,missed,DaJuan Gordon,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,30,1,14:39,2079,2079,DaJuan Gordon Offensive Rebound.,11,7,4,3,0.7654377501537555,0.6014886956381457,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,31,1,14:27,2067,2067,Levi Stockard III missed Jumper.,11,7,4,12,0.7656054013170688,0.6020456997338557,4,4,5,NA,NA,Kansas State,missed,Levi Stockard III,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,32,1,14:22,2062,2062,Jericho Sims Defensive Rebound.,11,7,4,5,0.7656750805444505,0.602278598395699,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,33,1,14:10,2050,2050,Donovan Williams made Layup.,13,7,6,12,0.8011719071564654,0.6515742488764151,4,4,5,NA,NA,Texas,made,Donovan Williams,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,34,1,14:10,2050,2050,Foul on Montavious Murphy.,13,7,6,0,0.8011719071564654,0.6515742488764151,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,35,1,14:10,2050,2050,Donovan Williams made Free Throw.,14,7,7,0,0.8172704150906824,0.6748697639440732,4,4,5,NA,NA,Texas,made,Donovan Williams,NA,FALSE,TRUE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,36,1,14:00,2040,2040,Antonio Gordon missed Layup.,14,7,7,10,0.817605526372959,0.6756227792173123,4,4,5,NA,NA,Kansas State,missed,Antonio Gordon,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,37,1,13:59,2039,2039,Texas Defensive Rebound.,14,7,7,1,0.8176390615127873,0.6756982307991031,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,38,1,13:40,2020,2020,Kai Jones Turnover.,14,7,7,19,0.818277217069081,0.6771371634502952,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,39,1,13:40,2020,2020,Xavier Sneed Steal.,14,7,7,0,0.818277217069081,0.6771371634502952,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,40,1,13:35,2015,2015,DaJuan Gordon made Layup. Assisted by Xavier Sneed.,14,9,5,5,0.7847796263583366,0.6295475499535355,4,4,5,NA,NA,Kansas State,made,DaJuan Gordon,Xavier Sneed,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,41,1,13:17,1997,1997,Courtney Ramey Turnover.,14,9,5,18,0.7851663851437986,0.6305969892190879,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,42,1,12:50,1970,1970,Cartier Diarra missed Three Point Jumper.,14,9,5,27,0.7857492486538126,0.6321879441078527,4,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,43,1,12:46,1966,1966,Donovan Williams Defensive Rebound.,14,9,5,4,0.7858359520701127,0.6324254281385384,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,44,1,12:46,1966,1966,Donovan Williams Turnover.,14,9,5,0,0.7858359520701127,0.6324254281385384,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,45,1,12:24,1944,1944,Foul on Jase Febres.,14,9,5,22,0.7863148232485981,0.633740194453431,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,46,1,12:24,1944,1944,Xavier Sneed made Free Throw.,14,10,4,0,0.7673118621158113,0.6079341881308262,4,4,5,NA,NA,Kansas State,made,Xavier Sneed,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,47,1,12:24,1944,1944,Xavier Sneed made Free Throw.,14,11,3,0,0.7471623653551451,0.5815106122600169,4,4,5,NA,NA,Kansas State,made,Xavier Sneed,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,48,1,12:24,1944,1944,Xavier Sneed missed Free Throw.,14,11,3,0,0.7471623653551451,0.5815106122600169,4,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,FALSE,TRUE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,49,1,12:23,1943,1943,Andrew Jones Defensive Rebound.,14,11,3,1,0.747167366824276,0.5815484293667335,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,50,1,11:51,1911,1911,Texas  Turnover.,14,11,3,32,0.7473217047923338,0.582764792129031,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,51,1,11:51,1911,1911,Official TV Timeout,14,11,3,0,0.7473217047923338,0.582764792129031,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,52,1,11:44,1904,1904,Foul on Kamaka Hepa.,14,11,3,7,0.7473519642008778,0.583030604955373,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,53,1,11:44,1904,1904,Mike McGuirl Turnover.,14,11,3,0,0.7473519642008778,0.583030604955373,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,54,1,11:30,1890,1890,Will Baker missed Three Point Jumper.,14,11,3,14,0.7474086682977751,0.583561909022996,4,4,5,NA,NA,Texas,missed,Will Baker,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,55,1,11:26,1886,1886,DaJuan Gordon Defensive Rebound.,14,11,3,4,0.7474240081438169,0.5837136994895804,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,56,1,11:22,1882,1882,Foul on Matt Coleman III.,14,11,3,4,0.7474389936755752,0.5838655118014419,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,57,1,11:12,1872,1872,Mike McGuirl Turnover.,14,11,3,10,0.747475009339229,0.5842452332858721,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,58,1,11:12,1872,1872,Matt Coleman III Steal.,14,11,3,0,0.747475009339229,0.5842452332858721,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,59,1,11:08,1868,1868,Matt Coleman III missed Layup.,14,11,3,4,0.7474888771104483,0.5843972361919785,4,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,60,1,11:08,1868,1868,Levi Stockard III Block.,14,11,3,0,0.7474888771104483,0.5843972361919785,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,61,1,11:08,1868,1868,Texas Offensive Rebound.,14,11,3,0,0.7474888771104483,0.5843972361919785,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,63,1,10:51,1851,1851,Makol Mawien Turnover.,16,11,5,0,0.7882771080101924,0.6393460595508784,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,64,1,10:35,1835,1835,Foul on Makol Mawien.,16,11,5,16,0.7886006239977652,0.6403137454981015,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,65,1,10:35,1835,1835,Will Baker missed Free Throw.,16,11,5,0,0.7886006239977652,0.6403137454981015,4,4,5,NA,NA,Texas,missed,Will Baker,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,66,1,10:35,1835,1835,Texas Deadball Team Rebound.,16,11,5,0,0.7886006239977652,0.6403137454981015,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,67,1,10:35,1835,1835,Will Baker missed Free Throw.,16,11,5,0,0.7886006239977652,0.6403137454981015,4,4,5,NA,NA,Texas,missed,Will Baker,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,68,1,10:34,1834,1834,Antonio Gordon Defensive Rebound.,16,11,5,1,0.7886207991980613,0.6403743600729814,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,69,1,10:15,1815,1815,Levi Stockard III Turnover.,16,11,5,19,0.7890038574945406,0.6415298400236693,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,70,1,9:54,1794,1794,Kamaka Hepa missed Three Point Jumper.,16,11,5,21,0.7894284584318455,0.6428173689950002,4,4,5,NA,NA,Texas,missed,Kamaka Hepa,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,71,1,9:51,1791,1791,Antonio Gordon Defensive Rebound.,16,11,5,3,0.7894893833263907,0.6430023751023533,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,72,1,9:51,1791,1791,Foul on Jase Febres.,16,11,5,0,0.7894893833263907,0.6430023751023533,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,73,1,9:38,1778,1778,David Sloan Turnover.,16,11,5,13,0.7897545678512344,0.6438076152099191,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,74,1,9:38,1778,1778,Matt Coleman III Steal.,16,11,5,0,0.7897545678512344,0.6438076152099191,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,75,1,9:36,1776,1776,Foul on David Sloan.,16,11,5,2,0.7897955634135732,0.6439320410779831,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,76,1,9:24,1764,1764,Kamaka Hepa Turnover.,16,11,5,12,0.7900428819110566,0.6446818971309605,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,77,1,9:24,1764,1764,Levi Stockard III Steal.,16,11,5,0,0.7900428819110566,0.6446818971309605,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,78,1,9:21,1761,1761,Xavier Sneed made Three Point Jumper. Assisted by David Sloan.,16,14,2,3,0.7246447518628194,0.5593751282492502,4,4,5,NA,NA,Kansas State,made,Xavier Sneed,David Sloan,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,79,1,9:03,1743,1743,Donovan Williams Turnover.,16,14,2,18,0.7245033017468768,0.559865704705386,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,80,1,8:51,1731,1731,DaJuan Gordon made Dunk.,16,16,0,12,0.6735927866961952,0.5,4,4,5,NA,NA,Kansas State,made,DaJuan Gordon,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,81,1,8:30,1710,1710,Courtney Ramey missed Jumper.,16,16,0,21,0.6728891125808567,0.5,4,4,5,NA,NA,Texas,missed,Courtney Ramey,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,82,1,8:26,1706,1706,Kamaka Hepa Offensive Rebound.,16,16,0,4,0.6727542471113622,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,83,1,8:24,1704,1704,Donovan Williams missed Three Point Jumper.,16,16,0,2,0.6726867185201489,0.5,4,4,5,NA,NA,Texas,missed,Donovan Williams,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,84,1,8:20,1700,1700,Cartier Diarra Defensive Rebound.,16,16,0,4,0.6725514726075766,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,85,1,8:11,1691,1691,Montavious Murphy missed Three Point Jumper.,16,16,0,9,0.6722462710787219,0.5,4,4,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,86,1,8:07,1687,1687,Kamaka Hepa Defensive Rebound.,16,16,0,4,0.6721100404085252,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,87,1,7:50,1670,1670,Courtney Ramey missed Layup.,16,16,0,17,0.6715210449363,0.5,4,4,5,NA,NA,Texas,missed,Courtney Ramey,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,88,1,7:46,1666,1666,DaJuan Gordon Defensive Rebound.,16,16,0,4,0.6713801830938657,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,89,1,7:36,1656,1656,Montavious Murphy missed Jumper.,16,16,0,10,0.6710244524535859,0.5,4,4,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,90,1,7:32,1652,1652,Jericho Sims Defensive Rebound.,16,16,0,4,0.6708807798246709,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,91,1,7:28,1648,1648,Official TV Timeout,16,16,0,4,0.670736347037598,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,92,1,7:09,1629,1629,Matt Coleman III missed Three Point Jumper.,16,16,0,19,0.6700404978966301,0.5,4,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,93,1,7:05,1625,1625,Levi Stockard III Defensive Rebound.,16,16,0,4,0.6698920654592089,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,94,1,6:40,1600,1600,Cartier Diarra made Layup.,16,18,-2,25,0.6098585577102938,0.43616871375925254,4,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,95,1,6:24,1584,1584,Courtney Ramey made Three Point Jumper. Assisted by Matt Coleman III.,19,18,1,16,0.696336475839171,0.5322642332022972,4,4,5,NA,NA,Texas,made,Courtney Ramey,Matt Coleman III,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,96,1,5:57,1557,1557,Cartier Diarra missed Three Point Jumper.,19,18,1,27,0.6956502153586032,0.5326348350979171,4,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,97,1,5:54,1554,1554,Jericho Sims Defensive Rebound.,19,18,1,3,0.6955734949287402,0.5326764816862907,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,98,1,5:29,1529,1529,Courtney Ramey Turnover.,19,18,1,25,0.694933884064804,0.5330289417930258,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,99,1,5:29,1529,1529,DaJuan Gordon Steal.,19,18,1,0,0.694933884064804,0.5330289417930258,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,100,1,5:24,1524,1524,Cartier Diarra made Layup.,19,20,-1,5,0.6358720869459297,0.4668991816267446,4,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,101,1,5:13,1513,1513,Foul on Xavier Sneed.,19,20,-1,11,0.6352689055337736,0.4667390987652925,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,102,1,5:08,1508,1508,Kamaka Hepa made Layup. Assisted by Courtney Ramey.,21,20,1,5,0.6944003982754109,0.5333346313041962,4,4,5,NA,NA,Texas,made,Kamaka Hepa,Courtney Ramey,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,103,1,4:52,1492,1492,Xavier Sneed missed Three Point Jumper.,21,20,1,16,0.693999493610646,0.5335751123634594,4,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,TRUE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,104,1,4:48,1488,1488,Xavier Sneed Offensive Rebound.,21,20,1,4,0.6939003092637368,0.5336364061005578,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,105,1,4:46,1486,1486,Antonio Gordon made Layup. Assisted by Xavier Sneed.,21,22,-1,2,0.6337732932627224,0.46633275895106224,4,4,5,NA,NA,Kansas State,made,Antonio Gordon,Xavier Sneed,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,106,1,4:25,1465,1465,Andrew Jones Turnover.,21,22,-1,21,0.6325958394931862,0.4660008262274409,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,107,1,4:25,1465,1465,Levi Stockard III Steal.,21,22,-1,0,0.6325958394931862,0.4660008262274409,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,108,1,4:20,1460,1460,Levi Stockard III Turnover.,21,22,-1,5,0.632313733254043,0.46591943060039237,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,109,1,4:20,1460,1460,Kamaka Hepa Steal.,21,22,-1,0,0.632313733254043,0.46591943060039237,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,110,1,4:20,1460,1460,Foul on Cartier Diarra.,21,22,-1,0,0.632313733254043,0.46591943060039237,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,111,1,4:16,1456,1456,Jericho Sims Turnover.,21,22,-1,4,0.6320875720602048,0.46585361014200644,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,112,1,4:13,1453,1453,Foul on Jericho Sims.,21,22,-1,3,0.6319176760023152,0.4658038226549363,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,113,1,4:13,1453,1453,Cartier Diarra made Free Throw.,21,23,-2,0,0.5995172193048374,0.4319260621196006,4,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,114,1,4:12,1452,1452,Cartier Diarra missed Free Throw.,21,23,-2,1,0.5994426150480382,0.43189317138480615,4,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,TRUE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,115,1,4:11,1451,1451,Courtney Ramey Defensive Rebound.,21,23,-2,1,0.5993679431532561,0.431860199473201,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,116,1,3:53,1433,1433,Jase Febres made Jumper.,23,23,0,18,0.6623750892105178,0.5,4,4,5,NA,NA,Texas,made,Jase Febres,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,117,1,3:33,1413,1413,Antonio Gordon missed Three Point Jumper.,23,23,0,20,0.6615657255971634,0.5,4,4,5,NA,NA,Kansas State,missed,Antonio Gordon,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,118,1,3:30,1410,1410,Texas Defensive Rebound.,23,23,0,3,0.6614431219036693,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,119,1,3:29,1409,1409,Official TV Timeout,23,23,0,1,0.6614021879318523,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,120,1,3:05,1385,1385,Royce Hamm Jr. Turnover.,23,23,0,24,0.6604104655547591,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,121,1,2:48,1368,1368,Cartier Diarra made Layup.,23,25,-2,17,0.5931946821596626,0.4292867332288323,4,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,122,1,2:25,1345,1345,Royce Hamm Jr. made Jumper. Assisted by Matt Coleman III.,25,25,0,23,0.6587238919775161,0.5,4,4,5,NA,NA,Texas,made,Royce Hamm Jr.,Matt Coleman III,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,123,1,2:01,1321,1321,Cartier Diarra missed Jumper.,25,25,0,24,0.657696631959512,0.5,4,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,124,1,1:56,1316,1316,Royce Hamm Jr. Defensive Rebound.,25,25,0,5,0.6574815388102353,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,125,1,1:47,1307,1307,Courtney Ramey missed Layup.,25,25,0,9,0.657093607697672,0.5,4,4,5,NA,NA,Texas,missed,Courtney Ramey,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,126,1,1:47,1307,1307,Texas Deadball Team Rebound.,25,25,0,0,0.657093607697672,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,127,1,1:46,1306,1306,Foul on Mike McGuirl.,25,25,0,1,0.6570504491643141,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,128,1,1:46,1306,1306,Royce Hamm Jr. made Free Throw.,26,25,1,0,0.6892109583504614,0.5364988610419374,4,4,5,NA,NA,Texas,made,Royce Hamm Jr.,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,129,1,1:46,1306,1306,Royce Hamm Jr. missed Free Throw.,26,25,1,0,0.6892109583504614,0.5364988610419374,4,4,5,NA,NA,Texas,missed,Royce Hamm Jr.,NA,FALSE,TRUE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,130,1,1:45,1305,1305,Montavious Murphy Defensive Rebound.,26,25,1,1,0.6891838873904549,0.5365150718557505,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,131,1,1:31,1291,1291,Montavious Murphy Turnover.,26,25,1,14,0.6888071793785299,0.5367455683963683,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,132,1,1:03,1263,1263,Andrew Jones missed Three Point Jumper.,26,25,1,28,0.6880719298616192,0.5372305329489176,4,4,5,NA,NA,Texas,missed,Andrew Jones,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,133,1,0:59,1259,1259,Montavious Murphy Defensive Rebound.,26,25,1,4,0.6879694978557566,0.5373029021648592,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,134,1,0:52,1252,1252,DaJuan Gordon Turnover.,26,25,1,7,0.6877921282475595,0.5374316506897497,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,135,1,0:44,1244,1244,Matt Coleman III made Jumper.,28,25,3,8,0.7484032989994708,0.6110764432963355,4,4,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,136,1,0:19,1219,1219,Levi Stockard III made Jumper. Assisted by Cartier Diarra.,28,27,1,25,0.6869945044854022,0.5380793740658301,4,4,5,NA,NA,Kansas State,made,Levi Stockard III,Cartier Diarra,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,137,1,0:00,1200,1200,Kamaka Hepa made Three Point Jumper. Assisted by Matt Coleman III.,31,27,4,19,0.7767455619501102,0.6495177425372646,4,4,5,NA,NA,Texas,made,Kamaka Hepa,Matt Coleman III,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,139,2,20:00,1200,1200,PLAY,28,27,1,0,0.6865653836122525,0.5384812553577752,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Texas
+401169692,2020-01-11,Texas,Kansas State,141,2,19:33,1173,1173,Matt Coleman III Offensive Rebound.,31,27,4,0,0.7774096674143629,0.6515433847480441,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,142,2,19:33,1173,1173,Foul on Makol Mawien.,31,27,4,0,0.7774096674143629,0.6515433847480441,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,143,2,19:33,1173,1173,Matt Coleman III made Free Throw.,32,27,5,0,0.8033068719230659,0.6861729813874781,4,4,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,144,2,19:33,1173,1173,Matt Coleman III made Free Throw.,33,27,6,0,0.8268621036478058,0.7188461605569952,4,4,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,TRUE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,145,2,19:16,1156,1156,Xavier Sneed missed Layup.,33,27,6,17,0.8275785186673928,0.7204971065659819,4,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,146,2,19:16,1156,1156,Kamaka Hepa Block.,33,27,6,0,0.8275785186673928,0.7204971065659819,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,147,2,19:15,1155,1155,Jase Febres Defensive Rebound.,33,27,6,1,0.8276201688650741,0.7205933584512895,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,148,2,18:59,1139,1139,Matt Coleman III missed Jumper.,33,27,6,16,0.8282824816811771,0.7221254894535684,4,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,149,2,18:51,1131,1131,Jericho Sims Offensive Rebound.,33,27,6,8,0.828612471648927,0.7228886212184823,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,150,2,18:51,1131,1131,Jericho Sims missed Dunk.,33,27,6,0,0.828612471648927,0.7228886212184823,4,4,5,NA,NA,Texas,missed,Jericho Sims,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,151,2,18:49,1129,1129,Levi Stockard III Defensive Rebound.,33,27,6,2,0.8286950331076068,0.7230793831725605,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,152,2,18:41,1121,1121,Cartier Diarra missed Jumper.,33,27,6,8,0.8290260450879166,0.7238431295147184,4,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,153,2,18:38,1118,1118,Matt Coleman III Defensive Rebound.,33,27,6,3,0.8291506420190988,0.7241300545940493,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,155,2,17:59,1079,1079,Jase Febres Block.,35,27,8,0,0.8720841865289057,0.7878797152421022,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,156,2,17:59,1079,1079,Montavious Murphy Offensive Rebound.,35,27,8,0,0.8720841865289057,0.7878797152421022,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,157,2,17:58,1078,1078,Kansas State  Timeout,35,27,8,1,0.8721384569879722,0.7879922611521442,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,158,2,17:58,1078,1078,Official TV Timeout,35,27,8,0,0.8721384569879722,0.7879922611521442,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,159,2,17:41,1061,1061,Levi Stockard III missed Jumper.,35,27,8,17,0.873081254759155,0.7899353996915899,3,4,5,NA,NA,Kansas State,missed,Levi Stockard III,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,160,2,17:40,1060,1060,Xavier Sneed Offensive Rebound.,35,27,8,1,0.8731380218185483,0.7900516486742037,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,161,2,17:39,1059,1059,Kansas State  Turnover.,35,27,8,1,0.8731949474777171,0.7901681349044191,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,162,2,17:10,1030,1030,Jase Febres missed Three Point Jumper.,35,27,8,29,0.8749239476463712,0.7936639365537491,3,4,5,NA,NA,Texas,missed,Jase Febres,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,163,2,17:07,1027,1027,Kansas State Defensive Rebound.,35,27,8,3,0.8751124907476461,0.7940402295504758,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,164,2,16:46,1006,1006,Foul on Courtney Ramey.,35,27,8,21,0.8764917456831021,0.796764860923436,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,165,2,16:36,996,996,Foul on Kamaka Hepa.,35,27,8,10,0.8771883641067371,0.7981231642709281,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,166,2,16:25,985,985,Cartier Diarra missed Jumper.,35,27,8,11,0.8779872233524423,0.7996672192119463,3,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,167,2,16:22,982,982,Foul on Montavious Murphy.,35,27,8,3,0.8782113071996218,0.8000978583066648,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,168,2,16:20,980,980,Jericho Sims Defensive Rebound.,35,27,8,2,0.8783622206110796,0.8003872915458212,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,169,2,16:17,977,977,Jase Febres missed Three Point Jumper.,35,27,8,3,0.8785909100035718,0.8008250041825243,3,4,5,NA,NA,Texas,missed,Jase Febres,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,170,2,16:13,973,973,Mike McGuirl Defensive Rebound.,35,27,8,4,0.8789002269438891,0.8014153794002037,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,171,2,15:57,957,957,Levi Stockard III missed Layup.,35,27,8,16,0.8801162892485218,0.8037354098905616,3,4,5,NA,NA,Kansas State,missed,Levi Stockard III,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,172,2,15:56,956,956,Kansas State Offensive Rebound.,35,27,8,1,0.8801881918471617,0.8038732769379282,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,173,2,15:56,956,956,Official TV Timeout,35,27,8,0,0.8801881918471617,0.8038732769379282,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,174,2,15:48,948,948,David Sloan missed Layup.,35,27,8,8,0.8807470002508263,0.8049476400867169,3,4,5,NA,NA,Kansas State,missed,David Sloan,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,175,2,15:44,944,944,Jase Febres Defensive Rebound.,35,27,8,4,0.8810161527101258,0.8054669374042881,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,176,2,15:17,917,917,Courtney Ramey made Three Point Jumper. Assisted by Matt Coleman III.,38,27,11,27,0.9281619123957416,0.8789321369411011,3,4,5,NA,NA,Texas,made,Courtney Ramey,Matt Coleman III,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,177,2,14:52,892,892,Xavier Sneed missed Three Point Jumper.,38,27,11,25,0.9295048599608892,0.8815221220193339,3,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,178,2,14:48,888,888,Jase Febres Defensive Rebound.,38,27,11,4,0.9297127677605957,0.8819231103347406,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,179,2,14:29,869,869,Matt Coleman III missed Jumper.,38,27,11,19,0.9306930825393077,0.883810333001362,3,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,180,2,14:24,864,864,David Sloan Defensive Rebound.,38,27,11,5,0.9309520030464694,0.884307264006561,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,181,2,13:56,836,836,Kansas State  Turnover.,38,27,11,28,0.9324495229973445,0.8871620992494976,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,182,2,13:34,814,814,Courtney Ramey made Three Point Jumper. Assisted by Jase Febres.,41,27,14,22,0.96137540902054,0.9343434666064638,3,4,5,NA,NA,Texas,made,Courtney Ramey,Jase Febres,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,183,2,13:16,796,796,Cartier Diarra Turnover.,41,27,14,18,0.9622853618820525,0.9360422539968289,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,184,2,13:11,791,791,Andrew Jones made Layup. Assisted by Courtney Ramey.,43,27,16,5,0.9741985882366072,0.9559040925592337,3,4,5,NA,NA,Texas,made,Andrew Jones,Courtney Ramey,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,185,2,13:11,791,791,Kansas State  Timeout,43,27,16,0,0.9741985882366072,0.9559040925592337,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,186,2,12:49,769,769,Xavier Sneed missed Jumper.,43,27,16,22,0.9752154677749351,0.9577835029260271,2,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,187,2,12:49,769,769,Kai Jones Block.,43,27,16,0,0.9752154677749351,0.9577835029260271,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,188,2,12:48,768,768,Kansas State Offensive Rebound.,43,27,16,1,0.9752643550346347,0.9578734257554489,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,189,2,12:44,764,764,Cartier Diarra missed Layup.,43,27,16,4,0.9754623381117592,0.9582372193777873,2,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,190,2,12:44,764,764,Jericho Sims Block.,43,27,16,0,0.9754623381117592,0.9582372193777873,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,191,2,12:44,764,764,Kansas State Offensive Rebound.,43,27,16,0,0.9754623381117592,0.9582372193777873,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,192,2,12:39,759,759,Xavier Sneed missed Three Point Jumper.,43,27,16,5,0.9757153731497364,0.9587013212594436,2,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,TRUE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,193,2,12:39,759,759,Jericho Sims Block.,43,27,16,0,0.9757153731497364,0.9587013212594436,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,194,2,12:39,759,759,Texas Deadball Team Rebound.,43,27,16,0,0.9757153731497364,0.9587013212594436,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,195,2,12:25,745,745,Jericho Sims Turnover.,43,27,16,14,0.9764576106799935,0.9600575569872766,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,196,2,12:09,729,729,Makol Mawien missed Layup.,43,27,16,16,0.9773679073328922,0.9617114960601499,2,4,5,NA,NA,Kansas State,missed,Makol Mawien,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,197,2,12:09,729,729,Jase Febres Block.,43,27,16,0,0.9773679073328922,0.9617114960601499,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,198,2,12:08,728,728,Texas Defensive Rebound.,43,27,16,1,0.9774257170677778,0.9618163157689064,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,199,2,12:06,726,726,Jase Febres Turnover.,43,27,16,2,0.9775394825228951,0.9620226939770905,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,200,2,12:06,726,726,Cartier Diarra Steal.,43,27,16,0,0.9775394825228951,0.9620226939770905,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,201,2,12:00,720,720,Cartier Diarra made Layup.,43,29,14,6,0.9671447620433589,0.9449238846035024,2,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,202,2,12:00,720,720,Official TV Timeout,43,29,14,0,0.9671447620433589,0.9449238846035024,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,203,2,11:32,692,692,Andrew Jones made Layup.,45,29,16,28,0.9791741454037199,0.9650038182660661,2,4,5,NA,NA,Texas,made,Andrew Jones,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,204,2,11:16,676,676,Antonio Gordon Turnover.,45,29,16,16,0.9798120489621591,0.9661740878458152,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,205,2,11:16,676,676,Will Baker Steal.,45,29,16,0,0.9798120489621591,0.9661740878458152,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,206,2,11:04,664,664,Jase Febres made Jumper. Assisted by Will Baker.,47,29,18,12,0.9869724632461248,0.9781188757469468,2,4,5,NA,NA,Texas,made,Jase Febres,Will Baker,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,207,2,10:30,630,630,David Sloan made Three Point Jumper. Assisted by Cartier Diarra.,47,32,15,34,0.9771795155010367,0.9622001051390904,2,4,5,NA,NA,Kansas State,made,David Sloan,Cartier Diarra,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,208,2,10:08,608,608,Jase Febres missed Jumper.,47,32,15,22,0.9781956079784936,0.9640360256598666,2,4,5,NA,NA,Texas,missed,Jase Febres,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,209,2,10:04,604,604,Kai Jones Offensive Rebound.,47,32,15,4,0.9783932174849279,0.9643903956644799,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,210,2,10:03,603,603,Matt Coleman III made Three Point Jumper. Assisted by Kai Jones.,50,32,18,1,0.9887444859569662,0.981326449835108,2,4,5,NA,NA,Texas,made,Matt Coleman III,Kai Jones,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,211,2,9:44,584,584,Cartier Diarra missed Layup.,50,32,18,19,0.9893928204090527,0.9824769348176319,2,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,212,2,9:44,584,584,Jase Febres Block.,50,32,18,0,0.9893928204090527,0.9824769348176319,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,213,2,9:39,579,579,Makol Mawien Offensive Rebound.,50,32,18,5,0.989575282348268,0.9827985436070946,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,214,2,9:39,579,579,Makol Mawien Turnover.,50,32,18,0,0.989575282348268,0.9827985436070946,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,215,2,9:39,579,579,Kai Jones Steal.,50,32,18,0,0.989575282348268,0.9827985436070946,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,216,2,9:37,577,577,Kai Jones Turnover.,50,32,18,2,0.9896497265237769,0.9829295019762925,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,217,2,9:37,577,577,Makol Mawien Steal.,50,32,18,0,0.9896497265237769,0.9829295019762925,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,218,2,9:35,575,575,Cartier Diarra missed Three Point Jumper.,50,32,18,2,0.9897250145574187,0.9830617967284686,2,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,TRUE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,219,2,9:33,573,573,Foul on Kai Jones.,50,32,18,2,0.9898011516071009,0.9831954344297061,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,220,2,9:31,571,571,DaJuan Gordon Offensive Rebound.,50,32,18,2,0.9898781417601834,0.9833304198022401,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,221,2,9:16,556,556,David Sloan missed Layup.,50,32,18,15,0.9904828837662139,0.9843857473420029,2,4,5,NA,NA,Kansas State,missed,David Sloan,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,222,2,9:13,553,553,Donovan Williams Defensive Rebound.,50,32,18,3,0.9906095754459678,0.9846057836498731,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,223,2,9:11,551,551,Donovan Williams missed Three Point Jumper.,50,32,18,2,0.9906950796137559,0.9847540913150443,2,4,5,NA,NA,Texas,missed,Donovan Williams,NA,TRUE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,224,2,9:08,548,548,Kai Jones Offensive Rebound.,50,32,18,3,0.9908229606062864,0.9849757362284216,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,225,2,9:07,547,547,Kai Jones missed Layup.,50,32,18,1,0.9908642685063023,0.9850473672108357,2,4,5,NA,NA,Texas,missed,Kai Jones,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,226,2,9:06,546,546,Will Baker Offensive Rebound.,50,32,18,1,0.9909048694251605,0.9851177948543278,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,227,2,9:06,546,546,Will Baker missed Layup.,50,32,18,0,0.9909048694251605,0.9851177948543278,2,4,5,NA,NA,Texas,missed,Will Baker,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,228,2,9:06,546,546,Kansas State Defensive Rebound.,50,32,18,0,0.9909048694251605,0.9851177948543278,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,229,2,8:36,516,516,Montavious Murphy missed Jumper.,50,32,18,30,0.9918826048632117,0.9868210210543114,2,4,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,230,2,8:30,510,510,DaJuan Gordon Offensive Rebound.,50,32,18,6,0.9920428692704756,0.987101137144868,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,231,2,8:30,510,510,DaJuan Gordon made Layup.,50,34,16,0,0.9871786412781207,0.9792791050725431,2,4,5,NA,NA,Kansas State,made,DaJuan Gordon,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,232,2,8:22,502,502,Courtney Ramey made Layup.,52,34,18,8,0.9922490604928262,0.987461303877281,2,4,5,NA,NA,Texas,made,Courtney Ramey,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,233,2,8:11,491,491,Cartier Diarra missed Jumper.,52,34,18,11,0.9925281272664735,0.9879474474029064,2,4,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,234,2,8:11,491,491,Kansas State Deadball Team Rebound.,52,34,18,0,0.9925281272664735,0.9879474474029064,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,235,2,8:08,488,488,Foul on Jase Febres.,52,34,18,3,0.9926048807186277,0.9880807322501904,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,236,2,8:01,481,481,Cartier Diarra made Layup.,52,36,16,7,0.9882351212822026,0.9811259363825182,2,4,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,237,2,7:44,464,464,Donovan Williams Turnover.,52,36,16,17,0.9889186176271743,0.9823038605984661,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,238,2,7:44,464,464,Official TV Timeout,52,36,16,0,0.9889186176271743,0.9823038605984661,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,239,2,7:25,445,445,Xavier Sneed missed Jumper.,52,36,16,19,0.9898127647825891,0.9838218622450908,2,4,5,NA,NA,Kansas State,missed,Xavier Sneed,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,240,2,7:21,441,441,Kamaka Hepa Defensive Rebound.,52,36,16,4,0.9900222298875974,0.9841742021739088,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,241,2,6:57,417,417,Jericho Sims made Layup. Assisted by Courtney Ramey.,54,36,18,24,0.9949092996529771,0.9919743478950028,2,4,5,NA,NA,Texas,made,Jericho Sims,Courtney Ramey,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,242,2,6:24,384,384,Kansas State  Turnover.,54,36,18,33,0.995849605513706,0.9935421322957737,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,243,2,6:22,382,382,Courtney Ramey Turnover.,54,36,18,2,0.9959010860220533,0.9936276308314005,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,244,2,6:22,382,382,Levi Stockard III Steal.,54,36,18,0,0.9959010860220533,0.9936276308314005,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,245,2,6:16,376,376,Levi Stockard III Turnover.,54,36,18,6,0.9960543517919817,0.9938816643312419,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,246,2,6:16,376,376,Matt Coleman III Steal.,54,36,18,0,0.9960543517919817,0.9938816643312419,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,247,2,6:15,375,375,Foul on Mike McGuirl.,54,36,18,1,0.9960797876130819,0.9939237409688978,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,248,2,6:15,375,375,Matt Coleman III made Free Throw.,55,36,19,0,0.9970437210833485,0.9954153805101416,2,4,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,249,2,6:15,375,375,Matt Coleman III missed Free Throw.,55,36,19,0,0.9970437210833485,0.9954153805101416,2,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,250,2,6:15,375,375,Texas Deadball Team Rebound.,55,36,19,0,0.9970437210833485,0.9954153805101416,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,251,2,6:13,373,373,Courtney Ramey missed Three Point Jumper.,55,36,19,2,0.9970843509653076,0.9954823575386803,2,4,5,NA,NA,Texas,missed,Courtney Ramey,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,252,2,6:09,369,369,Mike McGuirl Defensive Rebound.,55,36,19,4,0.9971654824579518,0.9956158413106231,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,253,2,5:51,351,351,DaJuan Gordon Turnover.,55,36,19,18,0.9975332782445469,0.9962159919223006,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,254,2,5:24,324,324,Matt Coleman III missed Three Point Jumper.,55,36,19,27,0.9981061126412134,0.9971326155203906,2,4,5,NA,NA,Texas,missed,Matt Coleman III,NA,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,255,2,5:20,320,320,Cartier Diarra Defensive Rebound.,55,36,19,4,0.9981926755434845,0.9972692029781627,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,256,2,5:04,304,304,Mike McGuirl made Three Point Jumper. Assisted by Cartier Diarra.,55,39,16,16,0.9961081856846334,0.9941750333287702,2,4,5,NA,NA,Kansas State,made,Mike McGuirl,Cartier Diarra,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,257,2,4:48,288,288,Courtney Ramey Turnover.,55,39,16,16,0.9962958176455139,0.9945013929307672,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,258,2,4:48,288,288,Mike McGuirl Steal.,55,39,16,0,0.9962958176455139,0.9945013929307672,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,259,2,4:45,285,285,Mike McGuirl made Layup.,55,41,14,3,0.992908656434061,0.9895069571285771,2,4,5,NA,NA,Kansas State,made,Mike McGuirl,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,260,2,4:42,282,282,Texas  Timeout,55,41,14,3,0.9928681240949015,0.9894635266190897,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,261,2,4:15,255,255,Jericho Sims Turnover.,55,41,14,27,0.9920184558213325,0.988378412802246,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,262,2,4:15,255,255,Montavious Murphy Steal.,55,41,14,0,0.9920184558213325,0.988378412802246,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,263,2,4:07,247,247,Montavious Murphy Turnover.,55,41,14,8,0.9917591995291636,0.988054115769742,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,264,2,4:07,247,247,Courtney Ramey Steal.,55,41,14,0,0.9917591995291636,0.988054115769742,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,265,2,3:56,236,236,Jase Febres made Three Point Jumper. Assisted by Courtney Ramey.,58,41,17,11,0.9966990137306937,0.9952335810477017,2,3,5,NA,NA,Texas,made,Jase Febres,Courtney Ramey,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,266,2,3:43,223,223,DaJuan Gordon made Three Point Jumper. Assisted by Mike McGuirl.,58,44,14,13,0.9917907375304877,0.9882610561950524,2,3,5,NA,NA,Kansas State,made,DaJuan Gordon,Mike McGuirl,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,267,2,3:37,217,217,Jericho Sims Turnover.,58,44,14,6,0.9921033530804728,0.9887473689521838,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,268,2,3:37,217,217,DaJuan Gordon Steal.,58,44,14,0,0.9921033530804728,0.9887473689521838,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,269,2,3:37,217,217,Official TV Timeout,58,44,14,0,0.9921033530804728,0.9887473689521838,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,270,2,3:37,217,217,Foul on Kamaka Hepa.,58,44,14,0,0.9921033530804728,0.9887473689521838,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,271,2,3:24,204,204,Montavious Murphy made Layup.,58,46,12,13,0.9870013979967458,0.9816673147184898,2,3,5,NA,NA,Kansas State,made,Montavious Murphy,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,272,2,3:15,195,195,Foul on Mike McGuirl.,58,46,12,9,0.9888549992095358,0.9843630002582116,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,273,2,3:11,191,191,Foul on DaJuan Gordon.,58,46,12,4,0.9897830841228757,0.9856990706313612,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,274,2,2:42,162,162,Matt Coleman III missed Jumper.,58,46,12,29,0.9950456609281855,0.9931942850621287,2,3,5,NA,NA,Texas,missed,Matt Coleman III,NA,FALSE,FALSE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,275,2,2:42,162,162,Will Baker Offensive Rebound.,58,46,12,0,0.9950456609281855,0.9931942850621287,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,276,2,2:41,161,161,Foul on Levi Stockard III.,58,46,12,1,0.9951767845349005,0.9933790029053362,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,277,2,2:29,149,149,Matt Coleman III made Layup.,60,46,14,12,0.9985890352540708,0.9980781874760193,2,3,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,278,2,2:29,149,149,Foul on Montavious Murphy.,60,46,14,0,0.9985890352540708,0.9980781874760193,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,279,2,2:29,149,149,Matt Coleman III made Free Throw.,61,46,15,0,0.9990968165368618,0.9987695873234005,2,3,5,NA,NA,Texas,made,Matt Coleman III,NA,FALSE,TRUE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,280,2,2:22,142,142,Foul on Andrew Jones.,61,46,15,7,0.9993097541543895,0.9990646894882036,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,281,2,2:20,140,140,Levi Stockard III missed Jumper.,61,46,15,2,0.9993628552061861,0.9991379793650512,2,3,5,NA,NA,Kansas State,missed,Levi Stockard III,NA,FALSE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,282,2,2:16,136,136,Will Baker Defensive Rebound.,61,46,15,4,0.9994596585539379,0.9992712293178202,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,283,2,1:56,116,116,Will Baker made Three Point Jumper. Assisted by Courtney Ramey.,64,46,18,20,0.9999585597090356,0.9999450029748649,2,3,5,NA,NA,Texas,made,Will Baker,Courtney Ramey,TRUE,FALSE,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,284,2,1:35,95,95,Montavious Murphy made Three Point Jumper. Assisted by Cartier Diarra.,64,49,15,21,0.9999375710039037,0.9999186366762717,2,3,5,NA,NA,Kansas State,made,Montavious Murphy,Cartier Diarra,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,285,2,1:25,85,85,Texas  Timeout,64,49,15,10,0.9999678096627229,0.9999584204797681,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,286,2,1:13,73,73,Foul on Levi Stockard III.,64,49,15,12,0.9999861556059756,0.9999823131848435,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,287,2,1:13,73,73,Will Baker missed Free Throw.,64,49,15,0,0.9999861556059756,0.9999823131848435,2,2,5,NA,NA,Texas,missed,Will Baker,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,288,2,1:13,73,73,Texas Deadball Team Rebound.,64,49,15,0,0.9999861556059756,0.9999823131848435,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,289,2,1:13,73,73,Will Baker missed Free Throw.,64,49,15,0,0.9999861556059756,0.9999823131848435,2,2,5,NA,NA,Texas,missed,Will Baker,NA,FALSE,TRUE,Texas,Texas
+401169692,2020-01-11,Texas,Kansas State,290,2,1:08,68,68,Mike McGuirl Defensive Rebound.,64,49,15,5,0.999990491012484,0.9999879087253738,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,291,2,1:06,66,66,Mike McGuirl Turnover.,64,49,15,2,0.9999918393790321,0.9999896428550533,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,292,2,1:06,66,66,Courtney Ramey Steal.,64,49,15,0,0.9999918393790321,0.9999896428550533,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,293,2,0:35,35,35,Matt Coleman III Turnover.,64,49,15,31,0.9999993910182314,0.9999992502438231,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,Kansas State
+401169692,2020-01-11,Texas,Kansas State,294,2,0:31,31,31,Foul on Matt Coleman III.,64,49,15,4,0.9999995787790562,0.9999994835205537,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,295,2,0:31,31,31,Cartier Diarra made Free Throw.,64,50,14,0,0.9999988942945716,0.9999986442411101,2,2,5,NA,NA,Kansas State,made,Cartier Diarra,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,296,2,0:30,30,30,Cartier Diarra missed Free Throw.,64,50,14,1,0.999998986301823,0.9999987583295832,2,2,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,TRUE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,297,2,0:27,27,27,Cartier Diarra Offensive Rebound.,64,50,14,3,0.9999992204883059,0.9999990481264566,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,298,2,0:26,26,26,Cartier Diarra missed Jumper.,64,50,14,1,0.9999992863054625,0.9999991293965845,2,2,5,NA,NA,Kansas State,missed,Cartier Diarra,NA,FALSE,FALSE,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,299,2,0:26,26,26,Andrew Jones Block.,64,50,14,0,0.9999992863054625,0.9999991293965845,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,300,2,0:17,17,17,Montavious Murphy Offensive Rebound.,64,50,14,9,0.999999684127678,0.9999996182874278,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Kansas State
+401169692,2020-01-11,Texas,Kansas State,301,2,0:16,16,16,Montavious Murphy missed Three Point Jumper.,64,50,14,1,0.9999997124277173,0.9999996528542311,2,2,5,NA,NA,Kansas State,missed,Montavious Murphy,NA,TRUE,FALSE,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,302,2,0:16,16,16,Jase Febres Block.,64,50,14,0,0.9999997124277173,0.9999996528542311,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,303,2,0:16,16,16,Texas Defensive Rebound.,64,50,14,0,0.9999997124277173,0.9999996528542311,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Kansas State,Texas
+401169692,2020-01-11,Texas,Kansas State,304,2,0:00,0,0,End of 2nd half,64,50,14,16,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,NA
+401169692,2020-01-11,Texas,Kansas State,305,2,0:00,0,0,End of Game,64,50,14,0,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Texas,NA

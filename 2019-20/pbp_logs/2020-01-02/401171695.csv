@@ -1,0 +1,321 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171695,2020-01-02,Charleston,Towson,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Towson
+401171695,2020-01-02,Charleston,Towson,2,1,19:47,2387,2387,Nakye Sanders missed Jumper.,0,0,0,13,0.7233890485983436,0.5,4,4,6,NA,NA,Towson,missed,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,3,1,19:47,2387,2387,Grant Riller Defensive Rebound.,0,0,0,0,0.7233890485983436,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,4,1,19:37,2377,2377,Grant Riller missed Jumper.,0,0,0,10,0.7231937988960027,0.5,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,5,1,19:37,2377,2377,Sam Miller Offensive Rebound.,0,0,0,0,0.7231937988960027,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,6,1,19:33,2373,2373,Sam Miller made Two Point Tip Shot.,2,0,2,4,0.7574644389697738,0.5445967041932466,4,4,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,7,1,19:20,2360,2360,Foul on Brevin Galloway.,2,0,2,13,0.7574333055734179,0.5448750795359576,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,8,1,19:11,2351,2351,Nakye Sanders missed Jumper.,2,0,2,9,0.7574105712271115,0.5450691340700113,4,4,6,NA,NA,Towson,missed,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,9,1,19:11,2351,2351,Sam Miller Defensive Rebound.,2,0,2,0,0.7574105712271115,0.5450691340700113,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,10,1,19:01,2341,2341,Brevin Galloway missed Layup.,2,0,2,10,0.7573841082706815,0.5452859761078498,4,4,6,NA,NA,Charleston,missed,Brevin Galloway,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,11,1,19:01,2341,2341,Dennis Tunstall Block.,2,0,2,0,0.7573841082706815,0.5452859761078498,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,12,1,18:58,2338,2338,Jason Gibson Defensive Rebound.,2,0,2,3,0.7573759126844629,0.5453512728162102,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,13,1,18:53,2333,2333,Dennis Tunstall missed Three Point Jumper.,2,0,2,5,0.7573619818194922,0.5454603446991073,4,4,6,NA,NA,Towson,missed,Dennis Tunstall,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,14,1,18:53,2333,2333,Grant Riller Defensive Rebound.,2,0,2,0,0.7573619818194922,0.5454603446991073,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,15,1,18:46,2326,2326,Zep Jasper missed Three Point Jumper.,2,0,2,7,0.7573418938608171,0.5456135467511029,4,4,6,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,16,1,18:46,2326,2326,Dennis Tunstall Defensive Rebound.,2,0,2,0,0.7573418938608171,0.5456135467511029,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,17,1,18:12,2292,2292,Allen Betrand missed Jumper.,2,0,2,34,0.7572338821561363,0.546365429477102,4,4,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,18,1,18:12,2292,2292,Nakye Sanders Offensive Rebound.,2,0,2,0,0.7572338821561363,0.546365429477102,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,19,1,18:10,2290,2290,Nakye Sanders made Layup.,2,2,0,2,0.7213885913408539,0.5,4,4,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,20,1,18:03,2283,2283,Sam Miller missed Three Point Jumper.,2,2,0,7,0.7212346272979436,0.5,4,4,6,NA,NA,Charleston,missed,Sam Miller,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,21,1,18:03,2283,2283,Dennis Tunstall Defensive Rebound.,2,2,0,0,0.7212346272979436,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,22,1,17:45,2265,2265,Brian Fobbs Turnover.,2,2,0,18,0.7208324528744986,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,23,1,17:28,2248,2248,Jaylen McManus missed Jumper.,2,2,0,17,0.7204441825767725,0.5,4,4,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,24,1,17:28,2248,2248,Nakye Sanders Defensive Rebound.,2,2,0,0,0.7204441825767725,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,25,1,17:07,2227,2227,Allen Betrand made Layup.,2,4,-2,21,0.6796819694915338,0.4521673136698952,4,4,6,NA,NA,Towson,made,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,26,1,16:46,2206,2206,Brevin Galloway made Jumper.,4,4,0,21,0.7194486078528405,0.5,4,4,6,NA,NA,Charleston,made,Brevin Galloway,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,27,1,16:23,2183,2183,Jason Gibson Turnover.,4,4,0,23,0.7188807411927244,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,28,1,16:09,2169,2169,Grant Riller missed Jumper.,4,4,0,14,0.7185269734531201,0.5,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,29,1,16:09,2169,2169,Trevon Reddish Offensive Rebound.,4,4,0,0,0.7185269734531201,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,30,1,16:05,2165,2165,Trevon Reddish Turnover.,4,4,0,4,0.7184247745201255,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,31,1,15:50,2150,2150,Foul on Quan McCluney.,4,4,0,15,0.7180372736126333,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,32,1,15:50,2150,2150,Official TV Timeout,4,4,0,0,0.7180372736126333,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,33,1,15:50,2150,2150,Allen Betrand made Free Throw.,4,5,-1,0,0.6974550228941291,0.47513589657523964,4,4,6,NA,NA,Towson,made,Allen Betrand,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,34,1,15:50,2150,2150,Allen Betrand made Free Throw.,4,6,-2,0,0.6760481833482055,0.4503944624143455,4,4,6,NA,NA,Towson,made,Allen Betrand,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,35,1,15:43,2143,2143,Jaylen McManus made Layup. Assisted by Grant Riller.,6,6,0,7,0.7178541547708246,0.5,4,4,6,NA,NA,Charleston,made,Jaylen McManus,Grant Riller,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,36,1,15:08,2108,2108,Nicolas Timberlake made Jumper.,6,8,-2,35,0.6739637949731939,0.4494106518129116,4,4,6,NA,NA,Towson,made,Nicolas Timberlake,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,37,1,14:39,2079,2079,Grant Riller missed Jumper.,6,8,-2,29,0.6724815019296618,0.44872193532611787,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,38,1,14:39,2079,2079,Trevon Reddish Offensive Rebound.,6,8,-2,0,0.6724815019296618,0.44872193532611787,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,39,1,14:37,2077,2077,Foul on Dennis Tunstall.,6,8,-2,2,0.6723779699478892,0.44867412872103285,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,40,1,14:37,2077,2077,Trevon Reddish made Free Throw.,7,8,-1,0,0.6946553406966497,0.4742691007795228,4,4,6,NA,NA,Charleston,made,Trevon Reddish,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,41,1,14:37,2077,2077,Trevon Reddish made Free Throw.,8,8,0,0,0.7160576061901249,0.5,4,4,6,NA,NA,Charleston,made,Trevon Reddish,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,42,1,14:16,2056,2056,Nakye Sanders Turnover.,8,8,0,21,0.7154600384321543,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,43,1,13:51,2031,2031,Grant Riller made Jumper.,10,8,2,25,0.755655407397276,0.5524373736537096,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,44,1,13:29,2009,2009,Brian Fobbs missed Three Point Jumper.,10,8,2,22,0.7554670057038447,0.5529776423859365,4,4,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,45,1,13:29,2009,2009,Osinachi Smart Defensive Rebound.,10,8,2,0,0.7554670057038447,0.5529776423859365,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,46,1,13:11,1991,1991,Osinachi Smart missed Jumper.,10,8,2,18,0.7553081645247949,0.5534242030335981,4,4,6,NA,NA,Charleston,missed,Osinachi Smart,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,47,1,13:11,1991,1991,Nakye Sanders Block.,10,8,2,0,0.7553081645247949,0.5534242030335981,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,48,1,13:09,1989,1989,Osinachi Smart Offensive Rebound.,10,8,2,2,0.7552902681198134,0.5534740814799639,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,49,1,13:06,1986,1986,Brevin Galloway made Three Point Jumper. Assisted by Osinachi Smart.,13,8,5,3,0.8099083241894878,0.6312426617053879,4,4,6,NA,NA,Charleston,made,Brevin Galloway,Osinachi Smart,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,50,1,13:02,1982,1982,Towson  Timeout,13,8,5,4,0.8099717869521657,0.6314782934151979,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,51,1,12:35,1955,1955,Juwan Gray missed Three Point Jumper.,13,8,5,27,0.8104013615723474,0.6330809696806871,4,3,6,NA,NA,Towson,missed,Juwan Gray,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,52,1,12:35,1955,1955,Osinachi Smart Defensive Rebound.,13,8,5,0,0.8104013615723474,0.6330809696806871,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,53,1,12:25,1945,1945,Brevin Galloway made Three Point Jumper. Assisted by Zep Jasper.,16,8,8,10,0.856003201142368,0.7061710478205657,4,3,6,NA,NA,Charleston,made,Brevin Galloway,Zep Jasper,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,54,1,12:08,1928,1928,Brian Fobbs Turnover.,16,8,8,17,0.8565483905768555,0.7076366177531433,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,55,1,12:08,1928,1928,Foul on Brian Fobbs.,16,8,8,0,0.8565483905768555,0.7076366177531433,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,56,1,11:47,1907,1907,Zep Jasper missed Jumper.,16,8,8,21,0.8572144435380916,0.7094447661281957,4,3,6,NA,NA,Charleston,missed,Zep Jasper,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,57,1,11:47,1907,1907,Nakye Sanders Defensive Rebound.,16,8,8,0,0.8572144435380916,0.7094447661281957,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,58,1,11:40,1900,1900,Allen Betrand missed Layup.,16,8,8,7,0.8574334798700637,0.7100452437099964,4,3,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,59,1,11:40,1900,1900,DeAngelo Epps Defensive Rebound.,16,8,8,0,0.8574334798700637,0.7100452437099964,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,60,1,11:33,1893,1893,DeAngelo Epps made Layup.,18,8,10,7,0.8829375535976107,0.7545721229687957,4,3,6,NA,NA,Charleston,made,DeAngelo Epps,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,61,1,11:12,1872,1872,Brian Fobbs made Jumper.,18,10,8,21,0.8582980845463671,0.7124406391197821,4,3,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,62,1,10:43,1843,1843,Zep Jasper missed Three Point Jumper.,18,10,8,29,0.8591804912187854,0.714919478895125,4,3,6,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,63,1,10:43,1843,1843,Brian Fobbs Defensive Rebound.,18,10,8,0,0.8591804912187854,0.714919478895125,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,64,1,10:28,1828,1828,Foul on Brenden Tucker.,18,10,8,15,0.8596345168223004,0.7162047302236102,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,65,1,10:25,1825,1825,Official TV Timeout,18,10,8,3,0.859725275366569,0.7164622406916638,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,66,1,10:11,1811,1811,Brian Fobbs made Layup.,18,12,6,14,0.8296712831258632,0.6681184501918525,4,3,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,67,1,9:50,1790,1790,Jaylen McManus missed Layup.,18,12,6,21,0.8301043714848098,0.6696109298538268,4,3,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,68,1,9:50,1790,1790,Brian Fobbs Defensive Rebound.,18,12,6,0,0.8301043714848098,0.6696109298538268,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,69,1,9:37,1777,1777,Allen Betrand missed Three Point Jumper.,18,12,6,13,0.8303745470775885,0.670542608106261,4,3,6,NA,NA,Towson,missed,Allen Betrand,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,70,1,9:37,1777,1777,Dennis Tunstall Offensive Rebound.,18,12,6,0,0.8303745470775885,0.670542608106261,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,71,1,9:34,1774,1774,Dennis Tunstall Turnover.,18,12,6,3,0.8304372148139432,0.6707585710763991,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,72,1,9:34,1774,1774,Foul on Dennis Tunstall.,18,12,6,0,0.8304372148139432,0.6707585710763991,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,73,1,9:20,1760,1760,Sam Miller made Dunk. Assisted by Grant Riller.,20,12,8,14,0.861709015579481,0.7221085888179429,4,3,6,NA,NA,Charleston,made,Sam Miller,Grant Riller,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,74,1,8:51,1731,1731,Brian Fobbs missed Three Point Jumper.,20,12,8,29,0.8626196428910002,0.7246896343974039,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,75,1,8:51,1731,1731,Sam Miller Defensive Rebound.,20,12,8,0,0.8626196428910002,0.7246896343974039,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,76,1,8:37,1717,1717,Jaylen McManus made Layup. Assisted by Grant Riller.,22,12,10,14,0.8893935241888167,0.7716655923618526,4,3,6,NA,NA,Charleston,made,Jaylen McManus,Grant Riller,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,77,1,8:37,1717,1717,Foul on Brian Fobbs.,22,12,10,0,0.8893935241888167,0.7716655923618526,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,78,1,8:37,1717,1717,Jaylen McManus made Free Throw.,23,12,11,0,0.900816969654859,0.7924100131838174,4,3,6,NA,NA,Charleston,made,Jaylen McManus,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,79,1,8:20,1700,1700,Nicolas Timberlake missed Three Point Jumper.,23,12,11,17,0.9014972529991465,0.7941746215268141,4,3,6,NA,NA,Towson,missed,Nicolas Timberlake,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,80,1,8:20,1700,1700,Charleston Defensive Rebound.,23,12,11,0,0.9014972529991465,0.7941746215268141,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,81,1,7:58,1678,1678,Official TV Timeout,23,12,11,22,0.9023818723704997,0.7964687650338305,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,82,1,7:49,1669,1669,Jaylen McManus missed Three Point Jumper.,23,12,11,9,0.902729952137206,0.7973860327553435,4,3,6,NA,NA,Charleston,missed,Jaylen McManus,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,83,1,7:49,1669,1669,Jakigh Dottin Defensive Rebound.,23,12,11,0,0.902729952137206,0.7973860327553435,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,84,1,7:23,1643,1643,Brian Fobbs missed Three Point Jumper.,23,12,11,26,0.9036898393369754,0.7999653929428198,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,85,1,7:23,1643,1643,Juwan Gray Offensive Rebound.,23,12,11,0,0.9036898393369754,0.7999653929428198,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,86,1,7:10,1630,1630,Foul on Quan McCluney.,23,12,11,13,0.9041495555939815,0.8012241490211417,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,87,1,7:09,1629,1629,Brian Fobbs missed Jumper.,23,12,11,1,0.9041844779252625,0.8013203116837267,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,88,1,7:09,1629,1629,Nakye Sanders Offensive Rebound.,23,12,11,0,0.9041844779252625,0.8013203116837267,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,89,1,7:08,1628,1628,Nakye Sanders made Two Point Tip Shot.,23,14,9,1,0.879885239838274,0.7579554985244475,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,90,1,7:08,1628,1628,Foul on Jaylen McManus.,23,14,9,0,0.879885239838274,0.7579554985244475,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,91,1,7:08,1628,1628,Nakye Sanders made Free Throw.,23,15,8,0,0.8658217823086557,0.7339329635128692,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,92,1,6:49,1609,1609,Brevin Galloway missed Three Point Jumper.,23,15,8,19,0.8663380095565137,0.7355523203696531,4,3,6,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,93,1,6:49,1609,1609,Allen Betrand Defensive Rebound.,23,15,8,0,0.8663380095565137,0.7355523203696531,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,94,1,6:30,1590,1590,Juwan Gray made Jumper.,23,17,6,19,0.8341753128779761,0.6842669966753173,4,3,6,NA,NA,Towson,made,Juwan Gray,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,95,1,6:09,1569,1569,Jaylen McManus made Jumper.,25,17,8,21,0.8673983564301171,0.7389430225958727,4,3,6,NA,NA,Charleston,made,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,96,1,5:39,1539,1539,Nicolas Timberlake missed Layup.,25,17,8,30,0.8682077490195188,0.7415221739996535,4,3,6,NA,NA,Towson,missed,Nicolas Timberlake,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,97,1,5:39,1539,1539,Sam Miller Block.,25,17,8,0,0.8682077490195188,0.7415221739996535,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,98,1,5:38,1538,1538,Nakye Sanders Offensive Rebound.,25,17,8,1,0.8682353741425815,0.741609285945112,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,99,1,5:35,1535,1535,Nakye Sanders made Layup.,25,19,6,3,0.835104364428053,0.688215037425073,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,100,1,5:18,1518,1518,Jaylen McManus missed Layup.,25,19,6,17,0.8354153293298565,0.6894779371965428,4,3,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,101,1,5:17,1517,1517,Nicolas Timberlake Defensive Rebound.,25,19,6,1,0.8354342184091412,0.6895531548632162,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,102,1,5:12,1512,1512,Allen Betrand missed Jumper.,25,19,6,5,0.8355297875441149,0.689930949594193,4,3,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,103,1,5:12,1512,1512,Jaylen McManus Defensive Rebound.,25,19,6,0,0.8355297875441149,0.689930949594193,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,104,1,5:11,1511,1511,Foul on Nakye Sanders.,25,19,6,1,0.835549133931606,0.6900068593602767,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,105,1,4:58,1498,1498,Grant Riller missed Jumper.,25,19,6,13,0.8358083330385664,0.6910051108101845,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,106,1,4:58,1498,1498,Charles Thompson Defensive Rebound.,25,19,6,0,0.8358083330385664,0.6910051108101845,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,107,1,4:39,1479,1479,Nicolas Timberlake missed Three Point Jumper.,25,19,6,19,0.8362165779899021,0.6925067729182237,4,3,6,NA,NA,Towson,missed,Nicolas Timberlake,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,108,1,4:39,1479,1479,Allen Betrand Offensive Rebound.,25,19,6,0,0.8362165779899021,0.6925067729182237,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,109,1,4:35,1475,1475,Allen Betrand made Three Point Jumper.,25,22,3,4,0.7728220869101641,0.6002943985071719,4,3,6,NA,NA,Towson,made,Allen Betrand,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,110,1,4:14,1454,1454,Grant Riller missed Layup.,25,22,3,21,0.7727576751817798,0.6012785292849163,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,111,1,4:14,1454,1454,Osinachi Smart Offensive Rebound.,25,22,3,0,0.7727576751817798,0.6012785292849163,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,112,1,4:09,1449,1449,Grant Riller missed Three Point Jumper.,25,22,3,5,0.7727484857643808,0.6015200198393883,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,113,1,4:09,1449,1449,Osinachi Smart Offensive Rebound.,25,22,3,0,0.7727484857643808,0.6015200198393883,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,114,1,4:04,1444,1444,Osinachi Smart missed Layup.,25,22,3,5,0.7727381253151625,0.601760546031911,4,3,6,NA,NA,Charleston,missed,Osinachi Smart,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,115,1,4:04,1444,1444,Zep Jasper Offensive Rebound.,25,22,3,0,0.7727381253151625,0.601760546031911,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,116,1,4:01,1441,1441,Zep Jasper made Layup.,27,22,5,3,0.8174843839195653,0.6657455394728102,4,3,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,117,1,4:01,1441,1441,Foul on Nicolas Timberlake.,27,22,5,0,0.8174843839195653,0.6657455394728102,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,118,1,4:01,1441,1441,Zep Jasper made Free Throw.,28,22,6,0,0.837153179463421,0.6956791429014401,4,3,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,119,1,3:42,1422,1422,Jason Gibson missed Three Point Jumper.,28,22,6,19,0.8376030759519952,0.697243006394298,4,3,6,NA,NA,Towson,missed,Jason Gibson,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,120,1,3:42,1422,1422,Osinachi Smart Defensive Rebound.,28,22,6,0,0.8376030759519952,0.697243006394298,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,121,1,3:29,1409,1409,Foul on Juwan Gray.,28,22,6,13,0.8378871714776874,0.6982823663715125,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,122,1,3:29,1409,1409,Official TV Timeout,28,22,6,0,0.8378871714776874,0.6982823663715125,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,123,1,3:29,1409,1409,Grant Riller missed Free Throw.,28,22,6,0,0.8378871714776874,0.6982823663715125,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,124,1,3:29,1409,1409,Nicolas Timberlake Defensive Rebound.,28,22,6,0,0.8378871714776874,0.6982823663715125,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,125,1,2:58,1378,1378,Brian Fobbs missed Three Point Jumper.,28,22,6,31,0.8385125305141988,0.7006966240597006,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,126,1,2:58,1378,1378,Jason Gibson Offensive Rebound.,28,22,6,0,0.8385125305141988,0.7006966240597006,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,127,1,2:47,1367,1367,Brian Fobbs missed Three Point Jumper.,28,22,6,11,0.8387243209519086,0.7015421578909722,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,128,1,2:47,1367,1367,Grant Riller Defensive Rebound.,28,22,6,0,0.8387243209519086,0.7015421578909722,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,129,1,2:38,1358,1358,Zep Jasper missed Three Point Jumper.,28,22,6,9,0.8388963690281753,0.7022334168109958,4,3,6,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,130,1,2:38,1358,1358,Charles Thompson Defensive Rebound.,28,22,6,0,0.8388963690281753,0.7022334168109958,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,131,1,2:28,1348,1348,Foul on Zep Jasper.,28,22,6,10,0.8390878991653306,0.7030032478323914,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,132,1,2:28,1348,1348,Jason Gibson made Free Throw.,28,23,5,0,0.8187424312485252,0.6721738533844583,4,3,6,NA,NA,Towson,made,Jason Gibson,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,133,1,2:28,1348,1348,Jason Gibson made Free Throw.,28,24,4,0,0.7964485563839931,0.6397840240726572,4,3,6,NA,NA,Towson,made,Jason Gibson,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,134,1,2:17,1337,1337,Grant Riller made Jumper.,30,24,6,11,0.8393010482479578,0.7038550324336229,4,3,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,135,1,1:50,1310,1310,Dennis Tunstall made Layup. Assisted by Charles Thompson.,30,26,4,27,0.7965899783157798,0.6419836729220455,4,3,6,NA,NA,Towson,made,Dennis Tunstall,Charles Thompson,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,136,1,1:19,1279,1279,Foul on Nicolas Timberlake.,30,26,4,31,0.7967753647560705,0.6438847015337722,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,137,1,1:19,1279,1279,Zep Jasper made Free Throw.,31,26,5,0,0.819701601318879,0.677068321321265,4,3,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,138,1,1:19,1279,1279,Zep Jasper made Free Throw.,32,26,6,0,0.8405590277089167,0.7085594007731149,4,3,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,139,1,1:19,1279,1279,Zep Jasper made Free Throw.,33,26,7,0,0.8594174223933956,0.738167150344594,4,3,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,140,1,1:12,1272,1272,Brian Fobbs missed Layup.,33,26,7,7,0.8596359841790225,0.7388283915400918,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,141,1,1:12,1272,1272,Grant Riller Defensive Rebound.,33,26,7,0,0.8596359841790225,0.7388283915400918,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,142,1,1:03,1263,1263,Jaylen McManus missed Layup.,33,26,7,9,0.859928344712472,0.7396957801579584,4,3,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,143,1,1:03,1263,1263,Nakye Sanders Defensive Rebound.,33,26,7,0,0.859928344712472,0.7396957801579584,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,144,1,1:01,1261,1261,Foul on Osinachi Smart.,33,26,7,2,0.8599951607789029,0.7398913265980523,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,145,1,1:01,1261,1261,Nakye Sanders made Free Throw.,33,27,6,0,0.8410292711016846,0.7101392414926759,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,146,1,1:01,1261,1261,Nakye Sanders made Free Throw.,33,28,5,0,0.8200318033420668,0.678462929686586,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,147,1,0:56,1256,1256,Brevin Galloway missed Three Point Jumper.,33,28,5,5,0.8201322268810847,0.678862646461608,4,3,6,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,148,1,0:56,1256,1256,Charles Thompson Defensive Rebound.,33,28,5,0,0.8201322268810847,0.678862646461608,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,149,1,0:47,1247,1247,Foul on Osinachi Smart.,33,28,5,9,0.8203235873933313,0.6795970198943516,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,150,1,0:47,1247,1247,Charles Thompson made Free Throw.,33,29,4,0,0.7970822677505688,0.6460077294874157,4,3,6,NA,NA,Towson,made,Charles Thompson,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,151,1,0:47,1247,1247,Charles Thompson missed Free Throw.,33,29,4,0,0.7970822677505688,0.6460077294874157,4,3,6,NA,NA,Towson,missed,Charles Thompson,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,152,1,0:47,1247,1247,Sam Miller Defensive Rebound.,33,29,4,0,0.7970822677505688,0.6460077294874157,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,153,1,0:30,1230,1230,Sam Miller made Jumper.,35,29,6,17,0.8419733555101317,0.7130558302557575,4,3,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,154,1,0:05,1205,1205,Jakigh Dottin Turnover.,35,29,6,25,0.8428816971793188,0.7156192112395022,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,155,1,0:02,1202,1202,Grant Riller missed Three Point Jumper.,35,29,6,3,0.8429940157590965,0.71593063249353,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,156,1,0:02,1202,1202,Juwan Gray Defensive Rebound.,35,29,6,0,0.8429940157590965,0.71593063249353,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,157,1,0:00,1200,1200,End of 1st half,35,29,6,2,0.8430682480636522,0.7161370692370593,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,NA
+401171695,2020-01-02,Charleston,Towson,158,2,20:00,1200,1200,PLAY,35,29,6,0,0.8430682480636522,0.7161370692370593,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Charleston
+401171695,2020-01-02,Charleston,Towson,159,2,19:42,1182,1182,Sam Miller made Layup.,37,29,8,18,0.8805438699021492,0.7765724363188816,4,4,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,160,2,19:18,1158,1158,Allen Betrand made Jumper.,37,31,6,24,0.8445367090648243,0.7203043654427385,4,4,6,NA,NA,Towson,made,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,161,2,18:58,1138,1138,Jaylen McManus missed Jumper.,37,31,6,20,0.8452015557173317,0.7222209226274728,4,4,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,162,2,18:58,1138,1138,Brian Fobbs Defensive Rebound.,37,31,6,0,0.8452015557173317,0.7222209226274728,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,163,2,18:43,1123,1123,Nakye Sanders made Three Point Jumper. Assisted by Brian Fobbs.,37,34,3,15,0.7720515451498215,0.6180606880965851,4,4,6,NA,NA,Towson,made,Nakye Sanders,Brian Fobbs,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,164,2,18:28,1108,1108,Zep Jasper missed Three Point Jumper.,37,34,3,15,0.772097433853869,0.6189103970633331,4,4,6,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,165,2,18:28,1108,1108,Nakye Sanders Defensive Rebound.,37,34,3,0,0.772097433853869,0.6189103970633331,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,166,2,18:18,1098,1098,Dennis Tunstall missed Layup.,37,34,3,10,0.7721326645476839,0.619483432405467,4,4,6,NA,NA,Towson,missed,Dennis Tunstall,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,167,2,18:18,1098,1098,Sam Miller Block.,37,34,3,0,0.7721326645476839,0.619483432405467,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,168,2,18:17,1097,1097,Jaylen McManus Defensive Rebound.,37,34,3,1,0.7721364469299802,0.6195411162458534,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,169,2,18:14,1094,1094,Brevin Galloway missed Three Point Jumper.,37,34,3,3,0.7721481093932933,0.6197146363271429,4,4,6,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,170,2,18:14,1094,1094,Nakye Sanders Defensive Rebound.,37,34,3,0,0.7721481093932933,0.6197146363271429,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,171,2,17:53,1073,1073,Brian Fobbs missed Three Point Jumper.,37,34,3,21,0.7722454205700449,0.6209529734601266,4,4,6,NA,NA,Towson,missed,Brian Fobbs,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,172,2,17:53,1073,1073,Nakye Sanders Offensive Rebound.,37,34,3,0,0.7722454205700449,0.6209529734601266,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,173,2,17:48,1068,1068,Allen Betrand made Three Point Jumper. Assisted by Nakye Sanders.,37,37,0,5,0.6739957977026091,0.5,4,4,6,NA,NA,Towson,made,Allen Betrand,Nakye Sanders,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,174,2,17:27,1047,1047,Sam Miller made Three Point Jumper. Assisted by Brevin Galloway.,40,37,3,21,0.7724156760334573,0.6225630192660283,4,4,6,NA,NA,Charleston,made,Sam Miller,Brevin Galloway,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,175,2,16:56,1016,1016,Brian Fobbs made Layup.,40,39,1,31,0.7076915086290109,0.542338259963646,4,4,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,176,2,16:44,1004,1004,Sam Miller missed Three Point Jumper.,40,39,1,12,0.7073651194678802,0.5426416015337099,4,4,6,NA,NA,Charleston,missed,Sam Miller,NA,TRUE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,177,2,16:44,1004,1004,Zep Jasper Offensive Rebound.,40,39,1,0,0.7073651194678802,0.5426416015337099,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,178,2,16:40,1000,1000,Foul on Dennis Tunstall.,40,39,1,4,0.7072574001667769,0.5427455686498812,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,179,2,16:39,999,999,Brevin Galloway missed Three Point Jumper.,40,39,1,1,0.7072305578831557,0.5427717929079946,4,4,6,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,180,2,16:39,999,999,Brian Fobbs Defensive Rebound.,40,39,1,0,0.7072305578831557,0.5427717929079946,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,181,2,16:24,984,984,Foul on Jaylen McManus.,40,39,1,15,0.7068323175724197,0.5431768558619834,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,182,2,16:24,984,984,Brian Fobbs made Free Throw.,40,40,0,0,0.6697180407404578,0.5,4,4,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,183,2,16:24,984,984,Brian Fobbs made Free Throw.,40,41,-1,0,0.6303623082183163,0.45682314413801656,4,4,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,184,2,16:04,964,964,Foul on Charles Thompson.,40,41,-1,20,0.6287051956898099,0.4562512599366847,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,185,2,16:04,964,964,Grant Riller made Free Throw.,41,41,0,0,0.6686553516434549,0.5,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,186,2,16:04,964,964,Grant Riller made Free Throw.,42,41,1,0,0.7063149461080009,0.5437487400633153,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,187,2,15:44,944,944,Foul on Grant Riller.,42,41,1,20,0.7058108456954758,0.5442842831244298,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,188,2,15:44,944,944,Official TV Timeout,42,41,1,0,0.7058108456954758,0.5442842831244298,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,189,2,15:18,918,918,Allen Betrand missed Jumper.,42,41,1,26,0.7051725956366542,0.5449091699798544,4,4,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,190,2,15:18,918,918,Grant Riller Defensive Rebound.,42,41,1,0,0.7051725956366542,0.5449091699798544,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,191,2,15:13,913,913,Grant Riller made Layup.,44,41,3,5,0.7742789379214342,0.6322171102296629,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,192,2,14:50,890,890,Allen Betrand made Three Point Jumper.,44,44,0,23,0.6651255868212642,0.5,4,4,6,NA,NA,Towson,made,Allen Betrand,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,193,2,14:28,868,868,Grant Riller made Jumper.,46,44,2,22,0.7409533139286256,0.5912386547542531,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,194,2,14:03,843,843,Nicolas Timberlake missed Three Point Jumper.,46,44,2,25,0.7408618897236939,0.5923285119335604,4,4,6,NA,NA,Towson,missed,Nicolas Timberlake,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,195,2,14:03,843,843,Osinachi Smart Defensive Rebound.,46,44,2,0,0.7408618897236939,0.5923285119335604,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,196,2,13:51,831,831,Grant Riller missed Jumper.,46,44,2,12,0.7408339258593833,0.5928814025750985,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,197,2,13:51,831,831,Allen Betrand Defensive Rebound.,46,44,2,0,0.7408339258593833,0.5928814025750985,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,198,2,13:42,822,822,Juwan Gray missed Jumper.,46,44,2,9,0.7408218186366402,0.5933143348837857,4,4,6,NA,NA,Towson,missed,Juwan Gray,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,199,2,13:42,822,822,Towson Offensive Rebound.,46,44,2,0,0.7408218186366402,0.5933143348837857,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,200,2,13:38,818,818,Foul on Osinachi Smart.,46,44,2,4,0.7408191891802363,0.5935126094516849,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,201,2,13:31,811,811,Jakigh Dottin missed Layup.,46,44,2,7,0.7408190318352544,0.5938692553600357,4,4,6,NA,NA,Towson,missed,Jakigh Dottin,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,202,2,13:31,811,811,Sam Miller Defensive Rebound.,46,44,2,0,0.7408190318352544,0.5938692553600357,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,203,2,13:24,804,804,Foul on Brian Fobbs.,46,44,2,7,0.740824954173265,0.5942393326298346,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,204,2,13:24,804,804,Grant Riller made Free Throw.,47,44,3,0,0.7757415121197445,0.6392886426232456,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,205,2,13:24,804,804,Grant Riller made Free Throw.,48,44,4,0,0.8071784062737871,0.6820128046631921,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,206,2,13:08,788,788,Brian Fobbs made Jumper.,48,46,2,16,0.7408639686918148,0.5951427177992694,4,4,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,207,2,12:53,773,773,Grant Riller missed Jumper.,48,46,2,15,0.740936970245979,0.5960735551323307,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,208,2,12:53,773,773,Juwan Gray Defensive Rebound.,48,46,2,0,0.740936970245979,0.5960735551323307,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,209,2,12:31,751,751,Foul on Quan McCluney.,48,46,2,22,0.7411181085626342,0.5976130577874013,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,210,2,12:31,751,751,Nakye Sanders made Free Throw.,48,47,1,0,0.7014104619438063,0.5492806516462598,4,4,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,211,2,12:31,751,751,Nakye Sanders made Free Throw.,48,48,0,0,0.6584194679779097,0.5,4,4,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,212,2,12:15,735,735,Jaylen McManus missed Layup.,48,48,0,16,0.6574586170496782,0.5,4,4,6,NA,NA,Charleston,missed,Jaylen McManus,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,213,2,12:15,735,735,Sam Miller Offensive Rebound.,48,48,0,0,0.6574586170496782,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,214,2,12:11,731,731,Sam Miller made Layup.,50,48,2,4,0.7413706000977658,0.5992226330737962,4,4,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,215,2,11:58,718,718,Foul on Trevon Reddish.,50,48,2,13,0.7415403209531,0.6003007952078363,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,216,2,11:58,718,718,Official TV Timeout,50,48,2,0,0.7415403209531,0.6003007952078363,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,217,2,11:43,703,703,Nakye Sanders made Jumper.,50,50,0,15,0.6554853372323105,0.5,4,4,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,218,2,11:23,683,683,Brevin Galloway made Three Point Jumper. Assisted by Zep Jasper.,53,50,3,20,0.7796580722051943,0.6515074667878508,4,4,6,NA,NA,Charleston,made,Brevin Galloway,Zep Jasper,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,219,2,10:57,657,657,Jason Gibson missed Three Point Jumper.,53,50,3,26,0.7802979511179903,0.6538797858828062,4,4,6,NA,NA,Towson,missed,Jason Gibson,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,220,2,10:57,657,657,Sam Miller Defensive Rebound.,53,50,3,0,0.7802979511179903,0.6538797858828062,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,221,2,10:44,644,644,Grant Riller missed Layup.,53,50,3,13,0.7806202878982947,0.6550756811265691,4,4,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,222,2,10:44,644,644,Grant Riller Offensive Rebound.,53,50,3,0,0.7806202878982947,0.6550756811265691,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,223,2,10:39,639,639,Grant Riller made Two Point Tip Shot.,55,50,5,5,0.8454112335935833,0.7450762548997344,4,4,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,224,2,10:39,639,639,Towson  Timeout,55,50,5,0,0.8454112335935833,0.7450762548997344,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,225,2,10:20,620,620,Foul on Trevon Reddish.,55,50,5,19,0.846560756854752,0.7477230050821305,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,226,2,10:20,620,620,Nakye Sanders made Free Throw.,55,51,4,0,0.8161647577379766,0.7045800275267936,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,227,2,10:20,620,620,Nakye Sanders made Free Throw.,55,52,3,0,0.7813029138726535,0.6574391610566981,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,228,2,10:02,602,602,Brevin Galloway missed Three Point Jumper.,55,52,3,18,0.7819508517365672,0.6594461255210966,4,3,6,NA,NA,Charleston,missed,Brevin Galloway,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,229,2,10:02,602,602,Towson Defensive Rebound.,55,52,3,0,0.7819508517365672,0.6594461255210966,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,230,2,9:50,590,590,Brian Fobbs missed Layup.,55,52,3,12,0.782476006505754,0.6609427246739727,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,231,2,9:50,590,590,Dennis Tunstall Offensive Rebound.,55,52,3,0,0.782476006505754,0.6609427246739727,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,232,2,9:37,577,577,Brian Fobbs missed Jumper.,55,52,3,13,0.7831492350395914,0.6627405225644071,4,3,6,NA,NA,Towson,missed,Brian Fobbs,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,233,2,9:37,577,577,Jaylen McManus Defensive Rebound.,55,52,3,0,0.7831492350395914,0.6627405225644071,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,234,2,9:09,549,549,Foul on Nakye Sanders.,55,52,3,28,0.7850524372211809,0.6673757364992728,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,235,2,9:09,549,549,Trevon Reddish missed Free Throw.,55,52,3,0,0.7850524372211809,0.6673757364992728,4,3,6,NA,NA,Charleston,missed,Trevon Reddish,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,236,2,9:09,549,549,Charleston Deadball Team Rebound.,55,52,3,0,0.7850524372211809,0.6673757364992728,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,237,2,9:09,549,549,Trevon Reddish missed Free Throw.,55,52,3,0,0.7850524372211809,0.6673757364992728,4,3,6,NA,NA,Charleston,missed,Trevon Reddish,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,238,2,9:09,549,549,Charles Thompson Defensive Rebound.,55,52,3,0,0.7850524372211809,0.6673757364992728,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,239,2,8:50,530,530,Foul on Jaylen McManus.,55,52,3,19,0.7863023763963385,0.6704889822604763,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,240,2,8:50,530,530,Charles Thompson made Free Throw.,55,53,2,0,0.7438317133823941,0.6162350759949526,4,3,6,NA,NA,Towson,made,Charles Thompson,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,241,2,8:50,530,530,Charles Thompson missed Free Throw.,55,53,2,0,0.7438317133823941,0.6162350759949526,4,3,6,NA,NA,Towson,missed,Charles Thompson,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,242,2,8:50,530,530,Sam Miller Defensive Rebound.,55,53,2,0,0.7438317133823941,0.6162350759949526,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,243,2,8:30,510,510,Grant Riller made Three Point Jumper. Assisted by Brevin Galloway.,58,53,5,20,0.856997826491652,0.7693949911827495,4,3,6,NA,NA,Charleston,made,Grant Riller,Brevin Galloway,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,244,2,8:02,482,482,Allen Betrand missed Three Point Jumper.,58,53,5,28,0.8593344265681768,0.7744405008846474,4,3,6,NA,NA,Towson,missed,Allen Betrand,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,245,2,8:02,482,482,Charles Thompson Offensive Rebound.,58,53,5,0,0.8593344265681768,0.7744405008846474,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,246,2,7:58,478,478,Charles Thompson made Layup.,58,55,3,4,0.7887875830467566,0.6776114566634337,4,3,6,NA,NA,Towson,made,Charles Thompson,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,247,2,7:37,457,457,Zep Jasper missed Three Point Jumper.,58,55,3,21,0.7901802374004778,0.681118271087315,4,3,6,NA,NA,Charleston,missed,Zep Jasper,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,248,2,7:37,457,457,Juwan Gray Defensive Rebound.,58,55,3,0,0.7901802374004778,0.681118271087315,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,249,2,7:29,449,449,Juwan Gray Turnover.,58,55,3,8,0.7908710909104034,0.6827068253182516,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,250,2,7:29,449,449,Official TV Timeout,58,55,3,0,0.7908710909104034,0.6827068253182516,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,251,2,7:09,429,429,Grant Riller made Three Point Jumper.,61,55,6,20,0.8940081876713728,0.8287743290816927,4,3,6,NA,NA,Charleston,made,Grant Riller,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,252,2,6:34,394,394,Jason Gibson missed Three Point Jumper.,61,55,6,35,0.8998134083425176,0.8397896922264315,4,3,6,NA,NA,Towson,missed,Jason Gibson,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,253,2,6:34,394,394,Brevin Galloway Defensive Rebound.,61,55,6,0,0.8998134083425176,0.8397896922264315,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,254,2,6:20,380,380,Grant Riller missed Jumper.,61,55,6,14,0.9019264575386117,0.8439131618438123,4,3,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,255,2,6:20,380,380,Jason Gibson Defensive Rebound.,61,55,6,0,0.9019264575386117,0.8439131618438123,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,256,2,6:01,361,361,Foul on Osinachi Smart.,61,55,6,19,0.9049868290462658,0.8498137329389575,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,257,2,6:01,361,361,Nakye Sanders made Free Throw.,61,56,5,0,0.8770782298984635,0.8091171876521646,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,258,2,6:01,361,361,Nakye Sanders made Free Throw.,61,57,4,0,0.8423995293806313,0.7605008307198514,4,3,6,NA,NA,Towson,made,Nakye Sanders,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,259,2,5:43,343,343,Grant Riller made Jumper.,63,57,6,18,0.9083573951546303,0.8561110404662139,4,3,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,260,2,5:13,313,313,Foul on Sam Miller.,63,57,6,30,0.9156101653709517,0.8690002730794524,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,261,2,5:13,313,313,Brian Fobbs made Free Throw.,63,58,5,0,0.8878320913107107,0.8287494469305957,4,3,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,262,2,5:13,313,313,Brian Fobbs made Free Throw.,63,59,4,0,0.8523846102227606,0.7792725431413848,4,3,6,NA,NA,Towson,made,Brian Fobbs,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,263,2,4:53,293,293,Foul on Nakye Sanders.,63,59,4,20,0.8553948869626481,0.785535503981548,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,264,2,4:53,293,293,Sam Miller made Free Throw.,64,59,5,0,0.8911082760900207,0.8351777304160967,4,3,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,265,2,4:53,293,293,Sam Miller made Free Throw.,65,59,6,0,0.9188383433410395,0.8751554513207308,4,3,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,266,2,4:33,273,273,Allen Betrand missed Jumper.,65,59,6,20,0.9170428315316068,0.8739164054646431,4,3,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,267,2,4:33,273,273,Zep Jasper Defensive Rebound.,65,59,6,0,0.9170428315316068,0.8739164054646431,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,268,2,4:16,256,256,Jaylen McManus made Three Point Jumper. Assisted by Sam Miller.,68,59,9,17,0.9649355893671616,0.9457787272557109,4,3,6,NA,NA,Charleston,made,Jaylen McManus,Sam Miller,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,269,2,4:12,252,252,Towson  Timeout,68,59,9,4,0.9645073292251556,0.9452647790870905,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,270,2,4:12,252,252,Official TV Timeout,68,59,9,0,0.9645073292251556,0.9452647790870905,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,271,2,3:47,227,227,Nakye Sanders missed Jumper.,68,59,9,25,0.9635391450952225,0.9446976396093006,4,2,6,NA,NA,Towson,missed,Nakye Sanders,NA,FALSE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,272,2,3:47,227,227,Grant Riller Defensive Rebound.,68,59,9,0,0.9635391450952225,0.9446976396093006,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,273,2,3:24,204,204,Grant Riller Turnover.,68,59,9,23,0.967846134840665,0.9519113253613999,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,274,2,3:23,203,203,Nakye Sanders Steal.,68,59,9,1,0.9681761514876184,0.9524327237870184,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,275,2,3:01,181,181,Juwan Gray missed Three Point Jumper.,68,59,9,22,0.9773064421487287,0.9665207704724419,4,2,6,NA,NA,Towson,missed,Juwan Gray,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,276,2,3:01,181,181,Grant Riller Defensive Rebound.,68,59,9,0,0.9773064421487287,0.9665207704724419,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,277,2,2:40,160,160,Grant Riller made Three Point Jumper. Assisted by Brevin Galloway.,71,59,12,21,0.9955931960499266,0.9935599147006708,4,2,6,NA,NA,Charleston,made,Grant Riller,Brevin Galloway,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,278,2,2:20,140,140,Foul on Grant Riller.,71,59,12,20,0.9975453267875323,0.9964748298121269,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,279,2,2:20,140,140,Allen Betrand made Free Throw.,71,60,11,0,0.9960769144993498,0.994369649010793,4,2,6,NA,NA,Towson,made,Allen Betrand,NA,FALSE,TRUE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,280,2,2:20,140,140,Allen Betrand missed Free Throw.,71,60,11,0,0.9960769144993498,0.994369649010793,4,2,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,TRUE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,281,2,2:20,140,140,Sam Miller Defensive Rebound.,71,60,11,0,0.9960769144993498,0.994369649010793,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,282,2,1:56,116,116,Grant Riller missed Three Point Jumper.,71,60,11,24,0.9982273977816911,0.99751224969,4,2,6,NA,NA,Charleston,missed,Grant Riller,NA,TRUE,FALSE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,283,2,1:56,116,116,Nakye Sanders Defensive Rebound.,71,60,11,0,0.9982273977816911,0.99751224969,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,284,2,1:49,109,109,Brian Fobbs Turnover.,71,60,11,7,0.9986514273592313,0.9981204042481544,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,285,2,1:49,109,109,Foul on Brian Fobbs.,71,60,11,0,0.9986514273592313,0.9981204042481544,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,286,2,1:23,83,83,Foul on Juwan Gray.,71,60,11,26,0.9995919401013857,0.9994465148935096,4,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,287,2,1:23,83,83,Zep Jasper made Free Throw.,72,60,12,0,0.9997935798471143,0.9997199952880439,4,2,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,288,2,1:23,83,83,Zep Jasper made Free Throw.,73,60,13,0,0.9998955912286015,0.9998583664872903,4,2,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,289,2,1:14,74,74,Allen Betrand made Three Point Jumper.,73,63,10,9,0.9994692134162136,0.9992871816217335,4,2,6,NA,NA,Towson,made,Allen Betrand,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,290,2,1:12,72,72,Towson  Timeout,73,63,10,2,0.9995184035837802,0.999354675425705,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,291,2,1:07,67,67,Foul on Nicolas Timberlake.,73,63,10,5,0.9996246691549433,0.9994998796257678,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,292,2,1:07,67,67,Sam Miller made Free Throw.,74,63,11,0,0.9998244381214578,0.9997660519835996,4,1,6,NA,NA,Charleston,made,Sam Miller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,293,2,1:07,67,67,Sam Miller missed Free Throw.,74,63,11,0,0.9998244381214578,0.9997660519835996,4,1,6,NA,NA,Charleston,missed,Sam Miller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,294,2,1:07,67,67,Nakye Sanders Defensive Rebound.,74,63,11,0,0.9998244381214578,0.9997660519835996,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,295,2,0:58,58,58,Allen Betrand missed Three Point Jumper.,74,63,11,9,0.999894761002034,0.9998611959028314,4,1,6,NA,NA,Towson,missed,Allen Betrand,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,296,2,0:58,58,58,Brevin Galloway Defensive Rebound.,74,63,11,0,0.999894761002034,0.9998611959028314,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,297,2,0:54,54,54,Foul on Juwan Gray.,74,63,11,4,0.9999168296528294,0.9998908104755619,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,298,2,0:54,54,54,Zep Jasper made Free Throw.,75,63,12,0,0.9999637065863002,0.9999523517835591,4,1,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,299,2,0:54,54,54,Zep Jasper made Free Throw.,76,63,13,0,0.999984162900376,0.9999792079525331,4,1,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,300,2,0:49,49,49,Jason Gibson missed Three Point Jumper.,76,63,13,5,0.9999889268463484,0.9999855473747772,4,1,6,NA,NA,Towson,missed,Jason Gibson,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,301,2,0:49,49,49,Charleston Defensive Rebound.,76,63,13,0,0.9999889268463484,0.9999855473747772,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,302,2,0:43,43,43,Foul on Brian Fobbs.,76,63,13,6,0.9999928980561393,0.9999907964494131,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,303,2,0:43,43,43,Zep Jasper made Free Throw.,77,63,14,0,0.9999970893410774,0.999996228014416,4,1,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,304,2,0:43,43,43,Zep Jasper made Free Throw.,78,63,15,0,0.9999988070992147,0.9999984540933954,4,1,6,NA,NA,Charleston,made,Zep Jasper,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,305,2,0:37,37,37,Allen Betrand missed Jumper.,78,63,15,6,0.999999299679417,0.999999098983298,4,1,6,NA,NA,Towson,missed,Allen Betrand,NA,FALSE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,306,2,0:37,37,37,Towson Offensive Rebound.,78,63,15,0,0.999999299679417,0.999999098983298,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,307,2,0:33,33,33,Juwan Gray missed Three Point Jumper.,78,63,15,4,0.9999995135607154,0.999999377203606,4,1,6,NA,NA,Towson,missed,Juwan Gray,NA,TRUE,FALSE,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,308,2,0:33,33,33,Nicolas Timberlake Offensive Rebound.,78,63,15,0,0.9999995135607154,0.999999377203606,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Towson
+401171695,2020-01-02,Charleston,Towson,309,2,0:29,29,29,Jason Gibson made Three Point Jumper. Assisted by Nicolas Timberlake.,78,66,12,4,0.9999936950458022,0.9999919672719587,4,1,6,NA,NA,Towson,made,Jason Gibson,Nicolas Timberlake,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,310,2,0:25,25,25,Foul on Allen Betrand.,78,66,12,4,0.9999953313432636,0.9999940813619752,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,311,2,0:25,25,25,Grant Riller missed Free Throw.,78,66,12,0,0.9999953313432636,0.9999940813619752,4,1,6,NA,NA,Charleston,missed,Grant Riller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,312,2,0:25,25,25,Charleston Deadball Team Rebound.,78,66,12,0,0.9999953313432636,0.9999940813619752,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,313,2,0:25,25,25,Grant Riller made Free Throw.,79,66,13,0,0.9999982878364123,0.9999978294217998,4,1,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,314,2,0:19,19,19,Nicolas Timberlake made Three Point Jumper. Assisted by Jason Gibson.,79,69,10,6,0.9999763397313945,0.9999702294795415,4,1,6,NA,NA,Towson,made,Nicolas Timberlake,Jason Gibson,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,315,2,0:16,16,16,Foul on Allen Betrand.,79,69,10,3,0.9999805932085868,0.9999756740698911,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,316,2,0:16,16,16,Grant Riller made Free Throw.,80,69,11,0,0.9999932923984682,0.9999915921613303,4,1,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Charleston
+401171695,2020-01-02,Charleston,Towson,317,2,0:16,16,16,Grant Riller made Free Throw.,81,69,12,0,0.9999976816598135,0.9999970940056794,4,1,6,NA,NA,Charleston,made,Grant Riller,NA,FALSE,TRUE,Charleston,Towson
+401171695,2020-01-02,Charleston,Towson,318,2,0:10,10,10,Allen Betrand missed Three Point Jumper.,81,69,12,6,0.9999985816058925,0.9999982357003703,4,1,6,NA,NA,Towson,missed,Allen Betrand,NA,TRUE,FALSE,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,319,2,0:10,10,10,Brevin Galloway Defensive Rebound.,81,69,12,0,0.9999985816058925,0.9999982357003703,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Towson,Charleston
+401171695,2020-01-02,Charleston,Towson,320,2,0:00,0,0,End of Game,81,69,12,10,1,1,4,1,6,NA,NA,NA,NA,NA,NA,NA,NA,Charleston,NA

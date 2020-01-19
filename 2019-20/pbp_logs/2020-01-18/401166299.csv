@@ -1,0 +1,363 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166299,2020-01-18,Alabama,Missouri,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7393902247451446,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alabama
+401166299,2020-01-18,Alabama,Missouri,2,1,19:46,2386,2386,John Petty Jr. missed Three Point Jumper.,0,0,0,14,0.7391087306096612,0.5,4,4,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,3,1,19:43,2383,2383,Reed Nikko Defensive Rebound.,0,0,0,3,0.7390477712469785,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,4,1,19:36,2376,2376,Mark Smith missed Three Point Jumper.,0,0,0,7,0.738904644887966,0.5,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,5,1,19:32,2372,2372,John Petty Jr. Defensive Rebound.,0,0,0,4,0.7388222964552256,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,6,1,19:18,2358,2358,Alex Reese missed Three Point Jumper.,0,0,0,14,0.7385308189136044,0.5,4,4,6.5,NA,NA,Alabama,missed,Alex Reese,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,7,1,19:15,2355,2355,Mitchell Smith Defensive Rebound.,0,0,0,3,0.7384676933261806,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,8,1,18:59,2339,2339,Mark Smith made Three Point Jumper. Assisted by Dru Smith.,0,3,-3,16,0.6821197289020199,0.4322380386409041,4,4,6.5,NA,NA,Missouri,made,Mark Smith,Dru Smith,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,9,1,18:45,2325,2325,Alex Reese made Three Point Jumper. Assisted by Kira Lewis Jr..,3,3,0,14,0.7378232125388743,0.5,4,4,6.5,NA,NA,Alabama,made,Alex Reese,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,10,1,18:25,2305,2305,Dru Smith made Layup.,3,5,-2,20,0.7000559223127631,0.4539235074515363,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,11,1,18:14,2294,2294,Foul on Mitchell Smith.,3,5,-2,11,0.6995791594047841,0.4536791332234905,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,12,1,18:14,2294,2294,Alex Reese made Free Throw.,4,5,-1,0,0.7187364882427254,0.47678965866213896,4,4,6.5,NA,NA,Alabama,made,Alex Reese,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,13,1,18:14,2294,2294,Alex Reese missed Free Throw.,4,5,-1,0,0.7187364882427254,0.47678965866213896,4,4,6.5,NA,NA,Alabama,missed,Alex Reese,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,14,1,18:14,2294,2294,Mitchell Smith Defensive Rebound.,4,5,-1,0,0.7187364882427254,0.47678965866213896,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,15,1,18:02,2282,2282,Mark Smith missed Three Point Jumper.,4,5,-1,12,0.7183400107134849,0.4766548066130588,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,16,1,17:57,2277,2277,Alabama Defensive Rebound.,4,5,-1,5,0.7181733119551817,0.4765984139265295,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,17,1,17:43,2263,2263,Kira Lewis Jr. missed Layup.,4,5,-1,14,0.7177018327713478,0.47643991116827855,4,4,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,18,1,17:40,2260,2260,Kobe Brown Defensive Rebound.,4,5,-1,3,0.7175998920552591,0.47640583555950816,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,19,1,17:34,2254,2254,Foul on John Petty Jr..,4,5,-1,6,0.7173950432317916,0.47633757254891607,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,20,1,17:34,2254,2254,Mitchell Smith made Free Throw.,4,6,-2,0,0.6978026784126353,0.45278089897456814,4,4,6.5,NA,NA,Missouri,made,Mitchell Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,21,1,17:34,2254,2254,Mitchell Smith made Free Throw.,4,7,-3,0,0.6774627016476366,0.42943385099328796,4,4,6.5,NA,NA,Missouri,made,Mitchell Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,22,1,17:13,2233,2233,Foul on Dru Smith.,4,7,-3,21,0.6762578724784548,0.428726678572818,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,23,1,17:02,2222,2222,Jaylen Forbes missed Three Point Jumper.,4,7,-3,11,0.6756183257886184,0.42835452111230204,4,4,6.5,NA,NA,Alabama,missed,Jaylen Forbes,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,24,1,16:59,2219,2219,Herbert Jones Offensive Rebound.,4,7,-3,3,0.6754429011543926,0.4282528359497078,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,25,1,16:56,2216,2216,John Petty Jr. missed Three Point Jumper.,4,7,-3,3,0.6752670477721532,0.42815107435017075,4,4,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,26,1,16:53,2213,2213,Dru Smith Defensive Rebound.,4,7,-3,3,0.6750907661871646,0.4280492384276799,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,27,1,16:51,2211,2211,Mark Smith Turnover.,4,7,-3,2,0.6749730075096999,0.42798130756589703,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,28,1,16:51,2211,2211,Jaylen Forbes Steal.,4,7,-3,0,0.6749730075096999,0.42798130756589703,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,29,1,16:45,2205,2205,John Petty Jr. Turnover.,4,7,-3,6,0.6746185926797909,0.42777732868292595,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,30,1,16:28,2188,2188,Javon Pickett missed Layup.,4,7,-3,17,0.6736051739809065,0.4271979984005805,4,4,6.5,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,31,1,16:25,2185,2185,Herbert Jones Defensive Rebound.,4,7,-3,3,0.6734249222720079,0.42709557065524284,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,32,1,16:22,2182,2182,Foul on Kobe Brown.,4,7,-3,3,0.6732442480405619,0.4269930904046104,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,33,1,16:04,2164,2164,Alex Reese made Layup.,6,7,-1,18,0.7141644456390237,0.47529945885834446,4,4,6.5,NA,NA,Alabama,made,Alex Reese,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,34,1,15:40,2140,2140,Tray Jackson Turnover.,6,7,-1,24,0.7132520903511327,0.4750185827432703,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,35,1,15:39,2139,2139,Official TV Timeout,6,7,-1,1,0.7132136111334496,0.47500682841191577,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,36,1,15:25,2125,2125,Javian Davis made Layup. Assisted by James Bolden.,8,7,1,14,0.7520969731196998,0.5251581852517027,4,4,6.5,NA,NA,Alabama,made,Javian Davis,James Bolden,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,37,1,15:10,2110,2110,Kobe Brown Turnover.,8,7,1,15,0.7518263811082574,0.5253359611048554,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,38,1,14:57,2097,2097,James Bolden missed Three Point Jumper.,8,7,1,13,0.7515874199026472,0.5254908932370859,4,4,6.5,NA,NA,Alabama,missed,James Bolden,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,39,1,14:57,2097,2097,Xavier Pinson Defensive Rebound.,8,7,1,0,0.7515874199026472,0.5254908932370859,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,40,1,14:43,2083,2083,Xavier Pinson missed Jumper.,8,7,1,14,0.7513255505867302,0.52565868112771,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,41,1,14:39,2079,2079,Javian Davis Defensive Rebound.,8,7,1,4,0.751249881647932,0.5257068055140488,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,42,1,14:28,2068,2068,Jaden Shackelford missed Layup.,8,7,1,11,0.7510398741470926,0.5258395851017568,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,43,1,14:24,2064,2064,Dru Smith Defensive Rebound.,8,7,1,4,0.7509628170383814,0.525888030926191,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,44,1,14:11,2051,2051,Reed Nikko missed Jumper.,8,7,1,13,0.7507098734883272,0.5260460953741875,4,4,6.5,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,45,1,14:08,2048,2048,Kira Lewis Jr. Defensive Rebound.,8,7,1,3,0.7506509628238902,0.5260827081986277,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,46,1,14:06,2046,2046,Kira Lewis Jr. made Jumper.,10,7,3,2,0.7876677305820063,0.5777566424693911,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,47,1,13:48,2028,2028,Foul on James Bolden.,10,7,3,18,0.7876441649824416,0.5784052642774453,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,48,1,13:37,2017,2017,Foul on Javian Davis.,10,7,3,11,0.7876281488069965,0.5788043770931707,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,49,1,13:37,2017,2017,Dru Smith made Free Throw.,10,8,2,0,0.7693654409282622,0.5527804937127703,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,50,1,13:37,2017,2017,Dru Smith made Free Throw.,10,9,1,0,0.7500306734261847,0.5264641767739102,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,51,1,13:23,2003,2003,Foul on Mitchell Smith.,10,9,1,14,0.7497438197310488,0.5266384132347128,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,52,1,13:16,1996,1996,Alex Reese made Three Point Jumper. Assisted by James Bolden.,13,9,4,7,0.8049449646532483,0.6054017476521444,4,4,6.5,NA,NA,Alabama,made,Alex Reese,James Bolden,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,53,1,12:55,1975,1975,Foul on Javian Davis.,13,9,4,21,0.8050767384220606,0.606416269449417,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,54,1,12:55,1975,1975,Tray Jackson made Free Throw.,13,10,3,0,0.7875572357200048,0.5803486084773818,4,4,6.5,NA,NA,Missouri,made,Tray Jackson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,55,1,12:55,1975,1975,Tray Jackson made Free Throw.,13,11,2,0,0.7689150728933838,0.5538247322567862,4,4,6.5,NA,NA,Missouri,made,Tray Jackson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,56,1,12:21,1941,1941,James Bolden Turnover.,13,11,2,34,0.768533814795119,0.5546877061653551,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,57,1,12:03,1923,1923,Tray Jackson missed Layup.,13,11,2,18,0.7683259928151193,0.555150951152577,4,4,6.5,NA,NA,Missouri,missed,Tray Jackson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,58,1,11:59,1919,1919,Alex Reese Defensive Rebound.,13,11,2,4,0.7682785626127999,0.5552539538854575,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,59,1,11:52,1912,1912,James Bolden made Three Point Jumper. Assisted by Jaden Shackelford.,16,11,5,7,0.8223162914704202,0.635672165668107,4,4,6.5,NA,NA,Alabama,made,James Bolden,Jaden Shackelford,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,60,1,11:34,1894,1894,Reed Nikko Turnover.,16,11,5,18,0.822542909855521,0.6367564396003823,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,61,1,11:34,1894,1894,Jaden Shackelford Steal.,16,11,5,0,0.822542909855521,0.6367564396003823,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,62,1,11:29,1889,1889,Jaden Shackelford missed Three Point Jumper.,16,11,5,5,0.8226043636151138,0.6370573402665893,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,63,1,11:26,1886,1886,Mark Smith Defensive Rebound.,16,11,5,3,0.822640954643704,0.6372378581825605,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,64,1,11:24,1884,1884,Foul on Jaden Shackelford.,16,11,5,2,0.8226652364344537,0.637358200059722,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,65,1,11:22,1882,1882,Official TV Timeout,16,11,5,2,0.8226894312124198,0.6374785425560024,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,66,1,11:22,1882,1882,Dru Smith made Free Throw.,16,12,4,0,0.8056186524853496,0.6110075929229077,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,67,1,11:22,1882,1882,Dru Smith made Free Throw.,16,13,3,0,0.7873292230623987,0.5838655118014419,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,68,1,10:58,1858,1858,Kira Lewis Jr. missed Three Point Jumper.,16,13,3,24,0.7872366782259516,0.5847776559109378,4,4,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,69,1,10:54,1854,1854,Herbert Jones Offensive Rebound.,16,13,3,4,0.7872200734815069,0.584930026753027,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,70,1,10:50,1850,1850,John Petty Jr. made Three Point Jumper. Assisted by Herbert Jones.,19,13,6,4,0.8391371226484162,0.665376406281083,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,Herbert Jones,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,71,1,10:22,1822,1822,Javon Pickett missed Three Point Jumper.,19,13,6,28,0.8396321226887208,0.6673418041432738,4,4,6.5,NA,NA,Missouri,missed,Javon Pickett,NA,TRUE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,72,1,10:18,1818,1818,Reed Nikko Offensive Rebound.,19,13,6,4,0.8397026035363039,0.667623865259822,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,73,1,10:15,1815,1815,Dru Smith missed Layup.,19,13,6,3,0.8397554642240844,0.6678356721918152,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,74,1,10:15,1815,1815,Galin Smith Block.,19,13,6,0,0.8397554642240844,0.6678356721918152,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,75,1,10:13,1813,1813,Reed Nikko Offensive Rebound.,19,13,6,2,0.8397907093880764,0.6679770071739237,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,76,1,10:13,1813,1813,Foul on Galin Smith.,19,13,6,0,0.8397907093880764,0.6679770071739237,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,77,1,10:13,1813,1813,Reed Nikko made Free Throw.,19,14,5,0,0.8234884809224556,0.6416519439139304,4,4,6.5,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,78,1,10:13,1813,1813,Reed Nikko made Free Throw.,19,15,4,0,0.8059107920445236,0.6144443967739892,4,4,6.5,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,79,1,9:47,1787,1787,Kira Lewis Jr. Turnover.,19,15,4,26,0.8060106964848558,0.6157616414298339,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,80,1,9:29,1769,1769,Mark Smith missed Layup.,19,15,4,18,0.806080564075902,0.6166850406988229,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,81,1,9:28,1768,1768,Herbert Jones Defensive Rebound.,19,15,4,1,0.8060845002980184,0.6167366567731744,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,82,1,9:28,1768,1768,Foul on Mark Smith.,19,15,4,0,0.8060845002980184,0.6167366567731744,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,83,1,9:24,1764,1764,John Petty Jr. made Three Point Jumper. Assisted by Kira Lewis Jr..,22,15,7,4,0.8559822944873425,0.6972086959640107,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,84,1,9:00,1740,1740,Xavier Pinson missed Layup.,22,15,7,24,0.8565498174582244,0.6991663080448723,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,85,1,8:57,1737,1737,Alex Reese Defensive Rebound.,22,15,7,3,0.8566217403515365,0.6994132768440082,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,86,1,8:47,1727,1727,John Petty Jr. made Three Point Jumper. Assisted by Alex Reese.,25,15,10,10,0.8959578171635895,0.770663563600176,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,Alex Reese,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,87,1,8:42,1722,1722,Missouri  Timeout,25,15,10,5,0.8961295855898366,0.7711637648586451,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,88,1,8:27,1707,1707,Foul on Herbert Jones.,25,15,10,15,0.8966498462937645,0.7726743544115835,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,89,1,8:27,1707,1707,Torrence Watson made Free Throw.,25,16,9,0,0.8847493678951922,0.750471159440458,4,3,6.5,NA,NA,Missouri,made,Torrence Watson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,90,1,8:27,1707,1707,Torrence Watson made Free Throw.,25,17,8,0,0.8716746963489899,0.7268659369540443,4,3,6.5,NA,NA,Missouri,made,Torrence Watson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,91,1,8:11,1691,1691,James Bolden missed Three Point Jumper.,25,17,8,16,0.8721483725759576,0.728340300772597,4,3,6.5,NA,NA,Alabama,missed,James Bolden,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,92,1,8:11,1691,1691,Missouri Defensive Rebound.,25,17,8,0,0.8721483725759576,0.728340300772597,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,93,1,8:00,1680,1680,Dru Smith missed Jumper.,25,17,8,11,0.8724718394116147,0.7293534784914937,4,3,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,94,1,7:57,1677,1677,James Bolden Defensive Rebound.,25,17,8,3,0.8725575661273943,0.7296265136549582,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,95,1,7:53,1673,1673,Jaylen Forbes missed Three Point Jumper.,25,17,8,4,0.8726702964992464,0.7299884999473126,4,3,6.5,NA,NA,Alabama,missed,Jaylen Forbes,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,96,1,7:49,1669,1669,Galin Smith Offensive Rebound.,25,17,8,4,0.872781303176044,0.7303482377569754,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,97,1,7:47,1667,1667,John Petty Jr. missed Three Point Jumper.,25,17,8,2,0.8728361848679701,0.7305272996809612,4,3,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,98,1,7:47,1667,1667,Alabama Offensive Rebound.,25,17,8,0,0.8728361848679701,0.7305272996809612,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,99,1,7:45,1665,1665,Official TV Timeout,25,17,8,2,0.8728906652883678,0.7307058428757237,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,100,1,7:42,1662,1662,Kira Lewis Jr. Turnover.,25,17,8,3,0.8729716550734471,0.7309727165729859,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,101,1,7:42,1662,1662,Xavier Pinson Steal.,25,17,8,0,0.8729716550734471,0.7309727165729859,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,102,1,7:38,1658,1658,Xavier Pinson made Layup.,25,19,6,4,0.8426546180779247,0.6794017263154366,4,3,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,103,1,7:38,1658,1658,Foul on James Bolden.,25,19,6,0,0.8426546180779247,0.6794017263154366,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,104,1,7:38,1658,1658,Xavier Pinson made Free Throw.,25,20,5,0,0.8253384251340359,0.6515485755763305,4,3,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,105,1,7:24,1644,1644,Kira Lewis Jr. missed Layup.,25,20,5,14,0.8254729119380573,0.6524346808336181,4,3,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,106,1,7:21,1641,1641,Javon Pickett Defensive Rebound.,25,20,5,3,0.8254998620055662,0.6526230031957734,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,107,1,7:14,1634,1634,Kobe Brown made Layup.,25,22,3,7,0.7860833596727618,0.5937553934448458,4,3,6.5,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,108,1,6:58,1618,1618,Foul on Xavier Pinson.,25,22,3,16,0.785938235717607,0.5943899115850847,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,109,1,6:56,1616,1616,John Petty Jr. missed Free Throw.,25,22,3,2,0.7859192427870478,0.5944689234778081,4,3,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,110,1,6:56,1616,1616,Alabama Deadball Team Rebound.,25,22,3,0,0.7859192427870478,0.5944689234778081,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,111,1,6:56,1616,1616,John Petty Jr. missed Free Throw.,25,22,3,0,0.7859192427870478,0.5944689234778081,4,3,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,112,1,6:56,1616,1616,Kobe Brown Defensive Rebound.,25,22,3,0,0.7859192427870478,0.5944689234778081,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,113,1,6:40,1600,1600,Torrence Watson missed Layup.,25,22,3,16,0.7857618758438545,0.5950998982458968,4,3,6.5,NA,NA,Missouri,missed,Torrence Watson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,114,1,6:40,1600,1600,John Petty Jr. Block.,25,22,3,0,0.7857618758438545,0.5950998982458968,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,115,1,6:31,1591,1591,Alex Reese Defensive Rebound.,25,22,3,9,0.7856699869798389,0.5954547533434028,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,116,1,6:26,1586,1586,Herbert Jones missed Three Point Jumper.,25,22,3,5,0.7856181892372258,0.595652152557261,4,3,6.5,NA,NA,Alabama,missed,Herbert Jones,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,117,1,6:23,1583,1583,Torrence Watson Defensive Rebound.,25,22,3,3,0.7855869123669609,0.5957707344629105,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,118,1,6:22,1582,1582,Xavier Pinson Turnover.,25,22,3,1,0.7855764588587306,0.5958102902646242,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,119,1,6:22,1582,1582,Herbert Jones Steal.,25,22,3,0,0.7855764588587306,0.5958102902646242,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,120,1,6:18,1578,1578,Herbert Jones Turnover.,25,22,3,4,0.7855345283127726,0.5959686771630336,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,121,1,6:18,1578,1578,Dru Smith Steal.,25,22,3,0,0.7855345283127726,0.5959686771630336,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,122,1,6:02,1562,1562,Xavier Pinson missed Three Point Jumper.,25,22,3,16,0.785365904999737,0.596605733210274,4,3,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,123,1,5:57,1557,1557,Kira Lewis Jr. Defensive Rebound.,25,22,3,5,0.7853132910828529,0.5968063115569567,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,124,1,5:55,1555,1555,Kira Lewis Jr. made Layup.,27,22,5,2,0.8261310823158867,0.6579525484026556,4,3,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,125,1,5:23,1523,1523,Dru Smith missed Three Point Jumper.,27,22,5,32,0.8263764170701975,0.6599959354631356,4,3,6.5,NA,NA,Missouri,missed,Dru Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,126,1,5:21,1521,1521,Alex Reese Defensive Rebound.,27,22,5,2,0.826393365177931,0.660126399732964,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,127,1,4:55,1495,1495,Alex Reese made Three Point Jumper. Assisted by Jaden Shackelford.,30,22,8,26,0.8770673607221907,0.745462272801527,4,3,6.5,NA,NA,Alabama,made,Alex Reese,Jaden Shackelford,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,128,1,4:38,1478,1478,Torrence Watson made Three Point Jumper. Assisted by Javon Pickett.,30,25,5,17,0.8268295647468847,0.6630396498969097,4,3,6.5,NA,NA,Missouri,made,Torrence Watson,Javon Pickett,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,129,1,4:30,1470,1470,Alex Reese missed Three Point Jumper.,30,25,5,8,0.8269295954757734,0.6636087817760821,4,3,6.5,NA,NA,Alabama,missed,Alex Reese,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,130,1,4:26,1466,1466,Jaden Shackelford Offensive Rebound.,30,25,5,4,0.8269822856669015,0.6638970612946437,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,131,1,4:26,1466,1466,Foul on Torrence Watson.,30,25,5,0,0.8269822856669015,0.6638970612946437,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,132,1,4:26,1466,1466,Jaden Shackelford made Free Throw.,31,25,6,0,0.8456041021449813,0.6935676046945906,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,133,1,4:26,1466,1466,Jaden Shackelford made Free Throw.,32,25,7,0,0.8625547706069676,0.7217167930691798,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,134,1,4:12,1452,1452,Torrence Watson Turnover.,32,25,7,14,0.8629387704076542,0.7230135221677314,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,135,1,4:12,1452,1452,Herbert Jones Steal.,32,25,7,0,0.8629387704076542,0.7230135221677314,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,136,1,4:09,1449,1449,Jaden Shackelford made Layup. Assisted by Herbert Jones.,34,25,9,3,0.8923694611767559,0.7747636425734833,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,Herbert Jones,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,137,1,4:09,1449,1449,Foul on Javon Pickett.,34,25,9,0,0.8923694611767559,0.7747636425734833,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,138,1,4:09,1449,1449,Jaden Shackelford made Free Throw.,35,25,10,0,0.9048610838941694,0.7978120280413503,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,139,1,3:56,1436,1436,Foul on Herbert Jones.,35,25,10,13,0.9053436652956462,0.7991993803721542,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,140,1,3:55,1435,1435,Official TV Timeout,35,25,10,1,0.905379738849471,0.799304253431067,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,141,1,3:55,1435,1435,Mark Smith made Free Throw.,35,26,9,0,0.8928594511795219,0.7762172006569726,4,3,6.5,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,142,1,3:55,1435,1435,Mark Smith made Free Throw.,35,27,8,0,0.8789040477348631,0.7513006715707709,4,3,6.5,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,143,1,3:27,1407,1407,Jaden Shackelford made Three Point Jumper. Assisted by Kira Lewis Jr..,38,27,11,28,0.9175657192655305,0.823433434957756,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,144,1,3:06,1386,1386,Mark Smith missed Three Point Jumper.,38,27,11,21,0.9182629129629084,0.8255012674638272,4,3,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,145,1,2:59,1379,1379,Javon Pickett Offensive Rebound.,38,27,11,7,0.918489688674681,0.8261799398097038,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,146,1,2:56,1376,1376,Mark Smith made Three Point Jumper. Assisted by Javon Pickett.,38,30,8,3,0.8805465986238281,0.7567853277077223,4,3,6.5,NA,NA,Missouri,made,Mark Smith,Javon Pickett,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,147,1,2:35,1355,1355,Jaylen Forbes made Three Point Jumper. Assisted by Kira Lewis Jr..,41,30,11,21,0.9192571738692286,0.8284869836275842,4,3,6.5,NA,NA,Alabama,made,Jaylen Forbes,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,148,1,2:26,1346,1346,Foul on Jaylen Forbes.,41,30,11,9,0.9195443737416932,0.8293503144354074,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,149,1,2:26,1346,1346,Reed Nikko made Free Throw.,41,31,10,0,0.9082491940854929,0.8080361656220811,4,3,6.5,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,150,1,2:26,1346,1346,Reed Nikko made Free Throw.,41,32,9,0,0.8955484064264658,0.7847508091708403,4,3,6.5,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,151,1,2:12,1332,1332,Alex Reese made Three Point Jumper. Assisted by Kira Lewis Jr..,44,32,12,14,0.930012033219575,0.8500747695355525,4,3,6.5,NA,NA,Alabama,made,Alex Reese,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,152,1,1:50,1310,1310,Dru Smith made Jumper.,44,34,10,22,0.909388156879987,0.8115266639019376,4,3,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,153,1,1:50,1310,1310,Foul on Kira Lewis Jr..,44,34,10,0,0.909388156879987,0.8115266639019376,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,154,1,1:50,1310,1310,Dru Smith made Free Throw.,44,35,9,0,0.89661725689990035,0.7881758257246116,4,3,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,155,1,1:41,1301,1301,John Petty Jr. Turnover.,44,35,9,9,0.8968986775146264,0.7890561692020261,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,156,1,1:41,1301,1301,Dru Smith Steal.,44,35,9,0,0.8968986775146264,0.7890561692020261,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,157,1,1:27,1287,1287,Javon Pickett missed Layup.,44,35,9,14,0.8973530870607507,0.7904535544677455,4,3,6.5,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,158,1,1:23,1283,1283,John Petty Jr. Defensive Rebound.,44,35,9,4,0.89748717639594,0.7908599389073854,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,159,1,1:12,1272,1272,Jaden Shackelford missed Three Point Jumper.,44,35,9,11,0.8978669824073842,0.7919959675258508,4,3,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,160,1,1:09,1269,1269,Kobe Brown Defensive Rebound.,44,35,9,3,0.8979735844533783,0.7923108266691007,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,161,1,1:03,1263,1263,Foul on Kira Lewis Jr..,44,35,9,6,0.8981909570336314,0.7929474840049472,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,162,1,1:03,1263,1263,Xavier Pinson made Free Throw.,44,36,8,0,0.8837144802563948,0.7673818488744788,4,3,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,163,1,1:03,1263,1263,Xavier Pinson made Free Throw.,44,37,7,0,0.8674832555308294,0.7396957801579584,4,3,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,164,1,0:41,1241,1241,Jaden Shackelford made Three Point Jumper. Assisted by Kira Lewis Jr..,47,37,10,22,0.911931763812062,0.8188303422502766,4,3,6.5,NA,NA,Alabama,made,Jaden Shackelford,Kira Lewis Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,165,1,0:27,1227,1227,Kobe Brown made Layup.,47,39,8,14,0.8850514270579896,0.7712944086095475,4,3,6.5,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,166,1,0:27,1227,1227,Foul on Jaylen Forbes.,47,39,8,0,0.8850514270579896,0.7712944086095475,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,167,1,0:27,1227,1227,Kobe Brown made Free Throw.,47,40,7,0,0.8686650400963793,0.7433932229521067,4,3,6.5,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,168,1,0:01,1201,1201,John Petty Jr. missed Three Point Jumper.,47,40,7,26,0.8696773927862252,0.7463081927719248,4,3,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,169,1,0:00,1200,1200,Mark Smith Defensive Rebound.,47,40,7,1,0.8697165607469157,0.7464201950257411,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,170,1,0:00,1200,1200,End of 1st half,47,40,7,0,0.8697165607469157,0.7464201950257411,4,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,NA
+401166299,2020-01-18,Alabama,Missouri,171,2,20:00,1200,1200,PLAY,47,40,7,0,0.8697165607469157,0.7464201950257411,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missouri
+401166299,2020-01-18,Alabama,Missouri,172,2,19:48,1188,1188,Dru Smith made Jumper.,47,42,5,12,0.8309060097309239,0.6848518700290044,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,173,2,19:21,1161,1161,Jaden Shackelford made Layup.,49,42,7,27,0.8711640180771367,0.7506265019185706,4,4,6.5,NA,NA,Alabama,made,Jaden Shackelford,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,174,2,19:21,1161,1161,Foul on Javon Pickett.,49,42,7,0,0.8711640180771367,0.7506265019185706,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,175,2,19:21,1161,1161,Jaden Shackelford made Free Throw.,50,42,8,0,0.8878247987377443,0.7789191489573057,4,4,6.5,NA,NA,Alabama,made,Jaden Shackelford,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,176,2,19:06,1146,1146,Mitchell Smith missed Layup.,50,42,8,15,0.88841354789421,0.7805597913751694,4,4,6.5,NA,NA,Missouri,missed,Mitchell Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,177,2,19:03,1143,1143,Alex Reese Defensive Rebound.,50,42,8,3,0.8885304157479668,0.7808857082914725,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,178,2,18:56,1136,1136,Alex Reese made Layup. Assisted by Kira Lewis Jr..,52,42,10,7,0.9166277882469933,0.8311912976279313,4,4,6.5,NA,NA,Alabama,made,Alex Reese,Kira Lewis Jr,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,179,2,18:45,1125,1125,Dru Smith missed Jumper.,52,42,10,11,0.9170911373245134,0.8324128715898524,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,180,2,18:41,1121,1121,Mitchell Smith Offensive Rebound.,52,42,10,4,0.9172597492344295,0.8328566023788114,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,181,2,18:39,1119,1119,Mark Smith missed Three Point Jumper.,52,42,10,2,0.9173441445348302,0.8330784994292685,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,182,2,18:36,1116,1116,Herbert Jones Defensive Rebound.,52,42,10,3,0.917470891828598,0.8334114678726182,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,183,2,18:30,1110,1110,Jaden Shackelford missed Three Point Jumper.,52,42,10,6,0.9177251284166156,0.8340782105883872,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,184,2,18:28,1108,1108,Missouri Defensive Rebound.,52,42,10,2,0.9178101486699023,0.8343008038547759,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,185,2,18:19,1099,1099,Mark Smith Turnover.,52,42,10,9,0.9181949592195106,0.8353056235723187,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,186,2,18:04,1084,1084,Foul on Mitchell Smith.,52,42,10,15,0.9188472234426036,0.8369972968185192,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,187,2,18:04,1084,1084,Kira Lewis Jr. made Free Throw.,53,42,11,0,0.9302406441123543,0.8581074765651432,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,188,2,18:04,1084,1084,Kira Lewis Jr. made Free Throw.,54,42,12,0,0.9401386983721687,0.8768858518398875,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,189,2,17:52,1072,1072,Mark Smith Turnover.,54,42,12,12,0.9406555273489605,0.8781902676645007,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,190,2,17:52,1072,1072,Kira Lewis Jr. Steal.,54,42,12,0,0.9406555273489605,0.8781902676645007,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,191,2,17:46,1066,1066,Kira Lewis Jr. Turnover.,54,42,12,6,0.9409184519058217,0.8788501607869641,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,192,2,17:46,1066,1066,Dru Smith Steal.,54,42,12,0,0.9409184519058217,0.8788501607869641,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,193,2,17:37,1057,1057,Kobe Brown made Layup. Assisted by Dru Smith.,54,44,10,9,0.9200727409089381,0.8401287791129901,4,4,6.5,NA,NA,Missouri,made,Kobe Brown,Dru Smith,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,194,2,17:24,1044,1044,Herbert Jones made Dunk. Assisted by John Petty Jr..,56,44,12,13,0.941914314910923,0.8813256810864744,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,John Petty Jr,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,195,2,17:08,1028,1028,Kobe Brown missed Three Point Jumper.,56,44,12,16,0.9426762336338637,0.8831936041270402,4,4,6.5,NA,NA,Missouri,missed,Kobe Brown,NA,TRUE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,196,2,17:08,1028,1028,Mitchell Smith Offensive Rebound.,56,44,12,0,0.9426762336338637,0.8831936041270402,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,197,2,17:08,1028,1028,Foul on Herbert Jones.,56,44,12,0,0.9426762336338637,0.8831936041270402,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,198,2,17:00,1020,1020,Dru Smith missed Jumper.,56,44,12,8,0.9430710390165395,0.884152731107174,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,199,2,17:00,1020,1020,Kira Lewis Jr. Block.,56,44,12,0,0.9430710390165395,0.884152731107174,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,200,2,16:52,1012,1012,Herbert Jones Defensive Rebound.,56,44,12,8,0.9434759240890331,0.885130289406226,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,201,2,16:47,1007,1007,Javian Davis missed Jumper.,56,44,12,5,0.9437343647165629,0.8857511442470443,4,4,6.5,NA,NA,Alabama,missed,Javian Davis,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,202,2,16:47,1007,1007,Javon Pickett Block.,56,44,12,0,0.9437343647165629,0.8857511442470443,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,203,2,16:42,1002,1002,Javon Pickett Defensive Rebound.,56,44,12,5,0.9439971199804269,0.8863799289532275,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,204,2,16:41,1001,1001,Foul on Javon Pickett.,56,44,12,1,0.9440502009107862,0.8865066608189385,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,205,2,16:41,1001,1001,Javon Pickett Turnover.,56,44,12,0,0.9440502009107862,0.8865066608189385,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,206,2,16:28,988,988,Jaden Shackelford missed Three Point Jumper.,56,44,12,13,0.9447569351351494,0.888184916155036,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,207,2,16:25,985,985,Javon Pickett Defensive Rebound.,56,44,12,3,0.944924565308039,0.8885805769804276,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,208,2,16:01,961,961,Reed Nikko Turnover.,56,44,12,24,0.9463049468713455,0.8918126183209286,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,209,2,16:01,961,961,Kira Lewis Jr. Steal.,56,44,12,0,0.9463049468713455,0.8918126183209286,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,210,2,15:56,956,956,Foul on Kira Lewis Jr..,56,44,12,5,0.9465771372661619,0.8924506078331362,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,211,2,15:56,956,956,Kira Lewis Jr. Turnover.,56,44,12,0,0.9465771372661619,0.8924506078331362,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,212,2,15:55,955,955,Technical Foul on Alabama.,56,44,12,1,0.9466304459328736,0.8925757262343488,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,213,2,15:55,955,955,Official TV Timeout,56,44,12,0,0.9466304459328736,0.8925757262343488,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,214,2,15:55,955,955,Xavier Pinson made Free Throw.,56,45,11,0,0.93698087266957,0.874448945024024,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,215,2,15:55,955,955,Xavier Pinson made Free Throw.,56,46,10,0,0.9257234887694381,0.8537645746645661,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,216,2,15:38,938,938,Xavier Pinson missed Jumper.,56,46,10,17,0.9266477774600964,0.8559542081529201,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,217,2,15:35,935,935,Reed Nikko Offensive Rebound.,56,46,10,3,0.926801295183844,0.8563198608043012,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,218,2,15:34,934,934,Dru Smith made Three Point Jumper. Assisted by Reed Nikko.,56,49,7,1,0.8811637592201506,0.7773387706934464,4,4,6.5,NA,NA,Missouri,made,Dru Smith,Reed Nikko,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,219,2,15:26,926,926,Foul on Kobe Brown.,56,49,7,8,0.8815335574795138,0.7782709226793733,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,220,2,15:26,926,926,Herbert Jones missed Free Throw.,56,49,7,0,0.8815335574795138,0.7782709226793733,4,4,6.5,NA,NA,Alabama,missed,Herbert Jones,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,221,2,15:26,926,926,Alabama Deadball Team Rebound.,56,49,7,0,0.8815335574795138,0.7782709226793733,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,222,2,15:26,926,926,Herbert Jones made Free Throw.,57,49,8,0,0.8990222325410333,0.807678011917457,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,223,2,15:03,903,903,Reed Nikko missed Dunk.,57,49,8,23,0.9000763472517244,0.8102794458612866,4,4,6.5,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,224,2,15:03,903,903,Herbert Jones Block.,57,49,8,0,0.9000763472517244,0.8102794458612866,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,225,2,14:56,896,896,Herbert Jones Defensive Rebound.,57,49,8,7,0.9003828577108133,0.8110388607321456,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,226,2,14:48,888,888,Herbert Jones made Layup. Assisted by Jaden Shackelford.,59,49,10,8,0.9289679696978166,0.8615199197363113,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,Jaden Shackelford,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,227,2,14:34,874,874,Foul on Xavier Pinson.,59,49,10,14,0.9295719740755378,0.8629701787226495,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,228,2,14:34,874,874,Xavier Pinson Turnover.,59,49,10,0,0.9295719740755378,0.8629701787226495,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,229,2,14:23,863,863,Jaden Shackelford missed Three Point Jumper.,59,49,10,11,0.9300489174293444,0.8641101159379071,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,230,2,14:20,860,860,Dru Smith Defensive Rebound.,59,49,10,3,0.9301802475075156,0.864422900579155,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,231,2,14:09,849,849,Foul on James Bolden.,59,49,10,11,0.9306692471185519,0.8655825363846317,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,232,2,14:06,846,846,Torrence Watson missed Three Point Jumper.,59,49,10,3,0.9308051644195472,0.8659033385482487,4,4,6.5,NA,NA,Missouri,missed,Torrence Watson,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,233,2,13:58,838,838,Jaden Shackelford Defensive Rebound.,59,49,10,8,0.9311743486949743,0.8667711355341409,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,234,2,13:55,835,835,John Petty Jr. missed Three Point Jumper.,59,49,10,3,0.9313156448592322,0.8671018402972432,4,4,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,235,2,13:52,832,832,Mark Smith Defensive Rebound.,59,49,10,3,0.931458671851954,0.8674357801100782,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,236,2,13:49,829,829,Dru Smith made Layup.,59,51,8,3,0.9033753248892631,0.818338242214095,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,237,2,13:34,814,814,Foul on Reed Nikko.,59,51,8,15,0.9041460227544584,0.8201516733766754,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,238,2,13:34,814,814,James Bolden made Free Throw.,60,51,9,0,0.9193714067888795,0.8464529200401145,4,4,6.5,NA,NA,Alabama,made,James Bolden,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,239,2,13:34,814,814,James Bolden made Free Throw.,61,51,10,0,0.932359324439342,0.8695197622159297,4,4,6.5,NA,NA,Alabama,made,James Bolden,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,240,2,13:21,801,801,Mark Smith made Three Point Jumper.,61,54,7,13,0.8870990316405334,0.7921085092798018,4,4,6.5,NA,NA,Missouri,made,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,241,2,13:03,783,783,Foul on Dru Smith.,61,54,7,18,0.8881709186538588,0.7945870220509956,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,242,2,13:03,783,783,James Bolden made Free Throw.,62,54,8,0,0.9059748887493342,0.8243435362104631,4,4,6.5,NA,NA,Alabama,made,James Bolden,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,243,2,13:03,783,783,James Bolden made Free Throw.,63,54,9,0,0.9211958388439621,0.8505999511779866,4,4,6.5,NA,NA,Alabama,made,James Bolden,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,244,2,12:50,770,770,Foul on James Bolden.,63,54,9,13,0.9220730096892586,0.852553990962819,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,245,2,12:50,770,770,Mark Smith made Free Throw.,63,55,8,0,0.906859387885606,0.8263245849675389,4,4,6.5,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,246,2,12:50,770,770,Mark Smith made Free Throw.,63,56,7,0,0.8890330653142968,0.7965427010050445,4,4,6.5,NA,NA,Missouri,made,Mark Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,247,2,12:37,757,757,Kira Lewis Jr. missed Jumper.,63,56,7,13,0.8899786628172648,0.7986561273587183,4,4,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,FALSE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,248,2,12:31,751,751,Jaylen Forbes Offensive Rebound.,63,56,7,6,0.8904454828309981,0.7996891378968084,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,249,2,12:25,745,745,Jaylen Forbes missed Three Point Jumper.,63,56,7,6,0.8909325534916511,0.8007605767163682,4,4,6.5,NA,NA,Alabama,missed,Jaylen Forbes,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,250,2,12:22,742,742,Kobe Brown Defensive Rebound.,63,56,7,3,0.8911839114595123,0.8013111522246569,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,251,2,12:06,726,726,Kobe Brown made Layup.,63,58,5,16,0.847304571926373,0.7330231623844677,4,4,6.5,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,252,2,11:45,705,705,John Petty Jr. Turnover.,63,58,5,21,0.8487019475678207,0.7363413251818699,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,253,2,11:45,705,705,Mark Smith Steal.,63,58,5,0,0.8487019475678207,0.7363413251818699,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,254,2,11:39,699,699,Mark Smith made Jumper.,63,60,3,6,0.7882811586283267,0.6499679767136446,4,4,6.5,NA,NA,Missouri,made,Mark Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,255,2,11:26,686,686,Foul on Dru Smith.,63,60,3,13,0.7885900618094832,0.6512262776559739,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,256,2,11:26,686,686,Official TV Timeout,63,60,3,0,0.7885900618094832,0.6512262776559739,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,257,2,11:26,686,686,John Petty Jr. made Free Throw.,64,60,4,0,0.8212137015066026,0.6968998468928876,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,258,2,11:26,686,686,John Petty Jr. made Free Throw.,65,60,5,0,0.849762145314728,0.7389894900421073,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,259,2,11:14,674,674,Mark Smith missed Three Point Jumper.,65,60,5,12,0.8503724791088725,0.740559906146967,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,260,2,11:12,672,672,Herbert Jones Defensive Rebound.,65,60,5,2,0.8504716463342982,0.7408172900606796,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,261,2,11:07,667,667,John Petty Jr. missed Three Point Jumper.,65,60,5,5,0.8507177268287318,0.7414576787758443,4,4,6.5,NA,NA,Alabama,missed,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,262,2,11:04,664,664,Dru Smith Defensive Rebound.,65,60,5,3,0.8508646015917094,0.7418406550861776,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,263,2,10:57,657,657,Mark Smith Turnover.,65,60,5,7,0.85120717194287,0.7427342944206966,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,264,2,10:57,657,657,Herbert Jones Steal.,65,60,5,0,0.85120717194287,0.7427342944206966,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,265,2,10:48,648,648,Jaden Shackelford made Three Point Jumper. Assisted by John Petty Jr..,68,60,8,9,0.9158617651310589,0.8463273973138005,4,4,6.5,NA,NA,Alabama,made,Jaden Shackelford,John Petty Jr,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,266,2,10:24,624,624,Javon Pickett missed Layup.,68,60,8,24,0.9174241457010204,0.8498598452145176,4,4,6.5,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,267,2,10:20,620,620,Kobe Brown Offensive Rebound.,68,60,8,4,0.9177046710902135,0.8504847237731826,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,268,2,10:18,618,618,Kobe Brown made Layup.,68,62,6,2,0.8784924286470013,0.7867894383186673,4,4,6.5,NA,NA,Missouri,made,Kobe Brown,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,269,2,10:00,600,600,Kira Lewis Jr. missed Three Point Jumper.,68,62,6,18,0.8798224672880884,0.7898113397940275,4,4,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,270,2,9:57,597,597,Herbert Jones Offensive Rebound.,68,62,6,3,0.8800657944534068,0.7903530988436429,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,271,2,9:49,589,589,Foul on Kira Lewis Jr..,68,62,6,8,0.8807496310047325,0.791859255595396,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,272,2,9:49,589,589,Kira Lewis Jr. Turnover.,68,62,6,0,0.8807496310047325,0.791859255595396,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,273,2,9:34,574,574,Xavier Pinson missed Layup.,68,62,6,15,0.8821847556045528,0.7949518881235009,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,274,2,9:28,568,568,Mitchell Smith Offensive Rebound.,68,62,6,6,0.8828208672628302,0.7962978299295866,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,275,2,9:28,568,568,Mitchell Smith missed Dunk.,68,62,6,0,0.8828208672628302,0.7962978299295866,4,4,6.5,NA,NA,Missouri,missed,Mitchell Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,276,2,9:27,567,567,Jaden Shackelford Defensive Rebound.,68,62,6,1,0.8829305845134046,0.796528638300806,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,277,2,9:27,567,567,Foul on Kobe Brown.,68,62,6,0,0.8829305845134046,0.796528638300806,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,278,2,9:27,567,567,James Bolden missed Free Throw.,68,62,6,0,0.8829305845134046,0.796528638300806,4,4,6.5,NA,NA,Alabama,missed,James Bolden,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,279,2,9:27,567,567,Alabama Deadball Team Rebound.,68,62,6,0,0.8829305845134046,0.796528638300806,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,280,2,9:27,567,567,James Bolden made Free Throw.,69,62,7,0,0.9044723355691463,0.8309245765645257,4,4,6.5,NA,NA,Alabama,made,James Bolden,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,281,2,9:07,547,547,Foul on James Bolden.,69,62,7,20,0.9069327833181303,0.8359763636592301,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,282,2,9:07,547,547,Xavier Pinson made Free Throw.,69,63,6,0,0.8853491497143144,0.8015379008397864,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,283,2,9:07,547,547,Xavier Pinson made Free Throw.,69,64,5,0,0.8595352146245396,0.7619279116789248,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,284,2,8:55,535,535,Foul on Kobe Brown.,69,64,5,12,0.8607917292908064,0.7646387175283628,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,285,2,8:55,535,535,Herbert Jones made Free Throw.,70,64,6,0,0.8867070554382475,0.8043863427624685,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,286,2,8:55,535,535,Herbert Jones made Free Throw.,71,64,7,0,0.908311808206363,0.8388362319878214,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,287,2,8:43,523,523,Dru Smith missed Jumper.,71,64,7,12,0.9094896838139721,0.8413402743993528,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,288,2,8:39,519,519,Javon Pickett Offensive Rebound.,71,64,7,4,0.9098512141643319,0.8421198114160688,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,289,2,8:38,518,518,Javon Pickett missed Jumper.,71,64,7,1,0.9099397925246429,0.842311485474245,4,4,6.5,NA,NA,Missouri,missed,Javon Pickett,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,290,2,8:35,515,515,Herbert Jones Defensive Rebound.,71,64,7,3,0.910201889736783,0.8428800174474573,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,291,2,8:23,503,503,Javian Davis Turnover.,71,64,7,12,0.9112161110278142,0.8450925116345838,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,292,2,8:07,487,487,Mark Smith missed Three Point Jumper.,71,64,7,16,0.91257908005951,0.8480561336597009,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,293,2,8:06,486,486,Dru Smith Offensive Rebound.,71,64,7,1,0.912667974868214,0.8482476221864415,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,294,2,8:06,486,486,Foul on Jaylen Forbes.,71,64,7,0,0.912667974868214,0.8482476221864415,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,295,2,8:06,486,486,Dru Smith made Free Throw.,71,65,6,0,0.8909817692436106,0.8138277524097407,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,296,2,8:06,486,486,Dru Smith made Free Throw.,71,66,5,0,0.8647087369787473,0.7736838405516452,4,4,6.5,NA,NA,Missouri,made,Dru Smith,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,297,2,7:39,459,459,Jaylen Forbes Turnover.,71,66,5,27,0.8672879958411974,0.7793708611080398,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,298,2,7:39,459,459,Dru Smith Steal.,71,66,5,0,0.8672879958411974,0.7793708611080398,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,299,2,7:34,454,454,Foul on Herbert Jones.,71,66,5,5,0.8678838355022581,0.7806203212714662,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,300,2,7:34,454,454,Xavier Pinson made Free Throw.,71,67,4,0,0.835966698500563,0.7340810677350658,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,301,2,7:34,454,454,Xavier Pinson made Free Throw.,71,68,3,0,0.7981323771469447,0.6816947132163895,4,4,6.5,NA,NA,Missouri,made,Xavier Pinson,NA,FALSE,TRUE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,302,2,7:34,454,454,Official TV Timeout,71,68,3,0,0.7981323771469447,0.6816947132163895,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,303,2,7:19,439,439,Jaden Shackelford Turnover.,71,68,3,15,0.7994788736236877,0.6849452507586543,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,304,2,7:19,439,439,Xavier Pinson Steal.,71,68,3,0,0.7994788736236877,0.6849452507586543,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,305,2,6:54,414,414,Reed Nikko missed Jumper.,71,68,3,25,0.8022412332154069,0.6913147978541421,4,4,6.5,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,306,2,6:51,411,411,John Petty Jr. Defensive Rebound.,71,68,3,3,0.8025297377931374,0.6920363931954837,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,307,2,6:44,404,404,John Petty Jr. made Jumper.,73,68,5,7,0.8755741308419758,0.7961424791086276,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,308,2,6:23,383,383,Reed Nikko made Layup.,73,70,3,21,0.8049640698447973,0.6985589956018912,4,4,6.5,NA,NA,Missouri,made,Reed Nikko,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,309,2,6:05,365,365,Jaylen Forbes missed Three Point Jumper.,73,70,3,18,0.8066072287978676,0.7029795674449375,4,4,6.5,NA,NA,Alabama,missed,Jaylen Forbes,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,310,2,6:02,362,362,Xavier Pinson Defensive Rebound.,73,70,3,3,0.8069113008545593,0.7037655658439087,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,311,2,5:53,353,353,Xavier Pinson missed Layup.,73,70,3,9,0.8079001697829582,0.7062404222290122,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,312,2,5:50,350,350,John Petty Jr. Defensive Rebound.,73,70,3,3,0.808259413908148,0.7071096165749512,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,313,2,5:47,347,347,Foul on Torrence Watson.,73,70,3,3,0.8086354798210776,0.7080035386398714,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,314,2,5:47,347,347,Kira Lewis Jr. made Free Throw.,74,70,4,0,0.8502297234361562,0.7651173532152662,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,315,2,5:47,347,347,Kira Lewis Jr. made Free Throw.,75,70,5,0,0.8840792303237304,0.8139947494593756,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,316,2,5:18,318,318,Mark Smith missed Three Point Jumper.,75,70,5,29,0.8904971740928105,0.8262692035912539,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,317,2,5:16,316,316,John Petty Jr. Defensive Rebound.,75,70,5,2,0.8910289096441371,0.8272471958150125,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,318,2,5:07,307,307,Alex Reese missed Three Point Jumper.,75,70,5,9,0.8934734724868523,0.8317208088530598,4,4,6.5,NA,NA,Alabama,missed,Alex Reese,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,319,2,5:04,304,304,John Petty Jr. Offensive Rebound.,75,70,5,3,0.8940658296010005,0.8328796581610475,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,320,2,5:03,303,303,Foul on Mitchell Smith.,75,70,5,1,0.8942259224002118,0.8332103133798229,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,321,2,5:03,303,303,John Petty Jr. made Free Throw.,76,70,6,0,0.9210255549248523,0.8732785178652593,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,322,2,5:03,303,303,John Petty Jr. made Free Throw.,77,70,7,0,0.9414794170732963,0.9048206208436387,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,323,2,4:50,290,290,Kobe Brown missed Three Point Jumper.,77,70,7,13,0.942184757935158,0.906675877517451,4,4,6.5,NA,NA,Missouri,missed,Kobe Brown,NA,TRUE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,324,2,4:43,283,283,Reed Nikko Offensive Rebound.,77,70,7,7,0.9418316442202203,0.9065306867484763,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,325,2,4:43,283,283,Reed Nikko missed Layup.,77,70,7,0,0.9418316442202203,0.9065306867484763,4,4,6.5,NA,NA,Missouri,missed,Reed Nikko,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,326,2,4:42,282,282,Galin Smith Defensive Rebound.,77,70,7,1,0.9417488398624356,0.9064601911312894,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,327,2,4:38,278,278,Kira Lewis Jr. Turnover.,77,70,7,4,0.9413496045589851,0.9060748276178952,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,328,2,4:19,259,259,Reed Nikko made Layup. Assisted by Xavier Pinson.,77,72,5,19,0.8898101426337967,0.8310052626029227,4,4,6.5,NA,NA,Missouri,made,Reed Nikko,Xavier Pinson,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,329,2,4:08,248,248,John Petty Jr. made Three Point Jumper.,80,72,8,11,0.9531576878109922,0.9258576645117051,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,330,2,3:45,225,225,Mark Smith missed Three Point Jumper.,80,72,8,23,0.9525076071880589,0.9260398314307906,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,331,2,3:43,223,223,Kira Lewis Jr. Defensive Rebound.,80,72,8,2,0.9526978065035647,0.9264342070472563,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,332,2,3:37,217,217,Alex Reese missed Three Point Jumper.,80,72,8,6,0.9535776087994897,0.9280838400124677,4,4,6.5,NA,NA,Alabama,missed,Alex Reese,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,333,2,3:34,214,214,Dru Smith Defensive Rebound.,80,72,8,3,0.9542013533510192,0.9291845845946007,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,334,2,3:24,204,204,Xavier Pinson missed Three Point Jumper.,80,72,8,10,0.9572114108706208,0.9342393651309612,4,4,6.5,NA,NA,Missouri,missed,Xavier Pinson,NA,TRUE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,335,2,3:23,203,203,Alabama Defensive Rebound.,80,72,8,1,0.9575914950253359,0.9348618506530588,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,336,2,3:23,203,203,Official TV Timeout,80,72,8,0,0.9575914950253359,0.9348618506530588,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,337,2,3:03,183,183,Foul on Torrence Watson.,80,72,8,20,0.9674090619996657,0.9505204386235816,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,338,2,3:03,183,183,Herbert Jones made Free Throw.,81,72,9,0,0.977246465705908,0.965272589335713,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,339,2,3:03,183,183,Herbert Jones made Free Throw.,82,72,10,0,0.9841631105007932,0.9757387033247447,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,340,2,2:56,176,176,Dru Smith missed Layup.,82,72,10,7,0.98622828716177,0.9790141769144298,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,341,2,2:53,173,173,Herbert Jones Defensive Rebound.,82,72,10,3,0.9870431975834475,0.9803023361102146,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,342,2,2:26,146,146,Jaden Shackelford missed Three Point Jumper.,82,72,10,27,0.9929139768878888,0.9894724068179268,4,4,6.5,NA,NA,Alabama,missed,Jaden Shackelford,NA,TRUE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,343,2,2:23,143,143,Mark Smith Defensive Rebound.,82,72,10,3,0.9934296496008479,0.9902653512807841,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,344,2,2:18,138,138,Dru Smith missed Jumper.,82,72,10,5,0.9942355862466042,0.991499223467717,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,345,2,2:12,132,132,Mitchell Smith Offensive Rebound.,82,72,10,6,0.9951170069970096,0.9928403064592709,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Missouri
+401166299,2020-01-18,Alabama,Missouri,346,2,2:12,132,132,Mitchell Smith made Layup.,82,74,8,0,0.9870123217508752,0.9810288436522284,4,4,6.5,NA,NA,Missouri,made,Mitchell Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,347,2,1:55,115,115,John Petty Jr. made Jumper.,84,74,10,17,0.9971316804494237,0.9958657071223712,4,4,6.5,NA,NA,Alabama,made,John Petty Jr.,NA,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,348,2,1:48,108,108,Foul on Torrence Watson.,84,74,10,7,0.9977657646931275,0.9968034384506144,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,349,2,1:48,108,108,Torrence Watson Turnover.,84,74,10,0,0.9977657646931275,0.9968034384506144,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,350,2,1:22,82,82,Kira Lewis Jr. made Jumper. Assisted by Herbert Jones.,86,74,12,26,0.9998094050398304,0.9997351205885371,4,4,6.5,NA,NA,Alabama,made,Kira Lewis Jr.,Herbert Jones,FALSE,FALSE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,351,2,1:02,62,62,Dru Smith missed Layup.,86,74,12,20,0.9999410290527087,0.999920006527533,4,4,6.5,NA,NA,Missouri,missed,Dru Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,352,2,1:02,62,62,Galin Smith Block.,86,74,12,0,0.9999410290527087,0.999920006527533,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,353,2,0:57,57,57,Galin Smith Defensive Rebound.,86,74,12,5,0.9999569624442066,0.9999419827701064,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,354,2,0:38,38,38,Kira Lewis Jr. missed Three Point Jumper.,86,74,12,19,0.9999880782158762,0.9999843156673341,4,4,6.5,NA,NA,Alabama,missed,Kira Lewis Jr.,NA,TRUE,FALSE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,355,2,0:37,37,37,Herbert Jones Offensive Rebound.,86,74,12,1,0.9999889024768678,0.9999854192368997,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,356,2,0:37,37,37,Foul on Mark Smith.,86,74,12,0,0.9999889024768678,0.9999854192368997,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,357,2,0:37,37,37,Herbert Jones made Free Throw.,87,74,13,0,0.9999956125600172,0.9999942354382163,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Alabama
+401166299,2020-01-18,Alabama,Missouri,358,2,0:37,37,37,Herbert Jones made Free Throw.,88,74,14,0,0.9999982654191145,0.9999977209700762,4,4,6.5,NA,NA,Alabama,made,Herbert Jones,NA,FALSE,TRUE,Alabama,Missouri
+401166299,2020-01-18,Alabama,Missouri,359,2,0:27,27,27,Mark Smith missed Jumper.,88,74,14,10,0.9999992658316711,0.9999990481264566,4,4,6.5,NA,NA,Missouri,missed,Mark Smith,NA,FALSE,FALSE,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,360,2,0:24,24,24,Kira Lewis Jr. Defensive Rebound.,88,74,14,3,0.999999436522848,0.9999992723755965,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,Alabama
+401166299,2020-01-18,Alabama,Missouri,361,2,0:00,0,0,End of 2nd half,88,74,14,24,1,1,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,NA
+401166299,2020-01-18,Alabama,Missouri,362,2,0:00,0,0,End of Game,88,74,14,0,1,1,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,NA

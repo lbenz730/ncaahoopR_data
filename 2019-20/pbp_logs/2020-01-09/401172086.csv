@@ -1,0 +1,316 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172086,2020-01-09,Siena,Saint Peter's,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7937403524419667,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,2,1,19:43,2383,2383,Nazeer Bostick made Jumper.,0,2,-2,17,0.7626601811284518,0.4556158174412416,4,4,8.4,NA,NA,Saint Peter's,made,Nazeer Bostick,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,3,1,19:18,2358,2358,Matt Hein made Jumper. Assisted by Donald Carey.,2,2,0,25,0.7927961530030165,0.5,4,4,8.4,NA,NA,Siena,made,Matt Hein,Donald Carey,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,4,1,18:57,2337,2337,Hassan Drame missed Three Point Jumper.,2,2,0,21,0.7923046945541179,0.5,4,4,8.4,NA,NA,Saint Peter's,missed,Hassan Drame,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,5,1,18:54,2334,2334,Matt Hein Defensive Rebound.,2,2,0,3,0.7922333976094357,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,6,1,18:32,2312,2312,Sammy Friday IV missed Layup.,2,2,0,22,0.7917020491020315,0.5,4,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,7,1,18:30,2310,2310,Sammy Friday IV Offensive Rebound.,2,2,0,2,0.791652992786969,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,8,1,18:26,2306,2306,Manny Camper missed Jumper.,2,2,0,4,0.7915544991469434,0.5,4,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,9,1,18:22,2302,2302,Sammy Friday IV Offensive Rebound.,2,2,0,4,0.79145549507602,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,10,1,18:18,2298,2298,Sammy Friday IV missed Layup.,2,2,0,4,0.7913559776679215,0.5,4,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,11,1,18:18,2298,2298,Sammy Friday IV Offensive Rebound.,2,2,0,0,0.7913559776679215,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,12,1,18:17,2297,2297,Foul on Derrick Woods.,2,2,0,1,0.7913310177658326,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,13,1,18:17,2297,2297,Sammy Friday IV missed Free Throw.,2,2,0,0,0.7913310177658326,0.5,4,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,14,1,18:17,2297,2297,Siena Deadball Team Rebound.,2,2,0,0,0.7913310177658326,0.5,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,15,1,18:17,2297,2297,Sammy Friday IV made Free Throw.,3,2,1,0,0.8062367883974071,0.5231767404535681,4,4,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,16,1,18:01,2281,2281,Nazeer Bostick missed Jumper.,3,2,1,16,0.8059674628775534,0.5233564625369095,4,4,8.4,NA,NA,Saint Peter's,missed,Nazeer Bostick,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,17,1,17:58,2278,2278,Hassan Drame Offensive Rebound.,3,2,1,3,0.805916194814948,0.5233902982015151,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,18,1,17:57,2277,2277,Hassan Drame missed Layup.,3,2,1,1,0.8058990506949253,0.5234015860734704,4,4,8.4,NA,NA,Saint Peter's,missed,Hassan Drame,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,19,1,17:55,2275,2275,Saint Peter's Offensive Rebound.,3,2,1,2,0.8058646799616769,0.5234241756349494,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,20,1,17:44,2264,2264,Foul on Matt Hein.,3,2,1,11,0.805673655652654,0.5235487387520344,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,21,1,17:28,2248,2248,Daryl Banks III missed Three Point Jumper.,3,2,1,16,0.8053896842047067,0.5237308347779365,4,4,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,22,1,17:26,2246,2246,Jalen Pickett Defensive Rebound.,3,2,1,2,0.805353667881167,0.5237536683071837,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,23,1,17:20,2240,2240,Jalen Pickett made Jumper.,5,2,3,6,0.8334288999988116,0.5710370915275105,4,4,8.4,NA,NA,Siena,made,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,24,1,17:04,2224,2224,Hassan Drame missed Three Point Jumper.,5,2,3,16,0.8333719763207571,0.5715777322884183,4,4,8.4,NA,NA,Saint Peter's,missed,Hassan Drame,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,25,1,17:04,2224,2224,Manny Camper Defensive Rebound.,5,2,3,0,0.8333719763207571,0.5715777322884183,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,26,1,16:43,2203,2203,Jalen Pickett missed Jumper.,5,2,3,21,0.8332885591629919,0.5722907242908021,4,4,8.4,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,27,1,16:41,2201,2201,Derrick Woods Defensive Rebound.,5,2,3,2,0.8332800763542576,0.5723588062278907,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,28,1,16:34,2194,2194,Matthew Lee Turnover.,5,2,3,7,0.8332496250108297,0.5725973120619123,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,29,1,16:15,2175,2175,Kyle Young made Layup. Assisted by Manny Camper.,7,2,5,19,0.8587486194663043,0.6205414098386342,4,4,8.4,NA,NA,Siena,made,Kyle Young,Manny Camper,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,30,1,16:10,2170,2170,Saint Peter's  Timeout,7,2,5,5,0.8587834377348943,0.6208158537449067,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,31,1,16:10,2170,2170,Official TV Timeout,7,2,5,0,0.8587834377348943,0.6208158537449067,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,32,1,15:54,2154,2154,Quinn Taylor made Dunk.,7,4,3,16,0.8330524362321212,0.5739663479675535,3,4,8.4,NA,NA,Saint Peter's,made,Quinn Taylor,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,33,1,15:28,2128,2128,Matt Hein made Jumper.,9,4,5,26,0.8590610335921811,0.6231355584122863,3,4,8.4,NA,NA,Siena,made,Matt Hein,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,34,1,15:05,2105,2105,Fousseyni Drame missed Three Point Jumper.,9,4,5,23,0.8592033855566579,0.6244187764379728,3,4,8.4,NA,NA,Saint Peter's,missed,Fousseyni Drame,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,35,1,15:02,2102,2102,Donald Carey Defensive Rebound.,9,4,5,3,0.8592215058951466,0.6245868926948633,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,36,1,14:48,2088,2088,Manny Camper made Layup.,11,4,7,14,0.8823107070309383,0.6720318475441746,3,4,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,37,1,14:29,2069,2069,Foul on Fousseyni Drame.,11,4,7,19,0.882595489774817,0.6734463042478809,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,38,1,14:29,2069,2069,Fousseyni Drame Turnover.,11,4,7,0,0.882595489774817,0.6734463042478809,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,39,1,14:05,2045,2045,Jalen Pickett made Jumper.,13,4,9,24,0.9028974756143471,0.7193327330384741,3,4,8.4,NA,NA,Siena,made,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,40,1,13:41,2021,2021,KC Ndefo missed Layup.,13,4,9,24,0.9034062579671686,0.7214795648109648,3,4,8.4,NA,NA,Saint Peter's,missed,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,41,1,13:41,2021,2021,Kyle Young Block.,13,4,9,0,0.9034062579671686,0.7214795648109648,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,42,1,13:37,2017,2017,Manny Camper Defensive Rebound.,13,4,9,4,0.9034910663628297,0.7218388929665186,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,43,1,13:33,2013,2013,Manny Camper Turnover.,13,4,9,4,0.9035758894839613,0.7221986721999395,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,44,1,13:10,1990,1990,KC Ndefo missed Layup.,13,4,9,23,0.9040641217441036,0.7242764516087636,3,4,8.4,NA,NA,Saint Peter's,missed,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,45,1,13:07,1987,1987,Fousseyni Drame Offensive Rebound.,13,4,9,3,0.9041278927052422,0.7245486383488764,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,46,1,13:05,1985,1985,Fousseyni Drame missed Layup.,13,4,9,2,0.9041704210885367,0.7247302506350081,3,4,8.4,NA,NA,Saint Peter's,missed,Fousseyni Drame,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,47,1,13:03,1983,1983,Fousseyni Drame Offensive Rebound.,13,4,9,2,0.904212961608167,0.7249119873197418,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,48,1,13:03,1983,1983,Saint Peter's  Turnover.,13,4,9,0,0.904212961608167,0.7249119873197418,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,49,1,12:40,1960,1960,Matt Hein Turnover.,13,4,9,23,0.9047032176432839,0.727011128323252,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,50,1,12:40,1960,1960,Quinn Taylor Steal.,13,4,9,0,0.9047032176432839,0.727011128323252,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,51,1,12:38,1958,1958,Foul on Jalen Pickett.,13,4,9,2,0.9047459535406668,0.7271944792577,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,52,1,12:17,1937,1937,Aaron Estrada missed Layup.,13,4,9,21,0.905195930299464,0.7291278728463954,3,4,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,53,1,12:12,1932,1932,Manny Camper Defensive Rebound.,13,4,9,5,0.9053034422723295,0.7295904650163542,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,54,1,12:12,1932,1932,Foul on KC Ndefo.,13,4,9,0,0.9053034422723295,0.7295904650163542,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,55,1,12:12,1932,1932,Sammy Friday IV missed Free Throw.,13,4,9,0,0.9053034422723295,0.7295904650163542,3,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,56,1,12:12,1932,1932,Siena Deadball Team Rebound.,13,4,9,0,0.9053034422723295,0.7295904650163542,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,57,1,12:12,1932,1932,Sammy Friday IV missed Free Throw.,13,4,9,0,0.9053034422723295,0.7295904650163542,3,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,58,1,12:09,1929,1929,Quinn Taylor Defensive Rebound.,13,4,9,3,0.9053680061966403,0.7298684101166134,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,59,1,11:57,1917,1917,Quinn Taylor missed Jumper.,13,4,9,12,0.9056237263218129,0.730977514607642,3,4,8.4,NA,NA,Saint Peter's,missed,Quinn Taylor,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,60,1,11:53,1913,1913,Gary Harris Jr. Defensive Rebound.,13,4,9,4,0.9057080142593137,0.7313461652015346,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,61,1,11:46,1906,1906,Gary Harris Jr. missed Three Point Jumper.,13,4,9,7,0.9058544626664119,0.7319902031878329,3,4,8.4,NA,NA,Siena,missed,Gary Harris Jr.,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,62,1,11:42,1902,1902,Doug Edert Defensive Rebound.,13,4,9,4,0.9059375776969694,0.7323576567064116,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,63,1,11:18,1878,1878,Aaron Estrada made Layup.,13,6,7,24,0.8854006113259054,0.6881898188746299,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,64,1,11:00,1860,1860,Donald Carey missed Three Point Jumper.,13,6,7,18,0.8856432321334753,0.6895984421855925,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,65,1,10:56,1856,1856,Quinn Taylor Defensive Rebound.,13,6,7,4,0.8856965018033853,0.6899116452420059,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,66,1,10:55,1855,1855,KC Ndefo made Dunk.,13,8,5,1,0.8604528520687645,0.6391046706622543,3,4,8.4,NA,NA,Saint Peter's,made,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,67,1,10:21,1821,1821,Foul on Quinn Taylor.,13,8,5,34,0.8605539353530395,0.641164107034392,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,68,1,10:21,1821,1821,Official TV Timeout,13,8,5,0,0.8605539353530395,0.641164107034392,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,69,1,10:21,1821,1821,Manny Camper missed Free Throw.,13,8,5,0,0.8605539353530395,0.641164107034392,3,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,70,1,10:21,1821,1821,Siena Deadball Team Rebound.,13,8,5,0,0.8605539353530395,0.641164107034392,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,71,1,10:21,1821,1821,Manny Camper made Free Throw.,14,8,6,0,0.8739101099487242,0.6674122833303127,3,4,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,72,1,10:03,1803,1803,KC Ndefo missed Layup.,14,8,6,18,0.8740610294047666,0.6686853667459397,3,4,8.4,NA,NA,Saint Peter's,missed,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,73,1,10:00,1800,1800,Quinn Taylor Offensive Rebound.,14,8,6,3,0.8740861599539604,0.6688984611571205,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,74,1,9:58,1798,1798,Aaron Estrada made Jumper.,14,10,4,2,0.8459413829022856,0.6152021888029326,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,75,1,9:47,1787,1787,Sammy Friday IV made Layup. Assisted by Manny Camper.,16,10,6,11,0.8741953022642853,0.669825358030744,3,4,8.4,NA,NA,Siena,made,Sammy Friday IV,Manny Camper,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,76,1,9:40,1780,1780,Aaron Estrada missed Three Point Jumper.,16,10,6,7,0.8742543794727713,0.670327017093005,3,4,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,TRUE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,77,1,9:37,1777,1777,Fousseyni Drame Offensive Rebound.,16,10,6,3,0.8742797952604047,0.670542608106261,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,78,1,9:36,1776,1776,Fousseyni Drame made Layup.,16,12,4,1,0.8458518661118963,0.6163246894878874,3,4,8.4,NA,NA,Saint Peter's,made,Fousseyni Drame,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,79,1,9:22,1762,1762,Sammy Friday IV missed Layup.,16,12,4,14,0.8457947606137367,0.6170471024165468,3,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,80,1,9:19,1759,1759,Fousseyni Drame Defensive Rebound.,16,12,4,3,0.8457825886782196,0.6172028198077962,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,81,1,9:17,1757,1757,Doug Edert missed Three Point Jumper.,16,12,4,2,0.8457744943587837,0.6173068198450224,3,4,8.4,NA,NA,Saint Peter's,missed,Doug Edert,NA,TRUE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,82,1,9:14,1754,1754,Quinn Taylor Offensive Rebound.,16,12,4,3,0.84576238811776006,0.6174631083087059,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,83,1,9:13,1753,1753,Doug Edert missed Three Point Jumper.,16,12,4,1,0.8457583630574547,0.6175152825200405,3,4,8.4,NA,NA,Saint Peter's,missed,Doug Edert,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,84,1,9:09,1749,1749,Manny Camper Defensive Rebound.,16,12,4,4,0.8457423209613066,0.6177243772979365,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,85,1,8:53,1733,1733,Gary Harris Jr. missed Layup.,16,12,4,16,0.8456793509148521,0.6185674440905651,3,4,8.4,NA,NA,Siena,missed,Gary Harris Jr.,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,86,1,8:53,1733,1733,KC Ndefo Block.,16,12,4,0,0.8456793509148521,0.6185674440905651,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,87,1,8:52,1732,1732,Siena Offensive Rebound.,16,12,4,1,0.8456754931933137,0.618620508064602,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,88,1,8:42,1722,1722,Jalen Pickett made Jumper.,18,12,6,10,0.8747653139524607,0.6745718478708929,3,4,8.4,NA,NA,Siena,made,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,89,1,8:23,1703,1703,Nazeer Bostick Turnover.,18,12,6,19,0.8749464644147329,0.6760045809293513,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,90,1,8:14,1694,1694,Donald Carey missed Jumper.,18,12,6,9,0.8750356013269746,0.6766918928964923,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,91,1,8:11,1691,1691,Fousseyni Drame Defensive Rebound.,18,12,6,3,0.8750658380680685,0.6769223026662567,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,92,1,8:03,1683,1683,Aaron Estrada missed Layup.,18,12,6,8,0.8751443968509859,0.6775349466245136,3,4,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,93,1,8:00,1680,1680,Jalen Pickett Defensive Rebound.,18,12,6,3,0.875172138302663,0.6777626257961811,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,94,1,7:54,1674,1674,Jalen Pickett missed Three Point Jumper.,18,12,6,6,0.8752249187159997,0.6782147720572289,3,4,8.4,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,95,1,7:50,1670,1670,Daryl Banks III Defensive Rebound.,18,12,6,4,0.8752581899966824,0.6785139519314121,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,96,1,7:46,1666,1666,Daryl Banks III made Three Point Jumper. Assisted by Nazeer Bostick.,18,15,3,4,0.8284109153971038,0.5924631970751515,3,4,8.4,NA,NA,Saint Peter's,made,Daryl Banks III,Nazeer Bostick,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,97,1,7:22,1642,1642,Foul on Fousseyni Drame.,18,15,3,24,0.8280511992585639,0.5934358541015387,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,98,1,7:22,1642,1642,Official TV Timeout,18,15,3,0,0.8280511992585639,0.5934358541015387,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,99,1,7:22,1642,1642,Manny Camper made Free Throw.,19,15,4,0,0.8452655864402836,0.6234575479157157,3,4,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,100,1,7:22,1642,1642,Manny Camper missed Free Throw.,19,15,4,0,0.8452655864402836,0.6234575479157157,3,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,101,1,7:18,1638,1638,Derrick Woods Defensive Rebound.,19,15,4,4,0.8452357973220989,0.6236651169458153,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,102,1,7:05,1625,1625,Derrick Woods made Layup.,19,17,2,13,0.8089075202594468,0.5631598710998956,3,4,8.4,NA,NA,Saint Peter's,made,Derrick Woods,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,103,1,6:54,1614,1614,Foul on Daryl Banks III.,19,17,2,11,0.8086103093603907,0.5634557355551298,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,104,1,6:36,1596,1596,Kyle Young made Layup. Assisted by Jalen Pickett.,21,17,4,18,0.8448743437388794,0.6258196634483154,3,4,8.4,NA,NA,Siena,made,Kyle Young,Jalen Pickett,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,105,1,6:12,1572,1572,Aaron Estrada missed Three Point Jumper.,21,17,4,24,0.8446441059289825,0.6270495106178675,3,4,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,106,1,6:08,1568,1568,Kyle Young Defensive Rebound.,21,17,4,4,0.8446052074566988,0.6272557377956296,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,107,1,5:49,1549,1549,Jalen Pickett missed Jumper.,21,17,4,19,0.8444214145002829,0.6282437133352236,3,4,8.4,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,108,1,5:46,1546,1546,Siena Offensive Rebound.,21,17,4,3,0.8443927951729486,0.6284012698832265,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,109,1,5:31,1531,1531,Kyle Young missed Layup.,21,17,4,15,0.8442528155606083,0.6291971334988332,3,4,8.4,NA,NA,Siena,missed,Kyle Young,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,110,1,5:28,1528,1528,Manny Camper Offensive Rebound.,21,17,4,3,0.8442256111511119,0.6293581145843012,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,111,1,5:18,1518,1518,Jalen Pickett Turnover.,21,17,4,10,0.8441373756223943,0.6298996873043569,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,112,1,5:09,1509,1509,Daryl Banks III Turnover.,21,17,4,9,0.8440617401490957,0.6303942736975293,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,113,1,5:09,1509,1509,Donald Carey Steal.,21,17,4,0,0.8440617401490957,0.6303942736975293,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,114,1,4:58,1498,1498,Foul on Derrick Woods.,21,17,4,11,0.8439751377950946,0.6310091047839352,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,115,1,4:58,1498,1498,Donald Carey made Free Throw.,22,17,5,0,0.8608352612191523,0.6616566153095103,3,4,8.4,NA,NA,Siena,made,Donald Carey,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,116,1,4:58,1498,1498,Donald Carey missed Free Throw.,22,17,5,0,0.8608352612191523,0.6616566153095103,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,117,1,4:58,1498,1498,KC Ndefo Defensive Rebound.,22,17,5,0,0.8608352612191523,0.6616566153095103,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,118,1,4:48,1488,1488,Daryl Banks III missed Three Point Jumper.,22,17,5,10,0.8608428992542416,0.6623413819552533,3,4,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,119,1,4:44,1484,1484,Manny Camper Defensive Rebound.,22,17,5,4,0.8608481489782195,0.6626190024714683,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,120,1,4:20,1460,1460,Donald Carey missed Three Point Jumper.,22,17,5,24,0.8609099674987792,0.66433433417184,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,121,1,4:17,1457,1457,KC Ndefo Defensive Rebound.,22,17,5,3,0.8609217405991256,0.6645552232987322,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,122,1,4:11,1451,1451,Nazeer Bostick made Dunk. Assisted by Matthew Lee.,22,19,3,6,0.8247580861814086,0.6014231388214079,3,4,8.4,NA,NA,Saint Peter's,made,Nazeer Bostick,Matthew Lee,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,123,1,3:44,1424,1424,Jordan King Turnover.,22,19,3,27,0.8243558654821853,0.6026977138017625,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,124,1,3:43,1423,1423,Official TV Timeout,22,19,3,1,0.8243396666865254,0.60274365446600775,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,125,1,3:29,1409,1409,Foul on Gary Harris Jr..,22,19,3,14,0.824104673670534,0.6033793886608262,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,126,1,3:11,1391,1391,Nazeer Bostick made Jumper.,22,21,1,18,0.7790691142194056,0.5351847679765457,3,4,8.4,NA,NA,Saint Peter's,made,Nazeer Bostick,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,127,1,2:45,1365,1365,Kyle Young missed Layup.,22,21,1,26,0.777938631674707,0.5355808362077563,3,4,8.4,NA,NA,Siena,missed,Kyle Young,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,128,1,2:45,1365,1365,KC Ndefo Block.,22,21,1,0,0.777938631674707,0.5355808362077563,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,129,1,2:45,1365,1365,KC Ndefo Defensive Rebound.,22,21,1,0,0.777938631674707,0.5355808362077563,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,130,1,2:32,1352,1352,Foul on Kyle Young.,22,21,1,13,0.7773648029764212,0.5357789149932165,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,131,1,2:32,1352,1352,KC Ndefo missed Free Throw.,22,21,1,0,0.7773648029764212,0.5357789149932165,3,4,8.4,NA,NA,Saint Peter's,missed,KC Ndefo,NA,FALSE,TRUE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,132,1,2:32,1352,1352,Saint Peter's Deadball Team Rebound.,22,21,1,0,0.7773648029764212,0.5357789149932165,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,133,1,2:32,1352,1352,KC Ndefo made Free Throw.,22,22,0,0,0.7515721047782243,0.5,3,4,8.4,NA,NA,Saint Peter's,made,KC Ndefo,NA,FALSE,TRUE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,134,1,2:26,1346,1346,Manny Camper made Layup.,24,22,2,6,0.8010018037783794,0.5713741769180065,3,4,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,135,1,2:13,1333,1333,Daryl Banks III Turnover.,24,22,2,13,0.8005976423067103,0.5717691614617366,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,136,1,2:03,1323,1323,Foul on Hassan Drame.,24,22,2,10,0.800287027928142,0.572076903271759,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,137,1,2:03,1323,1323,Manny Camper missed Free Throw.,24,22,2,0,0.800287027928142,0.572076903271759,3,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,138,1,2:02,1322,1322,Hassan Drame Defensive Rebound.,24,22,2,1,0.8002560192356417,0.5721079066347508,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,139,1,1:41,1301,1301,KC Ndefo made Layup.,24,24,0,21,0.748511328102881,0.5,3,4,8.4,NA,NA,Saint Peter's,made,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,140,1,1:25,1285,1285,Jalen Pickett made Layup.,26,24,2,16,0.7991255819300127,0.5732951248202566,3,4,8.4,NA,NA,Siena,made,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,141,1,1:09,1269,1269,Nazeer Bostick missed Jumper.,26,24,2,16,0.7986538582839476,0.5738400162080081,3,4,8.4,NA,NA,Saint Peter's,missed,Nazeer Bostick,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,142,1,1:05,1265,1265,Kyle Young Defensive Rebound.,26,24,2,4,0.7985382362911344,0.5739799384781094,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,143,1,0:49,1249,1249,Donald Carey Turnover.,26,24,2,16,0.7980867507752214,0.5745562603488408,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,144,1,0:49,1249,1249,KC Ndefo Steal.,26,24,2,0,0.7980867507752214,0.5745562603488408,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,145,1,0:39,1239,1239,KC Ndefo made Layup.,26,26,0,10,0.7447285746499559,0.5,3,4,8.4,NA,NA,Saint Peter's,made,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,146,1,0:38,1238,1238,Siena  Timeout,26,26,0,1,0.7446673793747979,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,147,1,0:17,1217,1217,Donald Carey missed Jumper.,26,26,0,21,0.7433829931198077,0.5,3,3,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,148,1,0:17,1217,1217,KC Ndefo Block.,26,26,0,0,0.7433829931198077,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,149,1,0:13,1213,1213,Kyle Young Offensive Rebound.,26,26,0,4,0.7431386425029372,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,150,1,0:12,1212,1212,Jalen Pickett Turnover.,26,26,0,1,0.7430775765827567,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,151,1,0:12,1212,1212,KC Ndefo Steal.,26,26,0,0,0.7430775765827567,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,152,1,0:06,1206,1206,Foul on Gary Harris Jr..,26,26,0,6,0.7427115146591975,0.5,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,153,1,0:06,1206,1206,Hassan Drame made Free Throw.,26,27,-1,0,0.712260766527051,0.46164542829345145,3,3,8.4,NA,NA,Saint Peter's,made,Hassan Drame,NA,FALSE,TRUE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,154,1,0:06,1206,1206,Hassan Drame made Free Throw.,26,28,-2,0,0.679760023014999,0.4237395951292993,3,3,8.4,NA,NA,Saint Peter's,made,Hassan Drame,NA,FALSE,TRUE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,155,1,0:02,1202,1202,Donald Carey missed Layup.,26,28,-2,4,0.6793342473319561,0.4235732994515121,3,3,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,156,1,0:02,1202,1202,KC Ndefo Block.,26,28,-2,0,0.6793342473319561,0.4235732994515121,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,157,1,0:02,1202,1202,Siena Offensive Rebound.,26,28,-2,0,0.6793342473319561,0.4235732994515121,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,158,1,0:00,1200,1200,End of 1st half,26,28,-2,2,0.6791219320465686,0.4234906714856242,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,NA
+401172086,2020-01-09,Siena,Saint Peter's,159,2,20:00,1200,1200,PLAY,26,28,-2,0,0.6791219320465686,0.4234906714856242,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Siena
+401172086,2020-01-09,Siena,Saint Peter's,160,2,19:46,1186,1186,Foul on Derrick Woods.,26,28,-2,14,0.6776452059701812,0.42292097991455413,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,161,2,19:34,1174,1174,Foul on Hassan Drame.,26,28,-2,12,0.6763902785756283,0.42244284798495896,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,162,2,19:20,1160,1160,Donald Carey missed Three Point Jumper.,26,28,-2,14,0.6749348636010224,0.42189365429561887,4,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,163,2,19:17,1157,1157,Hassan Drame Defensive Rebound.,26,28,-2,3,0.6746237961662747,0.4217768494716882,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,164,2,19:10,1150,1150,Daryl Banks III Turnover.,26,28,-2,7,0.6738986147132794,0.42150513851648624,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,165,2,18:44,1124,1124,Manny Camper missed Layup.,26,28,-2,26,0.6712043311221217,0.42049928444723333,4,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,166,2,18:42,1122,1122,Hassan Drame Defensive Rebound.,26,28,-2,2,0.670996478472707,0.4204216953468045,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,167,2,18:24,1104,1104,Hassan Drame missed Three Point Jumper.,26,28,-2,18,0.6691172521335208,0.41971833734652647,4,4,8.4,NA,NA,Saint Peter's,missed,Hassan Drame,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,168,2,18:21,1101,1101,Matt Hein Defensive Rebound.,26,28,-2,3,0.6688021370477385,0.41959990553443405,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,169,2,18:17,1097,1097,Foul on Sammy Friday IV.,26,28,-2,4,0.6683809335483921,0.41944130588671696,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,170,2,18:17,1097,1097,Sammy Friday IV Turnover.,26,28,-2,0,0.6683809335483921,0.41944130588671696,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,171,2,18:04,1084,1084,Derrick Woods made Layup.,26,30,-4,13,0.5908421365216924,0.3419938276839588,4,4,8.4,NA,NA,Saint Peter's,made,Derrick Woods,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,172,2,17:42,1062,1062,Donald Carey missed Layup.,26,30,-4,22,0.5873512074656152,0.3403087723620023,4,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,173,2,17:39,1059,1059,Matt Hein Offensive Rebound.,26,30,-4,3,0.5868663435748839,0.34007284970516144,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,174,2,17:37,1057,1057,Matt Hein made Layup.,28,30,-2,2,0.6640789181700543,0.4177936437822201,4,4,8.4,NA,NA,Siena,made,Matt Hein,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,175,2,17:23,1043,1043,Hassan Drame Turnover.,28,30,-2,14,0.6625217308359043,0.41718081357292236,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,176,2,17:23,1043,1043,Jalen Pickett Steal.,28,30,-2,0,0.6625217308359043,0.41718081357292236,4,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,177,2,17:19,1039,1039,Jalen Pickett made Dunk.,30,30,0,4,0.7325562660098391,0.5,4,4,8.4,NA,NA,Siena,made,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,178,2,17:09,1029,1029,Saint Peter's  Timeout,30,30,0,10,0.7319268467327809,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,179,2,17:09,1029,1029,Official TV Timeout,30,30,0,0,0.7319268467327809,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,180,2,16:55,1015,1015,Daryl Banks III missed Three Point Jumper.,30,30,0,14,0.7310368339406007,0.5,3,4,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,181,2,16:52,1012,1012,Jalen Pickett Defensive Rebound.,30,30,0,3,0.7308446718244527,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,182,2,16:44,1004,1004,Donald Carey missed Three Point Jumper.,30,30,0,8,0.7303295766626472,0.5,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,183,2,16:40,1000,1000,Daryl Banks III Defensive Rebound.,30,30,0,4,0.7300705209481265,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,184,2,16:37,997,997,Nazeer Bostick made Layup. Assisted by Daryl Banks III.,30,32,-2,3,0.6571352028704874,0.4149746751096351,3,4,8.4,NA,NA,Saint Peter's,made,Nazeer Bostick,Daryl Banks III,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,185,2,16:29,989,989,Matt Hein made Three Point Jumper. Assisted by Manny Camper.,33,32,1,8,0.7620451882899671,0.543039335696623,3,4,8.4,NA,NA,Siena,made,Matt Hein,Manny Camper,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,186,2,15:55,955,955,Daryl Banks III missed Layup.,33,32,1,34,0.7606882392901071,0.5439968566144212,3,4,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,187,2,15:55,955,955,Jalen Pickett Block.,33,32,1,0,0.7606882392901071,0.5439968566144212,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,188,2,15:51,951,951,Jalen Pickett Defensive Rebound.,33,32,1,4,0.7605333215920331,0.5441032685524944,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,189,2,15:44,944,944,Donald Carey missed Layup.,33,32,1,7,0.7602650288400649,0.5442842831244298,3,4,8.4,NA,NA,Siena,missed,Donald Carey,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,190,2,15:40,940,940,Kyle Young Offensive Rebound.,33,32,1,4,0.7601132496349287,0.5443849645819079,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,191,2,15:39,939,939,Kyle Young made Layup.,35,32,3,1,0.8189590396570139,0.6304915531634911,3,4,8.4,NA,NA,Siena,made,Kyle Young,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,192,2,15:33,933,933,Foul on Kyle Young.,35,32,3,6,0.8189516039270304,0.6309055697231001,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,193,2,15:33,933,933,Official TV Timeout,35,32,3,0,0.8189516039270304,0.6309055697231001,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,194,2,15:20,920,920,Cameron Jones made Jumper.,35,34,1,13,0.7593693196574918,0.5448632616648067,3,4,8.4,NA,NA,Saint Peter's,made,Cameron Jones,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,195,2,14:54,894,894,Kyle Young missed Jumper.,35,34,1,26,0.7584324795336368,0.5454423605453416,3,4,8.4,NA,NA,Siena,missed,Kyle Young,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,196,2,14:51,891,891,Doug Edert Defensive Rebound.,35,34,1,3,0.7583260808011624,0.5455074909259239,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,197,2,14:36,876,876,Doug Edert made Jumper.,35,36,-1,15,0.6841603287019749,0.45416815276528233,3,4,8.4,NA,NA,Saint Peter's,made,Doug Edert,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,198,2,14:21,861,861,Foul on Manny Camper.,35,36,-1,15,0.6829729518024625,0.45384102652640257,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,199,2,14:21,861,861,Manny Camper Turnover.,35,36,-1,0,0.6829729518024625,0.45384102652640257,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,200,2,14:06,846,846,Foul on Aaron Estrada.,35,36,-1,15,0.6817700198675372,0.4535044112827217,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,201,2,14:06,846,846,Aaron Estrada Turnover.,35,36,-1,0,0.6817700198675372,0.4535044112827217,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,202,2,13:50,830,830,Foul on Doug Edert.,35,36,-1,16,0.6804531095719416,0.4531273295477648,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,203,2,13:34,814,814,Jalen Pickett made Three Point Jumper. Assisted by Manny Camper.,38,36,2,16,0.7889452758383001,0.5937148392902294,3,4,8.4,NA,NA,Siena,made,Jalen Pickett,Manny Camper,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,204,2,13:11,791,791,Doug Edert missed Three Point Jumper.,38,36,2,23,0.7886422362255011,0.5949667420790963,3,4,8.4,NA,NA,Saint Peter's,missed,Doug Edert,NA,TRUE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,205,2,13:08,788,788,KC Ndefo Offensive Rebound.,38,36,2,3,0.7886059427473158,0.5951427177992694,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,206,2,13:06,786,786,Doug Edert made Three Point Jumper. Assisted by KC Ndefo.,38,39,-1,2,0.6765055709576011,0.451928810578753,3,4,8.4,NA,NA,Saint Peter's,made,Doug Edert,KC Ndefo,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,207,2,12:59,779,779,Foul on Fousseyni Drame.,38,39,-1,7,0.6758155795541323,0.45170837512706297,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,208,2,12:59,779,779,Gary Harris Jr. made Free Throw.,39,39,0,0,0.7167461413215733,0.5,3,4,8.4,NA,NA,Siena,made,Gary Harris Jr.,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,209,2,12:59,779,779,Gary Harris Jr. made Free Throw.,40,39,1,0,0.7543870648061094,0.548291624872937,3,4,8.4,NA,NA,Siena,made,Gary Harris Jr.,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,210,2,12:37,757,757,Aaron Estrada missed Layup.,40,39,1,22,0.7535716115788108,0.5490530034870467,3,4,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,211,2,12:34,754,754,Manny Camper Defensive Rebound.,40,39,1,3,0.7534580798636924,0.5491656819752061,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,212,2,12:23,743,743,Manny Camper missed Layup.,40,39,1,11,0.7530363083606648,0.5495988446349397,3,4,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,213,2,12:19,739,739,Sammy Friday IV made Layup.,42,39,3,4,0.8195754666005026,0.6454635983148065,3,4,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,214,2,12:19,739,739,Sammy Friday IV Offensive Rebound.,42,39,3,0,0.8195754666005026,0.6454635983148065,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,215,2,12:05,725,725,Doug Edert Turnover.,42,39,3,14,0.8198614510726024,0.6471491431853108,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,216,2,12:05,725,725,Gary Harris Jr. Steal.,42,39,3,0,0.8198614510726024,0.6471491431853108,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,217,2,11:58,718,718,Jalen Pickett missed Layup.,42,39,3,7,0.8199867361920005,0.6479585646437246,3,4,8.4,NA,NA,Siena,missed,Jalen Pickett,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,218,2,11:53,713,713,KC Ndefo Defensive Rebound.,42,39,3,5,0.8200643295877778,0.6485117855566495,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,219,2,11:50,710,710,Aaron Estrada made Layup.,42,41,1,3,0.7517166808884324,0.5509822718062475,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,220,2,11:50,710,710,Foul on Matt Hein.,42,41,1,0,0.7517166808884324,0.5509822718062475,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,221,2,11:50,710,710,Official TV Timeout,42,41,1,0,0.7517166808884324,0.5509822718062475,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,222,2,11:50,710,710,Aaron Estrada made Free Throw.,42,42,0,0,0.7115961366567473,0.5,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,TRUE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,223,2,11:30,690,690,Foul on Manny Camper.,42,42,0,20,0.7100758879393347,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,224,2,11:30,690,690,Manny Camper Turnover.,42,42,0,0,0.7100758879393347,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,225,2,11:16,676,676,Aaron Estrada made Jumper.,42,44,-2,14,0.6157743833159585,0.39675256895896754,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,226,2,10:52,652,652,Sammy Friday IV missed Layup.,42,44,-2,24,0.612186105721631,0.3952168093925651,3,4,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,227,2,10:52,652,652,KC Ndefo Block.,42,44,-2,0,0.612186105721631,0.3952168093925651,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,228,2,10:47,647,647,Manny Camper Offensive Rebound.,42,44,-2,5,0.6114275091990701,0.3948922890778918,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,229,2,10:47,647,647,Gary Harris Jr. Turnover.,42,44,-2,0,0.6114275091990701,0.3948922890778918,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,230,2,10:34,634,634,Foul on Doug Edert.,42,44,-2,13,0.6094125814628831,0.39402394392666046,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,231,2,10:34,634,634,Doug Edert Turnover.,42,44,-2,0,0.6094125814628831,0.39402394392666046,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,232,2,10:17,617,617,Manny Camper made Layup. Assisted by Jalen Pickett.,44,44,0,17,0.7044856624375252,0.5,3,4,8.4,NA,NA,Siena,made,Manny Camper,Jalen Pickett,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,233,2,9:54,594,594,Quinn Taylor missed Three Point Jumper.,44,44,0,23,0.7025387917750778,0.5,3,4,8.4,NA,NA,Saint Peter's,missed,Quinn Taylor,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,234,2,9:51,591,591,Jalen Pickett Defensive Rebound.,44,44,0,3,0.7022730080043488,0.5,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,235,2,9:45,585,585,Donald Carey made Layup.,46,44,2,6,0.7862632722322916,0.6099227115750294,3,4,8.4,NA,NA,Siena,made,Donald Carey,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,236,2,9:24,564,564,Aaron Estrada made Layup.,46,46,0,21,0.6997278890133871,0.5,3,4,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,237,2,9:17,557,557,Donald Carey made Jumper.,48,46,2,7,0.7862591475653599,0.6129908536281715,3,4,8.4,NA,NA,Siena,made,Donald Carey,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,238,2,8:58,538,538,Doug Edert made Three Point Jumper. Assisted by KC Ndefo.,48,49,-1,19,0.6452528777829784,0.44153290830263303,3,4,8.4,NA,NA,Saint Peter's,made,Doug Edert,KC Ndefo,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,239,2,8:43,523,523,Foul on KC Ndefo.,48,49,-1,15,0.6428384120812906,0.44070060012446693,3,4,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,240,2,8:41,521,521,Sammy Friday IV made Free Throw.,49,49,0,2,0.6953147085564763,0.5,3,4,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,241,2,8:41,521,521,Sammy Friday IV made Free Throw.,50,49,1,0,0.7434207921341648,0.5594030345412659,3,4,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,242,2,8:41,521,521,Siena  Timeout,50,49,1,0,0.7434207921341648,0.5594030345412659,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,243,2,8:23,503,503,Foul on KC Ndefo.,50,49,1,18,0.7425102449010567,0.5602986015119401,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,244,2,8:23,503,503,KC Ndefo Turnover.,50,49,1,0,0.7425102449010567,0.5602986015119401,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,245,2,7:58,478,478,Jalen Pickett made Three Point Jumper.,53,49,4,25,0.857559317493886,0.7291712873244068,3,3,8.4,NA,NA,Siena,made,Jalen Pickett,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,246,2,7:25,445,445,Cameron Jones missed Three Point Jumper.,53,49,4,33,0.8598672405189894,0.7363233877759269,3,3,8.4,NA,NA,Saint Peter's,missed,Cameron Jones,NA,TRUE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,247,2,7:20,440,440,Quinn Taylor Offensive Rebound.,53,49,4,5,0.8603622690064129,0.7376883853372899,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,248,2,7:18,438,438,Quinn Taylor missed Layup.,53,49,4,2,0.8605736888844759,0.7382602331054162,3,3,8.4,NA,NA,Saint Peter's,missed,Quinn Taylor,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,249,2,7:18,438,438,Saint Peter's Deadball Team Rebound.,53,49,4,0,0.8605736888844759,0.7382602331054162,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,250,2,7:18,438,438,Foul on Sammy Friday IV.,53,49,4,0,0.8605736888844759,0.7382602331054162,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,251,2,7:18,438,438,Official TV Timeout,53,49,4,0,0.8605736888844759,0.7382602331054162,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,252,2,7:04,424,424,Aaron Estrada Turnover.,53,49,4,14,0.8622150247100676,0.742590456535359,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,253,2,6:49,409,409,Foul on Quinn Taylor.,53,49,4,15,0.8637609482978151,0.7469706884700478,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,254,2,6:49,409,409,Sammy Friday IV made Free Throw.,54,49,5,0,0.8925939369702265,0.7946442614447496,3,3,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,255,2,6:49,409,409,Sammy Friday IV made Free Throw.,55,49,6,0,0.9159188433079862,0.8353159038454926,3,3,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,256,2,6:33,393,393,Doug Edert missed Three Point Jumper.,55,49,6,16,0.9177388834893415,0.8400830958255573,3,3,8.4,NA,NA,Saint Peter's,missed,Doug Edert,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,257,2,6:30,390,390,Jalen Pickett Defensive Rebound.,55,49,6,3,0.9180704063191062,0.840962781857234,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,258,2,6:25,385,385,Manny Camper Turnover.,55,49,6,5,0.9186235134688854,0.8424319159417751,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,259,2,6:03,363,363,Daryl Banks III missed Three Point Jumper.,55,49,6,22,0.9211951952777108,0.8491636766785219,3,3,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,260,2,6:03,363,363,Jalen Pickett Block.,55,49,6,0,0.9211951952777108,0.8491636766785219,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,261,2,5:58,358,358,Manny Camper Defensive Rebound.,55,49,6,5,0.9218408951716608,0.8508051982169619,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,262,2,5:57,357,357,Manny Camper Turnover.,55,49,6,1,0.9219738550682165,0.8511403031539636,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,263,2,5:57,357,357,Aaron Estrada Steal.,55,49,6,0,0.9219738550682165,0.8511403031539636,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,264,2,5:52,352,352,Aaron Estrada made Layup.,55,51,4,5,0.8691344689220378,0.7634047695552947,3,3,8.4,NA,NA,Saint Peter's,made,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,265,2,5:47,347,347,Donald Carey made Layup.,57,51,6,5,0.9233841235002764,0.8546335290681133,3,3,8.4,NA,NA,Siena,made,Donald Carey,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,266,2,5:28,328,328,Daryl Banks III missed Three Point Jumper.,57,51,6,19,0.9265582338994263,0.8621286827146285,3,3,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,267,2,5:24,324,324,Derrick Woods Offensive Rebound.,57,51,6,4,0.9273237290128957,0.8638729292839439,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,268,2,5:23,323,323,Derrick Woods made Layup.,57,53,4,1,0.8734712489227031,0.7745916453989475,3,3,8.4,NA,NA,Saint Peter's,made,Derrick Woods,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,269,2,5:04,304,304,Donald Carey missed Three Point Jumper.,57,53,4,19,0.8771496100368792,0.7832895004771492,3,3,8.4,NA,NA,Siena,missed,Donald Carey,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,270,2,5:00,300,300,Aaron Estrada Defensive Rebound.,57,53,4,4,0.8774922259603417,0.7844285212485342,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,271,2,4:36,276,276,Daryl Banks III made Layup.,57,55,2,24,0.7863272540546764,0.6562837882165399,3,3,8.4,NA,NA,Saint Peter's,made,Daryl Banks III,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,272,2,4:14,254,254,Foul on Nazeer Bostick.,57,55,2,22,0.7808583934124524,0.6534367282139381,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,273,2,4:14,254,254,Manny Camper made Free Throw.,58,55,3,0,0.830301540846137,0.7213706051954477,3,3,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,274,2,4:14,254,254,Manny Camper made Free Throw.,59,55,4,0,0.870440142098903,0.7804619818730785,3,3,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,275,2,3:54,234,234,KC Ndefo missed Layup.,59,55,4,20,0.8670093192786591,0.7785164509339212,3,3,8.4,NA,NA,Saint Peter's,missed,KC Ndefo,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,276,2,3:50,230,230,Kyle Young Defensive Rebound.,59,55,4,4,0.8667620925953077,0.7788203186173192,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,277,2,3:27,207,207,Kyle Young missed Layup.,59,55,4,23,0.870220561011948,0.7879908845318648,3,3,8.4,NA,NA,Siena,missed,Kyle Young,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,278,2,3:24,204,204,Manny Camper Offensive Rebound.,59,55,4,3,0.8714249554772786,0.7903200451157407,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,279,2,3:23,203,203,Manny Camper missed Layup.,59,55,4,1,0.8718702631881236,0.791162044436846,3,3,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,FALSE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,280,2,3:21,201,201,Manny Camper Offensive Rebound.,59,55,4,2,0.8728278473572794,0.7929462384171362,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,281,2,3:21,201,201,Foul on KC Ndefo.,59,55,4,0,0.8728278473572794,0.7929462384171362,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,282,2,3:21,201,201,Official TV Timeout,59,55,4,0,0.8728278473572794,0.7929462384171362,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,283,2,3:21,201,201,Manny Camper missed Free Throw.,59,55,4,0,0.8728278473572794,0.7929462384171362,3,3,8.4,NA,NA,Siena,missed,Manny Camper,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,284,2,3:21,201,201,Siena Deadball Team Rebound.,59,55,4,0,0.8728278473572794,0.7929462384171362,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,285,2,3:21,201,201,Manny Camper made Free Throw.,60,55,5,0,0.9056712940019495,0.8427019844702723,3,3,8.4,NA,NA,Siena,made,Manny Camper,NA,FALSE,TRUE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,286,2,2:58,178,178,Aaron Estrada Turnover.,60,55,5,23,0.9210192455419753,0.869890885270528,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,287,2,2:39,159,159,Matt Hein missed Three Point Jumper.,60,55,5,19,0.9336357296157007,0.8919849355627872,3,3,8.4,NA,NA,Siena,missed,Matt Hein,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,288,2,2:36,156,156,Quinn Taylor Defensive Rebound.,60,55,5,3,0.9355785605683531,0.8953667982414565,3,3,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,289,2,2:31,151,151,Quinn Taylor made Three Point Jumper. Assisted by Aaron Estrada.,60,58,2,5,0.8030891039359216,0.7074774406048097,3,3,8.4,NA,NA,Saint Peter's,made,Quinn Taylor,Aaron Estrada,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,290,2,2:07,127,127,Siena  Timeout,60,58,2,24,0.8187120469485994,0.734366815356923,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,291,2,1:59,119,119,Jalen Pickett missed Three Point Jumper.,60,58,2,8,0.8247362243367223,0.7444184944788205,3,2,8.4,NA,NA,Siena,missed,Jalen Pickett,NA,TRUE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,292,2,1:55,115,115,Hassan Drame Defensive Rebound.,60,58,2,4,0.8279198120383306,0.7496711560178642,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,293,2,1:35,95,95,Aaron Estrada missed Jumper.,60,58,2,20,0.845611638827727,0.7782563433413758,3,2,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,294,2,1:34,94,94,Quinn Taylor Offensive Rebound.,60,58,2,1,0.8465680971533451,0.7797782423044805,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,295,2,1:34,94,94,Foul on Sammy Friday IV.,60,58,2,0,0.8465680971533451,0.7797782423044805,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,296,2,1:34,94,94,Quinn Taylor missed Free Throw.,60,58,2,0,0.8465680971533451,0.7797782423044805,3,2,8.4,NA,NA,Saint Peter's,missed,Quinn Taylor,NA,FALSE,TRUE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,297,2,1:33,93,93,Siena Defensive Rebound.,60,58,2,1,0.8475214083235922,0.7812952085191623,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,298,2,1:17,77,77,Manny Camper Turnover.,60,58,2,16,0.8626677453275852,0.8053216373900555,3,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,299,2,1:09,69,69,Saint Peter's  Timeout,60,58,2,8,0.870421041951421,0.8174975307231944,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,300,2,0:54,54,54,Aaron Estrada missed Layup.,60,58,2,15,0.8849038704600488,0.8400503767786163,2,2,8.4,NA,NA,Saint Peter's,missed,Aaron Estrada,NA,FALSE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,301,2,0:51,51,51,Manny Camper Defensive Rebound.,60,58,2,3,0.8877711299390353,0.8444843322372528,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,302,2,0:25,25,25,Matt Hein missed Layup.,60,58,2,26,0.9120048612071059,0.8814499561627452,2,2,8.4,NA,NA,Siena,missed,Matt Hein,NA,FALSE,FALSE,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,303,2,0:24,24,24,Saint Peter's Defensive Rebound.,60,58,2,1,0.9128911256770221,0.8827846648962041,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Saint Peter's
+401172086,2020-01-09,Siena,Saint Peter's,304,2,0:04,4,4,Daryl Banks III missed Three Point Jumper.,60,58,2,20,0.9301087696130332,0.9083592012774075,2,2,8.4,NA,NA,Saint Peter's,missed,Daryl Banks III,NA,TRUE,FALSE,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,305,2,0:01,1,1,Sammy Friday IV Defensive Rebound.,60,58,2,3,0.9325502760615726,0.9119316362211413,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Saint Peter's,Siena
+401172086,2020-01-09,Siena,Saint Peter's,306,2,0:00,0,0,Foul on Quinn Taylor.,61,58,3,1,1,1,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,307,2,0:00,0,0,Sammy Friday IV missed Free Throw.,61,58,3,0,1,1,2,2,8.4,NA,NA,Siena,missed,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,308,2,0:00,0,0,Siena Deadball Team Rebound.,61,58,3,0,1,1,2,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,309,2,0:00,0,0,Sammy Friday IV made Free Throw.,61,58,3,0,1,1,2,2,8.4,NA,NA,Siena,made,Sammy Friday IV,NA,FALSE,TRUE,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,310,2,0:00,0,0,Saint Peter's  Timeout,61,58,3,0,1,1,1,2,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,311,2,0:00,0,0,Siena  Timeout,61,58,3,0,1,1,1,1,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,312,2,0:00,0,0,Quinn Taylor Turnover.,61,58,3,0,1,1,1,1,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,313,2,0:00,0,0,Manny Camper Steal.,61,58,3,0,1,1,1,1,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,Siena
+401172086,2020-01-09,Siena,Saint Peter's,314,2,0:00,0,0,End of 2nd half,61,58,3,0,1,1,1,1,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,NA
+401172086,2020-01-09,Siena,Saint Peter's,315,2,0:00,0,0,End of Game,61,58,3,0,1,1,1,1,8.4,NA,NA,NA,NA,NA,NA,NA,NA,Siena,NA

@@ -1,17 +1,17 @@
 library(ncaahoopR)
 library(readr)
 
-# n <- nrow(ids)
-# for(i in 1:n) {
-#   cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
-#   schedule <- get_schedule(ids$team[i])
-#   roster <- get_roster(ids$team[i])
-#   write_csv(roster, paste0("2019-20/rosters/", gsub(" ", "_", ids$team[i]), "_roster.csv"))
-#   write_csv(schedule, paste0("2019-20/schedules/", gsub(" ", "_", ids$team[i]), "_schedule.csv"))
-# }
+n <- nrow(ids)
+for(i in 1:n) {
+  cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
+  schedule <- get_schedule(ids$team[i])
+  roster <- get_roster(ids$team[i])
+  write_csv(roster, paste0("2019-20/rosters/", gsub(" ", "_", ids$team[i]), "_roster.csv"))
+  write_csv(schedule, paste0("2019-20/schedules/", gsub(" ", "_", ids$team[i]), "_schedule.csv"))
+}
 
 ### Pull Games
-date <- as.Date("2019-11-05")
+date <- as.Date("2020-01-18")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(date)
   if(!is.null(schedule)) {

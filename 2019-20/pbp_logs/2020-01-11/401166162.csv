@@ -1,0 +1,321 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166162,2020-01-11,Illinois,Rutgers,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5834385512684159,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166162,2020-01-11,Illinois,Rutgers,2,1,19:55,2395,2395,Kofi Cockburn missed Dunk.,0,0,0,5,0.5833978178716694,0.5,4,4,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,3,1,19:37,2377,2377,Akwasi Yeboah Defensive Rebound.,0,0,0,18,0.5832491428379024,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,4,1,19:36,2376,2376,Montez Mathis made Layup.,0,2,-2,1,0.539290583364625,0.4554672025448677,4,4,2.1,NA,NA,Rutgers,made,Montez Mathis,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,5,1,19:19,2359,2359,Ayo Dosunmu missed Jumper.,0,2,-2,17,0.5387793416546304,0.45510341172991847,4,4,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,6,1,19:16,2356,2356,Caleb McConnell Defensive Rebound.,0,2,-2,3,0.5386883889674465,0.4550388056795149,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,7,1,19:12,2352,2352,Ron Harper Jr. Turnover.,0,2,-2,4,0.5385667806218605,0.4549524799339148,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,8,1,18:58,2338,2338,Trent Frazier made Jumper.,2,2,0,14,0.5829157658764117,0.5,4,4,2.1,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,9,1,18:37,2317,2317,Ron Harper Jr. missed Jumper.,2,2,0,21,0.5827296504126244,0.5,4,4,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,10,1,18:33,2313,2313,Kofi Cockburn Defensive Rebound.,2,2,0,4,0.582693660697745,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,11,1,18:09,2289,2289,Trent Frazier missed Three Point Jumper.,2,2,0,24,0.5824740222826441,0.5,4,4,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,12,1,18:06,2286,2286,Kofi Cockburn Offensive Rebound.,2,2,0,3,0.5824461156059773,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,13,1,18:04,2284,2284,Illinois  Turnover.,2,2,0,2,0.5824274546888365,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,14,1,17:54,2274,2274,Foul on Myles Johnson.,2,2,0,10,0.58233346829454,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,15,1,17:54,2274,2274,Myles Johnson Turnover.,2,2,0,0,0.58233346829454,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,16,1,17:42,2262,2262,Giorgi Bezhanishvili missed Layup.,2,2,0,12,0.5822191697972763,0.5,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,17,1,17:38,2258,2258,Caleb McConnell Defensive Rebound.,2,2,0,4,0.5821806991682505,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,18,1,17:35,2255,2255,Foul on Trent Frazier.,2,2,0,3,0.5821517234840714,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,19,1,17:33,2253,2253,Akwasi Yeboah made Three Point Jumper. Assisted by Montez Mathis.,2,5,-3,2,0.5118064706981683,0.4294002827316075,4,4,2.1,NA,NA,Rutgers,made,Akwasi Yeboah,Montez Mathis,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,20,1,17:10,2230,2230,Giorgi Bezhanishvili missed Jumper.,2,5,-3,23,0.5107835724133613,0.42862529177258624,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,21,1,17:07,2227,2227,Caleb McConnell Defensive Rebound.,2,5,-3,3,0.510649247000096,0.42852382078030044,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,22,1,17:02,2222,2222,Akwasi Yeboah Turnover.,2,5,-3,5,0.5104249212617469,0.42835452111230204,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,23,1,16:47,2207,2207,Giorgi Bezhanishvili made Layup. Assisted by Trent Frazier.,4,5,-1,15,0.557929817851318,0.47579830099359666,4,4,2.1,NA,NA,Illinois,made,Giorgi Bezhanishvili,Trent Frazier,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,24,1,16:32,2192,2192,Montez Mathis missed Jumper.,4,5,-1,15,0.5576008455006801,0.4756247738977838,4,4,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,25,1,16:26,2186,2186,Shaq Carter Offensive Rebound.,4,5,-1,6,0.5574682890176408,0.47555520838674514,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,26,1,16:26,2186,2186,Shaq Carter made Layup.,4,7,-3,0,0.5087938760732658,0.427129719175092,4,4,2.1,NA,NA,Rutgers,made,Shaq Carter,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,27,1,16:10,2170,2170,Giorgi Bezhanishvili Turnover.,4,7,-3,16,0.5080605211541829,0.4265826865164205,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,28,1,16:10,2170,2170,Caleb McConnell Steal.,4,7,-3,0,0.5080605211541829,0.4265826865164205,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,29,1,16:00,2160,2160,Official TV Timeout,4,7,-3,10,0.5075994459270009,0.4262398616956621,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,30,1,15:58,2158,2158,Akwasi Yeboah made Three Point Jumper. Assisted by Caleb McConnell.,4,10,-6,2,0.43353075436168814,0.3554929928973816,4,4,2.1,NA,NA,Rutgers,made,Akwasi Yeboah,Caleb McConnell,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,31,1,15:31,2131,2131,Alan Griffin Offensive Rebound.,4,10,-6,27,0.43135965400224524,0.3537484692973355,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,32,1,15:28,2128,2128,Alan Griffin missed Layup.,4,10,-6,3,0.43111691657465695,0.35355381626157756,4,4,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,33,1,15:22,2122,2122,Giorgi Bezhanishvili Offensive Rebound.,4,10,-6,6,0.4306305130935396,0.35316399200835646,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,34,1,15:22,2122,2122,Giorgi Bezhanishvili made Dunk.,6,10,-4,0,0.48061995212981784,0.4004860791695032,4,4,2.1,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,35,1,15:10,2110,2110,Caleb McConnell missed Jumper.,6,10,-4,12,0.47991036872999365,0.3999381396169217,4,4,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,36,1,15:10,2110,2110,Ayo Dosunmu Block.,6,10,-4,0,0.47991036872999365,0.3999381396169217,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,37,1,15:05,2105,2105,Giorgi Bezhanishvili Defensive Rebound.,6,10,-4,5,0.4796134303607329,0.39970913250976814,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,38,1,14:57,2097,2097,Kipper Nichols missed Jumper.,6,10,-4,8,0.47913674079668483,0.3993418386531157,4,4,2.1,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,39,1,14:55,2095,2095,Shaq Carter Defensive Rebound.,6,10,-4,2,0.47901726025061064,0.3992498423360428,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,40,1,14:38,2078,2078,Akwasi Yeboah missed Three Point Jumper.,6,10,-4,17,0.4779966194305179,0.39846499081311315,4,4,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,41,1,14:33,2073,2073,Alan Griffin Defensive Rebound.,6,10,-4,5,0.47769468500663154,0.3982331427836431,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,42,1,14:19,2059,2059,Trent Frazier missed Three Point Jumper.,6,10,-4,14,0.4768449595712326,0.39758142768461624,4,4,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,43,1,14:15,2055,2055,Montez Mathis Defensive Rebound.,6,10,-4,4,0.47660099949026774,0.39739451845744256,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,44,1,14:09,2049,2049,Montez Mathis missed Layup.,6,10,-4,6,0.4762340618307038,0.3971135522323229,4,4,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,45,1,14:06,2046,2046,Alan Griffin Defensive Rebound.,6,10,-4,3,0.4760501409313446,0.39697279440654404,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,46,1,13:54,2034,2034,Giorgi Bezhanishvili missed Jumper.,6,10,-4,12,0.47531140935543253,0.39640789253425024,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,47,1,13:51,2031,2031,Shaq Carter Defensive Rebound.,6,10,-4,3,0.475125957150042,0.39626619104652805,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,48,1,13:25,2005,2005,Ron Harper Jr. missed Three Point Jumper.,6,10,-4,26,0.4735055357750169,0.3950298166028172,4,4,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,49,1,13:22,2002,2002,Ayo Dosunmu Defensive Rebound.,6,10,-4,3,0.47331701954046423,0.3948861722661299,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,50,1,13:18,1998,1998,Ayo Dosunmu made Jumper.,8,10,-2,4,0.5264670467068352,0.4467499572376093,4,4,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,51,1,12:49,1969,1969,Shaq Carter missed Layup.,8,10,-2,29,0.525354959150499,0.4460241697248791,4,4,2.1,NA,NA,Rutgers,missed,Shaq Carter,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,52,1,12:46,1966,1966,Kipper Nichols Defensive Rebound.,8,10,-2,3,0.525238735599715,0.4459484329686287,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,53,1,12:39,1959,1959,Giorgi Bezhanishvili missed Jumper.,8,10,-2,7,0.524966676323263,0.4457712209062565,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,54,1,12:35,1955,1955,Ron Harper Jr. Defensive Rebound.,8,10,-2,4,0.5248106640157368,0.44566964359135686,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,55,1,12:34,1954,1954,Foul on Montez Mathis.,8,10,-2,1,0.5247715982221861,0.44564421333008314,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,56,1,12:34,1954,1954,Montez Mathis Turnover.,8,10,-2,0,0.5247715982221861,0.44564421333008314,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,57,1,12:16,1936,1936,Kipper Nichols missed Jumper.,8,10,-2,18,0.5240640936916134,0.4451839672547419,4,4,2.1,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,58,1,12:13,1933,1933,Rutgers Defensive Rebound.,8,10,-2,3,0.523945375074917,0.4451067911198845,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,59,1,11:55,1915,1915,Akwasi Yeboah missed Three Point Jumper.,8,10,-2,18,0.5232299150124041,0.4446431038436045,4,4,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,60,1,11:51,1911,1911,Kofi Cockburn Defensive Rebound.,8,10,-2,4,0.5230704157934343,0.444540212184921,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,61,1,11:31,1891,1891,Alan Griffin missed Three Point Jumper.,8,10,-2,20,0.5222698353467613,0.44402616846235454,4,4,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,62,1,11:26,1886,1886,Caleb McConnell Defensive Rebound.,8,10,-2,5,0.522068815210319,0.443897672580141,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,63,1,11:25,1885,1885,Foul on Andres Feliz.,8,10,-2,1,0.5220285660911287,0.44387197012896384,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,64,1,11:25,1885,1885,Official TV Timeout,8,10,-2,0,0.5220285660911287,0.44387197012896384,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,65,1,11:20,1880,1880,Ron Harper Jr. Turnover.,8,10,-2,5,0.5218270884965992,0.4437434330471567,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,66,1,11:20,1880,1880,Andres Feliz Steal.,8,10,-2,0,0.5218270884965992,0.4437434330471567,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,67,1,10:59,1859,1859,Andres Feliz missed Jumper.,8,10,-2,21,0.5209763680629935,0.44320274803013865,4,4,2.1,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,68,1,10:56,1856,1856,Montez Mathis Defensive Rebound.,8,10,-2,3,0.5208541998625565,0.443125344518527,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,69,1,10:53,1853,1853,Ron Harper Jr. made Dunk. Assisted by Montez Mathis.,8,12,-4,3,0.46360787459167885,0.38755466095210456,4,4,2.1,NA,NA,Rutgers,made,Ron Harper Jr.,Montez Mathis,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,70,1,10:23,1823,1823,Andres Feliz missed Jumper.,8,12,-4,30,0.461595066003499,0.3860579654674773,4,4,2.1,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,71,1,10:20,1820,1820,Montez Mathis Defensive Rebound.,8,12,-4,3,0.4613923075006047,0.3859074723275439,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,72,1,10:01,1801,1801,Ron Harper Jr. Turnover.,8,12,-4,19,0.46010095684026786,0.3849498158236416,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,73,1,10:01,1801,1801,Ayo Dosunmu Steal.,8,12,-4,0,0.46010095684026786,0.3849498158236416,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,74,1,9:47,1787,1787,Foul on Myles Johnson.,8,12,-4,14,0.45914071827513253,0.3842383585701661,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,75,1,9:47,1787,1787,Kofi Cockburn made Free Throw.,9,12,-3,0,0.4885262186089308,0.4124860403794488,4,4,2.1,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,76,1,9:47,1787,1787,Kofi Cockburn missed Free Throw.,9,12,-3,0,0.4885262186089308,0.4124860403794488,4,4,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,77,1,9:46,1786,1786,Montez Mathis Defensive Rebound.,9,12,-3,1,0.48847037083631417,0.41244683720585124,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,78,1,9:30,1770,1770,Foul on Ayo Dosunmu.,9,12,-3,16,0.48757189232768733,0.41181618402618514,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,79,1,9:30,1770,1770,Shaq Carter missed Free Throw.,9,12,-3,0,0.48757189232768733,0.41181618402618514,4,4,2.1,NA,NA,Rutgers,missed,Shaq Carter,NA,FALSE,TRUE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,80,1,9:30,1770,1770,Rutgers Deadball Team Rebound.,9,12,-3,0,0.48757189232768733,0.41181618402618514,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,81,1,9:28,1768,1768,Shaq Carter missed Free Throw.,9,12,-3,2,0.4874589098695523,0.4117368765533707,4,4,2.1,NA,NA,Rutgers,missed,Shaq Carter,NA,FALSE,TRUE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,82,1,9:27,1767,1767,Kofi Cockburn Defensive Rebound.,9,12,-3,1,0.4874023607336993,0.41169718104063374,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,83,1,9:13,1753,1753,Kofi Cockburn made Layup. Assisted by Giorgi Bezhanishvili.,11,12,-1,14,0.5463467613499018,0.4700972826796332,4,4,2.1,NA,NA,Illinois,made,Kofi Cockburn,Giorgi Bezhanishvili,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,84,1,9:00,1740,1740,Montez Mathis missed Three Point Jumper.,11,12,-1,13,0.5459642258946571,0.46991741135359993,4,4,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,85,1,8:57,1737,1737,Ayo Dosunmu Defensive Rebound.,11,12,-1,3,0.5458754640629683,0.4698756185416942,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,86,1,8:53,1733,1733,Ayo Dosunmu missed Jumper.,11,12,-1,4,0.545756828501979,0.46981972186740945,4,4,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,87,1,8:49,1729,1729,Ron Harper Jr. Defensive Rebound.,11,12,-1,4,0.5456378631313918,0.46976362301874747,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,88,1,8:46,1726,1726,Ron Harper Jr. Turnover.,11,12,-1,3,0.545548421067219,0.4697214132223624,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,89,1,8:22,1702,1702,Giorgi Bezhanishvili missed Jumper.,11,12,-1,24,0.5448260175148744,0.46937928941262314,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,90,1,8:17,1697,1697,Kofi Cockburn Offensive Rebound.,11,12,-1,5,0.544673948037832,0.4693069589844283,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,91,1,8:17,1697,1697,Foul on Shaq Carter.,11,12,-1,0,0.544673948037832,0.4693069589844283,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,92,1,8:17,1697,1697,Kofi Cockburn made Free Throw.,12,12,0,0,0.5749558772583314,0.5,4,4,2.1,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,93,1,8:17,1697,1697,Kofi Cockburn made Free Throw.,13,12,1,0,0.604685549996252,0.5306930410155717,4,4,2.1,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,94,1,8:01,1681,1681,Jacob Young missed Three Point Jumper.,13,12,1,16,0.6046599987253355,0.530925546049774,4,4,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,95,1,7:57,1677,1677,Kofi Cockburn Defensive Rebound.,13,12,1,4,0.60465209785605,0.5309830176777515,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,96,1,7:47,1667,1667,Kipper Nichols made Layup.,15,12,3,10,0.662424368180375,0.5924221024725164,4,4,2.1,NA,NA,Illinois,made,Kipper Nichols,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,97,1,7:28,1648,1648,Paul Mulcahy made Layup.,15,14,1,19,0.6045755351668625,0.5313910478582424,4,4,2.1,NA,NA,Rutgers,made,Paul Mulcahy,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,98,1,7:11,1631,1631,Andres Feliz missed Jumper.,15,14,1,17,0.6045175202992936,0.5316249692224317,4,4,2.1,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,99,1,7:07,1627,1627,Caleb McConnell Defensive Rebound.,15,14,1,4,0.6045027406890638,0.531679635896181,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,100,1,6:59,1619,1619,Caleb McConnell missed Three Point Jumper.,15,14,1,8,0.6044720778555458,0.5317886696630236,4,4,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,101,1,6:55,1615,1615,Kofi Cockburn Defensive Rebound.,15,14,1,4,0.6044562461488663,0.5318430719092864,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,102,1,6:39,1599,1599,Ayo Dosunmu missed Three Point Jumper.,15,14,1,16,0.6043901851367772,0.5320603267215861,4,4,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,103,1,6:35,1595,1595,Kipper Nichols Offensive Rebound.,15,14,1,4,0.6043731151531211,0.5321146397449307,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,104,1,6:29,1589,1589,Ayo Dosunmu Turnover.,15,14,1,6,0.6043471988028966,0.5321961801517338,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,105,1,6:29,1589,1589,Jacob Young Steal.,15,14,1,0,0.6043471988028966,0.5321961801517338,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,106,1,6:23,1583,1583,Jacob Young made Layup.,15,16,-1,6,0.5411367299851871,0.4677221416887046,4,4,2.1,NA,NA,Rutgers,made,Jacob Young,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,107,1,6:05,1565,1565,Trent Frazier missed Three Point Jumper.,15,16,-1,18,0.5405624388714096,0.46747568781622056,4,4,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,108,1,5:59,1559,1559,Kofi Cockburn Offensive Rebound.,15,16,-1,6,0.54036962704602,0.46739286579428235,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,109,1,5:59,1559,1559,Kofi Cockburn missed Layup.,15,16,-1,0,0.54036962704602,0.46739286579428235,4,4,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,110,1,5:58,1558,1558,Akwasi Yeboah Defensive Rebound.,15,16,-1,1,0.5403374208014426,0.4673790215152715,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,111,1,5:51,1551,1551,Foul on Kipper Nichols.,15,16,-1,7,0.5401113925988547,0.46728175084044465,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,112,1,5:51,1551,1551,Official TV Timeout,15,16,-1,0,0.5401113925988547,0.46728175084044465,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,113,1,5:31,1531,1531,Caleb McConnell missed Three Point Jumper.,15,16,-1,20,0.5394596342371407,0.4669996648941544,4,4,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,114,1,5:27,1527,1527,Kipper Nichols Defensive Rebound.,15,16,-1,4,0.5393281579401449,0.4669423703625333,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,115,1,5:00,1500,1500,Foul on Mamadou Doucoure.,15,16,-1,27,0.5384299627107139,0.4665460318608259,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,116,1,5:00,1500,1500,Giorgi Bezhanishvili made Free Throw.,16,16,0,0,0.5715161562278953,0.5,4,4,2.1,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,117,1,4:59,1499,1499,Giorgi Bezhanishvili missed Free Throw.,16,16,0,1,0.571497803775452,0.5,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,118,1,4:58,1498,1498,Mamadou Doucoure Defensive Rebound.,16,16,0,1,0.5714794517178009,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,119,1,4:38,1478,1478,Ron Harper Jr. made Jumper.,16,18,-2,20,0.5039110766861962,0.43272351806609155,4,4,2.1,NA,NA,Rutgers,made,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,120,1,4:06,1446,1446,Ayo Dosunmu Turnover.,16,18,-2,32,0.5022681061060551,0.4316953810496253,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,121,1,4:06,1446,1446,Montez Mathis Steal.,16,18,-2,0,0.5022681061060551,0.4316953810496253,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,122,1,4:01,1441,1441,Ron Harper Jr. missed Three Point Jumper.,16,18,-2,5,0.5020087140130184,0.4315323360506565,4,4,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,123,1,3:58,1438,1438,Kipper Nichols Defensive Rebound.,16,18,-2,3,0.5018537156397683,0.43143534839972875,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,124,1,3:36,1416,1416,Andres Feliz missed Three Point Jumper.,16,18,-2,22,0.5007292378497237,0.430740677327383,4,4,2.1,NA,NA,Illinois,missed,Andres Feliz,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,125,1,3:32,1412,1412,Kipper Nichols Offensive Rebound.,16,18,-2,4,0.5005266478276574,0.4306170205298191,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,126,1,3:30,1410,1410,Giorgi Bezhanishvili missed Jumper.,16,18,-2,2,0.5004255182366858,0.43055544338689355,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,127,1,3:29,1409,1409,Mamadou Doucoure Defensive Rebound.,16,18,-2,1,0.5003749917178809,0.4305247142454546,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,128,1,3:29,1409,1409,Foul on Andres Feliz.,16,18,-2,0,0.5003749917178809,0.4305247142454546,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,129,1,3:29,1409,1409,Official TV Timeout,16,18,-2,0,0.5003749917178809,0.4305247142454546,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,130,1,3:11,1391,1391,Jacob Young made Layup.,16,20,-4,18,0.42945652830204073,0.36264826326639066,4,4,2.1,NA,NA,Rutgers,made,Jacob Young,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,131,1,2:46,1366,1366,Kofi Cockburn missed Jumper.,16,20,-4,25,0.42747723583138125,0.3612338890398025,4,4,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,132,1,2:43,1363,1363,Mamadou Doucoure Defensive Rebound.,16,20,-4,3,0.4272397271227958,0.36106459242745037,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,133,1,2:33,1353,1353,Paul Mulcahy missed Jumper.,16,20,-4,10,0.42644654304816765,0.3604994391824127,4,4,2.1,NA,NA,Rutgers,missed,Paul Mulcahy,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,134,1,2:30,1350,1350,Mamadou Doucoure Offensive Rebound.,16,20,-4,3,0.4262079524295254,0.3603294556547526,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,135,1,2:25,1345,1345,Jacob Young missed Three Point Jumper.,16,20,-4,5,0.42580943199544574,0.36004548417250487,4,4,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,136,1,2:21,1341,1341,Kofi Cockburn Defensive Rebound.,16,20,-4,4,0.425489702701961,0.3598175780476415,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,137,1,2:14,1334,1334,Foul on Paul Mulcahy.,16,20,-4,7,0.4249278519942104,0.3594168132664419,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,138,1,2:14,1334,1334,Trent Frazier made Free Throw.,17,20,-3,0,0.46055661366155753,0.39330944407673074,4,4,2.1,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,139,1,2:14,1334,1334,Trent Frazier made Free Throw.,18,20,-2,0,0.49659305391960606,0.4282614046821253,4,4,2.1,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,140,1,2:00,1320,1320,Ron Harper Jr. missed Jumper.,18,20,-2,14,0.4958723050327103,0.4278299491396289,4,4,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,141,1,1:56,1316,1316,Mamadou Doucoure Offensive Rebound.,18,20,-2,4,0.49566454093589696,0.4277050837945922,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,142,1,1:53,1313,1313,Mamadou Doucoure missed Layup.,18,20,-2,3,0.4955081177925682,0.4276108997526822,4,4,2.1,NA,NA,Rutgers,missed,Mamadou Doucoure,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,143,1,1:49,1309,1309,Mamadou Doucoure Offensive Rebound.,18,20,-2,4,0.4952987083826414,0.42748455836768484,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,144,1,1:46,1306,1306,Foul on Ron Harper Jr..,18,20,-2,3,0.4951409866461829,0.4273891967384899,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,145,1,1:46,1306,1306,Ron Harper Jr. Turnover.,18,20,-2,0,0.4951409866461829,0.4273891967384899,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,146,1,1:24,1284,1284,Ayo Dosunmu Turnover.,18,20,-2,22,0.4939646160062194,0.4266714676676773,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,147,1,1:10,1270,1270,Foul on Trent Frazier.,18,20,-2,14,0.493195044812798,0.42619472119146345,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,148,1,0:58,1258,1258,Caleb McConnell Turnover.,18,20,-2,12,0.49252023745404133,0.4257713055938554,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,149,1,0:45,1245,1245,Kofi Cockburn Turnover.,18,20,-2,13,0.49177153422071523,0.42529519548225636,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,150,1,0:45,1245,1245,Akwasi Yeboah Steal.,18,20,-2,0,0.49177153422071523,0.42529519548225636,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,151,1,0:40,1240,1240,Foul on Alan Griffin.,18,20,-2,5,0.49147828550311645,0.42510682558951524,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,152,1,0:40,1240,1240,Shaq Carter made Free Throw.,18,21,-3,0,0.45387847625451766,0.3887034161158233,4,4,2.1,NA,NA,Rutgers,made,Shaq Carter,NA,FALSE,TRUE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,153,1,0:39,1239,1239,Shaq Carter missed Free Throw.,18,21,-3,1,0.45380065134858255,0.3886479363016952,4,4,2.1,NA,NA,Rutgers,missed,Shaq Carter,NA,FALSE,TRUE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,154,1,0:38,1238,1238,Kofi Cockburn Defensive Rebound.,18,21,-3,1,0.4537226406187113,0.3885922758743016,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,155,1,0:29,1229,1229,Illinois  Timeout,18,21,-3,9,0.4530119608676073,0.38808297810989856,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,156,1,0:23,1223,1223,Giorgi Bezhanishvili missed Three Point Jumper.,18,21,-3,6,0.45252926984424247,0.38773476359160397,3,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,157,1,0:21,1221,1221,Rutgers Defensive Rebound.,18,21,-3,2,0.4523667291675969,0.38761708648987425,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,158,1,0:03,1203,1203,Akwasi Yeboah missed Three Point Jumper.,18,21,-3,18,0.4508741609002038,0.3865285927396723,3,4,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,159,1,0:00,1200,1200,Ayo Dosunmu Defensive Rebound.,18,21,-3,3,0.4506263837212247,0.38634786325026177,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,160,1,0:00,1200,1200,End of 1st half,18,21,-3,0,0.4506263837212247,0.38634786325026177,3,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA
+401166162,2020-01-11,Illinois,Rutgers,161,2,20:00,1200,1200,PLAY,18,21,-3,0,0.4506263837212247,0.38634786325026177,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166162,2020-01-11,Illinois,Rutgers,162,2,19:35,1175,1175,Trent Frazier missed Three Point Jumper.,18,21,-3,25,0.44860421624808783,0.3848797746866148,4,4,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,163,2,19:31,1171,1171,Da'Monte Williams Offensive Rebound.,18,21,-3,4,0.44828639146875926,0.3846499659524689,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,164,2,19:28,1168,1168,Ayo Dosunmu made Three Point Jumper. Assisted by Da'Monte Williams.,21,21,0,3,0.565134110713403,0.5,4,4,2.1,NA,NA,Illinois,made,Ayo Dosunmu,Da'Monte Williams,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,165,2,19:09,1149,1149,Myles Johnson missed Jumper.,21,21,0,19,0.5647688325078547,0.5,4,4,2.1,NA,NA,Rutgers,missed,Myles Johnson,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,166,2,19:06,1146,1146,Kofi Cockburn Defensive Rebound.,21,21,0,3,0.564711281759621,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,167,2,19:04,1144,1144,Foul on Myles Johnson.,21,21,0,2,0.5646729279888171,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,168,2,18:56,1136,1136,Da'Monte Williams missed Three Point Jumper.,21,21,0,8,0.5645195961871332,0.5,4,4,2.1,NA,NA,Illinois,missed,Da'Monte Williams,NA,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,169,2,18:52,1132,1132,Ron Harper Jr. Defensive Rebound.,21,21,0,4,0.5644429648250072,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,170,2,18:36,1116,1116,Caleb McConnell missed Jumper.,21,21,0,16,0.5641364638362085,0.5,4,4,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,171,2,18:32,1112,1112,Kofi Cockburn Defensive Rebound.,21,21,0,4,0.5640598005901022,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,172,2,18:17,1097,1097,Trent Frazier missed Jumper.,21,21,0,15,0.5637719487717611,0.5,4,4,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,173,2,18:14,1094,1094,Illinois Offensive Rebound.,21,21,0,3,0.5637142820010169,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,174,2,18:01,1081,1081,Giorgi Bezhanishvili missed Jumper.,21,21,0,13,0.5634638730014988,0.5,4,4,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,175,2,17:58,1078,1078,Akwasi Yeboah Defensive Rebound.,21,21,0,3,0.563405945403417,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,176,2,17:47,1067,1067,Caleb McConnell missed Jumper.,21,21,0,11,0.5631929964366555,0.5,4,4,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,177,2,17:41,1061,1061,Ayo Dosunmu Defensive Rebound.,21,21,0,6,0.5630764326755443,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,178,2,17:40,1060,1060,Foul on Ron Harper Jr..,21,21,0,1,0.5630569743583533,0.5,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,179,2,17:40,1060,1060,Ayo Dosunmu made Free Throw.,22,21,1,0,0.6032996046933264,0.5413192039328795,4,4,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,180,2,17:40,1060,1060,Ayo Dosunmu missed Free Throw.,22,21,1,0,0.6032996046933264,0.5413192039328795,4,4,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,181,2,17:40,1060,1060,Montez Mathis Defensive Rebound.,22,21,1,0,0.6032996046933264,0.5413192039328795,4,4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,182,2,17:21,1041,1041,Rutgers  Timeout,22,21,1,19,0.6033469122409758,0.5417432655617682,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,183,2,17:11,1031,1031,Caleb McConnell made Jumper.,22,23,-1,10,0.5207298773463213,0.4580242750599105,4,3,2.1,NA,NA,Rutgers,made,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,184,2,16:41,1001,1001,Giorgi Bezhanishvili missed Jumper.,22,23,-1,30,0.5193732996715512,0.45728056194133654,4,3,2.1,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,185,2,16:37,997,997,Shaq Carter Defensive Rebound.,22,23,-1,4,0.5191853230768034,0.4571754748742797,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,186,2,16:21,981,981,Jacob Young missed Jumper.,22,23,-1,16,0.5184145159104478,0.4567393838479903,4,3,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,187,2,16:19,979,979,Kofi Cockburn Defensive Rebound.,22,23,-1,2,0.5183159299480379,0.45668301233221525,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,188,2,15:59,959,959,Kipper Nichols missed Jumper.,22,23,-1,20,0.5173235124856114,0.4561118787312767,4,3,2.1,NA,NA,Illinois,missed,Kipper Nichols,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,189,2,15:59,959,959,Ron Harper Jr. Defensive Rebound.,22,23,-1,0,0.5173235124856114,0.4561118787312767,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,190,2,15:59,959,959,Paul Mulcahy Block.,22,23,-1,0,0.5173235124856114,0.4561118787312767,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,191,2,15:52,952,952,Ron Harper Jr. made Three Point Jumper. Assisted by Jacob Young.,22,26,-4,7,0.3864397372967478,0.33024760606244197,4,3,2.1,NA,NA,Rutgers,made,Ron Harper Jr.,Jacob Young,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,192,2,15:30,930,930,Ayo Dosunmu missed Layup.,22,26,-4,22,0.3839291173410701,0.32828158935867807,4,3,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,193,2,15:27,927,927,Jacob Young Defensive Rebound.,22,26,-4,3,0.38360442562863045,0.3280283220147901,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,194,2,15:26,926,926,Foul on Kipper Nichols.,22,26,-4,1,0.3834969908262324,0.32794456490267015,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,195,2,15:26,926,926,Official TV Timeout,22,26,-4,0,0.3834969908262324,0.32794456490267015,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,196,2,15:26,926,926,Ron Harper Jr. missed Free Throw.,22,26,-4,0,0.3834969908262324,0.32794456490267015,4,3,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,TRUE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,197,2,15:26,926,926,Rutgers Deadball Team Rebound.,22,26,-4,0,0.3834969908262324,0.32794456490267015,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,198,2,15:25,925,925,Ron Harper Jr. missed Free Throw.,22,26,-4,1,0.38338993987516234,0.3278611284510028,4,3,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,TRUE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,199,2,15:25,925,925,Kofi Cockburn Defensive Rebound.,22,26,-4,0,0.38338993987516234,0.3278611284510028,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,200,2,14:44,884,884,Alan Griffin missed Three Point Jumper.,22,26,-4,41,0.3792279486697643,0.32462796108979847,4,3,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,201,2,14:40,880,880,Alan Griffin Offensive Rebound.,22,26,-4,4,0.37883413296813734,0.324322331875047,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,202,2,14:39,879,879,Alan Griffin missed Jumper.,22,26,-4,1,0.3787357007279613,0.32424592562185933,4,3,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,203,2,14:39,879,879,Shaq Carter Block.,22,26,-4,0,0.3787357007279613,0.32424592562185933,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,204,2,14:39,879,879,Illinois Offensive Rebound.,22,26,-4,0,0.3787357007279613,0.32424592562185933,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,205,2,14:38,878,878,Alan Griffin missed Layup.,22,26,-4,1,0.3786372606438787,0.3241695057197205,4,3,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,206,2,14:38,878,878,Shaq Carter Block.,22,26,-4,0,0.3786372606438787,0.3241695057197205,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,207,2,14:34,874,874,Paul Mulcahy Defensive Rebound.,22,26,-4,4,0.37824325685655996,0.3238635491031139,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,208,2,14:34,874,874,Foul on Kipper Nichols.,22,26,-4,0,0.37824325685655996,0.3238635491031139,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,209,2,14:34,874,874,Ron Harper Jr. made Free Throw.,22,27,-5,0,0.3360315545127047,0.28493939766780885,4,3,2.1,NA,NA,Rutgers,made,Ron Harper Jr.,NA,FALSE,TRUE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,210,2,14:34,874,874,Ron Harper Jr. made Free Throw.,22,28,-6,0,0.2962858133759009,0.24897079557443377,4,3,2.1,NA,NA,Rutgers,made,Ron Harper Jr.,NA,FALSE,TRUE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,211,2,14:14,854,854,Kofi Cockburn missed Jumper.,22,28,-6,20,0.29378473782680586,0.24698773376323221,4,3,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,212,2,14:11,851,851,Kofi Cockburn Offensive Rebound.,22,28,-6,3,0.2934026431405845,0.24668420638360442,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,213,2,14:08,848,848,Kofi Cockburn missed Jumper.,22,28,-6,3,0.2930179268995983,0.2463784110711879,4,3,2.1,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,214,2,14:04,844,844,Illinois Offensive Rebound.,22,28,-6,4,0.2925004115990614,0.24596674993835924,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,215,2,13:43,823,823,Ayo Dosunmu made Jumper.,24,28,-4,21,0.372970883160051,0.3197411622266958,4,3,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,216,2,13:14,794,794,Akwasi Yeboah missed Jumper.,24,28,-4,29,0.3695034711340706,0.3169901767476905,4,3,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,217,2,13:11,791,791,Kofi Cockburn Defensive Rebound.,24,28,-4,3,0.3691147071290301,0.3166797442780161,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,218,2,13:05,785,785,Ayo Dosunmu missed Layup.,24,28,-4,6,0.36831756883126937,0.31604206260813955,4,3,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,219,2,13:01,781,781,Alan Griffin Offensive Rebound.,24,28,-4,4,0.36777093971349717,0.315603913858251,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,220,2,13:01,781,781,Foul on Paul Mulcahy.,24,28,-4,0,0.36777093971349717,0.315603913858251,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,221,2,12:50,770,770,Kofi Cockburn made Layup. Assisted by Ayo Dosunmu.,26,28,-2,11,0.4604324708377156,0.4037293655257676,4,3,2.1,NA,NA,Illinois,made,Kofi Cockburn,Ayo Dosunmu,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,222,2,12:25,745,745,Jacob Young missed Jumper.,26,28,-2,25,0.4580233587188949,0.4019265485404912,4,3,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,223,2,12:21,741,741,Giorgi Bezhanishvili Defensive Rebound.,26,28,-2,4,0.45760288482807376,0.40160916529172846,4,3,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,224,2,12:18,738,738,Andres Feliz made Layup.,28,28,0,3,0.5568737732652532,0.5,4,3,2.1,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,225,2,12:14,734,734,Rutgers  Timeout,28,28,0,4,0.5567789279100245,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,226,2,11:58,718,718,Paul Mulcahy missed Layup.,28,28,0,16,0.5563952451713956,0.5,4,2,2.1,NA,NA,Rutgers,missed,Paul Mulcahy,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,227,2,11:58,718,718,Kofi Cockburn Block.,28,28,0,0,0.5563952451713956,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,228,2,11:53,713,713,Giorgi Bezhanishvili Defensive Rebound.,28,28,0,5,0.5562779799667588,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,229,2,11:47,707,707,Alan Griffin missed Jumper.,28,28,0,6,0.5561388357277631,0.5,4,2,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,230,2,11:45,705,705,Akwasi Yeboah Defensive Rebound.,28,28,0,2,0.5560927946372998,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,231,2,11:39,699,699,Akwasi Yeboah missed Three Point Jumper.,28,28,0,6,0.5559555590201268,0.5,4,2,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,232,2,11:35,695,695,Alan Griffin Defensive Rebound.,28,28,0,4,0.5558647130777702,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,233,2,11:22,682,682,Alan Griffin missed Three Point Jumper.,28,28,0,13,0.5555720156052671,0.5,4,2,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,234,2,11:18,678,678,Akwasi Yeboah Defensive Rebound.,28,28,0,4,0.5554824565226083,0.5,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,235,2,11:02,662,662,Jacob Young made Three Point Jumper.,28,31,-3,16,0.3982562104332345,0.3465737368181266,4,2,2.1,NA,NA,Rutgers,made,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,236,2,10:32,632,632,Ayo Dosunmu made Jumper.,30,31,-1,30,0.5007816451598495,0.44633180136466444,4,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,237,2,10:01,601,601,Jacob Young missed Three Point Jumper.,30,31,-1,31,0.498782512757245,0.44510891677980624,4,2,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,238,2,9:57,597,597,Alan Griffin Defensive Rebound.,30,31,-1,4,0.4984982079618224,0.44493034901802614,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,239,2,9:40,580,580,Foul on Paul Mulcahy.,30,31,-1,17,0.49720194517326766,0.4441016786667917,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,240,2,9:37,577,577,Foul on Ron Harper Jr..,30,31,-1,3,0.4969567979088094,0.44394241950673563,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,241,2,9:37,577,577,Kofi Cockburn made Free Throw.,31,31,0,0,0.5530505789598437,0.5,4,2,2.1,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,242,2,9:36,576,576,Kofi Cockburn made Free Throw.,32,31,1,1,0.607850813395011,0.5561116108175674,4,2,2.1,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,243,2,9:24,564,564,Akwasi Yeboah missed Three Point Jumper.,32,31,1,12,0.6081831768714046,0.5567990353076734,4,2,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,244,2,9:19,559,559,Trent Frazier Defensive Rebound.,32,31,1,5,0.6083383882940792,0.5571081212512028,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,245,2,9:05,545,545,Andres Feliz made Layup.,34,31,3,14,0.7127360941742229,0.6680891007485259,4,2,2.1,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,246,2,8:47,527,527,Foul on Andres Feliz.,34,31,3,18,0.7149116842353329,0.6709273459722339,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,247,2,8:36,516,516,Jacob Young missed Jumper.,34,31,3,11,0.7160592780554559,0.6724552629689952,4,2,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,248,2,8:33,513,513,Myles Johnson Offensive Rebound.,34,31,3,3,0.7163585736437651,0.672856535915683,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,249,2,8:23,503,503,Akwasi Yeboah missed Jumper.,34,31,3,10,0.7173374704445762,0.6741733990733041,4,2,2.1,NA,NA,Rutgers,missed,Akwasi Yeboah,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,250,2,8:21,501,501,Illinois Defensive Rebound.,34,31,3,2,0.7175324954492781,0.6744360519610074,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,251,2,8:10,490,490,Foul on Kipper Nichols.,34,31,3,11,0.718625245233477,0.6759045613611845,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,252,2,8:10,490,490,Kipper Nichols Turnover.,34,31,3,0,0.718625245233477,0.6759045613611845,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,253,2,7:40,460,460,Jacob Young made Three Point Jumper.,34,34,0,30,0.5495581617236881,0.5,4,2,2.1,NA,NA,Rutgers,made,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,254,2,7:19,439,439,Giorgi Bezhanishvili made Layup. Assisted by Trent Frazier.,36,34,2,21,0.6712088688408072,0.6266164180456282,4,2,2.1,NA,NA,Illinois,made,Giorgi Bezhanishvili,Trent Frazier,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,255,2,7:19,439,439,Foul on Caleb McConnell.,36,34,2,0,0.6712088688408072,0.6266164180456282,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,256,2,7:19,439,439,Official TV Timeout,36,34,2,0,0.6712088688408072,0.6266164180456282,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,257,2,7:19,439,439,Giorgi Bezhanishvili made Free Throw.,37,34,3,0,0.7256218682181255,0.6849452507586543,4,2,2.1,NA,NA,Illinois,made,Giorgi Bezhanishvili,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,258,2,7:07,427,427,Myles Johnson made Layup. Assisted by Caleb McConnell.,37,36,1,12,0.6124731082825731,0.5655341321127553,4,2,2.1,NA,NA,Rutgers,made,Myles Johnson,Caleb McConnell,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,259,2,6:49,409,409,Ayo Dosunmu Turnover.,37,36,1,18,0.6134224234542907,0.5672475997866933,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,260,2,6:49,409,409,Caleb McConnell Steal.,37,36,1,0,0.6134224234542907,0.5672475997866933,4,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,261,2,6:42,402,402,Myles Johnson made Dunk. Assisted by Montez Mathis.,37,38,-1,7,0.47918260416243613,0.4321211906918114,4,2,2.1,NA,NA,Rutgers,made,Myles Johnson,Montez Mathis,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,262,2,6:32,392,392,Illinois  Timeout,37,38,-1,10,0.47783297929464275,0.4312290282709358,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,263,2,6:20,380,380,Andres Feliz made Layup.,39,38,1,12,0.6147173244417292,0.5698582521361394,3,2,2.1,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,264,2,5:56,356,356,Montez Mathis missed Jumper.,39,38,1,24,0.6159316472083318,0.5722506874558994,3,2,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,265,2,5:56,356,356,Ayo Dosunmu Block.,39,38,1,0,0.6159316472083318,0.5722506874558994,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,266,2,5:50,350,350,Ayo Dosunmu Defensive Rebound.,39,38,1,6,0.6162977796152211,0.5729251426281499,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,267,2,5:46,346,346,Ayo Dosunmu missed Jumper.,39,38,1,4,0.6165611720411777,0.57339729471015,3,2,2.1,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,268,2,5:44,344,344,Alan Griffin Offensive Rebound.,39,38,1,2,0.6166992299467324,0.5736407110025379,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,269,2,5:28,328,328,Andres Feliz missed Jumper.,39,38,1,16,0.6179813959863787,0.5757898943693279,3,2,2.1,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,270,2,5:23,323,323,Myles Johnson Defensive Rebound.,39,38,1,5,0.6184563637437491,0.576544862267396,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,271,2,5:18,318,318,Montez Mathis missed Jumper.,39,38,1,5,0.6189718014651021,0.5773447489204293,3,2,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,272,2,5:14,314,314,Ayo Dosunmu Defensive Rebound.,39,38,1,4,0.6194152538077429,0.5780190163717189,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,273,2,5:12,312,312,Alan Griffin made Three Point Jumper. Assisted by Ayo Dosunmu.,42,38,4,2,0.8078791340816176,0.7797674867519507,3,2,2.1,NA,NA,Illinois,made,Alan Griffin,Ayo Dosunmu,TRUE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,274,2,4:45,285,285,Caleb McConnell missed Jumper.,42,38,4,27,0.8122979858125192,0.7856663643570421,3,2,2.1,NA,NA,Rutgers,missed,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,275,2,4:41,281,281,Caleb McConnell Offensive Rebound.,42,38,4,4,0.8118985252993689,0.7853730902280839,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,276,2,4:40,280,280,Caleb McConnell made Layup.,42,40,2,1,0.6927988414570243,0.6566318324699312,3,2,2.1,NA,NA,Rutgers,made,Caleb McConnell,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,277,2,4:21,261,261,Alan Griffin missed Layup.,42,40,2,19,0.6897689583981309,0.6543762998148905,3,2,2.1,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,278,2,4:16,256,256,Caleb McConnell Defensive Rebound.,42,40,2,5,0.6888820006703091,0.6536945399949757,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,279,2,4:13,253,253,Montez Mathis missed Jumper.,42,40,2,3,0.6883739160728378,0.6533126817897041,3,2,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,280,2,4:13,253,253,Kofi Cockburn Block.,42,40,2,0,0.6883739160728378,0.6533126817897041,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,281,2,4:05,245,245,Montez Mathis Offensive Rebound.,42,40,2,8,0.6871995738869883,0.6524921101664152,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,282,2,4:01,241,241,Jacob Young made Three Point Jumper. Assisted by Caleb McConnell.,42,43,-1,4,0.46049695954081316,0.4220289835706846,3,2,2.1,NA,NA,Rutgers,made,Jacob Young,Caleb McConnell,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,283,2,3:38,218,218,Kofi Cockburn made Dunk. Assisted by Andres Feliz.,44,43,1,23,0.6152715170516302,0.5791036195573123,3,2,2.1,NA,NA,Illinois,made,Kofi Cockburn,Andres Feliz,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,284,2,3:09,189,189,Montez Mathis made Three Point Jumper. Assisted by Myles Johnson.,44,46,-2,29,0.36091571080008683,0.3287659840941099,3,2,2.1,NA,NA,Rutgers,made,Montez Mathis,Myles Johnson,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,285,2,2:43,163,163,Trent Frazier missed Layup.,44,46,-2,26,0.33370068210581977,0.3045042714980945,3,2,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,286,2,2:40,160,160,Ron Harper Jr. Defensive Rebound.,44,46,-2,3,0.3304192788196203,0.30157857259282017,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,287,2,2:19,139,139,Ron Harper Jr. missed Jumper.,44,46,-2,21,0.3058665688271504,0.27964208546475966,3,2,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,288,2,2:16,136,136,Kofi Cockburn Defensive Rebound.,44,46,-2,3,0.3020831853914077,0.2762533567084418,3,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,289,2,2:11,131,131,Andres Feliz made Jumper.,46,46,0,5,0.5309720342344713,0.5,3,2,2.1,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,290,2,2:09,129,129,Illinois  Timeout,46,46,0,2,0.5308033020017353,0.5,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,291,2,1:46,106,106,Paul Mulcahy Turnover.,46,46,0,23,0.5287952813516349,0.5,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,292,2,1:34,94,94,Foul on Ron Harper Jr..,46,46,0,12,0.5276940810050152,0.5,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,293,2,1:34,94,94,Ayo Dosunmu made Free Throw.,47,46,1,0,0.6776683638231239,0.6529852541795719,2,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,294,2,1:34,94,94,Ayo Dosunmu made Free Throw.,48,46,2,0,0.7982293588779271,0.7797782423044805,2,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,295,2,1:22,82,82,Foul on Myles Johnson.,48,46,2,12,0.8144242462413839,0.7978098716309224,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,296,2,1:22,82,82,Myles Johnson Turnover.,48,46,2,0,0.8144242462413839,0.7978098716309224,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,297,2,1:07,67,67,Trent Frazier missed Three Point Jumper.,48,46,2,15,0.8348696329197374,0.8205432367228749,2,2,2.1,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,298,2,1:03,63,63,Giorgi Bezhanishvili Offensive Rebound.,48,46,2,4,0.8403208027325749,0.8265976357461318,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,299,2,0:50,50,50,Ayo Dosunmu made Layup.,50,46,4,13,0.9706908107437258,0.967906124178248,2,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,300,2,0:41,41,41,Jacob Young missed Jumper.,50,46,4,9,0.9759976922848174,0.9737993907320708,2,2,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,301,2,0:37,37,37,Ayo Dosunmu Defensive Rebound.,50,46,4,4,0.9781214255561672,0.9761523029871113,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,302,2,0:37,37,37,Foul on Montez Mathis.,50,46,4,0,0.9781214255561672,0.9761523029871113,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,303,2,0:37,37,37,Ayo Dosunmu made Free Throw.,51,46,5,0,0.9912343363549125,0.990433863832788,2,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,304,2,0:37,37,37,Ayo Dosunmu made Free Throw.,52,46,6,0,0.9965160255044583,0.9961960211297172,2,2,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,305,2,0:21,21,21,Montez Mathis missed Three Point Jumper.,52,46,6,16,0.9980831542370763,0.9979211719169991,2,2,2.1,NA,NA,Rutgers,missed,Montez Mathis,NA,TRUE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,306,2,0:19,19,19,Jacob Young Offensive Rebound.,52,46,6,2,0.9982274853066915,0.998079365653707,2,2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,307,2,0:19,19,19,Jacob Young made Three Point Jumper.,52,49,3,0,0.9610966003698559,0.9579762736338373,2,2,2.1,NA,NA,Rutgers,made,Jacob Young,NA,TRUE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,308,2,0:19,19,19,Rutgers  Timeout,52,49,3,0,0.9610966003698559,0.9579762736338373,2,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,309,2,0:19,19,19,Illinois  Timeout,52,49,3,0,0.9610966003698559,0.9579762736338373,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,310,2,0:18,18,18,Foul on Montez Mathis.,52,49,3,1,0.9618232841824115,0.9587762315563105,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,311,2,0:18,18,18,Ayo Dosunmu made Free Throw.,53,49,4,0,0.9862854140843601,0.9851606695394957,1,1,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166162,2020-01-11,Illinois,Rutgers,312,2,0:18,18,18,Ayo Dosunmu made Free Throw.,54,49,5,0,0.9951521809784537,0.9947507371379145,1,1,2.1,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,313,2,0:14,14,14,Foul on Trent Frazier.,54,49,5,4,0.995758677021493,0.9954153640975865,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,314,2,0:11,11,11,Ron Harper Jr. missed Three Point Jumper.,54,49,5,3,0.9961719889112369,0.9958675458278029,1,1,2.1,NA,NA,Rutgers,missed,Ron Harper Jr.,NA,TRUE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,315,2,0:06,6,6,Jacob Young Offensive Rebound.,54,49,5,5,0.996785411488477,0.9965374199946047,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,316,2,0:04,4,4,Jacob Young missed Jumper.,54,49,5,2,0.9970057352556337,0.9967776226618401,1,1,2.1,NA,NA,Rutgers,missed,Jacob Young,NA,FALSE,FALSE,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,317,2,0:02,2,2,Akwasi Yeboah Offensive Rebound.,54,49,5,2,0.9972125274180457,0.9970028640030048,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Rutgers,Rutgers
+401166162,2020-01-11,Illinois,Rutgers,318,2,0:02,2,2,Akwasi Yeboah made Layup.,54,51,3,0,0.9722665309386472,0.9702365242832658,1,1,2.1,NA,NA,Rutgers,made,Akwasi Yeboah,NA,FALSE,FALSE,Rutgers,Illinois
+401166162,2020-01-11,Illinois,Rutgers,319,2,0:00,0,0,End of 2nd half,54,51,3,2,1,1,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA
+401166162,2020-01-11,Illinois,Rutgers,320,2,0:00,0,0,End of Game,54,51,3,0,1,1,1,1,2.1,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA

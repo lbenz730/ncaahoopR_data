@@ -1,0 +1,263 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172055,2020-01-17,Niagara,Rider,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.3412413583286997,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rider
+401172055,2020-01-17,Niagara,Rider,2,1,19:44,2384,2384,Foul on Marcus Hammond.,0,0,0,16,0.34147832931241107,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,3,1,19:34,2374,2374,Frederick Scott missed Three Point Jumper.,0,0,0,10,0.34162878950723025,0.5,4,4,-4.1,NA,NA,Rider,missed,Frederick Scott,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,4,1,19:31,2371,2371,Justin Roberts Defensive Rebound.,0,0,0,3,0.341674285486132,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,5,1,19:15,2355,2355,Marcus Hammond missed Three Point Jumper.,0,0,0,16,0.34191975906419597,0.5,4,4,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,6,1,19:12,2352,2352,Rider Defensive Rebound.,0,0,0,3,0.34196632114666065,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,7,1,18:45,2325,2325,Dimencio Vaughn made Jumper. Assisted by Tyere Marshall.,0,2,-2,27,0.30244140900716376,0.4543645204002807,4,4,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Tyere Marshall,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,8,1,18:25,2305,2305,Marcus Hammond missed Jumper.,0,2,-2,20,0.3023709222720583,0.4539235074515363,4,4,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,9,1,18:22,2302,2302,Frederick Scott Defensive Rebound.,0,2,-2,3,0.30236066439733356,0.4538569829834506,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,10,1,18:18,2298,2298,Christian Ings missed Three Point Jumper.,0,2,-2,4,0.30234712364874944,0.45376813915373904,4,4,-4.1,NA,NA,Rider,missed,Christian Ings,NA,TRUE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,11,1,18:15,2295,2295,Tyere Marshall Offensive Rebound.,0,2,-2,3,0.30233707277155647,0.4537013997188336,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,12,1,18:13,2293,2293,Tyere Marshall missed Layup.,0,2,-2,2,0.30233042305247426,0.4536568568073095,4,4,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,13,1,18:13,2293,2293,Rider Offensive Rebound.,0,2,-2,0,0.30233042305247426,0.4536568568073095,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,14,1,18:02,2282,2282,Foul on Frederick Scott.,0,2,-2,11,0.30229460280593085,0.45341117649875384,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,15,1,18:02,2282,2282,Frederick Scott Turnover.,0,2,-2,0,0.30229460280593085,0.45341117649875384,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,16,1,17:39,2259,2259,Marcus Hammond made Three Point Jumper. Assisted by Justin Roberts.,3,2,1,23,0.365110277658485,0.523605531345516,4,4,-4.1,NA,NA,Niagara,made,Marcus Hammond,Justin Roberts,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,17,1,17:14,2234,2234,Dimencio Vaughn made Layup. Assisted by Tyere Marshall.,3,4,-1,25,0.3226938467034054,0.47610901885326956,4,4,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Tyere Marshall,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,18,1,16:50,2210,2210,Nicholas Kratholm made Layup.,5,4,1,24,0.36653764200600225,0.5241670655623734,4,4,-4.1,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,19,1,16:22,2182,2182,Dimencio Vaughn made Three Point Jumper. Assisted by Frederick Scott.,5,7,-2,28,0.302041584957218,0.4511348144998577,4,4,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Frederick Scott,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,20,1,15:54,2154,2154,Marcus Hammond Turnover.,5,7,-2,28,0.3019991450699102,0.45048739419728506,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,21,1,15:54,2154,2154,Official TV Timeout,5,7,-2,0,0.3019991450699102,0.45048739419728506,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,22,1,15:36,2136,2136,Tyere Marshall made Layup. Assisted by Christian Ings.,5,9,-4,18,0.26147942707410277,0.40112246743920627,4,4,-4.1,NA,NA,Rider,made,Tyere Marshall,Christian Ings,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,23,1,15:11,2111,2111,Greg Kuakumensah missed Layup.,5,9,-4,25,0.2610005824528728,0.3999838910068344,4,4,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,24,1,15:07,2107,2107,Dimencio Vaughn Defensive Rebound.,5,9,-4,4,0.26092422169472385,0.3998007856360138,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,25,1,14:57,2097,2097,Dimencio Vaughn Turnover.,5,9,-4,10,0.2607335630529705,0.3993418386531157,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,26,1,14:57,2097,2097,James Towns Steal.,5,9,-4,0,0.2607335630529705,0.3993418386531157,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,27,1,14:32,2072,2072,Raheem Solomon Turnover.,5,9,-4,25,0.2602580394953009,0.39818671668279626,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,28,1,14:32,2072,2072,Stevie Jordan Steal.,5,9,-4,0,0.2602580394953009,0.39818671668279626,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,29,1,14:28,2068,2068,Foul on Stevie Jordan.,5,9,-4,4,0.2601820520475402,0.39800082187936126,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,30,1,14:28,2068,2068,Stevie Jordan Turnover.,5,9,-4,0,0.2601820520475402,0.39800082187936126,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,31,1,14:08,2048,2048,Justin Roberts missed Three Point Jumper.,5,9,-4,20,0.2598022408715736,0.3970666534512968,4,4,-4.1,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,32,1,14:04,2044,2044,Stevie Jordan Defensive Rebound.,5,9,-4,4,0.25972627278317056,0.3968788529705244,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,33,1,14:00,2040,2040,Dimencio Vaughn missed Dunk.,5,9,-4,4,0.25965029240417764,0.3966907209369003,4,4,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,34,1,13:55,2035,2035,Greg Kuakumensah Defensive Rebound.,5,9,-4,5,0.25955529290671886,0.3964550835959324,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,35,1,13:53,2033,2033,Foul on Tyere Marshall.,5,9,-4,2,0.25951728386065226,0.3963606801300943,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,36,1,13:53,2033,2033,James Towns made Free Throw.,6,9,-3,0,0.2802310286121973,0.4217754568768029,4,4,-4.1,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,37,1,13:53,2033,2033,James Towns made Free Throw.,7,9,-2,0,0.3019239562570091,0.44761145139642455,4,4,-4.1,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,38,1,13:40,2020,2020,Dimencio Vaughn missed Dunk.,7,9,-2,13,0.3019239879489751,0.44729323250677677,4,4,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,39,1,13:39,2019,2019,Niagara Defensive Rebound.,7,9,-2,1,0.30192404069037965,0.44726866938491106,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,40,1,13:19,1999,1999,Foul on Ajiri Ogemuno-Johnson.,7,9,-2,20,0.3019264922917341,0.44677478511249896,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,41,1,12:58,1978,1978,James Towns missed Three Point Jumper.,7,9,-2,21,0.3019316454065765,0.4462506308031193,4,4,-4.1,NA,NA,Niagara,missed,James Towns,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,42,1,12:57,1977,1977,Rider Deadball Team Rebound.,7,9,-2,1,0.301931949421094,0.44622552346837313,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,43,1,12:44,1964,1964,Frederick Scott missed Three Point Jumper.,7,9,-2,13,0.3019363365201167,0.44589787165160655,4,4,-4.1,NA,NA,Rider,missed,Frederick Scott,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,44,1,12:39,1959,1959,James Towns Defensive Rebound.,7,9,-2,5,0.3019382254812951,0.4457712209062565,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,45,1,12:35,1955,1955,Nick MacDonald missed Three Point Jumper.,7,9,-2,4,0.3019398110668542,0.44566964359135686,4,4,-4.1,NA,NA,Niagara,missed,Nick MacDonald,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,46,1,12:30,1950,1950,Frederick Scott Defensive Rebound.,7,9,-2,5,0.30194188111423026,0.4455423475571626,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,47,1,12:17,1937,1937,Stevie Jordan made Three Point Jumper. Assisted by Frederick Scott.,7,12,-5,13,0.2371971930548235,0.36583833801363824,4,4,-4.1,NA,NA,Rider,made,Stevie Jordan,Frederick Scott,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,48,1,11:51,1911,1911,James Towns Turnover.,7,12,-5,26,0.23647737490459445,0.36426753212859625,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,49,1,11:51,1911,1911,Official TV Timeout,7,12,-5,0,0.23647737490459445,0.36426753212859625,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,50,1,11:22,1882,1882,Stevie Jordan missed Layup.,7,12,-5,29,0.23569400406700652,0.36252145744399744,4,4,-4.1,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,51,1,11:22,1882,1882,Greg Kuakumensah Block.,7,12,-5,0,0.23569400406700652,0.36252145744399744,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,52,1,11:20,1880,1880,Niagara Deadball Team Rebound.,7,12,-5,2,0.23564058645788158,0.3624011114682507,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,53,1,10:58,1858,1858,Greg Kuakumensah made Layup.,9,12,-3,22,0.2785436478141551,0.4152223440890623,4,4,-4.1,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,54,1,10:39,1839,1839,Foul on Shandon Brown.,9,12,-3,19,0.2783836361603309,0.4144972386217471,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,55,1,10:39,1839,1839,Christian Ings missed Free Throw.,9,12,-3,0,0.2783836361603309,0.4144972386217471,4,4,-4.1,NA,NA,Rider,missed,Christian Ings,NA,FALSE,TRUE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,56,1,10:39,1839,1839,Rider Deadball Team Rebound.,9,12,-3,0,0.2783836361603309,0.4144972386217471,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,57,1,10:39,1839,1839,Christian Ings made Free Throw.,9,13,-4,0,0.2558543662279732,0.38685785938456985,4,4,-4.1,NA,NA,Rider,made,Christian Ings,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,58,1,10:30,1830,1830,Marcus Hammond Turnover.,9,13,-4,9,0.25569335953714845,0.3864084554614844,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,59,1,10:30,1830,1830,Dimencio Vaughn Steal.,9,13,-4,0,0.25569335953714845,0.3864084554614844,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,60,1,10:23,1823,1823,Dimencio Vaughn missed Three Point Jumper.,9,13,-4,7,0.255568245081181,0.3860579654674773,4,4,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,61,1,10:21,1821,1821,Niagara Defensive Rebound.,9,13,-4,2,0.2555325005065804,0.3859576564579736,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,62,1,10:01,1801,1801,Raheem Solomon made Jumper. Assisted by Shandon Brown.,11,13,-2,20,0.3021866217150592,0.44169262416690125,4,4,-4.1,NA,NA,Niagara,made,Raheem Solomon,Shandon Brown,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,63,1,9:35,1775,1775,Stevie Jordan Turnover.,11,13,-2,26,0.30225599741993536,0.4410018057886836,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,64,1,9:12,1752,1752,Greg Kuakumensah made Jumper. Assisted by Marcus Hammond.,13,13,0,23,0.3551058700944737,0.5,4,4,-4.1,NA,NA,Niagara,made,Greg Kuakumensah,Marcus Hammond,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,65,1,8:37,1717,1717,Tyere Marshall Turnover.,13,13,0,35,0.35610093419726985,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,66,1,8:37,1717,1717,Raheem Solomon Steal.,13,13,0,0,0.35610093419726985,0.5,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,67,1,8:14,1694,1694,Greg Kuakumensah made Layup.,15,13,2,23,0.4150244140509596,0.561241817104109,4,4,-4.1,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,68,1,7:57,1677,1677,Willy Nunez Jr. made Three Point Jumper. Assisted by Dimencio Vaughn.,15,16,-1,17,0.3292985037134619,0.4690169823222485,4,4,-4.1,NA,NA,Rider,made,Willy Nunez Jr.,Dimencio Vaughn,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,69,1,7:32,1652,1652,Greg Kuakumensah missed Three Point Jumper.,15,16,-1,25,0.32971216486322474,0.46866446225385766,4,4,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,70,1,7:28,1648,1648,Stevie Jordan Defensive Rebound.,15,16,-1,4,0.32978143347338085,0.4686089521417577,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,71,1,7:21,1641,1641,Willy Nunez Jr. made Three Point Jumper. Assisted by Christian Ings.,15,19,-4,7,0.25218917470033325,0.37649049775670396,4,4,-4.1,NA,NA,Rider,made,Willy Nunez Jr.,Christian Ings,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,72,1,6:58,1618,1618,Greg Kuakumensah missed Jumper.,15,19,-4,23,0.2518316628675032,0.3753050563882833,4,4,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,73,1,6:55,1615,1615,Christian Ings Defensive Rebound.,15,19,-4,3,0.25178676790856885,0.37515141272700603,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,74,1,6:44,1604,1604,Tyere Marshall made Layup. Assisted by Dimencio Vaughn.,15,21,-6,11,0.20648309394081496,0.3167237281964848,4,4,-4.1,NA,NA,Rider,made,Tyere Marshall,Dimencio Vaughn,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,75,1,6:24,1584,1584,Raheem Solomon made Three Point Jumper. Assisted by Shandon Brown.,18,21,-3,20,0.27642512829150584,0.4042688065589759,4,4,-4.1,NA,NA,Niagara,made,Raheem Solomon,Shandon Brown,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,76,1,6:09,1569,1569,Tyere Marshall missed Layup.,18,21,-3,15,0.27636065337451277,0.4036737778818662,4,4,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,77,1,6:09,1569,1569,Greg Kuakumensah Block.,18,21,-3,0,0.27636065337451277,0.4036737778818662,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,78,1,6:08,1568,1568,Rider Offensive Rebound.,18,21,-3,1,0.2763563276004211,0.40363393176157125,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,79,1,6:08,1568,1568,Official TV Timeout,18,21,-3,0,0.2763563276004211,0.40363393176157125,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,80,1,6:00,1560,1560,Willy Nunez Jr. missed Three Point Jumper.,18,21,-3,8,0.276321342006828,0.40331413534109545,4,4,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,81,1,5:57,1557,1557,Nicholas Kratholm Defensive Rebound.,18,21,-3,3,0.2763079898907716,0.4031936884430433,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,82,1,5:28,1528,1528,Marcus Hammond missed Three Point Jumper.,18,21,-3,29,0.27616688768543635,0.40200975666795924,4,4,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,83,1,5:26,1526,1526,Rider Deadball Team Rebound.,18,21,-3,2,0.27615604086627077,0.40192651821776454,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,84,1,5:10,1510,1510,Dimencio Vaughn made Jumper. Assisted by Kimar Williams.,18,23,-5,16,0.2260212368340551,0.33914896056077537,4,4,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Kimar Williams,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,85,1,4:43,1483,1483,Raheem Solomon made Three Point Jumper.,21,23,-2,27,0.3036456975581137,0.43287769962400635,4,4,-4.1,NA,NA,Niagara,made,Raheem Solomon,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,86,1,4:22,1462,1462,Tyere Marshall missed Layup.,21,23,-2,21,0.303725111718256,0.4322185143078734,4,4,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,87,1,4:18,1458,1458,Marcus Hammond Defensive Rebound.,21,23,-2,4,0.3037366546007035,0.4320893169189578,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,88,1,4:14,1454,1454,James Towns missed Jumper.,21,23,-2,4,0.3037469412445688,0.4319588722140313,4,4,-4.1,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,89,1,4:10,1450,1450,Willy Nunez Jr. Defensive Rebound.,21,23,-2,4,0.3037559263570843,0.4318271458483927,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,90,1,3:58,1438,1438,Willy Nunez Jr. made Three Point Jumper. Assisted by Frederick Scott.,21,26,-5,12,0.223858256712552,0.33403454119982545,4,4,-4.1,NA,NA,Rider,made,Willy Nunez Jr.,Frederick Scott,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,91,1,3:30,1410,1410,Marcus Hammond missed Three Point Jumper.,21,26,-5,28,0.22302168236348374,0.33204211778641135,4,4,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,92,1,3:28,1408,1408,Nicholas Kratholm Offensive Rebound.,21,26,-5,2,0.2229651263623269,0.33190322711854114,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,93,1,3:28,1408,1408,Foul on Dimencio Vaughn.,21,26,-5,0,0.2229651263623269,0.33190322711854114,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,94,1,3:28,1408,1408,Nicholas Kratholm made Free Throw.,22,26,-4,0,0.24814095055318222,0.36362343174027484,4,4,-4.1,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,95,1,3:28,1408,1408,Nicholas Kratholm missed Free Throw.,22,26,-4,0,0.24814095055318222,0.36362343174027484,4,4,-4.1,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,96,1,3:26,1406,1406,Dimencio Vaughn Defensive Rebound.,22,26,-4,2,0.24810373066236543,0.3635077779314111,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,97,1,3:08,1388,1388,Dimencio Vaughn missed Jumper.,22,26,-4,18,0.24778055503492538,0.362477701636803,4,4,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,98,1,3:05,1385,1385,Nicholas Kratholm Defensive Rebound.,22,26,-4,3,0.24772836519009397,0.36230747203675856,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,99,1,2:39,1359,1359,Nicholas Kratholm missed Layup.,22,26,-4,26,0.24728648928881591,0.3608387352812712,4,4,-4.1,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,100,1,2:36,1356,1356,Frederick Scott Defensive Rebound.,22,26,-4,3,0.24723595665195192,0.36066918278775106,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,101,1,2:31,1351,1351,Tyrel Bladen Turnover.,22,26,-4,5,0.247151577586038,0.3603861464999899,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,102,1,2:31,1351,1351,Steven Levnaic Steal.,22,26,-4,0,0.247151577586038,0.3603861464999899,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,103,1,2:08,1328,1328,Nicholas Kratholm missed Jumper.,22,26,-4,23,0.24675552707542564,0.35907094894807906,4,4,-4.1,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,104,1,2:05,1325,1325,James Towns Offensive Rebound.,22,26,-4,3,0.24670226215987875,0.3588970734350069,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,105,1,2:05,1325,1325,Foul on Frederick Scott.,22,26,-4,0,0.24670226215987875,0.3588970734350069,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,106,1,1:52,1312,1312,James Towns missed Layup.,22,26,-4,13,0.24646499363715002,0.35813497872322597,4,4,-4.1,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,107,1,1:48,1308,1308,Kimar Williams Defensive Rebound.,22,26,-4,4,0.24638951490546884,0.3578972599362232,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,108,1,1:47,1307,1307,Foul on Greg Kuakumensah.,22,26,-4,1,0.2463704393817144,0.35783756609585055,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,109,1,1:47,1307,1307,Stevie Jordan missed Free Throw.,22,26,-4,0,0.2463704393817144,0.35783756609585055,4,4,-4.1,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,TRUE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,110,1,1:47,1307,1307,Rider Deadball Team Rebound.,22,26,-4,0,0.2463704393817144,0.35783756609585055,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,111,1,1:47,1307,1307,Stevie Jordan made Free Throw.,22,27,-5,0,0.22024224863085579,0.32498570795886744,4,4,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,112,1,1:22,1282,1282,James Towns Turnover.,22,27,-5,25,0.21948561664397295,0.3231579245916235,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,113,1,1:22,1282,1282,Stevie Jordan Steal.,22,27,-5,0,0.21948561664397295,0.3231579245916235,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,114,1,1:18,1278,1278,Foul on Justin Roberts.,22,27,-5,4,0.21935696913110872,0.32285589390888364,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,115,1,1:18,1278,1278,Stevie Jordan made Free Throw.,22,28,-6,0,0.19504545330555725,0.29135471066480156,4,4,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,116,1,1:18,1278,1278,Stevie Jordan made Free Throw.,22,29,-7,0,0.17283185703939805,0.2617390670848057,4,4,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,117,1,1:04,1264,1264,Raheem Solomon made Three Point Jumper. Assisted by Marcus Hammond.,25,29,-4,14,0.2454481799480628,0.3551438949163887,4,4,-4.1,NA,NA,Niagara,made,Raheem Solomon,Marcus Hammond,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,118,1,0:41,1241,1241,Dimencio Vaughn made Three Point Jumper. Assisted by Tyrei Randall.,25,32,-7,23,0.17096206118039423,0.2580918177519379,4,4,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Tyrei Randall,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,119,1,0:30,1230,1230,Niagara  Timeout,25,32,-7,11,0.17034685301962385,0.25693048021354736,3,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,120,1,0:06,1206,1206,Greg Kuakumensah missed Jumper.,25,32,-7,24,0.16889535048902166,0.25425577865187754,3,4,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,121,1,0:06,1206,1206,Greg Kuakumensah Offensive Rebound.,25,32,-7,0,0.16889535048902166,0.25425577865187754,3,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,122,1,0:03,1203,1203,Greg Kuakumensah missed Jumper.,25,32,-7,3,0.1687097103361366,0.2539165923073383,3,4,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,123,1,0:03,1203,1203,Tyere Marshall Defensive Rebound.,25,32,-7,0,0.1687097103361366,0.2539165923073383,3,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,124,1,0:01,1201,1201,Tyere Marshall Turnover.,25,32,-7,2,0.16858684945217187,0.2536918072280752,3,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,125,1,0:01,1201,1201,Greg Kuakumensah Steal.,25,32,-7,0,0.16858684945217187,0.2536918072280752,3,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,126,1,0:00,1200,1200,Nick MacDonald made Three Point Jumper. Assisted by Greg Kuakumensah.,28,32,-4,1,0.24353009620857677,0.3504822574627354,3,4,-4.1,NA,NA,Niagara,made,Nick MacDonald,Greg Kuakumensah,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,128,2,20:00,1200,1200,PLAY,25,32,-7,0,0.1685256807687226,0.2535798049742589,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rider
+401172055,2020-01-17,Niagara,Rider,130,2,19:45,1185,1185,Justin Roberts Steal.,28,32,-4,0,0.2430370455241421,0.34934561606475834,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,131,2,19:34,1174,1174,Steven Levnaic missed Jumper.,28,32,-4,11,0.24268788617932915,0.34853012882509166,4,4,-4.1,NA,NA,Niagara,missed,Steven Levnaic,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,132,2,19:30,1170,1170,Dimencio Vaughn Defensive Rebound.,28,32,-4,4,0.2425629742830271,0.3482366209969002,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,133,2,19:14,1154,1154,Marcus Hammond Defensive Rebound.,28,32,-4,16,0.2420712768686348,0.3470746308123483,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,134,2,19:09,1149,1149,Nicholas Kratholm made Layup. Assisted by Marcus Hammond.,30,32,-2,5,0.30461259267301555,0.42146639838211875,4,4,-4.1,NA,NA,Niagara,made,Nicholas Kratholm,Marcus Hammond,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,135,2,18:56,1136,1136,Tyere Marshall made Layup. Assisted by Dimencio Vaughn.,30,34,-4,13,0.24152629457352634,0.34578077313639627,4,4,-4.1,NA,NA,Rider,made,Tyere Marshall,Dimencio Vaughn,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,136,2,18:56,1136,1136,Foul on Raheem Solomon.,30,34,-4,0,0.24152629457352634,0.34578077313639627,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,137,2,18:56,1136,1136,Tyere Marshall missed Free Throw.,30,34,-4,0,0.24152629457352634,0.34578077313639627,4,4,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,138,2,18:54,1134,1134,Raheem Solomon Defensive Rebound.,30,34,-4,2,0.2414658418126953,0.3456372907153564,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,139,2,18:33,1113,1113,Justin Roberts made Three Point Jumper. Assisted by Marcus Hammond.,33,34,-1,21,0.33974438120956113,0.45977704469918423,4,4,-4.1,NA,NA,Niagara,made,Justin Roberts,Marcus Hammond,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,140,2,18:20,1100,1100,Tyere Marshall made Layup. Assisted by Frederick Scott.,33,36,-3,13,0.2712912677997002,0.3806317124924965,4,4,-4.1,NA,NA,Rider,made,Tyere Marshall,Frederick Scott,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,141,2,17:52,1072,1072,Marcus Hammond made Jumper.,35,36,-1,28,0.3403923248175443,0.45893845488203483,4,4,-4.1,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,142,2,17:28,1048,1048,Frederick Scott missed Jumper.,35,36,-1,24,0.34075193851249386,0.45841549146052324,4,4,-4.1,NA,NA,Rider,missed,Frederick Scott,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,143,2,17:26,1046,1046,Rider Offensive Rebound.,35,36,-1,2,0.3407810361821203,0.458370448552782,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,144,2,17:06,1026,1026,Willy Nunez Jr. missed Jumper.,35,36,-1,20,0.34106340233101173,0.4579053607004155,4,4,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,145,2,17:03,1023,1023,Niagara Deadball Team Rebound.,35,36,-1,3,0.3411043005306836,0.45783310430243446,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,146,2,17:01,1021,1021,Foul on Stevie Jordan.,35,36,-1,2,0.3411313394469594,0.45778454385997147,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,147,2,16:46,1006,1006,Marcus Hammond made Jumper. Assisted by Steven Levnaic.,37,36,1,15,0.4216917031917163,0.5425901664710202,4,4,-4.1,NA,NA,Niagara,made,Marcus Hammond,Steven Levnaic,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,148,2,16:20,980,980,Willy Nunez Jr. missed Three Point Jumper.,37,36,1,26,0.42340471420793324,0.5432887483280009,4,4,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,149,2,16:17,977,977,Justin Roberts Defensive Rebound.,37,36,1,3,0.42360846841034894,0.5433737905363542,4,4,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,150,2,16:13,973,973,Marcus Hammond made Three Point Jumper. Assisted by Justin Roberts.,40,36,4,4,0.553872607803832,0.6676514613734916,4,4,-4.1,NA,NA,Niagara,made,Marcus Hammond,Justin Roberts,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,151,2,16:11,971,971,Rider  Timeout,40,36,4,2,0.5541857030506763,0.6678593796784702,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,152,2,15:57,957,957,Tyere Marshall missed Layup.,40,36,4,14,0.5563220430087314,0.6692739795089394,4,3,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,153,2,15:53,953,953,Tyere Marshall Offensive Rebound.,40,36,4,4,0.556905214458776,0.6696577590373897,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,154,2,15:52,952,952,Tyere Marshall missed Layup.,40,36,4,1,0.5570492547565694,0.669752393937558,4,3,-4.1,NA,NA,Rider,missed,Tyere Marshall,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,155,2,15:49,949,949,Nicholas Kratholm Defensive Rebound.,40,36,4,3,0.5574773212834041,0.6700332718324192,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,156,2,15:44,944,944,Justin Roberts made Three Point Jumper. Assisted by Marcus Hammond.,43,36,7,5,0.6827800948918122,0.7761235730743894,4,3,-4.1,NA,NA,Niagara,made,Justin Roberts,Marcus Hammond,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,157,2,15:34,934,934,Foul on Nicholas Kratholm.,43,36,7,10,0.6846195966523321,0.7773387706934464,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,158,2,15:34,934,934,Official TV Timeout,43,36,7,0,0.6846195966523321,0.7773387706934464,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,159,2,15:34,934,934,Stevie Jordan made Free Throw.,43,37,6,0,0.6448506351566741,0.7449051099293393,4,3,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,160,2,15:34,934,934,Stevie Jordan made Free Throw.,43,38,5,0,0.6029750581387402,0.7095125283609721,4,3,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,161,2,15:16,916,916,Justin Roberts made Three Point Jumper. Assisted by Marcus Hammond.,46,38,8,18,0.7251023730081704,0.8088335406387579,4,3,-4.1,NA,NA,Niagara,made,Justin Roberts,Marcus Hammond,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,162,2,15:01,901,901,Dimencio Vaughn made Layup.,46,40,6,15,0.6501055256935336,0.7483694250997712,4,3,-4.1,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,163,2,14:28,868,868,Marcus Hammond Turnover.,46,40,6,33,0.6550563304254874,0.7516188377265224,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,164,2,14:11,851,851,Kimar Williams missed Layup.,46,40,6,17,0.6576326837780362,0.7533157936163957,4,3,-4.1,NA,NA,Rider,missed,Kimar Williams,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,165,2,14:11,851,851,Raheem Solomon Block.,46,40,6,0,0.6576326837780362,0.7533157936163957,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,166,2,14:06,846,846,Kimar Williams Offensive Rebound.,46,40,6,5,0.6584059696083541,0.7538268285490572,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,167,2,14:05,845,845,Kimar Williams made Layup.,46,42,4,1,0.5704442278825891,0.6784058250016495,4,3,-4.1,NA,NA,Rider,made,Kimar Williams,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,168,2,13:49,829,829,Foul on Dimencio Vaughn.,46,42,4,16,0.5724839576583083,0.6797372628751808,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,169,2,13:49,829,829,Steven Levnaic missed Free Throw.,46,42,4,0,0.5724839576583083,0.6797372628751808,4,3,-4.1,NA,NA,Niagara,missed,Steven Levnaic,NA,FALSE,TRUE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,170,2,13:49,829,829,Niagara Deadball Team Rebound.,46,42,4,0,0.5724839576583083,0.6797372628751808,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,171,2,13:49,829,829,Steven Levnaic made Free Throw.,47,42,5,0,0.6177795301372955,0.7192422018994117,4,3,-4.1,NA,NA,Niagara,made,Steven Levnaic,NA,FALSE,TRUE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,172,2,13:24,804,804,Dimencio Vaughn missed Layup.,47,42,5,25,0.6217124180449034,0.7218780729146952,4,3,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,173,2,13:21,801,801,Frederick Scott Offensive Rebound.,47,42,5,3,0.6222147826424937,0.7222173646366524,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,174,2,13:20,800,800,Frederick Scott Turnover.,47,42,5,1,0.6223838871930887,0.722331704110308,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,175,2,13:20,800,800,Marcus Hammond Steal.,47,42,5,0,0.6223838871930887,0.722331704110308,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,176,2,13:14,794,794,Marcus Hammond missed Layup.,47,42,5,6,0.6234165583191713,0.7230313122748033,4,3,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,177,2,13:08,788,788,Dimencio Vaughn Defensive Rebound.,47,42,5,6,0.624481763883569,0.7237553546691309,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,178,2,13:07,787,787,Stevie Jordan made Jumper.,47,44,3,1,0.5309287897550139,0.6406691431795403,4,3,-4.1,NA,NA,Rider,made,Stevie Jordan,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,179,2,12:43,763,763,Shandon Brown missed Three Point Jumper.,47,44,3,24,0.5342890518716122,0.6428798958889431,4,3,-4.1,NA,NA,Niagara,missed,Shandon Brown,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,180,2,12:38,758,758,Willy Nunez Jr. Defensive Rebound.,47,44,3,5,0.5350483703825427,0.6433849900251729,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,181,2,12:35,755,755,Willy Nunez Jr. missed Three Point Jumper.,47,44,3,3,0.5355147084916612,0.6436960930125316,4,3,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,182,2,12:31,751,751,Greg Kuakumensah Defensive Rebound.,47,44,3,4,0.5361494396849144,0.6441205786742729,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,183,2,12:14,734,734,Greg Kuakumensah made Jumper. Assisted by Shandon Brown.,49,44,5,17,0.6358905039028706,0.7316301443359013,4,3,-4.1,NA,NA,Niagara,made,Greg Kuakumensah,Shandon Brown,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,184,2,11:58,718,718,Willy Nunez Jr. missed Jumper.,49,44,5,16,0.6397995911800791,0.7343481166030459,4,3,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,185,2,11:54,714,714,Kimar Williams Offensive Rebound.,49,44,5,4,0.6407183168481023,0.7349808541513507,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,186,2,11:50,710,710,Stevie Jordan missed Three Point Jumper.,49,44,5,4,0.6416145669646774,0.7355957079276567,4,3,-4.1,NA,NA,Rider,missed,Stevie Jordan,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,187,2,11:45,705,705,Shandon Brown Defensive Rebound.,49,44,5,5,0.6427060513795468,0.7363413251818699,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,188,2,11:39,699,699,Greg Kuakumensah made Dunk. Assisted by Nick MacDonald.,51,44,7,6,0.7320938519465566,0.8090881983430694,4,3,-4.1,NA,NA,Niagara,made,Greg Kuakumensah,Nick MacDonald,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,189,2,11:23,683,683,Kimar Williams missed Layup.,51,44,7,16,0.7357379620036781,0.8115176024103711,4,3,-4.1,NA,NA,Rider,missed,Kimar Williams,NA,FALSE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,190,2,11:21,681,681,Frederick Scott Offensive Rebound.,51,44,7,2,0.7361783249818992,0.8118098424112803,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,191,2,11:20,680,680,Frederick Scott made Layup.,51,46,5,1,0.6478028129976549,0.7397813239838689,4,3,-4.1,NA,NA,Rider,made,Frederick Scott,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,192,2,10:50,650,650,Nick MacDonald missed Three Point Jumper.,51,46,5,30,0.6535829010129856,0.7436337922566414,4,3,-4.1,NA,NA,Niagara,missed,Nick MacDonald,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,193,2,10:48,648,648,Rider Defensive Rebound.,51,46,5,2,0.653971798522394,0.7438928673789436,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,194,2,10:48,648,648,Official TV Timeout,51,46,5,0,0.653971798522394,0.7438928673789436,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,195,2,10:27,627,627,Frederick Scott made Layup.,51,48,3,21,0.5554685508233332,0.6567201730620184,4,3,-4.1,NA,NA,Rider,made,Frederick Scott,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,196,2,10:27,627,627,Foul on Greg Kuakumensah.,51,48,3,0,0.5554685508233332,0.6567201730620184,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,197,2,10:27,627,627,Frederick Scott missed Free Throw.,51,48,3,0,0.5554685508233332,0.6567201730620184,4,3,-4.1,NA,NA,Rider,missed,Frederick Scott,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,198,2,10:26,626,626,Niagara Defensive Rebound.,51,48,3,1,0.555625228935611,0.6568211269006672,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,199,2,10:08,608,608,Raheem Solomon missed Three Point Jumper.,51,48,3,18,0.558587780832983,0.6587485241298197,4,3,-4.1,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,200,2,10:04,604,604,Willy Nunez Jr. Defensive Rebound.,51,48,3,4,0.5592889561610888,0.6592101041622435,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,201,2,9:56,596,596,Allen Powell missed Three Point Jumper.,51,48,3,8,0.5607468257509579,0.6601764946490679,4,3,-4.1,NA,NA,Rider,missed,Allen Powell,NA,TRUE,FALSE,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,202,2,9:54,594,594,Stevie Jordan Offensive Rebound.,51,48,3,2,0.5611237110149743,0.6604277679311653,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,203,2,9:54,594,594,Foul on Greg Kuakumensah.,51,48,3,0,0.5611237110149743,0.6604277679311653,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,204,2,9:35,575,575,Stevie Jordan made Three Point Jumper. Assisted by Allen Powell.,51,51,0,19,0.3976123029887436,0.5,4,3,-4.1,NA,NA,Rider,made,Stevie Jordan,Allen Powell,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,205,2,9:07,547,547,Foul on Kimar Williams.,51,51,0,28,0.3991909697402785,0.5,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,206,2,9:07,547,547,Raheem Solomon made Free Throw.,52,51,1,0,0.4560681974241143,0.5579029724518614,4,3,-4.1,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,207,2,9:07,547,547,Raheem Solomon made Free Throw.,53,51,2,0,0.5141147896649297,0.6142734221114173,4,3,-4.1,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,208,2,8:45,525,525,Dimencio Vaughn missed Three Point Jumper.,53,51,2,22,0.5180291869755936,0.6167523577134691,4,3,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,209,2,8:41,521,521,Nick MacDonald Defensive Rebound.,53,51,2,4,0.5186810963484602,0.6171524757059778,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,210,2,8:25,505,505,James Towns missed Jumper.,53,51,2,16,0.5212065356164899,0.6186806409786187,4,3,-4.1,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,211,2,8:21,501,501,Dimencio Vaughn Defensive Rebound.,53,51,2,4,0.5218318745889421,0.6190564603625891,4,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,212,2,8:10,490,490,Frederick Scott made Layup. Assisted by Stevie Jordan.,53,53,0,11,0.40236321288428517,0.5,4,3,-4.1,NA,NA,Rider,made,Frederick Scott,Stevie Jordan,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,213,2,7:59,479,479,Niagara  Timeout,53,53,0,11,0.402987778564595,0.5,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,214,2,7:59,479,479,Official TV Timeout,53,53,0,0,0.402987778564595,0.5,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,215,2,7:44,464,464,Nick MacDonald made Three Point Jumper. Assisted by Justin Roberts.,56,53,3,15,0.5899539345944929,0.6798546492026447,3,3,-4.1,NA,NA,Niagara,made,Nick MacDonald,Justin Roberts,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,216,2,7:29,449,449,Dimencio Vaughn made Dunk. Assisted by Stevie Jordan.,56,55,1,15,0.4675583481425872,0.5635084005649097,3,3,-4.1,NA,NA,Rider,made,Dimencio Vaughn,Stevie Jordan,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,217,2,7:01,421,421,Justin Roberts made Layup.,58,55,3,28,0.6037666729168327,0.6895850734751547,3,3,-4.1,NA,NA,Niagara,made,Justin Roberts,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,218,2,6:44,404,404,Dimencio Vaughn missed Layup.,58,55,3,17,0.6096899351537025,0.6936871507317361,3,3,-4.1,NA,NA,Rider,missed,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,219,2,6:44,404,404,Nicholas Kratholm Block.,58,55,3,0,0.6096899351537025,0.6936871507317361,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,220,2,6:38,398,398,Nick MacDonald Defensive Rebound.,58,55,3,6,0.6117363190377221,0.6950788909756084,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,221,2,6:24,384,384,Marcus Hammond missed Jumper.,58,55,3,14,0.6165449370310704,0.698323992082211,3,3,-4.1,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,222,2,6:21,381,381,Frederick Scott Defensive Rebound.,58,55,3,3,0.617595282234211,0.6990313552684464,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,223,2,6:17,377,377,Frederick Scott Turnover.,58,55,3,4,0.6190135255983167,0.6999872275813099,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,224,2,6:17,377,377,Nicholas Kratholm Steal.,58,55,3,0,0.6190135255983167,0.6999872275813099,3,3,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,225,2,6:16,376,376,Rider  Timeout,58,55,3,1,0.6193717234792526,0.7002288807797049,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,226,2,5:57,357,357,Marcus Hammond made Three Point Jumper. Assisted by Nicholas Kratholm.,61,55,6,19,0.8004747742011137,0.8511403031539636,3,2,-4.1,NA,NA,Niagara,made,Marcus Hammond,Nicholas Kratholm,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,227,2,5:38,338,338,Frederick Scott made Dunk. Assisted by Stevie Jordan.,61,57,4,19,0.7011156268961342,0.7684087449279698,3,2,-4.1,NA,NA,Rider,made,Frederick Scott,Stevie Jordan,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,228,2,5:15,315,315,Justin Roberts missed Three Point Jumper.,61,57,4,23,0.714779243272818,0.7782976511113052,3,2,-4.1,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,229,2,5:12,312,312,Willy Nunez Jr. Defensive Rebound.,61,57,4,3,0.7167809213363978,0.7797674867519507,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,230,2,4:55,295,295,Willy Nunez Jr. made Three Point Jumper. Assisted by Stevie Jordan.,61,60,1,17,0.4989597100807755,0.5803577515625892,3,2,-4.1,NA,NA,Rider,made,Willy Nunez Jr.,Stevie Jordan,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,231,2,4:30,270,270,Nick MacDonald made Jumper. Assisted by Steven Levnaic.,63,60,3,25,0.6565432120029926,0.7242427872326178,3,2,-4.1,NA,NA,Niagara,made,Nick MacDonald,Steven Levnaic,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,232,2,4:13,253,253,Willy Nunez Jr. missed Three Point Jumper.,63,60,3,17,0.6548041351667846,0.7212054404751315,3,2,-4.1,NA,NA,Rider,missed,Willy Nunez Jr.,NA,TRUE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,233,2,4:10,250,250,Marcus Hammond Defensive Rebound.,63,60,3,3,0.6545874886958234,0.7207423299994198,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,234,2,4:07,247,247,Nick MacDonald missed Three Point Jumper.,63,60,3,3,0.6544414836494401,0.7203395624806979,3,2,-4.1,NA,NA,Niagara,missed,Nick MacDonald,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,235,2,4:03,243,243,Willy Nunez Jr. Defensive Rebound.,63,60,3,4,0.6543861861982145,0.7199225997274914,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,236,2,4:00,240,240,Stevie Jordan made Layup. Assisted by Frederick Scott.,63,62,1,3,0.5025095071560939,0.5779484012791622,3,2,-4.1,NA,NA,Rider,made,Stevie Jordan,Frederick Scott,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,237,2,4:00,240,240,Foul on Justin Roberts.,63,62,1,0,0.5025095071560939,0.5779484012791622,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,238,2,4:00,240,240,Stevie Jordan missed Free Throw.,63,62,1,0,0.5025095071560939,0.5779484012791622,3,2,-4.1,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,TRUE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,239,2,3:58,238,238,Raheem Solomon Defensive Rebound.,63,62,1,2,0.5027110627509416,0.5779182942120797,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,240,2,3:35,215,215,Greg Kuakumensah missed Jumper.,63,62,1,23,0.5072169477829956,0.5795786036860755,3,2,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,241,2,3:32,212,212,Frederick Scott Defensive Rebound.,63,62,1,3,0.5081879107372479,0.5801483976791213,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,242,2,3:14,194,194,Tyere Marshall made Layup. Assisted by Dimencio Vaughn.,63,64,-1,18,0.3479984077277957,0.41411242615990235,3,2,-4.1,NA,NA,Rider,made,Tyere Marshall,Dimencio Vaughn,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,243,2,2:48,168,168,Greg Kuakumensah missed Three Point Jumper.,63,64,-1,26,0.33911636299152415,0.40090262965146284,3,2,-4.1,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,244,2,2:44,164,164,Willy Nunez Jr. Defensive Rebound.,63,64,-1,4,0.3376488631695693,0.3987465829913125,3,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,245,2,2:25,145,145,Tyere Marshall made Layup. Assisted by Willy Nunez Jr..,63,66,-3,19,0.16492204738893781,0.20249189821827673,3,2,-4.1,NA,NA,Rider,made,Tyere Marshall,Willy Nunez Jr,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,246,2,2:24,144,144,Niagara  Timeout,63,66,-3,1,0.16392286528707395,0.20121745842773786,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,247,2,2:24,144,144,Official TV Timeout,63,66,-3,0,0.16392286528707395,0.20121745842773786,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,248,2,2:13,133,133,Justin Roberts made Layup.,65,66,-1,11,0.32437073182732334,0.37983359679172013,2,2,-4.1,NA,NA,Niagara,made,Justin Roberts,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,249,2,1:58,118,118,Dimencio Vaughn made Layup.,65,68,-3,15,0.1361888674900586,0.16605482353583353,2,2,-4.1,NA,NA,Rider,made,Dimencio Vaughn,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,250,2,1:31,91,91,Foul on Frederick Scott.,65,68,-3,27,0.10425602164782714,0.12603268042963692,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,251,2,1:24,84,84,Nicholas Kratholm missed Layup.,65,68,-3,7,0.09617742190093806,0.11595549239244192,2,2,-4.1,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,252,2,1:21,81,81,Frederick Scott Defensive Rebound.,65,68,-3,3,0.09280410151733402,0.11175223215948267,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,253,2,1:08,68,68,Foul on Nick MacDonald.,65,68,-3,13,0.07859386468478073,0.09409727237702974,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Rider
+401172055,2020-01-17,Niagara,Rider,254,2,0:54,54,54,Foul on Tyere Marshall.,65,68,-3,14,0.06452983295417312,0.07671048675913522,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,255,2,0:54,54,54,Tyere Marshall Turnover.,65,68,-3,0,0.06452983295417312,0.07671048675913522,2,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,256,2,0:34,34,34,Niagara  Timeout,65,68,-3,20,0.04702512446625191,0.05524156273369957,1,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,257,2,0:27,27,27,Justin Roberts made Three Point Jumper. Assisted by Marcus Hammond.,68,68,0,7,0.4591395671970329,0.5,1,2,-4.1,NA,NA,Niagara,made,Justin Roberts,Marcus Hammond,TRUE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,258,2,0:07,7,7,Stevie Jordan missed Layup.,68,68,0,20,0.4634488790170408,0.5,1,2,-4.1,NA,NA,Rider,missed,Stevie Jordan,NA,FALSE,FALSE,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,259,2,0:03,3,3,Raheem Solomon Defensive Rebound.,68,68,0,4,0.4643363712175451,0.5,1,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,Niagara
+401172055,2020-01-17,Niagara,Rider,260,2,0:01,1,1,Foul on Stevie Jordan.,68,68,0,2,0.4647826804982986,0.5,1,2,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,261,2,0:01,1,1,Rider  Timeout,68,68,0,0,0.4647826804982986,0.5,1,1,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401172055,2020-01-17,Niagara,Rider,262,2,0:00,0,0,Marcus Hammond made Jumper. Assisted by Justin Roberts.,70,68,2,1,1,1,1,1,-4.1,NA,NA,Niagara,made,Marcus Hammond,Justin Roberts,FALSE,FALSE,Niagara,Rider
+401172055,2020-01-17,Niagara,Rider,263,2,0:00,0,0,End of 2nd half,70,68,2,0,NA,NA,1,1,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,NA
+401172055,2020-01-17,Niagara,Rider,264,2,0:00,0,0,End of Game,70,68,2,0,1,1,1,1,-4.1,NA,NA,NA,NA,NA,NA,NA,NA,Rider,NA
