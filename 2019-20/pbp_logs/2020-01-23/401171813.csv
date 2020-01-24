@@ -1,0 +1,338 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after,win_prob_naive
+401171813,2020-01-23,Hofstra,Delaware,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7545479402286529,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,2,1,19:48,2388,2388,Tareq Coburn missed Layup.,0,0,0,12,0.7542984952226628,0.5,4,4,7,NA,NA,Hofstra,missed,Tareq Coburn,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,3,1,19:48,2388,2388,Dylan Painter Block.,0,0,0,0,0.7542984952226628,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,4,1,19:46,2386,2386,Justyn Mutts Defensive Rebound.,0,0,0,2,0.7542565565815498,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,5,1,19:23,2363,2363,Nate Darling made Three Point Jumper. Assisted by Dylan Painter.,0,3,-3,23,0.7004026501348712,0.4330084573040888,4,4,7,NA,NA,Delaware,made,Nate Darling,Dylan Painter,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,6,1,18:58,2338,2338,Jalen Ray made Jumper. Assisted by Isaac Kante.,2,3,-1,25,0.735925141380542,0.4772775329142592,4,4,7,NA,NA,Hofstra,made,Jalen Ray,Isaac Kante,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,7,1,18:39,2319,2319,Dylan Painter missed Jumper.,2,3,-1,19,0.735313527156744,0.477068206216988,4,4,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,8,1,18:35,2315,2315,Tareq Coburn Defensive Rebound.,2,3,-1,4,0.7351831249250316,0.4770238682015334,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,9,1,18:18,2298,2298,Isaac Kante missed Jumper.,2,3,-1,17,0.734622488904414,0.47683444959323684,4,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,10,1,18:15,2295,2295,Dylan Painter Defensive Rebound.,2,3,-1,3,0.7345224672249442,0.47680086405453603,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,11,1,18:09,2289,2289,Nate Darling missed Three Point Jumper.,2,3,-1,6,0.7343214408488762,0.4767335562895253,4,4,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,12,1,18:05,2285,2285,Justyn Mutts Offensive Rebound.,2,3,-1,4,0.7341866929859225,0.4766885854794416,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,13,1,18:04,2284,2284,Justyn Mutts made Jumper.,2,5,-3,1,0.6961601980442261,0.43043532067224205,4,4,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,14,1,17:48,2268,2268,Foul on Nate Darling.,2,5,-3,16,0.6952622232842343,0.42990259105529255,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,15,1,17:40,2260,2260,Tareq Coburn missed Three Point Jumper.,2,5,-3,8,0.6948083875228942,0.4296350218399352,4,4,7,NA,NA,Hofstra,missed,Tareq Coburn,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,16,1,17:34,2254,2254,Justyn Mutts Defensive Rebound.,2,5,-3,6,0.6944658954067697,0.42943385099328796,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,17,1,17:30,2250,2250,Ryan Allen missed Three Point Jumper.,2,5,-3,4,0.6942365617298712,0.42929951130972055,4,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,18,1,17:29,2249,2249,Hofstra Defensive Rebound.,2,5,-3,1,0.6941791027396207,0.4292658988850709,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,19,1,17:20,2240,2240,Jalen Ray missed Jumper.,2,5,-3,9,0.6936597145089833,0.4289629084724894,4,4,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,20,1,17:17,2237,2237,Isaac Kante Offensive Rebound.,2,5,-3,3,0.6934856832730967,0.4288617263502592,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,21,1,17:17,2237,2237,Foul on Ryan Allen.,2,5,-3,0,0.6934856832730967,0.4288617263502592,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,22,1,17:17,2237,2237,Isaac Kante missed Free Throw.,2,5,-3,0,0.6934856832730967,0.4288617263502592,4,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,23,1,17:17,2237,2237,Hofstra Offensive Rebound.,2,5,-3,0,0.6934856832730967,0.4288617263502592,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,24,1,17:17,2237,2237,Isaac Kante made Free Throw.,3,5,-2,0,0.7134021065967799,0.4523951664921712,4,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,25,1,17:01,2221,2221,Kevin Anderson made Layup.,3,7,-4,16,0.671688577159384,0.4049355910500379,4,4,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,26,1,16:47,2207,2207,Desure Buie made Jumper.,5,7,-2,14,0.7119879015551274,0.451709740701574,4,4,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,27,1,16:24,2184,2184,Dylan Painter missed Jumper.,5,7,-2,23,0.7108768780916976,0.4511809123319471,4,4,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,28,1,16:23,2183,2183,Isaac Kante Defensive Rebound.,5,7,-2,1,0.7108280436320675,0.45115786546126196,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,29,1,16:23,2183,2183,Foul on Dylan Painter.,5,7,-2,0,0.7108280436320675,0.45115786546126196,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,30,1,16:15,2175,2175,Eli Pemberton missed Jumper.,5,7,-2,8,0.7104357780690259,0.45097334763387426,4,4,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,31,1,16:11,2171,2171,Kevin Anderson Defensive Rebound.,5,7,-2,4,0.7102385846523768,0.4508809989309483,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,32,1,16:08,2168,2168,Justyn Mutts made Layup. Assisted by Ryan Allen.,5,9,-4,3,0.6678397276373403,0.4025663451402468,4,4,7,NA,NA,Delaware,made,Justyn Mutts,Ryan Allen,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,33,1,15:46,2146,2146,Isaac Kante missed Jumper.,5,9,-4,22,0.6661959840548938,0.4015752262181732,4,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,34,1,15:42,2142,2142,Justyn Mutts Defensive Rebound.,5,9,-4,4,0.6658940543475561,0.40139429806864013,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,35,1,15:35,2135,2135,Justyn Mutts made Jumper. Assisted by Kevin Anderson.,5,11,-6,7,0.6193519659362033,0.35400774320904577,4,4,7,NA,NA,Delaware,made,Justyn Mutts,Kevin Anderson,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,36,1,15:19,2119,2119,Eli Pemberton missed Jumper.,5,11,-6,16,0.6176985398001147,0.3529688161547928,4,4,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,37,1,15:16,2116,2116,Ryan Allen Defensive Rebound.,5,11,-6,3,0.6173864169618414,0.3527734613975927,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,38,1,15:10,2110,2110,Official TV Timeout,5,11,-6,6,0.6167601601309571,0.35238220593363895,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,39,1,14:57,2097,2097,Nate Darling made Three Point Jumper. Assisted by Collin Goss.,5,14,-9,13,0.5408803275778664,0.28527006044957826,4,4,7,NA,NA,Delaware,made,Nate Darling,Collin Goss,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,40,1,14:42,2082,2082,Foul on Collin Goss.,5,14,-9,15,0.5386729950493255,0.28394861510129465,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,41,1,14:42,2082,2082,Isaac Kante made Free Throw.,6,14,-8,0,0.5640891978943523,0.3052999445257872,4,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,42,1,14:42,2082,2082,Isaac Kante made Free Throw.,7,14,-7,0,0.5891730668663249,0.3275224166536885,4,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,43,1,14:16,2056,2056,Kevin Anderson made Jumper.,7,16,-9,26,0.5347979081423054,0.2816462340712498,4,4,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,44,1,14:08,2048,2048,Eli Pemberton Turnover.,7,16,-9,8,0.5335928336400402,0.2809345591797886,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,45,1,14:08,2048,2048,Kevin Anderson Steal.,7,16,-9,0,0.5335928336400402,0.2809345591797886,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,46,1,14:03,2043,2043,Ryan Allen missed Three Point Jumper.,7,16,-9,5,0.5328365749779789,0.28048894456592927,4,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,47,1,14:01,2041,2041,Jalen Ray Defensive Rebound.,7,16,-9,2,0.5325334030975689,0.28031051920801897,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,48,1,14:01,2041,2041,Foul on Justyn Mutts.,7,16,-9,0,0.5325334030975689,0.28031051920801897,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,49,1,13:46,2026,2026,Desure Buie Turnover.,7,16,-9,15,0.5302473462699451,0.27896897012710237,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,50,1,13:20,2000,2000,Nate Darling missed Jumper.,7,16,-9,26,0.5262328113661916,0.27662885866330483,4,4,7,NA,NA,Delaware,missed,Nate Darling,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,51,1,13:16,1996,1996,Isaac Kante Defensive Rebound.,7,16,-9,4,0.5256092451069135,0.2762670966460523,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,52,1,13:11,1991,1991,Eli Pemberton made Layup.,9,16,-7,5,0.5778387569028469,0.32064596388121797,4,4,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,53,1,12:46,1966,1966,Foul on Collin Goss.,9,16,-7,25,0.574595781189291,0.3187134574685201,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,54,1,12:46,1966,1966,Collin Goss Turnover.,9,16,-7,0,0.574595781189291,0.3187134574685201,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,55,1,12:36,1956,1956,Foul on Nate Darling.,9,16,-7,10,0.5732823835364833,0.31793458600028446,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,56,1,12:36,1956,1956,Isaac Kante made Free Throw.,10,16,-6,0,0.5997193629974503,0.34203471727695506,4,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,57,1,12:36,1956,1956,Isaac Kante made Free Throw.,11,16,-5,0,0.6255881637343819,0.36697877578473825,4,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,58,1,12:23,1943,1943,Johnny McCoy Turnover.,11,16,-5,13,0.6242541477055003,0.36619969012124537,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,59,1,12:07,1927,1927,Stafford Trueheart made Three Point Jumper. Assisted by Desure Buie.,14,16,-2,16,0.6968211796343103,0.444952121893725,4,4,7,NA,NA,Hofstra,made,Stafford Trueheart,Desure Buie,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,60,1,11:39,1899,1899,Nate Darling Turnover.,14,16,-2,28,0.695104512596019,0.4442317424125001,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,61,1,11:39,1899,1899,Desure Buie Steal.,14,16,-2,0,0.695104512596019,0.4442317424125001,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,62,1,11:33,1893,1893,Stafford Trueheart made Jumper. Assisted by Desure Buie.,16,16,0,6,0.7401918145500529,0.5,4,4,7,NA,NA,Hofstra,made,Stafford Trueheart,Desure Buie,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,63,1,11:09,1869,1869,Jacob Cushing missed Three Point Jumper.,16,16,0,24,0.7393074049367979,0.5,4,4,7,NA,NA,Delaware,missed,Jacob Cushing,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,64,1,11:04,1864,1864,Kevin Schutte Defensive Rebound.,16,16,0,5,0.7391204986304399,0.5,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,65,1,10:51,1851,1851,Desure Buie made Jumper.,18,16,2,13,0.780378414088666,0.5570037814525133,4,4,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,66,1,10:28,1828,1828,Kevin Anderson missed Jumper.,18,16,2,23,0.7800109929667108,0.5576002052439307,4,4,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,67,1,10:24,1824,1824,Dylan Painter Offensive Rebound.,18,16,2,4,0.7799459947872108,0.5577044293590058,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,68,1,10:22,1822,1822,Kevin Anderson missed Three Point Jumper.,18,16,2,2,0.7799133844756079,0.557756605665876,4,4,7,NA,NA,Delaware,missed,Kevin Anderson,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,69,1,10:17,1817,1817,Stafford Trueheart Defensive Rebound.,18,16,2,5,0.7798315463487872,0.5578872436572678,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,70,1,10:12,1812,1812,Stafford Trueheart missed Three Point Jumper.,18,16,2,5,0.7797492808040152,0.5580181787143008,4,4,7,NA,NA,Hofstra,missed,Stafford Trueheart,NA,TRUE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,71,1,10:08,1808,1808,Eli Pemberton Offensive Rebound.,18,16,2,4,0.7796831764264344,0.5581231535105275,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,72,1,10:03,1803,1803,Eli Pemberton made Layup.,20,16,4,5,0.8171893304074984,0.614948976545666,4,4,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,73,1,10:02,1802,1802,Delaware  Timeout,20,16,4,1,0.8171908235011068,0.6149995676756664,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,74,1,9:41,1781,1781,Nate Darling missed Three Point Jumper.,20,16,4,21,0.8172219199856668,0.6160682882700095,3,4,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,75,1,9:36,1776,1776,Kevin Schutte Defensive Rebound.,20,16,4,5,0.8172294026548066,0.6163246894878874,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,76,1,9:14,1754,1754,Jalen Ray made Three Point Jumper. Assisted by Stafford Trueheart.,23,16,7,22,0.8649486186722637,0.6980206174358156,3,4,7,NA,NA,Hofstra,made,Jalen Ray,Stafford Trueheart,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,77,1,8:59,1739,1739,Justyn Mutts Turnover.,23,16,7,15,0.8652606483932969,0.6992485714647848,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,78,1,8:45,1725,1725,Foul on Justyn Mutts.,23,16,7,14,0.8655569131632593,0.7004066848235114,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,79,1,8:45,1725,1725,Eli Pemberton made Free Throw.,24,16,8,0,0.8790592432504932,0.7252300117628305,3,4,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,80,1,8:45,1725,1725,Eli Pemberton made Free Throw.,25,16,9,0,0.89137569386665,0.748734412884814,3,4,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,81,1,8:16,1696,1696,Nate Darling Turnover.,25,16,9,29,0.892222879426384,0.7515441780034584,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,82,1,7:59,1679,1679,Desure Buie missed Layup.,25,16,9,17,0.8927243779901363,0.7532055926395474,3,4,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,83,1,7:55,1675,1675,Dylan Painter Defensive Rebound.,25,16,9,4,0.8928381802878219,0.753590361136725,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,84,1,7:51,1671,1671,Foul on Stafford Trueheart.,25,16,9,4,0.8929502755884577,0.7539726079532525,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,85,1,7:51,1671,1671,Official TV Timeout,25,16,9,0,0.8929502755884577,0.7539726079532525,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,86,1,7:51,1671,1671,Kevin Anderson missed Free Throw.,25,16,9,0,0.8929502755884577,0.7539726079532525,3,4,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,TRUE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,87,1,7:51,1671,1671,Delaware Offensive Rebound.,25,16,9,0,0.8929502755884577,0.7539726079532525,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,88,1,7:51,1671,1671,Kevin Anderson made Free Throw.,25,17,8,0,0.8804609689350043,0.7301686426663356,3,4,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,89,1,7:31,1651,1651,Eli Pemberton missed Three Point Jumper.,25,17,8,20,0.8809346586601525,0.731942328516557,3,4,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,90,1,7:29,1649,1649,Dylan Painter Defensive Rebound.,25,17,8,2,0.8809801536043064,0.7321172387474024,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,91,1,7:29,1649,1649,Foul on Tareq Coburn.,25,17,8,0,0.8809801536043064,0.7321172387474024,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,92,1,7:14,1634,1634,Justyn Mutts missed Jumper.,25,17,8,15,0.8813123390486156,0.7334176169866579,3,4,7,NA,NA,Delaware,missed,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,93,1,7:10,1630,1630,Isaac Kante Defensive Rebound.,25,17,8,4,0.8813985394839918,0.7337614418982575,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,94,1,7:05,1625,1625,Isaac Kante missed Layup.,25,17,8,5,0.8815050868696575,0.7341897967177828,3,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,95,1,7:02,1622,1622,Dylan Painter Defensive Rebound.,25,17,8,3,0.8815684286839034,0.7344461327171906,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,96,1,6:55,1615,1615,Ryan Allen missed Three Point Jumper.,25,17,8,7,0.8817147154310657,0.735042580169265,3,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,97,1,6:52,1612,1612,Omar Silverio Defensive Rebound.,25,17,8,3,0.8817768363844872,0.7352975974899028,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,98,1,6:36,1596,1596,Foul on Eli Pemberton.,25,17,8,16,0.8821038335714879,0.7366538488517688,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,99,1,6:36,1596,1596,Eli Pemberton Turnover.,25,17,8,0,0.8821038335714879,0.7366538488517688,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,100,1,6:14,1574,1574,Ryan Allen missed Layup.,25,17,8,22,0.8825480282014162,0.7385178770967018,3,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,101,1,6:13,1573,1573,Tareq Coburn Defensive Rebound.,25,17,8,1,0.8825682370152015,0.7386028359779442,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,102,1,6:13,1573,1573,Foul on Ryan Allen.,25,17,8,0,0.8825682370152015,0.7386028359779442,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,103,1,6:13,1573,1573,Tareq Coburn made Free Throw.,26,17,9,0,0.8953711133533984,0.7628845062259484,3,4,7,NA,NA,Hofstra,made,Tareq Coburn,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,104,1,6:13,1573,1573,Tareq Coburn made Free Throw.,27,17,10,0,0.9069253709619786,0.7855654540971436,3,4,7,NA,NA,Hofstra,made,Tareq Coburn,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,105,1,5:58,1558,1558,Dylan Painter missed Jumper.,27,17,10,15,0.9073133974955069,0.7869596239856232,3,4,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,106,1,5:56,1556,1556,Dylan Painter Offensive Rebound.,27,17,10,2,0.9073655031730611,0.7871462938758296,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,107,1,5:55,1555,1555,Dylan Painter made Dunk.,27,19,8,1,0.8829348608030104,0.7401394248129738,3,4,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,108,1,5:27,1527,1527,Isaac Kante missed Layup.,27,19,8,28,0.8835270403018256,0.7425738726777052,3,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,109,1,5:23,1523,1523,Dylan Painter Defensive Rebound.,27,19,8,4,0.8836149736020482,0.742927777120363,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,110,1,5:20,1520,1520,Foul on Isaac Kante.,27,19,8,3,0.8836816031788083,0.7431944070640354,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,111,1,5:20,1520,1520,Dylan Painter missed Free Throw.,27,19,8,0,0.8836816031788083,0.7431944070640354,3,4,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,TRUE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,112,1,5:20,1520,1520,Delaware Offensive Rebound.,27,19,8,0,0.8836816031788083,0.7431944070640354,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,113,1,5:20,1520,1520,Dylan Painter made Free Throw.,27,20,7,0,0.869317283753484,0.7170364371807588,3,4,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,114,1,5:06,1506,1506,Foul on Kevin Anderson.,27,20,7,14,0.8695767996847159,0.7182081587242004,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,115,1,5:06,1506,1506,Jalen Ray missed Free Throw.,27,20,7,0,0.8695767996847159,0.7182081587242004,3,4,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,116,1,5:06,1506,1506,Hofstra Offensive Rebound.,27,20,7,0,0.8695767996847159,0.7182081587242004,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,117,1,5:06,1506,1506,Jalen Ray made Free Throw.,28,20,8,0,0.8840011343636445,0.7444536178889359,3,4,7,NA,NA,Hofstra,made,Jalen Ray,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,118,1,4:48,1488,1488,Kevin Anderson made Layup.,28,22,6,18,0.8539134419821016,0.6917886778821948,3,4,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,119,1,4:27,1467,1467,Tareq Coburn missed Jumper.,28,22,6,21,0.8542543808599745,0.6934849570754132,3,4,7,NA,NA,Hofstra,missed,Tareq Coburn,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,120,1,4:24,1464,1464,Isaac Kante Offensive Rebound.,28,22,6,3,0.8543071521436242,0.6937334423043576,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,121,1,4:23,1463,1463,Isaac Kante made Jumper.,30,22,8,1,0.8850969007764801,0.7485131508324845,3,4,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,122,1,4:05,1445,1445,Dylan Painter made Layup. Assisted by Nate Darling.,30,24,6,18,0.8546644829810519,0.6953417167286235,3,4,7,NA,NA,Delaware,made,Dylan Painter,Nate Darling,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,123,1,4:05,1445,1445,Foul on Isaac Kante.,30,24,6,0,0.8546644829810519,0.6953417167286235,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,124,1,4:05,1445,1445,Dylan Painter made Free Throw.,30,25,5,0,0.836734424727291,0.6654500088529988,3,4,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,125,1,3:52,1432,1432,Jalen Ray missed Three Point Jumper.,30,25,5,13,0.8368747744870877,0.6664011139921133,3,4,7,NA,NA,Hofstra,missed,Jalen Ray,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,126,1,3:48,1428,1428,Justyn Mutts Defensive Rebound.,30,25,5,4,0.8369139197482652,0.666688645332716,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,127,1,3:46,1426,1426,Official TV Timeout,30,25,5,2,0.8369328384087752,0.6668315928355852,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,128,1,3:44,1424,1424,Nate Darling made Three Point Jumper. Assisted by Justyn Mutts.,30,28,2,2,0.7718873230805534,0.5690097824007856,3,4,7,NA,NA,Delaware,made,Nate Darling,Justyn Mutts,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,129,1,3:30,1410,1410,Tareq Coburn Turnover.,30,28,2,14,0.7715721821316425,0.5694445566131064,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,130,1,3:30,1410,1410,Nate Darling Steal.,30,28,2,0,0.7715721821316425,0.5694445566131064,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,131,1,3:30,1410,1410,Foul on Tareq Coburn.,30,28,2,0,0.7715721821316425,0.5694445566131064,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,132,1,3:10,1390,1390,Ryan Allen missed Three Point Jumper.,30,28,2,20,0.7711011648089606,0.5700529581558398,3,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,133,1,3:09,1389,1389,Justyn Mutts Offensive Rebound.,30,28,2,1,0.771077084416069,0.5700831042565394,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,134,1,3:09,1389,1389,Justyn Mutts made Layup.,30,30,0,0,0.717523997256467,0.5,3,4,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,135,1,3:09,1389,1389,Foul on Eli Pemberton.,30,30,0,0,0.717523997256467,0.5,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,136,1,3:09,1389,1389,Justyn Mutts made Free Throw.,30,31,-1,0,0.6880712678346192,0.4647846245795455,3,4,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,137,1,2:52,1372,1372,Jalen Ray missed Jumper.,30,31,-1,17,0.6868949319889246,0.46452559227823725,3,4,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,138,1,2:49,1369,1369,Ryan Allen Defensive Rebound.,30,31,-1,3,0.686686246211816,0.4644799830865944,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,139,1,2:41,1361,1361,Kevin Anderson Turnover.,30,31,-1,8,0.6861280862036887,0.4643583077411053,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,140,1,2:41,1361,1361,Jalen Ray Steal.,30,31,-1,0,0.6861280862036887,0.4643583077411053,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,141,1,2:30,1350,1350,Desure Buie missed Three Point Jumper.,30,31,-1,11,0.6853565587069458,0.4641905083779841,3,4,7,NA,NA,Hofstra,missed,Desure Buie,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,142,1,2:26,1346,1346,Kevin Anderson Defensive Rebound.,30,31,-1,4,0.6850748071067111,0.4641292355580144,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,143,1,2:06,1326,1326,Justyn Mutts made Jumper.,30,33,-3,20,0.617907018651034,0.3929505156084535,3,4,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,144,1,1:44,1304,1304,Eli Pemberton missed Layup.,30,33,-3,22,0.6155147938583284,0.3919415435079427,3,4,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,145,1,1:41,1301,1301,Justyn Mutts Defensive Rebound.,30,33,-3,3,0.615184554571374,0.39180088913456795,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,146,1,1:38,1298,1298,Dylan Painter made Layup. Assisted by Nate Darling.,30,35,-5,3,0.5434396108366379,0.324338601011039,3,4,7,NA,NA,Delaware,made,Dylan Painter,Nate Darling,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,147,1,1:38,1298,1298,Foul on Jalen Ray.,30,35,-5,0,0.5434396108366379,0.324338601011039,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,148,1,1:38,1298,1298,Dylan Painter made Free Throw.,30,36,-6,0,0.5068537718976711,0.2930358850238102,3,4,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,149,1,1:29,1289,1289,Desure Buie made Jumper.,32,36,-4,9,0.5783865814870176,0.35674267576301516,3,4,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,150,1,1:28,1288,1288,Hofstra  Timeout,32,36,-4,1,0.5782550648351861,0.3566806026144901,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,151,1,1:12,1272,1272,Foul on Kevin Schutte.,32,36,-4,16,0.5761260846436553,0.35566678674091673,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,152,1,1:12,1272,1272,Dylan Painter made Free Throw.,32,37,-5,0,0.5395012762684839,0.32239716065435847,3,3,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,153,1,1:12,1272,1272,Dylan Painter made Free Throw.,32,38,-6,0,0.5024448905518264,0.2908349112353167,3,3,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,154,1,0:55,1255,1255,Omar Silverio missed Three Point Jumper.,32,38,-6,17,0.49945918914491655,0.28931694934408797,3,3,7,NA,NA,Hofstra,missed,Omar Silverio,NA,TRUE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,155,1,0:52,1252,1252,Jalen Ray Offensive Rebound.,32,38,-6,3,0.4989226678495943,0.28904154329621007,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,156,1,0:47,1247,1247,Desure Buie made Jumper.,34,38,-4,5,0.5726948474426707,0.3539922705125843,3,3,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,157,1,0:33,1233,1233,Nate Darling missed Three Point Jumper.,34,38,-4,14,0.5707094757877229,0.3529976159843984,3,3,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,158,1,0:30,1230,1230,Stafford Trueheart Defensive Rebound.,34,38,-4,3,0.5702774921258892,0.35277853830584055,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,159,1,0:06,1206,1206,Jalen Ray made Three Point Jumper. Assisted by Desure Buie.,37,38,-1,24,0.6747404245629363,0.46164542829345145,3,3,7,NA,NA,Hofstra,made,Jalen Ray,Desure Buie,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,160,1,0:00,1200,1200,End of 1st half,37,38,-1,6,0.6742790290129592,0.4615187446422248,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,NA,NA
+401171813,2020-01-23,Hofstra,Delaware,161,2,20:00,1200,1200,PLAY,37,38,-1,0,0.6742790290129592,0.4615187446422248,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,162,2,19:39,1179,1179,Foul on Jalen Ray.,37,38,-1,21,0.672679228732631,0.461086260048513,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,163,2,19:33,1173,1173,Nate Darling missed Three Point Jumper.,37,38,-1,6,0.6722255720520013,0.46096520429102095,4,4,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,164,2,19:29,1169,1169,Dylan Painter Offensive Rebound.,37,38,-1,4,0.6719237757242665,0.46088498014134804,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,165,2,19:27,1167,1167,Dylan Painter missed Layup.,37,38,-1,2,0.6717730460656434,0.4608449956746037,4,4,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,166,2,19:24,1164,1164,Isaac Kante Defensive Rebound.,37,38,-1,3,0.6715471397310441,0.46078516320620144,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,167,2,19:18,1158,1158,Eli Pemberton missed Jumper.,37,38,-1,6,0.67109590532881,0.4606659502849381,4,4,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,168,2,19:15,1155,1155,Nate Darling Defensive Rebound.,37,38,-1,3,0.670870523123306,0.4606065331705838,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,169,2,19:15,1155,1155,Foul on Eli Pemberton.,37,38,-1,0,0.670870523123306,0.4606065331705838,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,170,2,18:50,1130,1130,Ryan Allen missed Three Point Jumper.,37,38,-1,25,0.6689944362207638,0.46011360711529603,4,4,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,171,2,18:46,1126,1126,Jalen Ray Defensive Rebound.,37,38,-1,4,0.6686939842480286,0.46003468643677187,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,172,2,18:42,1122,1122,Tareq Coburn missed Three Point Jumper.,37,38,-1,4,0.6683932768068623,0.4599556318666743,4,4,7,NA,NA,Hofstra,missed,Tareq Coburn,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,173,2,18:38,1118,1118,Nate Darling Defensive Rebound.,37,38,-1,4,0.6680922486183519,0.45987639999485147,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,174,2,18:34,1114,1114,Nate Darling missed Layup.,37,38,-1,4,0.6677908342851573,0.4597969474156686,4,4,7,NA,NA,Delaware,missed,Nate Darling,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,175,2,18:31,1111,1111,Desure Buie Defensive Rebound.,37,38,-1,3,0.6675644807205383,0.45973718703344885,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,176,2,18:13,1093,1093,Isaac Kante missed Jumper.,37,38,-1,18,0.6661994712848742,0.4593744798069461,4,4,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,177,2,18:10,1090,1090,Justyn Mutts Defensive Rebound.,37,38,-1,3,0.6659705621093965,0.45931316695368696,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,178,2,17:57,1077,1077,Justyn Mutts made Jumper.,37,40,-3,13,0.5883501428488151,0.37928653041921767,4,4,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,179,2,17:38,1058,1058,Tareq Coburn missed Three Point Jumper.,37,40,-3,19,0.5859484020438005,0.37813041472870274,4,4,7,NA,NA,Hofstra,missed,Tareq Coburn,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,180,2,17:34,1054,1054,Justyn Mutts Defensive Rebound.,37,40,-3,4,0.5854340335593842,0.37788050556775377,4,4,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,181,2,17:27,1047,1047,Kevin Anderson made Layup. Assisted by Nate Darling.,37,42,-5,7,0.5019380328700647,0.30278544491739434,4,4,7,NA,NA,Delaware,made,Kevin Anderson,Nate Darling,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,182,2,17:27,1047,1047,Hofstra  Timeout,37,42,-5,0,0.5019380328700647,0.30278544491739434,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,183,2,17:22,1042,1042,Foul on Isaac Kante.,37,42,-5,5,0.5010348241566153,0.3023035485361987,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,184,2,17:12,1032,1032,Dylan Painter made Layup. Assisted by Justyn Mutts.,37,44,-7,10,0.41590490272074626,0.2355148240687048,4,3,7,NA,NA,Delaware,made,Dylan Painter,Justyn Mutts,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,185,2,16:59,1019,1019,Desure Buie missed Jumper.,37,44,-7,13,0.41291979684248137,0.23393351382455094,4,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,186,2,16:56,1016,1016,Nate Darling Defensive Rebound.,37,44,-7,3,0.4122177855691228,0.2335601006084452,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,187,2,16:52,1012,1012,Nate Darling missed Three Point Jumper.,37,44,-7,4,0.41127366723358244,0.23305698297833974,4,3,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,188,2,16:51,1011,1011,Stafford Trueheart Defensive Rebound.,37,44,-7,1,0.41103615955152245,0.2329302494457354,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,189,2,16:51,1011,1011,Foul on Dylan Painter.,37,44,-7,0,0.41103615955152245,0.2329302494457354,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,190,2,16:36,996,996,Kevin Schutte made Layup. Assisted by Desure Buie.,39,44,-5,15,0.49223126838135906,0.29752151930123233,4,3,7,NA,NA,Hofstra,made,Kevin Schutte,Desure Buie,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,191,2,16:16,976,976,Justyn Mutts made Jumper.,39,46,-7,20,0.4023123200196183,0.2282300868728821,4,3,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,192,2,15:50,950,950,Omar Silverio missed Three Point Jumper.,39,46,-7,26,0.3956786007108066,0.2246362046815266,4,3,7,NA,NA,Hofstra,missed,Omar Silverio,NA,TRUE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,193,2,15:47,947,947,Omar Silverio Offensive Rebound.,39,46,-7,3,0.39496411536508425,0.22425323710471215,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,194,2,15:45,945,945,Omar Silverio Turnover.,39,46,-7,2,0.3944933434372601,0.2240013637198549,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,195,2,15:45,945,945,Ryan Allen Steal.,39,46,-7,0,0.3944933434372601,0.2240013637198549,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,196,2,15:43,943,943,Foul on Ryan Allen.,39,46,-7,2,0.39402685997381054,0.2237521427296982,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,197,2,15:43,943,943,Ryan Allen Turnover.,39,46,-7,0,0.39402685997381054,0.2237521427296982,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,198,2,15:43,943,943,Official TV Timeout,39,46,-7,0,0.39402685997381054,0.2237521427296982,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,199,2,15:30,930,930,Desure Buie made Layup.,41,46,-5,13,0.4788256651105386,0.2900874537717624,4,3,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,200,2,15:30,930,930,Foul on Ryan Allen.,41,46,-5,0,0.4788256651105386,0.2900874537717624,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,201,2,15:30,930,930,Desure Buie made Free Throw.,42,46,-4,0,0.5235435373092509,0.32828158935867807,4,3,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,202,2,15:15,915,915,Justyn Mutts Turnover.,42,46,-4,15,0.5212205821995948,0.3270428185886663,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,203,2,15:00,900,900,Jalen Ray missed Layup.,42,46,-4,15,0.5189814835577472,0.3258584451347968,4,3,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,204,2,14:55,895,895,Kevin Schutte Offensive Rebound.,42,46,-4,5,0.5182476479947109,0.3254715777543088,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,205,2,14:54,894,894,Desure Buie made Three Point Jumper. Assisted by Stafford Trueheart.,45,46,-1,1,0.6500489867566995,0.4545576394546585,4,3,7,NA,NA,Hofstra,made,Desure Buie,Stafford Trueheart,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,206,2,14:30,870,870,Justyn Mutts made Layup. Assisted by Nate Darling.,45,48,-3,24,0.5604131631325641,0.3651442537322026,4,3,7,NA,NA,Delaware,made,Justyn Mutts,Nate Darling,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,207,2,14:10,850,850,Desure Buie missed Jumper.,45,48,-3,20,0.5579484334504627,0.3639035490079873,4,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,208,2,14:05,845,845,Dylan Painter Defensive Rebound.,45,48,-3,5,0.5573194701681975,0.36358414946595885,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,209,2,13:55,835,835,Kevin Anderson Turnover.,45,48,-3,10,0.5560388243576208,0.3629294374933096,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,210,2,13:55,835,835,Omar Silverio Steal.,45,48,-3,0,0.5560388243576208,0.3629294374933096,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,211,2,13:53,833,833,Omar Silverio Turnover.,45,48,-3,2,0.5557784852330936,0.3627955736945879,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,212,2,13:43,823,823,Justyn Mutts missed Layup.,45,48,-3,10,0.5544520144125222,0.36210922499530196,4,3,7,NA,NA,Delaware,missed,Justyn Mutts,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,213,2,13:43,823,823,Kevin Schutte Block.,45,48,-3,0,0.5544520144125222,0.36210922499530196,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,214,2,13:42,822,822,Delaware Offensive Rebound.,45,48,-3,1,0.5543168942221596,0.36203889813227585,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,215,2,13:33,813,813,Kevin Anderson made Layup.,45,50,-5,9,0.45848553175519274,0.2791080388796656,4,3,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,216,2,13:33,813,813,Foul on Kevin Schutte.,45,50,-5,0,0.45848553175519274,0.2791080388796656,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,217,2,13:32,812,812,Kevin Anderson missed Free Throw.,45,50,-5,1,0.45829160271374775,0.27900071190292103,4,3,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,218,2,13:30,810,810,Kevin Schutte Defensive Rebound.,45,50,-5,2,0.4579012419674362,0.2787844230931129,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,219,2,13:27,807,807,Jalen Ray missed Jumper.,45,50,-5,3,0.4573092608483537,0.27845578788712305,4,3,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,220,2,13:22,802,802,Desure Buie Offensive Rebound.,45,50,-5,5,0.45630463852509096,0.2778963486779885,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,221,2,13:19,799,799,Desure Buie missed Three Point Jumper.,45,50,-5,3,0.4556905366158821,0.27755332270727073,4,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,222,2,13:16,796,796,Kevin Anderson Defensive Rebound.,45,50,-5,3,0.4550675368739782,0.27720452558115855,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,223,2,13:05,785,785,Jacob Cushing missed Three Point Jumper.,45,50,-5,11,0.45270178713060955,0.27587295873282297,4,3,7,NA,NA,Delaware,missed,Jacob Cushing,NA,TRUE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,224,2,13:04,784,784,Dylan Painter Offensive Rebound.,45,50,-5,1,0.45248001195383114,0.27574758199130556,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,225,2,13:04,784,784,Dylan Painter Turnover.,45,50,-5,0,0.45248001195383114,0.27574758199130556,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,226,2,12:52,772,772,Isaac Kante missed Layup.,45,50,-5,12,0.4497240067568073,0.27418224870844093,4,3,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,227,2,12:52,772,772,Justyn Mutts Block.,45,50,-5,0,0.4497240067568073,0.27418224870844093,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,228,2,12:52,772,772,Delaware Defensive Rebound.,45,50,-5,0,0.4497240067568073,0.27418224870844093,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,229,2,12:30,750,750,Kevin Anderson made Jumper. Assisted by Nate Darling.,45,52,-7,22,0.349754691504525,0.20013499655927297,4,3,7,NA,NA,Delaware,made,Kevin Anderson,Nate Darling,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,230,2,12:09,729,729,Jalen Ray missed Jumper.,45,52,-7,21,0.342627172048053,0.19618522803869462,4,3,7,NA,NA,Hofstra,missed,Jalen Ray,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,231,2,12:04,724,724,Nate Darling Defensive Rebound.,45,52,-7,5,0.3408802318227221,0.1952189323413518,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,232,2,12:03,723,723,Collin Goss made Layup. Assisted by Kevin Anderson.,45,54,-9,1,0.25617615118660514,0.13911132108333915,4,3,7,NA,NA,Delaware,made,Collin Goss,Kevin Anderson,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,233,2,11:44,704,704,Desure Buie missed Layup.,45,54,-9,19,0.24987664526411504,0.13586988286268312,4,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,234,2,11:44,704,704,Justyn Mutts Block.,45,54,-9,0,0.24987664526411504,0.13586988286268312,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,235,2,11:44,704,704,Hofstra Offensive Rebound.,45,54,-9,0,0.24987664526411504,0.13586988286268312,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,236,2,11:44,704,704,Official TV Timeout,45,54,-9,0,0.24987664526411504,0.13586988286268312,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,237,2,11:42,702,702,Eli Pemberton missed Three Point Jumper.,45,54,-9,2,0.2492570174303769,0.13555437383809635,4,3,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,238,2,11:40,700,700,Delaware Defensive Rebound.,45,54,-9,2,0.24864430712662408,0.1352429476267974,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,239,2,11:18,678,678,Justyn Mutts made Layup.,45,56,-11,22,0.1738207507865568,0.09098952933339502,4,3,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,240,2,10:55,655,655,Isaac Kante made Jumper. Assisted by Eli Pemberton.,47,56,-9,23,0.23596033196057503,0.1288881654291475,4,3,7,NA,NA,Hofstra,made,Isaac Kante,Eli Pemberton,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,241,2,10:44,644,644,Nate Darling missed Layup.,47,56,-9,11,0.2329416217268272,0.12738535769583148,4,3,7,NA,NA,Delaware,missed,Nate Darling,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,242,2,10:41,641,641,Stafford Trueheart Defensive Rebound.,47,56,-9,3,0.23210811134713225,0.1269697994043902,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,243,2,10:38,638,638,Isaac Kante made Layup. Assisted by Desure Buie.,49,56,-7,3,0.3160741353749957,0.18205051409415068,4,3,7,NA,NA,Hofstra,made,Isaac Kante,Desure Buie,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,244,2,10:10,610,610,Nate Darling made Layup.,49,58,-9,28,0.22295933436010051,0.12237236535860657,4,3,7,NA,NA,Delaware,made,Nate Darling,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,245,2,9:51,591,591,Isaac Kante missed Jumper.,49,58,-9,19,0.21659359674942527,0.11912420943588443,4,3,7,NA,NA,Hofstra,missed,Isaac Kante,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,246,2,9:43,583,583,Eli Pemberton Offensive Rebound.,49,58,-9,8,0.2136781853863044,0.11762331646893665,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,247,2,9:43,583,583,Eli Pemberton made Layup.,51,58,-7,0,0.29836662212036347,0.17259811125226915,4,3,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,248,2,9:21,561,561,Collin Goss missed Jumper.,51,58,-7,22,0.28932274366695315,0.16763521135221676,4,3,7,NA,NA,Delaware,missed,Collin Goss,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,249,2,9:21,561,561,Stafford Trueheart Defensive Rebound.,51,58,-7,0,0.28932274366695315,0.16763521135221676,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,250,2,9:10,550,550,Eli Pemberton missed Jumper.,51,58,-7,11,0.28422823331737895,0.1648110711074176,4,3,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,251,2,9:07,547,547,Kevin Anderson Defensive Rebound.,51,58,-7,3,0.28280806314833934,0.16402363634076988,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,252,2,9:03,543,543,Collin Goss missed Layup.,51,58,-7,4,0.2809901783482989,0.16302200947577625,4,3,7,NA,NA,Delaware,missed,Collin Goss,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,253,2,9:00,540,540,Isaac Kante Defensive Rebound.,51,58,-7,3,0.27967886158320293,0.16230398706207896,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,254,2,8:55,535,535,Stafford Trueheart made Layup. Assisted by Jalen Ray.,53,58,-5,5,0.3810310085352002,0.23536128247163712,4,3,7,NA,NA,Hofstra,made,Stafford Trueheart,Jalen Ray,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,255,2,8:48,528,528,Nate Darling Turnover.,53,58,-5,7,0.37850705606308616,0.2339374111300641,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,256,2,8:48,528,528,Desure Buie Steal.,53,58,-5,0,0.37850705606308616,0.2339374111300641,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,257,2,8:41,521,521,Stafford Trueheart Turnover.,53,58,-5,7,0.3761018065851759,0.2325981518521064,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,258,2,8:41,521,521,Collin Goss Steal.,53,58,-5,0,0.3761018065851759,0.2325981518521064,4,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,259,2,8:35,515,515,Delaware  Timeout,53,58,-5,6,0.3741076126976406,0.23149873926921286,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,260,2,8:22,502,502,Justyn Mutts made Jumper.,53,60,-7,13,0.2654496803287278,0.1547250273653957,3,3,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,261,2,8:10,490,490,Jalen Ray missed Three Point Jumper.,53,60,-7,12,0.2612329937459015,0.15251214025469506,3,3,7,NA,NA,Hofstra,missed,Jalen Ray,NA,TRUE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,262,2,8:08,488,488,Isaac Kante Offensive Rebound.,53,60,-7,2,0.26051515564673683,0.1521342782528001,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,263,2,8:08,488,488,Foul on Jacob Cushing.,53,60,-7,0,0.26051515564673683,0.1521342782528001,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,264,2,8:08,488,488,Isaac Kante made Free Throw.,54,60,-6,0,0.3104813153016863,0.18655745145142097,3,3,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,265,2,8:08,488,488,Isaac Kante made Free Throw.,55,60,-5,0,0.36529678107695723,0.22668705056466745,3,3,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,266,2,7:45,465,465,Ryan Allen missed Three Point Jumper.,55,60,-5,23,0.35692974804001926,0.22203322024621489,3,3,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,267,2,7:41,461,461,Eli Pemberton Defensive Rebound.,55,60,-5,4,0.35529922675959974,0.22110815220077015,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,268,2,7:39,459,459,Desure Buie made Three Point Jumper. Assisted by Eli Pemberton.,58,60,-2,2,0.5393450727531531,0.3764129572837046,3,3,7,NA,NA,Hofstra,made,Desure Buie,Eli Pemberton,TRUE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,269,2,7:15,435,435,Foul on Jalen Ray.,58,60,-2,24,0.5325311925421548,0.3726722220950867,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,270,2,7:15,435,435,Official TV Timeout,58,60,-2,0,0.5325311925421548,0.3726722220950867,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,271,2,6:56,416,416,Dylan Painter Turnover.,58,60,-2,19,0.5262025158813769,0.36911985007285764,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,272,2,6:44,404,404,Foul on Desure Buie.,58,60,-2,12,0.5222761015894343,0.367038526782698,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,273,2,6:44,404,404,Desure Buie Turnover.,58,60,-2,0,0.5222761015894343,0.367038526782698,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,274,2,6:19,379,379,Dylan Painter missed Jumper.,58,60,-2,25,0.5139421780873007,0.36278384513351825,3,3,7,NA,NA,Delaware,missed,Dylan Painter,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,275,2,6:17,377,377,Kevin Anderson Offensive Rebound.,58,60,-2,2,0.513249049900902,0.3624318553768429,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,276,2,6:17,377,377,Kevin Anderson missed Jumper.,58,60,-2,0,0.513249049900902,0.3624318553768429,3,3,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,277,2,6:17,377,377,Dylan Painter Offensive Rebound.,58,60,-2,0,0.513249049900902,0.3624318553768429,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,278,2,6:16,376,376,Dylan Painter made Free Throw.,58,61,-3,1,0.44246022853687805,0.2997711192202951,3,3,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,279,2,6:16,376,376,Foul on Isaac Kante.,58,60,-2,0,0.5129003223544628,0.36225456770348613,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,280,2,6:16,376,376,Dylan Painter made Free Throw.,58,62,-4,0,0.3742611582478323,0.24394266246871962,3,3,7,NA,NA,Delaware,made,Dylan Painter,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,281,2,6:03,363,363,Isaac Kante made Dunk. Assisted by Desure Buie.,60,62,-2,13,0.5082114829768456,0.3598491614880929,3,3,7,NA,NA,Hofstra,made,Isaac Kante,Desure Buie,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,282,2,6:03,363,363,Foul on Dylan Painter.,60,62,-2,0,0.5082114829768456,0.3598491614880929,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,283,2,6:03,363,363,Isaac Kante made Free Throw.,61,62,-1,0,0.5795334190969398,0.4284912580702687,3,3,7,NA,NA,Hofstra,made,Isaac Kante,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,284,2,5:40,340,340,Kevin Anderson Turnover.,61,62,-1,23,0.5731212273275136,0.4258568014904658,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,285,2,5:40,340,340,Eli Pemberton Steal.,61,62,-1,0,0.5731212273275136,0.4258568014904658,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,286,2,5:26,326,326,Eli Pemberton missed Jumper.,61,62,-1,14,0.5687502452476036,0.42391331622362605,3,3,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,287,2,5:22,322,322,Justyn Mutts Defensive Rebound.,61,62,-1,4,0.5674240478956739,0.42329885008097556,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,288,2,5:16,316,316,Ryan Allen missed Three Point Jumper.,61,62,-1,6,0.5653642511027702,0.42232204669130013,3,3,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,289,2,5:11,311,311,Nate Darling Offensive Rebound.,61,62,-1,5,0.5635796498740722,0.42145423596781223,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,290,2,5:09,309,309,Ryan Allen missed Three Point Jumper.,61,62,-1,2,0.5628545183698599,0.42109907365470906,3,3,7,NA,NA,Delaware,missed,Ryan Allen,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,291,2,5:07,307,307,Hofstra Defensive Rebound.,61,62,-1,2,0.5621658073927154,0.4207794554872231,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,292,2,4:54,294,294,Desure Buie made Jumper.,63,62,1,13,0.7077268926071238,0.5803994471041819,3,3,7,NA,NA,Hofstra,made,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,293,2,4:36,276,276,Justyn Mutts made Layup. Assisted by Kevin Anderson.,63,64,-1,18,0.5556197646648693,0.4198501734379817,3,3,7,NA,NA,Delaware,made,Justyn Mutts,Kevin Anderson,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,294,2,4:18,258,258,Tareq Coburn made Layup.,65,64,1,18,0.7009216097908045,0.5788980685456057,3,3,7,NA,NA,Hofstra,made,Tareq Coburn,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,295,2,4:18,258,258,Foul on Kevin Anderson.,65,64,1,0,0.7009216097908045,0.5788980685456057,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,296,2,4:18,258,258,Tareq Coburn made Free Throw.,66,64,2,0,0.7631345017321514,0.65396252850165415,3,3,7,NA,NA,Hofstra,made,Tareq Coburn,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,297,2,4:01,241,241,Justyn Mutts made Layup. Assisted by Dylan Painter.,66,66,0,17,0.6272316015083423,0.5,3,3,7,NA,NA,Delaware,made,Justyn Mutts,Dylan Painter,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,298,2,4:01,241,241,Foul on Tareq Coburn.,66,66,0,0,0.6272316015083423,0.5,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,299,2,4:01,241,241,Justyn Mutts made Free Throw.,66,67,-1,0,0.5512960914001075,0.4220289835706846,3,3,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,TRUE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,300,2,3:37,217,217,Eli Pemberton missed Layup.,66,67,-1,24,0.545094732963289,0.42074821976130244,3,3,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,301,2,3:35,215,215,Eli Pemberton missed Jumper.,66,67,-1,2,0.5443307491851423,0.42042139631392444,3,3,7,NA,NA,Hofstra,missed,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,302,2,3:33,213,213,Eli Pemberton Offensive Rebound.,66,67,-1,2,0.5435195897083716,0.42005243459072383,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,303,2,3:33,213,213,Justyn Mutts Defensive Rebound.,66,67,-1,0,0.5435195897083716,0.42005243459072383,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,304,2,3:18,198,198,Justyn Mutts missed Jumper.,66,67,-1,15,0.5357327499464148,0.4157657335231151,3,3,7,NA,NA,Delaware,missed,Justyn Mutts,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,305,2,3:18,198,198,Delaware Offensive Rebound.,66,67,-1,0,0.5357327499464148,0.4157657335231151,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,306,2,3:18,198,198,Official TV Timeout,66,67,-1,0,0.5357327499464148,0.4157657335231151,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,307,2,3:06,186,186,Nate Darling missed Three Point Jumper.,66,67,-1,12,0.5270899212213974,0.41019821301642534,3,3,7,NA,NA,Delaware,missed,Nate Darling,NA,TRUE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,308,2,3:02,182,182,Desure Buie Defensive Rebound.,66,67,-1,4,0.523999195296705,0.40817035466920276,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,309,2,2:51,171,171,Desure Buie missed Jumper.,66,67,-1,11,0.5153298927802772,0.40249198633972455,3,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,310,2,2:49,169,169,Justyn Mutts Defensive Rebound.,66,67,-1,2,0.5137175105432142,0.40143485887839436,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,311,2,2:22,142,142,Kevin Anderson missed Jumper.,66,67,-1,27,0.4901995862269304,0.3858209532637846,3,3,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,312,2,2:19,139,139,Isaac Kante Defensive Rebound.,66,67,-1,3,0.4873250270443844,0.38387832301797603,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,313,2,2:10,130,130,Eli Pemberton made Layup.,68,67,1,9,0.7133220965500204,0.6222740420414592,3,3,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,314,2,2:10,130,130,Foul on Dylan Painter.,68,67,1,0,0.7133220965500204,0.6222740420414592,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,315,2,2:10,130,130,Eli Pemberton made Free Throw.,69,67,2,0,0.8038897911515422,0.7307484574599653,3,3,7,NA,NA,Hofstra,made,Eli Pemberton,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,316,2,1:42,102,102,Justyn Mutts made Layup.,69,69,0,28,0.5937548007973256,0.5,3,3,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,317,2,1:24,84,84,Desure Buie missed Jumper.,69,69,0,18,0.5883295191179033,0.5,3,3,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,318,2,1:18,78,78,Ryan Allen Defensive Rebound.,69,69,0,6,0.5864720343800692,0.5,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,319,2,0:55,55,55,Dylan Painter Turnover.,69,69,0,23,0.5790681157612766,0.5,3,3,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,320,2,0:55,55,55,Hofstra  Timeout,69,69,0,0,0.5790681157612766,0.5,3,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,321,2,0:41,41,41,Desure Buie missed Jumper.,69,69,0,14,0.5743509143697918,0.5,3,2,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,322,2,0:38,38,38,Dylan Painter Defensive Rebound.,69,69,0,3,0.5733172913359019,0.5,3,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,323,2,0:31,31,31,Delaware  Timeout,69,69,0,7,0.5708767884785387,0.5,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,324,2,0:19,19,19,Kevin Anderson missed Jumper.,69,69,0,12,0.5666056441811591,0.5,2,2,7,NA,NA,Delaware,missed,Kevin Anderson,NA,FALSE,FALSE,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,325,2,0:18,18,18,Justyn Mutts Offensive Rebound.,69,69,0,1,0.5662434660558044,0.5,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Delaware,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,326,2,0:18,18,18,Justyn Mutts made Layup.,69,71,-2,0,0.13809287329077963,0.10931455159064239,2,2,7,NA,NA,Delaware,made,Justyn Mutts,NA,FALSE,FALSE,Delaware,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,327,2,0:09,9,9,Desure Buie missed Layup.,69,71,-2,9,0.12249601081348063,0.0977838788911445,2,2,7,NA,NA,Hofstra,missed,Desure Buie,NA,FALSE,FALSE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,328,2,0:09,9,9,Dylan Painter Block.,69,71,-2,0,0.12249601081348063,0.0977838788911445,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,329,2,0:08,8,8,Hofstra Offensive Rebound.,69,71,-2,1,0.12081650605037784,0.09653779011040589,2,2,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,330,2,0:08,8,8,Hofstra  Timeout,69,71,-2,0,0.12081650605037784,0.09653779011040589,2,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,331,2,0:06,6,6,Foul on Ryan Allen.,69,71,-2,2,0.1174954553263242,0.09407117343194349,2,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,332,2,0:06,6,6,Jalen Ray made Free Throw.,70,71,-1,0,0.2923682401075241,0.2437084082712352,2,1,7,NA,NA,Hofstra,made,Jalen Ray,NA,FALSE,TRUE,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,333,2,0:06,6,6,Delaware  Timeout,70,71,-1,0,0.2923682401075241,0.2437084082712352,1,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,Hofstra,NA
+401171813,2020-01-23,Hofstra,Delaware,334,2,0:06,6,6,Jalen Ray made Free Throw.,71,71,0,0,0.5618182945529246,0.5,1,1,7,NA,NA,Hofstra,made,Jalen Ray,NA,FALSE,TRUE,Hofstra,Delaware,NA
+401171813,2020-01-23,Hofstra,Delaware,335,2,0:00,0,0,Kevin Anderson made Layup.,71,73,-2,6,0,4.248354255291589e-18,1,1,7,NA,NA,Delaware,made,Kevin Anderson,NA,FALSE,FALSE,Delaware,Hofstra,0
+401171813,2020-01-23,Hofstra,Delaware,336,2,0:00,0,0,End of 2nd half,71,73,-2,0,0,NA,1,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,NA,0
+401171813,2020-01-23,Hofstra,Delaware,337,2,0:00,0,0,End of Game,71,73,-2,0,0,4.248354255291589e-18,1,1,7,NA,NA,NA,NA,NA,NA,NA,NA,Hofstra,NA,0
