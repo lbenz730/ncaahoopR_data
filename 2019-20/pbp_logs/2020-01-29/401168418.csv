@@ -1,0 +1,395 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after,win_prob_naive
+401168418,2020-01-29,Xavier,Marquette,1,1,20:00,2400,3000,PLAY,0,0,0,0,0.5795343251242632,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,2,1,19:38,2378,2978,Tyrique Jones made Jumper. Assisted by Paul Scruggs.,2,0,2,22,0.6221268689417508,0.5444902640703563,4,4,2,NA,NA,Xavier,made,Tyrique Jones,Paul Scruggs,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,3,1,19:17,2357,2957,Sacar Anim made Three Point Jumper. Assisted by Markus Howard.,2,3,-1,21,0.5570838327651926,0.47748461349816307,4,4,2,NA,NA,Marquette,made,Sacar Anim,Markus Howard,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,4,1,18:59,2339,2939,Foul on Brendan Bailey.,2,3,-1,18,0.556739412644324,0.47728848947087554,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,5,1,18:51,2331,2931,Jason Carter made Three Point Jumper. Assisted by Naji Marshall.,5,3,2,8,0.62271641346809,0.5455040576359357,4,4,2,NA,NA,Xavier,made,Jason Carter,Naji Marshall,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,6,1,18:19,2299,2899,Brendan Bailey missed Jumper.,5,3,2,32,0.6231200709386012,0.5462096345603725,4,4,2,NA,NA,Marquette,missed,Brendan Bailey,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,7,1,18:15,2295,2895,Paul Scruggs Defensive Rebound.,5,3,2,4,0.6231705329739672,0.5462986002811664,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,8,1,18:03,2283,2883,Jason Carter missed Jumper.,5,3,2,12,0.6233218299049188,0.5465664414276336,4,4,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,9,1,18:01,2281,2881,Jason Carter Offensive Rebound.,5,3,2,2,0.6233470278283056,0.5466112148644995,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,10,1,17:57,2277,2877,Naji Marshall missed Jumper.,5,3,2,4,0.623397403568813,0.5467008721621327,4,4,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,11,1,17:54,2274,2874,Tyrique Jones Offensive Rebound.,5,3,2,3,0.6234351658221798,0.5467682100997949,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,12,1,17:42,2262,2862,Zach Freemantle made Layup. Assisted by Tyrique Jones.,7,3,4,12,0.6667469693362518,0.5932513775002247,4,4,2,NA,NA,Xavier,made,Zach Freemantle,Tyrique Jones,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,13,1,17:23,2243,2843,Brendan Bailey made Three Point Jumper. Assisted by Markus Howard.,7,6,1,19,0.6012287166342047,0.5237879470207863,4,4,2,NA,NA,Marquette,made,Brendan Bailey,Markus Howard,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,14,1,17:07,2227,2827,Jason Carter missed Jumper.,7,6,1,16,0.6012560951892431,0.5239713147776629,4,4,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,15,1,17:04,2224,2824,Koby McEwen Defensive Rebound.,7,6,1,3,0.6012610017761209,0.5240057934687719,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,16,1,17:02,2222,2822,Foul on Theo John.,7,6,1,2,0.6012642316898291,0.5240287954002141,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,17,1,17:02,2222,2822,Theo John Turnover.,7,6,1,0,0.6012642316898291,0.5240287954002141,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,18,1,16:48,2208,2808,Tyrique Jones missed Jumper.,7,6,1,14,0.6012858923275284,0.5241901517188926,4,4,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,19,1,16:45,2205,2805,Koby McEwen Defensive Rebound.,7,6,1,3,0.6012903117043903,0.5242248018682784,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,20,1,16:42,2202,2802,Foul on Tyrique Jones.,7,6,1,3,0.6012946503671829,0.5242594764832842,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,21,1,16:28,2188,2788,Sacar Anim made Three Point Jumper. Assisted by Markus Howard.,7,9,-2,14,0.5293785655695052,0.45127305785881405,4,4,2,NA,NA,Marquette,made,Sacar Anim,Markus Howard,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,22,1,16:10,2170,2770,Jason Carter Turnover.,7,9,-2,18,0.5287746313392944,0.4508579029700246,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,23,1,15:59,2159,2759,Koby McEwen Turnover.,7,9,-2,11,0.5284027249522655,0.4506033848195652,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,24,1,15:59,2159,2759,Official TV Timeout,7,9,-2,0,0.5284027249522655,0.4506033848195652,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,25,1,15:59,2159,2759,Paul Scruggs made Layup. Assisted by Zach Freemantle.,9,9,0,0,0.5773651672859604,0.5,4,4,2,NA,NA,Xavier,made,Paul Scruggs,Zach Freemantle,FALSE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,26,1,15:39,2139,2739,Zach Freemantle missed Layup.,9,9,0,20,0.5771555679946292,0.5,4,4,2,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,27,1,15:39,2139,2739,Sacar Anim Block.,9,9,0,0,0.5771555679946292,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,28,1,15:39,2139,2739,Marquette  Turnover.,9,9,0,0,0.5771555679946292,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,29,1,15:37,2137,2737,Brendan Bailey Defensive Rebound.,9,9,0,2,0.5771343587632444,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,30,1,15:32,2132,2732,Sacar Anim missed Three Point Jumper.,9,9,0,5,0.5770811389700167,0.5,4,4,2,NA,NA,Marquette,missed,Sacar Anim,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,31,1,15:30,2130,2730,Marquette Offensive Rebound.,9,9,0,2,0.5770597725793468,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,32,1,15:15,2115,2715,Koby McEwen missed Jumper.,9,9,0,15,0.5768981047758968,0.5,4,4,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,33,1,15:10,2110,2710,Paul Scruggs Defensive Rebound.,9,9,0,5,0.5768436624062683,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,34,1,14:44,2084,2684,Koby McEwen missed Three Point Jumper.,9,9,0,26,0.5765561666377731,0.5,4,4,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,35,1,14:44,2084,2684,Paul Scruggs Turnover.,9,9,0,0,0.5765561666377731,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,36,1,14:39,2079,2679,Sacar Anim Offensive Rebound.,9,9,0,5,0.5765000431278242,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,37,1,14:37,2077,2677,Sacar Anim made Layup.,9,11,-2,2,0.5255528557002677,0.44867412872103285,4,4,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,38,1,14:07,2047,2647,Paul Scruggs missed Three Point Jumper.,9,11,-2,30,0.5244744487439124,0.4479519194647577,4,4,2,NA,NA,Xavier,missed,Paul Scruggs,NA,TRUE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,39,1,14:03,2043,2643,Naji Marshall Offensive Rebound.,9,11,-2,4,0.5243291508123816,0.44785487364287885,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,40,1,14:02,2042,2642,Foul on Zach Freemantle.,9,11,-2,1,0.5242927701101843,0.447830583592025,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,41,1,14:02,2042,2642,Zach Freemantle Turnover.,9,11,-2,0,0.5242927701101843,0.447830583592025,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,42,1,13:47,2027,2627,Symir Torrence Turnover.,9,11,-2,15,0.5237443420683302,0.4474648335063915,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,43,1,13:47,2027,2627,Naji Marshall Steal.,9,11,-2,0,0.5237443420683302,0.4474648335063915,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,44,1,13:42,2022,2622,KyKy Tandy missed Three Point Jumper.,9,11,-2,5,0.5235603921222036,0.44734232206351526,4,4,2,NA,NA,Xavier,missed,KyKy Tandy,NA,TRUE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,45,1,13:39,2019,2619,Tyrique Jones Offensive Rebound.,9,11,-2,3,0.5234497462284586,0.44726866938491106,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,46,1,13:27,2007,2607,Quentin Goodin made Three Point Jumper. Assisted by KyKy Tandy.,12,11,1,12,0.6014351793313389,0.5265885022689188,4,4,2,NA,NA,Xavier,made,Quentin Goodin,KyKy Tandy,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,47,1,12:53,1973,2573,Jayce Johnson made Jumper. Assisted by Symir Torrence.,12,13,-1,34,0.5486287708058399,0.47298383462851956,4,4,2,NA,NA,Marquette,made,Jayce Johnson,Symir Torrence,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,48,1,12:29,1949,2549,Foul on Jayce Johnson.,12,13,-1,24,0.5480214042965735,0.4726770744269815,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,49,1,12:29,1949,2549,Quentin Goodin made Free Throw.,13,13,0,0,0.5749509616628563,0.5,4,4,2,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,50,1,12:28,1948,2548,Quentin Goodin missed Free Throw.,13,13,0,1,0.5749384049290912,0.5,4,4,2,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,51,1,12:26,1946,2546,Koby McEwen Defensive Rebound.,13,13,0,2,0.5749132634647722,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,52,1,12:11,1931,2531,Koby McEwen Turnover.,13,13,0,15,0.5747235203858837,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,53,1,12:11,1931,2531,Quentin Goodin Steal.,13,13,0,0,0.5747235203858837,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,54,1,12:05,1925,2525,Bryce Moore made Three Point Jumper. Assisted by Quentin Goodin.,16,13,3,6,0.6531197942767303,0.5822324554233181,4,4,2,NA,NA,Xavier,made,Bryce Moore,Quentin Goodin,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,55,1,11:42,1902,2502,Markus Howard missed Jumper.,16,13,3,23,0.6536578400991168,0.5831065236177205,4,4,2,NA,NA,Marquette,missed,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,56,1,11:38,1898,2498,KyKy Tandy Defensive Rebound.,16,13,3,4,0.6537505786141193,0.5832583356008597,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,57,1,11:25,1885,2485,Quentin Goodin missed Layup.,16,13,3,13,0.6540506307864066,0.5837516499530961,4,4,2,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,58,1,11:20,1880,2480,Theo John Defensive Rebound.,16,13,3,5,0.6541655670231934,0.5839414306803924,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,59,1,11:09,1869,2469,Theo John made Layup. Assisted by Brendan Bailey.,16,15,1,11,0.6014200230633561,0.5283607385103087,4,4,2,NA,NA,Marquette,made,Theo John,Brendan Bailey,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,60,1,10:48,1848,2448,Foul on Symir Torrence.,16,15,1,21,0.601402361181355,0.528634272363939,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,61,1,10:48,1848,2448,Official TV Timeout,16,15,1,0,0.601402361181355,0.528634272363939,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,62,1,10:38,1838,2438,Quentin Goodin made Three Point Jumper. Assisted by Naji Marshall.,19,15,4,10,0.6806659546450694,0.6131920121090685,4,4,2,NA,NA,Xavier,made,Quentin Goodin,Naji Marshall,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,63,1,10:12,1812,2412,Koby McEwen missed Three Point Jumper.,19,15,4,26,0.6815362419751001,0.6144947501645892,4,4,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,64,1,10:10,1810,2410,Theo John Offensive Rebound.,19,15,4,2,0.6816034609543923,0.6145955246361854,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,65,1,10:09,1809,2409,Sacar Anim Turnover.,19,15,4,1,0.6816370894403566,0.6146459462985063,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,66,1,9:48,1788,2388,Foul on Markus Howard.,19,15,4,21,0.6823467631338437,0.6157106393115362,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,67,1,9:48,1788,2388,Tyrique Jones made Free Throw.,20,15,5,0,0.7073240674765676,0.643187677751319,4,4,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,68,1,9:47,1787,2387,Tyrique Jones missed Free Throw.,20,15,5,1,0.7073676810318755,0.6432495128194443,4,4,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,69,1,9:46,1786,2386,Brendan Bailey Defensive Rebound.,20,15,5,1,0.7074113184066217,0.6433113822250908,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,70,1,9:35,1775,2375,Brendan Bailey missed Three Point Jumper.,20,15,5,11,0.7078929997832364,0.6439943110573754,4,4,2,NA,NA,Marquette,missed,Brendan Bailey,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,71,1,9:29,1769,2369,Markus Howard Offensive Rebound.,20,15,5,6,0.70815713057775,0.6443687513228045,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,72,1,9:27,1767,2367,Markus Howard missed Jumper.,20,15,5,2,0.7082454104045791,0.6444938855527119,4,4,2,NA,NA,Marquette,missed,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,73,1,9:23,1763,2363,Tyrique Jones Defensive Rebound.,20,15,5,4,0.7084223407796153,0.6447446517627107,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,74,1,9:16,1756,2356,Quentin Goodin missed Three Point Jumper.,20,15,5,7,0.7087332151534224,0.6451851469582173,4,4,2,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,75,1,9:12,1752,2352,Markus Howard Defensive Rebound.,20,15,5,4,0.7089116071770999,0.6454378416007648,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,76,1,9:03,1743,2343,Foul on Koby McEwen.,20,15,5,9,0.7093151145625327,0.6460091523158173,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,77,1,9:03,1743,2343,Koby McEwen Turnover.,20,15,5,0,0.7093151145625327,0.6460091523158173,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,78,1,8:51,1731,2331,Tyrique Jones Turnover.,20,15,5,12,0.7098580570095259,0.6467771768045569,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,79,1,8:42,1722,2322,Sacar Anim made Layup.,20,17,3,9,0.6578467816141838,0.5901216374473957,4,4,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,80,1,8:25,1705,2305,Tyrique Jones Turnover.,20,17,3,17,0.6582700655522326,0.590827768798585,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,81,1,8:25,1705,2305,Markus Howard Steal.,20,17,3,0,0.6582700655522326,0.590827768798585,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,82,1,8:21,1701,2301,Markus Howard missed Layup.,20,17,3,4,0.6583710301936871,0.5909956385096561,4,4,2,NA,NA,Marquette,missed,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,83,1,8:18,1698,2298,Naji Marshall Defensive Rebound.,20,17,3,3,0.6584471157631581,0.5911219896832421,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,84,1,8:05,1685,2285,Paul Scruggs missed Layup.,20,17,3,13,0.6587790092541379,0.5916726719409797,4,4,2,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,85,1,7:59,1679,2279,Tyrique Jones Offensive Rebound.,20,17,3,6,0.6589291471512198,0.591924655459778,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,86,1,7:59,1679,2279,Tyrique Jones made Layup.,22,17,5,0,0.7122788025517072,0.6501910778888925,4,4,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,87,1,7:46,1666,2266,Official TV Timeout,22,17,5,13,0.7128711214287909,0.6510359275991273,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,88,1,7:34,1654,2254,Markus Howard made Jumper.,22,19,3,12,0.6595261862615417,0.5929525425396345,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,89,1,7:03,1623,2223,Zach Freemantle missed Layup.,22,19,3,31,0.6602182666835589,0.5941921386442393,4,4,2,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,90,1,7:01,1621,2221,Marquette Defensive Rebound.,22,19,3,2,0.6602616387958093,0.5942712935056684,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,91,1,6:50,1610,2210,Markus Howard made Three Point Jumper.,22,22,0,11,0.5700517987627834,0.5,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,92,1,6:26,1586,2186,Naji Marshall missed Jumper.,22,22,0,24,0.5696466232539628,0.5,4,4,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,93,1,6:21,1581,2181,Brendan Bailey Defensive Rebound.,22,22,0,5,0.5695613220922865,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,94,1,6:18,1578,2178,Foul on Bryce Moore.,22,22,0,3,0.5695100114908496,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,95,1,6:18,1578,2178,Markus Howard made Free Throw.,22,23,-1,0,0.5375012072709033,0.46765392855276183,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,96,1,6:18,1578,2178,Markus Howard made Free Throw.,22,24,-2,0,0.5051802708444608,0.43557747011861675,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,97,1,6:18,1578,2178,Markus Howard made Free Throw.,22,25,-3,0,0.47281597942586273,0.4040313228369664,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,98,1,6:05,1565,2165,Jason Carter missed Three Point Jumper.,22,25,-3,13,0.47205356116228864,0.4035142300873883,4,4,2,NA,NA,Xavier,missed,Jason Carter,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,99,1,6:01,1561,2161,Sacar Anim Defensive Rebound.,22,25,-3,4,0.47181770844561605,0.40335421718549547,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,100,1,5:55,1555,2155,Markus Howard missed Three Point Jumper.,22,25,-3,6,0.4714626582577903,0.40311321478502427,4,4,2,NA,NA,Marquette,missed,Markus Howard,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,101,1,5:51,1551,2151,Paul Scruggs Defensive Rebound.,22,25,-3,4,0.47122504697777884,0.40295181721744616,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,102,1,5:44,1544,2144,Paul Scruggs made Layup.,24,25,-1,7,0.5364363023011375,0.4671837816850666,4,4,2,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,103,1,5:33,1533,2133,Markus Howard made Layup.,24,27,-3,11,0.4701455143070203,0.4022168457961806,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,104,1,5:11,1511,2111,Zach Freemantle missed Three Point Jumper.,24,27,-3,22,0.4687988357015424,0.4012941560836844,4,4,2,NA,NA,Xavier,missed,Zach Freemantle,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,105,1,5:07,1507,2107,Jamal Cain Defensive Rebound.,24,27,-3,4,0.4685502449805117,0.40112291041231135,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,106,1,4:59,1499,2099,Markus Howard made Layup.,24,29,-5,8,0.40224238753984703,0.3384111645933437,4,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,107,1,4:58,1498,2098,Xavier  Timeout,24,29,-5,1,0.40215243486958185,0.3383433846904897,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,108,1,4:36,1476,2076,Jason Carter made Dunk. Assisted by Paul Scruggs.,26,29,-3,22,0.46657763651602263,0.3997513081732286,3,4,2,NA,NA,Xavier,made,Jason Carter,Paul Scruggs,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,109,1,4:14,1454,2054,Jayce Johnson made Dunk. Assisted by Sacar Anim.,26,31,-5,22,0.39804743154086913,0.33522234368704,3,4,2,NA,NA,Marquette,made,Jayce Johnson,Sacar Anim,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,110,1,3:56,1436,2036,Naji Marshall Turnover.,26,31,-5,18,0.3963072689931057,0.3338887179211872,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,111,1,3:56,1436,2036,Sacar Anim Steal.,26,31,-5,0,0.3963072689931057,0.3338887179211872,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,112,1,3:54,1434,2034,Foul on Paul Scruggs.,26,31,-5,2,0.3961167976804412,0.33374350547552023,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,113,1,3:54,1434,2034,Official TV Timeout,26,31,-5,0,0.3961167976804412,0.33374350547552023,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,114,1,3:31,1411,2011,Markus Howard made Jumper.,26,33,-7,23,0.3295671159404326,0.27326708267269895,3,4,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,115,1,3:08,1388,1988,Foul on Markus Howard.,26,33,-7,23,0.32699152462574305,0.27128831423339567,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,116,1,3:08,1388,1988,Tyrique Jones made Free Throw.,27,33,-6,0,0.35877910902054666,0.30007527328719985,3,4,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,117,1,3:07,1387,1987,Tyrique Jones missed Free Throw.,27,33,-6,1,0.35867725274329393,0.2999978705547164,3,4,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,118,1,3:05,1385,1985,Brendan Bailey Defensive Rebound.,27,33,-6,2,0.35847368436680965,0.29984322453137247,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,119,1,2:42,1362,1962,Brendan Bailey missed Jumper.,27,33,-6,23,0.356139929753914,0.298073880691556,3,4,2,NA,NA,Marquette,missed,Brendan Bailey,NA,FALSE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,120,1,2:38,1358,1958,Brendan Bailey Offensive Rebound.,27,33,-6,4,0.35573406308050864,0.2977665831890041,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,121,1,2:36,1356,1956,Brendan Bailey missed Jumper.,27,33,-6,2,0.3555309791944363,0.2976128375895794,3,4,2,NA,NA,Marquette,missed,Brendan Bailey,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,122,1,2:32,1352,1952,Tyrique Jones Defensive Rebound.,27,33,-6,4,0.3551244066566185,0.29730505462724016,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,123,1,2:11,1331,1931,KyKy Tandy missed Jumper.,27,33,-6,21,0.35297494900288506,0.2956770470101613,3,4,2,NA,NA,Xavier,missed,KyKy Tandy,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,124,1,2:07,1327,1927,Jayce Johnson Defensive Rebound.,27,33,-6,4,0.3525614383273701,0.29536346290003196,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,125,1,1:50,1310,1910,Koby McEwen missed Jumper.,27,33,-6,17,0.3507830352755961,0.2940122568175611,3,4,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,126,1,1:47,1307,1907,Naji Marshall Defensive Rebound.,27,33,-6,3,0.3504650642269798,0.293770129751099,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,127,1,1:39,1299,1899,Tyrique Jones made Jumper. Assisted by Naji Marshall.,29,33,-4,8,0.418891780194711,0.35735593376168917,3,4,2,NA,NA,Xavier,made,Tyrique Jones,Naji Marshall,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,128,1,1:18,1278,1878,Brendan Bailey made Three Point Jumper. Assisted by Sacar Anim.,29,36,-7,21,0.3145295155171743,0.2617390670848057,3,4,2,NA,NA,Marquette,made,Brendan Bailey,Sacar Anim,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,129,1,0:54,1254,1854,Quentin Goodin missed Layup.,29,36,-7,24,0.3115399918057629,0.25941580032363115,3,4,2,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,130,1,0:54,1254,1854,Jamal Cain Block.,29,36,-7,0,0.3115399918057629,0.25941580032363115,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,131,1,0:53,1253,1853,Xavier Offensive Rebound.,29,36,-7,1,0.3114117832301569,0.2593157117719718,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,132,1,0:44,1244,1844,Paul Scruggs missed Layup.,29,36,-7,9,0.3102434386251904,0.25840185044242814,3,4,2,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,133,1,0:40,1240,1840,Tyrique Jones Offensive Rebound.,29,36,-7,4,0.309715499300518,0.25798785154759674,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,134,1,0:40,1240,1840,Tyrique Jones made Layup.,31,36,-5,0,0.37763327593142365,0.31981777264091826,3,4,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,135,1,0:32,1232,1832,Marquette  Timeout,31,36,-5,8,0.37674935983253466,0.319132961605548,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,136,1,0:18,1218,1818,Markus Howard missed Three Point Jumper.,31,36,-5,14,0.3751554073622115,0.31789047718100405,3,3,2,NA,NA,Marquette,missed,Markus Howard,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,137,1,0:14,1214,1814,Brendan Bailey Offensive Rebound.,31,36,-5,4,0.37468833087635195,0.3175245581833381,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,138,1,0:13,1213,1813,Sacar Anim made Three Point Jumper. Assisted by Brendan Bailey.,31,39,-8,1,0.2744788602802246,0.22706554641848486,3,3,2,NA,NA,Marquette,made,Sacar Anim,Brendan Bailey,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,139,1,0:01,1201,1801,Paul Scruggs made Layup.,33,39,-6,12,0.33786008912125576,0.28396603370332435,3,3,2,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,140,1,0:00,1200,1800,End of 1st half,33,39,-6,1,0.3377297164798709,0.28386293076294067,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA,NA
+401168418,2020-01-29,Xavier,Marquette,141,2,20:00,1200,1800,PLAY,33,39,-6,0,0.3377297164798709,0.28386293076294067,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,142,2,19:39,1179,1779,Markus Howard Turnover.,33,39,-6,21,0.3350457098361612,0.28174499405525,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,143,2,19:39,1179,1779,Naji Marshall Steal.,33,39,-6,0,0.3350457098361612,0.28174499405525,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,144,2,19:33,1173,1773,Zach Freemantle made Three Point Jumper. Assisted by Naji Marshall.,36,39,-3,6,0.44535636813623214,0.38476473010786827,4,4,2,NA,NA,Xavier,made,Zach Freemantle,Naji Marshall,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,145,2,19:14,1154,1754,Foul on Tyrique Jones.,36,39,-3,19,0.4438780362763549,0.38368359092531634,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,146,2,19:02,1142,1742,Theo John missed Jumper.,36,39,-3,12,0.44295231951622444,0.3830077746022579,4,4,2,NA,NA,Marquette,missed,Theo John,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,147,2,18:59,1139,1739,Zach Freemantle Defensive Rebound.,36,39,-3,3,0.44272130469341425,0.3828391734521132,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,148,2,18:43,1123,1723,Naji Marshall missed Three Point Jumper.,36,39,-3,16,0.44148864726834613,0.3819393119034149,4,4,2,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,149,2,18:40,1120,1720,Marquette Defensive Rebound.,36,39,-3,3,0.4412569666627339,0.3817700612721519,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,150,2,18:17,1097,1697,Theo John missed Jumper.,36,39,-3,23,0.4394659260174549,0.3804588837541466,4,4,2,NA,NA,Marquette,missed,Theo John,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,151,2,18:14,1094,1694,Tyrique Jones Defensive Rebound.,36,39,-3,3,0.4392295717089852,0.38028536367285715,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,152,2,18:04,1084,1684,Zach Freemantle missed Jumper.,36,39,-3,10,0.438435490051065,0.37970130667667296,4,4,2,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,153,2,18:04,1084,1684,Theo John Block.,36,39,-3,0,0.438435490051065,0.37970130667667296,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,154,2,18:02,1082,1682,Xavier Offensive Rebound.,36,39,-3,2,0.438275394832689,0.3795833362229449,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,155,2,18:02,1082,1682,Foul on Koby McEwen.,36,39,-3,0,0.438275394832689,0.3795833362229449,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,156,2,17:48,1068,1668,Naji Marshall made Jumper.,38,39,-1,14,0.5192766568621299,0.45885334592443505,4,4,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,157,2,17:29,1049,1649,Markus Howard missed Three Point Jumper.,38,39,-1,19,0.5185013103090457,0.45843792074856304,4,4,2,NA,NA,Marquette,missed,Markus Howard,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,158,2,17:24,1044,1644,Zach Freemantle Defensive Rebound.,38,39,-1,5,0.5182932099336464,0.4583251553583368,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,159,2,17:10,1030,1630,Jason Carter missed Three Point Jumper.,38,39,-1,14,0.5177001503556442,0.45800064032974364,4,4,2,NA,NA,Xavier,missed,Jason Carter,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,160,2,17:07,1027,1627,Brendan Bailey Defensive Rebound.,38,39,-1,3,0.5175709236514561,0.4579292930663841,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,161,2,17:07,1027,1627,Foul on Paul Scruggs.,38,39,-1,0,0.5175709236514561,0.4579292930663841,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,162,2,16:49,1009,1609,Brendan Bailey missed Jumper.,38,39,-1,18,0.5167778834559636,0.457486315700301,4,4,2,NA,NA,Marquette,missed,Brendan Bailey,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,163,2,16:44,1004,1604,Jason Carter Defensive Rebound.,38,39,-1,5,0.5165518087638707,0.45735839846629023,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,164,2,16:33,993,1593,Tyrique Jones missed Jumper.,38,39,-1,11,0.5160447752104244,0.45706885672922254,4,4,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,165,2,16:29,989,1589,Tyrique Jones Offensive Rebound.,38,39,-1,4,0.5158569396788183,0.456960664303377,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,166,2,16:29,989,1589,Tyrique Jones made Layup.,40,39,1,0,0.600756437346685,0.543039335696623,4,4,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,167,2,16:26,986,1586,Marquette  Timeout,40,39,1,3,0.6007788443780158,0.5431215391213763,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,168,2,16:14,974,1574,Markus Howard made Jumper.,40,41,-1,12,0.5151349587533386,0.4565401845733365,4,3,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,169,2,15:55,955,1555,Zach Freemantle made Jumper. Assisted by Tyrique Jones.,42,41,1,19,0.6010351550149788,0.5439968566144212,4,3,2,NA,NA,Xavier,made,Zach Freemantle,Tyrique Jones,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,170,2,15:34,934,1534,Markus Howard missed Three Point Jumper.,42,41,1,21,0.6011789029896921,0.5445325686530356,4,3,2,NA,NA,Marquette,missed,Markus Howard,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,171,2,15:31,931,1531,Tyrique Jones Defensive Rebound.,42,41,1,3,0.6011971776232015,0.5446049492733727,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,172,2,15:09,909,1509,Naji Marshall made Jumper.,44,41,3,22,0.684136737259688,0.6324694854518854,4,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,173,2,14:53,893,1493,Sacar Anim missed Three Point Jumper.,44,41,3,16,0.6848218895371616,0.6334579051552606,4,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,174,2,14:49,889,1489,Tyrique Jones Defensive Rebound.,44,41,3,4,0.6849906717410021,0.6337015382438457,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,175,2,14:32,872,1472,Naji Marshall missed Layup.,44,41,3,17,0.6857069219364541,0.6347338228734681,4,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,176,2,14:28,868,1468,Naji Marshall Offensive Rebound.,44,41,3,4,0.6858768009115871,0.6349779265289839,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,177,2,14:27,867,1467,Naji Marshall made Layup.,46,41,5,1,0.7595793977958324,0.7156856968495351,4,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,178,2,14:14,854,1454,Official TV Timeout,46,41,5,13,0.7604785278282037,0.7168626955778781,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,179,2,14:03,843,1443,Jayce Johnson Turnover.,46,41,5,11,0.761263131712282,0.7178859549440925,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,180,2,13:41,821,1421,Paul Scruggs missed Jumper.,46,41,5,22,0.7629346886494938,0.720051948325435,4,3,2,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,181,2,13:37,817,1417,Jayce Johnson Defensive Rebound.,46,41,5,4,0.7632574686182293,0.7204679234958452,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,182,2,13:30,810,1410,Foul on Naji Marshall.,46,41,5,7,0.7638390365677193,0.7212155769068871,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,183,2,13:30,810,1410,Markus Howard made Free Throw.,46,42,4,0,0.7278503973600627,0.6814404474094952,4,3,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,184,2,13:30,810,1410,Markus Howard made Free Throw.,46,43,3,0,0.6886131778418161,0.6388322965293782,4,3,2,NA,NA,Marquette,made,Markus Howard,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,185,2,13:08,788,1388,Foul on Jayce Johnson.,46,43,3,22,0.689895833204322,0.6405840383587244,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,186,2,13:08,788,1388,Jason Carter missed Free Throw.,46,43,3,0,0.689895833204322,0.6405840383587244,4,3,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,187,2,13:08,788,1388,Xavier Offensive Rebound.,46,43,3,0,0.689895833204322,0.6405840383587244,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,188,2,13:07,787,1387,Jason Carter missed Free Throw.,46,43,3,1,0.6899587195487621,0.6406691431795403,4,3,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,189,2,13:06,786,1386,Jamal Cain Defensive Rebound.,46,43,3,1,0.6900220397860576,0.6407547677228796,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,190,2,12:47,767,1367,Foul on Brendan Bailey.,46,43,3,19,0.6913133877829916,0.6424875108209916,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,191,2,12:47,767,1367,Brendan Bailey Turnover.,46,43,3,0,0.6913133877829916,0.6424875108209916,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,192,2,12:27,747,1347,Naji Marshall missed Jumper.,46,43,3,20,0.6928764502787865,0.6445564360072811,4,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,193,2,12:24,744,1344,Jamal Cain Defensive Rebound.,46,43,3,3,0.6931310096697744,0.6448909923487225,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,194,2,12:17,737,1337,Markus Howard missed Layup.,46,43,3,7,0.6937468579417482,0.6456980155569714,4,3,2,NA,NA,Marquette,missed,Markus Howard,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,195,2,12:17,737,1337,Quentin Goodin Block.,46,43,3,0,0.6937468579417482,0.6456980155569714,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,196,2,12:12,732,1332,Zach Freemantle Defensive Rebound.,46,43,3,5,0.6942061304931199,0.646297856115268,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,197,2,12:05,725,1325,KyKy Tandy made Three Point Jumper. Assisted by Naji Marshall.,49,43,6,7,0.8068174916240188,0.7708403982646063,4,3,2,NA,NA,Xavier,made,KyKy Tandy,Naji Marshall,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,198,2,11:40,700,1300,Brendan Bailey made Jumper.,49,45,4,25,0.738610689335384,0.6952143515663495,4,3,2,NA,NA,Marquette,made,Brendan Bailey,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,199,2,11:15,675,1275,Foul on Koby McEwen.,49,45,4,25,0.7408794013628436,0.6981633975724223,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,200,2,11:15,675,1275,Official TV Timeout,49,45,4,0,0.7408794013628436,0.6981633975724223,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,201,2,11:15,675,1275,Zach Freemantle made Free Throw.,50,45,5,0,0.7790581444675403,0.7404308657596894,4,3,2,NA,NA,Xavier,made,Zach Freemantle,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,202,2,11:14,674,1274,Zach Freemantle missed Free Throw.,50,45,5,1,0.7791588709631778,0.740559906146967,4,3,2,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,203,2,11:13,673,1273,Jamal Cain Defensive Rebound.,50,45,5,1,0.7792593887191245,0.7406887071339416,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,204,2,10:55,655,1255,Sacar Anim missed Layup.,50,45,5,18,0.7810537936273119,0.7429903828612376,4,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,205,2,10:53,653,1253,Tyrique Jones Defensive Rebound.,50,45,5,2,0.7812539612568123,0.7432471168573895,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,206,2,10:32,632,1232,KyKy Tandy missed Three Point Jumper.,50,45,5,21,0.7834241527649148,0.7460233973234651,4,3,2,NA,NA,Xavier,missed,KyKy Tandy,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,207,2,10:28,628,1228,Jayce Johnson Defensive Rebound.,50,45,5,4,0.7838595937602708,0.7465780988441076,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,208,2,10:23,623,1223,Brendan Bailey missed Three Point Jumper.,50,45,5,5,0.7844177293656177,0.7472876696860655,4,3,2,NA,NA,Marquette,missed,Brendan Bailey,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,209,2,10:19,619,1219,Zach Freemantle Defensive Rebound.,50,45,5,4,0.7848766384938073,0.7478698344902738,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,210,2,9:57,597,1197,Quentin Goodin missed Three Point Jumper.,50,45,5,22,0.7876472951874357,0.75136008048669,4,3,2,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,211,2,9:53,593,1193,Koby McEwen Defensive Rebound.,50,45,5,4,0.7882044542485348,0.7520570699057594,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,212,2,9:48,588,1188,Foul on Naji Marshall.,50,45,5,5,0.7889277481001276,0.7529596654734051,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,213,2,9:24,564,1164,Marquette  Turnover.,50,45,5,24,0.7928735823278171,0.7578458184072355,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,214,2,9:08,548,1148,Quentin Goodin made Three Point Jumper. Assisted by Tyrique Jones.,53,45,8,16,0.8868178764962588,0.8651907426839521,4,3,2,NA,NA,Xavier,made,Quentin Goodin,Tyrique Jones,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,215,2,8:45,525,1125,Foul on Tyrique Jones.,53,45,8,23,0.8909072147327631,0.8702470466606863,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,216,2,8:45,525,1125,Sacar Anim made Free Throw.,53,46,7,0,0.8655471672582429,0.8409417280394854,4,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,217,2,8:44,524,1124,Sacar Anim missed Free Throw.,53,46,7,1,0.8657081851876132,0.8411417969982912,4,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,218,2,8:42,522,1122,Tyrique Jones Defensive Rebound.,53,46,7,2,0.8660262355586416,0.841537237634841,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,219,2,8:29,509,1109,KyKy Tandy Turnover.,53,46,7,13,0.8679977780069101,0.8439946116344115,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,220,2,8:29,509,1109,Sacar Anim Steal.,53,46,7,0,0.8679977780069101,0.8439946116344115,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,221,2,8:26,506,1106,Foul on Quentin Goodin.,53,46,7,3,0.8684383416430124,0.8445446649065744,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,222,2,8:26,506,1106,Sacar Anim made Free Throw.,53,47,6,0,0.8382743345579695,0.810100317644551,4,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,223,2,8:25,505,1105,Sacar Anim made Free Throw.,53,48,5,1,0.8029050117414176,0.7702777049175831,4,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,224,2,8:03,483,1083,Paul Scruggs Turnover.,53,48,5,22,0.8060664261695286,0.7742493109787558,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,225,2,8:03,483,1083,Sacar Anim Steal.,53,48,5,0,0.8060664261695286,0.7742493109787558,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,226,2,8:00,480,1080,Foul on Quentin Goodin.,53,48,5,3,0.8065289793630593,0.7748273242911953,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,227,2,8:00,480,1080,Official TV Timeout,53,48,5,0,0.8065289793630593,0.7748273242911953,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,228,2,8:00,480,1080,Sacar Anim made Free Throw.,53,49,4,0,0.765030064966133,0.7288148874715404,4,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,229,2,8:00,480,1080,Sacar Anim missed Free Throw.,53,49,4,0,0.765030064966133,0.7288148874715404,4,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,230,2,8:00,480,1080,Jason Carter Defensive Rebound.,53,49,4,0,0.765030064966133,0.7288148874715404,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,231,2,7:44,464,1064,Tyrique Jones missed Jumper.,53,49,4,16,0.7674655334298052,0.7318714878521033,4,3,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,232,2,7:41,461,1061,Sacar Anim Defensive Rebound.,53,49,4,3,0.7679759552630481,0.7325063524628117,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,233,2,7:13,433,1033,Symir Torrence made Jumper.,53,51,2,28,0.6699777402810168,0.6276984814851125,4,3,2,NA,NA,Marquette,made,Symir Torrence,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,234,2,6:41,401,1001,Naji Marshall missed Jumper.,53,51,2,32,0.6743241786763223,0.6334701127012387,4,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,235,2,6:39,399,999,Sacar Anim Defensive Rebound.,53,51,2,2,0.674570306110909,0.6338079403266444,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,236,2,6:33,393,993,Sacar Anim Turnover.,53,51,2,6,0.6753042007864185,0.6348194702698756,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,237,2,6:26,386,986,Foul on Jamal Cain.,53,51,2,7,0.6761619908912978,0.6360065019386151,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,238,2,6:24,384,984,Foul on Jamal Cain.,53,51,2,2,0.6764093749023088,0.6363491140627422,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,239,2,6:12,372,972,Naji Marshall missed Three Point Jumper.,53,51,2,12,0.6779409987592002,0.638464273117361,4,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,240,2,6:09,369,969,Tyrique Jones Offensive Rebound.,53,51,2,3,0.6783421541262755,0.6390148610064424,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,241,2,6:09,369,969,Foul on Brendan Bailey.,53,51,2,0,0.6783421541262755,0.6390148610064424,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,242,2,6:07,367,967,Tyrique Jones missed Free Throw.,53,51,2,2,0.6786148797171433,0.6393880608167828,4,3,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,243,2,6:06,366,966,Jamal Cain Defensive Rebound.,53,51,2,1,0.678752959106248,0.6395766397976185,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,244,2,5:52,352,952,Sacar Anim missed Three Point Jumper.,53,51,2,14,0.6808318664887673,0.6423822373125025,4,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,245,2,5:49,349,949,Quentin Goodin Defensive Rebound.,53,51,2,3,0.6813193043091941,0.6430305149762401,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,246,2,5:30,330,930,Foul on Quentin Goodin.,53,51,2,19,0.6848561640442016,0.6476334471708383,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,247,2,5:30,330,930,Quentin Goodin Turnover.,53,51,2,0,0.6848561640442016,0.6476334471708383,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,248,2,5:01,301,901,Foul on Jason Carter.,53,51,2,29,0.6913750360560007,0.6559053801070077,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,249,2,5:01,301,901,Koby McEwen made Free Throw.,53,52,1,0,0.6186933053608525,0.5799455640483808,4,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,250,2,5:01,301,901,Xavier  Timeout,53,52,1,0,0.6186933053608525,0.5799455640483808,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,251,2,5:01,301,901,Koby McEwen made Free Throw.,53,53,0,0,0.5402764757489219,0.5,3,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,252,2,4:38,278,878,Foul on Sacar Anim.,53,53,0,23,0.5390814117550805,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,253,2,4:38,278,878,Naji Marshall made Free Throw.,54,53,1,0,0.617853781803048,0.580250877604276,3,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,254,2,4:36,276,876,Naji Marshall missed Free Throw.,54,53,1,2,0.6176569069207556,0.5801498265620182,3,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,255,2,4:35,275,875,Symir Torrence Defensive Rebound.,54,53,1,1,0.6175537931294355,0.5800945494795842,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,256,2,4:19,259,859,Brendan Bailey missed Three Point Jumper.,54,53,1,16,0.6156629553273495,0.5789717399540718,3,3,2,NA,NA,Marquette,missed,Brendan Bailey,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,257,2,4:15,255,855,Paul Scruggs Defensive Rebound.,54,53,1,4,0.6151789847437699,0.5786835385461147,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,258,2,4:04,244,844,Naji Marshall missed Jumper.,54,53,1,11,0.6140070473685458,0.5780664183065353,3,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,259,2,4:01,241,841,Brendan Bailey Defensive Rebound.,54,53,1,3,0.6137549184899693,0.5779710164293155,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,260,2,3:43,223,823,Sacar Anim missed Layup.,54,53,1,18,0.6132824374154598,0.5785064839149651,3,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,261,2,3:41,221,821,Tyrique Jones Defensive Rebound.,54,53,1,2,0.6133728929699219,0.5787174905076347,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,262,2,3:24,204,804,Foul on Koby McEwen.,54,53,1,17,0.615719559381392,0.5821763390144347,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,263,2,3:24,204,804,Official TV Timeout,54,53,1,0,0.615719559381392,0.5821763390144347,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,264,2,3:24,204,804,Quentin Goodin made Free Throw.,55,53,2,0,0.6906442415636516,0.660029979777004,3,3,2,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,265,2,3:24,204,804,Quentin Goodin made Free Throw.,56,53,3,0,0.7567322528537256,0.7301023131987842,3,3,2,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,266,2,2:55,175,775,Brendan Bailey missed Jumper.,56,53,3,29,0.7842873286651959,0.7611965067694487,3,3,2,NA,NA,Marquette,missed,Brendan Bailey,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,267,2,2:51,171,771,Tyrique Jones Defensive Rebound.,56,53,3,4,0.7884631524065708,0.7658953898510412,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,268,2,2:31,151,751,Zach Freemantle missed Three Point Jumper.,56,53,3,20,0.8098695378184303,0.7899702218737857,3,3,2,NA,NA,Xavier,missed,Zach Freemantle,NA,TRUE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,269,2,2:29,149,749,Naji Marshall Offensive Rebound.,56,53,3,2,0.8120884070463794,0.7924627890401491,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,270,2,2:29,149,749,Foul on Sacar Anim.,56,53,3,0,0.8120884070463794,0.7924627890401491,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,271,2,2:29,149,749,Naji Marshall missed Free Throw.,56,53,3,0,0.8120884070463794,0.7924627890401491,3,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,272,2,2:29,149,749,Xavier Offensive Rebound.,56,53,3,0,0.8120884070463794,0.7924627890401491,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,273,2,2:28,148,748,Naji Marshall missed Free Throw.,56,53,3,1,0.8132046458149808,0.7937164392269511,3,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,274,2,2:26,146,746,Sacar Anim Defensive Rebound.,56,53,3,2,0.8154512272409296,0.7962389984206267,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,275,2,2:08,128,728,Brendan Bailey missed Three Point Jumper.,56,53,3,18,0.8366047655250095,0.8199500225029231,3,3,2,NA,NA,Marquette,missed,Brendan Bailey,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,276,2,2:05,125,725,Naji Marshall Defensive Rebound.,56,53,3,3,0.8403029616710634,0.8240875017023821,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,277,2,1:46,106,706,Paul Scruggs made Jumper.,58,53,5,19,0.9534600165418224,0.9483369899375026,3,3,2,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,278,2,1:38,98,698,Marquette  Timeout,58,53,5,8,0.9601008539104531,0.955792860831193,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,279,2,1:27,87,687,Koby McEwen made Three Point Jumper.,58,56,2,11,0.8068987787773916,0.7903243296015451,3,2,2,NA,NA,Marquette,made,Koby McEwen,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,280,2,1:12,72,672,Xavier  Timeout,58,56,2,15,0.8273020736876456,0.8129087385787331,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,281,2,1:05,65,665,Foul on Naji Marshall.,58,56,2,7,0.8369535056277627,0.8235764790268921,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,282,2,1:05,65,665,Naji Marshall Turnover.,58,56,2,0,0.8369535056277627,0.8235764790268921,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,283,2,0:56,56,656,Koby McEwen made Jumper.,58,58,0,9,0.5228629580561395,0.5,2,2,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,284,2,0:37,37,637,Tyrique Jones Turnover.,58,58,0,19,0.520986478574603,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,285,2,0:37,37,637,Theo John Steal.,58,58,0,0,0.520986478574603,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,286,2,0:09,9,609,Koby McEwen made Free Throw.,58,59,-1,28,0.2613940778625973,0.24767571268535712,2,2,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,287,2,0:09,9,609,Foul on Naji Marshall.,58,58,0,0,0.5180700788523656,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,288,2,0:09,9,609,Koby McEwen made Free Throw.,58,60,-2,0,0.10435154393075304,0.0977838788911445,2,2,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,289,2,0:09,9,609,Xavier  Timeout,58,60,-2,0,0.10435154393075304,0.0977838788911445,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,290,2,0:09,9,609,Koby McEwen made Free Throw.,58,61,-3,0,0.036939679746696125,0.03445157466119594,1,2,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,291,2,0:02,2,602,Naji Marshall made Three Point Jumper. Assisted by Quentin Goodin.,61,61,0,7,0.5173102543380504,0.5,1,2,2,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,292,2,0:00,600,600,End of 2nd half,61,61,0,2,0.5511254253718617,0.5,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA,NA
+401168418,2020-01-29,Xavier,Marquette,293,3,5:00,600,600,PLAY,61,61,0,0,0.5511254253718617,0.5,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,294,3,4:38,278,578,Naji Marshall made Jumper.,63,61,2,22,0.6908832634862675,0.6564709366042508,2,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,295,3,4:19,259,559,Theo John Turnover.,63,61,2,19,0.6877741019546463,0.6540992968368612,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,296,3,4:19,259,559,Paul Scruggs Steal.,63,61,2,0,0.6877741019546463,0.6540992968368612,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,297,3,4:02,242,542,Zach Freemantle missed Layup.,63,61,2,17,0.685253769521803,0.6522907543065937,2,3,2,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,298,3,4:00,240,540,Symir Torrence Defensive Rebound.,63,61,2,2,0.6850681972702454,0.6521978153087602,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,299,3,3:50,230,530,Koby McEwen made Layup.,63,63,0,10,0.5364722042206951,0.5,2,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,300,3,3:50,230,530,Foul on Zach Freemantle.,63,63,0,0,0.5364722042206951,0.5,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,301,3,3:50,230,530,Koby McEwen made Free Throw.,63,64,-1,0,0.4579612698864842,0.4219676366364322,2,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,302,3,3:36,216,516,Foul on Brendan Bailey.,63,64,-1,14,0.45572153221680445,0.42058996524000064,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,303,3,3:36,216,516,Quentin Goodin made Free Throw.,64,64,0,0,0.535632727703886,0.5,2,3,2,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,304,3,3:36,216,516,Quentin Goodin missed Free Throw.,64,64,0,0,0.535632727703886,0.5,2,3,2,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,305,3,3:36,216,516,Jamal Cain Defensive Rebound.,64,64,0,0,0.535632727703886,0.5,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,306,3,3:20,200,500,Koby McEwen made Layup.,64,66,-2,16,0.36920643214176757,0.3375426621599838,2,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,307,3,3:20,200,500,Foul on Quentin Goodin.,64,66,-2,0,0.36920643214176757,0.3375426621599838,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,308,3,3:20,200,500,Koby McEwen made Free Throw.,64,67,-3,0,0.2946813965300346,0.2667066664633636,2,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,309,3,3:10,190,490,Naji Marshall made Jumper. Assisted by Quentin Goodin.,66,67,-1,10,0.4454877802539175,0.41221836482567875,2,3,2,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,310,3,2:41,161,461,Koby McEwen missed Three Point Jumper.,66,67,-1,29,0.42797280641381785,0.3970978492795027,2,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,311,3,2:35,155,455,Koby McEwen Offensive Rebound.,66,67,-1,6,0.42406061544325674,0.3937055684347136,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,312,3,2:21,141,441,Foul on Paul Scruggs.,66,67,-1,14,0.41427854193396785,0.3851790381445527,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,313,3,2:21,141,441,Koby McEwen missed Free Throw.,66,67,-1,0,0.41427854193396785,0.3851790381445527,2,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,314,3,2:21,141,441,Marquette Offensive Rebound.,66,67,-1,0,0.41427854193396785,0.3851790381445527,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,315,3,2:21,141,441,Koby McEwen made Free Throw.,66,68,-2,0,0.307053958550398,0.28186169017619284,2,3,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,316,3,2:05,125,425,Paul Scruggs Turnover.,66,68,-2,16,0.28631834758595337,0.2631758783139883,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,317,3,2:05,125,425,Sacar Anim Steal.,66,68,-2,0,0.28631834758595337,0.2631758783139883,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,318,3,1:38,98,398,Koby McEwen missed Layup.,66,68,-2,27,0.24556017762251822,0.2262756077096679,2,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,319,3,1:38,98,398,Tyrique Jones Block.,66,68,-2,0,0.24556017762251822,0.2262756077096679,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,320,3,1:37,97,397,Xavier Defensive Rebound.,66,68,-2,1,0.24390608096430832,0.22477427548017792,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,321,3,1:26,86,386,Foul on Brendan Bailey.,66,68,-2,11,0.2256216069145212,0.20817802708677668,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,322,3,1:26,86,386,Naji Marshall made Free Throw.,67,68,-1,0,0.36233823722332764,0.33895120774153426,2,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,323,3,1:26,86,386,Naji Marshall made Free Throw.,68,68,0,0,0.5256628365846941,0.5,2,3,2,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,324,3,1:06,66,366,Sacar Anim missed Three Point Jumper.,68,68,0,20,0.5238178146108201,0.5,2,3,2,NA,NA,Marquette,missed,Sacar Anim,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,325,3,1:02,62,362,Theo John Offensive Rebound.,68,68,0,4,0.523438283111929,0.5,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,326,3,0:57,57,357,Marquette  Timeout,68,68,0,5,0.5229593726218196,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,327,3,0:57,57,357,Official TV Timeout,68,68,0,0,0.5229593726218196,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,328,3,0:42,42,342,Symir Torrence missed Three Point Jumper.,68,68,0,15,0.5214887322598557,0.5,2,2,2,NA,NA,Marquette,missed,Symir Torrence,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,329,3,0:38,38,338,Naji Marshall Defensive Rebound.,68,68,0,4,0.5210873863157333,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,330,3,0:23,23,323,Naji Marshall missed Jumper.,68,68,0,15,0.5195522241767102,0.5,2,2,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,331,3,0:18,18,318,Jason Carter Offensive Rebound.,68,68,0,5,0.5190294285954719,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,332,3,0:17,17,317,Jason Carter missed Jumper.,68,68,0,1,0.5189239437793113,0.5,2,2,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,333,3,0:13,13,313,Jamal Cain Defensive Rebound.,68,68,0,4,0.5184991414494768,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,334,3,0:00,300,300,Koby McEwen missed Three Point Jumper.,68,68,0,13,0.5402242358390721,0.5,2,2,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,335,3,0:00,300,300,Quentin Goodin Defensive Rebound.,68,68,0,0,0.5402242358390721,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,336,3,0:00,300,300,End of 1st overtime,68,68,0,0,0.5402242358390721,0.5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA,NA
+401168418,2020-01-29,Xavier,Marquette,337,4,5:00,300,300,PLAY,68,68,0,0,0.5402242358390721,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,338,4,4:29,269,269,Koby McEwen missed Three Point Jumper.,68,68,0,31,0.5386115185335869,0.5,3,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,339,4,4:27,267,267,Foul on Paul Scruggs.,68,68,0,2,0.5385064278854479,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,340,4,4:27,267,267,Sacar Anim made Free Throw.,68,69,-1,0,0.458429179674032,0.4204322222943676,3,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,341,4,4:27,267,267,Sacar Anim made Free Throw.,68,70,-2,0,0.3804432325901171,0.3447948784859836,3,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,342,4,4:26,266,266,Marquette Offensive Rebound.,68,70,-2,1,0.38053464137475984,0.3449303673759031,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,343,4,4:09,249,249,Quentin Goodin made Three Point Jumper. Assisted by Paul Scruggs.,71,70,1,17,0.6145001239337882,0.5783038226571416,3,3,2,NA,NA,Xavier,made,Quentin Goodin,Paul Scruggs,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,344,4,3:33,213,213,Koby McEwen missed Three Point Jumper.,71,70,1,36,0.6141002255419877,0.5799475654092762,3,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,TRUE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,345,4,3:29,209,209,Marquette Offensive Rebound.,71,70,1,4,0.614706844897204,0.580818929128759,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,346,4,3:22,202,202,Sacar Anim made Three Point Jumper. Assisted by Koby McEwen.,71,73,-2,7,0.3706454044424228,0.3388047872342174,3,3,2,NA,NA,Marquette,made,Sacar Anim,Koby McEwen,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,347,4,3:01,181,181,Naji Marshall missed Jumper.,71,73,-2,21,0.3511541131284842,0.32141341290572584,3,3,2,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,348,4,2:58,178,178,Paul Scruggs Offensive Rebound.,71,73,-2,3,0.34806637717979244,0.3186467575696597,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,349,4,2:57,177,177,Foul on Sacar Anim.,71,73,-2,1,0.347033856134627,0.31772176789566253,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,350,4,2:57,177,177,Jason Carter missed Free Throw.,71,73,-2,0,0.347033856134627,0.31772176789566253,3,3,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,351,4,2:57,177,177,Xavier Offensive Rebound.,71,73,-2,0,0.347033856134627,0.31772176789566253,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,352,4,2:57,177,177,Jason Carter missed Free Throw.,71,73,-2,0,0.347033856134627,0.31772176789566253,3,3,2,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,353,4,2:57,177,177,Xavier Offensive Rebound.,71,73,-2,0,0.347033856134627,0.31772176789566253,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,354,4,2:38,158,158,Quentin Goodin made Three Point Jumper.,74,73,1,19,0.6343990005233199,0.6045814726400583,3,3,2,NA,NA,Xavier,made,Quentin Goodin,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,355,4,2:16,136,136,Koby McEwen missed Jumper.,74,73,1,22,0.6459536834074107,0.6181165308872487,3,3,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,FALSE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,356,4,2:15,135,135,Foul on Naji Marshall.,74,73,1,1,0.646536899733681,0.618793571801422,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,357,4,2:15,135,135,Theo John missed Free Throw.,74,73,1,0,0.646536899733681,0.618793571801422,3,3,2,NA,NA,Marquette,missed,Theo John,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,358,4,2:15,135,135,Theo John made Free Throw.,74,74,0,0,0.5298196898400133,0.5,3,3,2,NA,NA,Marquette,made,Theo John,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,359,4,2:15,135,135,Marquette Offensive Rebound.,74,74,0,0,0.5298196898400133,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,360,4,2:13,133,133,Theo John Offensive Rebound.,74,74,0,2,0.5296606014173697,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,361,4,1:58,118,118,Paul Scruggs made Jumper.,76,74,2,15,0.7667023584003564,0.7457172706528464,3,3,2,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,362,4,1:36,96,96,Sacar Anim made Layup.,76,76,0,22,0.5265552060611677,0.5,3,3,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,363,4,1:10,70,70,Paul Scruggs missed Jumper.,76,76,0,26,0.5241943775287636,0.5,3,3,2,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,364,4,1:05,65,65,Jamal Cain Defensive Rebound.,76,76,0,5,0.5237232182845467,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,365,4,0:55,55,55,Marquette  Timeout,76,76,0,10,0.5227663249702273,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,366,4,0:55,55,55,Official TV Timeout,76,76,0,0,0.5227663249702273,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,367,4,0:37,37,37,Sacar Anim made Three Point Jumper.,76,79,-3,18,0.06297613153391769,0.058197772165053605,3,2,2,NA,NA,Marquette,made,Sacar Anim,NA,TRUE,FALSE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,368,4,0:34,34,34,Xavier  Timeout,76,79,-3,3,0.05972416010295718,0.05524156273369957,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,369,4,0:33,33,33,Foul on Theo John.,76,79,-3,1,0.058665878157107304,0.05427905517869263,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,370,4,0:33,33,33,Tyrique Jones missed Free Throw.,76,79,-3,0,0.058665878157107304,0.05427905517869263,2,2,2,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,371,4,0:33,33,33,Xavier Offensive Rebound.,76,79,-3,0,0.058665878157107304,0.05427905517869263,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,372,4,0:33,33,33,Tyrique Jones made Free Throw.,77,79,-2,0,0.1390938222135862,0.12952038322582643,2,2,2,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,373,4,0:29,29,29,Foul on KyKy Tandy.,77,79,-2,4,0.13301040170494702,0.12397336836133516,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,374,4,0:29,29,29,Symir Torrence missed Free Throw.,77,79,-2,0,0.13301040170494702,0.12397336836133516,2,2,2,NA,NA,Marquette,missed,Symir Torrence,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,375,4,0:29,29,29,Marquette Offensive Rebound.,77,79,-2,0,0.13301040170494702,0.12397336836133516,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,376,4,0:29,29,29,Symir Torrence made Free Throw.,77,80,-3,0,0.054564379985489644,0.050546416987812696,2,2,2,NA,NA,Marquette,made,Symir Torrence,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,377,4,0:23,23,23,Quentin Goodin missed Three Point Jumper.,77,80,-3,6,0.04881511854035685,0.04530748007934808,2,2,2,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,378,4,0:19,19,19,Foul on Zach Freemantle.,77,80,-3,4,0.04521692145251318,0.04202372636616275,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,379,4,0:19,19,19,Jamal Cain made Free Throw.,77,81,-4,0,0.016427913512899177,0.015235341616680557,2,2,2,NA,NA,Marquette,made,Jamal Cain,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,380,4,0:19,19,19,Jamal Cain made Free Throw.,77,82,-5,0,0.005856058661129517,0.005426708213685131,2,2,2,NA,NA,Marquette,made,Jamal Cain,NA,FALSE,TRUE,Xavier,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,381,4,0:19,19,19,Jamal Cain Defensive Rebound.,77,82,-5,0,0.005856058661129517,0.005426708213685131,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,382,4,0:10,10,10,Paul Scruggs made Layup.,79,82,-3,9,0.03771706746556458,0.035163883243131466,2,2,2,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,383,4,0:10,10,10,Xavier  Timeout,79,82,-3,0,0.03771706746556458,0.035163883243131466,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,384,4,0:08,8,8,Foul on Tyrique Jones.,79,82,-3,2,0.03617400903043478,0.033749757602105614,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,385,4,0:08,8,8,Koby McEwen missed Free Throw.,79,82,-3,0,0.03617400903043478,0.033749757602105614,1,2,2,NA,NA,Marquette,missed,Koby McEwen,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,386,4,0:08,8,8,Marquette Offensive Rebound.,79,82,-3,0,0.03617400903043478,0.033749757602105614,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,387,4,0:08,8,8,Koby McEwen made Free Throw.,79,83,-4,0,0.012119814271148846,0.011288707423264361,1,2,2,NA,NA,Marquette,made,Koby McEwen,NA,FALSE,TRUE,Marquette,Xavier,NA
+401168418,2020-01-29,Xavier,Marquette,388,4,0:03,3,3,Zach Freemantle made Three Point Jumper. Assisted by Quentin Goodin.,82,83,-1,5,0.25266831864221867,0.23973417984034148,1,2,2,NA,NA,Xavier,made,Zach Freemantle,Quentin Goodin,TRUE,FALSE,Xavier,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,389,4,0:02,2,2,Foul on Paul Scruggs.,82,83,-1,1,0.25121352376545947,0.23840948742742968,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,390,4,0:02,2,2,Sacar Anim missed Free Throw.,82,83,-1,0,0.25121352376545947,0.23840948742742968,1,2,2,NA,NA,Marquette,missed,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,391,4,0:02,2,2,Sacar Anim made Free Throw.,82,84,-2,0,0.09504197802308122,0.08924905907234798,1,2,2,NA,NA,Marquette,made,Sacar Anim,NA,FALSE,TRUE,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,392,4,0:02,2,2,Marquette Offensive Rebound.,82,84,-2,0,0.09504197802308122,0.08924905907234798,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,Marquette,NA
+401168418,2020-01-29,Xavier,Marquette,393,4,0:00,0,0,End of 2nd overtime,82,84,-2,2,0,4.248354255291589e-18,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA,0
+401168418,2020-01-29,Xavier,Marquette,394,4,0:00,0,0,End of Game,82,84,-2,0,0,4.248354255291589e-18,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marquette,NA,0

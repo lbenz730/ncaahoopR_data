@@ -1,0 +1,341 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after,win_prob_naive
+401171970,2020-02-14,Marist,Fairfield,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.5795343251242632,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,2,1,19:32,2372,2672,Tyler Saint-Furcy missed Jumper.,0,0,0,28,0.5793134836078796,0.5,4,4,2,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,3,1,19:30,2370,2670,Fairfield Defensive Rebound.,0,0,0,2,0.5792974237391585,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,4,1,19:00,2340,2640,Allan Jeanne-Rose Turnover.,0,0,0,30,0.5790518298494091,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,5,1,19:00,2340,2640,Michael Cubbage Steal.,0,0,0,0,0.5790518298494091,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,6,1,19:00,2340,2640,Foul on Allan Jeanne-Rose.,0,0,0,0,0.5790518298494091,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,7,1,18:39,2319,2619,Jordan Jones missed Jumper.,0,0,0,21,0.5788745488257035,0.5,4,4,2,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,8,1,18:35,2315,2615,Vincent Eze Defensive Rebound.,0,0,0,4,0.5788402677885539,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,9,1,18:28,2308,2608,Taj Benning made Jumper.,0,2,-2,7,0.5332519212849243,0.4539899374231114,4,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,10,1,18:08,2288,2588,Tyler Saint-Furcy Turnover.,0,2,-2,20,0.5326263521749512,0.4535453277550481,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,11,1,18:08,2288,2588,Vincent Eze Steal.,0,2,-2,0,0.5326263521749512,0.4535453277550481,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,12,1,17:48,2268,2568,Vincent Eze missed Jumper.,0,2,-2,20,0.5319923733180645,0.45309687598260123,4,4,2,NA,NA,Fairfield,missed,Vincent Eze,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,13,1,17:43,2263,2563,Allan Jeanne-Rose Offensive Rebound.,0,2,-2,5,0.5318326009048638,0.45298421201451977,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,14,1,17:41,2261,2561,Allan Jeanne-Rose made Layup.,0,4,-4,2,0.484615637308098,0.4067046716886604,4,4,2,NA,NA,Fairfield,made,Allan Jeanne-Rose,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,15,1,17:25,2245,2545,Tyler Saint-Furcy missed Three Point Jumper.,0,4,-4,16,0.4837338220717451,0.4059995132609002,4,4,2,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,16,1,17:20,2240,2540,Fairfield Defensive Rebound.,0,4,-4,5,0.48345685326725996,0.40577844028351323,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,17,1,17:05,2225,2525,Jesus Cruz missed Three Point Jumper.,0,4,-4,15,0.48262211114814446,0.40511337697178423,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,18,1,17:02,2222,2522,Calvin Whipple Offensive Rebound.,0,4,-4,3,0.48245449170096993,0.4049800537963451,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,19,1,16:47,2207,2507,Taj Benning Turnover.,0,4,-4,15,0.48161317856475233,0.40431203923558967,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,20,1,16:32,2192,2492,Braden Bell made Jumper. Assisted by Tyler Saint-Furcy.,2,4,-2,15,0.5295120269529572,0.45136513373923337,4,4,2,NA,NA,Marist,made,Braden Bell,Tyler Saint-Furcy,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,21,1,16:01,2161,2461,Allan Jeanne-Rose made Layup.,2,6,-4,31,0.47900223917921136,0.40225169967599833,4,4,2,NA,NA,Fairfield,made,Allan Jeanne-Rose,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,22,1,15:37,2137,2437,Foul on Michael Cubbage.,2,6,-4,24,0.47761971670206316,0.40116780955305614,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,23,1,15:37,2137,2437,Michael Cubbage Turnover.,2,6,-4,0,0.47761971670206316,0.40116780955305614,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,24,1,15:37,2137,2437,Official TV Timeout,2,6,-4,0,0.47761971670206316,0.40116780955305614,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,25,1,15:20,2120,2420,Vincent Eze missed Layup.,2,6,-4,17,0.4766307011580338,0.40039491721990095,4,4,2,NA,NA,Fairfield,missed,Vincent Eze,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,26,1,15:16,2116,2416,Tobias Sjoberg Defensive Rebound.,2,6,-4,4,0.47639678424342446,0.400212401263518,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,27,1,15:11,2111,2411,Tyler Sagl made Three Point Jumper. Assisted by Matthew Herasme.,5,6,-1,5,0.5519348129083456,0.47467592312812285,4,4,2,NA,NA,Marist,made,Tyler Sagl,Matthew Herasme,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,28,1,14:53,2093,2393,Allan Jeanne-Rose missed Three Point Jumper.,5,6,-1,18,0.5515212362203298,0.47446126854642284,4,4,2,NA,NA,Fairfield,missed,Allan Jeanne-Rose,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,29,1,14:50,2090,2390,Matthew Herasme Defensive Rebound.,5,6,-1,3,0.5514518005056486,0.47442533718173074,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,30,1,14:33,2073,2373,Michael Cubbage missed Jumper.,5,6,-1,17,0.551055584482439,0.4742208496584454,4,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,31,1,14:29,2069,2369,Allan Jeanne-Rose Defensive Rebound.,5,6,-1,4,0.550961676218247,0.4741725126841792,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,32,1,14:06,2046,2346,Vincent Eze missed Layup.,5,6,-1,23,0.5504166382356862,0.4738928543211952,4,4,2,NA,NA,Fairfield,missed,Vincent Eze,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,33,1,14:05,2045,2345,Jesus Cruz Offensive Rebound.,5,6,-1,1,0.550392744398151,0.473880626850835,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,34,1,14:05,2045,2345,Foul on Tyler Sagl.,5,6,-1,0,0.550392744398151,0.473880626850835,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,35,1,13:58,2038,2338,Landon Taliaferro missed Layup.,5,6,-1,7,0.5502250269738144,0.4737948700033326,4,4,2,NA,NA,Fairfield,missed,Landon Taliaferro,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,36,1,13:54,2034,2334,Wassef Methnani Offensive Rebound.,5,6,-1,4,0.5501288259727635,0.4737457352982908,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,37,1,13:52,2032,2332,Jesus Cruz missed Three Point Jumper.,5,6,-1,2,0.5500806264378225,0.4737211318323147,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,38,1,13:49,2029,2329,Michael Cubbage Defensive Rebound.,5,6,-1,3,0.5500082031881847,0.4736841811083096,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,39,1,13:33,2013,2313,Tyler Sagl made Three Point Jumper. Assisted by Michael Cubbage.,8,6,2,16,0.6265858872093472,0.5528789682587631,4,4,2,NA,NA,Marist,made,Tyler Sagl,Michael Cubbage,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,40,1,13:11,1991,2291,Taj Benning missed Three Point Jumper.,8,6,2,22,0.6268482191470993,0.5534242030335981,4,4,2,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,41,1,13:07,1987,2287,Braden Bell Defensive Rebound.,8,6,2,4,0.6268960759973811,0.5535240130236178,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,42,1,13:04,1984,2284,Tyler Sagl missed Three Point Jumper.,8,6,2,3,0.6269320052167366,0.5535990104797295,4,4,2,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,43,1,12:56,1976,2276,Taj Benning Defensive Rebound.,8,6,2,8,0.6270279789632507,0.5537995975404946,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,44,1,12:32,1952,2252,Fairfield  Turnover.,8,6,2,24,0.6273175055944253,0.554406690544311,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,45,1,12:13,1933,2233,Michael Cubbage missed Jumper.,8,6,2,19,0.6275487120462894,0.5548932088801155,4,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,46,1,12:10,1930,2230,Aidas Kavaliauskas Defensive Rebound.,8,6,2,3,0.6275854008408452,0.5549705212510788,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,47,1,11:59,1919,2219,Official TV Timeout,8,6,2,11,0.6277189524069495,0.5552539538854575,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,48,1,11:48,1908,2208,Kevin Senghore-Peterson missed Jumper.,8,6,2,11,0.6278505220132734,0.5555369292689899,4,4,2,NA,NA,Fairfield,missed,Kevin Senghore-Peterson,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,49,1,11:45,1905,2205,Kevin Senghore-Peterson Offensive Rebound.,8,6,2,3,0.6278860919393563,0.5556140519468978,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,50,1,11:43,1903,2203,Landon Taliaferro missed Three Point Jumper.,8,6,2,2,0.6279097355375881,0.5556654586854471,4,4,2,NA,NA,Fairfield,missed,Landon Taliaferro,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,51,1,11:39,1899,2199,Jack Cavanaugh Defensive Rebound.,8,6,2,4,0.6279568619191769,0.5557682575874999,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,52,1,11:36,1896,2196,Jack Cavanaugh made Three Point Jumper. Assisted by Henry Makeny.,11,6,5,3,0.7026791047017756,0.6366360578558812,4,4,2,NA,NA,Marist,made,Jack Cavanaugh,Henry Makeny,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,53,1,11:15,1875,2175,Foul on Jack Cavanaugh.,11,6,5,21,0.7035815296312885,0.6378997874498564,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,54,1,11:01,1861,2161,Wassef Methnani missed Three Point Jumper.,11,6,5,14,0.7041812522081414,0.6387428947088771,4,4,2,NA,NA,Fairfield,missed,Wassef Methnani,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,55,1,10:58,1858,2158,Kevin Senghore-Peterson Offensive Rebound.,11,6,5,3,0.7043096814222024,0.6389237403033098,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,56,1,10:56,1856,2156,Kevin Senghore-Peterson Turnover.,11,6,5,2,0.7043952958445973,0.6390443505328853,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,57,1,10:35,1835,2135,Jack Cavanaugh missed Three Point Jumper.,11,6,5,21,0.7052947393177368,0.6403137454981015,4,4,2,NA,NA,Marist,missed,Jack Cavanaugh,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,58,1,10:31,1831,2131,Taj Benning Defensive Rebound.,11,6,5,4,0.7054663216216456,0.6405563126381448,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,59,1,10:09,1809,2109,Taj Benning missed Jumper.,11,6,5,22,0.706413075262524,0.6418964578402759,4,4,2,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,60,1,10:06,1806,2106,Kevin Senghore-Peterson Offensive Rebound.,11,6,5,3,0.7065427041553539,0.6420801221773212,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,61,1,10:06,1806,2106,Foul on Jordan Jones.,11,6,5,0,0.7065427041553539,0.6420801221773212,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,62,1,10:06,1806,2106,Kevin Senghore-Peterson made Free Throw.,11,7,4,0,0.6817380544590811,0.6147973524782013,4,4,2,NA,NA,Fairfield,made,Kevin Senghore-Peterson,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,63,1,10:06,1806,2106,Kevin Senghore-Peterson made Free Throw.,11,8,3,0,0.6558580001332994,0.5867733419022352,4,4,2,NA,NA,Fairfield,made,Kevin Senghore-Peterson,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,64,1,9:56,1796,2096,Jack Cavanaugh Turnover.,11,8,3,10,0.65608848952393,0.5871621695112834,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,65,1,9:56,1796,2096,Aidas Kavaliauskas Steal.,11,8,3,0,0.65608848952393,0.5871621695112834,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,66,1,9:39,1779,2079,Foul on Tyler Saint-Furcy.,11,8,3,17,0.6564831625336317,0.5878282667021548,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,67,1,9:25,1765,2065,Vincent Eze made Layup.,11,10,1,14,0.6013107772318398,0.5297383490255068,4,4,2,NA,NA,Fairfield,made,Vincent Eze,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,68,1,9:10,1750,2050,Jack Cavanaugh missed Jumper.,11,10,1,15,0.6012936673869916,0.5299440535974776,4,4,2,NA,NA,Marist,missed,Jack Cavanaugh,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,69,1,9:06,1746,2046,Aidas Kavaliauskas Defensive Rebound.,11,10,1,4,0.6012892154972668,0.5299993274547108,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,70,1,9:04,1744,2044,Aidas Kavaliauskas missed Jumper.,11,10,1,2,0.6012870115758819,0.5300270338445211,4,4,2,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,71,1,9:01,1741,2041,Wassef Methnani Offensive Rebound.,11,10,1,3,0.6012837356547639,0.5300686819994131,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,72,1,9:01,1741,2041,Wassef Methnani missed Layup.,11,10,1,0,0.6012837356547639,0.5300686819994131,4,4,2,NA,NA,Fairfield,missed,Wassef Methnani,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,73,1,9:01,1741,2041,Jordan Jones Defensive Rebound.,11,10,1,0,0.6012837356547639,0.5300686819994131,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,74,1,9:01,1741,2041,Jordan Jones Turnover.,11,10,1,0,0.6012837356547639,0.5300686819994131,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,75,1,8:53,1733,2033,Foul on Landon Taliaferro.,11,10,1,8,0.6012751962420283,0.5301802781325905,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,76,1,8:53,1733,2033,Landon Taliaferro Turnover.,11,10,1,0,0.6012751962420283,0.5301802781325905,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,77,1,8:42,1722,2022,Tobias Sjoberg Turnover.,11,10,1,11,0.6012640037662892,0.5303350513630232,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,78,1,8:42,1722,2022,Wassef Methnani Steal.,11,10,1,0,0.6012640037662892,0.5303350513630232,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,79,1,8:40,1720,2020,Foul on Wassef Methnani.,11,10,1,2,0.6012620469293276,0.5303633642745524,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,80,1,8:40,1720,2020,Wassef Methnani Turnover.,11,10,1,0,0.6012620469293276,0.5303633642745524,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,81,1,8:21,1701,2001,Braden Bell missed Jumper.,11,10,1,19,0.6012448864060506,0.5306351462888848,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,82,1,8:18,1698,1998,Vincent Eze Defensive Rebound.,11,10,1,3,0.6012424418299795,0.5306785443909293,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,83,1,7:58,1678,1978,Foul on Tyler Sagl.,11,10,1,20,0.6012242771210191,0.5309686809749316,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,84,1,7:58,1678,1978,Official TV Timeout,11,10,1,0,0.6012242771210191,0.5309686809749316,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,85,1,7:43,1663,1963,Vincent Eze Turnover.,11,10,1,15,0.6012005879391272,0.5311817203704111,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,86,1,7:21,1641,1941,Braden Bell missed Jumper.,11,10,1,22,0.6011511362654346,0.5314877246580954,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,87,1,7:17,1637,1937,Vincent Eze Defensive Rebound.,11,10,1,4,0.6011405481023622,0.5315427325360006,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,88,1,7:02,1622,1922,Allan Jeanne-Rose made Three Point Jumper. Assisted by Jesus Cruz.,11,13,-2,15,0.5071374986636651,0.4367593219887009,4,4,2,NA,NA,Fairfield,made,Allan Jeanne-Rose,Jesus Cruz,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,89,1,7:00,1620,1920,Marist  Timeout,11,13,-2,2,0.5070490575234239,0.436705504728174,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,90,1,6:45,1605,1905,Tyler Saint-Furcy missed Jumper.,11,13,-2,15,0.5063846320774504,0.4363027912893729,3,4,2,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,91,1,6:42,1602,1902,Matthew Herasme made Three Point Jumper. Assisted by Tobias Sjoberg.,14,13,1,3,0.6010324515884996,0.5320196042679948,3,4,2,NA,NA,Marist,made,Matthew Herasme,Tobias Sjoberg,TRUE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,92,1,6:41,1601,1901,Marist Offensive Rebound.,14,13,1,1,0.6010290509397742,0.5320331777955251,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,93,1,6:17,1577,1877,Allan Jeanne-Rose missed Layup.,14,13,1,24,0.6009446152155495,0.5323597335139099,3,4,2,NA,NA,Fairfield,missed,Allan Jeanne-Rose,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,94,1,6:14,1574,1874,Matthew Herasme Defensive Rebound.,14,13,1,3,0.6009338301703017,0.532400763533179,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,95,1,6:02,1562,1862,Michael Cubbage missed Jumper.,14,13,1,12,0.6008906423673195,0.5325656726299244,3,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,96,1,5:58,1558,1858,Vincent Eze Defensive Rebound.,14,13,1,4,0.6008763100195892,0.5326209784847286,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,97,1,5:47,1547,1847,Allan Jeanne-Rose missed Three Point Jumper.,14,13,1,11,0.600837355017158,0.5327741399702546,3,4,2,NA,NA,Fairfield,missed,Allan Jeanne-Rose,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,98,1,5:44,1544,1844,Marist Defensive Rebound.,14,13,1,3,0.6008268978185686,0.5328162183149334,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,99,1,5:23,1523,1823,Tobias Sjoberg Turnover.,14,13,1,21,0.6007568685335355,0.5331152575738887,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,100,1,5:23,1523,1823,Calvin Whipple Steal.,14,13,1,0,0.6007568685335355,0.5331152575738887,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,101,1,5:17,1517,1817,Jesus Cruz made Jumper. Assisted by Calvin Whipple.,14,15,-1,6,0.5355726812102569,0.4667976369955452,3,4,2,NA,NA,Fairfield,made,Jesus Cruz,Calvin Whipple,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,102,1,4:42,1482,1782,Michael Cubbage missed Three Point Jumper.,14,15,-1,35,0.5344247529175408,0.46627070193339,3,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,103,1,4:41,1481,1781,Marist Offensive Rebound.,14,15,-1,1,0.5343914316869707,0.4662551054303592,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,104,1,4:41,1481,1781,Marist  Turnover.,14,15,-1,0,0.5343914316869707,0.4662551054303592,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,105,1,4:18,1458,1758,Taj Benning missed Three Point Jumper.,14,15,-1,23,0.5336162753740972,0.46588659986663794,3,4,2,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,106,1,4:14,1454,1754,Jordan Jones Defensive Rebound.,14,15,-1,4,0.5334796809490268,0.46582045923575116,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,107,1,3:50,1430,1730,Matthew Herasme missed Layup.,14,15,-1,24,0.5326591869576269,0.46542524468810226,3,4,2,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,108,1,3:50,1430,1730,Calvin Whipple Block.,14,15,-1,0,0.5326591869576269,0.46542524468810226,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,109,1,3:45,1425,1725,Kevin Senghore-Peterson Defensive Rebound.,14,15,-1,5,0.5324893258548576,0.4653451384446518,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,110,1,3:38,1418,1718,Foul on Michael Cubbage.,14,15,-1,7,0.5322520008867476,0.46523411343428206,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,111,1,3:38,1418,1718,Official TV Timeout,14,15,-1,0,0.5322520008867476,0.46523411343428206,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,112,1,3:38,1418,1718,Taj Benning made Free Throw.,14,16,-2,0,0.49747478855168376,0.43080277245392756,3,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,113,1,3:38,1418,1718,Taj Benning made Free Throw.,14,17,-3,0,0.46272199271214137,0.3970277683000566,3,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,114,1,3:26,1406,1706,Henry Makeny made Layup.,16,17,-1,12,0.5318461056112677,0.4650463882099137,3,4,2,NA,NA,Marist,made,Henry Makeny,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,115,1,2:55,1375,1675,Jesus Cruz missed Jumper.,16,17,-1,31,0.530798733359605,0.4645712116282983,3,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,116,1,2:51,1371,1671,Jordan Jones Defensive Rebound.,16,17,-1,4,0.530663284020721,0.4645103887382547,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,117,1,2:44,1364,1664,Jordan Jones missed Layup.,16,17,-1,7,0.5304258689601448,0.46440395444890575,3,4,2,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,118,1,2:41,1361,1661,Allan Jeanne-Rose Defensive Rebound.,16,17,-1,3,0.5303239446543411,0.4643583077411053,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,119,1,2:13,1333,1633,Jesus Cruz missed Jumper.,16,17,-1,28,0.5293654321563473,0.4639286555442341,3,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,120,1,2:09,1329,1629,Jordan Jones Defensive Rebound.,16,17,-1,4,0.5292271443444916,0.46386637808543496,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,121,1,1:58,1318,1618,Jordan Jones made Layup.,18,17,1,11,0.6002416034373506,0.536306621648807,3,4,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,122,1,1:58,1318,1618,Foul on Vincent Eze.,18,17,1,0,0.6002416034373506,0.536306621648807,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,123,1,1:58,1318,1618,Jordan Jones made Free Throw.,19,17,2,0,0.6345889152064913,0.5722323848227279,3,4,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,124,1,1:38,1298,1598,Jesus Cruz made Jumper.,19,19,0,20,0.5645029557759029,0.5,3,4,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,125,1,1:15,1275,1575,Jack Cavanaugh Turnover.,19,19,0,23,0.5640686492554841,0.5,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,126,1,0:55,1255,1555,Allan Jeanne-Rose Turnover.,19,19,0,20,0.5636907319180287,0.5,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,127,1,0:43,1243,1543,Foul on Allan Jeanne-Rose.,19,19,0,12,0.563464206597266,0.5,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,128,1,0:27,1227,1527,Braden Bell missed Layup.,19,19,0,16,0.5631627828192485,0.5,3,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,129,1,0:19,1219,1519,Tobias Sjoberg Offensive Rebound.,19,19,0,8,0.5630124440717652,0.5,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,130,1,0:19,1219,1519,Tobias Sjoberg missed Layup.,19,19,0,0,0.5630124440717652,0.5,3,4,2,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,131,1,0:19,1219,1519,Taj Benning Defensive Rebound.,19,19,0,0,0.5630124440717652,0.5,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,132,1,0:19,1219,1519,Fairfield  Timeout,19,19,0,0,0.5630124440717652,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,133,1,0:00,1200,1500,Taj Benning missed Layup.,19,19,0,19,0.5626569618482383,0.5,3,3,2,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,134,1,0:00,1200,1500,Tobias Sjoberg Block.,19,19,0,0,0.5626569618482383,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,135,1,0:00,1200,1500,Matthew Herasme Defensive Rebound.,19,19,0,0,0.5626569618482383,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,136,1,0:00,1200,1500,End of 1st half,19,19,0,0,0.5626569618482383,0.5,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA,NA
+401171970,2020-02-14,Marist,Fairfield,137,2,20:00,1200,1500,PLAY,19,19,0,0,0.5626569618482383,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,138,2,19:33,1173,1473,Michael Cubbage made Layup.,21,19,2,27,0.637108667479904,0.5775966506103395,4,4,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,139,2,19:11,1151,1451,Calvin Whipple missed Three Point Jumper.,21,19,2,22,0.6375439599459597,0.5784561050861952,4,4,2,NA,NA,Fairfield,missed,Calvin Whipple,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,140,2,19:08,1148,1448,Michael Cubbage Defensive Rebound.,21,19,2,3,0.6376025571971989,0.5785723268220714,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,141,2,19:05,1145,1445,Foul on Jordan Jones.,21,19,2,3,0.6376610676294274,0.5786884261793309,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,142,2,19:05,1145,1445,Jordan Jones Turnover.,21,19,2,0,0.6376610676294274,0.5786884261793309,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,143,2,18:41,1121,1421,Taj Benning missed Three Point Jumper.,21,19,2,24,0.6381297153382172,0.579617130045339,4,4,2,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,144,2,18:38,1118,1418,Fairfield Offensive Rebound.,21,19,2,3,0.6381888276951421,0.5797337455372664,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,145,2,18:21,1101,1401,Jesus Cruz missed Jumper.,21,19,2,17,0.638528862334556,0.5804000944655658,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,146,2,18:18,1098,1398,Marist Defensive Rebound.,21,19,2,3,0.6385900233352275,0.5805189662343905,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,147,2,17:58,1078,1378,Jordan Jones made Layup.,23,19,4,20,0.7108028833671172,0.6584585995389034,4,4,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,148,2,17:37,1057,1357,Calvin Whipple missed Layup.,23,19,4,21,0.7119659337524332,0.6600853586579162,4,4,2,NA,NA,Fairfield,missed,Calvin Whipple,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,149,2,17:35,1055,1355,Fairfield Offensive Rebound.,23,19,4,2,0.7120802723071302,0.6602443305263577,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,150,2,17:32,1052,1352,Foul on Jordan Jones.,23,19,4,3,0.7122530795750874,0.6604842615281447,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,151,2,17:16,1036,1336,Allan Jeanne-Rose Turnover.,23,19,4,16,0.7132032448419664,0.6617962728515572,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,152,2,17:07,1027,1327,Michael Cubbage made Layup.,25,19,6,9,0.7774874947000262,0.7334289565217957,4,4,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,153,2,16:41,1001,1301,Taj Benning made Layup.,25,21,4,26,0.7154820081878724,0.6648941708376659,4,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,154,2,16:24,984,1284,Tyler Saint-Furcy Turnover.,25,21,4,17,0.7167081902234478,0.6665349650481079,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,155,2,16:00,960,1260,Foul on Tobias Sjoberg.,25,21,4,24,0.718553972068966,0.668980437525638,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,156,2,16:00,960,1260,Kevin Senghore-Peterson made Free Throw.,25,22,3,0,0.6816588672096519,0.6289425483603995,4,4,2,NA,NA,Fairfield,made,Kevin Senghore-Peterson,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,157,2,16:00,960,1260,Kevin Senghore-Peterson missed Free Throw.,25,22,3,0,0.6816588672096519,0.6289425483603995,4,4,2,NA,NA,Fairfield,missed,Kevin Senghore-Peterson,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,158,2,15:57,957,1257,Michael Cubbage Defensive Rebound.,25,22,3,3,0.6818241536084737,0.6291745858613803,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,159,2,15:44,944,1244,Matthew Herasme made Three Point Jumper. Assisted by Tobias Sjoberg.,28,22,6,13,0.7855187982854901,0.7437621188280741,4,4,2,NA,NA,Marist,made,Matthew Herasme,Tobias Sjoberg,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,160,2,15:19,919,1219,Kevin Senghore-Peterson made Layup. Assisted by Aidas Kavaliauskas.,28,24,4,25,0.721282429370227,0.6726331592180883,4,4,2,NA,NA,Fairfield,made,Kevin Senghore-Peterson,Aidas Kavaliauskas,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,161,2,14:49,889,1189,Tobias Sjoberg missed Layup.,28,24,4,30,0.7230242568721195,0.6749894646330385,4,4,2,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,162,2,14:41,881,1181,Tobias Sjoberg Offensive Rebound.,28,24,4,8,0.723476216231684,0.6756012684887301,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,163,2,14:41,881,1181,Tobias Sjoberg missed Layup.,28,24,4,0,0.723476216231684,0.6756012684887301,4,4,2,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,164,2,14:37,877,1177,Tobias Sjoberg Offensive Rebound.,28,24,4,4,0.7237021944052314,0.6759069348598968,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,165,2,14:37,877,1177,Tobias Sjoberg made Layup.,30,24,6,0,0.7909089459375775,0.7507351658620717,4,4,2,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,166,2,14:36,876,1176,Foul on Matthew Herasme.,30,24,6,1,0.7909845799461084,0.7508331449450578,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,167,2,14:36,876,1176,Official TV Timeout,30,24,6,0,0.7909845799461084,0.7508331449450578,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,168,2,14:28,868,1168,Jesus Cruz Turnover.,30,24,6,8,0.7915914650779413,0.7516188377265224,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,169,2,14:02,842,1142,Matthew Herasme made Three Point Jumper. Assisted by Tyler Sagl.,33,24,9,26,0.870748246978096,0.8431745011195316,4,4,2,NA,NA,Marist,made,Matthew Herasme,Tyler Sagl,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,170,2,13:29,809,1109,Calvin Whipple made Three Point Jumper. Assisted by Aidas Kavaliauskas.,33,27,6,33,0.7964937465392525,0.7579089972648796,4,4,2,NA,NA,Fairfield,made,Calvin Whipple,Aidas Kavaliauskas,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,171,2,13:12,792,1092,Matthew Herasme missed Three Point Jumper.,33,27,6,17,0.7981739672249474,0.7600379436279872,4,4,2,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,172,2,13:09,789,1089,Braden Bell Offensive Rebound.,33,27,6,3,0.7984883179707282,0.7604348603709823,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,173,2,13:09,789,1089,Foul on Allan Jeanne-Rose.,33,27,6,0,0.7984883179707282,0.7604348603709823,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,174,2,12:49,769,1069,Braden Bell missed Jumper.,33,27,6,20,0.8007407035812277,0.7632677280406766,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,175,2,12:45,765,1065,Vincent Eze Defensive Rebound.,33,27,6,4,0.8012266110549475,0.7638765704340262,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,176,2,12:33,753,1053,Foul on Braden Bell.,33,27,6,12,0.802762239263694,0.7657961607539616,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,177,2,12:22,742,1042,Foul on Zion Tordoff.,33,27,6,11,0.8042792252225244,0.7676864991652175,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,178,2,12:22,742,1042,Aidas Kavaliauskas missed Three Point Jumper.,33,27,6,0,0.8042792252225244,0.7676864991652175,4,4,2,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,179,2,12:22,742,1042,Wassef Methnani Offensive Rebound.,33,27,6,0,0.8042792252225244,0.7676864991652175,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,180,2,12:22,742,1042,Wassef Methnani missed Layup.,33,27,6,0,0.8042792252225244,0.7676864991652175,4,4,2,NA,NA,Fairfield,missed,Wassef Methnani,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,181,2,12:22,742,1042,Michael Cubbage Defensive Rebound.,33,27,6,0,0.8042792252225244,0.7676864991652175,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,182,2,11:56,716,1016,Foul on Aidas Kavaliauskas.,33,27,6,26,0.8080970480890997,0.7724358651697236,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,183,2,11:56,716,1016,Official TV Timeout,33,27,6,0,0.8080970480890997,0.7724358651697236,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,184,2,11:55,715,1015,Jack Cavanaugh Turnover.,33,27,6,1,0.8082334517565333,0.7726063814647721,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,185,2,11:55,715,1015,Vincent Eze Steal.,33,27,6,0,0.8082334517565333,0.7726063814647721,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,186,2,11:55,715,1015,Foul on Zion Tordoff.,33,27,6,0,0.8082334517565333,0.7726063814647721,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,187,2,11:55,715,1015,Vincent Eze made Free Throw.,33,28,5,0,0.7746443743373931,0.734824402997812,4,4,2,NA,NA,Fairfield,made,Vincent Eze,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,188,2,11:55,715,1015,Vincent Eze made Free Throw.,33,29,4,0,0.7370857833102524,0.6932572004852392,4,4,2,NA,NA,Fairfield,made,Vincent Eze,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,189,2,11:29,689,989,Michael Cubbage missed Jumper.,33,29,4,26,0.7396399526894468,0.6965474164549059,4,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,190,2,11:27,687,987,Vincent Eze Defensive Rebound.,33,29,4,2,0.7398210029797158,0.696782818099313,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,191,2,11:00,660,960,Aidas Kavaliauskas Turnover.,33,29,4,27,0.7421668260746059,0.6998490629994716,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,192,2,11:00,660,960,Michael Cubbage Steal.,33,29,4,0,0.7421668260746059,0.6998490629994716,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,193,2,10:57,657,957,Foul on Taj Benning.,33,29,4,3,0.7424239089009722,0.7001858790337311,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,194,2,10:57,657,957,Michael Cubbage made Free Throw.,34,29,5,0,0.780854167807476,0.7427342944206966,4,4,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,195,2,10:57,657,957,Michael Cubbage made Free Throw.,35,29,6,0,0.8149795690421203,0.7811318960295871,4,4,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,196,2,10:36,636,936,Calvin Whipple missed Three Point Jumper.,35,29,6,21,0.8172981411461893,0.7840746025650278,4,4,2,NA,NA,Fairfield,missed,Calvin Whipple,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,197,2,10:33,633,933,Michael Cubbage Defensive Rebound.,35,29,6,3,0.817642849091706,0.7845108748217471,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,198,2,10:27,627,927,Michael Cubbage Turnover.,35,29,6,6,0.8183473356138298,0.7854011525380458,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,199,2,10:14,614,914,Taj Benning missed Layup.,35,29,6,13,0.8199588805989627,0.7874302408070558,4,4,2,NA,NA,Fairfield,missed,Taj Benning,NA,FALSE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,200,2,10:14,614,914,Tobias Sjoberg Block.,35,29,6,0,0.8199588805989627,0.7874302408070558,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,201,2,10:14,614,914,Fairfield Offensive Rebound.,35,29,6,0,0.8199588805989627,0.7874302408070558,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,202,2,9:59,599,899,Allan Jeanne-Rose missed Three Point Jumper.,35,29,6,15,0.8220047295428681,0.7899905925348454,4,4,2,NA,NA,Fairfield,missed,Allan Jeanne-Rose,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,203,2,9:56,596,896,Fairfield Offensive Rebound.,35,29,6,3,0.8224425962153126,0.7905363906979639,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,204,2,9:56,596,896,Fairfield  Turnover.,35,29,6,0,0.8224425962153126,0.7905363906979639,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,205,2,9:40,580,880,Foul on Allan Jeanne-Rose.,35,29,6,16,0.8249674044533889,0.7936700378458622,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,206,2,9:26,566,866,Foul on Aidas Kavaliauskas.,35,29,6,14,0.8274738822631369,0.7967613429862982,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,207,2,9:26,566,866,Tyler Sagl made Free Throw.,36,29,7,0,0.8576032764477903,0.8311598828104422,4,4,2,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,208,2,9:26,566,866,Tyler Sagl made Free Throw.,37,29,8,0,0.8832135876881082,0.860753888735872,4,4,2,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,209,2,9:05,545,845,Jesus Cruz made Jumper.,37,31,6,21,0.8317813698632399,0.8020426184272571,4,4,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,210,2,8:37,517,817,Braden Bell missed Layup.,37,31,6,28,0.8366349263843108,0.8080512804782928,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,211,2,8:34,514,814,Tobias Sjoberg Offensive Rebound.,37,31,6,3,0.8370889297215391,0.8086181419657974,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,212,2,8:34,514,814,Tobias Sjoberg missed Layup.,37,31,6,0,0.8370889297215391,0.8086181419657974,4,4,2,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,213,2,8:34,514,814,Jesus Cruz Defensive Rebound.,37,31,6,0,0.8370889297215391,0.8086181419657974,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,214,2,8:34,514,814,Foul on Braden Bell.,37,31,6,0,0.8370889297215391,0.8086181419657974,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,215,2,8:34,514,814,Jesus Cruz made Free Throw.,37,32,5,0,0.8016358270063064,0.768681309068661,4,4,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,216,2,8:34,514,814,Jesus Cruz made Free Throw.,37,33,4,0,0.760673192485816,0.7232627494284163,4,4,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,217,2,8:25,505,805,Braden Bell missed Three Point Jumper.,37,33,4,9,0.7618002257187902,0.7247015136995009,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,218,2,8:19,499,799,Kevin Senghore-Peterson Defensive Rebound.,37,33,4,6,0.7625466518583921,0.7256554013873981,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,219,2,8:06,486,786,Foul on Tyler Sagl.,37,33,4,13,0.7642129361822857,0.7277792163847012,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,220,2,8:06,486,786,Jesus Cruz missed Free Throw.,37,33,4,0,0.7642129361822857,0.7277792163847012,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,221,2,8:06,486,786,Fairfield Offensive Rebound.,37,33,4,0,0.7642129361822857,0.7277792163847012,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,222,2,8:06,486,786,Jesus Cruz missed Free Throw.,37,33,4,0,0.7642129361822857,0.7277792163847012,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,223,2,8:04,484,784,Michael Cubbage Defensive Rebound.,37,33,4,2,0.7644808765779993,0.7281193335882207,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,224,2,7:38,458,758,Braden Bell missed Layup.,37,33,4,26,0.7685066983226363,0.7331645429810938,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,225,2,7:35,455,755,Taj Benning Defensive Rebound.,37,33,4,3,0.7690591034075557,0.7338475954508777,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,226,2,7:35,455,755,Foul on Braden Bell.,37,33,4,0,0.7690591034075557,0.7338475954508777,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,227,2,7:35,455,755,Official TV Timeout,37,33,4,0,0.7690591034075557,0.7338475954508777,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,228,2,7:35,455,755,Taj Benning made Free Throw.,37,34,3,0,0.7210041399091395,0.6815000937345844,4,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,229,2,7:35,455,755,Taj Benning made Free Throw.,37,35,2,0,0.6672758735760557,0.6241301871022024,4,4,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,230,2,7:20,440,740,Jordan Jones missed Layup.,37,35,2,15,0.6690154686288958,0.6264446330539559,4,4,2,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,231,2,7:16,436,736,Calvin Whipple Defensive Rebound.,37,35,2,4,0.6695524462306796,0.6271462346325406,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,232,2,6:59,419,719,Jesus Cruz missed Layup.,37,35,2,17,0.6720057513461408,0.6303417528028668,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,233,2,6:55,415,715,Michael Cubbage Defensive Rebound.,37,35,2,4,0.6725437178923799,0.6310576624810864,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,234,2,6:48,408,708,Michael Cubbage missed Jumper.,37,35,2,7,0.6734498289221478,0.6322777717487594,4,4,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,235,2,6:44,404,704,Vincent Eze Defensive Rebound.,37,35,2,4,0.6739523614878912,0.6329614732173021,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,236,2,6:34,394,694,Jesus Cruz missed Three Point Jumper.,37,35,2,10,0.6751820934120045,0.6346508127467898,4,4,2,NA,NA,Fairfield,missed,Jesus Cruz,NA,TRUE,FALSE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,237,2,6:29,389,689,Vincent Eze Offensive Rebound.,37,35,2,5,0.6757932735276528,0.6354959313783307,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,238,2,6:26,386,686,Calvin Whipple missed Three Point Jumper.,37,35,2,3,0.6761619908912978,0.6360065019386151,4,4,2,NA,NA,Fairfield,missed,Calvin Whipple,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,239,2,6:23,383,683,Matthew Herasme Defensive Rebound.,37,35,2,3,0.6765336706856209,0.6365212285935643,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,240,2,6:06,366,666,Tyler Sagl missed Three Point Jumper.,37,35,2,17,0.678752959106248,0.6395766397976185,4,4,2,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,241,2,6:03,363,663,Aidas Kavaliauskas Defensive Rebound.,37,35,2,3,0.6791745823337625,0.6401508385119071,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,242,2,5:58,358,658,Foul on Jordan Jones.,37,35,2,5,0.6799044897750213,0.6411387607882293,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,243,2,5:58,358,658,Aidas Kavaliauskas made Free Throw.,37,36,1,0,0.6137677800645882,0.5720340932137669,4,4,2,NA,NA,Fairfield,made,Aidas Kavaliauskas,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,244,2,5:58,358,658,Aidas Kavaliauskas made Free Throw.,37,37,0,0,0.5431481092939087,0.5,4,4,2,NA,NA,Fairfield,made,Aidas Kavaliauskas,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,245,2,5:44,344,644,Tyler Sagl missed Three Point Jumper.,37,37,0,14,0.5424784477424978,0.5,4,4,2,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,246,2,5:41,341,641,Wassef Methnani Defensive Rebound.,37,37,0,3,0.5423317150195527,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,247,2,5:21,321,621,Wassef Methnani made Layup. Assisted by Calvin Whipple.,37,39,-2,20,0.388383955485202,0.3498299096955197,4,4,2,NA,NA,Fairfield,made,Wassef Methnani,Calvin Whipple,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,248,2,5:21,321,621,Foul on Tobias Sjoberg.,37,39,-2,0,0.388383955485202,0.3498299096955197,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,249,2,5:21,321,621,Wassef Methnani missed Free Throw.,37,39,-2,0,0.388383955485202,0.3498299096955197,4,4,2,NA,NA,Fairfield,missed,Wassef Methnani,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,250,2,5:19,319,619,Matthew Herasme Defensive Rebound.,37,39,-2,2,0.38765890346386783,0.34923041674855587,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,251,2,4:59,299,599,Tyler Saint-Furcy missed Jumper.,37,39,-2,20,0.3809640594137962,0.34378013226751863,4,4,2,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,252,2,4:55,295,595,Michael Cubbage Offensive Rebound.,37,39,-2,4,0.38029705123731056,0.3433311701760497,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,253,2,4:46,286,586,Foul on Wassef Methnani.,37,39,-2,9,0.37958735314823416,0.34307594121108087,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,254,2,4:31,271,571,Tyler Sagl made Layup.,39,39,0,15,0.5387163283184758,0.5,4,4,2,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,255,2,4:31,271,571,Foul on Allan Jeanne-Rose.,39,39,0,0,0.5387163283184758,0.5,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,256,2,4:31,271,571,Tyler Sagl made Free Throw.,40,39,1,0,0.6171151133004529,0.5798469750548633,4,4,2,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,257,2,4:10,250,550,Aidas Kavaliauskas missed Jumper.,40,39,1,21,0.6146077362033666,0.5783610455438868,4,4,2,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,258,2,4:10,250,550,Tobias Sjoberg Block.,40,39,1,0,0.6146077362033666,0.5783610455438868,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,259,2,4:04,244,544,Tyler Sagl Defensive Rebound.,40,39,1,6,0.6140070473685458,0.5780664183065353,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,260,2,3:56,236,536,Braden Bell missed Three Point Jumper.,40,39,1,8,0.6134261820461372,0.5779098454229813,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,261,2,3:53,233,533,Taj Benning Defensive Rebound.,40,39,1,3,0.6132932788942663,0.5779417012854748,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,262,2,3:32,212,512,Wassef Methnani missed Three Point Jumper.,40,39,1,21,0.6142357503231745,0.5801483976791213,4,4,2,NA,NA,Fairfield,missed,Wassef Methnani,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,263,2,3:29,209,509,Matthew Herasme Defensive Rebound.,40,39,1,3,0.614706844897204,0.580818929128759,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,264,2,3:03,183,483,Braden Bell missed Layup.,40,39,1,26,0.6232391337355458,0.5913215406891759,4,4,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,265,2,3:01,181,481,Fairfield Defensive Rebound.,40,39,1,2,0.6240925773800858,0.592338708121193,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,266,2,3:01,181,481,Official TV Timeout,40,39,1,0,0.6240925773800858,0.592338708121193,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,267,2,2:48,168,468,Vincent Eze Turnover.,40,39,1,13,0.6297703787126573,0.5990973703485372,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,268,2,2:40,160,460,Matthew Herasme Turnover.,40,39,1,8,0.6334489322509063,0.6034583749082761,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,269,2,2:25,145,445,Fairfield  Timeout,40,39,1,15,0.640951560663981,0.6122858020983767,4,3,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,270,2,2:13,133,433,Aidas Kavaliauskas made Layup.,40,41,-1,12,0.40818521025393917,0.37983359679172013,4,3,2,NA,NA,Fairfield,made,Aidas Kavaliauskas,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,271,2,1:56,116,416,Tobias Sjoberg made Layup. Assisted by Braden Bell.,42,41,1,17,0.6588366662870002,0.6329512408256482,4,3,2,NA,NA,Marist,made,Tobias Sjoberg,Braden Bell,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,272,2,1:37,97,397,Jesus Cruz made Layup.,42,43,-1,19,0.37464195372164805,0.35000237180218535,4,3,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,273,2,1:07,67,367,Michael Cubbage made Three Point Jumper. Assisted by Braden Bell.,45,43,2,30,0.8342087526085739,0.8205432367228749,4,3,2,NA,NA,Marist,made,Michael Cubbage,Braden Bell,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,274,2,0:57,57,357,Fairfield  Timeout,45,43,2,10,0.847830736694775,0.8355914649314978,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,275,2,0:41,41,341,Foul on Tobias Sjoberg.,45,43,2,16,0.8691334470901011,0.859085039816666,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,276,2,0:41,41,341,Aidas Kavaliauskas missed Free Throw.,45,43,2,0,0.8691334470901011,0.859085039816666,4,2,2,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,277,2,0:41,41,341,Fairfield Offensive Rebound.,45,43,2,0,0.8691334470901011,0.859085039816666,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,278,2,0:41,41,341,Aidas Kavaliauskas missed Free Throw.,45,43,2,0,0.8691334470901011,0.859085039816666,4,2,2,NA,NA,Fairfield,missed,Aidas Kavaliauskas,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,279,2,0:39,39,339,Matthew Herasme Defensive Rebound.,45,43,2,2,0.8717489381388908,0.8619651488265819,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,280,2,0:16,16,316,Michael Cubbage Turnover.,45,43,2,23,0.9002582129810072,0.8932892633380727,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,281,2,0:13,13,313,Fairfield  Timeout,45,43,2,3,0.9037874838702191,0.8971548885029107,4,1,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,282,2,0:04,4,304,Jesus Cruz made Layup.,45,45,0,9,0.5175284110814901,0.5,4,1,2,NA,NA,Fairfield,made,Jesus Cruz,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,283,2,0:04,4,304,Marist  Timeout,45,45,0,0,0.5175284110814901,0.5,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,284,2,0:02,2,302,Marist  Timeout,45,45,0,2,0.5173102543380504,0.5,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,285,2,0:00,300,300,Braden Bell missed Jumper.,45,45,0,2,0.5402242358390721,0.5,2,1,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,286,2,0:00,300,300,Taj Benning Defensive Rebound.,45,45,0,0,0.5402242358390721,0.5,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,287,2,0:00,300,300,End of 2nd half,45,45,0,0,0.5402242358390721,0.5,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,NA,NA
+401171970,2020-02-14,Marist,Fairfield,288,3,5:00,300,300,PLAY,45,45,0,0,0.5402242358390721,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,289,3,4:44,284,284,Matthew Herasme missed Layup.,45,45,0,16,0.5393929508231402,0.5,3,2,2,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,290,3,4:41,281,281,Taj Benning Defensive Rebound.,45,45,0,3,0.5392372817860369,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,291,3,4:22,262,262,Vincent Eze missed Layup.,45,45,0,19,0.5382422628948899,0.5,3,2,2,NA,NA,Fairfield,missed,Vincent Eze,NA,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,292,3,4:19,259,259,Jordan Jones Defensive Rebound.,45,45,0,3,0.5380826178685936,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,293,3,4:19,259,259,Foul on Vincent Eze.,45,45,0,0,0.5380826178685936,0.5,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,294,3,4:19,259,259,Jordan Jones made Free Throw.,46,45,1,0,0.6156629553273495,0.5789717399540718,3,2,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,295,3,4:19,259,259,Jordan Jones made Free Throw.,47,45,2,0,0.6877741019546463,0.6540992968368612,3,2,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,296,3,4:04,244,244,Taj Benning made Three Point Jumper. Assisted by Jesus Cruz.,47,48,-1,15,0.4587205651796883,0.4219335816934647,3,2,2,NA,NA,Fairfield,made,Taj Benning,Jesus Cruz,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,297,3,3:32,212,212,Michael Cubbage missed Layup.,47,48,-1,32,0.4547211766422995,0.4198516023208787,3,2,2,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,298,3,3:29,209,209,Taj Benning Defensive Rebound.,47,48,-1,3,0.4538489474162639,0.41918107087124096,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,299,3,3:11,191,191,Taj Benning missed Three Point Jumper.,47,48,-1,18,0.44606407133114007,0.41271517560359106,3,2,2,NA,NA,Fairfield,missed,Taj Benning,NA,TRUE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,300,3,3:07,187,187,Matthew Herasme Defensive Rebound.,47,48,-1,4,0.44373285641390137,0.41070367471793984,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,301,3,3:02,182,182,Tyler Sagl missed Three Point Jumper.,47,48,-1,5,0.4407958340314422,0.40817035466920276,3,2,2,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,302,3,2:58,178,178,Jordan Jones Offensive Rebound.,47,48,-1,4,0.43842645121908774,0.40612716999030757,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,303,3,2:56,176,176,Foul on Vincent Eze.,47,48,-1,2,0.4372324857277163,0.40509746317915823,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,304,3,2:56,176,176,Jordan Jones made Free Throw.,48,48,0,0,0.5329193991738734,0.5,3,2,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,305,3,2:56,176,176,Jordan Jones made Free Throw.,49,48,1,0,0.6262443190681257,0.5949025368208418,3,2,2,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,306,3,2:40,160,160,Vincent Eze made Dunk. Assisted by Aidas Kavaliauskas.,49,50,-1,16,0.4273306174213308,0.39654162509172386,3,2,2,NA,NA,Fairfield,made,Vincent Eze,Aidas Kavaliauskas,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,307,3,2:17,137,137,Matthew Herasme missed Three Point Jumper.,49,50,-1,23,0.4112829475129359,0.3825543964858514,3,2,2,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,308,3,2:14,134,134,Landon Taliaferro Defensive Rebound.,49,50,-1,3,0.40896959695777957,0.3805231713569795,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,309,3,1:54,114,114,Vincent Eze made Layup. Assisted by Aidas Kavaliauskas.,49,52,-3,20,0.17603387992170105,0.16030013429387566,3,2,2,NA,NA,Fairfield,made,Vincent Eze,Aidas Kavaliauskas,FALSE,FALSE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,310,3,1:53,113,113,Marist  Timeout,49,52,-3,1,0.1744207693362826,0.1588484873115623,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,311,3,1:40,100,100,Braden Bell Turnover.,49,52,-3,13,0.15302181158764655,0.13957475254947171,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,312,3,1:40,100,100,Aidas Kavaliauskas Steal.,49,52,-3,0,0.15302181158764655,0.13957475254947171,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,313,3,1:31,91,91,Aidas Kavaliauskas Turnover.,49,52,-3,9,0.13800452342205918,0.12603268042963692,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,314,3,1:31,91,91,Matthew Herasme Steal.,49,52,-3,0,0.13800452342205918,0.12603268042963692,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,315,3,1:26,86,86,Braden Bell made Dunk. Assisted by Matthew Herasme.,51,52,-1,5,0.36233823722332764,0.33895120774153426,2,2,2,NA,NA,Marist,made,Braden Bell,Matthew Herasme,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,316,3,1:04,64,64,Foul on Aidas Kavaliauskas.,51,52,-1,22,0.3360334106017926,0.3152677899690926,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,317,3,1:04,64,64,Aidas Kavaliauskas Turnover.,51,52,-1,0,0.3360334106017926,0.3152677899690926,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,318,3,0:44,44,44,Tyler Sagl missed Jumper.,51,52,-1,20,0.3101734098037726,0.29191218049949935,2,2,2,NA,NA,Marist,missed,Tyler Sagl,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,319,3,0:40,40,40,Jesus Cruz Defensive Rebound.,51,52,-1,4,0.3047811391992716,0.28703291338703896,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,320,3,0:40,40,40,Jesus Cruz Turnover.,51,52,-1,0,0.3047811391992716,0.28703291338703896,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,321,3,0:26,26,26,Braden Bell missed Jumper.,51,52,-1,14,0.285523203246776,0.26958681934971407,2,2,2,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,322,3,0:24,24,24,Fairfield Defensive Rebound.,51,52,-1,2,0.2827482066769001,0.26707099996022143,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,323,3,0:23,23,23,Foul on Michael Cubbage.,51,52,-1,1,0.2813603950947523,0.2658126717221923,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,324,3,0:23,23,23,Taj Benning made Free Throw.,51,53,-2,0,0.12415090730817406,0.11588951215446809,2,2,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,325,3,0:23,23,23,Taj Benning made Free Throw.,51,54,-3,0,0.04881511854035685,0.04530748007934808,2,2,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,326,3,0:18,18,18,Foul on Taj Benning.,51,54,-3,5,0.044341134640914937,0.041223768443689454,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,327,3,0:18,18,18,Michael Cubbage made Free Throw.,52,54,-2,0,0.11695289339321918,0.10931455159064239,2,2,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,328,3,0:18,18,18,Michael Cubbage made Free Throw.,53,54,-1,0,0.2743374048899867,0.25944005544852056,2,2,2,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,329,3,0:18,18,18,Foul on Braden Bell.,53,54,-1,0,0.2743374048899867,0.25944005544852056,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,330,3,0:18,18,18,Taj Benning made Free Throw.,53,55,-2,0,0.11695289339321918,0.10931455159064239,2,2,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,331,3,0:18,18,18,Taj Benning made Free Throw.,53,56,-3,0,0.044341134640914937,0.041223768443689454,2,2,2,NA,NA,Fairfield,made,Taj Benning,NA,FALSE,TRUE,Fairfield,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,332,3,0:09,9,9,Marist  Timeout,53,56,-3,9,0.036939679746696125,0.03445157466119594,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,333,3,0:03,3,3,Tyler Sagl missed Jumper.,53,56,-3,6,0.03252419039436446,0.030400848236932055,1,2,2,NA,NA,Marist,missed,Tyler Sagl,NA,FALSE,FALSE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,334,3,0:01,1,1,Foul on Michael Cubbage.,53,56,-3,2,0.03114845400183456,0.029136972928700006,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,335,3,0:01,1,1,Vincent Eze made Free Throw.,53,57,-4,0,0.009892147582560571,0.00924024840272953,1,2,2,NA,NA,Fairfield,made,Vincent Eze,NA,FALSE,TRUE,Marist,Marist,NA
+401171970,2020-02-14,Marist,Fairfield,336,3,0:01,1,1,Vincent Eze missed Free Throw.,53,57,-4,0,0.009892147582560571,0.00924024840272953,1,2,2,NA,NA,Fairfield,missed,Vincent Eze,NA,FALSE,TRUE,Marist,Fairfield,NA
+401171970,2020-02-14,Marist,Fairfield,337,3,0:00,0,0,Vincent Eze Defensive Rebound.,53,57,-4,1,0,1.8048513878454153e-35,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,0
+401171970,2020-02-14,Marist,Fairfield,338,3,0:00,0,0,Michael Cubbage Defensive Rebound.,53,57,-4,0,0,1.8048513878454153e-35,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Fairfield,0
+401171970,2020-02-14,Marist,Fairfield,339,3,0:00,0,0,End of 1st overtime,53,57,-4,0,0,1.8048513878454153e-35,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,NA,0
+401171970,2020-02-14,Marist,Fairfield,340,3,0:00,0,0,End of Game,53,57,-4,0,0,1.8048513878454153e-35,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,Fairfield,NA,0

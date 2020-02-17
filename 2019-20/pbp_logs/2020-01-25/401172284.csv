@@ -1,0 +1,310 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after,win_prob_naive
+401172284,2020-01-25,Cornell,Columbia,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5598729714790284,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,2,1,19:44,2384,2384,Jack Forrest missed Jumper.,0,0,0,16,0.5597779504972501,0.5,4,4,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,3,1,19:39,2379,2379,Terrance McBride Defensive Rebound.,0,0,0,5,0.5597478819735013,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,4,1,19:22,2362,2362,Josh Warren Turnover.,0,0,0,17,0.5596442912958132,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,5,1,19:08,2348,2348,Jack Forrest Turnover.,0,0,0,14,0.5595573795564874,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,6,1,19:08,2348,2348,Josh Warren Steal.,0,0,0,0,0.5595573795564874,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,7,1,19:01,2341,2341,Foul on Jack Forrest.,0,0,0,7,0.5595133717614356,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,8,1,18:58,2338,2338,Josh Warren Turnover.,0,0,0,3,0.5594943974293916,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,9,1,18:58,2338,2338,Jack Forrest Steal.,0,0,0,0,0.5594943974293916,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,10,1,18:45,2325,2325,Jack Forrest Turnover.,0,0,0,13,0.5594113779293369,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,11,1,18:21,2301,2301,Terrance McBride Turnover.,0,0,0,24,0.5592546471510699,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,12,1,18:09,2289,2289,Tai Bibbs missed Three Point Jumper.,0,0,0,12,0.5591745609529468,0.5,4,4,1.5,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,13,1,18:03,2283,2283,Josh Warren Defensive Rebound.,0,0,0,6,0.5591340800176628,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,14,1,17:49,2269,2269,Josh Warren made Layup. Assisted by Terrance McBride.,2,0,2,14,0.6047592965642977,0.5468806166740243,4,4,1.5,NA,NA,Cornell,made,Josh Warren,Terrance McBride,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,15,1,17:43,2263,2263,Mike Smith Turnover.,2,0,2,6,0.6048494683292444,0.5470157879854802,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,16,1,17:43,2263,2263,Jimmy Boeheim Steal.,2,0,2,0,0.6048494683292444,0.5470157879854802,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,17,1,17:38,2258,2258,Foul on Jack Forrest.,2,0,2,5,0.604924608496505,0.5471286592204017,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,18,1,17:22,2242,2242,Josh Warren made Layup. Assisted by Riley Voss.,4,0,4,16,0.6496661377798604,0.5941330918732078,4,4,1.5,NA,NA,Cornell,made,Josh Warren,Riley Voss,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,19,1,17:06,2226,2226,Mike Smith missed Three Point Jumper.,4,0,4,16,0.6502292889236306,0.5948422040029784,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,20,1,17:00,2220,2220,Jimmy Boeheim Defensive Rebound.,4,0,4,6,0.6504406472879306,0.5951088823675076,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,21,1,16:37,2197,2197,Jimmy Boeheim missed Jumper.,4,0,4,23,0.6512512171849091,0.5961344781499945,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,22,1,16:37,2197,2197,Mike Smith Defensive Rebound.,4,0,4,0,0.6512512171849091,0.5961344781499945,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,23,1,16:37,2197,2197,Randy Brumant Block.,4,0,4,0,0.6512512171849091,0.5961344781499945,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,24,1,16:17,2177,2177,Randy Brumant made Dunk. Assisted by Mike Smith.,4,2,2,20,0.6061350854804838,0.5489804998329268,4,4,1.5,NA,NA,Columbia,made,Randy Brumant,Mike Smith,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,25,1,16:17,2177,2177,Foul on Josh Warren.,4,2,2,0,0.6061350854804838,0.5489804998329268,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,26,1,16:17,2177,2177,Josh Warren Turnover.,4,2,2,0,0.6061350854804838,0.5489804998329268,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,27,1,15:54,2154,2154,Ike Nweke made Layup. Assisted by Jake Killingsworth.,4,4,0,23,0.5581889119820571,0.5,4,4,1.5,NA,NA,Columbia,made,Ike Nweke,Jake Killingsworth,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,28,1,15:27,2127,2127,Foul on Terrance McBride.,4,4,0,27,0.5579724796289915,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,29,1,15:27,2127,2127,Terrance McBride Turnover.,4,4,0,0,0.5579724796289915,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,30,1,15:27,2127,2127,Official TV Timeout,4,4,0,0,0.5579724796289915,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,31,1,15:14,2114,2114,Ike Nweke Turnover.,4,4,0,13,0.557866071181631,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,32,1,15:14,2114,2114,Greg Dolan Steal.,4,4,0,0,0.557866071181631,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,33,1,14:43,2083,2083,Terrance McBride made Layup. Assisted by Jimmy Boeheim.,6,4,2,31,0.6075211691125856,0.5511825743958096,4,4,1.5,NA,NA,Cornell,made,Terrance McBride,Jimmy Boeheim,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,34,1,14:25,2065,2065,Mike Smith missed Layup.,6,4,2,18,0.6077875732403387,0.5516135883166307,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,35,1,14:20,2060,2060,Mike Smith Offensive Rebound.,6,4,2,5,0.6078617216955553,0.5517339233554039,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,36,1,14:16,2056,2056,Foul on Ike Nweke.,6,4,2,4,0.6079210930733425,0.551830387437749,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,37,1,14:16,2056,2056,Ike Nweke Turnover.,6,4,2,0,0.6079210930733425,0.551830387437749,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,38,1,14:06,2046,2046,Bryan Knapp missed Three Point Jumper.,6,4,2,10,0.6080697439042273,0.5520723249003605,4,4,1.5,NA,NA,Cornell,missed,Bryan Knapp,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,39,1,14:00,2040,2040,Randy Brumant Defensive Rebound.,6,4,2,6,0.6081590997240195,0.5522180310582003,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,40,1,13:58,2038,2038,Foul on Bryan Knapp.,6,4,2,2,0.6081889144743928,0.5522666919959983,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,41,1,13:49,2029,2029,Jake Killingsworth missed Jumper.,6,4,2,9,0.6083232744772564,0.5524862461946224,4,4,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,42,1,13:41,2021,2021,Josh Warren Defensive Rebound.,6,4,2,8,0.6084429888284327,0.5526822166114862,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,43,1,13:32,2012,2012,Jimmy Boeheim missed Layup.,6,4,2,9,0.6085780126548649,0.552903617996376,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,44,1,13:26,2006,2006,Randy Brumant Defensive Rebound.,6,4,2,6,0.608668245390623,0.553051780241399,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,45,1,13:15,1995,1995,Ike Nweke missed Jumper.,6,4,2,11,0.6088341550478261,0.5533246043660945,4,4,1.5,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,46,1,13:10,1990,1990,Bryan Knapp Defensive Rebound.,6,4,2,5,0.6089097868739684,0.553449135636285,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,47,1,12:59,1979,1979,Jimmy Boeheim missed Jumper.,6,4,2,11,0.6090766888945892,0.5537242755029509,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,48,1,12:53,1973,1973,Randy Brumant Defensive Rebound.,6,4,2,6,0.6091680380245157,0.5538750429448416,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,49,1,12:49,1969,1969,Mike Smith made Layup.,6,6,0,4,0.556587738984437,0.5,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,50,1,12:30,1950,1950,Bryan Knapp made Three Point Jumper. Assisted by Josh Warren.,9,6,3,19,0.6352127938062824,0.5812841552338529,4,4,1.5,NA,NA,Cornell,made,Bryan Knapp,Josh Warren,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,51,1,12:12,1932,1932,Jake Killingsworth missed Three Point Jumper.,9,6,3,18,0.6357001729277373,0.5819658370238904,4,4,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,52,1,12:06,1926,1926,Terrance McBride Defensive Rebound.,9,6,3,6,0.6358633981652848,0.5821943825929489,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,53,1,11:56,1916,1916,Greg Dolan missed Layup.,9,6,3,10,0.636134210743378,0.5825748011638271,4,4,1.5,NA,NA,Cornell,missed,Greg Dolan,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,54,1,11:50,1910,1910,Randy Brumant Defensive Rebound.,9,6,3,6,0.6362959803632514,0.5828027764930478,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,55,1,11:45,1905,1905,Mike Smith made Layup.,9,8,1,5,0.5833459026760905,0.527893567120556,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,56,1,11:33,1893,1893,Terrance McBride missed Three Point Jumper.,9,8,1,12,0.5833800821691629,0.5280492138738667,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,57,1,11:31,1891,1891,Columbia Defensive Rebound.,9,8,1,2,0.5833856456090822,0.5280751545178447,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,58,1,11:31,1891,1891,Official TV Timeout,9,8,1,0,0.5833856456090822,0.5280751545178447,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,59,1,11:07,1867,1867,Tai Bibbs made Three Point Jumper. Assisted by Mike Smith.,9,11,-2,24,0.4989860107994665,0.44340892914977953,4,4,1.5,NA,NA,Columbia,made,Tai Bibbs,Mike Smith,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,60,1,10:38,1838,1838,Marcus Filien missed Dunk.,9,11,-2,29,0.49792209359511513,0.44265966267853807,4,4,1.5,NA,NA,Cornell,missed,Marcus Filien,NA,FALSE,FALSE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,61,1,10:38,1838,1838,Randy Brumant Block.,9,11,-2,0,0.49792209359511513,0.44265966267853807,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,62,1,10:28,1828,1828,Marcus Filien Offensive Rebound.,9,11,-2,10,0.49755200539653804,0.44239979475606916,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,63,1,10:25,1825,1825,Marcus Filien made Layup.,11,11,0,3,0.5551515451583,0.5,4,4,1.5,NA,NA,Cornell,made,Marcus Filien,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,64,1,10:19,1819,1819,Jake Killingsworth Turnover.,11,11,0,6,0.555087753291061,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,65,1,10:19,1819,1819,Greg Dolan Steal.,11,11,0,0,0.555087753291061,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,66,1,10:04,1804,1804,Dean Noll missed Three Point Jumper.,11,11,0,15,0.5549270698877262,0.5,4,4,1.5,NA,NA,Cornell,missed,Dean Noll,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,67,1,10:01,1801,1801,Columbia Defensive Rebound.,11,11,0,3,0.5548947323957355,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,68,1,10:01,1801,1801,Foul on Marcus Filien.,11,11,0,0,0.5548947323957355,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,69,1,9:46,1786,1786,Jake Killingsworth missed Three Point Jumper.,11,11,0,15,0.5547320789959417,0.5,4,4,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,70,1,9:41,1781,1781,Jimmy Boeheim Defensive Rebound.,11,11,0,5,0.5546775132815622,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,71,1,9:20,1760,1760,Greg Dolan Turnover.,11,11,0,21,0.5544465334710864,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,72,1,9:11,1751,1751,Mike Smith missed Three Point Jumper.,11,11,0,9,0.5543466905812808,0.5,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,73,1,9:05,1745,1745,Thurston McCarty Defensive Rebound.,11,11,0,6,0.5542798586790475,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,74,1,9:00,1740,1740,Foul on Joseph Smoyer.,11,11,0,5,0.55422400515251935,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,75,1,9:00,1740,1740,Jimmy Boeheim missed Free Throw.,11,11,0,0,0.55422400515251935,0.5,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,76,1,9:00,1740,1740,Cornell Offensive Rebound.,11,11,0,0,0.55422400515251935,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,77,1,9:00,1740,1740,Jimmy Boeheim made Free Throw.,12,11,1,0,0.5837600765733657,0.5300825886464002,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,78,1,8:37,1717,1717,Jake Killingsworth Turnover.,12,11,1,23,0.5838210758076526,0.5304059361583805,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,79,1,8:37,1717,1717,Dean Noll Steal.,12,11,1,0,0.5838210758076526,0.5304059361583805,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,80,1,8:28,1708,1708,Dean Noll missed Layup.,12,11,1,9,0.5838461182265142,0.5305344094488547,4,4,1.5,NA,NA,Cornell,missed,Dean Noll,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,81,1,8:25,1705,1705,Joseph Smoyer Defensive Rebound.,12,11,1,3,0.5838546335581789,0.5305774933962297,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,82,1,8:20,1700,1700,Foul on Thurston McCarty.,12,11,1,5,0.5838690237353545,0.5306495971050212,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,83,1,8:20,1700,1700,Joseph Smoyer missed Free Throw.,12,11,1,0,0.5838690237353545,0.5306495971050212,4,4,1.5,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,84,1,8:20,1700,1700,Joseph Smoyer missed Free Throw.,12,11,1,0,0.5838690237353545,0.5306495971050212,4,4,1.5,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,85,1,8:20,1700,1700,Columbia Offensive Rebound.,12,11,1,0,0.5838690237353545,0.5306495971050212,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,86,1,8:19,1699,1699,Marcus Filien Defensive Rebound.,12,11,1,1,0.58387193237352,0.530664063113224,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,87,1,7:58,1678,1678,Dean Noll Turnover.,12,11,1,21,0.5839318061733331,0.5309686809749316,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,88,1,7:58,1678,1678,Mike Smith Steal.,12,11,1,0,0.5839318061733331,0.5309686809749316,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,89,1,7:53,1673,1673,Jake Killingsworth made Three Point Jumper. Assisted by Mike Smith.,12,14,-2,5,0.49150673198365424,0.43815800941466637,4,4,1.5,NA,NA,Columbia,made,Jake Killingsworth,Mike Smith,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,90,1,7:28,1648,1648,Josh Warren Turnover.,12,14,-2,25,0.49050016446148587,0.4374643940988438,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,91,1,7:28,1648,1648,Tai Bibbs Steal.,12,14,-2,0,0.49050016446148587,0.4374643940988438,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,92,1,7:25,1645,1645,Tai Bibbs made Free Throw.,12,15,-3,3,0.4589969719404516,0.4066844838623543,4,4,1.5,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,94,1,7:25,1645,1645,Official TV Timeout,12,14,-2,0,0.49037992693004734,0.43738236711303696,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,95,1,7:25,1645,1645,Tai Bibbs missed Free Throw.,12,14,-2,0,0.49037992693004734,0.43738236711303696,4,4,1.5,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,96,1,7:25,1645,1645,Columbia Offensive Rebound.,12,14,-2,0,0.49037992693004734,0.43738236711303696,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,98,1,7:10,1630,1630,Mike Smith Steal.,12,15,-3,0,0.45819506914600033,0.40608548370873926,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,99,1,6:58,1618,1618,Ike Nweke missed Layup.,12,15,-3,12,0.4575552775548522,0.40561008841491536,4,4,1.5,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,100,1,6:53,1613,1613,Dean Noll Defensive Rebound.,12,15,-3,5,0.4572888265633006,0.40541264295989177,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,101,1,6:52,1612,1612,Foul on Luke Bolster.,12,15,-3,1,0.45723553255515487,0.4053731843877757,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,102,1,6:40,1600,1600,Foul on Ike Nweke.,12,15,-3,12,0.4565955700754347,0.4049001017541032,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,103,1,6:40,1600,1600,Josh Warren made Free Throw.,13,15,-2,0,0.48857877556295404,0.43616871375925254,4,4,1.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,104,1,6:40,1600,1600,Josh Warren missed Free Throw.,13,15,-2,0,0.48857877556295404,0.43616871375925254,4,4,1.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,105,1,6:37,1597,1597,Randy Brumant Defensive Rebound.,13,15,-2,3,0.4884583126374042,0.43608825581075855,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,106,1,6:22,1582,1582,Tai Bibbs made Jumper.,13,17,-4,15,0.4237774537536671,0.37346415602965205,4,4,1.5,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,107,1,6:00,1560,1560,Josh Warren made Layup. Assisted by Jimmy Boeheim.,15,17,-2,22,0.4869592685600919,0.43508922096786784,4,4,1.5,NA,NA,Cornell,made,Josh Warren,Jimmy Boeheim,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,108,1,5:42,1542,1542,Randy Brumant made Jumper. Assisted by Mike Smith.,15,19,-4,18,0.4210948735604167,0.3713878689489837,4,4,1.5,NA,NA,Columbia,made,Randy Brumant,Mike Smith,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,109,1,5:24,1524,1524,Jimmy Boeheim made Jumper.,17,19,-2,18,0.48546220013183083,0.4340872362695896,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,110,1,5:07,1507,1507,Jake Killingsworth made Layup. Assisted by Randy Brumant.,17,21,-4,17,0.41866228128143684,0.3694948178282831,4,4,1.5,NA,NA,Columbia,made,Jake Killingsworth,Randy Brumant,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,111,1,4:56,1496,1496,Jimmy Boeheim Turnover.,17,21,-4,11,0.41787433843091276,0.36887779010234506,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,112,1,4:56,1496,1496,Tai Bibbs Steal.,17,21,-4,0,0.41787433843091276,0.36887779010234506,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,113,1,4:50,1490,1490,Foul on Thurston McCarty.,17,21,-4,6,0.41743898709027133,0.3685358893831622,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,114,1,4:50,1490,1490,Randy Brumant missed Free Throw.,17,21,-4,0,0.41743898709027133,0.3685358893831622,4,4,1.5,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,115,1,4:50,1490,1490,Columbia Offensive Rebound.,17,21,-4,0,0.41743898709027133,0.3685358893831622,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,116,1,4:50,1490,1490,Randy Brumant missed Free Throw.,17,21,-4,0,0.41743898709027133,0.3685358893831622,4,4,1.5,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,117,1,4:46,1486,1486,Riley Voss Defensive Rebound.,17,21,-4,4,0.4171464374792077,0.3683057208113053,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,118,1,4:34,1474,1474,Jimmy Boeheim made Layup. Assisted by Riley Voss.,19,21,-2,12,0.48328055724606317,0.43259896622731187,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,Riley Voss,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,119,1,4:18,1458,1458,Luke Bolster Turnover.,19,21,-2,16,0.4825492890219549,0.4320893169189578,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,120,1,4:00,1440,1440,Bryan Knapp made Jumper.,21,21,0,18,0.5504636838573341,0.5,4,4,1.5,NA,NA,Cornell,made,Bryan Knapp,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,121,1,3:49,1429,1429,Luke Bolster missed Three Point Jumper.,21,21,0,11,0.5503174394685225,0.5,4,4,1.5,NA,NA,Columbia,missed,Luke Bolster,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,122,1,3:44,1424,1424,Jimmy Boeheim Defensive Rebound.,21,21,0,5,0.5502504963027138,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,123,1,3:17,1397,1397,Jimmy Boeheim missed Layup.,21,21,0,27,0.5498843954002316,0.5,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,124,1,3:13,1393,1393,Randy Brumant Defensive Rebound.,21,21,0,4,0.5498295511734873,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,125,1,3:07,1387,1387,Randy Brumant made Layup. Assisted by Mike Smith.,21,23,-2,6,0.4793149623897775,0.4298566596111741,4,4,1.5,NA,NA,Columbia,made,Randy Brumant,Mike Smith,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,126,1,2:47,1367,1367,Terrance McBride missed Three Point Jumper.,21,23,-2,20,0.47842454174935845,0.4292567825024442,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,127,1,2:47,1367,1367,Columbia Defensive Rebound.,21,23,-2,0,0.47842454174935845,0.4292567825024442,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,128,1,2:47,1367,1367,Official TV Timeout,21,23,-2,0,0.47842454174935845,0.4292567825024442,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,129,1,2:33,1353,1353,Mike Smith missed Layup.,21,23,-2,14,0.47779942887565063,0.4288368018978287,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,130,1,2:33,1353,1353,Terrance McBride Block.,21,23,-2,0,0.47779942887565063,0.4288368018978287,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,131,1,2:27,1347,1347,Terrance McBride Defensive Rebound.,21,23,-2,6,0.47753033903959485,0.4286560225188059,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,132,1,2:16,1336,1336,Marcus Filien missed Three Point Jumper.,21,23,-2,11,0.4770342858198868,0.42832243599308933,4,4,1.5,NA,NA,Cornell,missed,Marcus Filien,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,133,1,2:11,1331,1331,Randy Brumant Defensive Rebound.,21,23,-2,5,0.4768073766939199,0.42816960046610647,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,134,1,2:05,1325,1325,Mike Smith missed Three Point Jumper.,21,23,-2,6,0.47653368631198684,0.42798497075817177,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,135,1,1:59,1319,1319,Jimmy Boeheim Defensive Rebound.,21,23,-2,6,0.47625828441501233,0.4277988063557957,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,136,1,1:55,1315,1315,Foul on Luke Bolster.,21,23,-2,4,0.47607363566902167,0.4276737416698498,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,137,1,1:55,1315,1315,Terrance McBride made Free Throw.,22,23,-1,0,0.5124713343393025,0.4636456929129441,4,4,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,138,1,1:55,1315,1315,Terrance McBride missed Free Throw.,22,23,-1,0,0.5124713343393025,0.4636456929129441,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,139,1,1:53,1313,1313,Randy Brumant Defensive Rebound.,22,23,-1,2,0.5124105911860682,0.4636137696544975,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,140,1,1:35,1295,1295,Foul on Bryan Knapp.,22,23,-1,18,0.5118579073803533,0.4633209988679359,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,141,1,1:35,1295,1295,Mike Smith missed Free Throw.,22,23,-1,0,0.5118579073803533,0.4633209988679359,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,142,1,1:35,1295,1295,Columbia Offensive Rebound.,22,23,-1,0,0.5118579073803533,0.4633209988679359,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,143,1,1:35,1295,1295,Mike Smith made Free Throw.,22,24,-2,0,0.47513564862245095,0.42703465319749767,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,144,1,1:07,1267,1267,Terrance McBride missed Three Point Jumper.,22,24,-2,28,0.473770643841709,0.4260902191031238,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,145,1,0:58,1258,1258,Randy Brumant Defensive Rebound.,22,24,-2,9,0.47331619152724075,0.4257713055938554,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,146,1,0:35,1235,1235,Mike Smith missed Layup.,22,24,-2,23,0.47211346372550667,0.4249153559829937,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,147,1,0:31,1231,1231,Marcus Filien Defensive Rebound.,22,24,-2,4,0.47189764141229956,0.4247598685030978,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,148,1,0:28,1228,1228,Bryan Knapp missed Three Point Jumper.,22,24,-2,3,0.47173438651730876,0.42464186436920554,4,4,1.5,NA,NA,Cornell,missed,Bryan Knapp,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,149,1,0:22,1222,1222,Randy Brumant Defensive Rebound.,22,24,-2,6,0.47140420176575715,0.4244021743175779,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,150,1,0:00,1200,1200,Mike Smith missed Layup.,22,24,-2,22,0.47016153896907903,0.4234906714856242,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,151,1,0:00,1200,1200,Jimmy Boeheim Defensive Rebound.,22,24,-2,0,0.47016153896907903,0.4234906714856242,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,152,1,0:00,1200,1200,End of 1st half,22,24,-2,0,0.47016153896907903,0.4234906714856242,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA,NA
+401172284,2020-01-25,Cornell,Columbia,153,2,20:00,1200,1200,PLAY,22,24,-2,0,0.47016153896907903,0.4234906714856242,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,154,2,19:43,1183,1183,Bryan Knapp made Layup. Assisted by Josh Warren.,24,24,0,17,0.546862867847439,0.5,4,4,1.5,NA,NA,Cornell,made,Bryan Knapp,Josh Warren,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,155,2,19:12,1152,1152,Mike Smith missed Jumper.,24,24,0,31,0.5464325138985933,0.5,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,156,2,19:12,1152,1152,Josh Warren Block.,24,24,0,0,0.5464325138985933,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,157,2,19:05,1145,1145,Josh Warren Defensive Rebound.,24,24,0,7,0.5463357832336434,0.5,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,158,2,18:56,1136,1136,Bryan Knapp made Three Point Jumper. Assisted by Josh Warren.,27,24,3,9,0.6600693690618086,0.6173293911058559,4,4,1.5,NA,NA,Cornell,made,Bryan Knapp,Josh Warren,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,159,2,18:40,1120,1120,Tai Bibbs missed Three Point Jumper.,27,24,3,16,0.6607249993367857,0.618229938727848,4,4,1.5,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,160,2,18:34,1114,1114,Josh Warren Defensive Rebound.,27,24,3,6,0.6609725295394674,0.618569372780537,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,161,2,18:26,1106,1106,Foul on Randy Brumant.,27,24,3,8,0.6613049604075685,0.6190244970054457,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,162,2,18:13,1093,1093,Foul on Randy Brumant.,27,24,3,13,0.6618531200420957,0.619772638925486,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,163,2,18:13,1093,1093,Jimmy Boeheim missed Free Throw.,27,24,3,0,0.6618531200420957,0.619772638925486,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,164,2,18:13,1093,1093,Cornell Offensive Rebound.,27,24,3,0,0.6618531200420957,0.619772638925486,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,165,2,18:13,1093,1093,Jimmy Boeheim made Free Throw.,28,24,4,0,0.6972896331080934,0.65733588314504,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,166,2,18:04,1084,1084,Ike Nweke Turnover.,28,24,4,9,0.6978115618595803,0.6580061723160412,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,167,2,17:34,1054,1054,Jimmy Boeheim made Layup.,30,24,6,30,0.7645692792154094,0.7304896619672904,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,168,2,17:22,1042,1042,Jack Forrest made Three Point Jumper. Assisted by Ike Nweke.,30,27,3,12,0.6641663894078812,0.6228849437385835,4,4,1.5,NA,NA,Columbia,made,Jack Forrest,Ike Nweke,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,169,2,17:07,1027,1027,Terrance McBride missed Jumper.,30,27,3,15,0.6649185030914759,0.6238788675779064,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,170,2,17:01,1021,1021,Ike Nweke Defensive Rebound.,30,27,3,6,0.6652310545238939,0.6242892866549284,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,171,2,16:51,1011,1011,Mike Smith missed Jumper.,30,27,3,10,0.6657682351355056,0.6249911838836429,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,172,2,16:48,1008,1008,Jimmy Boeheim Defensive Rebound.,30,27,3,3,0.6659335609697566,0.62520633829215,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,173,2,16:36,996,996,Terrance McBride made Jumper.,32,27,5,12,0.7381871921873193,0.7024784806987676,4,4,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,174,2,16:25,985,985,Jack Forrest made Three Point Jumper.,32,30,2,11,0.6278118687264214,0.585660344763624,4,4,1.5,NA,NA,Columbia,made,Jack Forrest,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,175,2,16:09,969,969,Jimmy Boeheim made Three Point Jumper. Assisted by Riley Voss.,35,30,5,16,0.7408042575337893,0.7056451986360136,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,Riley Voss,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,176,2,15:55,955,955,Jack Forrest missed Three Point Jumper.,35,30,5,14,0.7421591349929111,0.7072818057555647,4,4,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,177,2,15:50,950,950,Terrance McBride Defensive Rebound.,35,30,5,5,0.7426160042237204,0.7078351300838696,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,178,2,15:37,937,937,Jimmy Boeheim missed Three Point Jumper.,35,30,5,13,0.7437468360466274,0.7092078302039065,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,179,2,15:31,931,931,Mike Smith Defensive Rebound.,35,30,5,6,0.7442444165872604,0.7098131854231942,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,180,2,15:22,922,922,Ike Nweke missed Jumper.,35,30,5,9,0.7449666767322145,0.7106932089851494,4,4,1.5,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,181,2,15:17,917,917,Terrance McBride Defensive Rebound.,35,30,5,5,0.745357163459082,0.7111695670387995,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,182,2,14:49,889,889,Bryan Knapp missed Three Point Jumper.,35,30,5,28,0.7474492840709538,0.7137259212473803,4,4,1.5,NA,NA,Cornell,missed,Bryan Knapp,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,183,2,14:46,886,886,Jack Forrest Defensive Rebound.,35,30,5,3,0.7476679823550219,0.7139932648546291,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,184,2,14:46,886,886,Foul on Riley Voss.,35,30,5,0,0.7476679823550219,0.7139932648546291,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,185,2,14:46,886,886,Official TV Timeout,35,30,5,0,0.7476679823550219,0.7139932648546291,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,186,2,14:23,863,863,Ike Nweke made Jumper.,35,32,3,23,0.6737441781780699,0.6352847933118574,4,4,1.5,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,187,2,14:02,842,842,Jimmy Boeheim made Jumper.,37,32,5,21,0.7509395912538128,0.7179806209571716,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,188,2,13:37,817,817,Ike Nweke made Layup. Assisted by Mike Smith.,37,34,3,25,0.6761094009319474,0.6383177894057825,4,4,1.5,NA,NA,Columbia,made,Ike Nweke,Mike Smith,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,189,2,13:23,803,803,Terrance McBride missed Jumper.,37,34,3,14,0.6769401894372644,0.6393661659130186,4,4,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,190,2,13:15,795,795,Ike Nweke Defensive Rebound.,37,34,3,8,0.6774475926363807,0.6400024044382352,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,191,2,13:13,793,793,Foul on Josh Warren.,37,34,3,2,0.6775785301487022,0.6401661216495779,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,192,2,13:13,793,793,Mike Smith made Free Throw.,37,35,2,0,0.6342834704364053,0.5948511850622467,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,193,2,13:13,793,793,Mike Smith made Free Throw.,37,36,1,0,0.5887036788160075,0.5478601231463344,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,194,2,12:48,768,768,Terrance McBride made Three Point Jumper. Assisted by Marcus Filien.,40,36,4,25,0.7203376605458096,0.6858975835637963,4,4,1.5,NA,NA,Cornell,made,Terrance McBride,Marcus Filien,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,195,2,12:35,755,755,Foul on Greg Dolan.,40,36,4,13,0.7217002829276695,0.6875285452036931,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,196,2,12:31,751,751,Jack Forrest missed Jumper.,40,36,4,4,0.7221443504961367,0.6880585939631875,4,4,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,197,2,12:27,747,747,Thurston McCarty Defensive Rebound.,40,36,4,4,0.7226006997209049,0.68860262459405,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,198,2,12:20,740,740,Foul on Joseph Smoyer.,40,36,4,7,0.7234299005943987,0.6895895177795662,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,199,2,12:20,740,740,Josh Warren made Free Throw.,41,36,5,0,0.7615306407277441,0.7306162082939806,4,4,1.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,200,2,12:20,740,740,Josh Warren made Free Throw.,42,36,6,0,0.7958636655018693,0.7680443771240208,4,4,1.5,NA,NA,Cornell,made,Josh Warren,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,201,2,11:59,719,719,Official TV Timeout,42,36,6,21,0.7991597097111468,0.7719165106249092,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,202,2,11:50,710,710,Mike Smith missed Layup.,42,36,6,9,0.8004514216388128,0.7734405770647529,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,203,2,11:48,708,708,Columbia Offensive Rebound.,42,36,6,2,0.8007267971241321,0.7737661401658625,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,204,2,11:47,707,707,Jack Forrest missed Three Point Jumper.,42,36,6,1,0.8008630258596192,0.7739272818626208,4,4,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,205,2,11:42,702,702,Marcus Filien Defensive Rebound.,42,36,6,5,0.8015304543931057,0.7747175755426331,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,206,2,11:27,687,687,Dean Noll made Three Point Jumper. Assisted by Riley Voss.,45,36,9,15,0.8840972394981834,0.8666958795382279,4,4,1.5,NA,NA,Cornell,made,Dean Noll,Riley Voss,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,207,2,11:05,665,665,Joseph Smoyer missed Layup.,45,36,9,22,0.8866670964130735,0.8697561357528026,4,4,1.5,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,208,2,11:04,664,664,Columbia Offensive Rebound.,45,36,9,1,0.886781035935759,0.8698919134813397,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,209,2,11:04,664,664,Foul on Thurston McCarty.,45,36,9,0,0.886781035935759,0.8698919134813397,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,210,2,10:52,652,652,Tai Bibbs made Layup. Assisted by Ike Nweke.,45,38,7,12,0.838419455435142,0.8159317896622589,4,4,1.5,NA,NA,Columbia,made,Tai Bibbs,Ike Nweke,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,211,2,10:23,623,623,Marcus Filien Turnover.,45,38,7,29,0.8420323651279598,0.8202257580735846,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,212,2,10:23,623,623,Mike Smith Steal.,45,38,7,0,0.8420323651279598,0.8202257580735846,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,213,2,10:22,622,622,Foul on Riley Voss.,45,38,7,1,0.8421654369088502,0.8203834437377477,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,214,2,10:06,606,606,Jake Killingsworth missed Three Point Jumper.,45,38,7,16,0.8444102078525079,0.8230374110623647,4,4,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,215,2,10:02,602,602,Ike Nweke Offensive Rebound.,45,38,7,4,0.8450103651060815,0.8237450479901256,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,216,2,10:02,602,602,Foul on Josh Warren.,45,38,7,0,0.8450103651060815,0.8237450479901256,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,217,2,10:02,602,602,Ike Nweke missed Free Throw.,45,38,7,0,0.8450103651060815,0.8237450479901256,4,4,1.5,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,218,2,10:02,602,602,Columbia Offensive Rebound.,45,38,7,0,0.8450103651060815,0.8237450479901256,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,219,2,10:02,602,602,Ike Nweke made Free Throw.,45,39,6,0,0.813924484560684,0.7894567388462341,4,4,1.5,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,220,2,9:47,587,587,Mike Smith missed Jumper.,45,39,6,15,0.8163001013260787,0.792250577135233,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,221,2,9:41,581,581,Riley Voss Defensive Rebound.,45,39,6,6,0.8173339428459021,0.793462367850265,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,222,2,9:20,560,560,Josh Warren missed Jumper.,45,39,6,21,0.8213910483249448,0.7981982844133286,4,4,1.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,223,2,9:15,555,555,Jack Forrest Defensive Rebound.,45,39,6,5,0.8224677464549248,0.7994507552928322,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,224,2,9:11,551,551,Mike Smith made Layup.,45,41,4,4,0.7457694513731224,0.7163118756618977,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,225,2,9:11,551,551,Foul on Riley Voss.,45,41,4,0,0.7457694513731224,0.7163118756618977,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,226,2,9:11,551,551,Mike Smith made Free Throw.,45,42,3,0,0.6994362837389154,0.667007234737816,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,227,2,8:50,530,530,Terrance McBride made Layup.,47,42,5,21,0.7911863456057,0.7656654982732979,4,4,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,228,2,8:33,513,513,Jack Forrest missed Three Point Jumper.,47,42,5,17,0.7938937667546787,0.7688606358276779,4,4,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,229,2,8:29,509,509,Bryan Knapp Defensive Rebound.,47,42,5,4,0.7944944497043329,0.7695721354156249,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,230,2,8:18,498,498,Josh Warren missed Jumper.,47,42,5,11,0.7961306222806205,0.7715115493241805,4,4,1.5,NA,NA,Cornell,missed,Josh Warren,NA,FALSE,FALSE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,231,2,8:14,494,494,Bryan Knapp Offensive Rebound.,47,42,5,4,0.7967316773823329,0.7722236478441535,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,232,2,8:12,492,492,Marcus Filien missed Three Point Jumper.,47,42,5,2,0.7970355079439078,0.7725833885195548,4,4,1.5,NA,NA,Cornell,missed,Marcus Filien,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,233,2,8:05,485,485,Jake Killingsworth Defensive Rebound.,47,42,5,7,0.7981245167021115,0.7738710467014668,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,234,2,8:04,484,484,Mike Smith missed Three Point Jumper.,47,42,5,1,0.7982841404133268,0.7740595148504014,4,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,235,2,7:59,479,479,Marcus Filien Defensive Rebound.,47,42,5,5,0.7991013121354786,0.7750230884475767,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,236,2,7:39,459,459,Foul on Tai Bibbs.,47,42,5,20,0.802813078807334,0.7793708611080398,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,237,2,7:39,459,459,Official TV Timeout,47,42,5,0,0.802813078807334,0.7793708611080398,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,238,2,7:32,452,452,Greg Dolan made Three Point Jumper. Assisted by Terrance McBride.,50,42,8,7,0.8981669199942869,0.8844982900840601,4,4,1.5,NA,NA,Cornell,made,Greg Dolan,Terrance McBride,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,239,2,7:00,420,420,Jake Killingsworth made Jumper. Assisted by Mike Smith.,50,44,6,32,0.8502445343154443,0.8318383045849826,4,4,1.5,NA,NA,Columbia,made,Jake Killingsworth,Mike Smith,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,240,2,6:21,381,381,Jimmy Boeheim missed Three Point Jumper.,50,44,6,39,0.8603628206974264,0.8436154888358484,4,4,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,241,2,6:16,376,376,Jack Forrest Defensive Rebound.,50,44,6,5,0.8616466292100343,0.8451131944820514,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,242,2,6:11,371,371,Tai Bibbs missed Three Point Jumper.,50,44,6,5,0.8629562483258242,0.8466396686204448,4,4,1.5,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,243,2,6:06,366,366,Bryan Knapp Defensive Rebound.,50,44,6,5,0.8642997363097719,0.848203702514718,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,244,2,5:58,358,358,Greg Dolan made Layup.,52,44,8,8,0.9206351004390977,0.9106209538482474,4,4,1.5,NA,NA,Cornell,made,Greg Dolan,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,245,2,5:58,358,358,Foul on Randy Brumant.,52,44,8,0,0.9206351004390977,0.9106209538482474,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,246,2,5:58,358,358,Greg Dolan missed Free Throw.,52,44,8,0,0.9206351004390977,0.9106209538482474,4,4,1.5,NA,NA,Cornell,missed,Greg Dolan,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,247,2,5:56,356,356,Jack Forrest Defensive Rebound.,52,44,8,2,0.9211300842048251,0.9111953937558503,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,248,2,5:48,348,348,Foul on Bryan Knapp.,52,44,8,8,0.9231783897889785,0.9135685942757829,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,249,2,5:48,348,348,Randy Brumant made Free Throw.,52,45,7,0,0.899491344620289,0.8872802705180111,4,4,1.5,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,250,2,5:48,348,348,Randy Brumant missed Free Throw.,52,45,7,0,0.899491344620289,0.8872802705180111,4,4,1.5,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,TRUE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,251,2,5:46,346,346,Josh Warren Defensive Rebound.,52,45,7,2,0.9000802699707018,0.8879609022395285,4,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,252,2,5:20,320,320,Jimmy Boeheim made Layup. Assisted by Greg Dolan.,54,45,9,26,0.9487796990830388,0.9424017353394284,4,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,Greg Dolan,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,253,2,5:01,301,301,Mike Smith made Jumper.,54,47,7,19,0.9152073135100536,0.9053254714856735,4,4,1.5,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,254,2,5:01,301,301,Columbia  Timeout,54,47,7,0,0.9152073135100536,0.9053254714856735,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,255,2,5:01,301,301,Official TV Timeout,54,47,7,0,0.9152073135100536,0.9053254714856735,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,256,2,4:46,286,286,Greg Dolan missed Three Point Jumper.,54,47,7,15,0.9162455807397176,0.906671789411184,3,4,1.5,NA,NA,Cornell,missed,Greg Dolan,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,257,2,4:42,282,282,Columbia Defensive Rebound.,54,47,7,4,0.9160055014225453,0.9064601911312894,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,258,2,4:27,267,267,Mike Smith missed Jumper.,54,47,7,15,0.9139418568967526,0.904391042656643,3,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,259,2,4:24,264,264,Jimmy Boeheim Defensive Rebound.,54,47,7,3,0.913402230044536,0.9038393422814828,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,260,2,4:10,250,250,Jimmy Boeheim made Three Point Jumper. Assisted by Josh Warren.,57,47,10,14,0.9635082386768121,0.9593200457995901,3,4,1.5,NA,NA,Cornell,made,Jimmy Boeheim,Josh Warren,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,261,2,3:52,232,232,Mike Smith missed Layup.,57,47,10,18,0.9628243007107617,0.9586817281198159,3,4,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,262,2,3:52,232,232,Bryan Knapp Block.,57,47,10,0,0.9628243007107617,0.9586817281198159,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,263,2,3:46,226,226,Jimmy Boeheim Defensive Rebound.,57,47,10,6,0.9632101671957275,0.9591502523792855,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,264,2,3:28,208,208,Josh Warren made Layup. Assisted by Greg Dolan.,59,47,12,18,0.982559477760844,0.9806553256212037,3,4,1.5,NA,NA,Cornell,made,Josh Warren,Greg Dolan,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,265,2,3:27,207,207,Official TV Timeout,59,47,12,1,0.9827736454163388,0.9808960571471091,3,4,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,266,2,3:27,207,207,Cornell  Timeout,59,47,12,0,0.9827736454163388,0.9808960571471091,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,267,2,3:09,189,189,Jake Killingsworth missed Jumper.,59,47,12,18,0.9876823698862246,0.9863817115119354,3,3,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,268,2,3:08,188,188,Ike Nweke Offensive Rebound.,59,47,12,1,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,269,2,3:08,188,188,Ike Nweke missed Layup.,59,47,12,0,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,270,2,3:08,188,188,Josh Warren Defensive Rebound.,59,47,12,0,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,271,2,3:08,188,188,Foul on Ike Nweke.,59,47,12,0,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,272,2,3:08,188,188,Foul on Tai Bibbs.,59,47,12,0,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,273,2,3:08,188,188,Greg Dolan missed Free Throw.,59,47,12,0,0.9879805182241346,0.9867137114248729,3,3,1.5,NA,NA,Cornell,missed,Greg Dolan,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,274,2,3:07,187,187,Jack Forrest Defensive Rebound.,59,47,12,1,0.9882717782180277,0.9870379963334664,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,275,2,2:59,179,179,Mike Smith missed Jumper.,59,47,12,8,0.9903780359292045,0.9893815327333636,3,3,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,276,2,2:56,176,176,Jimmy Boeheim Defensive Rebound.,59,47,12,3,0.9910768236190902,0.9901583237468169,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,277,2,2:37,157,157,Jimmy Boeheim missed Layup.,59,47,12,19,0.994612409010571,0.994080541480566,3,3,1.5,NA,NA,Cornell,missed,Jimmy Boeheim,NA,FALSE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,278,2,2:33,153,153,Jake Killingsworth Defensive Rebound.,59,47,12,4,0.9951954403316625,0.9947256040770556,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,279,2,2:23,143,143,Jack Forrest missed Layup.,59,47,12,10,0.996453336116674,0.9961149920008711,3,3,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,280,2,2:20,140,140,Jack Forrest Offensive Rebound.,59,47,12,3,0.9967796746446439,0.9964748298121269,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,281,2,2:18,138,138,Jake Killingsworth missed Three Point Jumper.,59,47,12,2,0.9969850484945748,0.9967011359457423,3,3,1.5,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,282,2,2:13,133,133,Terrance McBride Defensive Rebound.,59,47,12,5,0.9974577020546803,0.9972214813524544,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,283,2,2:12,132,132,Foul on Tai Bibbs.,59,47,12,1,0.9975454865177759,0.9973180435800296,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,284,2,2:12,132,132,Terrance McBride missed Free Throw.,59,47,12,0,0.9975454865177759,0.9973180435800296,3,3,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,285,2,2:10,130,130,Jack Forrest Defensive Rebound.,59,47,12,2,0.9977145466552542,0.9975039322275192,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,286,2,2:01,121,121,Mike Smith missed Layup.,59,47,12,9,0.998373635643211,0.9982275545837315,3,3,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,287,2,2:01,121,121,Bryan Knapp Block.,59,47,12,0,0.998373635643211,0.9982275545837315,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,288,2,1:54,114,114,Jake Killingsworth Offensive Rebound.,59,47,12,7,0.9987808655730582,0.9986736357891554,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,289,2,1:54,114,114,Jack Forrest missed Three Point Jumper.,59,47,12,0,0.9987808655730582,0.9986736357891554,3,3,1.5,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,290,2,1:53,113,113,Bryan Knapp Defensive Rebound.,59,47,12,1,0.9988321690132496,0.9987297669543944,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,291,2,1:53,113,113,Foul on Jack Forrest.,59,47,12,0,0.9988321690132496,0.9987297669543944,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,292,2,1:53,113,113,Bryan Knapp missed Free Throw.,59,47,12,0,0.9988321690132496,0.9987297669543944,3,3,1.5,NA,NA,Cornell,missed,Bryan Knapp,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,293,2,1:51,111,111,Ike Nweke Defensive Rebound.,59,47,12,2,0.9989299161675168,0.9988366658087897,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,294,2,1:32,92,92,Mike Smith made Three Point Jumper.,59,50,9,19,0.997123046874317,0.9968883032906194,3,3,1.5,NA,NA,Columbia,made,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,295,2,1:26,86,86,Foul on Jake Killingsworth.,59,50,9,6,0.997737002813824,0.9975561734029533,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,296,2,1:26,86,86,Terrance McBride made Free Throw.,60,50,10,0,0.9988383726656606,0.998745439800873,3,3,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,297,2,1:26,86,86,Terrance McBride missed Free Throw.,60,50,10,0,0.9988383726656606,0.998745439800873,3,3,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,298,2,1:19,79,79,Randy Brumant Defensive Rebound.,60,50,10,7,0.9991582082218303,0.99909257238916,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,299,2,1:12,72,72,Mike Smith missed Layup.,60,50,10,7,0.9994002000004297,0.999354675425705,3,3,1.5,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,300,2,1:07,67,67,Jimmy Boeheim Defensive Rebound.,60,50,10,5,0.9995345093449381,0.9994998796257678,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,301,2,1:02,62,62,Foul on Mike Smith.,60,50,10,5,0.9996409193356133,0.9996147519937513,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,302,2,1:02,62,62,Terrance McBride made Free Throw.,61,50,11,0,0.9998363682033359,0.9998244413362464,3,3,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,303,2,1:02,62,62,Terrance McBride made Free Throw.,62,50,12,0,0.999925441500037,0.999920006527533,3,3,1.5,NA,NA,Cornell,made,Terrance McBride,NA,FALSE,TRUE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,304,2,0:43,43,43,Randy Brumant missed Three Point Jumper.,62,50,12,19,0.9999789528533025,0.9999775437421446,3,3,1.5,NA,NA,Columbia,missed,Randy Brumant,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,305,2,0:39,39,39,Terrance McBride Defensive Rebound.,62,50,12,4,0.99998417421475,0.9999831349767797,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,306,2,0:12,12,12,Terrance McBride missed Three Point Jumper.,62,50,12,27,0.9999980244643026,0.9999979123455336,3,3,1.5,NA,NA,Cornell,missed,Terrance McBride,NA,TRUE,FALSE,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,307,2,0:06,6,6,Mike Smith Defensive Rebound.,62,50,12,6,0.9999988113772806,0.9999987463556451,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,Columbia,NA
+401172284,2020-01-25,Cornell,Columbia,308,2,0:05,5,5,Mike Smith missed Three Point Jumper.,62,50,12,1,0.9999989093940576,0.9999988501092868,3,3,1.5,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Cornell,NA
+401172284,2020-01-25,Cornell,Columbia,309,2,0:00,0,0,Terrance McBride Defensive Rebound.,62,50,12,5,1,1,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Cornell,1
+401172284,2020-01-25,Cornell,Columbia,310,2,0:00,0,0,End of 2nd half,62,50,12,0,1,1,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA,1
+401172284,2020-01-25,Cornell,Columbia,311,2,0:00,0,0,End of Game,62,50,12,0,1,1,3,3,1.5,NA,NA,NA,NA,NA,NA,NA,NA,Cornell,NA,1
