@@ -15,7 +15,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2020-01-24")
+date <- as.Date("2020-02-17")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(date)
   if(!is.null(schedule)) {
@@ -84,7 +84,6 @@ for(i in 1:n) {
         df$location <- s$location[k]
         write_csv(df, file)
       }
-      
     }
   }
 }

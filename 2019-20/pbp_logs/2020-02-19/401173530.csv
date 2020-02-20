@@ -1,0 +1,352 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after,win_prob_naive
+401173530,2020-02-19,Drake,Valparaiso,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.6551430901604922,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,2,1,19:44,2384,2684,Liam Robbins made Jumper. Assisted by D.J. Wilkins.,2,0,2,16,0.6939424165771524,0.5443630098696349,4,4,4,NA,NA,Drake,made,Liam Robbins,DJ Wilkins,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,3,1,19:23,2363,2663,Nick Robinson missed Three Point Jumper.,2,0,2,21,0.6940326933408836,0.5448106339192909,4,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,4,1,19:19,2359,2659,Roman Penn Defensive Rebound.,2,0,2,4,0.694049647928756,0.5448965882700816,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,5,1,19:17,2357,2657,D.J. Wilkins missed Three Point Jumper.,2,0,2,2,0.6940580926488644,0.5449396457150346,4,4,4,NA,NA,Drake,missed,D.J. Wilkins,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,6,1,19:11,2351,2651,Nick Robinson Defensive Rebound.,2,0,2,6,0.6940832900167883,0.5450691340700113,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,7,1,19:09,2349,2649,Foul on Jonah Jackson.,2,0,2,2,0.6940916417373937,0.5451124007901187,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,8,1,18:44,2324,2624,Ryan Fazekas made Three Point Jumper. Assisted by Mileek McMillan.,2,3,-1,25,0.6329956265586714,0.47712349981117463,4,4,4,NA,NA,Valparaiso,made,Ryan Fazekas,Mileek McMillan,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,9,1,18:23,2303,2603,Jonah Jackson missed Three Point Jumper.,2,3,-1,21,0.6324338323818058,0.4768903217819385,4,4,4,NA,NA,Drake,missed,Jonah Jackson,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,10,1,18:19,2299,2599,Mileek McMillan Defensive Rebound.,2,3,-1,4,0.6323255334989795,0.4768456344721503,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,11,1,18:13,2293,2593,Mileek McMillan made Three Point Jumper. Assisted by Nick Robinson.,2,6,-4,6,0.5652864207905317,0.4081031760421934,4,4,4,NA,NA,Valparaiso,made,Mileek McMillan,Nick Robinson,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,12,1,17:55,2275,2575,Liam Robbins missed Jumper.,2,6,-4,18,0.5641640435405013,0.407318586592522,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,13,1,17:51,2271,2571,Nick Robinson Defensive Rebound.,2,6,-4,4,0.5639127597939447,0.40714349549642176,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,14,1,17:43,2263,2563,Donovan Clay made Dunk. Assisted by Javon Freeman-Liberty.,2,8,-6,8,0.5165902384211659,0.36219238427958755,4,4,4,NA,NA,Valparaiso,made,Donovan Clay,Javon Freeman-Liberty,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,15,1,17:21,2241,2541,Roman Penn missed Jumper.,2,8,-6,22,0.5146661144284416,0.3608003212595566,4,4,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,16,1,17:21,2241,2541,Javon Freeman-Liberty Block.,2,8,-6,0,0.5146661144284416,0.3608003212595566,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,17,1,17:15,2235,2535,Mileek McMillan Defensive Rebound.,2,8,-6,6,0.5141374042011296,0.36041928750113866,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,18,1,16:58,2218,2518,Donovan Clay missed Jumper.,2,8,-6,17,0.5126305966651746,0.35933692644085735,4,4,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,19,1,16:54,2214,2514,Liam Robbins Defensive Rebound.,2,8,-6,4,0.512274215338008,0.35908171655760157,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,20,1,16:47,2207,2507,D.J. Wilkins missed Jumper.,2,8,-6,7,0.511648911508142,0.35863466174253417,4,4,4,NA,NA,Drake,missed,D.J. Wilkins,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,21,1,16:47,2207,2507,Javon Freeman-Liberty Block.,2,8,-6,0,0.511648911508142,0.35863466174253417,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,22,1,16:46,2206,2506,Drake Offensive Rebound.,2,8,-6,1,0.5115594145324334,0.35857075373194436,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,23,1,16:39,2199,2499,Anthony Murphy made Layup.,4,8,-4,7,0.5592800394297587,0.4039548941433866,4,4,4,NA,NA,Drake,made,Anthony Murphy,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,24,1,16:39,2199,2499,Foul on Donovan Clay.,4,8,-4,0,0.5592800394297587,0.4039548941433866,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,25,1,16:39,2199,2499,Anthony Murphy made Free Throw.,5,8,-3,0,0.5830955309619008,0.427573083497328,4,4,4,NA,NA,Drake,made,Anthony Murphy,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,26,1,16:20,2180,2480,Ryan Fazekas missed Three Point Jumper.,5,8,-3,19,0.582072416001098,0.4269247421092793,4,4,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,27,1,16:16,2176,2476,Noah Thomas Defensive Rebound.,5,8,-3,4,0.5818555266832268,0.4267879808218812,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,28,1,16:11,2171,2471,Liam Robbins made Layup. Assisted by Roman Penn.,7,8,-1,5,0.6286406820889646,0.4753809576830629,4,4,4,NA,NA,Drake,made,Liam Robbins,Roman Penn,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,29,1,15:51,2151,2451,Foul on Noah Thomas.,7,8,-1,20,0.6280262279293202,0.475147605385526,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,30,1,15:50,2150,2450,Official TV Timeout,7,8,-1,1,0.6279952264813345,0.47513589657523964,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,31,1,15:50,2150,2450,Javon Freeman-Liberty made Free Throw.,7,9,-2,0,0.6044609047537194,0.4503944624143455,4,4,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,TRUE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,32,1,15:41,2141,2441,Javon Freeman-Liberty made Free Throw.,7,10,-3,9,0.5799341281312853,0.42558548116383255,4,4,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,TRUE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,33,1,15:38,2138,2438,Liam Robbins missed Jumper.,7,10,-3,3,0.5797673627675615,0.42548177964280776,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,34,1,15:34,2134,2434,Nick Robinson Defensive Rebound.,7,10,-3,4,0.5795444917787146,0.4253433444977733,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,35,1,15:21,2121,2421,Donovan Clay missed Three Point Jumper.,7,10,-3,13,0.5788160555678867,0.424892080309154,4,4,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,36,1,15:17,2117,2417,Liam Robbins Defensive Rebound.,7,10,-3,4,0.578590650510887,0.4247528027276655,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,37,1,15:11,2111,2411,Garrett Sturtz missed Layup.,7,10,-3,6,0.5782514142427899,0.4245434982498647,4,4,4,NA,NA,Drake,missed,Garrett Sturtz,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,38,1,15:11,2111,2411,Mileek McMillan Block.,7,10,-3,0,0.5782514142427899,0.4245434982498647,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,39,1,15:10,2110,2410,Liam Robbins Offensive Rebound.,7,10,-3,1,0.57819474277467,0.42450856826192424,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,40,1,15:10,2110,2410,Foul on Javon Freeman-Liberty.,7,10,-3,0,0.57819474277467,0.42450856826192424,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,41,1,15:10,2110,2410,Liam Robbins made Free Throw.,8,10,-2,0,0.6027167194995158,0.44945785201816096,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,42,1,15:10,2110,2410,Liam Robbins made Free Throw.,9,10,-1,0,0.6267334227757233,0.4746640388951447,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,43,1,14:52,2092,2392,Eron Gordon Turnover.,9,10,-1,18,0.6261517822275962,0.4744492964725376,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,44,1,14:52,2092,2392,Roman Penn Steal.,9,10,-1,0,0.6261517822275962,0.4744492964725376,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,45,1,14:44,2084,2384,Liam Robbins missed Jumper.,9,10,-1,8,0.6258905232805536,0.47435333693776865,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,46,1,14:40,2080,2380,Donovan Clay Defensive Rebound.,9,10,-1,4,0.6257592590497838,0.4743052334352862,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,47,1,14:37,2077,2377,Ben Krikke made Layup. Assisted by Javon Freeman-Liberty.,9,12,-3,3,0.5763031728328177,0.42334815386085534,4,4,4,NA,NA,Valparaiso,made,Ben Krikke,Javon Freeman-Liberty,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,48,1,14:25,2065,2365,Roman Penn made Three Point Jumper. Assisted by Noah Thomas.,12,12,0,12,0.6492046931520395,0.5,4,4,4,NA,NA,Drake,made,Roman Penn,Noah Thomas,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,49,1,13:55,2035,2335,Javon Freeman-Liberty missed Jumper.,12,12,0,30,0.6485577953337655,0.5,4,4,4,NA,NA,Valparaiso,missed,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,50,1,13:52,2032,2332,Anthony Murphy Defensive Rebound.,12,12,0,3,0.6484921306003822,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,51,1,13:45,2025,2325,Foul on Donovan Clay.,12,12,0,7,0.6483382318167831,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,52,1,13:45,2025,2325,Liam Robbins missed Free Throw.,12,12,0,0,0.6483382318167831,0.5,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,53,1,13:45,2025,2325,Drake Deadball Team Rebound.,12,12,0,0,0.6483382318167831,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,54,1,13:45,2025,2325,Liam Robbins made Free Throw.,13,12,1,0,0.6720124664489623,0.526365172219088,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,55,1,13:18,1998,2298,Eron Gordon Turnover.,13,12,1,27,0.6717271027842557,0.5267009496278943,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,56,1,13:02,1982,2282,Anthony Murphy missed Three Point Jumper.,13,12,1,16,0.6715538698480339,0.52690219264,4,4,4,NA,NA,Drake,missed,Anthony Murphy,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,57,1,12:58,1978,2278,Javon Freeman-Liberty Defensive Rebound.,13,12,1,4,0.6715101023703931,0.5269527772938578,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,58,1,12:48,1968,2268,Javon Freeman-Liberty made Three Point Jumper. Assisted by Eron Gordon.,13,15,-2,10,0.5961017518804145,0.4459989381243246,4,4,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,Eron Gordon,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,59,1,12:32,1952,2252,Noah Thomas Turnover.,13,15,-2,16,0.5953137264684765,0.44559330945568887,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,60,1,12:24,1944,2244,Foul on D.J. Wilkins.,13,15,-2,8,0.5949163900855237,0.44538911105725526,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,61,1,12:01,1921,2221,Zion Morgan missed Jumper.,13,15,-2,23,0.5937620422416866,0.44479753930756444,4,4,4,NA,NA,Valparaiso,missed,Zion Morgan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,62,1,11:56,1916,2216,Liam Robbins Defensive Rebound.,13,15,-2,5,0.5935091415477076,0.44466883428171733,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,63,1,11:46,1906,2206,Foul on Ben Krikke.,13,15,-2,10,0.5930014151738918,0.44441165378257325,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,64,1,11:46,1906,2206,Official TV Timeout,13,15,-2,0,0.5930014151738918,0.44441165378257325,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,65,1,11:46,1906,2206,Liam Robbins made Free Throw.,14,15,-1,0,0.6196411225211639,0.4721194061896508,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,66,1,11:46,1906,2206,Liam Robbins made Free Throw.,15,15,0,0,0.645579300902072,0.5,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,67,1,11:18,1878,2178,Ryan Fazekas missed Jumper.,15,15,0,28,0.6448854325512147,0.5,4,4,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,68,1,11:14,1874,2174,Liam Robbins Defensive Rebound.,15,15,0,4,0.6447847716517381,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,69,1,11:08,1868,2168,Garrett Sturtz made Jumper. Assisted by Noah Thomas.,17,15,2,6,0.6948228504627338,0.5565653187903247,4,4,4,NA,NA,Drake,made,Garrett Sturtz,Noah Thomas,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,70,1,10:53,1853,2153,Ben Krikke made Layup.,17,17,0,15,0.644250284336613,0.5,4,4,4,NA,NA,Valparaiso,made,Ben Krikke,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,71,1,10:22,1822,2122,Foul on Ryan Fazekas.,17,17,0,31,0.6434437320826545,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,72,1,10:02,1802,2102,Javon Freeman-Liberty Turnover.,17,17,0,20,0.6429130307883656,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,73,1,10:02,1802,2102,Garrett Sturtz Steal.,17,17,0,0,0.6429130307883656,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,74,1,9:49,1789,2089,Noah Thomas missed Jumper.,17,17,0,13,0.6425640080938265,0.5,4,4,4,NA,NA,Drake,missed,Noah Thomas,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,75,1,9:45,1785,2085,Mileek McMillan Defensive Rebound.,17,17,0,4,0.642455997958665,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,76,1,9:33,1773,2073,Javon Freeman-Liberty missed Jumper.,17,17,0,12,0.6421302789305496,0.5,4,4,4,NA,NA,Valparaiso,missed,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,77,1,9:30,1770,2070,Mileek McMillan Offensive Rebound.,17,17,0,3,0.6420484622926125,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,78,1,9:28,1768,2068,Mileek McMillan missed Jumper.,17,17,0,2,0.641993833662605,0.5,4,4,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,79,1,9:25,1765,2065,Noah Thomas Defensive Rebound.,17,17,0,3,0.6419117656599177,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,80,1,9:23,1763,2063,Garrett Sturtz made Layup. Assisted by Noah Thomas.,19,17,2,2,0.694626797199789,0.5593210449516063,4,4,4,NA,NA,Drake,made,Garrett Sturtz,Noah Thomas,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,81,1,9:11,1751,2051,Mileek McMillan missed Layup.,19,17,2,12,0.6946025936532891,0.5596467959132658,4,4,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,82,1,9:11,1751,2051,Liam Robbins Block.,19,17,2,0,0.6946025936532891,0.5596467959132658,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,83,1,9:05,1745,2045,Jonah Jackson Defensive Rebound.,19,17,2,6,0.6945907769485247,0.5598108414036618,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,84,1,9:03,1743,2043,Liam Robbins missed Three Point Jumper.,19,17,2,2,0.6945868904816775,0.559865704705386,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,85,1,8:57,1737,2037,Javon Freeman-Liberty Defensive Rebound.,19,17,2,6,0.694575409812191,0.5600308561056404,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,86,1,8:54,1734,2034,Eron Gordon made Three Point Jumper. Assisted by Nick Robinson.,19,20,-1,3,0.612809115906989,0.4698337147961238,4,4,4,NA,NA,Valparaiso,made,Eron Gordon,Nick Robinson,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,87,1,8:43,1723,2023,Drake  Timeout,19,20,-1,11,0.6123448424182973,0.46967908482183,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,88,1,8:20,1700,2000,Roman Penn missed Jumper.,19,20,-1,23,0.6113631853457937,0.4693504028949788,3,4,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,89,1,8:16,1696,1996,Anthony Murphy Offensive Rebound.,19,20,-1,4,0.6111909493263857,0.46929244693541566,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,90,1,8:15,1695,1995,D.J. Wilkins made Three Point Jumper. Assisted by Jonah Jackson.,22,20,2,1,0.6945057663628936,0.5612130583715181,3,4,4,NA,NA,Drake,made,D.J. Wilkins,Jonah Jackson,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,91,1,7:49,1669,1969,Mileek McMillan Turnover.,22,20,2,26,0.6944545466339961,0.561954358663217,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,92,1,7:49,1669,1969,Roman Penn Steal.,22,20,2,0,0.6944545466339961,0.561954358663217,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,93,1,7:44,1664,1964,Anthony Murphy made Layup. Assisted by Roman Penn.,24,20,4,5,0.7447148927558601,0.6223017985219527,3,4,4,NA,NA,Drake,made,Anthony Murphy,Roman Penn,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,94,1,7:23,1643,1943,Mileek McMillan missed Three Point Jumper.,24,20,4,21,0.7450881229903429,0.6234055504732094,3,4,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,95,1,7:19,1639,1939,Roman Penn Defensive Rebound.,24,20,4,4,0.7451557353248881,0.6236132857176387,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,96,1,7:15,1635,1935,Antonio Pilipovic missed Three Point Jumper.,24,20,4,4,0.7452223978171698,0.6238203810781087,3,4,4,NA,NA,Drake,missed,Antonio Pilipovic,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,97,1,7:11,1631,1931,Nick Robinson Defensive Rebound.,24,20,4,4,0.7452881780021258,0.6240269031165463,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,98,1,6:59,1619,1919,Nick Robinson missed Three Point Jumper.,24,20,4,12,0.7454808992956253,0.6246436940548385,3,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,99,1,6:55,1615,1915,Jonah Jackson Defensive Rebound.,24,20,4,4,0.7455438245877873,0.624848587272994,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,100,1,6:51,1611,1911,Jonah Jackson missed Three Point Jumper.,24,20,4,4,0.7456062044990217,0.6250532391158649,3,4,4,NA,NA,Drake,missed,Jonah Jackson,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,101,1,6:47,1607,1907,Javon Freeman-Liberty Defensive Rebound.,24,20,4,4,0.7456681062733913,0.6252577158005226,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,102,1,6:38,1598,1898,Mileek McMillan made Jumper.,24,22,2,9,0.6941139798216917,0.5638849226553919,3,4,4,NA,NA,Valparaiso,made,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,103,1,6:11,1571,1871,Roman Penn missed Layup.,24,22,2,27,0.6939444088201019,0.5646117213053873,3,4,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,104,1,6:08,1568,1868,Roman Penn Offensive Rebound.,24,22,2,3,0.6939252697082319,0.5646930478938033,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,105,1,6:07,1567,1867,D.J. Wilkins made Three Point Jumper. Assisted by Roman Penn.,27,22,5,1,0.7701249600163709,0.6572027246539117,3,4,4,NA,NA,Drake,made,D.J. Wilkins,Roman Penn,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,106,1,5:55,1555,1855,Mileek McMillan Turnover.,27,22,5,12,0.7704150408653422,0.6579525484026556,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,107,1,5:54,1554,1854,Official TV Timeout,27,22,5,1,0.7704394137166799,0.6580153566356547,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,108,1,5:25,1525,1825,D.J. Wilkins missed Three Point Jumper.,27,22,5,29,0.7711666458432394,0.6598658435021759,3,4,4,NA,NA,Drake,missed,D.J. Wilkins,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,109,1,5:22,1522,1822,Daniel Sackey Defensive Rebound.,27,22,5,3,0.7712447408052937,0.6600611204555759,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,110,1,5:12,1512,1812,Nick Robinson missed Three Point Jumper.,27,22,5,10,0.7715099846604102,0.6607183550468859,3,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,111,1,5:09,1509,1809,Ben Krikke Offensive Rebound.,27,22,5,3,0.771591155392231,0.6609175441371675,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,112,1,5:09,1509,1809,Foul on Roman Penn.,27,22,5,0,0.771591155392231,0.6609175441371675,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,113,1,4:51,1491,1791,Nick Robinson Turnover.,27,22,5,18,0.7720958981923078,0.662134588409314,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,114,1,4:51,1491,1791,Roman Penn Steal.,27,22,5,0,0.7720958981923078,0.662134588409314,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,115,1,4:46,1486,1786,Foul on Ben Krikke.,27,22,5,5,0.7722420629625447,0.6624799174272763,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,116,1,4:46,1486,1786,Liam Robbins made Free Throw.,28,22,6,0,0.795090530718146,0.6919471622011576,3,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,117,1,4:46,1486,1786,Liam Robbins missed Free Throw.,28,22,6,0,0.795090530718146,0.6919471622011576,3,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,118,1,4:45,1485,1785,Javon Freeman-Liberty Defensive Rebound.,28,22,6,1,0.795128045677582,0.69202663443178,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,119,1,4:33,1473,1773,Daniel Sackey Turnover.,28,22,6,12,0.7955883558015723,0.6929927849690484,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,120,1,4:33,1473,1773,D.J. Wilkins Steal.,28,22,6,0,0.7955883558015723,0.6929927849690484,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,121,1,4:29,1469,1769,Foul on Javon Freeman-Liberty.,28,22,6,4,0.7957461660753095,0.693320197627299,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,122,1,4:29,1469,1769,Anthony Murphy missed Free Throw.,28,22,6,0,0.7957461660753095,0.693320197627299,3,4,4,NA,NA,Drake,missed,Anthony Murphy,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,123,1,4:29,1469,1769,Drake Deadball Team Rebound.,28,22,6,0,0.7957461660753095,0.693320197627299,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,124,1,4:29,1469,1769,Anthony Murphy missed Free Throw.,28,22,6,0,0.7957461660753095,0.693320197627299,3,4,4,NA,NA,Drake,missed,Anthony Murphy,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,125,1,4:27,1467,1767,Ben Krikke Defensive Rebound.,28,22,6,2,0.7958259342613258,0.6934849570754132,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,126,1,4:27,1467,1767,Foul on Anthony Murphy.,28,22,6,0,0.7958259342613258,0.6934849570754132,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,127,1,4:09,1449,1749,Ryan Fazekas missed Three Point Jumper.,28,22,6,18,0.7965712722058818,0.6950010703013401,3,4,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,TRUE,FALSE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,128,1,4:06,1446,1746,Ben Krikke Offensive Rebound.,28,22,6,3,0.7966980245963882,0.6952568634859001,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,129,1,3:47,1427,1727,Nick Robinson missed Jumper.,28,22,6,19,0.7974667022057021,0.6968371571663571,3,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,130,1,3:43,1423,1723,Noah Thomas Defensive Rebound.,28,22,6,4,0.7976218648952678,0.6971621312120259,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,131,1,3:36,1416,1716,Official TV Timeout,28,22,6,7,0.7978886271042086,0.6977253597284576,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,132,1,3:35,1415,1715,Garrett Sturtz made Layup. Assisted by Noah Thomas.,30,22,8,1,0.8392070280679288,0.7532134332268395,3,4,4,NA,NA,Drake,made,Garrett Sturtz,Noah Thomas,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,133,1,3:14,1394,1694,Ben Krikke missed Three Point Jumper.,30,22,8,21,0.8402018706428089,0.755154979997352,3,4,4,NA,NA,Valparaiso,missed,Ben Krikke,NA,TRUE,FALSE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,134,1,3:10,1390,1690,Zion Morgan Offensive Rebound.,30,22,8,4,0.8403869723084518,0.7555192877426385,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,135,1,3:08,1388,1688,Nick Robinson missed Three Point Jumper.,30,22,8,2,0.8404791187510727,0.7557009406941532,3,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,136,1,3:04,1384,1684,Liam Robbins Defensive Rebound.,30,22,8,4,0.8406626930512154,0.7560633626239566,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,137,1,2:36,1356,1656,Noah Thomas made Three Point Jumper. Assisted by Garrett Sturtz.,33,22,11,28,0.8910994883228797,0.8283911136790043,3,4,4,NA,NA,Drake,made,Noah Thomas,Garrett Sturtz,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,138,1,2:15,1335,1635,Nick Robinson missed Three Point Jumper.,33,22,11,21,0.8921699498880761,0.8304090189589292,3,4,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,139,1,2:12,1332,1632,Liam Robbins Defensive Rebound.,33,22,11,3,0.8923240853665901,0.8306989039889967,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,140,1,2:05,1325,1625,Noah Thomas made Jumper.,35,22,13,7,0.9174769266957309,0.8682417870044058,3,4,4,NA,NA,Drake,made,Noah Thomas,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,141,1,2:02,1322,1622,Valparaiso  Timeout,35,22,13,3,0.9176288377117849,0.8685236403814589,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,142,1,1:37,1297,1597,Eron Gordon missed Three Point Jumper.,35,22,13,25,0.918920816903429,0.8709081029597502,3,3,4,NA,NA,Valparaiso,missed,Eron Gordon,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,143,1,1:36,1296,1596,Drake Defensive Rebound.,35,22,13,1,0.9189736897906364,0.8710051332944979,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,144,1,1:25,1285,1585,Anthony Murphy missed Three Point Jumper.,35,22,13,11,0.9195627759107117,0.8720829049488414,3,3,4,NA,NA,Drake,missed,Anthony Murphy,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,145,1,1:21,1281,1581,Eron Gordon Defensive Rebound.,35,22,13,4,0.9197806625508086,0.8724799567173787,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,146,1,1:18,1278,1578,Ryan Fazekas missed Three Point Jumper.,35,22,13,3,0.9199454685784137,0.8727796939323295,3,3,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,147,1,1:15,1275,1575,Drake Defensive Rebound.,35,22,13,3,0.9201115162284365,0.8730811718776909,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,148,1,1:00,1260,1560,Noah Thomas missed Jumper.,35,22,13,15,0.9209618982643207,0.8746168479306452,3,3,4,NA,NA,Drake,missed,Noah Thomas,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,149,1,0:56,1256,1556,Liam Robbins Offensive Rebound.,35,22,13,4,0.9211947748151922,0.8750349496099505,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,150,1,0:47,1247,1547,Anthony Murphy made Dunk. Assisted by Garrett Sturtz.,37,22,15,9,0.9408575075680949,0.9051463499277418,3,3,4,NA,NA,Drake,made,Anthony Murphy,Garrett Sturtz,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,151,1,0:34,1234,1534,Ryan Fazekas missed Three Point Jumper.,37,22,15,13,0.9415842839050503,0.9064374179030004,3,3,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,152,1,0:30,1230,1530,Garrett Sturtz Defensive Rebound.,37,22,15,4,0.9418135734216323,0.9068427499966465,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,153,1,0:02,1202,1502,D.J. Wilkins made Three Point Jumper. Assisted by Noah Thomas.,40,22,18,28,0.9636418696164853,0.941204463689943,3,3,4,NA,NA,Drake,made,D.J. Wilkins,Noah Thomas,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,154,1,0:00,1200,1500,End of 1st half,40,22,18,2,0.9637378507529736,0.9413727903516481,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,NA,NA
+401173530,2020-02-19,Drake,Valparaiso,155,2,20:00,1200,1500,PLAY,40,22,18,0,0.9637378507529736,0.9413727903516481,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,156,2,19:29,1169,1469,D.J. Wilkins missed Three Point Jumper.,40,22,18,31,0.9651521100327194,0.9438556811022948,4,4,4,NA,NA,Drake,missed,D.J. Wilkins,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,157,2,19:28,1168,1468,Drake Deadball Team Rebound.,40,22,18,1,0.9651957956364369,0.9439324193642522,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,158,2,19:28,1168,1468,Drake  Turnover.,40,22,18,0,0.9651957956364369,0.9439324193642522,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,159,2,19:14,1154,1454,Foul on Anthony Murphy.,40,22,18,14,0.9657977303915465,0.9449896960085639,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,160,2,19:10,1150,1450,Donovan Clay made Layup. Assisted by Mileek McMillan.,40,24,16,4,0.953875785861717,0.9264082145893857,4,4,4,NA,NA,Valparaiso,made,Donovan Clay,Mileek McMillan,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,161,2,18:56,1136,1436,Foul on Javon Freeman-Liberty.,40,24,16,14,0.9545611412604171,0.9276104645624215,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,162,2,18:56,1136,1436,Liam Robbins made Free Throw.,41,24,17,0,0.960995526981305,0.9376117807086878,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,163,2,18:56,1136,1436,Liam Robbins made Free Throw.,42,24,18,0,0.9665506971087136,0.9463112933555274,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,164,2,18:28,1108,1408,Mileek McMillan missed Three Point Jumper.,42,24,18,28,0.9676962088607514,0.9483168022489761,4,4,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,165,2,18:24,1104,1404,Anthony Murphy Defensive Rebound.,42,24,18,4,0.9678589108220117,0.9486009122008195,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,166,2,18:03,1083,1383,Foul on Mileek McMillan.,42,24,18,21,0.9687156700919979,0.9500930025685811,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,167,2,18:03,1083,1383,Liam Robbins made Free Throw.,43,24,19,0,0.9733133497774372,0.9573069308319341,4,4,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,168,2,18:03,1083,1383,Liam Robbins missed Free Throw.,43,24,19,0,0.9733133497774372,0.9573069308319341,4,4,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,169,2,18:02,1082,1382,Donovan Clay Defensive Rebound.,43,24,19,1,0.9733506824652771,0.9573717713366268,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,170,2,17:45,1065,1365,Javon Freeman-Liberty made Jumper.,43,26,17,17,0.9641698246226819,0.9431451524280248,4,4,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,171,2,17:20,1040,1340,D.J. Wilkins missed Jumper.,43,26,17,25,0.965333907047194,0.9451496855629354,4,4,4,NA,NA,Drake,missed,D.J. Wilkins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,172,2,17:15,1035,1335,Javon Freeman-Liberty Defensive Rebound.,43,26,17,5,0.96557273439176,0.9455589942631217,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,173,2,17:11,1031,1331,Javon Freeman-Liberty Turnover.,43,26,17,4,0.9657654474916494,0.9458887816268384,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,174,2,17:11,1031,1331,Anthony Murphy Steal.,43,26,17,0,0.9657654474916494,0.9458887816268384,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,175,2,17:00,1020,1320,Anthony Murphy Turnover.,43,26,17,11,0.9663034859287667,0.9468072094613151,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,176,2,17:00,1020,1320,Donovan Clay Steal.,43,26,17,0,0.9663034859287667,0.9468072094613151,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,177,2,16:56,1016,1316,Donovan Clay made Layup.,43,28,15,4,0.9535885425014474,0.9273308362580164,4,4,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,178,2,16:36,996,1296,Liam Robbins made Dunk. Assisted by D.J. Wilkins.,45,28,17,20,0.9675230234863076,0.9488765748096077,4,4,4,NA,NA,Drake,made,Liam Robbins,DJ Wilkins,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,179,2,16:17,977,1277,Mileek McMillan made Three Point Jumper. Assisted by Nick Robinson.,45,31,14,19,0.9481033174063103,0.9194614832321164,4,4,4,NA,NA,Valparaiso,made,Mileek McMillan,Nick Robinson,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,180,2,16:02,962,1262,Anthony Murphy missed Jumper.,45,31,14,15,0.949171957544441,0.9212449442508219,4,4,4,NA,NA,Drake,missed,Anthony Murphy,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,181,2,15:59,959,1259,Javon Freeman-Liberty Defensive Rebound.,45,31,14,3,0.9493753733380115,0.9215847372694987,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,182,2,15:55,955,1255,Official TV Timeout,45,31,14,4,0.9496399844830866,0.9220270593192125,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,183,2,15:33,933,1233,Javon Freeman-Liberty missed Jumper.,45,31,14,22,0.9509781623978819,0.9242691123228781,4,4,4,NA,NA,Valparaiso,missed,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,184,2,15:30,930,1230,Antonio Pilipovic Defensive Rebound.,45,31,14,3,0.951147521796796,0.9245534334525828,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,185,2,15:11,911,1211,Roman Penn made Layup.,47,31,16,19,0.9661866799483273,0.9474586386460828,4,4,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,186,2,14:57,897,1197,Donovan Clay made Jumper.,47,33,14,14,0.9528688180828212,0.9274473926759091,4,4,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,187,2,14:19,859,1159,Roman Penn made Layup.,49,33,16,38,0.9682878962702323,0.95098920865213,4,4,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,188,2,14:04,844,1144,Donovan Clay made Layup.,49,35,14,15,0.9554369330304442,0.9317504111488724,4,4,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,189,2,13:35,815,1115,Noah Thomas Turnover.,49,35,14,29,0.9569473532494308,0.9342527226700427,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,190,2,13:35,815,1115,Javon Freeman-Liberty Steal.,49,35,14,0,0.9569473532494308,0.9342527226700427,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,191,2,13:24,804,1104,Ryan Fazekas made Three Point Jumper. Assisted by Javon Freeman-Liberty.,49,38,11,11,0.9271815906262199,0.8907429592488583,4,4,4,NA,NA,Valparaiso,made,Ryan Fazekas,Javon Freeman-Liberty,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,192,2,13:21,801,1101,Valparaiso  Timeout,49,38,11,3,0.9274030131319531,0.8911043944761134,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,193,2,12:56,776,1076,Noah Thomas missed Jumper.,49,38,11,25,0.9293943144216844,0.8943349928207915,4,3,4,NA,NA,Drake,missed,Noah Thomas,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,194,2,12:56,776,1076,Ryan Fazekas Defensive Rebound.,49,38,11,0,0.9293943144216844,0.8943349928207915,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,195,2,12:56,776,1076,Foul on Garrett Sturtz.,49,38,11,0,0.9293943144216844,0.8943349928207915,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,196,2,12:29,749,1049,Ben Krikke missed Layup.,49,38,11,27,0.9318864321182972,0.8983363321770425,4,3,4,NA,NA,Valparaiso,missed,Ben Krikke,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,197,2,12:29,749,1049,Liam Robbins Block.,49,38,11,0,0.9318864321182972,0.8983363321770425,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,198,2,12:23,743,1043,Garrett Sturtz Defensive Rebound.,49,38,11,6,0.9324945980502523,0.8993071612589788,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,199,2,12:20,740,1040,D.J. Wilkins missed Layup.,49,38,11,3,0.932806524071849,0.8998043559985575,4,3,4,NA,NA,Drake,missed,D.J. Wilkins,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,200,2,12:15,735,1035,Liam Robbins Offensive Rebound.,49,38,11,5,0.9333382272728397,0.900650775358626,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,201,2,12:15,735,1035,Liam Robbins made Layup.,51,38,13,0,0.9543466455650839,0.9312012802830748,4,3,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,202,2,12:00,720,1020,Official TV Timeout,51,38,13,15,0.9556906907167576,0.9333521949800638,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,203,2,11:59,719,1019,Foul on Liam Robbins.,51,38,13,1,0.9557744719165141,0.9334866148798855,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,204,2,11:55,715,1015,Foul on D.J. Wilkins.,51,38,13,4,0.9561018503087013,0.9340123617853813,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,205,2,11:35,695,995,Donovan Clay missed Three Point Jumper.,51,38,13,20,0.9575821430002692,0.9363995462125678,4,3,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,206,2,11:33,693,993,Liam Robbins Defensive Rebound.,51,38,13,2,0.9577184805841218,0.9366201916302348,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,207,2,11:17,677,977,Liam Robbins missed Layup.,51,38,13,16,0.958756423938867,0.938303300830379,4,3,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,208,2,11:15,675,975,Drake Offensive Rebound.,51,38,13,2,0.9588810418348759,0.9385056679868805,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,209,2,11:09,669,969,Foul on Ryan Fazekas.,51,38,13,6,0.9592503261425132,0.9391055112681415,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,210,2,11:09,669,969,Garrett Sturtz missed Free Throw.,51,38,13,0,0.9592503261425132,0.9391055112681415,4,3,4,NA,NA,Drake,missed,Garrett Sturtz,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,211,2,11:09,669,969,Drake Deadball Team Rebound.,51,38,13,0,0.9592503261425132,0.9391055112681415,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,212,2,11:09,669,969,Garrett Sturtz made Free Throw.,52,38,14,0,0.9667263362110861,0.9500850133757928,4,3,4,NA,NA,Drake,made,Garrett Sturtz,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,213,2,11:03,663,963,Javon Freeman-Liberty made Three Point Jumper.,52,41,11,6,0.9396629737377602,0.9108202989247348,4,3,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,214,2,10:37,637,937,Roman Penn missed Jumper.,52,41,11,26,0.9415846067856163,0.913934649590506,4,3,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,215,2,10:33,633,933,Nick Robinson Defensive Rebound.,52,41,11,4,0.9418904339778106,0.9144280814086106,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,216,2,10:30,630,930,Javon Freeman-Liberty Turnover.,52,41,11,3,0.9421229598060342,0.9148026856323824,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,217,2,10:30,630,930,Roman Penn made Layup.,54,41,13,0,0.9616318445395027,0.9429630234706607,4,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,218,2,10:22,622,922,Foul on Mileek McMillan.,54,41,13,8,0.9621492936019037,0.9437949605940354,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,219,2,10:22,622,922,Roman Penn made Free Throw.,55,41,14,0,0.9693059801341426,0.9542570334574192,4,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,220,2,10:12,612,912,Foul on Roman Penn.,55,41,14,10,0.9699043273522798,0.9552150649915261,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,221,2,10:03,603,903,Nick Robinson missed Three Point Jumper.,55,41,14,9,0.9704713900972876,0.9561188646566197,4,3,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,222,2,9:57,597,897,Roman Penn Defensive Rebound.,55,41,14,6,0.9708666910133906,0.95674656707393535,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,223,2,9:57,597,897,Foul on Javon Freeman-Liberty.,55,41,14,0,0.9708666910133906,0.95674656707393535,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,224,2,9:42,582,882,Anthony Murphy Turnover.,55,41,14,15,0.9719233527389193,0.9584155841240388,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,225,2,9:42,582,882,Javon Freeman-Liberty Steal.,55,41,14,0,0.9719233527389193,0.9584155841240388,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,226,2,9:37,577,877,Javon Freeman-Liberty made Layup.,55,43,12,5,0.9572152166553665,0.937151847818793,4,3,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,227,2,9:20,560,860,Foul on Mileek McMillan.,55,43,12,17,0.95899087998646,0.9399214179657854,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,228,2,9:20,560,860,Liam Robbins made Free Throw.,56,43,13,0,0.9671138827152925,0.9516311472179667,4,3,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,229,2,9:20,560,860,Liam Robbins missed Free Throw.,56,43,13,0,0.9671138827152925,0.9516311472179667,4,3,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,230,2,9:18,558,858,Mileek McMillan Defensive Rebound.,56,43,13,2,0.9673104808451363,0.9519368991386199,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,231,2,9:07,547,847,Javon Freeman-Liberty made Three Point Jumper. Assisted by Mileek McMillan.,56,46,10,11,0.9385102003266155,0.911052713761246,4,3,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,Mileek McMillan,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,232,2,9:06,546,846,Foul on Anthony Murphy.,56,46,10,1,0.9386499673990377,0.911268242908616,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,233,2,9:06,546,846,Javon Freeman-Liberty missed Free Throw.,56,46,10,0,0.9386499673990377,0.911268242908616,4,3,4,NA,NA,Valparaiso,missed,Javon Freeman-Liberty,NA,FALSE,TRUE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,234,2,9:04,544,844,Liam Robbins Defensive Rebound.,56,46,10,2,0.938923288966555,0.9116902044101972,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,235,2,8:46,526,826,Foul on Nick Robinson.,56,46,10,18,0.9410771228179893,0.9150392489586368,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,236,2,8:46,526,826,Roman Penn made Free Throw.,57,46,11,0,0.9529554633611845,0.9317861249595947,4,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,237,2,8:46,526,826,Roman Penn made Free Throw.,58,46,12,0,0.9625345643493023,0.9454288394309117,4,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,238,2,8:33,513,813,Javon Freeman-Liberty Turnover.,58,46,12,13,0.9635839767753055,0.9470765469086516,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,239,2,8:33,513,813,Roman Penn Steal.,58,46,12,0,0.9635839767753055,0.9470765469086516,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,240,2,8:15,495,795,Roman Penn Turnover.,58,46,12,18,0.964934831130116,0.9492010204297017,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,241,2,8:15,495,795,Donovan Clay Steal.,58,46,12,0,0.964934831130116,0.9492010204297017,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,242,2,8:08,488,788,Ryan Fazekas missed Three Point Jumper.,58,46,12,7,0.9654636326592169,0.9500300655543908,4,3,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,243,2,8:05,485,785,Garrett Sturtz Defensive Rebound.,58,46,12,3,0.9656949735473361,0.9503918663295532,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,244,2,7:54,474,774,Foul on Ryan Fazekas.,58,46,12,11,0.9665818633341049,0.9517727709610467,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,245,2,7:54,474,774,Official TV Timeout,58,46,12,0,0.9665818633341049,0.9517727709610467,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,246,2,7:54,474,774,Garrett Sturtz made Free Throw.,59,46,13,0,0.9737426416962448,0.9619820028657333,4,3,4,NA,NA,Drake,made,Garrett Sturtz,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,247,2,7:54,474,774,Garrett Sturtz made Free Throw.,60,46,14,0,0.979401720024224,0.970097939129693,4,3,4,NA,NA,Drake,made,Garrett Sturtz,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,248,2,7:44,464,764,Mileek McMillan made Three Point Jumper. Assisted by Javon Freeman-Liberty.,60,49,11,10,0.958561135137106,0.9405528973072542,4,3,4,NA,NA,Valparaiso,made,Mileek McMillan,Javon Freeman-Liberty,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,249,2,7:23,443,743,Garrett Sturtz made Layup. Assisted by D.J. Wilkins.,62,49,13,21,0.9763593599111035,0.9659913216479098,4,3,4,NA,NA,Drake,made,Garrett Sturtz,DJ Wilkins,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,250,2,7:05,425,725,Javon Freeman-Liberty made Layup.,62,51,11,18,0.9636723428090227,0.9482961064704767,4,3,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,251,2,6:37,397,697,Roman Penn missed Jumper.,62,51,11,28,0.967239974759649,0.9537009022358841,4,3,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,252,2,6:32,392,692,Garrett Sturtz Offensive Rebound.,62,51,11,5,0.9678147566374713,0.9545758656540937,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,253,2,6:31,391,691,Garrett Sturtz missed Layup.,62,51,11,1,0.9679287788478498,0.9547494324137259,4,3,4,NA,NA,Drake,missed,Garrett Sturtz,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,254,2,6:28,388,688,Eron Gordon Defensive Rebound.,62,51,11,3,0.9682695984036697,0.9552681396578244,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,255,2,6:21,381,681,Mileek McMillan made Three Point Jumper. Assisted by Javon Freeman-Liberty.,62,54,8,7,0.9309674285506648,0.9044063205296734,4,3,4,NA,NA,Valparaiso,made,Mileek McMillan,Javon Freeman-Liberty,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,256,2,6:05,365,665,Drake  Timeout,62,54,8,16,0.933768589567058,0.9086618981849499,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,257,2,5:48,348,648,Anthony Murphy missed Layup.,62,54,8,17,0.9370395305715784,0.9135685942757829,3,3,4,NA,NA,Drake,missed,Anthony Murphy,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,258,2,5:46,346,646,Mileek McMillan Defensive Rebound.,62,54,8,2,0.9374523591772074,0.9141823610222503,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,259,2,5:33,333,633,Mileek McMillan made Three Point Jumper. Assisted by Donovan Clay.,62,57,5,13,0.8640384952141231,0.8195018966418011,3,3,4,NA,NA,Valparaiso,made,Mileek McMillan,Donovan Clay,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,260,2,5:07,307,607,Jonah Jackson missed Three Point Jumper.,62,57,5,26,0.8725080513912586,0.8317208088530598,3,3,4,NA,NA,Drake,missed,Jonah Jackson,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,261,2,5:04,304,604,Eron Gordon Defensive Rebound.,62,57,5,3,0.8732883020029094,0.8328796581610475,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,262,2,4:48,288,588,Ryan Fazekas missed Layup.,62,57,5,16,0.8745457898608522,0.8353867273534088,3,3,4,NA,NA,Valparaiso,missed,Ryan Fazekas,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,263,2,4:47,287,587,Drake Defensive Rebound.,62,57,5,1,0.8744922759470454,0.8353770740815923,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,264,2,4:21,261,561,Anthony Murphy missed Layup.,62,57,5,26,0.8701108559420382,0.8314347476790295,3,3,4,NA,NA,Drake,missed,Anthony Murphy,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,265,2,4:16,256,556,Javon Freeman-Liberty Defensive Rebound.,62,57,5,5,0.8690126549727532,0.830376424369595,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,266,2,4:07,247,547,Ryan Fazekas made Three Point Jumper. Assisted by Mileek McMillan.,62,60,2,9,0.7172355581059301,0.6526627630268607,3,3,4,NA,NA,Valparaiso,made,Ryan Fazekas,Mileek McMillan,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,267,2,4:00,240,540,Drake  Timeout,62,60,2,7,0.7161839072942953,0.6521978153087602,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,268,2,3:44,224,524,Roman Penn made Layup.,64,60,4,16,0.8255656586531382,0.779897346241993,2,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,269,2,3:27,207,507,Javon Freeman-Liberty made Layup.,64,62,2,17,0.7185754391112179,0.6584576729617606,2,3,4,NA,NA,Valparaiso,made,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,270,2,2:59,179,479,Foul on Ryan Fazekas.,64,62,2,28,0.7352105861975898,0.6804297716330483,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,271,2,2:59,179,479,Liam Robbins made Free Throw.,65,62,3,0,0.8020403830245036,0.756506584927211,2,3,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,272,2,2:59,179,479,Liam Robbins missed Free Throw.,65,62,3,0,0.8020403830245036,0.756506584927211,2,3,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,273,2,2:57,177,477,Eron Gordon Defensive Rebound.,65,62,3,2,0.8038777974816234,0.7588513253365499,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,274,2,2:47,167,467,Mileek McMillan made Three Point Jumper. Assisted by Javon Freeman-Liberty.,65,65,0,10,0.5642581236950529,0.5,2,3,4,NA,NA,Valparaiso,made,Mileek McMillan,Javon Freeman-Liberty,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,275,2,2:30,150,450,Roman Penn missed Three Point Jumper.,65,65,0,17,0.56173838049053,0.5,2,3,4,NA,NA,Drake,missed,Roman Penn,NA,TRUE,FALSE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,276,2,2:22,142,442,Liam Robbins Offensive Rebound.,65,65,0,8,0.5605170658526185,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,277,2,2:22,142,442,Liam Robbins missed Layup.,65,65,0,0,0.5605170658526185,0.5,2,3,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,278,2,2:20,140,440,Ryan Fazekas Defensive Rebound.,65,65,0,2,0.5602079011455565,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,279,2,2:07,127,427,Javon Freeman-Liberty missed Layup.,65,65,0,13,0.5581585920861339,0.5,2,3,4,NA,NA,Valparaiso,missed,Javon Freeman-Liberty,NA,FALSE,FALSE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,280,2,2:07,127,427,Liam Robbins Block.,65,65,0,0,0.5581585920861339,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,281,2,2:07,127,427,Valparaiso Offensive Rebound.,65,65,0,0,0.5581585920861339,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,282,2,1:53,113,413,Mileek McMillan missed Layup.,65,65,0,14,0.5558688888801704,0.5,2,3,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,283,2,1:53,113,413,Liam Robbins Block.,65,65,0,0,0.5558688888801704,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,284,2,1:48,108,408,Roman Penn Defensive Rebound.,65,65,0,5,0.5550287494615814,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,285,2,1:32,92,392,Foul on Donovan Clay.,65,65,0,16,0.5522563463001058,0.5,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,286,2,1:32,92,392,Roman Penn made Free Throw.,66,65,1,0,0.7007441092552342,0.6549912928877325,2,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,287,2,1:32,92,392,Roman Penn made Free Throw.,67,65,2,0,0.8163626875585909,0.7828078086985532,2,3,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,288,2,1:31,91,391,Valparaiso  Timeout,67,65,2,1,0.8175860382729903,0.7843165978397155,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,289,2,1:12,72,372,Mileek McMillan missed Layup.,67,65,2,19,0.8408049472788366,0.8129087385787331,2,2,4,NA,NA,Valparaiso,missed,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,290,2,1:12,72,372,Liam Robbins Block.,67,65,2,0,0.8408049472788366,0.8129087385787331,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,291,2,1:10,70,370,Garrett Sturtz Defensive Rebound.,67,65,2,2,0.8432992882058996,0.8159698691036334,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,292,2,1:10,70,370,Foul on Javon Freeman-Liberty.,67,65,2,0,0.8432992882058996,0.8159698691036334,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,293,2,1:10,70,370,Garrett Sturtz made Free Throw.,68,65,3,0,0.9189096020733245,0.9032541821171107,2,2,4,NA,NA,Drake,made,Garrett Sturtz,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,294,2,1:10,70,370,Garrett Sturtz made Free Throw.,69,65,4,0,0.9597770064226695,0.9515958959084935,2,2,4,NA,NA,Drake,made,Garrett Sturtz,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,295,2,0:58,58,358,Donovan Clay made Layup.,69,67,2,12,0.8580930022669399,0.834099587806877,2,2,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,296,2,0:33,33,333,Liam Robbins missed Jumper.,69,67,2,25,0.8879474431936374,0.8704796167741736,2,2,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,297,2,0:31,31,331,Valparaiso Defensive Rebound.,69,67,2,2,0.8902469882540598,0.873267568528904,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,298,2,0:19,19,319,Foul on Roman Penn.,69,67,2,12,0.9035706886302712,0.88937692447449,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,299,2,0:19,19,319,Donovan Clay made Free Throw.,69,68,1,0,0.7676961702642331,0.7392735445101465,2,2,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,TRUE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,300,2,0:19,19,319,Donovan Clay made Free Throw.,69,69,0,0,0.5382132628818217,0.5,2,2,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,TRUE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,301,2,0:00,300,300,Roman Penn missed Layup.,69,69,0,19,0.5799311606756355,0.5,2,2,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,302,2,0:00,300,300,Valparaiso Deadball Team Rebound.,69,69,0,0,0.5799311606756355,0.5,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,303,2,0:00,300,300,End of 2nd half,69,69,0,0,0.5799311606756355,0.5,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,NA,NA
+401173530,2020-02-19,Drake,Valparaiso,304,3,5:00,300,300,PLAY,69,69,0,0,0.5799311606756355,0.5,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,305,3,4:33,273,273,Foul on Mileek McMillan.,69,69,0,27,0.5771765392010777,0.5,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,306,3,4:33,273,273,Liam Robbins made Free Throw.,70,69,1,0,0.6533657077273421,0.5799756087830513,3,3,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,307,3,4:33,273,273,Liam Robbins made Free Throw.,71,69,2,0,0.7224285146307833,0.6559610489528255,3,3,4,NA,NA,Drake,made,Liam Robbins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,308,3,4:17,257,257,Nick Robinson missed Layup.,71,69,2,16,0.7191597626551978,0.6538274706654924,3,3,4,NA,NA,Valparaiso,missed,Nick Robinson,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,309,3,4:13,253,253,Anthony Murphy Defensive Rebound.,71,69,2,4,0.7183498105725398,0.6533126817897041,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,310,3,4:10,250,250,D.J. Wilkins Turnover.,71,69,2,3,0.7177737003799418,0.6529649933967033,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,311,3,4:10,250,250,Eron Gordon Steal.,71,69,2,0,0.7177737003799418,0.6529649933967033,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,312,3,4:04,244,244,Ryan Fazekas made Three Point Jumper. Assisted by Nick Robinson.,71,72,-1,6,0.4959630894737274,0.4219335816934647,3,3,4,NA,NA,Valparaiso,made,Ryan Fazekas,Nick Robinson,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,313,3,3:40,220,220,Foul on Mileek McMillan.,71,72,-1,24,0.49237967108394387,0.4211633040270706,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,314,3,3:40,220,220,D.J. Wilkins made Free Throw.,72,72,0,0,0.5713879155171159,0.5,3,3,4,NA,NA,Drake,made,D.J. Wilkins,NA,FALSE,TRUE,Drake,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,315,3,3:40,220,220,D.J. Wilkins made Free Throw.,73,72,1,0,0.6469172184771554,0.5788366959729294,3,3,4,NA,NA,Drake,made,D.J. Wilkins,NA,FALSE,TRUE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,316,3,3:26,206,206,Donovan Clay missed Jumper.,73,72,1,14,0.6478921463692308,0.5815960937563488,3,3,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,317,3,3:22,202,202,Anthony Murphy Defensive Rebound.,73,72,1,4,0.6485483802302288,0.5828083070771404,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,318,3,3:12,192,192,Roman Penn missed Jumper.,73,72,1,10,0.6510507383166976,0.586803681016864,3,3,4,NA,NA,Drake,missed,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,319,3,3:08,188,188,Eron Gordon Defensive Rebound.,73,72,1,4,0.6523992271351271,0.5887912259313496,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,320,3,2:56,176,176,Nick Robinson Turnover.,73,72,1,12,0.6565611169168103,0.5949025368208418,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,321,3,2:56,176,176,D.J. Wilkins Steal.,73,72,1,0,0.6565611169168103,0.5949025368208418,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,322,3,2:35,155,155,Garrett Sturtz made Layup. Assisted by Liam Robbins.,75,72,3,21,0.8244163200682919,0.7850407515438279,3,3,4,NA,NA,Drake,made,Garrett Sturtz,Liam Robbins,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,323,3,2:28,148,148,Valparaiso  Timeout,75,72,3,7,0.8312431938526641,0.7937164392269511,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,324,3,2:22,142,142,Foul on D.J. Wilkins.,75,72,3,6,0.8372626202716553,0.801347759306977,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,325,3,2:22,142,142,Ryan Fazekas made Free Throw.,75,73,2,0,0.763702546435273,0.7170400168077965,3,2,4,NA,NA,Valparaiso,made,Ryan Fazekas,NA,FALSE,TRUE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,326,3,2:22,142,142,Ryan Fazekas made Free Throw.,75,74,1,0,0.6699975298560276,0.6141790467362154,3,2,4,NA,NA,Valparaiso,made,Ryan Fazekas,NA,FALSE,TRUE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,327,3,2:01,121,121,Anthony Murphy missed Three Point Jumper.,75,74,1,21,0.6808238098937117,0.628970260777508,3,2,4,NA,NA,Drake,missed,Anthony Murphy,NA,TRUE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,328,3,1:55,115,115,Donovan Clay Defensive Rebound.,75,74,1,6,0.6844265450560338,0.6337711721060051,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,329,3,1:44,104,104,Ben Krikke missed Three Point Jumper.,75,74,1,11,0.6917181073389486,0.6433446733019577,3,2,4,NA,NA,Valparaiso,missed,Ben Krikke,NA,TRUE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,330,3,1:41,101,101,Drake Defensive Rebound.,75,74,1,3,0.6938713280442748,0.646140438301703,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,331,3,1:21,81,81,Liam Robbins missed Jumper.,75,74,1,20,0.7094766290724911,0.6661868625787266,3,2,4,NA,NA,Drake,missed,Liam Robbins,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,332,3,1:21,81,81,Donovan Clay Block.,75,74,1,0,0.7094766290724911,0.6661868625787266,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,333,3,1:16,76,76,Donovan Clay Defensive Rebound.,75,74,1,5,0.7136052084014679,0.6714556949466441,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,334,3,0:56,56,56,Foul on Garrett Sturtz.,75,74,1,20,0.731326572963589,0.6938821961501479,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,335,3,0:56,56,56,Donovan Clay made Free Throw.,75,75,0,0,0.5456305091331345,0.5,3,2,4,NA,NA,Valparaiso,made,Donovan Clay,NA,FALSE,TRUE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,336,3,0:56,56,56,Donovan Clay missed Free Throw.,75,75,0,0,0.5456305091331345,0.5,3,2,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,FALSE,TRUE,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,337,3,0:56,56,56,Ben Krikke Offensive Rebound.,75,75,0,0,0.5456305091331345,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,338,3,0:46,46,46,Nick Robinson Turnover.,75,75,0,10,0.5436887822591773,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,339,3,0:46,46,46,D.J. Wilkins Steal.,75,75,0,0,0.5436887822591773,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,340,3,0:38,38,38,D.J. Wilkins Turnover.,75,75,0,8,0.5420998890768685,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,341,3,0:38,38,38,Eron Gordon Steal.,75,75,0,0,0.5420998890768685,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,342,3,0:33,33,33,Ben Krikke missed Jumper.,75,75,0,5,0.5410917259644178,0.5,3,2,4,NA,NA,Valparaiso,missed,Ben Krikke,NA,FALSE,FALSE,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,343,3,0:33,33,33,Anthony Murphy Block.,75,75,0,0,0.5410917259644178,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,344,3,0:26,26,26,Garrett Sturtz Defensive Rebound.,75,75,0,7,0.5396628223440514,0.5,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,NA
+401173530,2020-02-19,Drake,Valparaiso,345,3,0:03,3,3,Roman Penn made Jumper.,77,75,2,23,0.9203921190837666,0.9095600412345216,3,2,4,NA,NA,Drake,made,Roman Penn,NA,FALSE,FALSE,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,346,3,0:03,3,3,Valparaiso  Timeout,77,75,2,0,0.9203921190837666,0.9095600412345216,3,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,347,3,0:03,3,3,Drake  Timeout,77,75,2,0,0.9203921190837666,0.9095600412345216,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,Valparaiso,NA
+401173530,2020-02-19,Drake,Valparaiso,348,3,0:00,0,0,Donovan Clay missed Three Point Jumper.,77,75,2,3,1,1,2,1,4,NA,NA,Valparaiso,missed,Donovan Clay,NA,TRUE,FALSE,Valparaiso,Drake,1
+401173530,2020-02-19,Drake,Valparaiso,349,3,0:00,0,0,Drake Deadball Team Rebound.,77,75,2,0,1,1,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Drake,1
+401173530,2020-02-19,Drake,Valparaiso,350,3,0:00,0,0,End of 1st overtime,77,75,2,0,1,1,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,NA,1
+401173530,2020-02-19,Drake,Valparaiso,351,3,0:00,0,0,End of Game,77,75,2,0,1,1,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,Drake,NA,1
