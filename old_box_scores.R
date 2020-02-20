@@ -2,7 +2,7 @@ library(ncaahoopR)
 library(readr)
 
 seasons <- paste0(2002:2018, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .19, 0.01))))
-seasons <- "2016-17"
+seasons <- "2015-16"
 for(j in 1:length(seasons)) {
   schedules <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = T)
   schedules_clean <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = F)
