@@ -87,22 +87,3 @@ for(i in 146:n) {
     }
   }
 }
-
-
-boxscores <- dir("2018-19/box_scores", full.names = T, recursive = T)
-for(i in 1:length(boxscores)) {
-  if(i %% 100 == 0) {
-    print(i)
-  }
-  file <- boxscores[i]
-  df <- read_csv(file)
-  if(df$date[1] >= "2019-11-05") {
-    file.remove(file)
-    file <- gsub("2018-19", "2019-20", file)
-    if(!dir.exists(gsub("\\/[0-9]+\\.csv", "", file))) {
-      dir.create(gsub("\\/[0-9]+\\.csv", "", file))
-    }
-    write_csv(df, file)
-  }
-}
-
