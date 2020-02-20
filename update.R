@@ -56,15 +56,15 @@ write_csv(master_schedule, "2019-20/pbp_logs/master_schedule.csv")
 schedules <- dir(paste("2019-20/schedules", sep = "/"), full.names = T)
 schedules_clean <- dir(paste("2019-20/schedules", sep = "/"), full.names = F)
 n <- length(schedules)
-for(i in 1:n) {
+for(i in 146:n) {
   ### Read in Schedule
   s <- read_csv(schedules[i])
   n1 <- nrow(s)
   box### Try to Scrape PBP
   for(k in 1:n1) {
-    cat("Scraping Game", k, "of", n1, "for Team", i, "of", n, "(Season =", seasons[j], ")\n")
+    cat("Scraping Game", k, "of", n1, "for Team", i, "of", n, "\n")
     team <- gsub("_", " ", gsub("_schedule.csv", "", schedules_clean[i]))
-    file <- paste(seasons[j], "box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
+    file <- paste("2019-20/box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
     if(!file.exists(file)) {
       box <- try(get_boxscore(s$game_id[k]))
       box_team <- dict$ESPN_PBP[dict$ESPN == team]
@@ -72,11 +72,11 @@ for(i in 1:n) {
       
       if(class(box) != "try-error" & box_team %in% names(box)) {
         ### Create Date Directory if Doesn't Exist
-        if(!dir.exists(paste(seasons[j], "box_scores", sep = "/"))) {
-          dir.create(paste(seasons[j], "box_scores", sep = "/")) 
+        if(!dir.exists(paste("2019-20/box_scores", sep = "/"))) {
+          dir.create(paste("2019-20/box_scores", sep = "/")) 
         }
-        if(!dir.exists(paste(seasons[j], "box_scores", gsub(" ", "_", team), sep = "/"))) {
-          dir.create(paste(seasons[j], "box_scores", gsub(" ", "_", team), sep = "/"))
+        if(!dir.exists(paste("2019-20/box_scores", gsub(" ", "_", team), sep = "/"))) {
+          dir.create(paste("2019-20/box_scores", gsub(" ", "_", team), sep = "/"))
         }
         df <- as.data.frame(box[[box_team]])
         df$date <- s$date[k]
@@ -89,6 +89,20 @@ for(i in 1:n) {
 }
 
 
-
-
+boxscores <- dir("2018-19/box_scores", full.names = T, recursive = T)
+for(i in 1:length(boxscores)) {
+  if(i %% 100 == 0) {
+    print(i)
+  }
+  file <- boxscores[i]
+  df <- read_csv(file)
+  if(df$date[1] >= "2019-11-05") {
+    file.remove(file)
+    file <- gsub("2018-19", "2019-20", file)
+    if(!dir.exists(gsub("\\/[0-9]+\\.csv", "", file))) {
+      dir.create(gsub("\\/[0-9]+\\.csv", "", file))
+    }
+    write_csv(df, file)
+  }
+}
 
