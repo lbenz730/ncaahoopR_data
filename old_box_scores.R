@@ -6,7 +6,7 @@ for(j in 1:length(seasons)) {
   schedules <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = T)
   schedules_clean <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = F)
   schedules <- schedules[grepl("UConn", schedules)]
-  scheduels_clean <- schedules_clean[grepl("UConn", schedules_clean)]
+  schedules_clean <- schedules_clean[grepl("UConn", schedules_clean)]
   n <- length(schedules)
   for(i in 1:n) {
     ### Read in Schedule
