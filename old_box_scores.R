@@ -19,7 +19,7 @@ for(j in 1:length(seasons)) {
       file <- paste(seasons[j], "box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
       if(!file.exists(file)) {
         box <- try(get_boxscore(s$game_id[k]))
-        box_team <- dict$ESPN_PBP[dict$ESPN == team]
+        box_team <- ifelse(team == "UConn", team, dict$ESPN_PBP[dict$ESPN == team])
         box[box_team]
         
         if(class(box) != "try-error" & box_team %in% names(box)) {
