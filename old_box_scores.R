@@ -5,6 +5,7 @@ seasons <- paste0(2002:2018, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .19, 0.0
 for(j in 1:length(seasons)) {
   schedules <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = T)
   schedules_clean <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = F)
+
   n <- length(schedules)
   for(i in 1:n) {
     ### Read in Schedule
