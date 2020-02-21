@@ -15,7 +15,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2020-02-17")
+date <- as.Date("2020-02-19")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(date)
   if(!is.null(schedule)) {
@@ -56,7 +56,7 @@ write_csv(master_schedule, "2019-20/pbp_logs/master_schedule.csv")
 schedules <- dir(paste("2019-20/schedules", sep = "/"), full.names = T)
 schedules_clean <- dir(paste("2019-20/schedules", sep = "/"), full.names = F)
 n <- length(schedules)
-for(i in 146:n) {
+for(i in 1:n) {
   ### Read in Schedule
   s <- read_csv(schedules[i])
   n1 <- nrow(s)
