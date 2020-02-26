@@ -1,0 +1,364 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172029,2020-02-21,Marist,Monmouth,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.3484905039161345,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401172029,2020-02-21,Marist,Monmouth,2,1,19:35,2375,2675,Tyler Saint-Furcy missed Three Point Jumper.,0,0,0,25,0.3488481802033255,0.5,4,4,-3.9,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,3,1,19:31,2371,2671,Deion Hammond Defensive Rebound.,0,0,0,4,0.3489064212874583,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,4,1,19:26,2366,2666,Samuel Chaput Turnover.,0,0,0,5,0.3489796219427687,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,5,1,19:04,2344,2644,Jordan Jones missed Layup.,0,0,0,22,0.34930705241765936,0.5,4,4,-3.9,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,6,1,19:01,2341,2641,Samuel Chaput Defensive Rebound.,0,0,0,3,0.3493523866260955,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,7,1,18:36,2316,2616,Ray Salnave Turnover.,0,0,0,25,0.34973670770298976,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,8,1,18:20,2300,2600,Tyler Saint-Furcy Turnover.,0,0,0,16,0.3499889193634927,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,9,1,18:20,2300,2600,Ray Salnave Steal.,0,0,0,0,0.3499889193634927,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,10,1,17:53,2273,2573,Marcus McClary made Layup.,0,2,-2,27,0.3089827086639809,0.45320932611296233,4,4,-3.9,NA,NA,Monmouth,made,Marcus McClary,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,11,1,17:35,2255,2555,Matthew Herasme made Three Point Jumper. Assisted by Michael Cubbage.,3,2,1,18,0.3725769660644054,0.5236510401070434,4,4,-3.9,NA,NA,Marist,made,Matthew Herasme,Michael Cubbage,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,12,1,17:09,2229,2529,Deion Hammond missed Three Point Jumper.,3,2,1,26,0.3733119959844138,0.5239483454281848,4,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,13,1,17:07,2227,2527,Michael Cubbage Defensive Rebound.,3,2,1,2,0.3733692513939835,0.5239713147776629,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,14,1,17:02,2222,2522,Matthew Herasme missed Three Point Jumper.,3,2,1,5,0.37351283699188426,0.5240287954002141,4,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,15,1,16:58,2218,2518,Mustapha Traore Defensive Rebound.,3,2,1,4,0.3736281654623484,0.5240748370447984,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,16,1,16:47,2207,2507,Technical Foul on Mustapha Traore.,3,2,1,11,0.373947428261831,0.5242016990064033,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,17,1,16:47,2207,2507,Mustapha Traore Turnover.,3,2,1,0,0.373947428261831,0.5242016990064033,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,18,1,16:47,2207,2507,Matthew Herasme missed Free Throw.,3,2,1,0,0.373947428261831,0.5242016990064033,4,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,19,1,16:47,2207,2507,Marist Offensive Rebound.,3,2,1,0,0.373947428261831,0.5242016990064033,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,20,1,16:47,2207,2507,Matthew Herasme made Free Throw.,4,2,2,0,0.3968909133142818,0.548290259298426,4,4,-3.9,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,21,1,16:45,2205,2505,Ray Salnave missed Three Point Jumper.,4,2,2,2,0.3969727781961738,0.5483361412138311,4,4,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,22,1,16:42,2202,2502,Mustapha Traore Offensive Rebound.,4,2,2,3,0.39709579526607486,0.5484050032906047,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,23,1,16:41,2201,2501,Mustapha Traore missed Layup.,4,2,2,1,0.3971368594642468,0.5484279675606346,4,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,24,1,16:41,2201,2501,Tobias Sjoberg Block.,4,2,2,0,0.3971368594642468,0.5484279675606346,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,25,1,16:37,2197,2497,Tobias Sjoberg Defensive Rebound.,4,2,2,4,0.3973014081909627,0.5485198744639151,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,26,1,16:22,2182,2482,Tyler Saint-Furcy Turnover.,4,2,2,15,0.39792260433094634,0.5488651855001424,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,27,1,16:00,2160,2460,Deion Hammond missed Three Point Jumper.,4,2,2,22,0.3988455030591036,0.5493734399338808,4,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,28,1,15:58,2158,2458,Matthew Herasme Defensive Rebound.,4,2,2,2,0.39893012840432873,0.5494197980081144,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,29,1,15:43,2143,2443,Michael Cubbage Turnover.,4,2,2,15,0.39956877076619157,0.5497684730248716,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,30,1,15:43,2143,2443,Official TV Timeout,4,2,2,0,0.39956877076619157,0.5497684730248716,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,31,1,15:32,2132,2432,Foul on Matthew Herasme.,4,2,2,11,0.4000415621515174,0.5500253226516741,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,32,1,15:32,2132,2432,Ray Salnave made Free Throw.,4,3,1,0,0.3762071451249617,0.5250755715999145,4,4,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,33,1,15:32,2132,2432,Ray Salnave made Free Throw.,4,4,0,0,0.3529573588264139,0.5,4,4,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,34,1,15:13,2113,2413,Tyler Saint-Furcy Turnover.,4,4,0,19,0.3533310868985384,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,35,1,15:13,2113,2413,Mustapha Traore Steal.,4,4,0,0,0.3533310868985384,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,36,1,14:59,2099,2399,Deion Hammond missed Three Point Jumper.,4,4,0,14,0.35361119938095814,0.5,4,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,37,1,14:57,2097,2397,Braden Bell Defensive Rebound.,4,4,0,2,0.3536515400911514,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,38,1,14:37,2077,2377,Michael Cubbage missed Three Point Jumper.,4,4,0,20,0.3540593650447413,0.5,4,4,-3.9,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,39,1,14:34,2074,2374,Mustapha Traore Defensive Rebound.,4,4,0,3,0.3541212265791314,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,40,1,14:10,2050,2350,Samuel Chaput missed Three Point Jumper.,4,4,0,24,0.3546224896344134,0.5,4,4,-3.9,NA,NA,Monmouth,missed,Samuel Chaput,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,41,1,14:07,2047,2347,Braden Bell Defensive Rebound.,4,4,0,3,0.3546859367996087,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,42,1,13:54,2034,2334,Tyler Sagl Turnover.,4,4,0,13,0.35496287711479935,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,43,1,13:54,2034,2334,Mustapha Traore Steal.,4,4,0,0,0.35496287711479935,0.5,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,44,1,13:50,2030,2330,Mustapha Traore made Layup.,4,6,-2,4,0.30841451057395664,0.44753819602888806,4,4,-3.9,NA,NA,Monmouth,made,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,45,1,13:27,2007,2307,Foul on Deion Hammond.,4,6,-2,23,0.3083920199932378,0.4469729450400265,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,46,1,13:27,2007,2307,Matthew Herasme made Free Throw.,5,6,-1,0,0.3315477557946439,0.4734114977310812,4,4,-3.9,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,47,1,13:27,2007,2307,Matthew Herasme made Free Throw.,6,6,0,0,0.35554832372770656,0.5,4,4,-3.9,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,48,1,13:15,1995,2295,Ray Salnave made Layup. Assisted by George Papas.,6,8,-2,12,0.3083814983078053,0.44667539563390546,4,4,-3.9,NA,NA,Monmouth,made,Ray Salnave,George Papas,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,49,1,13:03,1983,2283,Braden Bell made Three Point Jumper. Assisted by Michael Cubbage.,9,8,1,12,0.38112960089219755,0.5268895638080849,4,4,-3.9,NA,NA,Marist,made,Braden Bell,Michael Cubbage,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,50,1,12:49,1969,2269,Deion Hammond made Layup.,9,10,-1,14,0.3319411391450402,0.47293299703084424,4,4,-3.9,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,51,1,12:28,1948,2248,Braden Bell made Three Point Jumper. Assisted by Zion Tordoff.,12,10,2,21,0.40852856737175186,0.5545086726314674,4,4,-3.9,NA,NA,Marist,made,Braden Bell,Zion Tordoff,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,52,1,12:17,1937,2237,George Papas missed Three Point Jumper.,12,10,2,11,0.4090716904191012,0.5547903374866949,4,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,53,1,12:13,1933,2233,Tyler Saint-Furcy Defensive Rebound.,12,10,2,4,0.4092702211941248,0.5548932088801155,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,54,1,12:10,1930,2230,Foul on Ray Salnave.,12,10,2,3,0.40941948129628647,0.5549705212510788,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,55,1,11:57,1917,2217,Tyler Sagl made Three Point Jumper.,15,10,5,13,0.4923795048192767,0.6353704989477953,4,4,-3.9,NA,NA,Marist,made,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,56,1,11:49,1909,2209,Foul on Zion Tordoff.,15,10,5,8,0.49310698899848365,0.6358530440214338,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,57,1,11:49,1909,2209,Official TV Timeout,15,10,5,0,0.49310698899848365,0.6358530440214338,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,58,1,11:34,1894,2194,Deion Hammond made Jumper.,15,12,3,15,0.43865395478755204,0.5834101258970105,4,4,-3.9,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,59,1,11:03,1863,2163,Tyler Saint-Furcy missed Three Point Jumper.,15,12,3,31,0.4406640076740891,0.5845873639208103,4,4,-3.9,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,60,1,11:01,1861,2161,Deion Hammond Defensive Rebound.,15,12,3,2,0.44079471153259053,0.5846634594233817,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,61,1,10:47,1847,2147,Nikkei Rutty missed Layup.,15,12,3,14,0.44171339882970295,0.5851970156624611,4,4,-3.9,NA,NA,Monmouth,missed,Nikkei Rutty,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,62,1,10:42,1842,2142,Tyler Sagl Defensive Rebound.,15,12,3,5,0.4420431508788327,0.585388023025359,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,63,1,10:24,1824,2124,Braden Bell missed Three Point Jumper.,15,12,3,18,0.4432378665546011,0.5860781932029631,4,4,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,64,1,10:21,1821,2121,Nikkei Rutty Defensive Rebound.,15,12,3,3,0.4434381885914103,0.5861936701488931,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,65,1,10:15,1815,2115,Melik Martin made Layup. Assisted by George Papas.,15,14,1,6,0.38736631429575064,0.5290677004001753,4,4,-3.9,NA,NA,Monmouth,made,Melik Martin,George Papas,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,66,1,9:54,1794,2094,Tyler Sagl missed Jumper.,15,14,1,21,0.3881972917689249,0.5293469021072449,4,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,67,1,9:51,1791,2091,Melik Martin Defensive Rebound.,15,14,1,3,0.3883169592328415,0.5293870559738835,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,68,1,9:48,1788,2088,George Papas Turnover.,15,14,1,3,0.3884368667646313,0.5294272830997627,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,69,1,9:33,1773,2073,Matthew Herasme missed Three Point Jumper.,15,14,1,15,0.38904001675757455,0.5296295908982823,4,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,70,1,9:30,1770,2070,George Papas Defensive Rebound.,15,14,1,3,0.38916137148763885,0.5296703015466427,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,71,1,9:16,1756,2056,Foul on Nikkei Rutty.,15,14,1,14,0.38973090297230595,0.5298614808173907,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,72,1,9:16,1756,2056,Nikkei Rutty Turnover.,15,14,1,0,0.38973090297230595,0.5298614808173907,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,73,1,8:59,1739,2039,Jordan Jones made Layup. Assisted by Matthew Herasme.,17,14,3,17,0.44906647911910813,0.5894265373672714,4,4,-3.9,NA,NA,Marist,made,Jordan Jones,Matthew Herasme,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,74,1,8:34,1714,2014,George Papas made Layup.,17,16,1,25,0.39147149189397273,0.5304486329211405,4,4,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,75,1,8:22,1702,2002,Jordan Jones missed Layup.,17,16,1,12,0.39197770623099903,0.5306207105873769,4,4,-3.9,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,76,1,8:22,1702,2002,Nikkei Rutty Defensive Rebound.,17,16,1,0,0.39197770623099903,0.5306207105873769,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,77,1,8:22,1702,2002,Nikkei Rutty Block.,17,16,1,0,0.39197770623099903,0.5306207105873769,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,78,1,8:13,1693,1993,Foul on Matthew Herasme.,17,16,1,9,0.3923599876917529,0.5307511825321546,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,79,1,8:13,1693,1993,Foul on Tyler Saint-Furcy.,17,16,1,0,0.3923599876917529,0.5307511825321546,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,80,1,7:59,1679,1979,Official TV Timeout,17,16,1,14,0.39295907496242943,0.5309543236525619,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,81,1,7:58,1678,1978,Louie Pillari missed Jumper.,17,16,1,1,0.39300206941758414,0.5309686809749316,4,4,-3.9,NA,NA,Monmouth,missed,Louie Pillari,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,82,1,7:55,1675,1975,Jordan Jones Defensive Rebound.,17,16,1,3,0.39313121481795543,0.5310116303241187,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,83,1,7:44,1664,1964,Jordan Jones made Layup.,19,16,3,11,0.45449843725428085,0.5925452324930008,4,4,-3.9,NA,NA,Marist,made,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,84,1,7:24,1644,1944,George Papas missed Three Point Jumper.,19,16,3,20,0.4559604687417616,0.5933556624129448,4,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,85,1,7:21,1641,1941,Jordan Jones Defensive Rebound.,19,16,3,3,0.4561798754499635,0.593475901116302,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,86,1,7:19,1639,1939,Jordan Jones Turnover.,19,16,3,2,0.45632618428053673,0.5935559014896915,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,87,1,7:19,1639,1939,Melik Martin Steal.,19,16,3,0,0.45632618428053673,0.5935559014896915,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,88,1,7:03,1623,1923,Sam Ibiezugbe missed Layup.,19,16,3,16,0.45749829529395014,0.5941921386442393,4,4,-3.9,NA,NA,Monmouth,missed,Sam Ibiezugbe,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,89,1,7:03,1623,1923,Jordan Jones Block.,19,16,3,0,0.45749829529395014,0.5941921386442393,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,90,1,6:58,1618,1918,Tyler Sagl Defensive Rebound.,19,16,3,5,0.4578653997300679,0.5943899115850847,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,91,1,6:50,1610,1910,Tyler Saint-Furcy missed Three Point Jumper.,19,16,3,8,0.45845385583258585,0.5947057086200391,4,4,-3.9,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,92,1,6:47,1607,1907,Sam Ibiezugbe Defensive Rebound.,19,16,3,3,0.4586749209614997,0.5948239997537945,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,93,1,6:43,1603,1903,Gob Gabriel made Layup.,19,18,1,4,0.3963041537453221,0.5320060309980625,4,4,-3.9,NA,NA,Monmouth,made,Gob Gabriel,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,94,1,6:23,1583,1883,Henry Makeny Turnover.,19,18,1,20,0.39721078028004325,0.5322778583112955,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,95,1,6:23,1583,1883,Melik Martin Steal.,19,18,1,0,0.39721078028004325,0.5322778583112955,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,96,1,6:20,1580,1880,Foul on Tyler Sagl.,19,18,1,3,0.3973477298411194,0.5323187675767772,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,97,1,6:20,1580,1880,Melik Martin missed Free Throw.,19,18,1,0,0.3973477298411194,0.5323187675767772,4,4,-3.9,NA,NA,Monmouth,missed,Melik Martin,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,98,1,6:20,1580,1880,Monmouth Offensive Rebound.,19,18,1,0,0.3973477298411194,0.5323187675767772,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,99,1,6:20,1580,1880,Melik Martin missed Free Throw.,19,18,1,0,0.3973477298411194,0.5323187675767772,4,4,-3.9,NA,NA,Monmouth,missed,Melik Martin,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,100,1,6:19,1579,1879,Michael Cubbage Defensive Rebound.,19,18,1,1,0.3973934352158041,0.532332416226348,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,101,1,5:51,1551,1851,Jack Cavanaugh missed Three Point Jumper.,19,18,1,28,0.3986844903014213,0.5327182491595552,4,4,-3.9,NA,NA,Marist,missed,Jack Cavanaugh,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,102,1,5:49,1549,1849,Braden Bell Turnover.,19,18,1,2,0.3987775462583971,0.5327461649580855,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,103,1,5:48,1548,1848,Braden Bell Offensive Rebound.,19,18,1,1,0.3988241162447899,0.5327601449252958,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,104,1,5:26,1526,1826,Marcus McClary missed Jumper.,19,18,1,22,0.3998557577442856,0.533072004679275,4,4,-3.9,NA,NA,Monmouth,missed,Marcus McClary,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,105,1,5:23,1523,1823,Tyler Saint-Furcy Defensive Rebound.,19,18,1,3,0.399997491306545,0.5331152575738887,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,106,1,5:14,1514,1814,Michael Cubbage Turnover.,19,18,1,9,0.4004242162245211,0.5332462303475475,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,107,1,5:14,1514,1814,Marcus McClary Steal.,19,18,1,0,0.4004242162245211,0.5332462303475475,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,108,1,4:48,1488,1788,Foul on Michael Cubbage.,19,18,1,26,0.40166986513007846,0.5336364061005578,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,109,1,4:48,1488,1788,Deion Hammond missed Free Throw.,19,18,1,0,0.40166986513007846,0.5336364061005578,4,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,110,1,4:48,1488,1788,Monmouth Offensive Rebound.,19,18,1,0,0.40166986513007846,0.5336364061005578,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,111,1,4:48,1488,1788,Deion Hammond made Free Throw.,19,19,0,0,0.369756565265307,0.5,4,4,-3.9,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,112,1,4:16,1456,1756,Michael Cubbage made Three Point Jumper. Assisted by Braden Bell.,22,19,3,32,0.470427036332929,0.6011827058429856,4,4,-3.9,NA,NA,Marist,made,Michael Cubbage,Braden Bell,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,113,1,4:06,1446,1746,Mustapha Traore missed Jumper.,22,19,3,10,0.4712714710617159,0.6016646661684296,4,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,114,1,4:02,1442,1742,Michael Cubbage Defensive Rebound.,22,19,3,4,0.4716084355293075,0.6018559983958909,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,115,1,3:57,1437,1737,Foul on Tobias Sjoberg.,22,19,3,5,0.4720280310252729,0.6020928338734691,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,116,1,3:57,1437,1737,Tobias Sjoberg Turnover.,22,19,3,0,0.4720280310252729,0.6020928338734691,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,117,1,3:57,1437,1737,Official TV Timeout,22,19,3,0,0.4720280310252729,0.6020928338734691,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,118,1,3:40,1420,1720,Marcus McClary Turnover.,22,19,3,17,0.47344333484971834,0.6028810203387054,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,119,1,3:12,1392,1692,Foul on Ray Salnave.,22,19,3,28,0.47574965100234684,0.6041366819283165,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,120,1,2:57,1377,1677,Jordan Jones Turnover.,22,19,3,15,0.47698071831125766,0.6047967335748258,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,121,1,2:57,1377,1677,Samuel Chaput Steal.,22,19,3,0,0.47698071831125766,0.6047967335748258,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,122,1,2:51,1371,1671,Deion Hammond missed Three Point Jumper.,22,19,3,6,0.4774735873567459,0.6050597434907705,4,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,123,1,2:49,1369,1669,Jordan Jones Defensive Rebound.,22,19,3,2,0.4776380115182306,0.605147371692639,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,124,1,2:36,1356,1656,Foul on Marcus McClary.,22,19,3,13,0.4787092796932606,0.6057174080157803,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,125,1,2:28,1348,1648,Tyler Sagl missed Three Point Jumper.,22,19,3,8,0.47937150834242653,0.6060694966760106,4,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,126,1,2:25,1345,1645,Samuel Chaput Defensive Rebound.,22,19,3,3,0.479620599554862,0.6062019703805133,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,127,1,2:19,1339,1639,Louie Pillari missed Three Point Jumper.,22,19,3,6,0.48012021391885257,0.6064678534927795,4,4,-3.9,NA,NA,Monmouth,missed,Louie Pillari,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,128,1,2:15,1335,1635,Braden Bell Defensive Rebound.,22,19,3,4,0.4804544617452682,0.6066459236719226,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,129,1,2:08,1328,1628,Jordan Jones missed Jumper.,22,19,3,7,0.4810419299343373,0.6069594209153129,4,4,-3.9,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,130,1,2:05,1325,1625,Louie Pillari Defensive Rebound.,22,19,3,3,0.48129477907761914,0.6070946052719733,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,131,1,2:00,1320,1620,George Papas missed Three Point Jumper.,22,19,3,5,0.4817177584167663,0.607321157085543,4,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,132,1,1:56,1316,1616,Michael Cubbage Defensive Rebound.,22,19,3,4,0.4820576417649204,0.6075036193681723,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,133,1,1:46,1306,1606,Braden Bell missed Three Point Jumper.,22,19,3,10,0.48291375071059595,0.6079651424043253,4,4,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,134,1,1:44,1304,1604,Braden Bell Offensive Rebound.,22,19,3,2,0.48308615170937913,0.6080584564920573,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,135,1,1:25,1285,1585,Tyler Sagl missed Three Point Jumper.,22,19,3,19,0.4847462063471695,0.6089645966940835,4,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,136,1,1:22,1282,1582,Marcus McClary Defensive Rebound.,22,19,3,3,0.48501233812342576,0.6091112902843044,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,137,1,1:15,1275,1575,Nikkei Rutty made Layup. Assisted by George Papas.,22,21,1,7,0.4123756609590232,0.537018308236849,4,4,-3.9,NA,NA,Monmouth,made,Nikkei Rutty,George Papas,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,138,1,0:42,1242,1542,Michael Cubbage missed Jumper.,22,21,1,33,0.4141613705497179,0.5376205092909178,4,4,-3.9,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,139,1,0:38,1238,1538,Samuel Chaput Defensive Rebound.,22,21,1,4,0.4143818741254314,0.5376977731048964,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,140,1,0:36,1236,1536,Samuel Chaput missed Layup.,22,21,1,2,0.4144924777105621,0.537736789279994,4,4,-3.9,NA,NA,Monmouth,missed,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,141,1,0:33,1233,1533,Braden Bell Defensive Rebound.,22,21,1,3,0.4146588295087698,0.5377958048564924,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,142,1,0:05,1205,1505,Tyler Sagl missed Three Point Jumper.,22,21,1,28,0.41623703831410236,0.5383757965642224,4,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,143,1,0:02,1202,1502,George Papas made Layup.,22,23,-1,3,0.34396752798060065,0.4615607977793232,4,4,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,144,1,0:02,1202,1502,Foul on Michael Cubbage.,22,23,-1,0,0.34396752798060065,0.4615607977793232,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,145,1,0:02,1202,1502,George Papas missed Free Throw.,22,23,-1,0,0.34396752798060065,0.4615607977793232,4,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,146,1,0:02,1202,1502,Samuel Chaput Defensive Rebound.,22,23,-1,0,0.34396752798060065,0.4615607977793232,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,147,1,0:00,1200,1500,Marist Defensive Rebound.,22,23,-1,2,0.3439959818170222,0.4615187446422248,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,149,2,20:00,1200,1500,PLAY,22,21,1,0,0.4165197064430835,0.5384812553577752,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth
+401172029,2020-02-21,Marist,Monmouth,151,2,19:38,1178,1478,Marist Defensive Rebound.,22,23,-1,4,0.3443137607835495,0.46106601903421135,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,152,2,19:09,1149,1449,Jordan Jones Turnover.,22,23,-1,29,0.34474108596993597,0.46048798599100366,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,153,2,19:01,1141,1441,Marcus McClary made Layup.,22,25,-3,8,0.27693057158542733,0.3829515669276281,4,4,-3.9,NA,NA,Monmouth,made,Marcus McClary,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,154,2,18:48,1128,1428,Tyler Saint-Furcy missed Three Point Jumper.,22,25,-3,13,0.27668799252633314,0.38222088521408826,4,4,-3.9,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,155,2,18:43,1123,1423,Marcus McClary Defensive Rebound.,22,25,-3,5,0.2765941000602373,0.3819393119034149,4,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,156,2,18:32,1112,1412,Mustapha Traore made Layup. Assisted by Deion Hammond.,22,27,-5,11,0.2166825358005538,0.30861501120043067,4,4,-3.9,NA,NA,Monmouth,made,Mustapha Traore,Deion Hammond,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,157,2,18:32,1112,1412,Marist  Timeout,22,27,-5,0,0.2166825358005538,0.30861501120043067,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,158,2,18:17,1097,1397,Matthew Herasme Turnover.,22,27,-5,15,0.2160226407379818,0.30732219734105287,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,159,2,18:17,1097,1397,Samuel Chaput Steal.,22,27,-5,0,0.2160226407379818,0.30732219734105287,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,160,2,18:15,1095,1395,Foul on Michael Cubbage.,22,27,-5,2,0.21593337552360584,0.30714821260827896,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,161,2,18:01,1081,1381,Mustapha Traore missed Layup.,22,27,-5,14,0.21529766699839786,0.30591642281803677,3,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,162,2,17:58,1078,1378,Mustapha Traore Offensive Rebound.,22,27,-5,3,0.2151586365802411,0.3056488471439967,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,163,2,17:49,1069,1369,Mustapha Traore missed Jumper.,22,27,-5,9,0.214734630727566,0.3048371358705394,3,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,164,2,17:47,1067,1367,Mustapha Traore Offensive Rebound.,22,27,-5,2,0.21463889282127555,0.3046547817824308,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,165,2,17:44,1064,1364,Deion Hammond missed Jumper.,22,27,-5,3,0.21449418148847887,0.304379807235776,3,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,166,2,17:43,1063,1363,Monmouth Offensive Rebound.,22,27,-5,1,0.21444564165388202,0.3042877530178237,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,167,2,17:36,1056,1356,Foul on Tyler Saint-Furcy.,22,27,-5,7,0.2141014148340657,0.30363754420817457,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,168,2,17:27,1047,1347,Samuel Chaput made Three Point Jumper. Assisted by Ray Salnave.,22,30,-8,9,0.14142257281718104,0.20841434006153728,3,4,-3.9,NA,NA,Monmouth,made,Samuel Chaput,Ray Salnave,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,169,2,17:03,1023,1323,Tyler Saint-Furcy Turnover.,22,30,-8,24,0.13967494074328643,0.20545325124630356,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,170,2,17:03,1023,1323,Samuel Chaput Steal.,22,30,-8,0,0.13967494074328643,0.20545325124630356,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,171,2,17:00,1020,1320,Foul on Tyler Saint-Furcy.,22,30,-8,3,0.13944672115792275,0.20506965983109948,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,172,2,17:00,1020,1320,Foul on Mustapha Traore.,22,30,-8,0,0.13944672115792275,0.20506965983109948,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,173,2,17:00,1020,1320,Mustapha Traore Turnover.,22,30,-8,0,0.13944672115792275,0.20506965983109948,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,174,2,16:42,1002,1302,Michael Cubbage made Layup.,24,30,-6,18,0.18401128346784748,0.2636384165310821,3,4,-3.9,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,175,2,16:42,1002,1302,Foul on Marcus McClary.,24,30,-6,0,0.18401128346784748,0.2636384165310821,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,176,2,16:42,1002,1302,Michael Cubbage made Free Throw.,25,30,-5,0,0.21111575904325625,0.2981857210677512,3,4,-3.9,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,177,2,16:33,993,1293,Ray Salnave missed Three Point Jumper.,25,30,-5,9,0.2105482324218554,0.29718428835143035,3,4,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,178,2,16:29,989,1289,Samuel Chaput Offensive Rebound.,25,30,-5,4,0.2102884628438498,0.296729170598558,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,179,2,16:26,986,1286,Ray Salnave missed Three Point Jumper.,25,30,-5,3,0.21009048669019853,0.29638363519296423,3,4,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,180,2,16:22,982,1282,Braden Bell Defensive Rebound.,25,30,-5,4,0.20982222364595046,0.29591719427914515,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,181,2,16:03,963,1263,Matthew Herasme missed Three Point Jumper.,25,30,-5,19,0.20849786242824558,0.2936367342798013,3,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,182,2,15:59,959,1259,Tobias Sjoberg Offensive Rebound.,25,30,-5,4,0.2082288112780859,0.29317214371850187,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,183,2,15:48,948,1248,Tyler Sagl made Three Point Jumper.,28,30,-2,11,0.3082426035027144,0.41232134141886506,3,4,-3.9,NA,NA,Marist,made,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,184,2,15:14,914,1214,Samuel Chaput missed Jumper.,28,30,-2,34,0.30784952521956505,0.41072285755241084,3,4,-3.9,NA,NA,Monmouth,missed,Samuel Chaput,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,185,2,15:11,911,1211,Tobias Sjoberg Defensive Rebound.,28,30,-2,3,0.30781922026080544,0.41059098335842764,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,186,2,15:02,902,1202,Braden Bell missed Three Point Jumper.,28,30,-2,9,0.3077307096547198,0.4102010496712294,3,4,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,187,2,14:58,898,1198,Tobias Sjoberg Offensive Rebound.,28,30,-2,4,0.3076922187425175,0.4100299445955143,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,188,2,14:54,894,1194,Braden Bell made Three Point Jumper. Assisted by Michael Cubbage.,31,30,1,4,0.43430878500291953,0.5454423605453416,3,4,-3.9,NA,NA,Marist,made,Braden Bell,Michael Cubbage,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,189,2,14:46,886,1186,Deion Hammond made Layup.,31,32,-1,8,0.3478519028329583,0.4543842831806819,3,4,-3.9,NA,NA,Monmouth,made,Deion Hammond,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,190,2,14:46,886,1186,Foul on Braden Bell.,31,32,-1,0,0.3478519028329583,0.4543842831806819,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,191,2,14:46,886,1186,Official TV Timeout,31,32,-1,0,0.3478519028329583,0.4543842831806819,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,192,2,14:46,886,1186,Deion Hammond missed Free Throw.,31,32,-1,0,0.3478519028329583,0.4543842831806819,3,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,193,2,14:45,885,1185,Tobias Sjoberg Defensive Rebound.,31,32,-1,1,0.3478615581852282,0.454362668783717,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,194,2,14:32,872,1172,Foul on Samuel Chaput.,31,32,-1,13,0.3479855267803295,0.4540814673888829,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,195,2,14:32,872,1172,Tobias Sjoberg made Free Throw.,32,32,0,0,0.39085665426302457,0.5,3,4,-3.9,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,196,2,14:32,872,1172,Tobias Sjoberg missed Free Throw.,32,32,0,0,0.39085665426302457,0.5,3,4,-3.9,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,197,2,14:31,871,1171,Marcus McClary Defensive Rebound.,32,32,0,1,0.39088737374173277,0.5,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,198,2,14:08,848,1148,Deion Hammond missed Jumper.,32,32,0,23,0.39159620170665543,0.5,3,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,199,2,14:06,846,1146,Marcus McClary Offensive Rebound.,32,32,0,2,0.3916583330079816,0.5,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,200,2,14:05,845,1145,Marcus McClary made Layup.,32,34,-2,1,0.30715711596214446,0.40776134486318577,3,4,-3.9,NA,NA,Monmouth,made,Marcus McClary,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,201,2,13:39,819,1119,Tyler Sagl missed Three Point Jumper.,32,34,-2,26,0.3068141204210626,0.4065373203797049,3,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,202,2,13:38,818,1118,Foul on Marcus McClary.,32,34,-2,1,0.3067990681872333,0.4064873905483151,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,203,2,13:38,818,1118,Tyler Sagl missed Free Throw.,32,34,-2,0,0.3067990681872333,0.4064873905483151,3,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,204,2,13:38,818,1118,Marist Offensive Rebound.,32,34,-2,0,0.3067990681872333,0.4064873905483151,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,205,2,13:38,818,1118,Tyler Sagl made Free Throw.,33,34,-1,0,0.3484466620228717,0.4528275187167615,3,4,-3.9,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,206,2,13:37,817,1117,Tyler Sagl Offensive Rebound.,33,34,-1,1,0.3484540339751327,0.4528017518647809,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,207,2,13:25,805,1105,Deion Hammond missed Three Point Jumper.,33,34,-1,12,0.34853820815703507,0.45248186685416714,3,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,TRUE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,208,2,13:23,803,1103,Ray Salnave Offensive Rebound.,33,34,-1,2,0.34855142802645644,0.4524264962387234,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,209,2,13:23,803,1103,Foul on Braden Bell.,33,34,-1,0,0.34855142802645644,0.4524264962387234,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,210,2,13:03,783,1083,Deion Hammond missed Layup.,33,34,-1,20,0.34866951151444814,0.4518355251445259,3,4,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,211,2,13:03,783,1083,Braden Bell Block.,33,34,-1,0,0.34866951151444814,0.4518355251445259,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,212,2,13:02,782,1082,Melik Martin Offensive Rebound.,33,34,-1,1,0.34867469681221575,0.45180403833050065,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,213,2,13:02,782,1082,Monmouth  Turnover.,33,34,-1,0,0.34867469681221575,0.45180403833050065,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,214,2,12:45,765,1065,Jordan Jones missed Jumper.,33,34,-1,17,0.3487512837904697,0.451236677246197,3,4,-3.9,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,215,2,12:43,763,1063,Monmouth Defensive Rebound.,33,34,-1,2,0.34875878698136364,0.4511656935293653,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,216,2,12:32,752,1052,Louie Pillari missed Three Point Jumper.,33,34,-1,11,0.3487939820085007,0.45075792944845605,3,4,-3.9,NA,NA,Monmouth,missed,Louie Pillari,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,217,2,12:28,748,1048,Matthew Herasme Defensive Rebound.,33,34,-1,4,0.34880413690303325,0.4506020341242074,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,218,2,12:28,748,1048,Foul on Ray Salnave.,33,34,-1,0,0.34880413690303325,0.4506020341242074,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,219,2,12:19,739,1039,Braden Bell missed Three Point Jumper.,33,34,-1,9,0.3488215684654861,0.45023549060329754,3,4,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,220,2,12:16,736,1036,Louie Pillari Defensive Rebound.,33,34,-1,3,0.34882565839936835,0.4501082647544962,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,221,2,12:10,730,1030,Ray Salnave made Layup.,33,36,-3,6,0.2637112945865324,0.3534565810476112,3,4,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,222,2,11:58,718,1018,Jordan Jones Turnover.,33,36,-3,12,0.2629282257308273,0.3520414353562755,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,223,2,11:58,718,1018,Nikkei Rutty Steal.,33,36,-3,0,0.2629282257308273,0.3520414353562755,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,224,2,11:48,708,1008,Foul on Jack Cavanaugh.,33,36,-3,10,0.26234399397811975,0.35095359252407626,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,225,2,11:48,708,1008,Official TV Timeout,33,36,-3,0,0.26234399397811975,0.35095359252407626,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,226,2,11:48,708,1008,Nikkei Rutty missed Free Throw.,33,36,-3,0,0.26234399397811975,0.35095359252407626,3,4,-3.9,NA,NA,Monmouth,missed,Nikkei Rutty,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,227,2,11:48,708,1008,Monmouth Offensive Rebound.,33,36,-3,0,0.26234399397811975,0.35095359252407626,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,228,2,11:48,708,1008,Nikkei Rutty made Free Throw.,33,37,-4,0,0.2246499701346621,0.30580605355435025,3,4,-3.9,NA,NA,Monmouth,made,Nikkei Rutty,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,229,2,11:39,699,999,Jack Cavanaugh Turnover.,33,37,-4,9,0.22398091714274107,0.30466139836413814,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,230,2,11:39,699,999,Melik Martin Steal.,33,37,-4,0,0.22398091714274107,0.30466139836413814,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,231,2,11:33,693,993,Melik Martin made Layup.,33,39,-6,6,0.15984541505811214,0.22391696243081063,3,4,-3.9,NA,NA,Monmouth,made,Melik Martin,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,232,2,11:14,674,974,Braden Bell Turnover.,33,39,-6,19,0.15817852118873832,0.2212051950897739,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,233,2,11:03,663,963,Louie Pillari made Jumper.,33,41,-8,11,0.10897111339342129,0.15578137092039543,3,4,-3.9,NA,NA,Monmouth,made,Louie Pillari,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,234,2,10:51,651,951,Matthew Herasme missed Three Point Jumper.,33,41,-8,12,0.10792359660509172,0.15409688774198035,3,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,235,2,10:48,648,948,Nikkei Rutty Defensive Rebound.,33,41,-8,3,0.10765939944533516,0.15367260268619953,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,236,2,10:40,640,940,Melik Martin made Three Point Jumper. Assisted by George Papas.,33,44,-11,8,0.05922136443158781,0.08643148804828556,3,4,-3.9,NA,NA,Monmouth,made,Melik Martin,George Papas,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,237,2,10:24,624,924,Tyler Sagl missed Three Point Jumper.,33,44,-11,16,0.057966489304103905,0.08443452026782013,3,4,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,238,2,10:19,619,919,Nikkei Rutty Defensive Rebound.,33,44,-11,5,0.05755508638567296,0.08378296157558988,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,239,2,10:16,616,916,Ray Salnave missed Layup.,33,44,-11,3,0.05730279826671165,0.08338421819450778,3,4,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,240,2,10:16,616,916,Jordan Jones Block.,33,44,-11,0,0.05730279826671165,0.08338421819450778,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,241,2,10:12,612,912,Tyler Sagl Defensive Rebound.,33,44,-11,4,0.056959480416428114,0.08284260985774523,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,242,2,10:07,607,907,Michael Cubbage missed Layup.,33,44,-11,5,0.05651828986704887,0.08214830439194536,3,4,-3.9,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,243,2,10:05,605,905,Michael Cubbage Offensive Rebound.,33,44,-11,2,0.05633781803012811,0.08186484172376349,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,244,2,9:55,595,895,Tyler Saint-Furcy missed Three Point Jumper.,33,44,-11,10,0.05539807808059764,0.08039380647448423,3,4,-3.9,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,245,2,9:51,591,891,Ray Salnave Defensive Rebound.,33,44,-11,4,0.055003438096562655,0.0797784533128507,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,246,2,9:44,584,884,Foul on Tyler Sagl.,33,44,-11,7,0.05428486063103691,0.07866141438832519,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,247,2,9:44,584,884,Louie Pillari missed Free Throw.,33,44,-11,0,0.05428486063103691,0.07866141438832519,3,4,-3.9,NA,NA,Monmouth,missed,Louie Pillari,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,248,2,9:44,584,884,Monmouth Offensive Rebound.,33,44,-11,0,0.05428486063103691,0.07866141438832519,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,249,2,9:44,584,884,Louie Pillari made Free Throw.,33,45,-12,0,0.04388130291774868,0.06390181752029106,3,4,-3.9,NA,NA,Monmouth,made,Louie Pillari,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,250,2,9:27,567,867,Foul on Ray Salnave.,33,45,-12,17,0.042171639057795765,0.061256308937003255,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,251,2,9:27,567,867,Jordan Jones made Free Throw.,34,45,-11,0,0.05237823192074153,0.07571673850768593,3,4,-3.9,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,252,2,9:27,567,867,Jordan Jones made Free Throw.,35,45,-10,0,0.06488772963465701,0.09325166490829502,3,4,-3.9,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,253,2,9:17,557,857,Mustapha Traore missed Layup.,35,45,-10,10,0.0635228715689271,0.09116367983242639,3,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,254,2,9:15,555,855,Melik Martin Offensive Rebound.,35,45,-10,2,0.06323739898244406,0.09072825381451642,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,255,2,9:06,546,846,Foul on Jordan Jones.,35,45,-10,9,0.061926433652169426,0.088731757091384,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,256,2,9:06,546,846,George Papas made Free Throw.,35,46,-11,0,0.04969856412799915,0.07161503815086426,3,4,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,257,2,9:06,546,846,George Papas missed Free Throw.,35,46,-11,0,0.04969856412799915,0.07161503815086426,3,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,258,2,9:03,543,843,Mustapha Traore Offensive Rebound.,35,46,-11,3,0.04932739187503393,0.07104678786788637,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,259,2,9:03,543,843,Mustapha Traore Turnover.,35,46,-11,0,0.04932739187503393,0.07104678786788637,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,260,2,9:03,543,843,Michael Cubbage Steal.,35,46,-11,0,0.04932739187503393,0.07104678786788637,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,261,2,8:50,530,830,Tyler Sagl made Three Point Jumper. Assisted by Michael Cubbage.,38,46,-8,13,0.09283997858662384,0.13074436167715547,3,4,-3.9,NA,NA,Marist,made,Tyler Sagl,Michael Cubbage,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,262,2,8:26,506,806,Foul on Braden Bell.,38,46,-8,24,0.08996677359649628,0.12628464541065731,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,263,2,8:26,506,806,Melik Martin made Free Throw.,38,47,-9,0,0.072036616960548,0.101927116275654,3,4,-3.9,NA,NA,Monmouth,made,Melik Martin,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,264,2,8:26,506,806,Melik Martin made Free Throw.,38,48,-10,0,0.05745429012309939,0.08182762538273794,3,4,-3.9,NA,NA,Monmouth,made,Melik Martin,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,265,2,8:07,487,787,Foul on Melik Martin.,38,48,-10,19,0.05561928692785862,0.07897639313163834,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,266,2,8:07,487,787,Matthew Herasme missed Free Throw.,38,48,-10,0,0.05561928692785862,0.07897639313163834,3,4,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,267,2,8:05,485,785,Mustapha Traore Defensive Rebound.,38,48,-10,2,0.05541919146235354,0.07866686423017845,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,268,2,7:44,464,764,George Papas missed Layup.,38,48,-10,21,0.05311674035650234,0.07513603665207876,3,4,-3.9,NA,NA,Monmouth,missed,George Papas,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,269,2,7:42,462,762,Tobias Sjoberg made Free Throw.,39,48,-9,2,0.06698274606346535,0.09413689753729639,3,4,-3.9,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,271,2,7:42,462,762,Foul on Mustapha Traore.,38,48,-10,0,0.0528720410200978,0.07476423096279362,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,272,2,7:42,462,762,Official TV Timeout,38,48,-10,0,0.0528720410200978,0.07476423096279362,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,273,2,7:42,462,762,Tobias Sjoberg made Free Throw.,40,48,-8,0,0.08452329612471704,0.11788974688741431,3,4,-3.9,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,274,2,7:22,442,742,Mustapha Traore missed Layup.,40,48,-8,20,0.08114286002374213,0.11282293061390436,3,4,-3.9,NA,NA,Monmouth,missed,Mustapha Traore,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,275,2,7:19,439,739,Matthew Herasme Defensive Rebound.,40,48,-8,3,0.08055855219588468,0.11195620667872844,3,4,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,276,2,7:03,423,723,Matthew Herasme made Three Point Jumper. Assisted by Braden Bell.,43,48,-5,16,0.15636134999488147,0.2097648366599424,3,4,-3.9,NA,NA,Marist,made,Matthew Herasme,Braden Bell,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,277,2,6:52,412,712,George Papas made Three Point Jumper.,43,51,-8,11,0.07502686783249694,0.10376349313435594,3,4,-3.9,NA,NA,Monmouth,made,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,278,2,6:49,409,709,Monmouth  Timeout,43,51,-8,3,0.07447313718657313,0.10293402001905795,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,279,2,6:35,395,695,Foul on Melik Martin.,43,51,-8,14,0.07200256118869452,0.09921496381693477,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,280,2,6:35,395,695,Tobias Sjoberg missed Free Throw.,43,51,-8,0,0.07200256118869452,0.09921496381693477,3,3,-3.9,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,281,2,6:35,395,695,Marist Offensive Rebound.,43,51,-8,0,0.07200256118869452,0.09921496381693477,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,282,2,6:35,395,695,Tobias Sjoberg made Free Throw.,44,51,-7,0,0.09274413398670234,0.12672506137652387,3,3,-3.9,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,283,2,6:25,385,685,Deion Hammond missed Jumper.,44,51,-7,10,0.09088908191565333,0.1239178445202101,3,3,-3.9,NA,NA,Monmouth,missed,Deion Hammond,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,284,2,6:22,382,682,Tyler Sagl Defensive Rebound.,44,51,-7,3,0.09033025258816038,0.12307234647274826,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,285,2,6:07,367,667,Braden Bell made Three Point Jumper. Assisted by Tobias Sjoberg.,47,51,-4,15,0.18450901804709757,0.24132694602051222,3,3,-3.9,NA,NA,Marist,made,Braden Bell,Tobias Sjoberg,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,286,2,5:36,336,636,Deion Hammond Turnover.,47,51,-4,31,0.17759517141076023,0.23081989494240665,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,287,2,5:36,336,636,Matthew Herasme Steal.,47,51,-4,0,0.17759517141076023,0.23081989494240665,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,288,2,5:27,327,627,Tyler Sagl made Three Point Jumper. Assisted by Tobias Sjoberg.,50,51,-1,9,0.34714751066301747,0.4240625611517248,3,3,-3.9,NA,NA,Marist,made,Tyler Sagl,Tobias Sjoberg,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,289,2,5:07,307,607,Foul on Tyler Sagl.,50,51,-1,20,0.3459511150653382,0.4207794554872231,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,290,2,5:07,307,607,Nikkei Rutty missed Free Throw.,50,51,-1,0,0.3459511150653382,0.4207794554872231,3,3,-3.9,NA,NA,Monmouth,missed,Nikkei Rutty,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,291,2,5:07,307,607,Monmouth Offensive Rebound.,50,51,-1,0,0.3459511150653382,0.4207794554872231,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,292,2,5:07,307,607,Nikkei Rutty missed Free Throw.,50,51,-1,0,0.3459511150653382,0.4207794554872231,3,3,-3.9,NA,NA,Monmouth,missed,Nikkei Rutty,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,293,2,5:07,307,607,Jordan Jones Defensive Rebound.,50,51,-1,0,0.3459511150653382,0.4207794554872231,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,294,2,4:45,285,585,Jordan Jones made Jumper.,52,51,1,22,0.5041097527177861,0.5804813269443945,3,3,-3.9,NA,NA,Marist,made,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,295,2,4:18,258,558,Nikkei Rutty made Layup. Assisted by George Papas.,52,53,-1,27,0.35081626951058864,0.4211019314543943,3,3,-3.9,NA,NA,Monmouth,made,Nikkei Rutty,George Papas,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,296,2,3:50,230,530,Jordan Jones missed Layup.,52,53,-1,28,0.3544144791571689,0.4219676366364322,3,3,-3.9,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,297,2,3:48,228,528,Ray Salnave Defensive Rebound.,52,53,-1,2,0.3545341858689355,0.4218715441721414,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,298,2,3:31,211,511,George Papas missed Three Point Jumper.,52,53,-1,17,0.35429578572817483,0.419639576738557,3,3,-3.9,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,299,2,3:28,208,508,Matthew Herasme Defensive Rebound.,52,53,-1,3,0.35397590710105303,0.41893415425786323,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,300,2,3:24,204,504,Marist  Timeout,52,53,-1,4,0.3533973657347497,0.4178236609855653,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,301,2,3:10,190,490,Tyler Sagl Turnover.,52,53,-1,14,0.3498327050477823,0.41221836482567875,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,302,2,2:44,164,464,Ray Salnave missed Three Point Jumper.,52,53,-1,26,0.3405250604350643,0.3987465829913125,2,3,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,303,2,2:41,161,461,Matthew Herasme Defensive Rebound.,52,53,-1,3,0.3393727822773012,0.3970978492795027,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,304,2,2:16,136,436,Braden Bell missed Three Point Jumper.,52,53,-1,25,0.3284835614454827,0.38188346911275123,2,3,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,305,2,2:12,132,432,George Papas Defensive Rebound.,52,53,-1,4,0.32646661819498335,0.37913760331156826,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,306,2,2:08,128,428,Monmouth  Timeout,52,53,-1,4,0.32435714800430887,0.376287438456774,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,307,2,2:01,121,421,Ray Salnave missed Layup.,52,53,-1,7,0.32042566340273676,0.37102973922249205,2,2,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,308,2,1:58,118,418,George Papas Offensive Rebound.,52,53,-1,3,0.31864120023942916,0.36866461896302666,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,309,2,1:48,108,408,Foul on Tobias Sjoberg.,52,53,-1,10,0.3122260515785334,0.3602572487808431,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,310,2,1:48,108,408,Ray Salnave made Free Throw.,52,54,-2,0,0.2035941187542079,0.2407639794651395,2,2,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,311,2,1:48,108,408,Ray Salnave made Free Throw.,52,55,-3,0,0.1258426202619208,0.1515181383822612,2,2,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,312,2,1:36,96,396,Matthew Herasme made Three Point Jumper. Assisted by Tyler Sagl.,55,55,0,12,0.4483534428835575,0.5,2,2,-3.9,NA,NA,Marist,made,Matthew Herasme,Tyler Sagl,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,313,2,1:22,82,382,Ray Salnave missed Layup.,55,55,0,14,0.4507801534909483,0.5,2,2,-3.9,NA,NA,Monmouth,missed,Ray Salnave,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,314,2,1:20,80,380,Braden Bell Defensive Rebound.,55,55,0,2,0.4511325214309889,0.5,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,315,2,1:10,70,370,Tobias Sjoberg Turnover.,55,55,0,10,0.45292393763026434,0.5,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,316,2,0:42,42,342,Marcus McClary missed Three Point Jumper.,55,55,0,28,0.45816915147980447,0.5,2,2,-3.9,NA,NA,Monmouth,missed,Marcus McClary,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,317,2,0:39,39,339,Tyler Sagl Defensive Rebound.,55,55,0,3,0.45875246011301446,0.5,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,318,2,0:18,18,318,Matthew Herasme made Three Point Jumper. Assisted by Braden Bell.,58,55,3,21,0.9524900929700268,0.9587762315563105,2,2,-3.9,NA,NA,Marist,made,Matthew Herasme,Braden Bell,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,319,2,0:14,14,314,Foul on Matthew Herasme.,58,55,3,4,0.9561892943710805,0.9618843639125265,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,320,2,0:14,14,314,Ray Salnave made Free Throw.,58,56,2,0,0.8815288031469549,0.8958722919593005,2,2,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,321,2,0:14,14,314,Ray Salnave made Free Throw.,58,57,1,0,0.7172574201178199,0.7457533168601033,2,2,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,322,2,0:14,14,314,Ray Salnave made Free Throw.,58,58,0,0,0.463765643002817,0.5,2,2,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,323,2,0:00,300,300,Braden Bell missed Three Point Jumper.,58,58,0,14,0.4220341529559595,0.5,2,2,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,324,2,0:00,300,300,Tobias Sjoberg Offensive Rebound.,58,58,0,0,0.4220341529559595,0.5,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,325,2,0:00,300,300,End of 2nd half,58,58,0,0,0.4220341529559595,0.5,2,2,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401172029,2020-02-21,Marist,Monmouth,326,3,5:00,300,300,PLAY,58,58,0,0,0.4220341529559595,0.5,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401172029,2020-02-21,Marist,Monmouth,327,3,4:48,288,288,Michael Cubbage missed Layup.,58,58,0,12,0.4232291525007527,0.5,3,3,-3.9,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,328,3,4:46,286,286,Ray Salnave Defensive Rebound.,58,58,0,2,0.42342787741925786,0.5,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,329,3,4:23,263,263,George Papas made Layup.,58,60,-2,23,0.28113180042503316,0.3453448477138437,3,3,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,330,3,4:00,240,240,Matthew Herasme missed Three Point Jumper.,58,60,-2,23,0.2853272235878121,0.3478021846912398,3,3,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,331,3,3:57,237,237,Ray Salnave Defensive Rebound.,58,60,-2,3,0.2856604047079771,0.3478712833823952,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,332,3,3:39,219,219,Foul on Jordan Jones.,58,60,-2,18,0.28558874330225814,0.3459125988246164,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,333,3,3:39,219,219,George Papas made Free Throw.,58,61,-3,0,0.2252318698845181,0.2777635698271279,3,3,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,334,3,3:39,219,219,George Papas made Free Throw.,58,62,-4,0,0.17451493933203435,0.21855455271315238,3,3,-3.9,NA,NA,Monmouth,made,George Papas,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,335,3,3:08,188,188,Matthew Herasme missed Three Point Jumper.,58,62,-4,31,0.15449816425774662,0.19218378375470166,3,3,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,336,3,3:08,188,188,Mustapha Traore Block.,58,62,-4,0,0.15449816425774662,0.19218378375470166,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,337,3,3:08,188,188,Marist Offensive Rebound.,58,62,-4,0,0.15449816425774662,0.19218378375470166,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,338,3,3:08,188,188,Marist  Turnover.,58,62,-4,0,0.15449816425774662,0.19218378375470166,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,339,3,2:59,179,179,Foul on George Papas.,58,62,-4,9,0.14550094445849954,0.18071732247073352,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,340,3,2:59,179,179,George Papas Turnover.,58,62,-4,0,0.14550094445849954,0.18071732247073352,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,341,3,2:39,159,159,Foul on Matthew Herasme.,58,62,-4,20,0.1260559413029535,0.15591491847893774,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,342,3,2:39,159,159,Matthew Herasme Turnover.,58,62,-4,0,0.1260559413029535,0.15591491847893774,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,343,3,1:56,116,116,George Papas missed Three Point Jumper.,58,62,-4,43,0.0831448511963512,0.10159790962674664,3,3,-3.9,NA,NA,Monmouth,missed,George Papas,NA,TRUE,FALSE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,344,3,1:52,112,112,Tyler Sagl Defensive Rebound.,58,62,-4,4,0.07906199758356318,0.09647518139634675,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,345,3,1:41,101,101,Matthew Herasme missed Three Point Jumper.,58,62,-4,11,0.06791119474026176,0.08252931662741517,3,3,-3.9,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,346,3,1:37,97,97,Ray Salnave Defensive Rebound.,58,62,-4,4,0.06391622241039925,0.07754965323765696,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,347,3,1:10,70,70,Samuel Chaput Turnover.,58,62,-4,27,0.04041036169309661,0.04840410409150649,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,348,3,1:01,61,61,Braden Bell missed Three Point Jumper.,58,62,-4,9,0.03396410919451963,0.040477501312871374,3,3,-3.9,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,349,3,0:58,58,58,Mustapha Traore Defensive Rebound.,58,62,-4,3,0.031987762328825546,0.03805480042659379,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,350,3,0:38,38,38,George Papas Turnover.,58,62,-4,20,0.020791708562732544,0.024420448785884754,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,351,3,0:38,38,38,Braden Bell Steal.,58,62,-4,0,0.020791708562732544,0.024420448785884754,3,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,352,3,0:32,32,32,Tyler Sagl made Three Point Jumper. Assisted by Michael Cubbage.,61,62,-1,6,0.2462613428192724,0.27711268597415656,3,3,-3.9,NA,NA,Marist,made,Tyler Sagl,Michael Cubbage,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,353,3,0:32,32,32,Marist  Timeout,61,62,-1,0,0.2462613428192724,0.27711268597415656,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,354,3,0:30,30,30,Foul on Michael Cubbage.,61,62,-1,2,0.2442375350305099,0.27460934143078103,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,355,3,0:30,30,30,Ray Salnave made Free Throw.,61,63,-2,0,0.10900484012793622,0.1253491564092463,2,3,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,356,3,0:30,30,30,Ray Salnave made Free Throw.,61,64,-3,0,0.04426410455623826,0.05146178846176498,2,3,-3.9,NA,NA,Monmouth,made,Ray Salnave,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,357,3,0:14,14,14,Tyler Sagl missed Three Point Jumper.,61,64,-3,16,0.033135229182661007,0.03811563608747347,2,3,-3.9,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,358,3,0:13,13,13,Melik Martin Defensive Rebound.,61,64,-3,1,0.0325034427522107,0.03736259821483322,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,359,3,0:13,13,13,Foul on Tobias Sjoberg.,61,64,-3,0,0.0325034427522107,0.03736259821483322,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,360,3,0:13,13,13,Melik Martin missed Free Throw.,61,64,-3,0,0.0325034427522107,0.03736259821483322,2,3,-3.9,NA,NA,Monmouth,missed,Melik Martin,NA,FALSE,TRUE,Monmouth,Monmouth
+401172029,2020-02-21,Marist,Monmouth,361,3,0:13,13,13,Monmouth Offensive Rebound.,61,64,-3,0,0.0325034427522107,0.03736259821483322,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Monmouth
+401172029,2020-02-21,Marist,Monmouth,362,3,0:13,13,13,Melik Martin made Free Throw.,61,65,-4,0,0.01124672262016448,0.012970672914026048,2,3,-3.9,NA,NA,Monmouth,made,Melik Martin,NA,FALSE,TRUE,Monmouth,Marist
+401172029,2020-02-21,Marist,Monmouth,363,3,0:00,0,0,Braden Bell missed Jumper.,61,65,-4,13,0,0,2,3,-3.9,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,364,3,0:00,0,0,Tobias Sjoberg Offensive Rebound.,61,65,-4,0,0,0,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172029,2020-02-21,Marist,Monmouth,365,3,0:00,0,0,End of 1st overtime,61,65,-4,0,0,0,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401172029,2020-02-21,Marist,Monmouth,366,3,0:00,0,0,End of Game,61,65,-4,0,0,0,2,3,-3.9,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
