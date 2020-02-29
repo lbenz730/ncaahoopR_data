@@ -1,0 +1,377 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172896,2020-02-26,Bucknell,Colgate,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.2699901906020214,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Colgate
+401172896,2020-02-26,Bucknell,Colgate,2,1,19:48,2388,2388,Jordan Burns missed Three Point Jumper.,0,0,0,12,0.2702252956270374,0.5,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,3,1,19:48,2388,2388,Bucknell Defensive Rebound.,0,0,0,0,0.2702252956270374,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,4,1,19:24,2364,2364,Avi Toomer missed Jumper.,0,0,0,24,0.27070612360884116,0.5,4,4,-6.2,NA,NA,Bucknell,missed,Avi Toomer,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,5,1,19:20,2360,2360,Will Rayman Defensive Rebound.,0,0,0,4,0.27078766522385767,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,6,1,19:02,2342,2342,Jordan Burns Turnover.,0,0,0,18,0.2711596763997793,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,7,1,19:02,2342,2342,Jimmy Sotos Steal.,0,0,0,0,0.2711596763997793,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,8,1,18:52,2332,2332,Avi Toomer Turnover.,0,0,0,10,0.27136999175607024,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,9,1,18:32,2312,2312,Rapolas Ivanauskas missed Layup.,0,0,0,20,0.2717986048027192,0.5,4,4,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,10,1,18:28,2308,2308,John Meeks Defensive Rebound.,0,0,0,4,0.271885624723073,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,11,1,18:21,2301,2301,Paul Newman missed Jumper.,0,0,0,7,0.2720389649064786,0.5,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,12,1,18:18,2298,2298,Jordan Burns Defensive Rebound.,0,0,0,3,0.2721050958982773,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,13,1,18:13,2293,2293,Will Rayman Turnover.,0,0,0,5,0.272215869639352,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,14,1,17:57,2277,2277,Ben Robertson Turnover.,0,0,0,16,0.27257506136777315,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,15,1,17:57,2277,2277,Jack Ferguson Steal.,0,0,0,0,0.27257506136777315,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,16,1,17:44,2264,2264,Foul on John Meeks.,0,0,0,13,0.27287227588736884,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,17,1,17:44,2264,2264,Rapolas Ivanauskas missed Free Throw.,0,0,0,0,0.27287227588736884,0.5,4,4,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,18,1,17:44,2264,2264,Colgate Deadball Team Rebound.,0,0,0,0,0.27287227588736884,0.5,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,19,1,17:44,2264,2264,Rapolas Ivanauskas made Free Throw.,0,1,-1,0,0.2545742458509629,0.47645126124796555,4,4,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,20,1,17:32,2252,2252,Foul on Jack Ferguson.,0,1,-1,12,0.2547369271119633,0.47631478586082104,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,21,1,17:32,2252,2252,Ben Robertson made Free Throw.,1,1,0,0,0.2731509790366823,0.5,4,4,-6.2,NA,NA,Bucknell,made,Ben Robertson,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,22,1,17:32,2252,2252,Ben Robertson made Free Throw.,2,1,1,0,0.29237392034811654,0.523685214139179,4,4,-6.2,NA,NA,Bucknell,made,Ben Robertson,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,23,1,17:16,2236,2236,Will Rayman Turnover.,2,1,1,16,0.2929198365188615,0.5238680596240756,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,24,1,17:16,2236,2236,Avi Toomer Steal.,2,1,1,0,0.2929198365188615,0.5238680596240756,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,25,1,17:10,2230,2230,Avi Toomer made Three Point Jumper.,5,1,4,6,0.3559964475742985,0.5946646408323303,4,4,-6.2,NA,NA,Bucknell,made,Avi Toomer,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,26,1,16:53,2213,2213,Rapolas Ivanauskas missed Jumper.,5,1,4,17,0.3571930699646665,0.5954204863854143,4,4,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,27,1,16:50,2210,2210,Walter Ellis Defensive Rebound.,5,1,4,3,0.35740578338977935,0.5955541806785867,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,28,1,16:34,2194,2194,Andrew Funk missed Jumper.,5,1,4,16,0.35854799258122333,0.5962685977478669,4,4,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,29,1,16:30,2190,2190,Jack Ferguson Defensive Rebound.,5,1,4,4,0.3588355660111885,0.5964475337031395,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,30,1,16:14,2174,2174,Will Rayman missed Jumper.,5,1,4,16,0.3599938494164413,0.5971644061169916,4,4,-6.2,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,FALSE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,31,1,16:14,2174,2174,Will Rayman Offensive Rebound.,5,1,4,0,0.3599938494164413,0.5971644061169916,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,32,1,16:13,2173,2173,Foul on Paul Newman.,5,1,4,1,0.3600666636286731,0.5972092644660071,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,33,1,15:55,2155,2155,Will Rayman Turnover.,5,1,4,18,0.3613862993143606,0.5980185168416168,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,34,1,15:55,2155,2155,Official TV Timeout,5,1,4,0,0.3613862993143606,0.5980185168416168,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,35,1,15:35,2135,2135,Kahliel Spear made Jumper.,7,1,6,20,0.4103726307969695,0.6459922567909542,4,4,-6.2,NA,NA,Bucknell,made,Kahliel Spear,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,36,1,15:21,2121,2121,Tucker Richardson missed Three Point Jumper.,7,1,6,14,0.4117966075308661,0.6469010468740616,4,4,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,37,1,15:17,2117,2117,Jimmy Sotos Defensive Rebound.,7,1,6,4,0.4122059030902112,0.6471614003291432,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,38,1,15:07,2107,2107,Walter Ellis missed Three Point Jumper.,7,1,6,10,0.41323394405031943,0.6478136993847357,4,4,-6.2,NA,NA,Bucknell,missed,Walter Ellis,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,39,1,15:04,2104,2104,Rapolas Ivanauskas Defensive Rebound.,7,1,6,3,0.41354370213169184,0.6480097928299587,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,40,1,14:50,2090,2090,Jordan Burns missed Jumper.,7,1,6,14,0.41499753087164587,0.6489274504674146,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,41,1,14:47,2087,2087,Avi Toomer Defensive Rebound.,7,1,6,3,0.415310854661955,0.6491246532797366,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,42,1,14:43,2083,2083,Jimmy Sotos Turnover.,7,1,6,4,0.4157296090963789,0.6493879071369723,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,43,1,14:43,2083,2083,Jordan Burns Steal.,7,1,6,0,0.4157296090963789,0.6493879071369723,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,44,1,14:33,2073,2073,Will Rayman missed Three Point Jumper.,7,1,6,10,0.4167814710121781,0.6500476590651177,4,4,-6.2,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,45,1,14:30,2070,2070,Jimmy Sotos Defensive Rebound.,7,1,6,3,0.41709842376501366,0.6502460444590433,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,46,1,14:14,2054,2054,Avi Toomer missed Layup.,7,1,6,16,0.4187998128878578,0.6513078070810332,4,4,-6.2,NA,NA,Bucknell,missed,Avi Toomer,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,47,1,14:11,2051,2051,Will Rayman Defensive Rebound.,7,1,6,3,0.4191208962619179,0.6515076000950657,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,48,1,14:01,2041,2041,Foul on Jimmy Sotos.,7,1,6,10,0.4201959475406651,0.6521752540350211,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,49,1,13:44,2024,2024,David Maynard missed Jumper.,7,1,6,17,0.4220405548964702,0.6533163770840418,4,4,-6.2,NA,NA,Colgate,missed,David Maynard,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,50,1,13:41,2021,2021,John Meeks Defensive Rebound.,7,1,6,3,0.4223683204428508,0.6535185752672347,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,51,1,13:35,2015,2015,John Meeks missed Three Point Jumper.,7,1,6,6,0.42302589040915495,0.6539237319495322,4,4,-6.2,NA,NA,Bucknell,missed,John Meeks,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,52,1,13:32,2012,2012,Rapolas Ivanauskas Defensive Rebound.,7,1,6,3,0.42335569873151013,0.6541266948484796,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,53,1,13:24,2004,2004,Foul on Xander Rice.,7,1,6,8,0.4242385409204458,0.654669202878599,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,54,1,13:17,1997,1997,Jordan Burns missed Three Point Jumper.,7,1,6,7,0.425015051682914,0.6551454425900199,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,55,1,13:14,1994,1994,Walter Ellis Defensive Rebound.,7,1,6,3,0.42534899816342153,0.6553499940717292,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,56,1,13:05,1985,1985,Andrew Funk Turnover.,7,1,6,9,0.4263550243582733,0.6559652915176754,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,57,1,13:05,1985,1985,Tucker Richardson Steal.,7,1,6,0,0.4263550243582733,0.6559652915176754,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,58,1,12:59,1979,1979,Tucker Richardson Turnover.,7,1,6,6,0.427029216842654,0.6563768806196062,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,59,1,12:36,1956,1956,Kahliel Spear missed Layup.,7,1,6,23,0.4296399248363537,0.657965282723045,4,4,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,60,1,12:36,1956,1956,Keegan Records Block.,7,1,6,0,0.4296399248363537,0.657965282723045,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,61,1,12:32,1952,1952,Kahliel Spear Offensive Rebound.,7,1,6,4,0.4300982624849358,0.6582432970252516,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,62,1,12:31,1951,1951,Kahliel Spear missed Layup.,7,1,6,1,0.43021304770282015,0.6583128844034215,4,4,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,63,1,12:31,1951,1951,Keegan Records Block.,7,1,6,0,0.43021304770282015,0.6583128844034215,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,64,1,12:26,1946,1946,Will Rayman Defensive Rebound.,7,1,6,5,0.43078818218247156,0.6586613280258267,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,65,1,12:25,1945,1945,Jordan Burns missed Layup.,7,1,6,1,0.43090345125384544,0.6587311186438692,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,66,1,12:25,1945,1945,Walter Ellis Block.,7,1,6,0,0.43090345125384544,0.6587311186438692,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,67,1,12:20,1940,1940,Andrew Funk Defensive Rebound.,7,1,6,5,0.43148101139244255,0.6590805854933653,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,68,1,12:19,1939,1939,Andrew Funk missed Layup.,7,1,6,1,0.4315967668729774,0.6591505821602417,4,4,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,69,1,12:12,1932,1932,Keegan Records Defensive Rebound.,7,1,6,7,0.43240933605881227,0.6596415323605215,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,70,1,12:02,1922,1922,Will Rayman made Layup.,7,3,4,10,0.3801558828148431,0.6090257144066328,4,4,-6.2,NA,NA,Colgate,made,Will Rayman,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,71,1,11:49,1909,1909,Andrew Funk missed Three Point Jumper.,7,3,4,13,0.381297129830173,0.6096706372735857,4,4,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,72,1,11:46,1906,1906,Will Rayman Defensive Rebound.,7,3,4,3,0.3815615234247637,0.6098192976982499,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,73,1,11:39,1899,1899,Bucknell Deadball Team Rebound.,7,3,4,7,0.3821799950946193,0.6101660066232518,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,74,1,11:38,1898,1898,Foul on Keegan Records.,7,3,4,1,0.38226852859961574,0.6102155219073936,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,75,1,11:38,1898,1898,Official TV Timeout,7,3,4,0,0.38226852859961574,0.6102155219073936,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,76,1,11:18,1878,1878,Foul on Keegan Records.,7,3,4,20,0.38404905743688267,0.6112056422928742,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,77,1,11:18,1878,1878,Paul Newman made Free Throw.,8,3,5,0,0.411128712927592,0.6377192408456538,4,4,-6.2,NA,NA,Bucknell,made,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,78,1,11:18,1878,1878,Paul Newman missed Free Throw.,8,3,5,0,0.411128712927592,0.6377192408456538,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,79,1,11:17,1877,1877,Will Rayman Defensive Rebound.,8,3,5,1,0.41123295979745084,0.6377794202723023,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,80,1,10:56,1856,1856,Foul on Will Rayman.,8,3,5,21,0.4134346749584762,0.6390443505328853,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,81,1,10:56,1856,1856,Will Rayman Turnover.,8,3,5,0,0.4134346749584762,0.6390443505328853,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,82,1,10:39,1839,1839,Avi Toomer made Three Point Jumper. Assisted by John Meeks.,11,3,8,17,0.5007605016605152,0.7152618875637983,4,4,-6.2,NA,NA,Bucknell,made,Avi Toomer,John Meeks,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,83,1,10:16,1816,1816,Foul on Xander Rice.,11,3,8,23,0.5042076592758827,0.7172359279394539,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,84,1,10:08,1808,1808,Tucker Richardson missed Jumper.,11,3,8,8,0.5054164242476787,0.7179253235341124,4,4,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,85,1,10:04,1804,1804,John Meeks Defensive Rebound.,11,3,8,4,0.5060228308662398,0.7182706924421071,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,86,1,9:56,1796,1796,Jimmy Sotos missed Three Point Jumper.,11,3,8,8,0.5072398478226119,0.7189629247665951,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,87,1,9:53,1793,1793,Jordan Burns Defensive Rebound.,11,3,8,3,0.5076977142339196,0.7192230646985899,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,88,1,9:50,1790,1790,Jordan Burns made Layup.,11,5,6,3,0.44946148399411656,0.6696109298538268,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,89,1,9:50,1790,1790,Foul on Avi Toomer.,11,5,6,0,0.44946148399411656,0.6696109298538268,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,90,1,9:50,1790,1790,Jordan Burns made Free Throw.,11,6,5,0,0.42053333115522085,0.6430641092398668,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,91,1,9:41,1781,1781,Jimmy Sotos missed Layup.,11,6,5,9,0.4215253643621235,0.6436212564494589,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,92,1,9:41,1781,1781,Rapolas Ivanauskas Block.,11,6,5,0,0.4215253643621235,0.6436212564494589,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,93,1,9:39,1779,1779,Paul Newman Offensive Rebound.,11,6,5,2,0.4217466781797532,0.6437454586300168,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,94,1,9:38,1778,1778,Foul on David Maynard.,11,6,5,1,0.4218574543100277,0.6438076152099191,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,95,1,9:38,1778,1778,Paul Newman missed Free Throw.,11,6,5,0,0.4218574543100277,0.6438076152099191,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,96,1,9:38,1778,1778,Bucknell Deadball Team Rebound.,11,6,5,0,0.4218574543100277,0.6438076152099191,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,97,1,9:38,1778,1778,Paul Newman missed Free Throw.,11,6,5,0,0.4218574543100277,0.6438076152099191,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,98,1,9:38,1778,1778,Rapolas Ivanauskas Defensive Rebound.,11,6,5,0,0.4218574543100277,0.6438076152099191,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,99,1,9:08,1748,1748,Will Rayman made Layup.,11,8,3,30,0.36785141228013885,0.5890626365227464,4,4,-6.2,NA,NA,Colgate,made,Will Rayman,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,100,1,8:46,1726,1726,Jimmy Sotos made Three Point Jumper. Assisted by Andrew Funk.,14,8,6,22,0.457642270279595,0.6742731911268376,4,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,Andrew Funk,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,101,1,8:21,1701,1701,Will Rayman made Layup. Assisted by David Maynard.,14,10,4,25,0.4008557708124517,0.620289477874783,4,4,-6.2,NA,NA,Colgate,made,Will Rayman,David Maynard,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,102,1,7:54,1674,1674,Ben Robertson missed Layup.,14,10,4,27,0.40361521824304775,0.6217665542235177,4,4,-6.2,NA,NA,Bucknell,missed,Ben Robertson,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,103,1,7:50,1670,1670,Rapolas Ivanauskas Defensive Rebound.,14,10,4,4,0.40402481286100256,0.621981511855127,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,104,1,7:46,1666,1666,Jack Ferguson Turnover.,14,10,4,4,0.4044345080079266,0.6221953117662065,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,105,1,7:46,1666,1666,Paul Newman Steal.,14,10,4,0,0.4044345080079266,0.6221953117662065,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,106,1,7:38,1658,1658,Ben Robertson made Three Point Jumper. Assisted by Jimmy Sotos.,17,10,7,8,0.497973258045391,0.70603297970098,4,4,-6.2,NA,NA,Bucknell,made,Ben Robertson,Jimmy Sotos,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,107,1,7:14,1634,1634,Rapolas Ivanauskas missed Three Point Jumper.,17,10,7,24,0.5015289226927742,0.7079664385206437,4,4,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,108,1,7:11,1631,1631,Paul Newman Defensive Rebound.,17,10,7,3,0.5019728118649674,0.7082051469490281,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,109,1,7:04,1624,1624,Foul on Rapolas Ivanauskas.,17,10,7,7,0.5030086466259521,0.7087602057337477,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,110,1,7:04,1624,1624,Official TV Timeout,17,10,7,0,0.5030086466259521,0.7087602057337477,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,111,1,7:04,1624,1624,Paul Newman made Free Throw.,18,10,8,0,0.5347159595824668,0.7342752949735284,4,4,-6.2,NA,NA,Bucknell,made,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,112,1,7:04,1624,1624,Paul Newman missed Free Throw.,18,10,8,0,0.5347159595824668,0.7342752949735284,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,113,1,7:03,1623,1623,Will Rayman Defensive Rebound.,18,10,8,1,0.5348768771561705,0.7343607397266407,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,114,1,6:51,1611,1611,Jack Ferguson missed Three Point Jumper.,18,10,8,12,0.5368084047837639,0.735382535534091,4,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,115,1,6:48,1608,1608,Xander Rice Defensive Rebound.,18,10,8,3,0.5372916435239689,0.7356371706031829,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,116,1,6:35,1595,1595,Walter Ellis made Three Point Jumper. Assisted by Avi Toomer.,21,10,11,13,0.6326936517442018,0.8045521345404562,4,4,-6.2,NA,NA,Bucknell,made,Walter Ellis,Avi Toomer,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,117,1,6:21,1581,1581,Will Rayman made Layup.,21,12,9,14,0.5735661328720244,0.7621687973348894,4,4,-6.2,NA,NA,Colgate,made,Will Rayman,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,118,1,6:05,1565,1565,Walter Ellis made Three Point Jumper. Assisted by Andrew Funk.,24,12,12,16,0.6678898666550874,0.8268370423832595,4,4,-6.2,NA,NA,Bucknell,made,Walter Ellis,Andrew Funk,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,119,1,6:05,1565,1565,Foul on Will Rayman.,24,12,12,0,0.6678898666550874,0.8268370423832595,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,120,1,6:05,1565,1565,Walter Ellis made Free Throw.,25,12,13,0,0.6961302989386815,0.8447043200560811,4,4,-6.2,NA,NA,Bucknell,made,Walter Ellis,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,121,1,5:55,1555,1555,Jordan Burns missed Jumper.,25,12,13,10,0.698116265414983,0.8456491998764866,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,122,1,5:51,1551,1551,Walter Ellis Defensive Rebound.,25,12,13,4,0.6989130259411643,0.8460282450778566,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,123,1,5:47,1547,1547,Walter Ellis missed Three Point Jumper.,25,12,13,4,0.6997113759284861,0.846408082505352,4,4,-6.2,NA,NA,Bucknell,missed,Walter Ellis,NA,TRUE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,124,1,5:45,1545,1545,Kahliel Spear Offensive Rebound.,25,12,13,2,0.7001111950666274,0.8465983328171296,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,125,1,5:43,1543,1543,Foul on David Maynard.,25,12,13,2,0.7005114691463185,0.8467888224779676,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,126,1,5:43,1543,1543,Kahliel Spear missed Free Throw.,25,12,13,0,0.7005114691463185,0.8467888224779676,4,4,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,127,1,5:42,1542,1542,Rapolas Ivanauskas Defensive Rebound.,25,12,13,1,0.7007117827438345,0.8468841613277309,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,128,1,5:28,1528,1528,Foul on Kahliel Spear.,25,12,13,14,0.7035299366917613,0.848226490215614,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,129,1,5:28,1528,1528,Jordan Burns made Free Throw.,25,13,12,0,0.6751997415728495,0.8303897933332834,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,130,1,5:28,1528,1528,Jordan Burns made Free Throw.,25,14,11,0,0.6455263757856613,0.8109241540199839,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,131,1,5:10,1510,1510,Foul on Ryan Moffatt.,25,14,11,18,0.6490760349864034,0.8126916963071834,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,132,1,5:10,1510,1510,Andrew Funk made Free Throw.,26,14,12,0,0.6788295526062591,0.83216001395358,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,133,1,5:10,1510,1510,Andrew Funk made Free Throw.,27,14,13,0,0.7071983798663166,0.8499783794343737,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,134,1,4:47,1487,1487,Jack Ferguson missed Layup.,27,14,13,23,0.7119791498633433,0.852273313614625,4,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,135,1,4:47,1487,1487,Walter Ellis Block.,27,14,13,0,0.7119791498633433,0.852273313614625,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,136,1,4:45,1485,1485,Walter Ellis Defensive Rebound.,27,14,13,2,0.7124005983586732,0.8524764135545801,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,137,1,4:45,1485,1485,Walter Ellis Turnover.,27,14,13,0,0.7124005983586732,0.8524764135545801,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,138,1,4:45,1485,1485,Rapolas Ivanauskas Steal.,27,14,13,0,0.7124005983586732,0.8524764135545801,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,139,1,4:44,1484,1484,Rapolas Ivanauskas made Dunk.,27,16,11,1,0.654325522197887,0.8153224132508079,4,4,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,140,1,4:44,1484,1484,Colgate  Timeout,27,16,11,0,0.654325522197887,0.8153224132508079,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,141,1,4:28,1468,1468,Jimmy Sotos missed Layup.,27,16,11,16,0.6576416856444731,0.8169976287623507,3,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,142,1,4:22,1462,1462,Kahliel Spear Offensive Rebound.,27,16,11,6,0.6589042115659443,0.8176385195099068,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,143,1,4:22,1462,1462,Kahliel Spear missed Layup.,27,16,11,0,0.6589042115659443,0.8176385195099068,3,4,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,144,1,4:22,1462,1462,Tucker Richardson Defensive Rebound.,27,16,11,0,0.6589042115659443,0.8176385195099068,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,145,1,4:13,1453,1453,Tucker Richardson missed Layup.,27,16,11,9,0.660818765401835,0.8186138632522958,3,4,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,146,1,4:10,1450,1450,Andrew Funk Defensive Rebound.,27,16,11,3,0.6614626957449495,0.8189428696756735,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,147,1,4:03,1443,1443,John Meeks made Layup. Assisted by Walter Ellis.,29,16,13,7,0.7214861361859555,0.8568893333717921,3,4,-6.2,NA,NA,Bucknell,made,John Meeks,Walter Ellis,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,148,1,3:51,1431,1431,Jordan Burns missed Layup.,29,16,13,12,0.7240684395001965,0.8581391378958336,3,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,149,1,3:48,1428,1428,John Meeks Defensive Rebound.,29,16,13,3,0.7247052151975895,0.8584456738325756,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,150,1,3:35,1415,1415,Avi Toomer missed Three Point Jumper.,29,16,13,13,0.7274289432737292,0.8597500177542803,3,4,-6.2,NA,NA,Bucknell,missed,Avi Toomer,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,151,1,3:32,1412,1412,Rapolas Ivanauskas Defensive Rebound.,29,16,13,3,0.7280500516938873,0.8600460037016923,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,152,1,3:25,1405,1405,Tucker Richardson Turnover.,29,16,13,7,0.7294898076047992,0.8607302207926419,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,153,1,3:25,1405,1405,Jimmy Sotos Steal.,29,16,13,0,0.7294898076047992,0.8607302207926419,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,154,1,3:16,1396,1396,Andrew Funk missed Layup.,29,16,13,9,0.7313236621399883,0.8615982279233223,3,4,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,155,1,3:13,1393,1393,Rapolas Ivanauskas Defensive Rebound.,29,16,13,3,0.7319311954526022,0.8618850087339917,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,156,1,3:00,1380,1380,Foul on Avi Toomer.,29,16,13,13,0.7345463861882573,0.8631157279594279,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,157,1,3:00,1380,1380,Official TV Timeout,29,16,13,0,0.7345463861882573,0.8631157279594279,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,158,1,3:00,1380,1380,Tucker Richardson made Free Throw.,29,17,12,0,0.7060270686530397,0.8455041436691502,3,4,-6.2,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,159,1,3:00,1380,1380,Tucker Richardson missed Free Throw.,29,17,12,0,0.7060270686530397,0.8455041436691502,3,4,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,160,1,3:00,1380,1380,Walter Ellis Defensive Rebound.,29,17,12,0,0.7060270686530397,0.8455041436691502,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,161,1,2:41,1361,1361,Avi Toomer made Three Point Jumper. Assisted by Andrew Funk.,32,17,15,19,0.789671751356765,0.8949315090089798,3,4,-6.2,NA,NA,Bucknell,made,Avi Toomer,Andrew Funk,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,162,1,2:25,1345,1345,Jordan Burns missed Jumper.,32,17,15,16,0.7927259291571002,0.8963094985823485,3,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,163,1,2:22,1342,1342,Avi Toomer Defensive Rebound.,32,17,15,3,0.793298196735675,0.8965676846137304,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,164,1,2:16,1336,1336,Avi Toomer Turnover.,32,17,15,6,0.7944433494766043,0.8970844721396112,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,165,1,2:16,1336,1336,Jordan Burns Steal.,32,17,15,0,0.7944433494766043,0.8970844721396112,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,166,1,2:11,1331,1331,Jordan Burns made Three Point Jumper. Assisted by Jack Ferguson.,32,20,12,5,0.7158150277984905,0.8501704290200949,3,4,-6.2,NA,NA,Colgate,made,Jordan Burns,Jack Ferguson,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,167,1,1:55,1315,1315,Foul on Jordan Burns.,32,20,12,16,0.7190462512829799,0.8517119287242929,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,168,1,1:55,1315,1315,Jimmy Sotos made Free Throw.,33,20,13,0,0.7475163942246242,0.8691843137385854,3,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,169,1,1:55,1315,1315,Jimmy Sotos made Free Throw.,34,20,14,0,0.7740082807058333,0.8848762471260868,3,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,170,1,1:47,1307,1307,Jordan Burns Turnover.,34,20,14,8,0.7756005486368499,0.8856104490193686,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,171,1,1:47,1307,1307,Walter Ellis Steal.,34,20,14,0,0.7756005486368499,0.8856104490193686,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,172,1,1:43,1303,1303,Walter Ellis made Dunk.,36,20,16,4,0.8231326845072167,0.9123941947432607,3,4,-6.2,NA,NA,Bucknell,made,Walter Ellis,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,173,1,1:27,1287,1287,Foul on Jimmy Sotos.,36,20,16,16,0.8261503898216132,0.9137484344420093,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,174,1,1:27,1287,1287,Jack Ferguson made Free Throw.,36,21,15,0,0.8039343828071032,0.9013903384267377,3,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,175,1,1:27,1287,1287,Jack Ferguson made Free Throw.,36,22,14,0,0.7796366708795188,0.8874796207339998,3,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,176,1,1:27,1287,1287,Jack Ferguson missed Free Throw.,36,22,14,0,0.7796366708795188,0.8874796207339998,3,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,177,1,1:24,1284,1284,David Maynard Offensive Rebound.,36,22,14,3,0.7802503026532567,0.8877649926499976,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,178,1,1:23,1283,1283,Jack Ferguson made Layup. Assisted by David Maynard.,36,24,12,1,0.7256654213319407,0.8548910188500912,3,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,David Maynard,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,179,1,1:05,1265,1265,Foul on Rapolas Ivanauskas.,36,24,12,18,0.7295198270541686,0.8567614428095012,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,180,1,1:05,1265,1265,John Meeks made Free Throw.,37,24,13,0,0.7579075532918189,0.8740994721460467,3,4,-6.2,NA,NA,Bucknell,made,John Meeks,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,181,1,1:05,1265,1265,John Meeks made Free Throw.,38,24,14,0,0.7841972447659812,0.8896092573101505,3,4,-6.2,NA,NA,Bucknell,made,John Meeks,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,182,1,0:50,1250,1250,Foul on Avi Toomer.,38,24,14,15,0.7873982356983003,0.8911170190715125,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,183,1,0:50,1250,1250,Jack Ferguson missed Free Throw.,38,24,14,0,0.7873982356983003,0.8911170190715125,3,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,184,1,0:50,1250,1250,Colgate Deadball Team Rebound.,38,24,14,0,0.7873982356983003,0.8911170190715125,3,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,185,1,0:50,1250,1250,Jack Ferguson made Free Throw.,38,25,13,0,0.7611793375124198,0.8756694277332469,3,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,186,1,0:25,1225,1225,Bucknell  Timeout,38,25,13,25,0.766843596734963,0.8784170285761305,3,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,187,1,0:21,1221,1221,Walter Ellis missed Three Point Jumper.,38,25,13,4,0.7677771116768246,0.8788735301530176,3,3,-6.2,NA,NA,Bucknell,missed,Walter Ellis,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,188,1,0:20,1220,1220,Tucker Richardson Defensive Rebound.,38,25,13,1,0.768011740071907,0.8789884300315439,3,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,189,1,0:19,1219,1219,Foul on Ben Robertson.,38,25,13,1,0.7682468741486527,0.8791036432660968,3,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,190,1,0:19,1219,1219,Tucker Richardson made Free Throw.,38,26,12,0,0.7399724610161447,0.8619232053950625,3,3,-6.2,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,191,1,0:19,1219,1219,Tucker Richardson made Free Throw.,38,27,11,0,0.7095526565829162,0.8427380318643491,3,3,-6.2,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,192,1,0:01,1201,1201,Andrew Funk missed Jumper.,38,27,11,18,0.7138820788711228,0.8449592546543762,3,3,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,193,1,0:00,1200,1200,Jimmy Sotos Offensive Rebound.,38,27,11,1,0.7141198545408118,0.8450810140183869,3,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,194,1,0:00,1200,1200,End of 1st half,38,27,11,0,0.7141198545408118,0.8450810140183869,3,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,NA
+401172896,2020-02-26,Bucknell,Colgate,195,2,20:00,1200,1200,PLAY,38,27,11,0,0.7141198545408118,0.8450810140183869,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,196,2,19:44,1184,1184,Foul on Jordan Burns.,38,27,11,16,0.7178581792474567,0.8469886460839561,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,197,2,19:32,1172,1172,Paul Newman missed Layup.,38,27,11,12,0.7205914343572167,0.848376309237146,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,198,2,19:28,1168,1168,Paul Newman Offensive Rebound.,38,27,11,4,0.7214914004679319,0.8488321012816659,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,199,2,19:27,1167,1167,Paul Newman missed Layup.,38,27,11,1,0.7217156176380426,0.8489455795481146,4,4,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,200,2,19:24,1164,1164,Jack Ferguson Defensive Rebound.,38,27,11,3,0.7223865162122949,0.8492849523079835,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,201,2,19:14,1154,1154,Will Rayman made Three Point Jumper. Assisted by Jordan Burns.,38,30,8,10,0.6209264052824812,0.7796874655431166,4,4,-6.2,NA,NA,Colgate,made,Will Rayman,Jordan Burns,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,202,2,18:58,1138,1138,Jimmy Sotos made Three Point Jumper. Assisted by Paul Newman.,41,30,11,16,0.7281152962736815,0.852174539339514,4,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,Paul Newman,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,203,2,18:38,1118,1118,Jordan Burns Turnover.,41,30,11,20,0.732465118567654,0.8543634668981496,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,204,2,18:38,1118,1118,Avi Toomer Steal.,41,30,11,0,0.732465118567654,0.8543634668981496,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,205,2,18:32,1112,1112,Avi Toomer made Dunk.,43,30,13,6,0.7919087538264004,0.89062740511828,4,4,-6.2,NA,NA,Bucknell,made,Avi Toomer,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,206,2,18:13,1093,1093,Tucker Richardson Turnover.,43,30,13,19,0.7959021996443905,0.8925631783645688,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,207,2,18:11,1091,1091,Technical Foul on Colgate.,43,30,13,2,0.7963242014188102,0.892768026468347,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,208,2,18:11,1091,1091,Andrew Funk made Free Throw.,44,30,14,0,0.8214940039649752,0.9074053481202793,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,209,2,18:11,1091,1091,Andrew Funk made Free Throw.,45,30,15,0,0.8441620784175552,0.9202231944825493,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,210,2,18:02,1082,1082,Jimmy Sotos missed Three Point Jumper.,45,30,15,9,0.8459015976511833,0.9210417122664275,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,TRUE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,211,2,18:00,1080,1080,Avi Toomer Offensive Rebound.,45,30,15,2,0.846289268654408,0.9212243317594034,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,212,2,17:49,1069,1069,Kahliel Spear made Jumper. Assisted by Jimmy Sotos.,47,30,17,11,0.8861592515034032,0.9428297952042493,4,4,-6.2,NA,NA,Bucknell,made,Kahliel Spear,Jimmy Sotos,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,213,2,17:33,1053,1053,Jordan Burns made Three Point Jumper. Assisted by Tucker Richardson.,47,33,14,16,0.8293196211417467,0.9111561660539579,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,Tucker Richardson,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,214,2,17:16,1036,1036,John Meeks Turnover.,47,33,14,17,0.8329338293587376,0.912901042552183,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,215,2,17:16,1036,1036,Jack Ferguson Steal.,47,33,14,0,0.8329338293587376,0.912901042552183,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,216,2,17:12,1032,1032,Jack Ferguson made Layup.,47,35,12,4,0.7818327320238324,0.8827205713365021,4,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,217,2,16:53,1013,1013,Andrew Funk made Layup.,49,35,14,19,0.8379851717679875,0.9153549701815749,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,218,2,16:37,997,997,Jordan Burns made Layup.,49,37,12,16,0.7903382756300167,0.88701690680533,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,219,2,16:24,984,984,Foul on Jack Ferguson.,49,37,12,13,0.7936698476656558,0.8887131826383611,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,220,2,16:24,984,984,Andrew Funk made Free Throw.,50,37,13,0,0.8205868700141624,0.9047197252155952,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,221,2,16:24,984,984,Andrew Funk made Free Throw.,51,37,14,0,0.8446795981524459,0.9186348033288989,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,222,2,16:18,978,978,Jordan Burns missed Three Point Jumper.,51,37,14,6,0.8461159592101198,0.9193425056476208,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,223,2,16:14,974,974,Jimmy Sotos Defensive Rebound.,51,37,14,4,0.8470839509990915,0.9198202003831769,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,224,2,16:08,968,968,Jimmy Sotos missed Layup.,51,37,14,6,0.8485474293056827,0.9205433844323438,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,225,2,16:04,964,964,Jack Ferguson Defensive Rebound.,51,37,14,4,0.8495015572597031,0.9210144196664997,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,226,2,15:58,958,958,Jordan Burns made Layup.,51,39,12,6,0.8004855795900612,0.8921979261062103,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,227,2,15:36,936,936,John Meeks missed Three Point Jumper.,51,39,12,22,0.8056405897782906,0.8948137480382486,4,4,-6.2,NA,NA,Bucknell,missed,John Meeks,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,228,2,15:34,934,934,Jordan Burns Defensive Rebound.,51,39,12,2,0.8060798961242421,0.8950356230537214,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,229,2,15:26,926,926,Foul on Paul Newman.,51,39,12,8,0.8077963531184393,0.8959011109011917,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,230,2,15:26,926,926,Official TV Timeout,51,39,12,0,0.8077963531184393,0.8959011109011917,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,231,2,15:24,924,924,Rapolas Ivanauskas made Dunk.,51,41,10,2,0.7463678647346671,0.857616165723342,4,4,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,232,2,15:24,924,924,Foul on Jimmy Sotos.,51,41,10,0,0.7463678647346671,0.857616165723342,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,233,2,15:24,924,924,Rapolas Ivanauskas made Free Throw.,51,42,9,0,0.7109023682239229,0.8342520278552296,4,4,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,234,2,15:07,907,907,Paul Newman made Layup.,53,42,11,17,0.7823968633440327,0.8799900860791332,4,4,-6.2,NA,NA,Bucknell,made,Paul Newman,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,235,2,14:50,890,890,Tucker Richardson made Three Point Jumper. Assisted by Jordan Burns.,53,45,8,17,0.6795894765843272,0.8116825412187824,4,4,-6.2,NA,NA,Colgate,made,Tucker Richardson,Jordan Burns,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,236,2,14:39,879,879,Andrew Funk missed Jumper.,53,45,8,11,0.6817503604075547,0.812852701363141,4,4,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,237,2,14:39,879,879,Bucknell Deadball Team Rebound.,53,45,8,0,0.6817503604075547,0.812852701363141,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,238,2,14:39,879,879,Foul on Paul Newman.,53,45,8,0,0.6817503604075547,0.812852701363141,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,239,2,14:39,879,879,Paul Newman Turnover.,53,45,8,0,0.6817503604075547,0.812852701363141,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,240,2,14:38,878,878,Technical Foul on Walter Ellis.,53,45,8,1,0.6819462625968322,0.8129587977334339,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,241,2,14:38,878,878,Jordan Burns made Free Throw.,53,46,7,0,0.6408514447817095,0.7834155221294044,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,242,2,14:38,878,878,Jordan Burns made Free Throw.,53,47,6,0,0.5975801886011806,0.7506372085865335,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,243,2,14:23,863,863,Will Rayman Turnover.,53,47,6,15,0.6002171385097489,0.7521129282776761,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,244,2,14:12,852,852,John Meeks missed Three Point Jumper.,53,47,6,11,0.6021783336806434,0.7532143774635881,4,4,-6.2,NA,NA,Bucknell,missed,John Meeks,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,245,2,14:09,849,849,Tucker Richardson Defensive Rebound.,53,47,6,3,0.6027199786052092,0.7535193906375872,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,246,2,14:06,846,846,Jordan Burns made Layup. Assisted by Tucker Richardson.,53,49,4,3,0.511509573388123,0.6783250329382781,4,4,-6.2,NA,NA,Colgate,made,Jordan Burns,Tucker Richardson,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,247,2,13:47,827,827,Avi Toomer missed Jumper.,53,49,4,19,0.5143229150444766,0.6799096063003286,4,4,-6.2,NA,NA,Bucknell,missed,Avi Toomer,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,248,2,13:45,825,825,Will Rayman Defensive Rebound.,53,49,4,2,0.5146290668327601,0.6800834464153473,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,249,2,13:45,825,825,Foul on Paul Newman.,53,49,4,0,0.5146290668327601,0.6800834464153473,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,250,2,13:38,818,818,Foul on Kahliel Spear.,53,49,4,7,0.5157186083523142,0.6807044601408272,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,251,2,13:26,806,806,Tucker Richardson missed Layup.,53,49,4,12,0.5176596895246672,0.6818199715272786,4,4,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,252,2,13:23,803,803,John Meeks Defensive Rebound.,53,49,4,3,0.5181611023599763,0.6821100124794419,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,253,2,13:18,798,798,Jimmy Sotos missed Jumper.,53,49,4,5,0.5190124920949951,0.6826042316297968,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,254,2,13:15,795,795,Rapolas Ivanauskas Defensive Rebound.,53,49,4,3,0.5195331927708144,0.6829075473663458,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,255,2,13:02,782,782,Foul on Kahliel Spear.,53,49,4,13,0.5218824398420353,0.6842855423465252,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,256,2,13:02,782,782,Jordan Burns missed Free Throw.,53,49,4,0,0.5218824398420353,0.6842855423465252,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,257,2,13:02,782,782,Colgate Deadball Team Rebound.,53,49,4,0,0.5218824398420353,0.6842855423465252,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,258,2,13:02,782,782,Jordan Burns missed Free Throw.,53,49,4,0,0.5218824398420353,0.6842855423465252,4,4,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,259,2,13:01,781,781,Kahliel Spear Defensive Rebound.,53,49,4,1,0.5220698031804504,0.684396086141749,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,260,2,12:51,771,771,Avi Toomer Turnover.,53,49,4,10,0.5240001369100185,0.6855401073430151,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,261,2,12:51,771,771,Tucker Richardson Steal.,53,49,4,0,0.5240001369100185,0.6855401073430151,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,262,2,12:47,767,767,Foul on Avi Toomer.,53,49,4,4,0.5248025433327891,0.6860182661192769,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,263,2,12:47,767,767,Tucker Richardson made Free Throw.,53,50,3,0,0.47599329984417366,0.6424875108209916,4,4,-6.2,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,264,2,12:47,767,767,Tucker Richardson made Free Throw.,53,51,2,0,0.42763838226849027,0.5964715906815069,4,4,-6.2,NA,NA,Colgate,made,Tucker Richardson,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,265,2,12:37,757,757,Andrew Funk Turnover.,53,51,2,10,0.428976788481972,0.5971707589605687,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,266,2,12:37,757,757,Jordan Burns Steal.,53,51,2,0,0.428976788481972,0.5971707589605687,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,267,2,12:33,753,753,Jordan Burns Turnover.,53,51,2,4,0.4295327290744333,0.5974636545064567,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,268,2,12:33,753,753,Walter Ellis Steal.,53,51,2,0,0.4295327290744333,0.5974636545064567,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,269,2,12:17,737,737,Walter Ellis missed Three Point Jumper.,53,51,2,16,0.4318841101465651,0.5987168616020814,4,4,-6.2,NA,NA,Bucknell,missed,Walter Ellis,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,270,2,12:14,734,734,Keegan Records Defensive Rebound.,53,51,2,3,0.4323490999488664,0.5989671984033637,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,271,2,12:02,722,722,Foul on Tucker Richardson.,53,51,2,12,0.43423372975621444,0.5999801950494589,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,272,2,12:02,722,722,Tucker Richardson Turnover.,53,51,2,0,0.43423372975621444,0.5999801950494589,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,273,2,11:47,707,707,Jimmy Sotos missed Jumper.,53,51,2,15,0.4364522765177102,0.6011375292230005,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,274,2,11:44,704,704,Jimmy Sotos Offensive Rebound.,53,51,2,3,0.43687907487802996,0.6013556401118323,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,275,2,11:32,692,692,Jimmy Sotos made Layup.,55,51,4,12,0.5417855620378769,0.6961906701445562,4,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,276,2,11:25,685,685,Will Rayman Turnover.,55,51,4,7,0.5432229478172276,0.6970164528452436,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,277,2,11:19,679,679,Official TV Timeout,55,51,4,6,0.5444350122795959,0.6977082640110623,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,278,2,11:06,666,666,Jimmy Sotos Turnover.,55,51,4,13,0.5470250852515505,0.6991766143992962,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,279,2,11:06,666,666,Will Rayman Steal.,55,51,4,0,0.5470250852515505,0.6991766143992962,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,280,2,10:53,653,653,Jack Ferguson missed Layup.,55,51,4,13,0.5496114990932713,0.7006366992943975,4,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,281,2,10:53,653,653,Kahliel Spear Block.,55,51,4,0,0.5496114990932713,0.7006366992943975,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,282,2,10:48,648,648,Jimmy Sotos Defensive Rebound.,55,51,4,5,0.550617053634255,0.7012046614371327,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,283,2,10:46,646,646,Walter Ellis made Three Point Jumper. Assisted by Jimmy Sotos.,58,51,7,2,0.6996017454494812,0.8167879231135652,4,4,-6.2,NA,NA,Bucknell,made,Walter Ellis,Jimmy Sotos,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,284,2,10:21,621,621,Keegan Records made Dunk. Assisted by Tucker Richardson.,58,53,5,25,0.6090593631792552,0.7475770476337086,4,4,-6.2,NA,NA,Colgate,made,Keegan Records,Tucker Richardson,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,285,2,9:59,599,599,Foul on Keegan Records.,58,53,5,22,0.6149538044544118,0.7510195414563527,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,286,2,9:59,599,599,Jimmy Sotos missed Free Throw.,58,53,5,0,0.6149538044544118,0.7510195414563527,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,287,2,9:59,599,599,Bucknell Deadball Team Rebound.,58,53,5,0,0.6149538044544118,0.7510195414563527,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,288,2,9:59,599,599,Jimmy Sotos made Free Throw.,59,53,6,0,0.6657433859591075,0.7899905925348454,4,4,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,289,2,9:40,580,580,Jack Ferguson made Three Point Jumper. Assisted by Will Rayman.,59,56,3,19,0.5109322657588308,0.6623078016009007,4,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,Will Rayman,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,290,2,9:16,556,556,Andrew Funk made Jumper.,61,56,5,24,0.6293650537044378,0.7597053751177723,4,4,-6.2,NA,NA,Bucknell,made,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,291,2,9:02,542,542,Foul on Kahliel Spear.,61,56,5,14,0.6349168000791008,0.763104970981197,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,292,2,9:02,542,542,Jack Ferguson missed Free Throw.,61,56,5,0,0.6349168000791008,0.763104970981197,4,4,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,293,2,9:02,542,542,Colgate Deadball Team Rebound.,61,56,5,0,0.6349168000791008,0.763104970981197,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,294,2,9:02,542,542,Jack Ferguson made Free Throw.,61,57,4,0,0.579181189097765,0.7182551060632127,4,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,295,2,9:02,542,542,Jack Ferguson made Free Throw.,61,58,3,0,0.5213513340578597,0.6686015983435175,4,4,-6.2,NA,NA,Colgate,made,Jack Ferguson,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,296,2,8:52,532,532,Jimmy Sotos missed Layup.,61,58,3,10,0.5240347287624953,0.6701901811621449,4,4,-6.2,NA,NA,Bucknell,missed,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,297,2,8:48,528,528,Rapolas Ivanauskas Defensive Rebound.,61,58,3,4,0.5250538745538836,0.670782466170028,4,4,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,298,2,8:39,519,519,Rapolas Ivanauskas made Layup. Assisted by Jordan Burns.,61,60,1,9,0.40874769289274004,0.559505431827126,4,4,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,Jordan Burns,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,299,2,8:36,516,516,Bucknell  Timeout,61,60,1,3,0.4091465371758823,0.559657045693742,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,300,2,8:19,499,499,Foul on David Maynard.,61,60,1,17,0.4113870401019512,0.5604953301005607,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,301,2,8:13,493,493,Jimmy Sotos Turnover.,61,60,1,6,0.4121867081765683,0.560794264227506,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,302,2,8:00,480,480,Jordan Burns missed Jumper.,61,60,1,13,0.41397720703978336,0.5614760098695519,4,3,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,303,2,8:00,480,480,Jimmy Sotos Block.,61,60,1,0,0.41397720703978336,0.5614760098695519,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,304,2,7:57,477,477,Rapolas Ivanauskas Offensive Rebound.,61,60,1,3,0.41440664896686824,0.5616433422024516,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,305,2,7:56,476,476,Foul on John Meeks.,61,60,1,1,0.4145514732177682,0.5617001715584525,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,306,2,7:56,476,476,Official TV Timeout,61,60,1,0,0.4145514732177682,0.5617001715584525,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,307,2,7:56,476,476,Rapolas Ivanauskas missed Free Throw.,61,60,1,0,0.4145514732177682,0.5617001715584525,4,3,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,308,2,7:56,476,476,Colgate Deadball Team Rebound.,61,60,1,0,0.4145514732177682,0.5617001715584525,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,309,2,7:56,476,476,Rapolas Ivanauskas made Free Throw.,61,61,0,0,0.3558903938435441,0.5,4,3,-6.2,NA,NA,Colgate,made,Rapolas Ivanauskas,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,310,2,7:33,453,453,Avi Toomer missed Jumper.,61,61,0,23,0.3579233302568532,0.5,4,3,-6.2,NA,NA,Bucknell,missed,Avi Toomer,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,311,2,7:29,449,449,Will Rayman Defensive Rebound.,61,61,0,4,0.3583016834080659,0.5,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,312,2,7:18,438,438,Foul on Avi Toomer.,61,61,0,11,0.3593894195544517,0.5,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,313,2,7:18,438,438,Will Rayman made Free Throw.,61,62,-1,0,0.3021139389246159,0.43555142553783605,4,3,-6.2,NA,NA,Colgate,made,Will Rayman,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,314,2,7:18,438,438,Will Rayman missed Free Throw.,61,62,-1,0,0.3021139389246159,0.43555142553783605,4,3,-6.2,NA,NA,Colgate,missed,Will Rayman,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,315,2,7:17,437,437,Walter Ellis Defensive Rebound.,61,62,-1,1,0.30212831198859874,0.43545862184367645,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,316,2,6:55,415,415,Andrew Funk missed Three Point Jumper.,61,62,-1,22,0.3024747183025413,0.43330522935480204,4,3,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,317,2,6:51,411,411,Will Rayman Defensive Rebound.,61,62,-1,4,0.30257572557043316,0.43293516970287016,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,318,2,6:38,398,398,Jordan Burns made Layup.,61,64,-3,13,0.2006061779789299,0.3049211090243916,4,3,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,319,2,6:21,381,381,Andrew Funk Turnover.,61,64,-3,17,0.19906889927486413,0.3009686447315536,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,320,2,6:21,381,381,Jordan Burns Steal.,61,64,-3,0,0.19906889927486413,0.3009686447315536,4,3,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,321,2,6:17,377,377,Jordan Burns made Layup.,61,66,-5,4,0.1235443920099859,0.1959090705217218,4,3,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,322,2,6:15,375,375,Bucknell  Timeout,61,66,-5,2,0.1232488833872388,0.1953037739423814,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,323,2,5:35,335,335,Tucker Richardson missed Three Point Jumper.,63,66,-3,40,0.1935844039418645,0.288142980180963,4,2,-6.2,NA,NA,Colgate,missed,Tucker Richardson,NA,TRUE,FALSE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,324,2,5:32,332,332,Will Rayman Offensive Rebound.,63,66,-3,3,0.19308497343583794,0.28710270017405437,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,325,2,5:30,330,330,Jack Ferguson made Three Point Jumper. Assisted by Will Rayman.,63,69,-6,2,0.0874407400062433,0.13872041432641294,4,2,-6.2,NA,NA,Colgate,made,Jack Ferguson,Will Rayman,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,326,2,5:18,318,318,Andrew Funk Turnover.,63,69,-6,12,0.0844817586286089,0.13339178783576827,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,327,2,5:18,318,318,Tucker Richardson Steal.,63,69,-6,0,0.0844817586286089,0.13339178783576827,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,328,2,5:05,305,305,Rapolas Ivanauskas missed Three Point Jumper.,63,69,-6,13,0.08110291611071585,0.12737986063183776,4,2,-6.2,NA,NA,Colgate,missed,Rapolas Ivanauskas,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,329,2,5:01,301,301,Walter Ellis Defensive Rebound.,63,69,-6,4,0.08048227539210377,0.12616515500891465,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,330,2,4:57,297,297,Jimmy Sotos made Layup.,65,69,-4,4,0.14268789699671067,0.2149682686224939,4,2,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,331,2,4:38,278,278,Jordan Burns missed Three Point Jumper.,65,69,-4,19,0.14420271924132627,0.2149716943954634,4,2,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,332,2,4:35,275,275,John Meeks Defensive Rebound.,65,69,-4,3,0.14476089347684448,0.21540525859731047,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,333,2,4:24,264,264,Foul on Jordan Burns.,65,69,-4,11,0.1471898049017976,0.2174888219319857,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,334,2,4:24,264,264,Paul Newman made Free Throw.,66,69,-3,0,0.19205318777457303,0.2768240267869454,4,2,-6.2,NA,NA,Bucknell,made,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,335,2,4:24,264,264,Paul Newman missed Free Throw.,66,69,-3,0,0.19205318777457303,0.2768240267869454,4,2,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,336,2,4:23,263,263,Jack Ferguson Defensive Rebound.,66,69,-3,1,0.19229892968165221,0.27700881454687104,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,337,2,4:06,246,246,Will Rayman Turnover.,66,69,-3,17,0.19624777153845555,0.2797786651295479,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,338,2,4:06,246,246,Jimmy Sotos Steal.,66,69,-3,0,0.19624777153845555,0.2797786651295479,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,339,2,4:01,241,241,Foul on Tucker Richardson.,66,69,-3,5,0.19714443701617118,0.28022431869195974,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,340,2,4:01,241,241,Jimmy Sotos made Free Throw.,67,69,-2,0,0.25165811609049155,0.34776012390550853,4,2,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,341,2,4:01,241,241,Jimmy Sotos made Free Throw.,68,69,-1,0,0.31532536625589686,0.4220289835706846,4,2,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,342,2,3:43,223,223,Jordan Burns missed Layup.,68,69,-1,18,0.3176590709720535,0.4214935160850349,4,2,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,343,2,3:38,218,218,Jack Ferguson Offensive Rebound.,68,69,-1,5,0.31794658811919235,0.4208963804426877,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,344,2,3:36,216,216,Jack Ferguson missed Three Point Jumper.,68,69,-1,2,0.3180065396786926,0.42058996524000064,4,2,-6.2,NA,NA,Colgate,missed,Jack Ferguson,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,345,2,3:28,208,208,Andrew Funk Defensive Rebound.,68,69,-1,8,0.3178938930519349,0.41893415425786323,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,346,2,3:14,194,194,John Meeks missed Three Point Jumper.,68,69,-1,14,0.31611071040894034,0.41411242615990235,4,2,-6.2,NA,NA,Bucknell,missed,John Meeks,NA,TRUE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,347,2,3:11,191,191,Jordan Burns Defensive Rebound.,68,69,-1,3,0.31542740088015364,0.41271517560359106,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,348,2,2:50,170,170,Will Rayman missed Three Point Jumper.,68,69,-1,21,0.3098879040990961,0.4019646058359616,4,2,-6.2,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,349,2,2:47,167,167,Walter Ellis Defensive Rebound.,68,69,-1,3,0.30905337565989466,0.4003678026005018,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,350,2,2:22,142,142,Andrew Funk missed Jumper.,68,69,-1,25,0.3011206038857036,0.3858209532637846,4,2,-6.2,NA,NA,Bucknell,missed,Andrew Funk,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,351,2,2:18,138,138,Tucker Richardson Defensive Rebound.,68,69,-1,4,0.2996300191823592,0.3832193132798142,4,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,352,2,2:14,134,134,Colgate  Timeout,68,69,-1,4,0.29806208997224215,0.3805231713569795,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,353,2,1:56,116,116,Will Rayman missed Three Point Jumper.,68,69,-1,18,0.2899005507420195,0.36704875917435176,3,2,-6.2,NA,NA,Colgate,missed,Will Rayman,NA,TRUE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,354,2,1:55,115,115,Bucknell Defensive Rebound.,68,69,-1,1,0.28938804906994353,0.3662288278939948,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,355,2,1:38,98,98,Foul on Jordan Burns.,68,69,-1,17,0.27958535567147835,0.35098075328084766,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,356,2,1:38,98,98,Kahliel Spear missed Free Throw.,68,69,-1,0,0.27958535567147835,0.35098075328084766,3,2,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,357,2,1:38,98,98,Bucknell Deadball Team Rebound.,68,69,-1,0,0.27958535567147835,0.35098075328084766,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,358,2,1:38,98,98,Kahliel Spear missed Free Throw.,68,69,-1,0,0.27958535567147835,0.35098075328084766,3,2,-6.2,NA,NA,Bucknell,missed,Kahliel Spear,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,359,2,1:37,97,97,Will Rayman Defensive Rebound.,68,69,-1,1,0.27894075114082334,0.35000237180218535,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,360,2,1:18,78,78,Jordan Burns missed Jumper.,68,69,-1,19,0.26607609099681023,0.330670378631369,3,2,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,361,2,1:15,75,75,Jimmy Sotos Defensive Rebound.,68,69,-1,3,0.26392233626244327,0.3274709547528169,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,362,2,0:53,53,53,Jimmy Sotos made Jumper.,70,69,1,22,0.6352356288106468,0.6973757511737224,3,2,-6.2,NA,NA,Bucknell,made,Jimmy Sotos,NA,FALSE,FALSE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,363,2,0:35,35,35,Foul on Kahliel Spear.,70,69,1,18,0.6642661655671364,0.7191470165738743,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,364,2,0:35,35,35,Jordan Burns made Free Throw.,70,70,0,0,0.4358873236315987,0.5,3,2,-6.2,NA,NA,Colgate,made,Jordan Burns,NA,FALSE,TRUE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,365,2,0:35,35,35,Jordan Burns missed Free Throw.,70,70,0,0,0.4358873236315987,0.5,3,2,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,TRUE,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,366,2,0:35,35,35,John Meeks Defensive Rebound.,70,70,0,0,0.4358873236315987,0.5,3,2,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,367,2,0:29,29,29,Bucknell  Timeout,70,70,0,6,0.4377587098793961,0.5,3,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,368,2,0:07,7,7,Foul on Will Rayman.,70,70,0,22,0.44485404911476834,0.5,3,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,369,2,0:07,7,7,Paul Newman made Free Throw.,71,70,1,0,0.7117300544567827,0.7549679269988582,3,1,-6.2,NA,NA,Bucknell,made,Paul Newman,NA,FALSE,TRUE,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,370,2,0:07,7,7,Colgate  Timeout,71,70,1,0,0.7117300544567827,0.7549679269988582,2,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Bucknell
+401172896,2020-02-26,Bucknell,Colgate,371,2,0:07,7,7,Paul Newman missed Free Throw.,71,70,1,0,0.7117300544567827,0.7549679269988582,2,1,-6.2,NA,NA,Bucknell,missed,Paul Newman,NA,FALSE,TRUE,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,372,2,0:06,6,6,Will Rayman Defensive Rebound.,71,70,1,1,0.7134736213336964,0.7562915917287648,2,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Bucknell,Colgate
+401172896,2020-02-26,Bucknell,Colgate,373,2,0:00,0,0,Jordan Burns missed Jumper.,71,70,1,6,1,1,2,1,-6.2,NA,NA,Colgate,missed,Jordan Burns,NA,FALSE,FALSE,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,374,2,0:00,0,0,Colgate Deadball Team Rebound.,71,70,1,0,1,1,2,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,Colgate
+401172896,2020-02-26,Bucknell,Colgate,375,2,0:00,0,0,End of 2nd half,71,70,1,0,1,1,2,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,NA
+401172896,2020-02-26,Bucknell,Colgate,376,2,0:00,0,0,End of Game,71,70,1,0,1,1,2,1,-6.2,NA,NA,NA,NA,NA,NA,NA,NA,Colgate,NA

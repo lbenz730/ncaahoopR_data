@@ -1,0 +1,317 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172291,2020-02-28,Columbia,Harvard,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.19094534943177324,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401172291,2020-02-28,Columbia,Harvard,2,1,19:30,2370,2370,Justin Bassey made Three Point Jumper. Assisted by Noah Kirkwood.,0,3,-3,30,0.15339926258737585,0.4332310607745658,4,4,-9,NA,NA,Harvard,made,Justin Bassey,Noah Kirkwood,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,3,1,18:58,2338,2338,Mike Smith missed Jumper.,0,3,-3,32,0.1534857055363658,0.4322057062255591,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,4,1,18:55,2335,2335,Ike Nweke Offensive Rebound.,0,3,-3,3,0.15349452697409133,0.43210860221201436,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,5,1,18:47,2327,2327,Ike Nweke made Jumper. Assisted by Jake Killingsworth.,2,3,-1,8,0.17881579122417401,0.47715660594276005,4,4,-9,NA,NA,Columbia,made,Ike Nweke,Jake Killingsworth,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,6,1,18:39,2319,2319,Noah Kirkwood missed Three Point Jumper.,2,3,-1,8,0.1789483022330798,0.477068206216988,4,4,-9,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,7,1,18:36,2316,2316,Jake Killingsworth Defensive Rebound.,2,3,-1,3,0.1789984171342454,0.47703496119500294,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,8,1,18:21,2301,2301,Mike Smith made Three Point Jumper. Assisted by Ike Nweke.,5,3,2,15,0.22380346004738155,0.5461652125929003,4,4,-9,NA,NA,Columbia,made,Mike Smith,Ike Nweke,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,9,1,18:06,2286,2286,Justin Bassey Turnover.,5,3,2,15,0.22446241200348765,0.5464993514705677,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,10,1,17:50,2270,2270,Jake Killingsworth missed Three Point Jumper.,5,3,2,16,0.225177073567642,0.5468581179367272,4,4,-9,NA,NA,Columbia,missed,Jake Killingsworth,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,11,1,17:47,2267,2267,Justin Bassey Defensive Rebound.,5,3,2,3,0.22531243375876855,0.546925639914279,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,12,1,17:26,2246,2246,Robert Baker missed Three Point Jumper.,5,3,2,21,0.2262720689342129,0.5474003565203939,4,4,-9,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,13,1,17:22,2242,2242,Ike Nweke Defensive Rebound.,5,3,2,4,0.22645727111215486,0.5474911634847673,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,14,1,17:17,2237,2237,Mike Smith missed Three Point Jumper.,5,3,2,5,0.22668986570197955,0.5476048335078287,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,15,1,17:13,2233,2233,Noah Kirkwood Defensive Rebound.,5,3,2,4,0.22687681672795273,0.5476958944832517,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,16,1,17:09,2229,2229,Foul on Mike Smith.,5,3,2,4,0.22706454750537464,0.547787062890142,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,17,1,17:09,2229,2229,Robert Baker missed Free Throw.,5,3,2,0,0.22706454750537464,0.547787062890142,4,4,-9,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,18,1,17:09,2229,2229,Harvard Deadball Team Rebound.,5,3,2,0,0.22706454750537464,0.547787062890142,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,19,1,17:09,2229,2229,Robert Baker made Free Throw.,5,4,1,0,0.21068057700759035,0.5239483454281848,4,4,-9,NA,NA,Harvard,made,Robert Baker,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,20,1,16:47,2207,2207,Tai Bibbs missed Three Point Jumper.,5,4,1,22,0.21150282121005032,0.5242016990064033,4,4,-9,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,21,1,16:43,2203,2203,Robert Baker Defensive Rebound.,5,4,1,4,0.21165454793364522,0.524247915603762,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,22,1,16:41,2201,2201,Foul on Mike Smith.,5,4,1,2,0.21173067047450053,0.5242710400022217,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,23,1,16:41,2201,2201,Chris Lewis made Free Throw.,5,5,0,0,0.19596837674960743,0.5,4,4,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,24,1,16:41,2201,2201,Chris Lewis made Free Throw.,5,6,-1,0,0.1811099055708444,0.47572895999777826,4,4,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,25,1,16:27,2187,2187,Randy Brumant Turnover.,5,6,-1,14,0.18139461602068171,0.4755668083376135,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,26,1,16:27,2187,2187,Christian Juzang Steal.,5,6,-1,0,0.18139461602068171,0.4755668083376135,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,27,1,16:22,2182,2182,Noah Kirkwood made Layup. Assisted by Christian Juzang.,5,8,-3,5,0.15416267872699232,0.4269930904046104,4,4,-9,NA,NA,Harvard,made,Noah Kirkwood,Christian Juzang,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,28,1,16:00,2160,2160,Mike Smith missed Jumper.,5,8,-3,22,0.1543021958694497,0.4262398616956621,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,29,1,15:55,2155,2155,Justin Bassey Defensive Rebound.,5,8,-3,5,0.15433544961484558,0.4260680477365394,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,30,1,15:49,2149,2149,Christian Juzang missed Three Point Jumper.,5,8,-3,6,0.15437605706909213,0.42586150624207686,4,4,-9,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,31,1,15:44,2144,2144,Mike Smith Defensive Rebound.,5,8,-3,5,0.15441047515819306,0.4256890771561222,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,32,1,15:32,2132,2132,Ike Nweke made Jumper.,7,8,-1,12,0.1825750285141468,0.47492442840008553,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,33,1,15:09,2109,2109,Robert Baker missed Three Point Jumper.,7,8,-1,23,0.18309612361017327,0.47465214992702653,4,4,-9,NA,NA,Harvard,missed,Robert Baker,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,34,1,15:05,2105,2105,Mike Smith Defensive Rebound.,7,8,-1,4,0.18318834739138962,0.4746045463621689,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,35,1,14:59,2099,2099,Mike Smith made Jumper.,9,8,1,6,0.21584416328884862,0.5254670039376211,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,36,1,14:47,2087,2087,Christian Juzang missed Three Point Jumper.,9,8,1,12,0.2163577187935668,0.5256106398677499,4,4,-9,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,37,1,14:44,2084,2084,Ike Nweke Defensive Rebound.,9,8,1,3,0.21648707647904675,0.5256466630622313,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,38,1,14:36,2076,2076,Foul on Chris Lewis.,9,8,1,8,0.2168339232437395,0.5257429540116557,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,39,1,14:36,2076,2076,Official TV Timeout,9,8,1,0,0.2168339232437395,0.5257429540116557,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,40,1,14:36,2076,2076,Mike Smith missed Free Throw.,9,8,1,0,0.2168339232437395,0.5257429540116557,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,41,1,14:36,2076,2076,Columbia Deadball Team Rebound.,9,8,1,0,0.2168339232437395,0.5257429540116557,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,42,1,14:36,2076,2076,Mike Smith made Free Throw.,10,8,2,0,0.2348454682295984,0.5513497900652782,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,43,1,14:24,2064,2064,Chris Ledlum missed Layup.,10,8,2,12,0.23550616651254797,0.5516376337194139,4,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,44,1,14:24,2064,2064,Joseph Smoyer Block.,10,8,2,0,0.23550616651254797,0.5516376337194139,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,45,1,14:09,2049,2049,Christian Juzang Offensive Rebound.,10,8,2,15,0.23634249693254092,0.5519996257850525,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,46,1,14:08,2048,2048,Mason Forbes made Layup.,10,10,0,1,0.20078786757548753,0.5,4,4,-9,NA,NA,Harvard,made,Mason Forbes,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,47,1,13:28,2008,2008,Randy Brumant made Three Point Jumper. Assisted by Mike Smith.,13,10,3,40,0.25855714294198073,0.5791325212715424,4,4,-9,NA,NA,Columbia,made,Randy Brumant,Mike Smith,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,48,1,13:23,2003,2003,Mason Forbes made Layup.,13,12,1,5,0.22012569503405907,0.5266384132347128,4,4,-9,NA,NA,Harvard,made,Mason Forbes,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,49,1,13:14,1994,1994,Joseph Smoyer made Jumper. Assisted by Jack Forrest.,15,12,3,9,0.25955812420953667,0.5796459135707794,4,4,-9,NA,NA,Columbia,made,Joseph Smoyer,Jack Forrest,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,50,1,12:56,1976,1976,Chris Ledlum missed Layup.,15,12,3,18,0.26086323484437846,0.5803114491393832,4,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,51,1,12:54,1974,1974,Joseph Smoyer Defensive Rebound.,15,12,3,2,0.2610095129351771,0.5803857876251461,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,52,1,12:27,1947,1947,Jake Killingsworth made Layup.,17,12,5,27,0.3075968734329237,0.6335600352098876,4,4,-9,NA,NA,Columbia,made,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,53,1,12:19,1939,1939,Foul on Jack Forrest.,17,12,5,8,0.30843448087200587,0.634041085183914,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,54,1,12:19,1939,1939,Rio Haskett Turnover.,17,12,5,0,0.30843448087200587,0.634041085183914,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,55,1,12:19,1939,1939,Jack Forrest Steal.,17,12,5,0,0.30843448087200587,0.634041085183914,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,56,1,11:57,1917,1917,Randy Brumant missed Jumper.,17,12,5,22,0.3107651263951721,0.6353704989477953,4,4,-9,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,57,1,11:52,1912,1912,Chris Ledlum Defensive Rebound.,17,12,5,5,0.3112994503318208,0.635672165668107,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,58,1,11:34,1894,1894,Foul on Jack Forrest.,17,12,5,18,0.31323715922248085,0.6367564396003823,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,59,1,11:34,1894,1894,Official TV Timeout,17,12,5,0,0.31323715922248085,0.6367564396003823,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,60,1,11:25,1885,1885,Mason Forbes missed Jumper.,17,12,5,9,0.31421460034018606,0.6372980292225877,4,4,-9,NA,NA,Harvard,missed,Mason Forbes,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,61,1,11:25,1885,1885,Joseph Smoyer Block.,17,12,5,0,0.31421460034018606,0.6372980292225877,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,62,1,11:19,1879,1879,Joseph Smoyer Defensive Rebound.,17,12,5,6,0.3148695176798196,0.6376590637178284,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,63,1,11:04,1864,1864,Joseph Smoyer missed Jumper.,17,12,5,15,0.3165186772766579,0.6385621242918414,4,4,-9,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,64,1,11:01,1861,1861,Chris Ledlum Defensive Rebound.,17,12,5,3,0.3168505918528559,0.6387428947088771,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,65,1,10:54,1854,1854,Danilo Djuricic made Three Point Jumper. Assisted by Christian Juzang.,17,15,2,7,0.2482924629331946,0.5569262870848782,4,4,-9,NA,NA,Harvard,made,Danilo Djuricic,Christian Juzang,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,66,1,10:24,1824,1824,Mike Smith made Jumper.,19,15,4,30,0.2962779559930702,0.6138919090707735,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,67,1,10:13,1813,1813,Foul on Joseph Smoyer.,19,15,4,11,0.2973591235549126,0.6144443967739892,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,68,1,10:13,1813,1813,Chris Ledlum made Free Throw.,19,16,3,0,0.2736039844277663,0.5865023309898767,4,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,69,1,10:12,1812,1812,Chris Ledlum missed Free Throw.,19,16,3,1,0.27368736238599545,0.5865409915160206,4,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,70,1,10:10,1810,1810,Jake Killingsworth Defensive Rebound.,19,16,3,2,0.27385432146364647,0.5866183669881162,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,71,1,9:55,1795,1795,Jake Killingsworth missed Jumper.,19,16,3,15,0.2751152165193889,0.5872011676838496,4,4,-9,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,72,1,9:51,1791,1791,Justin Bassey Defensive Rebound.,19,16,3,4,0.2754540723176625,0.5873573814285875,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,73,1,9:44,1784,1784,Rio Haskett Turnover.,19,16,3,7,0.27604975122343545,0.5876316410602007,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,74,1,9:44,1784,1784,Mike Smith Steal.,19,16,3,0,0.27604975122343545,0.5876316410602007,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,75,1,9:38,1778,1778,Mike Smith missed Layup.,19,16,3,6,0.276563068988464,0.5878676673317923,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,76,1,9:38,1778,1778,Chris Ledlum Block.,19,16,3,0,0.276563068988464,0.5878676673317923,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,77,1,9:30,1770,1770,Justin Bassey Defensive Rebound.,19,16,3,8,0.2772514562528779,0.5881838159738149,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,78,1,9:29,1769,1769,Rio Haskett missed Three Point Jumper.,19,16,3,1,0.2773378251884857,0.5882234558592705,4,4,-9,NA,NA,Harvard,missed,Rio Haskett,NA,TRUE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,79,1,9:29,1769,1769,Harvard Deadball Team Rebound.,19,16,3,0,0.2773378251884857,0.5882234558592705,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,80,1,9:29,1769,1769,Foul on Joseph Smoyer.,19,16,3,0,0.2773378251884857,0.5882234558592705,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,81,1,9:29,1769,1769,Justin Bassey made Layup.,19,18,1,0,0.23228451534138558,0.5296838911958535,4,4,-9,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,82,1,9:29,1769,1769,Tai Bibbs missed Jumper.,19,18,1,0,0.23228451534138558,0.5296838911958535,4,4,-9,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,83,1,9:28,1768,1768,Justin Bassey Defensive Rebound.,19,18,1,1,0.23234195468747149,0.5296974906908206,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,84,1,9:24,1764,1764,Justin Bassey missed Layup.,19,18,1,4,0.23257215753927477,0.5297519886787394,4,4,-9,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,85,1,9:24,1764,1764,Tai Bibbs Block.,19,18,1,0,0.23257215753927477,0.5297519886787394,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,86,1,9:12,1752,1752,Harvard Offensive Rebound.,19,18,1,12,0.23326702155146775,0.5299164848900471,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,87,1,8:42,1722,1722,Noah Kirkwood missed Jumper.,19,18,1,30,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,Harvard,missed,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,88,1,8:42,1722,1722,Justin Bassey missed Three Point Jumper.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,Harvard,missed,Justin Bassey,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,89,1,8:42,1722,1722,Ike Nweke Defensive Rebound.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,90,1,8:42,1722,1722,Eddie Turner III missed Three Point Jumper.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,Columbia,missed,Eddie Turner III,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,91,1,8:42,1722,1722,Justin Bassey Defensive Rebound.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,92,1,8:42,1722,1722,Noah Kirkwood Turnover.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,93,1,8:42,1722,1722,Eddie Turner III Steal.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,94,1,8:42,1722,1722,Mike Smith missed Three Point Jumper.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,95,1,8:42,1722,1722,Justin Bassey Defensive Rebound.,19,18,1,0,0.23503173100838146,0.5303350513630232,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,96,1,8:37,1717,1717,Ike Nweke Defensive Rebound.,19,18,1,5,0.23532962150085182,0.5304059361583805,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,97,1,8:33,1713,1713,Tai Bibbs missed Layup.,19,18,1,4,0.2355687005751449,0.5304628932877434,4,4,-9,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,98,1,8:26,1706,1706,Justin Bassey Defensive Rebound.,19,18,1,7,0.23598872053753575,0.5305631173788335,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,99,1,7:55,1675,1675,Noah Kirkwood missed Three Point Jumper.,19,18,1,31,0.2378774025664502,0.5310116303241187,4,4,-9,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,100,1,7:45,1665,1665,Chris Lewis Offensive Rebound.,19,18,1,10,0.23850068109309794,0.5311535498262757,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,101,1,7:42,1662,1662,Chris Lewis made Dunk.,19,20,-1,3,0.19627019710165863,0.4688042192408571,4,4,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,102,1,7:22,1642,1642,Ike Nweke made Layup.,21,20,1,20,0.23996124871373117,0.5314739472430909,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,103,1,7:22,1642,1642,Foul on Chris Lewis.,21,20,1,0,0.23996124871373117,0.5314739472430909,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,104,1,7:22,1642,1642,Official TV Timeout,21,20,1,0,0.23996124871373117,0.5314739472430909,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,105,1,7:22,1642,1642,Ike Nweke made Free Throw.,22,20,2,0,0.2636992325298729,0.5626994518320141,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,106,1,7:10,1630,1630,Danilo Djuricic missed Three Point Jumper.,22,20,2,12,0.264654293807483,0.5630249406636559,4,4,-9,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,107,1,7:07,1627,1627,Jack Forrest Defensive Rebound.,22,20,2,3,0.2648945337067867,0.5631059394779159,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,108,1,7:04,1624,1624,Foul on Noah Kirkwood.,22,20,2,3,0.2651353618729966,0.5631868182636308,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,109,1,6:58,1618,1618,Jack Forrest missed Three Point Jumper.,22,20,2,6,0.26561877985195353,0.5633482743879075,4,4,-9,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,110,1,6:54,1614,1614,Noah Kirkwood Defensive Rebound.,22,20,2,4,0.26594236088377005,0.5634557355551298,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,111,1,6:47,1607,1607,Rio Haskett made Jumper.,22,22,0,7,0.21953827528715864,0.5,4,4,-9,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,112,1,6:18,1578,1578,Mike Smith missed Jumper.,22,22,0,29,0.22108833383000778,0.5,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,113,1,6:13,1573,1573,Chris Lewis Defensive Rebound.,22,22,0,5,0.2213594007985144,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,114,1,6:05,1565,1565,Rio Haskett made Layup.,22,24,-2,8,0.18008111157743056,0.43522545767765153,4,4,-9,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,115,1,5:43,1543,1543,Jack Forrest missed Three Point Jumper.,22,24,-2,22,0.18075186135331733,0.4346213148329657,4,4,-9,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,116,1,5:39,1539,1539,Danilo Djuricic Defensive Rebound.,22,24,-2,4,0.1808739855849339,0.43450996655436597,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,117,1,5:28,1528,1528,Chris Lewis missed Jumper.,22,24,-2,11,0.18120938712257204,0.43420082257963133,4,4,-9,NA,NA,Harvard,missed,Chris Lewis,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,118,1,5:24,1524,1524,Rio Haskett Offensive Rebound.,22,24,-2,4,0.18133105810656663,0.4340872362695896,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,119,1,5:14,1514,1514,Justin Bassey made Layup.,22,26,-4,10,0.1453337890153891,0.3698813824086787,4,4,-9,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,120,1,5:12,1512,1512,Columbia  Timeout,22,26,-4,2,0.14535493172198422,0.36977139179168356,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,121,1,4:50,1490,1490,Ike Nweke missed Jumper.,22,26,-4,22,0.14557368436939785,0.3685358893831622,3,4,-9,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,122,1,4:48,1488,1488,Robert Baker Defensive Rebound.,22,26,-4,2,0.1455921343798458,0.3684210339206283,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,123,1,4:41,1481,1481,Chris Ledlum missed Layup.,22,26,-4,7,0.14565454108965356,0.36801538325913075,3,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,124,1,4:37,1477,1477,Chris Ledlum Offensive Rebound.,22,26,-4,4,0.1456886047650164,0.3677809337097305,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,125,1,4:36,1476,1476,Chris Ledlum missed Layup.,22,26,-4,1,0.14569693047209467,0.36772201028558377,3,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,126,1,4:32,1472,1472,Jake Killingsworth Defensive Rebound.,22,26,-4,4,0.14572944634449314,0.36748504249975056,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,127,1,4:29,1469,1469,Luke Bolster missed Three Point Jumper.,22,26,-4,3,0.14575298257224814,0.36730595095054175,3,4,-9,NA,NA,Columbia,missed,Luke Bolster,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,128,1,4:22,1462,1462,Chris Ledlum Defensive Rebound.,22,26,-4,7,0.1458049226496449,0.3668833556806381,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,129,1,4:22,1462,1462,Noah Kirkwood Turnover.,22,26,-4,0,0.1458049226496449,0.3668833556806381,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,130,1,4:11,1451,1451,Jack Forrest missed Jumper.,22,26,-4,11,0.14587751648161287,0.36620525234806584,3,4,-9,NA,NA,Columbia,missed,Jack Forrest,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,131,1,4:07,1447,1447,Christian Juzang Defensive Rebound.,22,26,-4,4,0.14590196993313811,0.36595556182813915,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,132,1,4:03,1443,1443,Christian Juzang missed Jumper.,22,26,-4,4,0.1459281479039248,0.36570804611064694,3,4,-9,NA,NA,Harvard,missed,Christian Juzang,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,133,1,3:57,1437,1437,Jack Forrest Defensive Rebound.,22,26,-4,6,0.14597068692956738,0.36534087531580206,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,134,1,3:50,1430,1430,Foul on Christian Juzang.,22,26,-4,7,0.14602497183332494,0.3649182547784468,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,135,1,3:50,1430,1430,Official TV Timeout,22,26,-4,0,0.14602497183332494,0.3649182547784468,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,136,1,3:48,1428,1428,Foul on Mason Forbes.,22,26,-4,2,0.14604134926504736,0.3647985593416411,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,137,1,3:48,1428,1428,Randy Brumant made Free Throw.,23,26,-3,0,0.16419456429618562,0.39748684697140607,3,4,-9,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,138,1,3:48,1428,1428,Randy Brumant made Free Throw.,24,26,-2,0,0.18411775006828474,0.43111622490188006,3,4,-9,NA,NA,Columbia,made,Randy Brumant,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,139,1,3:28,1408,1408,Robert Baker made Layup. Assisted by Mason Forbes.,24,28,-4,20,0.14622379764552135,0.36362343174027484,3,4,-9,NA,NA,Harvard,made,Robert Baker,Mason Forbes,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,140,1,3:05,1385,1385,Jake Killingsworth made Three Point Jumper. Assisted by Mike Smith.,27,28,-1,23,0.2077463379985048,0.4647235191841378,3,4,-9,NA,NA,Columbia,made,Jake Killingsworth,Mike Smith,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,141,1,2:38,1358,1358,Chris Ledlum missed Three Point Jumper.,27,28,-1,27,0.20897453415254516,0.4643126227397397,3,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,142,1,2:34,1354,1354,Luke Bolster Defensive Rebound.,27,28,-1,4,0.20915856600787228,0.4642516270003991,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,143,1,2:26,1346,1346,Tai Bibbs Turnover.,27,28,-1,8,0.20952785910874425,0.4641292355580144,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,144,1,2:14,1334,1334,Robert Baker missed Jumper.,27,28,-1,12,0.21008428506095086,0.4639441788019787,3,4,-9,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,145,1,2:11,1331,1331,Mason Forbes Offensive Rebound.,27,28,-1,3,0.21022375175596789,0.4638975546786103,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,146,1,2:11,1331,1331,Foul on Eddie Turner III.,27,28,-1,0,0.21022375175596789,0.4638975546786103,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,147,1,2:11,1331,1331,Mason Forbes made Free Throw.,27,29,-2,0,0.1872104615591589,0.42816960046610647,3,4,-9,NA,NA,Harvard,made,Mason Forbes,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,148,1,2:11,1331,1331,Mason Forbes made Free Throw.,27,30,-3,0,0.16618633567073685,0.3931752495931724,3,4,-9,NA,NA,Harvard,made,Mason Forbes,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,149,1,1:53,1313,1313,Jake Killingsworth missed Jumper.,27,30,-3,18,0.1665692618295907,0.392358763045517,3,4,-9,NA,NA,Columbia,missed,Jake Killingsworth,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,150,1,1:50,1310,1310,Mason Forbes Defensive Rebound.,27,30,-3,3,0.16663217190618954,0.3922204427937284,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,151,1,1:42,1302,1302,Chris Ledlum made Layup.,27,32,-5,8,0.1299359239691547,0.3246275773885209,3,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,152,1,1:24,1284,1284,Eddie Turner III made Jumper.,29,32,-3,18,0.167160124493929,0.39098662437071874,3,4,-9,NA,NA,Columbia,made,Eddie Turner III,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,153,1,1:07,1267,1267,Noah Kirkwood missed Three Point Jumper.,29,32,-3,17,0.16748250839434367,0.3901381252233893,3,4,-9,NA,NA,Harvard,missed,Noah Kirkwood,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,154,1,1:03,1263,1263,Eddie Turner III Defensive Rebound.,29,32,-3,4,0.16755502558721924,0.38993276526181136,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,155,1,0:57,1257,1257,Eddie Turner III missed Jumper.,29,32,-3,6,0.16766112229051333,0.3896202710132607,3,4,-9,NA,NA,Columbia,missed,Eddie Turner III,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,156,1,0:53,1253,1253,Mason Forbes Defensive Rebound.,29,32,-3,4,0.16772996523584044,0.38940884310881935,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,157,1,0:50,1250,1250,Christian Juzang missed Three Point Jumper.,29,32,-3,3,0.16778055631111666,0.3892485827643189,3,4,-9,NA,NA,Harvard,missed,Christian Juzang,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,158,1,0:45,1245,1245,Ike Nweke Defensive Rebound.,29,32,-3,5,0.16786280396389247,0.38897815405300423,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,159,1,0:40,1240,1240,Foul on Chris Ledlum.,29,32,-3,5,0.16794234427281904,0.3887034161158233,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,160,1,0:35,1235,1235,Ike Nweke missed Jumper.,29,32,-3,5,0.16801904003027215,0.3884241971897994,3,4,-9,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,161,1,0:28,1228,1228,Noah Kirkwood Defensive Rebound.,29,32,-3,7,0.16812137383201037,0.3880254361329149,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,162,1,0:03,1203,1203,Noah Kirkwood missed Jumper.,29,32,-3,25,0.16843836795694225,0.3865285927396723,3,4,-9,NA,NA,Harvard,missed,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,163,1,0:00,1200,1200,Randy Brumant Defensive Rebound.,29,32,-3,3,0.16847482360998695,0.38634786325026177,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,164,1,0:00,1200,1200,End of 1st half,29,32,-3,0,0.16847482360998695,0.38634786325026177,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,NA
+401172291,2020-02-28,Columbia,Harvard,165,2,20:00,1200,1200,PLAY,29,32,-3,0,0.16847482360998695,0.38634786325026177,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harvard
+401172291,2020-02-28,Columbia,Harvard,166,2,19:45,1185,1185,Noah Kirkwood made Layup.,29,34,-5,15,0.12942056438947802,0.31488136135256445,4,4,-9,NA,NA,Harvard,made,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,167,2,19:06,1146,1146,Mike Smith missed Three Point Jumper.,29,34,-5,39,0.12912974317971174,0.3115072412448102,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,168,2,19:02,1142,1142,Chris Lewis Defensive Rebound.,29,34,-5,4,0.12910172806045261,0.31116711950184117,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,169,2,18:45,1125,1125,Robert Baker missed Jumper.,29,34,-5,17,0.1289819018929341,0.30972343414716125,4,4,-9,NA,NA,Harvard,missed,Robert Baker,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,170,2,18:40,1120,1120,Jake Killingsworth Defensive Rebound.,29,34,-5,5,0.1289458219020061,0.30929799682462167,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,171,2,18:25,1105,1105,Randy Brumant missed Three Point Jumper.,29,34,-5,15,0.12883296649497397,0.3080140824814243,4,4,-9,NA,NA,Columbia,missed,Randy Brumant,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,172,2,18:22,1102,1102,Robert Baker Defensive Rebound.,29,34,-5,3,0.12880930416658415,0.3077553357331918,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,173,2,18:14,1094,1094,Foul on Ike Nweke.,29,34,-5,8,0.12874394731572944,0.30706105256107424,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,174,2,18:02,1082,1082,Rio Haskett made Three Point Jumper. Assisted by Chris Lewis.,29,37,-8,12,0.0828402972251707,0.21245689331061263,4,4,-9,NA,NA,Harvard,made,Rio Haskett,Chris Lewis,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,175,2,17:45,1065,1065,Mike Smith made Layup.,31,37,-6,17,0.11107880517023411,0.27065291500993977,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,176,2,17:29,1049,1049,Justin Bassey Turnover.,31,37,-6,16,0.11077784687456066,0.2689813548894119,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,177,2,17:29,1049,1049,Ike Nweke Steal.,31,37,-6,0,0.11077784687456066,0.2689813548894119,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,178,2,17:10,1030,1030,Randy Brumant missed Jumper.,31,37,-6,19,0.11037902341663408,0.2669083422312437,4,4,-9,NA,NA,Columbia,missed,Randy Brumant,NA,FALSE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,179,2,17:07,1027,1027,Columbia Offensive Rebound.,31,37,-6,3,0.11031139106758829,0.26657104347820426,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,180,2,17:00,1020,1020,Foul on Justin Bassey.,31,37,-6,7,0.11014820142933805,0.265772436430524,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,181,2,17:00,1020,1020,Mike Smith made Free Throw.,32,37,-5,0,0.12787661125816532,0.3001013103209756,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,182,2,17:00,1020,1020,Mike Smith made Free Throw.,33,37,-4,0,0.14798389298566433,0.3368301416384839,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,183,2,16:52,1012,1012,Rio Haskett Turnover.,33,37,-4,8,0.14793263016804648,0.33611726236895045,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,184,2,16:52,1012,1012,Tai Bibbs Steal.,33,37,-4,0,0.14793263016804648,0.33611726236895045,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,185,2,16:43,1003,1003,Mike Smith made Jumper.,35,37,-2,9,0.19634774548230488,0.4152820100265939,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,186,2,16:27,987,987,Robert Baker Turnover.,35,37,-2,16,0.19670020673716362,0.4144474456717601,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,187,2,16:07,967,967,Foul on Robert Baker.,35,37,-2,20,0.19711349868760647,0.41333456294848997,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,188,2,16:07,967,967,Mike Smith made Free Throw.,36,37,-1,0,0.22629784045045814,0.45633683095870664,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,189,2,16:07,967,967,Mike Smith made Free Throw.,37,37,0,0,0.25841244435029853,0.5,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,190,2,15:55,955,955,Chris Lewis Turnover.,37,37,0,12,0.2592224887414006,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,191,2,15:55,955,955,Mike Smith Steal.,37,37,0,0,0.2592224887414006,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,192,2,15:47,947,947,Joseph Smoyer missed Jumper.,37,37,0,8,0.2597462180039834,0.5,4,4,-9,NA,NA,Columbia,missed,Joseph Smoyer,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,193,2,15:43,943,943,Noah Kirkwood Defensive Rebound.,37,37,0,4,0.2600036466048461,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,194,2,15:38,938,938,Noah Kirkwood Turnover.,37,37,0,5,0.2603215768944467,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,195,2,15:38,938,938,Mike Smith Steal.,37,37,0,0,0.2603215768944467,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,196,2,15:33,933,933,Tai Bibbs missed Jumper.,37,37,0,5,0.26063550206911545,0.5,4,4,-9,NA,NA,Columbia,missed,Tai Bibbs,NA,FALSE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,197,2,15:33,933,933,Rio Haskett Block.,37,37,0,0,0.26063550206911545,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,198,2,15:32,932,932,Columbia Offensive Rebound.,37,37,0,1,0.2606978328446933,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,199,2,15:32,932,932,Official TV Timeout,37,37,0,0,0.2606978328446933,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,200,2,15:20,920,920,Tai Bibbs missed Three Point Jumper.,37,37,0,12,0.2614351173481561,0.5,4,4,-9,NA,NA,Columbia,missed,Tai Bibbs,NA,TRUE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,201,2,15:17,917,917,Randy Brumant Offensive Rebound.,37,37,0,3,0.26161664608486407,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,202,2,15:17,917,917,Foul on Chris Lewis.,37,37,0,0,0.26161664608486407,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,203,2,15:03,903,903,Randy Brumant missed Three Point Jumper.,37,37,0,14,0.26245180331098306,0.5,4,4,-9,NA,NA,Columbia,missed,Randy Brumant,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,204,2,14:59,899,899,Chris Ledlum Defensive Rebound.,37,37,0,4,0.262687411257545,0.5,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,205,2,14:37,877,877,Danilo Djuricic made Three Point Jumper. Assisted by Noah Kirkwood.,37,40,-3,22,0.17126185783080575,0.36557015445391927,4,4,-9,NA,NA,Harvard,made,Danilo Djuricic,Noah Kirkwood,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,206,2,14:16,856,856,Mike Smith made Layup.,39,40,-1,21,0.23062344630780007,0.45373020748758297,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,207,2,14:07,847,847,Foul on Tai Bibbs.,39,40,-1,9,0.23095706786363956,0.453527282175433,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,208,2,14:07,847,847,Chris Ledlum made Free Throw.,39,41,-2,0,0.1995125178238195,0.4078506293111765,4,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,209,2,14:07,847,847,Chris Ledlum made Free Throw.,39,42,-3,0,0.17139497974717016,0.363712479480306,4,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,210,2,13:55,835,835,Mike Smith made Jumper.,41,42,-1,12,0.23140258509120237,0.45324764043266413,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,211,2,13:26,806,806,Chris Ledlum made Jumper.,41,44,-3,29,0.17145181457159123,0.36086512596984965,4,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,212,2,13:18,798,798,Jack Forrest missed Three Point Jumper.,41,44,-3,8,0.17143779735520334,0.3602396105351034,4,4,-9,NA,NA,Columbia,missed,Jack Forrest,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,213,2,13:15,795,795,Noah Kirkwood Defensive Rebound.,41,44,-3,3,0.17142997047886083,0.35999759556176475,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,214,2,13:14,794,794,Foul on Randy Brumant.,41,44,-3,1,0.17142703720863753,0.3599159779494356,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,215,2,13:06,786,786,Danilo Djuricic Turnover.,41,44,-3,8,0.17139750434483073,0.35924523227712024,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,216,2,12:49,769,769,Jack Forrest missed Layup.,41,44,-3,17,0.1712960138009626,0.3577049012895334,4,4,-9,NA,NA,Columbia,missed,Jack Forrest,NA,FALSE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,217,2,12:47,767,767,Columbia Offensive Rebound.,41,44,-3,2,0.17128033988881516,0.35751248917900835,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,218,2,12:37,757,757,Jack Forrest Turnover.,41,44,-3,10,0.1711892651529359,0.3565119900392999,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,219,2,12:14,734,734,Noah Kirkwood made Layup.,41,46,-5,23,0.12126782002689014,0.2683698556640987,4,4,-9,NA,NA,Harvard,made,Noah Kirkwood,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,220,2,11:53,713,713,Mike Smith made Jumper.,43,46,-3,21,0.17060086880610564,0.3514882144433506,4,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,221,2,11:34,694,694,Chris Ledlum Turnover.,43,46,-3,19,0.17046040047520655,0.34953929243164894,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,222,2,11:34,694,694,Randy Brumant Steal.,43,46,-3,0,0.17046040047520655,0.34953929243164894,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,223,2,11:29,689,689,Mike Smith missed Layup.,43,46,-3,5,0.17043791956665258,0.34905790225850303,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,224,2,11:29,689,689,Chris Ledlum Block.,43,46,-3,0,0.17043791956665258,0.34905790225850303,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,225,2,11:27,687,687,Joseph Smoyer Offensive Rebound.,43,46,-3,2,0.17043022629477908,0.34886809649515954,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,226,2,11:27,687,687,Joseph Smoyer Turnover.,43,46,-3,0,0.17043022629477908,0.34886809649515954,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,227,2,11:27,687,687,Official TV Timeout,43,46,-3,0,0.17043022629477908,0.34886809649515954,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,228,2,11:21,681,681,Rio Haskett made Layup. Assisted by Mason Forbes.,43,48,-5,6,0.11916317410455535,0.2603496024954415,4,4,-9,NA,NA,Harvard,made,Rio Haskett,Mason Forbes,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,229,2,10:49,649,649,Eddie Turner III made Jumper.,45,48,-3,32,0.17035182796295967,0.3453884295035789,4,4,-9,NA,NA,Columbia,made,Eddie Turner III,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,230,2,10:28,628,628,Rio Haskett made Three Point Jumper. Assisted by Justin Bassey.,45,51,-6,21,0.09692303031274903,0.21474901042098746,4,4,-9,NA,NA,Harvard,made,Rio Haskett,Justin Bassey,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,231,2,9:58,598,598,Ike Nweke missed Layup.,45,51,-6,30,0.09547417871862095,0.20982882750931858,4,4,-9,NA,NA,Columbia,missed,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,232,2,9:55,595,595,Danilo Djuricic Defensive Rebound.,45,51,-6,3,0.09530359882154635,0.2092789329211119,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,233,2,9:44,584,584,Chris Ledlum made Jumper.,45,53,-8,11,0.06263289227125349,0.14312401490741167,4,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,234,2,9:23,563,563,Ike Nweke made Layup.,47,53,-6,21,0.09308946631552455,0.20252900509137772,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,235,2,9:10,550,550,Chris Ledlum missed Three Point Jumper.,47,53,-6,13,0.09194717484545872,0.19924476438947347,4,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,236,2,9:05,545,545,Mason Forbes Offensive Rebound.,47,53,-6,5,0.09149732243964723,0.19795738157274298,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,237,2,9:01,541,541,Danilo Djuricic missed Three Point Jumper.,47,53,-6,4,0.09116419135271847,0.19698588667416186,4,4,-9,NA,NA,Harvard,missed,Danilo Djuricic,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,238,2,8:57,537,537,Columbia Defensive Rebound.,47,53,-6,4,0.09085222277175448,0.19606059703524129,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,239,2,8:37,517,517,Ike Nweke Turnover.,47,53,-6,20,0.08952803244785275,0.19194871952170725,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,240,2,8:37,517,517,Rio Haskett Steal.,47,53,-6,0,0.08952803244785275,0.19194871952170725,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,241,2,8:15,495,495,Justin Bassey missed Jumper.,47,53,-6,22,0.08827632353935971,0.18787580178611843,4,4,-9,NA,NA,Harvard,missed,Justin Bassey,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,242,2,8:11,491,491,Mike Smith Defensive Rebound.,47,53,-6,4,0.08804470175544896,0.18712745790446952,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,243,2,8:05,485,485,Eddie Turner III missed Three Point Jumper.,47,53,-6,6,0.08768439589977779,0.18597788087067257,4,4,-9,NA,NA,Columbia,missed,Eddie Turner III,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,244,2,8:02,482,482,Justin Bassey Defensive Rebound.,47,53,-6,3,0.08749656507480165,0.18538690858102566,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,245,2,7:42,462,462,Rio Haskett made Three Point Jumper. Assisted by Chris Ledlum.,47,56,-9,20,0.042385486662722134,0.09413689753729639,4,4,-9,NA,NA,Harvard,made,Rio Haskett,Chris Ledlum,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,246,2,7:26,446,446,Mike Smith missed Three Point Jumper.,47,56,-9,16,0.04102518033155456,0.09049637405582937,4,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,247,2,7:21,441,441,Ike Nweke Offensive Rebound.,47,56,-9,5,0.040535892790606466,0.08921839779470526,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,248,2,7:20,440,440,Foul on Mason Forbes.,47,56,-9,1,0.0404340058575397,0.08895402197555,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,249,2,7:20,440,440,Official TV Timeout,47,56,-9,0,0.0404340058575397,0.08895402197555,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,250,2,7:11,431,431,Ike Nweke Turnover.,47,56,-9,9,0.03945350731173268,0.08643662524797652,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,251,2,7:11,431,431,Chris Ledlum Steal.,47,56,-9,0,0.03945350731173268,0.08643662524797652,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,252,2,6:43,403,403,Rio Haskett made Layup.,47,58,-11,28,0.021546868815276468,0.04737138480848162,4,4,-9,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,253,2,6:22,382,382,Foul on Rio Haskett.,47,58,-11,21,0.020151850100160146,0.04369935253740565,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,254,2,6:22,382,382,Ike Nweke made Free Throw.,48,58,-10,0,0.026504471497783837,0.057042891535010305,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,255,2,6:22,382,382,Ike Nweke made Free Throw.,49,58,-9,0,0.03478857829807146,0.07414495901068995,4,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,TRUE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,256,2,6:22,382,382,Official TV Timeout,49,58,-9,0,0.03478857829807146,0.07414495901068995,4,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,257,2,6:22,382,382,Columbia  Timeout,49,58,-9,0,0.03478857829807146,0.07414495901068995,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,258,2,6:10,370,370,Chris Ledlum Turnover.,49,58,-9,12,0.03373321536977613,0.07133863022693923,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,259,2,5:57,357,357,Eddie Turner III made Jumper. Assisted by Jake Killingsworth.,51,58,-7,13,0.05668351711563833,0.11566189627076001,3,4,-9,NA,NA,Columbia,made,Eddie Turner III,Jake Killingsworth,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,260,2,5:29,329,329,Rio Haskett made Layup.,51,60,-9,28,0.029391844853100813,0.06041214522737255,3,4,-9,NA,NA,Harvard,made,Rio Haskett,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,261,2,5:18,318,318,Mike Smith made Layup.,53,60,-7,11,0.05088755668074256,0.1012712094189706,3,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,262,2,4:53,293,293,Chris Ledlum made Layup. Assisted by Noah Kirkwood.,53,62,-9,25,0.025580765569909507,0.05112525193616309,3,4,-9,NA,NA,Harvard,made,Chris Ledlum,Noah Kirkwood,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,263,2,4:39,279,279,Eddie Turner III missed Jumper.,53,62,-9,14,0.02603965788155182,0.05137289297565465,3,4,-9,NA,NA,Columbia,missed,Eddie Turner III,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,264,2,4:35,275,275,Justin Bassey Defensive Rebound.,53,62,-9,4,0.026325764362047366,0.05173723798344453,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,265,2,4:23,263,263,Foul on Eddie Turner III.,53,62,-9,12,0.027419171894895508,0.05324970519085232,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,266,2,4:15,255,255,Foul on Eddie Turner III.,53,62,-9,8,0.02821504985489693,0.05435432852077669,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,267,2,4:03,243,243,Chris Ledlum missed Three Point Jumper.,53,62,-9,12,0.02921886732512436,0.055607008740666194,3,4,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,TRUE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,268,2,4:01,241,241,Columbia Defensive Rebound.,53,62,-9,2,0.02933841949915695,0.05572189502667601,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,269,2,3:47,227,227,Mike Smith missed Three Point Jumper.,53,62,-9,14,0.02952534660330215,0.05530236039069937,3,4,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,270,2,3:39,219,219,Ike Nweke Offensive Rebound.,53,62,-9,8,0.028957047464062302,0.05382208171355195,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Columbia
+401172291,2020-02-28,Columbia,Harvard,271,2,3:39,219,219,Ike Nweke made Dunk.,55,62,-7,0,0.053377946163080114,0.0971156481329959,3,4,-9,NA,NA,Columbia,made,Ike Nweke,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,272,2,3:31,211,211,Foul on Tai Bibbs.,55,62,-7,8,0.05182855274047752,0.09365756746371426,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,273,2,3:31,211,211,Official TV Timeout,55,62,-7,0,0.05182855274047752,0.09365756746371426,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,274,2,3:17,197,197,Chris Ledlum made Jumper.,55,64,-9,14,0.02421287633269642,0.04410276723420303,3,4,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,275,2,2:55,175,175,Tai Bibbs made Jumper.,57,64,-7,22,0.03567365991189928,0.06268378386941871,3,4,-9,NA,NA,Columbia,made,Tai Bibbs,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,276,2,2:26,146,146,Rio Haskett missed Layup.,57,64,-7,29,0.023358393822331323,0.039916882664395734,3,4,-9,NA,NA,Harvard,missed,Rio Haskett,NA,FALSE,FALSE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,277,2,2:20,140,140,Chris Lewis Offensive Rebound.,57,64,-7,6,0.02110284572820724,0.03582919104524857,3,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,278,2,2:20,140,140,Chris Lewis made Layup.,57,66,-9,0,0.008344819279239319,0.014298183729045599,3,4,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,279,2,2:06,126,126,Mike Smith made Jumper.,59,66,-7,14,0.01621516468149928,0.02709022773836791,3,4,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,280,2,2:05,125,125,Columbia  Timeout,59,66,-7,1,0.01588736464403497,0.02651057211461365,2,4,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,281,2,2:05,125,125,Harvard  Timeout,59,66,-7,0,0.01588736464403497,0.02651057211461365,2,3,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,282,2,1:53,113,113,Foul on Jack Forrest.,59,66,-7,12,0.012198396567499742,0.020050461362567565,2,3,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,283,2,1:53,113,113,Justin Bassey made Free Throw.,59,67,-8,0,0.007035093474627758,0.011602596900662038,2,3,-9,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,284,2,1:53,113,113,Justin Bassey made Free Throw.,59,68,-9,0,0.004048341890389174,0.0066897743026396025,2,3,-9,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,285,2,1:45,105,105,Mike Smith missed Layup.,59,68,-9,8,0.0031224761232846125,0.005100138139548146,2,3,-9,NA,NA,Columbia,missed,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,286,2,1:44,104,104,Chris Lewis Defensive Rebound.,59,68,-9,1,0.0030176143242338855,0.0049215552538817335,2,3,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,287,2,1:44,104,104,Foul on Randy Brumant.,59,68,-9,0,0.0030176143242338855,0.0049215552538817335,2,3,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,288,2,1:44,104,104,Chris Lewis made Free Throw.,59,69,-10,0,0.0016751478137692233,0.002734392747440352,2,3,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,289,2,1:44,104,104,Chris Lewis made Free Throw.,59,70,-11,0,9.293567451757977e-4,0.0015177331257399589,2,3,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,290,2,1:44,104,104,Harvard  Timeout,59,70,-11,0,9.293567451757977e-4,0.0015177331257399589,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,291,2,1:32,92,92,Jack Forrest made Jumper. Assisted by Mike Smith.,61,70,-9,12,0.0019431470575972814,0.0031116967093806143,2,2,-9,NA,NA,Columbia,made,Jack Forrest,Mike Smith,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,292,2,1:24,84,84,Foul on Jack Forrest.,61,70,-9,8,0.0014238226443084412,0.002251503696238808,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,293,2,1:24,84,84,Chris Ledlum made Free Throw.,61,71,-10,0,7.239344511916015e-4,0.0011452307344644406,2,2,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,294,2,1:24,84,84,Chris Ledlum made Free Throw.,61,72,-11,0,3.6795354749685256e-4,5.822061506613707e-4,2,2,-9,NA,NA,Harvard,made,Chris Ledlum,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,295,2,1:16,76,76,Mike Smith made Layup.,63,72,-9,8,0.0010282202032138442,0.0016050612434973563,2,2,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,296,2,1:16,76,76,Foul on Chris Lewis.,63,72,-9,0,0.0010282202032138442,0.0016050612434973563,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,297,2,1:16,76,76,Mike Smith made Free Throw.,64,72,-8,0,0.002099151207596188,0.0032748248953838165,2,2,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,TRUE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,298,2,1:10,70,70,Foul on Jake Killingsworth.,64,72,-8,6,0.0016705158473760207,0.0025806970216117595,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,299,2,1:10,70,70,Rio Haskett missed Free Throw.,64,72,-8,0,0.0016705158473760207,0.0025806970216117595,2,2,-9,NA,NA,Harvard,missed,Rio Haskett,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,300,2,1:10,70,70,Harvard Deadball Team Rebound.,64,72,-8,0,0.0016705158473760207,0.0025806970216117595,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,301,2,1:10,70,70,Rio Haskett missed Free Throw.,64,72,-8,0,0.0016705158473760207,0.0025806970216117595,2,2,-9,NA,NA,Harvard,missed,Rio Haskett,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,302,2,1:09,69,69,Chris Ledlum Offensive Rebound.,64,72,-8,1,0.0016065118316441974,0.002477717493230794,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,303,2,1:07,67,67,Justin Bassey made Layup. Assisted by Chris Ledlum.,64,74,-10,2,3.2514629088060303e-4,5.0012037423224e-4,2,2,-9,NA,NA,Harvard,made,Justin Bassey,Chris Ledlum,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,304,2,1:07,67,67,Foul on Jake Killingsworth.,64,74,-10,0,3.2514629088060303e-4,5.0012037423224e-4,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,305,2,1:07,67,67,Justin Bassey made Free Throw.,64,75,-11,0,1.520838724511123e-4,2.3394801640043552e-4,2,2,-9,NA,NA,Harvard,made,Justin Bassey,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,306,2,0:58,58,58,Mike Smith made Layup.,66,75,-9,9,4.6054568145195685e-4,6.974771704638701e-4,2,2,-9,NA,NA,Columbia,made,Mike Smith,NA,FALSE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,307,2,0:56,56,56,Foul on Mike Smith.,66,75,-9,2,4.191719191803802e-4,6.326314322237025e-4,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,308,2,0:56,56,56,Chris Lewis made Free Throw.,66,76,-10,0,1.8496807202618635e-4,2.791947041571023e-4,2,2,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Harvard
+401172291,2020-02-28,Columbia,Harvard,309,2,0:56,56,56,Chris Lewis made Free Throw.,66,77,-11,0,8.161021239437116e-5,1.2319066117524226e-4,2,2,-9,NA,NA,Harvard,made,Chris Lewis,NA,FALSE,TRUE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,310,2,0:48,48,48,Mike Smith missed Three Point Jumper.,66,77,-11,8,5.065260407110916e-5,7.539399520862344e-5,2,2,-9,NA,NA,Columbia,missed,Mike Smith,NA,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,311,2,0:43,43,43,Justin Bassey Defensive Rebound.,66,77,-11,5,3.714070344983525e-5,5.479123397009838e-5,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,312,2,0:18,18,18,Chris Ledlum missed Jumper.,66,77,-11,25,6.924864081074919e-6,9.755301051315891e-6,2,2,-9,NA,NA,Harvard,missed,Chris Ledlum,NA,FALSE,FALSE,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,313,2,0:15,15,15,Jake Killingsworth Defensive Rebound.,66,77,-11,3,5.568405674678885e-6,7.799672604402307e-6,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,Columbia
+401172291,2020-02-28,Columbia,Harvard,314,2,0:08,8,8,Mike Smith made Three Point Jumper. Assisted by Jack Forrest.,69,77,-8,7,9.432615389086902e-5,1.303445370847211e-4,2,2,-9,NA,NA,Columbia,made,Mike Smith,Jack Forrest,TRUE,FALSE,Columbia,Harvard
+401172291,2020-02-28,Columbia,Harvard,315,2,0:00,0,0,End of 2nd half,69,77,-8,8,0,0,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,NA
+401172291,2020-02-28,Columbia,Harvard,316,2,0:00,0,0,End of Game,69,77,-8,0,0,0,2,2,-9,NA,NA,NA,NA,NA,NA,NA,NA,Harvard,NA

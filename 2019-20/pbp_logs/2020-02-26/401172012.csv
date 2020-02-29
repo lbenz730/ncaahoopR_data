@@ -1,0 +1,306 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172012,2020-02-26,Manhattan,Marist,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan
+401172012,2020-02-26,Manhattan,Marist,2,1,19:44,2384,2384,Pauly Paulicap made Layup. Assisted by Samir Stewart.,2,0,2,16,0.7574893086537409,0.5443630098696349,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Samir Stewart,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,3,1,19:44,2384,2384,Foul on Jordan Jones.,2,0,2,0,0.7574893086537409,0.5443630098696349,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,4,1,19:44,2384,2384,Pauly Paulicap made Free Throw.,3,0,3,0,0.7734549451865976,0.566326754274086,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,5,1,19:27,2367,2367,Jordan Jones missed Dunk.,3,0,3,17,0.7735455734886114,0.5668642200525459,4,4,6,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,6,1,19:20,2360,2360,Christian Hinckson Defensive Rebound.,3,0,3,7,0.7735823979062633,0.5670872430693348,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,7,1,19:19,2359,2359,Pauly Paulicap made Jumper. Assisted by Tykei Greene.,5,0,5,1,0.8035690807646936,0.6106816485444028,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Tykei Greene,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,8,1,19:11,2351,2351,Foul on Samir Stewart.,5,0,5,8,0.8037163832688817,0.6110951431348689,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,9,1,19:01,2341,2341,Tyler Sagl Turnover.,5,0,5,10,0.8039005367846952,0.6116146008433824,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,10,1,18:40,2320,2320,Tykei Greene made Layup.,7,0,7,21,0.8315707450242444,0.6552574668816571,4,4,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,11,1,18:16,2296,2296,Jordan Jones Turnover.,7,0,7,24,0.832261373815315,0.6569492241301105,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,12,1,17:56,2276,2276,Samir Stewart missed Layup.,7,0,7,20,0.8328360866641825,0.658370352318664,4,4,6,NA,NA,Manhattan,missed,Samir Stewart,NA,FALSE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,13,1,17:54,2274,2274,Pauly Paulicap Offensive Rebound.,7,0,7,2,0.8328934748783886,0.6585129715614694,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,14,1,17:47,2267,2267,Elijah Buchanan missed Three Point Jumper.,7,0,7,7,0.8330941765887304,0.6590128099970922,4,4,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,15,1,17:46,2266,2266,Manhattan Offensive Rebound.,7,0,7,1,0.8331228266588292,0.6590842983454988,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,16,1,17:45,2265,2265,Manhattan  Turnover.,7,0,7,1,0.8331514709550016,0.6591558068778735,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,17,1,17:32,2252,2252,Braden Bell missed Jumper.,7,0,7,13,0.8335232649442287,0.6600871742398827,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,18,1,17:32,2252,2252,Pauly Paulicap Block.,7,0,7,0,0.8335232649442287,0.6600871742398827,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,19,1,17:29,2249,2249,Samir Stewart Defensive Rebound.,7,0,7,3,0.8336088932731635,0.6603025444418771,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,20,1,17:02,2222,2222,Pauly Paulicap made Jumper. Assisted by Elijah Buchanan.,9,0,9,27,0.859282360901234,0.7038509003707766,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Elijah Buchanan,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,21,1,16:50,2210,2210,Michael Cubbage Turnover.,9,0,9,12,0.8597122523369212,0.7048898384088353,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,22,1,16:50,2210,2210,Elijah Buchanan Steal.,9,0,9,0,0.8597122523369212,0.7048898384088353,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,23,1,16:48,2208,2208,Elijah Buchanan made Jumper.,11,0,11,2,0.8815475463259306,0.7436826898105445,4,4,6,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,24,1,16:19,2179,2179,Michael Cubbage made Jumper.,11,2,9,29,0.8608139133570525,0.7075774070984714,4,4,6,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,25,1,15:57,2157,2157,Tykei Greene made Layup. Assisted by Warren Williams.,13,2,11,22,0.8835983866290934,0.7486287327576949,4,4,6,NA,NA,Manhattan,made,Tykei Greene,Warren Williams,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,26,1,15:31,2131,2131,Braden Bell made Layup. Assisted by Michael Cubbage.,13,4,9,26,0.862496339557774,0.711751116448708,4,4,6,NA,NA,Marist,made,Braden Bell,Michael Cubbage,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,27,1,15:15,2115,2115,Tykei Greene made Layup. Assisted by Elijah Buchanan.,15,4,11,16,0.8852664883578499,0.7527100781491605,4,4,6,NA,NA,Manhattan,made,Tykei Greene,Elijah Buchanan,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,28,1,14:53,2093,2093,Matthew Herasme missed Three Point Jumper.,15,4,11,22,0.8861366047776328,0.7548563183225002,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,29,1,14:50,2090,2090,Tobias Sjoberg Offensive Rebound.,15,4,11,3,0.8862551338544595,0.7551495237465795,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,30,1,14:47,2087,2087,Tyler Sagl made Three Point Jumper. Assisted by Tobias Sjoberg.,15,7,8,3,0.8515267600286817,0.6942911729911733,4,4,6,NA,NA,Marist,made,Tyler Sagl,Tobias Sjoberg,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,31,1,14:29,2069,2069,Warren Williams made Layup. Assisted by Christian Hinckson.,17,7,10,18,0.8763051587903234,0.7376944788014281,4,4,6,NA,NA,Manhattan,made,Warren Williams,Christian Hinckson,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,32,1,14:07,2047,2047,Michael Cubbage Turnover.,17,7,10,22,0.8771293408744213,0.739764750715966,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,33,1,14:07,2047,2047,Official TV Timeout,17,7,10,0,0.8771293408744213,0.739764750715966,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,34,1,13:41,2021,2021,Christian Hinckson missed Jumper.,17,7,10,26,0.8781045842562998,0.742225815002488,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,35,1,13:39,2019,2019,Braden Bell Defensive Rebound.,17,7,10,2,0.8781796942691124,0.7424158174494672,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,36,1,13:31,2011,2011,Michael Cubbage missed Three Point Jumper.,17,7,10,8,0.8784803021495391,0.7431768575300576,4,4,6,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,37,1,13:28,2008,2008,Nehemiah Mack Defensive Rebound.,17,7,10,3,0.8785931048428613,0.7434626791343195,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,38,1,13:12,1992,1992,Elijah Buchanan missed Three Point Jumper.,17,7,10,16,0.8791955121791171,0.7449911611187993,4,4,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,39,1,13:10,1990,1990,Michael Cubbage Defensive Rebound.,17,7,10,2,0.8792709165382947,0.7451827182234069,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,40,1,13:00,1980,1980,Matthew Herasme missed Three Point Jumper.,17,7,10,10,0.8796483251245268,0.7461422095824963,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,41,1,12:58,1978,1978,Tobias Sjoberg Offensive Rebound.,17,7,10,2,0.8797238883587143,0.7463344539219667,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,42,1,12:52,1972,1972,Braden Bell made Jumper. Assisted by Michael Cubbage.,17,9,8,6,0.8551430389450816,0.7038642687059695,4,4,6,NA,NA,Marist,made,Braden Bell,Michael Cubbage,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,43,1,12:24,1944,1944,Elijah Buchanan missed Three Point Jumper.,17,9,8,28,0.85603519199166,0.7062569753194968,4,4,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,44,1,12:21,1941,1941,Matthew Herasme Defensive Rebound.,17,9,8,3,0.856131226202795,0.7065149736097571,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,45,1,12:12,1932,1932,Braden Bell made Three Point Jumper. Assisted by Michael Cubbage.,17,12,5,9,0.8107696841101576,0.634463660199752,4,4,6,NA,NA,Marist,made,Braden Bell,Michael Cubbage,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,46,1,11:53,1913,1913,Pauly Paulicap Turnover.,17,12,5,19,0.8110704917906187,0.6356118535653895,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,47,1,11:53,1913,1913,Jordan Jones Steal.,17,12,5,0,0.8110704917906187,0.6356118535653895,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,48,1,11:44,1904,1904,Jordan Jones made Jumper. Assisted by Tyler Saint-Furcy.,17,14,3,9,0.7745879751034143,0.583030604955373,4,4,6,NA,NA,Marist,made,Jordan Jones,Tyler Saint-Furcy,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,49,1,11:33,1893,1893,Foul on Jordan Jones.,17,14,3,11,0.7745778905701536,0.5834480717837793,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,50,1,11:33,1893,1893,Official TV Timeout,17,14,3,0,0.7745778905701536,0.5834480717837793,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,51,1,11:18,1878,1878,Pauly Paulicap made Dunk. Assisted by Samir Stewart.,19,14,5,15,0.8115979681821222,0.6377192408456538,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Samir Stewart,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,52,1,10:58,1858,1858,Michael Cubbage Turnover.,19,14,5,20,0.8118879496769605,0.6389237403033098,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,53,1,10:40,1840,1840,Tykei Greene missed Three Point Jumper.,19,14,5,18,0.8121443613129014,0.6400109288661632,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,54,1,10:37,1837,1837,Tyler Saint-Furcy Defensive Rebound.,19,14,5,3,0.8121868061877046,0.6401925686545883,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,55,1,10:25,1825,1825,Braden Bell missed Three Point Jumper.,19,14,5,12,0.8123560555629937,0.6409207392310161,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,56,1,10:22,1822,1822,Nehemiah Mack Defensive Rebound.,19,14,5,3,0.8123982761429136,0.6411032322472088,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,57,1,9:56,1796,1796,Pauly Paulicap made Dunk. Assisted by Samir Stewart.,21,14,7,26,0.8459135107237948,0.6946411611838633,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Samir Stewart,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,58,1,9:27,1767,1767,Tyler Sagl made Jumper. Assisted by Michael Cubbage.,21,16,5,29,0.8131770063815799,0.6444938855527119,4,4,6,NA,NA,Marist,made,Tyler Sagl,Michael Cubbage,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,59,1,9:07,1747,1747,Samir Stewart missed Three Point Jumper.,21,16,5,20,0.8134682175053127,0.6457547564764768,4,4,6,NA,NA,Manhattan,missed,Samir Stewart,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,60,1,9:05,1745,1745,Matthew Herasme Defensive Rebound.,21,16,5,2,0.8134977424452724,0.6458818568083877,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,61,1,8:57,1737,1737,Tyler Saint-Furcy Turnover.,21,16,5,8,0.8136166948725445,0.6463922371859259,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,62,1,8:57,1737,1737,Tyler Reynolds Steal.,21,16,5,0,0.8136166948725445,0.6463922371859259,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,63,1,8:52,1732,1732,Tyler Reynolds missed Three Point Jumper.,21,16,5,5,0.8136917809342225,0.6467128882810935,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,64,1,8:49,1729,1729,Tyler Reynolds Offensive Rebound.,21,16,5,3,0.8137371249776444,0.6469059148735038,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,65,1,8:32,1712,1712,Tykei Greene Turnover.,21,16,5,17,0.8139986339771251,0.6480092215997563,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,66,1,8:32,1712,1712,Tyler Saint-Furcy Steal.,21,16,5,0,0.8139986339771251,0.6480092215997563,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,67,1,8:27,1707,1707,Foul on Tyler Reynolds.,21,16,5,5,0.8140771581115932,0.6483369485605345,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,68,1,8:27,1707,1707,Tyler Saint-Furcy missed Free Throw.,21,16,5,0,0.8140771581115932,0.6483369485605345,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,69,1,8:27,1707,1707,Marist Offensive Rebound.,21,16,5,0,0.8140771581115932,0.6483369485605345,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,70,1,8:27,1707,1707,Tyler Saint-Furcy missed Free Throw.,21,16,5,0,0.8140771581115932,0.6483369485605345,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,71,1,8:26,1706,1706,Christian Hinckson Defensive Rebound.,21,16,5,1,0.8140929574837267,0.6484026776117341,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,72,1,8:06,1686,1686,Tykei Greene Turnover.,21,16,5,20,0.8144148447694565,0.64972927692674,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,73,1,8:06,1686,1686,Matthew Herasme Steal.,21,16,5,0,0.8144148447694565,0.64972927692674,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,74,1,7:46,1666,1666,Foul on Christian Hinckson.,21,16,5,20,0.8147110067421682,0.6510359275991273,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,75,1,7:46,1666,1666,Official TV Timeout,21,16,5,0,0.8147110067421682,0.6510359275991273,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,76,1,7:34,1654,1654,Braden Bell missed Jumper.,21,16,5,12,0.814870094197161,0.6518030794820814,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,77,1,7:33,1653,1653,Warren Williams Defensive Rebound.,21,16,5,1,0.8148828000413372,0.6518665295980064,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,78,1,7:32,1652,1652,Foul on Zion Tordoff.,21,16,5,1,0.8148954261627134,0.6519299119017411,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,79,1,7:15,1635,1635,Warren Williams missed Dunk.,21,16,5,17,0.8150989323826539,0.6529982601786999,4,4,6,NA,NA,Manhattan,missed,Warren Williams,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,80,1,7:13,1633,1633,Braden Bell Defensive Rebound.,21,16,5,2,0.8151216295011688,0.6531229715936346,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,81,1,6:48,1608,1608,Foul on Nehemiah Mack.,21,16,5,25,0.8153886240943143,0.6546707365350705,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,82,1,6:48,1608,1608,Zion Tordoff made Free Throw.,21,17,4,0,0.795350653372945,0.6252066094313566,4,4,6,NA,NA,Marist,made,Zion Tordoff,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,83,1,6:48,1608,1608,Zion Tordoff made Free Throw.,21,18,3,0,0.7737412512944594,0.5947845747630514,4,4,6,NA,NA,Marist,made,Zion Tordoff,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,84,1,6:36,1596,1596,Tykei Greene Turnover.,21,18,3,12,0.7736520906892533,0.5952575645806943,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,85,1,6:36,1596,1596,Tyler Saint-Furcy Steal.,21,18,3,0,0.7736520906892533,0.5952575645806943,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,86,1,6:33,1593,1593,Tyler Saint-Furcy made Dunk.,21,20,1,3,0.7254042196117888,0.5321418082347733,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,87,1,6:16,1576,1576,Tykei Greene Turnover.,21,20,1,17,0.7248827798055306,0.5323734027008216,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,88,1,6:01,1561,1561,Braden Bell missed Jumper.,21,20,1,15,0.7244177214400365,0.5325794815527023,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,89,1,5:58,1558,1558,Tyler Reynolds Defensive Rebound.,21,20,1,3,0.7243243239621465,0.5326209784847286,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,90,1,5:48,1548,1548,Tyler Reynolds Turnover.,21,20,1,10,0.7240124038849988,0.5327601449252958,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,91,1,5:37,1537,1537,Matthew Herasme missed Three Point Jumper.,21,20,1,11,0.7236687438110218,0.5329149800471623,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,92,1,5:35,1535,1535,Elijah Buchanan Defensive Rebound.,21,20,1,2,0.7236062535451026,0.532943356427059,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,93,1,5:30,1530,1530,Elijah Buchanan missed Jumper.,21,20,1,5,0.72345007709647,0.5330146284419034,4,4,6,NA,NA,Manhattan,missed,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,94,1,5:28,1528,1528,Christian Hinckson Offensive Rebound.,21,20,1,2,0.7233876378441796,0.5330432754334644,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,95,1,5:26,1526,1526,Tyler Reynolds made Three Point Jumper. Assisted by Christian Hinckson.,24,20,4,2,0.7955093851428131,0.6294658040342648,4,4,6,NA,NA,Manhattan,made,Tyler Reynolds,Christian Hinckson,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,96,1,5:20,1520,1520,Foul on Michael Okafor.,24,20,4,6,0.7955273672110849,0.6297907314638257,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,97,1,4:58,1498,1498,Zion Tordoff missed Layup.,24,20,4,22,0.7956118749558704,0.6310091047839352,4,4,6,NA,NA,Marist,missed,Zion Tordoff,NA,FALSE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,98,1,4:58,1498,1498,Pauly Paulicap Block.,24,20,4,0,0.7956118749558704,0.6310091047839352,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,99,1,4:56,1496,1496,Marist Offensive Rebound.,24,20,4,2,0.7956212411609931,0.631122209897655,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,100,1,4:50,1490,1490,Foul on Pauly Paulicap.,24,20,4,6,0.7956512596189184,0.6314641106168378,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,101,1,4:50,1490,1490,Tobias Sjoberg missed Free Throw.,24,20,4,0,0.7956512596189184,0.6314641106168378,4,4,6,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,102,1,4:50,1490,1490,Marist Offensive Rebound.,24,20,4,0,0.7956512596189184,0.6314641106168378,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,103,1,4:50,1490,1490,Tobias Sjoberg missed Free Throw.,24,20,4,0,0.7956512596189184,0.6314641106168378,4,4,6,NA,NA,Marist,missed,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,104,1,4:48,1488,1488,Christian Hinckson Defensive Rebound.,24,20,4,2,0.7956619319313663,0.6315789660793716,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,105,1,4:19,1459,1459,Tyler Reynolds missed Three Point Jumper.,24,20,4,29,0.7958595507119455,0.6332998419022561,4,4,6,NA,NA,Manhattan,missed,Tyler Reynolds,NA,TRUE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,106,1,4:19,1459,1459,Pauly Paulicap Offensive Rebound.,24,20,4,0,0.7958595507119455,0.6332998419022561,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,107,1,4:19,1459,1459,Foul on Tobias Sjoberg.,24,20,4,0,0.7958595507119455,0.6332998419022561,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,108,1,4:13,1453,1453,Christian Hinckson made Jumper. Assisted by Nehemiah Mack.,26,20,6,6,0.8368442613680324,0.6946589133799638,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,Nehemiah Mack,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,109,1,3:48,1428,1428,Tyler Sagl Turnover.,26,20,6,25,0.8374658985381824,0.6967555325615908,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,110,1,3:48,1428,1428,Nehemiah Mack Steal.,26,20,6,0,0.8374658985381824,0.6967555325615908,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,111,1,3:43,1423,1423,Elijah Buchanan made Jumper.,28,20,8,5,0.8719459527376946,0.7524571887409942,4,4,6,NA,NA,Manhattan,made,Elijah Buchanan,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,112,1,3:22,1402,1402,Matthew Herasme Turnover.,28,20,8,21,0.8726121324012487,0.7544216941024464,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,113,1,3:21,1401,1401,Official TV Timeout,28,20,8,1,0.8726428361068483,0.7545137334995153,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,114,1,3:03,1383,1383,Warren Williams Turnover.,28,20,8,18,0.873184055686174,0.7561538010875464,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,115,1,3:03,1383,1383,Matthew Herasme Steal.,28,20,8,0,0.873184055686174,0.7561538010875464,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,116,1,2:55,1375,1375,Braden Bell missed Three Point Jumper.,28,20,8,8,0.8734194220332733,0.7568753604491095,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,117,1,2:52,1372,1372,Elijah Buchanan Defensive Rebound.,28,20,8,3,0.8735071658115611,0.7571452446781346,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,118,1,2:41,1361,1361,Elijah Buchanan Turnover.,28,20,8,11,0.873827535394272,0.7581331882103345,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,119,1,2:41,1361,1361,Braden Bell Steal.,28,20,8,0,0.873827535394272,0.7581331882103345,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,120,1,2:37,1357,1357,Braden Bell missed Jumper.,28,20,8,4,0.873943841461734,0.7584923230530107,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,121,1,2:36,1356,1356,Manhattan Defensive Rebound.,28,20,8,1,0.8739729268494406,0.7585821352060211,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,122,1,2:36,1356,1356,Manhattan Defensive Rebound.,28,20,8,0,0.8739729268494406,0.7585821352060211,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,123,1,2:27,1347,1347,Warren Williams Turnover.,28,20,8,9,0.8742352447470277,0.7593915546901102,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,124,1,2:27,1347,1347,Tobias Sjoberg Steal.,28,20,8,0,0.8742352447470277,0.7593915546901102,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,125,1,2:17,1337,1337,Foul on Warren Williams.,28,20,8,10,0.87452903868857,0.7602950459180824,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,126,1,2:17,1337,1337,Braden Bell made Free Throw.,28,21,7,0,0.8578228666941338,0.7330222131594248,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,127,1,2:17,1337,1337,Braden Bell made Free Throw.,28,22,6,0,0.8393010482479578,0.7038550324336229,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,128,1,1:46,1306,1306,Manhattan  Turnover.,28,22,6,31,0.8399352680747755,0.7063108578772208,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,129,1,1:25,1285,1285,Tobias Sjoberg Turnover.,28,22,6,21,0.8404128039065272,0.7080483264794263,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,130,1,1:13,1273,1273,Foul on Tobias Sjoberg.,28,22,6,12,0.8407102713923817,0.7090779120535529,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,131,1,1:03,1263,1263,Foul on Zion Tordoff.,28,22,6,10,0.8409744862625509,0.7099599800344327,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,132,1,0:52,1252,1252,Foul on Michael Cubbage.,28,22,6,11,0.8412843900597164,0.7109584567037899,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,133,1,0:52,1252,1252,Samir Stewart made Free Throw.,29,22,7,0,0.8603047037574244,0.7407846606968308,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,134,1,0:52,1252,1252,Samir Stewart made Free Throw.,30,22,8,0,0.8773778750297652,0.768535118410592,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,135,1,0:52,1252,1252,Samir Stewart made Free Throw.,31,22,9,0,0.8926248449708458,0.7941403133481353,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,136,1,0:35,1235,1235,Tyler Saint-Furcy missed Jumper.,31,22,9,17,0.8933745353811688,0.7960557625403594,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,137,1,0:32,1232,1232,Christian Hinckson Defensive Rebound.,31,22,9,3,0.8935130423643947,0.7964036169254698,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,138,1,0:06,1206,1206,Tykei Greene made Three Point Jumper. Assisted by Christian Hinckson.,34,22,12,26,0.930981480267534,0.8634969347279564,4,4,6,NA,NA,Manhattan,made,Tykei Greene,Christian Hinckson,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,139,1,0:00,1200,1200,End of 1st half,34,22,12,6,0.9312862266916835,0.8642163350891481,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401172012,2020-02-26,Manhattan,Marist,140,2,20:00,1200,1200,PLAY,34,22,12,0,0.9312862266916835,0.8642163350891481,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401172012,2020-02-26,Manhattan,Marist,141,2,19:40,1180,1180,Jordan Jones Turnover.,34,22,12,20,0.9322643335708225,0.8665352908648016,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,142,2,19:40,1180,1180,Elijah Buchanan Steal.,34,22,12,0,0.9322643335708225,0.8665352908648016,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,143,2,19:15,1155,1155,Christian Hinckson missed Jumper.,34,22,12,25,0.933426160201981,0.8693033924807678,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,144,2,19:11,1151,1151,Christian Hinckson Offensive Rebound.,34,22,12,4,0.9336077695326053,0.8697366766206924,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,145,2,19:11,1151,1151,Christian Hinckson made Layup.,36,22,14,0,0.9507300180480663,0.9015947766583187,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,146,2,18:45,1125,1125,Foul on Christian Hinckson.,36,22,14,26,0.9518005220686556,0.9041278496915925,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,147,2,18:30,1110,1110,Matthew Herasme Turnover.,36,22,14,15,0.95241336018148115,0.905572492211601,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,148,2,18:13,1093,1093,Tykei Greene missed Three Point Jumper.,36,22,14,17,0.9531122130711855,0.9072117132167796,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,149,2,18:09,1089,1089,Matthew Herasme Defensive Rebound.,36,22,14,4,0.9532780872075797,0.9075992296783645,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,150,2,18:03,1083,1083,Michael Cubbage missed Jumper.,36,22,14,6,0.9535283245836124,0.908182580066949,4,4,6,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,151,2,18:00,1080,1080,Elijah Buchanan Defensive Rebound.,36,22,14,3,0.953654169020706,0.9084753524608747,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,152,2,17:57,1077,1077,Elijah Buchanan Turnover.,36,22,14,3,0.9537805481436209,0.908768954937764,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,153,2,17:57,1077,1077,Tyler Saint-Furcy Steal.,36,22,14,0,0.9537805481436209,0.908768954937764,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,154,2,17:44,1064,1064,Braden Bell made Jumper. Assisted by Michael Cubbage.,36,24,12,13,0.937560192487098,0.8790714236974743,4,4,6,NA,NA,Marist,made,Braden Bell,Michael Cubbage,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,155,2,17:14,1034,1034,Foul on Matthew Herasme.,36,24,12,30,0.9390476303806359,0.882485618765565,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,156,2,16:57,1017,1017,Christian Hinckson missed Three Point Jumper.,36,24,12,17,0.9399466853687352,0.8845170915327374,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,157,2,16:54,1014,1014,Tykei Greene Offensive Rebound.,36,24,12,3,0.9401102370398164,0.8848841070208175,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,158,2,16:53,1013,1013,Tykei Greene missed Layup.,36,24,12,1,0.9401650983049498,0.8850070461734968,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,159,2,16:53,1013,1013,Pauly Paulicap Offensive Rebound.,36,24,12,0,0.9401650983049498,0.8850070461734968,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,160,2,16:53,1013,1013,Foul on Jordan Jones.,36,24,12,0,0.9401650983049498,0.8850070461734968,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,161,2,16:53,1013,1013,Pauly Paulicap missed Free Throw.,36,24,12,0,0.9401650983049498,0.8850070461734968,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,162,2,16:53,1013,1013,Manhattan Offensive Rebound.,36,24,12,0,0.9401650983049498,0.8850070461734968,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,163,2,16:53,1013,1013,Pauly Paulicap made Free Throw.,37,24,13,0,0.9490456497251997,0.9012138485035024,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,164,2,16:32,992,992,Braden Bell made Jumper.,37,26,11,21,0.9310953071582553,0.8693047332439535,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,165,2,16:32,992,992,Foul on Nehemiah Mack.,37,26,11,0,0.9310953071582553,0.8693047332439535,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,166,2,16:32,992,992,Braden Bell made Free Throw.,37,27,10,0,0.9191891369260734,0.8484593772259924,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,167,2,16:20,980,980,Foul on Matthew Herasme.,37,27,10,12,0.9199633795484413,0.8501650136590096,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,168,2,16:03,963,963,Warren Williams made Layup.,39,27,12,17,0.9431366484209898,0.891551420608932,4,4,6,NA,NA,Manhattan,made,Warren Williams,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,169,2,15:48,948,948,Michael Cubbage missed Jumper.,39,27,12,15,0.9439950324681095,0.8934297956587152,4,4,6,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,170,2,15:48,948,948,Samir Stewart Defensive Rebound.,39,27,12,0,0.9439950324681095,0.8934297956587152,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,171,2,15:48,948,948,Warren Williams Block.,39,27,12,0,0.9439950324681095,0.8934297956587152,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,172,2,15:38,938,938,Tykei Greene missed Three Point Jumper.,39,27,12,10,0.9445224650955913,0.8945895052540901,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,173,2,15:35,935,935,Braden Bell Defensive Rebound.,39,27,12,3,0.9446746965935695,0.8949249762666083,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,174,2,15:23,923,923,Braden Bell missed Three Point Jumper.,39,27,12,12,0.9452598767744935,0.8962173223984343,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,175,2,15:18,918,918,Tykei Greene Defensive Rebound.,39,27,12,5,0.945493936171504,0.896735300715065,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,176,2,15:02,902,902,Christian Hinckson made Jumper.,41,27,14,16,0.9619689639073163,0.927030179602342,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,177,2,14:46,886,886,Tyler Saint-Furcy missed Jumper.,41,27,14,16,0.9625659986874838,0.92834914935238,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,178,2,14:43,883,883,Tobias Sjoberg Offensive Rebound.,41,27,14,3,0.9626761915727267,0.9285922799894085,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,179,2,14:38,878,878,Michael Cubbage missed Jumper.,41,27,14,5,0.9628592288341979,0.9289957962646435,4,4,6,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,180,2,14:35,875,875,Tykei Greene Defensive Rebound.,41,27,14,3,0.9629688445564414,0.9292372138487809,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,181,2,14:19,859,859,Official TV Timeout,41,27,14,16,0.9635552586396128,0.9305248361866337,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,182,2,14:14,854,854,Christian Hinckson missed Jumper.,41,27,14,5,0.963740615480847,0.9309301948411516,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,183,2,14:13,853,853,Tyler Saint-Furcy Defensive Rebound.,41,27,14,1,0.9637778826498768,0.9310115871760697,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,184,2,13:57,837,837,Foul on Warren Williams.,41,27,14,16,0.964386324904635,0.9323349190402678,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,185,2,13:46,826,826,Braden Bell made Jumper.,41,29,12,11,0.9495331843404015,0.9056178020484797,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,186,2,13:26,806,806,Nehemiah Mack Turnover.,41,29,12,20,0.9505283985796897,0.9077481726044667,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,187,2,13:26,806,806,Tyler Saint-Furcy Steal.,41,29,12,0,0.9505283985796897,0.9077481726044667,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,188,2,13:23,803,803,Foul on Nehemiah Mack.,41,29,12,3,0.9506862796449161,0.9080835806860085,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,189,2,13:23,803,803,Tyler Saint-Furcy missed Free Throw.,41,29,12,0,0.9506862796449161,0.9080835806860085,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,190,2,13:23,803,803,Marist Offensive Rebound.,41,29,12,0,0.9506862796449161,0.9080835806860085,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,191,2,13:23,803,803,Tyler Saint-Furcy made Free Throw.,41,30,11,0,0.9409280444034944,0.8908628704617995,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,192,2,13:05,785,785,Foul on Tobias Sjoberg.,41,30,11,18,0.9420005257935843,0.8931241811358687,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,193,2,12:55,775,775,Tyler Reynolds made Layup. Assisted by Samir Stewart.,43,30,13,10,0.9603821247899009,0.9259351595890538,4,4,6,NA,NA,Manhattan,made,Tyler Reynolds,Samir Stewart,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,194,2,12:29,749,749,Michael Cubbage Turnover.,43,30,13,26,0.9619760571178168,0.9292373942576883,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,195,2,12:29,749,749,Pauly Paulicap Steal.,43,30,13,0,0.9619760571178168,0.9292373942576883,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,196,2,12:19,739,739,Foul on Jordan Jones.,43,30,13,10,0.9626527456610185,0.9306263295622432,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,197,2,12:19,739,739,Pauly Paulicap missed Free Throw.,43,30,13,0,0.9626527456610185,0.9306263295622432,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,198,2,12:19,739,739,Manhattan Offensive Rebound.,43,30,13,0,0.9626527456610185,0.9306263295622432,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,199,2,12:19,739,739,Pauly Paulicap missed Free Throw.,43,30,13,0,0.9626527456610185,0.9306263295622432,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,200,2,12:18,738,738,Elijah Buchanan Offensive Rebound.,43,30,13,1,0.9627224511079052,0.9307690195756405,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,201,2,12:15,735,735,Samir Stewart made Three Point Jumper. Assisted by Tykei Greene.,46,30,16,3,0.9793363798136314,0.9610785697169866,4,4,6,NA,NA,Manhattan,made,Samir Stewart,Tykei Greene,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,202,2,12:11,731,731,Official TV Timeout,46,30,16,4,0.9795416643720255,0.9614992847349166,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,203,2,11:55,715,715,Braden Bell made Jumper. Assisted by Zion Tordoff.,46,32,14,16,0.9706970194061617,0.9455183894662724,4,4,6,NA,NA,Marist,made,Braden Bell,Zion Tordoff,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,204,2,11:37,697,697,Official TV Timeout,46,32,14,18,0.9716376977744773,0.9474628135345509,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,205,2,11:19,679,679,Samir Stewart Turnover.,46,32,14,18,0.9724655259701841,0.949185848131107,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,206,2,11:19,679,679,Michael Cubbage Steal.,46,32,14,0,0.9724655259701841,0.949185848131107,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,207,2,11:17,677,677,Foul on Tykei Greene.,46,32,14,2,0.9725528917083469,0.9493681261943816,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,208,2,11:17,677,677,Tyler Saint-Furcy made Free Throw.,46,33,13,0,0.9663752924376343,0.938303300830379,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,209,2,11:17,677,677,Tyler Saint-Furcy made Free Throw.,46,34,12,0,0.9588660902887638,0.9250114228795874,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,210,2,11:05,665,665,Nehemiah Mack Turnover.,46,34,12,12,0.9594989032585401,0.926337109224669,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,211,2,10:47,647,647,Braden Bell Turnover.,46,34,12,18,0.9604338318151392,0.9282931042220296,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,212,2,10:47,647,647,Samir Stewart Steal.,46,34,12,0,0.9604338318151392,0.9282931042220296,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,213,2,10:44,644,644,Foul on Tyler Saint-Furcy.,46,34,12,3,0.9605912840436491,0.9286213976732347,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,214,2,10:44,644,644,Samir Stewart missed Free Throw.,46,34,12,0,0.9605912840436491,0.9286213976732347,4,4,6,NA,NA,Manhattan,missed,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,215,2,10:44,644,644,Manhattan Offensive Rebound.,46,34,12,0,0.9605912840436491,0.9286213976732347,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,216,2,10:44,644,644,Samir Stewart missed Free Throw.,46,34,12,0,0.9605912840436491,0.9286213976732347,4,4,6,NA,NA,Manhattan,missed,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,217,2,10:43,643,643,Michael Cubbage Defensive Rebound.,46,34,12,1,0.9606440052788991,0.9287312200233337,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,218,2,10:21,621,621,Michael Cubbage made Jumper. Assisted by Braden Bell.,46,36,10,22,0.9423024869059903,0.8976574136829825,4,4,6,NA,NA,Marist,made,Michael Cubbage,Braden Bell,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,219,2,10:06,606,606,Foul on Zion Tordoff.,46,36,10,15,0.9433856720716347,0.8998721407957762,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,220,2,10:06,606,606,Pauly Paulicap made Free Throw.,47,36,11,0,0.95403383518019,0.9179930032288008,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,221,2,10:06,606,606,Pauly Paulicap missed Free Throw.,47,36,11,0,0.95403383518019,0.9179930032288008,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,222,2,10:05,605,605,Michael Cubbage Defensive Rebound.,47,36,11,1,0.9541039595246278,0.9181351582762365,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,223,2,9:41,581,581,Braden Bell missed Jumper.,47,36,11,24,0.95595019258318,0.9218337107331586,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,224,2,9:37,577,577,Michael Cubbage Offensive Rebound.,47,36,11,4,0.9562918989097436,0.922509820536785,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,225,2,9:33,573,573,Braden Bell missed Three Point Jumper.,47,36,11,4,0.9566443051452878,0.9232046784187197,4,4,6,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,226,2,9:31,571,571,Marist Offensive Rebound.,47,36,11,2,0.9568246196457841,0.9235593052354518,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,227,2,9:31,571,571,Foul on Samir Stewart.,47,36,11,0,0.9568246196457841,0.9235593052354518,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,228,2,9:19,559,559,Michael Cubbage made Three Point Jumper. Assisted by Zion Tordoff.,47,39,8,12,0.9196823530924709,0.8624119858846299,4,4,6,NA,NA,Marist,made,Michael Cubbage,Zion Tordoff,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,229,2,8:42,522,522,Nehemiah Mack missed Jumper.,47,39,8,37,0.9239960475352125,0.8708213736624352,4,4,6,NA,NA,Manhattan,missed,Nehemiah Mack,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,230,2,8:40,520,520,Michael Cubbage Defensive Rebound.,47,39,8,2,0.9241835596853727,0.8711969757962422,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,231,2,8:31,511,511,Foul on Tobias Sjoberg.,47,39,8,9,0.9249958862368516,0.8728322216405012,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,232,2,8:31,511,511,Tobias Sjoberg Turnover.,47,39,8,0,0.9249958862368516,0.8728322216405012,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,233,2,8:20,500,500,Christian Hinckson missed Three Point Jumper.,47,39,8,11,0.9259528383089752,0.8747667531126347,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,234,2,8:17,497,497,Michael Cubbage Defensive Rebound.,47,39,8,3,0.9262135893614144,0.8752933584520102,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,235,2,8:07,487,487,Matthew Herasme made Three Point Jumper. Assisted by Michael Cubbage.,47,42,5,10,0.8588911859113919,0.7734978302414917,4,4,6,NA,NA,Marist,made,Matthew Herasme,Michael Cubbage,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,236,2,7:39,459,459,Warren Williams made Jumper.,49,42,7,28,0.9117079175051721,0.8540599346067603,4,4,6,NA,NA,Manhattan,made,Warren Williams,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,237,2,7:32,452,452,Braden Bell Turnover.,49,42,7,7,0.9126485372079776,0.8558534095968527,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,238,2,7:32,452,452,Christian Hinckson Steal.,49,42,7,0,0.9126485372079776,0.8558534095968527,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,239,2,7:12,432,432,Samir Stewart made Three Point Jumper. Assisted by Warren Williams.,52,42,10,20,0.95978883985775,0.9318733500761379,4,4,6,NA,NA,Manhattan,made,Samir Stewart,Warren Williams,TRUE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,240,2,6:52,412,412,Official TV Timeout,52,42,10,20,0.9624041489311107,0.9367376367512125,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,241,2,6:48,408,408,Zion Tordoff made Jumper.,52,44,8,4,0.9378180197693596,0.8973392271554431,4,4,6,NA,NA,Marist,made,Zion Tordoff,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,242,2,6:15,375,375,Christian Hinckson missed Jumper.,52,44,8,33,0.9423478106972164,0.9059752461576918,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,243,2,6:11,371,371,Zion Tordoff Defensive Rebound.,52,44,8,4,0.9429074906266111,0.9070368498990315,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,244,2,5:52,352,352,Tyler Saint-Furcy missed Jumper.,52,44,8,19,0.9457569564244367,0.9123662411462274,4,4,6,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,245,2,5:50,350,350,Tykei Greene Defensive Rebound.,52,44,8,2,0.9460809990791323,0.9129633206241968,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,246,2,5:29,329,329,Foul on Zion Tordoff.,52,44,8,21,0.9498508774950698,0.9197779868070161,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,247,2,5:29,329,329,Samir Stewart made Free Throw.,53,44,9,0,0.9625370740088732,0.9395878547726274,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,248,2,5:29,329,329,Samir Stewart made Free Throw.,54,44,10,0,0.9721082867540753,0.9547465912885296,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,249,2,5:13,313,313,Michael Cubbage missed Three Point Jumper.,54,44,10,16,0.9745578311388045,0.9590495653995219,4,4,6,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,250,2,5:09,309,309,Christian Hinckson Defensive Rebound.,54,44,10,4,0.9752067114090388,0.9601754380444915,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,251,2,4:58,298,298,Pauly Paulicap made Dunk. Assisted by Nehemiah Mack.,56,44,12,11,0.9874450381713444,0.9798170699653262,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,Nehemiah Mack,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,252,2,4:36,276,276,Matthew Herasme Turnover.,56,44,12,22,0.9872493527777164,0.979780115821768,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,253,2,4:36,276,276,Nehemiah Mack Steal.,56,44,12,0,0.9872493527777164,0.979780115821768,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,254,2,4:16,256,256,Christian Hinckson missed Three Point Jumper.,56,44,12,20,0.9861817858746779,0.9783722659102098,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,TRUE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,255,2,4:14,254,254,Pauly Paulicap Offensive Rebound.,56,44,12,2,0.9860705333442291,0.9782272288464556,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,256,2,4:13,253,253,Pauly Paulicap missed Layup.,56,44,12,1,0.9860163318631565,0.9781571238324601,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,FALSE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,257,2,4:12,252,252,Pauly Paulicap Offensive Rebound.,56,44,12,1,0.9859632995801434,0.9780889650698683,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,258,2,4:11,251,251,Foul on Michael Cubbage.,56,44,12,1,0.9859116035303801,0.9780230085394536,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,259,2,4:11,251,251,Pauly Paulicap missed Free Throw.,56,44,12,0,0.9859116035303801,0.9780230085394536,4,4,6,NA,NA,Manhattan,missed,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,260,2,4:11,251,251,Manhattan Offensive Rebound.,56,44,12,0,0.9859116035303801,0.9780230085394536,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,261,2,4:11,251,251,Pauly Paulicap made Free Throw.,57,44,13,0,0.989692371908679,0.9838861635557953,4,4,6,NA,NA,Manhattan,made,Pauly Paulicap,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,262,2,3:44,224,224,Braden Bell made Jumper.,57,46,11,27,0.9804131552431572,0.97008250533670215,4,4,6,NA,NA,Marist,made,Braden Bell,NA,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,263,2,3:22,202,202,Pauly Paulicap Turnover.,57,46,11,22,0.9836165703458909,0.9753360083074953,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,264,2,3:22,202,202,Official TV Timeout,57,46,11,0,0.9836165703458909,0.9753360083074953,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,265,2,3:13,193,193,Zion Tordoff Turnover.,57,46,11,9,0.9859016377140906,0.9789033608887135,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,266,2,3:13,193,193,Tykei Greene Steal.,57,46,11,0,0.9859016377140906,0.9789033608887135,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,267,2,2:55,175,175,Tykei Greene made Jumper.,59,46,13,18,0.9955842489777479,0.9934610547925944,4,4,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,FALSE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,268,2,2:55,175,175,Foul on Zion Tordoff.,59,46,13,0,0.9955842489777479,0.9934610547925944,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,269,2,2:55,175,175,Tykei Greene missed Free Throw.,59,46,13,0,0.9955842489777479,0.9934610547925944,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,270,2,2:54,174,174,Michael Cubbage Defensive Rebound.,59,46,13,1,0.9957019901687992,0.9936405714023019,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,271,2,2:46,166,166,Tyler Saint-Furcy made Three Point Jumper. Assisted by Michael Cubbage.,59,49,10,8,0.9884394454849049,0.9830721776145863,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,Michael Cubbage,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,272,2,2:16,136,136,Tykei Greene Turnover.,59,49,10,30,0.9943746486594034,0.9919628804689884,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,273,2,2:16,136,136,Michael Cubbage Steal.,59,49,10,0,0.9943746486594034,0.9919628804689884,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,274,2,2:10,130,130,Foul on Tykei Greene.,59,49,10,6,0.9952534033133247,0.9932545330366128,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,275,2,2:10,130,130,Matthew Herasme missed Free Throw.,59,49,10,0,0.9952534033133247,0.9932545330366128,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,276,2,2:10,130,130,Marist Offensive Rebound.,59,49,10,0,0.9952534033133247,0.9932545330366128,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,277,2,2:10,130,130,Matthew Herasme made Free Throw.,59,50,9,0,0.9922043088885761,0.9889356891764846,4,4,6,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,278,2,2:10,130,130,Matthew Herasme made Free Throw.,59,51,8,0,0.9872217005631543,0.9819020518908254,4,4,6,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,279,2,1:43,103,103,Samir Stewart Turnover.,59,51,8,27,0.9938051176778238,0.9914350852994744,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,280,2,1:25,85,85,Jordan Jones made Dunk. Assisted by Tyler Saint-Furcy.,59,53,6,18,0.9871602361436622,0.9826241347614197,4,4,6,NA,NA,Marist,made,Jordan Jones,Tyler Saint-Furcy,FALSE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,281,2,1:14,74,74,Foul on Matthew Herasme.,59,53,6,11,0.9904573092800603,0.9872241758549799,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,282,2,1:14,74,74,Samir Stewart made Free Throw.,60,53,7,0,0.9953533365224733,0.9937685766065896,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,283,2,1:14,74,74,Samir Stewart made Free Throw.,61,53,8,0,0.9977431040541807,0.996970901886939,4,4,6,NA,NA,Manhattan,made,Samir Stewart,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,284,2,1:03,63,63,Matthew Herasme missed Three Point Jumper.,61,53,8,11,0.9985422810614034,0.9980671276427953,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,285,2,0:59,59,59,Foul on Samir Stewart.,61,53,8,4,0.9987642329821103,0.9983688042052631,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401172012,2020-02-26,Manhattan,Marist,286,2,0:59,59,59,Matthew Herasme missed Free Throw.,61,53,8,0,0.9987642329821103,0.9983688042052631,4,4,6,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,TRUE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,287,2,0:58,58,58,Matthew Herasme Offensive Rebound.,61,53,8,1,0.9988148779555993,0.9984374314164169,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,288,2,0:58,58,58,Pauly Paulicap Defensive Rebound.,61,53,8,0,0.9988148779555993,0.9984374314164169,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,289,2,0:47,47,47,Manhattan Defensive Rebound.,61,53,8,11,0.9992640508439949,0.9990419222758379,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,290,2,0:46,46,46,Manhattan Defensive Rebound.,61,53,8,1,0.9992963713889816,0.9990850750059551,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,291,2,0:43,43,43,Foul on Matthew Herasme.,61,53,8,3,0.999386164015944,0.9992046605148502,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,292,2,0:43,43,43,Christian Hinckson made Free Throw.,62,53,9,0,0.9997483354972616,0.9996738865566699,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,293,2,0:43,43,43,Christian Hinckson made Free Throw.,63,53,10,0,0.9998968429933152,0.9998663205789873,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,294,2,0:32,32,32,Tyler Saint-Furcy made Three Point Jumper. Assisted by Braden Bell.,63,56,7,11,0.999049608528854,0.9987850101573519,4,4,6,NA,NA,Marist,made,Tyler Saint-Furcy,Braden Bell,TRUE,FALSE,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,295,2,0:27,27,27,Foul on Matthew Herasme.,63,56,7,5,0.9992329061041221,0.9990253104137609,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,296,2,0:27,27,27,Christian Hinckson made Free Throw.,64,56,8,0,0.999714926712708,0.9996377311247803,4,4,6,NA,NA,Manhattan,made,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,297,2,0:27,27,27,Christian Hinckson missed Free Throw.,64,56,8,0,0.999714926712708,0.9996377311247803,4,4,6,NA,NA,Manhattan,missed,Christian Hinckson,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,298,2,0:26,26,26,Michael Cubbage Defensive Rebound.,64,56,8,1,0.9997287604986284,0.9996557365726595,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,299,2,0:19,19,19,Tyler Sagl Turnover.,64,56,8,7,0.9998098100918305,0.9997607039400961,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,300,2,0:19,19,19,Tykei Greene Steal.,64,56,8,0,0.9998098100918305,0.9997607039400961,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Manhattan
+401172012,2020-02-26,Manhattan,Marist,301,2,0:18,18,18,Foul on Tyler Sagl.,64,56,8,1,0.9998194840241716,0.9997731619232068,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,302,2,0:18,18,18,Tykei Greene made Free Throw.,65,56,9,0,0.9999367524963272,0.9999205201985519,4,4,6,NA,NA,Manhattan,made,Tykei Greene,NA,FALSE,TRUE,Manhattan,Manhattan
+401172012,2020-02-26,Manhattan,Marist,303,2,0:18,18,18,Tykei Greene missed Free Throw.,65,56,9,0,0.9999367524963272,0.9999205201985519,4,4,6,NA,NA,Manhattan,missed,Tykei Greene,NA,FALSE,TRUE,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,304,2,0:17,17,17,Michael Cubbage Defensive Rebound.,65,56,9,1,0.9999403956772994,0.9999251932032505,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Manhattan,Marist
+401172012,2020-02-26,Manhattan,Marist,305,2,0:00,0,0,End of Game,65,56,9,17,1,1,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA

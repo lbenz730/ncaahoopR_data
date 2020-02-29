@@ -1,0 +1,359 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401172895,2020-02-26,Lehigh,Boston Univ.,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,2,1,19:32,2372,2672,Marques Wilson made Jumper.,2,0,2,28,0.5446180346713736,0.5446180346713736,4,4,NA,NA,NA,Lehigh,made,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,3,1,19:12,2352,2652,Max Mahoney missed Jumper.,2,0,2,20,0.5450475200660853,0.5450475200660853,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,4,1,19:08,2348,2648,Jeameril Wilson Defensive Rebound.,2,0,2,4,0.5451340534009399,0.5451340534009399,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,5,1,18:52,2332,2632,Jeameril Wilson made Jumper. Assisted by Nic Lynch.,4,0,4,16,0.5902178807265178,0.5902178807265178,4,4,NA,NA,NA,Lehigh,made,Jeameril Wilson,Nic Lynch,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,6,1,18:31,2311,2611,Javante McCoy made Jumper.,4,2,2,21,0.5459437285227066,0.5459437285227066,4,4,NA,NA,NA,Boston Univ.,made,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,7,1,17:56,2276,2576,Jordan Cohen missed Layup.,4,2,2,35,0.5467233091847613,0.5467233091847613,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,8,1,17:53,2273,2573,Jonas Harper Defensive Rebound.,4,2,2,3,0.5467906738870376,0.5467906738870376,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,9,1,17:51,2271,2571,Walter Whyte made Dunk. Assisted by Jonas Harper.,4,4,0,2,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,Jonas Harper,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,10,1,17:37,2257,2557,Foul on James Karnik.,4,4,0,14,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,11,1,17:37,2257,2557,James Karnik Turnover.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,12,1,17:20,2240,2540,Javante McCoy missed Jumper.,4,4,0,17,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,13,1,17:17,2237,2537,James Karnik Defensive Rebound.,4,4,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,14,1,17:07,2227,2527,Nic Lynch missed Jumper.,4,4,0,10,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,15,1,17:05,2225,2525,James Karnik Offensive Rebound.,4,4,0,2,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,16,1,17:02,2222,2522,James Karnik missed Layup.,4,4,0,3,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,17,1,16:57,2217,2517,Max Mahoney Defensive Rebound.,4,4,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,18,1,16:34,2194,2494,Javante McCoy missed Jumper.,4,4,0,23,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,19,1,16:31,2191,2491,Jeameril Wilson Defensive Rebound.,4,4,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,20,1,16:28,2188,2488,Jordan Cohen Turnover.,4,4,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,21,1,16:28,2188,2488,Javante McCoy Steal.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,22,1,16:22,2182,2482,Jonas Harper missed Layup.,4,4,0,6,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Jonas Harper,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,23,1,16:19,2179,2479,Jonas Harper Offensive Rebound.,4,4,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,24,1,16:13,2173,2473,Jonas Harper missed Layup.,4,4,0,6,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Jonas Harper,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,25,1,16:13,2173,2473,Nic Lynch Block.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,26,1,16:08,2168,2468,Nic Lynch Defensive Rebound.,4,4,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,27,1,16:04,2164,2464,Foul on Javante McCoy.,4,4,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,28,1,16:04,2164,2464,Marques Wilson missed Free Throw.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,TRUE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,29,1,16:04,2164,2464,Lehigh Offensive Rebound.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,30,1,16:04,2164,2464,Marques Wilson made Free Throw.,5,4,1,0,0.5247005411416555,0.5247005411416555,4,4,NA,NA,NA,Lehigh,made,Marques Wilson,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,31,1,15:56,2156,2456,Official TV Timeout,5,4,1,8,0.5247939107609239,0.5247939107609239,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,32,1,15:48,2148,2448,Jack Hemphill missed Three Point Jumper.,5,4,1,8,0.5248875332213728,0.5248875332213728,4,4,NA,NA,NA,Boston Univ.,missed,Jack Hemphill,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,33,1,15:45,2145,2445,Jeameril Wilson Defensive Rebound.,5,4,1,3,0.524922708612251,0.524922708612251,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,34,1,15:36,2136,2436,Jordan Cohen missed Three Point Jumper.,5,4,1,9,0.5250284600940679,0.5250284600940679,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,35,1,15:36,2136,2436,Lehigh Offensive Rebound.,5,4,1,0,0.5250284600940679,0.5250284600940679,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,36,1,15:36,2136,2436,Foul on Jack Hemphill.,5,4,1,0,0.5250284600940679,0.5250284600940679,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,37,1,15:26,2126,2426,Foul on Marques Wilson.,5,4,1,10,0.5251463699997507,0.5251463699997507,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,38,1,15:26,2126,2426,Marques Wilson Turnover.,5,4,1,0,0.5251463699997507,0.5251463699997507,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,39,1,15:04,2104,2404,Fletcher Tynen missed Layup.,5,4,1,22,0.5254073665373863,0.5254073665373863,4,4,NA,NA,NA,Boston Univ.,missed,Fletcher Tynen,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,40,1,15:01,2101,2401,Jeameril Wilson Defensive Rebound.,5,4,1,3,0.5254431343288437,0.5254431343288437,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,41,1,14:59,2099,2399,Jeameril Wilson Turnover.,5,4,1,2,0.5254670039376211,0.5254670039376211,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,42,1,14:43,2083,2383,Walter Whyte missed Three Point Jumper.,5,4,1,16,0.52565868112771,0.52565868112771,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,43,1,14:38,2078,2378,Jordan Cohen Defensive Rebound.,5,4,1,5,0.5257188497269558,0.5257188497269558,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,44,1,14:36,2076,2376,Jordan Cohen Turnover.,5,4,1,2,0.5257429540116557,0.5257429540116557,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,45,1,14:26,2066,2366,Javante McCoy missed Jumper.,5,4,1,10,0.5258637970437559,0.5258637970437559,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,46,1,14:23,2063,2363,Jordan Cohen Defensive Rebound.,5,4,1,3,0.5259001561376713,0.5259001561376713,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,47,1,14:14,2054,2354,Foul on Javante McCoy.,5,4,1,9,0.5260095342158724,0.5260095342158724,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,48,1,14:04,2044,2344,Evan Taylor missed Three Point Jumper.,5,4,1,10,0.5261316064624199,0.5261316064624199,4,4,NA,NA,NA,Lehigh,missed,Evan Taylor,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,49,1,14:01,2041,2341,Jack Hemphill Defensive Rebound.,5,4,1,3,0.5261683416298986,0.5261683416298986,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,50,1,13:43,2023,2323,Jack Hemphill missed Three Point Jumper.,5,4,1,18,0.5263898859159339,0.5263898859159339,4,4,NA,NA,NA,Boston Univ.,missed,Jack Hemphill,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,51,1,13:40,2020,2320,Jeameril Wilson Defensive Rebound.,5,4,1,3,0.526427003135809,0.526427003135809,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,52,1,13:26,2006,2306,Nic Lynch missed Jumper.,5,4,1,14,0.5266009702327366,0.5266009702327366,4,4,NA,NA,NA,Lehigh,missed,Nic Lynch,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,53,1,13:23,2003,2303,Jack Hemphill Defensive Rebound.,5,4,1,3,0.5266384132347128,0.5266384132347128,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,54,1,13:13,1993,2293,Jack Hemphill missed Layup.,5,4,1,10,0.5267636521026683,0.5267636521026683,4,4,NA,NA,NA,Boston Univ.,missed,Jack Hemphill,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,55,1,13:13,1993,2293,Jack Hemphill Offensive Rebound.,5,4,1,0,0.5267636521026683,0.5267636521026683,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,56,1,13:13,1993,2293,Jack Hemphill made Layup.,5,6,-1,0,0.47323634789733177,0.47323634789733177,4,4,NA,NA,NA,Boston Univ.,made,Jack Hemphill,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,57,1,13:13,1993,2293,Foul on Nic Lynch.,5,6,-1,0,0.47323634789733177,0.47323634789733177,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,58,1,13:13,1993,2293,Jack Hemphill made Free Throw.,5,7,-2,0,0.4466256225821303,0.4466256225821303,4,4,NA,NA,NA,Boston Univ.,made,Jack Hemphill,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,59,1,12:54,1974,2274,James Karnik made Layup.,7,7,0,19,0.5,0.5,4,4,NA,NA,NA,Lehigh,made,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,60,1,12:35,1955,2255,Andrew Petcash missed Three Point Jumper.,7,7,0,19,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Andrew Petcash,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,61,1,12:32,1952,2252,Jeameril Wilson Defensive Rebound.,7,7,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,62,1,12:08,1928,2228,James Karnik made Layup. Assisted by Jordan Cohen.,9,7,2,24,0.5550220977035871,0.5550220977035871,4,4,NA,NA,NA,Lehigh,made,James Karnik,Jordan Cohen,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,63,1,11:42,1902,2202,Jack Hemphill Turnover.,9,7,2,26,0.555691160002145,0.555691160002145,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,64,1,11:42,1902,2202,Evan Taylor Steal.,9,7,2,0,0.555691160002145,0.555691160002145,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,65,1,11:36,1896,2196,Foul on Jack Hemphill.,9,7,2,6,0.5558453488551554,0.5558453488551554,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,66,1,11:36,1896,2196,Official TV Timeout,9,7,2,0,0.5558453488551554,0.5558453488551554,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,67,1,11:36,1896,2196,Jordan Cohen missed Free Throw.,9,7,2,0,0.5558453488551554,0.5558453488551554,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,68,1,11:36,1896,2196,Lehigh Offensive Rebound.,9,7,2,0,0.5558453488551554,0.5558453488551554,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,69,1,11:36,1896,2196,Jordan Cohen made Free Throw.,10,7,3,0,0.5833342325523655,0.5833342325523655,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,70,1,11:19,1879,2179,Jonas Harper missed Three Point Jumper.,10,7,3,17,0.5839793940933239,0.5839793940933239,4,4,NA,NA,NA,Boston Univ.,missed,Jonas Harper,NA,TRUE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,71,1,11:16,1876,2176,Max Mahoney Offensive Rebound.,10,7,3,3,0.5840933029430563,0.5840933029430563,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,72,1,11:08,1868,2168,Fletcher Tynen missed Three Point Jumper.,10,7,3,8,0.5843972361919785,0.5843972361919785,4,4,NA,NA,NA,Boston Univ.,missed,Fletcher Tynen,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,73,1,11:03,1863,2163,Evan Taylor Defensive Rebound.,10,7,3,5,0.5845873639208103,0.5845873639208103,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,74,1,10:41,1841,2141,Evan Taylor made Jumper.,12,7,5,22,0.6399504143194021,0.6399504143194021,4,4,NA,NA,NA,Lehigh,made,Evan Taylor,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,75,1,10:12,1812,2112,Andrew Petcash made Three Point Jumper. Assisted by Max Mahoney.,12,10,2,29,0.5580181787143008,0.5580181787143008,4,4,NA,NA,NA,Boston Univ.,made,Andrew Petcash,Max Mahoney,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,76,1,9:50,1790,2090,Jeameril Wilson missed Jumper.,12,10,2,22,0.5585983071186554,0.5585983071186554,4,4,NA,NA,NA,Lehigh,missed,Jeameril Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,77,1,9:48,1788,2088,Max Mahoney Defensive Rebound.,12,10,2,2,0.5586514059427342,0.5586514059427342,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,78,1,9:36,1776,2076,Max Mahoney made Jumper. Assisted by Jonas Harper.,12,12,0,12,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,Jonas Harper,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,79,1,9:01,1741,2041,Reed Fenton missed Three Point Jumper.,12,12,0,35,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Reed Fenton,NA,TRUE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,80,1,8:58,1738,2038,James Karnik Offensive Rebound.,12,12,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,81,1,8:58,1738,2038,James Karnik missed Layup.,12,12,0,0,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,82,1,8:54,1734,2034,Jonas Harper Defensive Rebound.,12,12,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,83,1,8:51,1731,2031,Foul on Evan Taylor.,12,12,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,84,1,8:51,1731,2031,Alex Vilarino missed Free Throw.,12,12,0,0,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Alex Vilarino,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,85,1,8:51,1731,2031,Boston University Offensive Rebound.,12,12,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,86,1,8:51,1731,2031,Alex Vilarino made Free Throw.,12,13,-1,0,0.4697916980247994,0.4697916980247994,4,4,NA,NA,NA,Boston Univ.,made,Alex Vilarino,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,87,1,8:31,1711,2011,Nic Lynch Turnover.,12,13,-1,20,0.46950854334579023,0.46950854334579023,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,88,1,8:14,1694,1994,Walter Whyte Turnover.,12,13,-1,17,0.4692633762545538,0.4692633762545538,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,89,1,7:55,1675,1975,Foul on Alex Vilarino.,12,13,-1,19,0.4689883696758813,0.4689883696758813,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,90,1,7:55,1675,1975,Official TV Timeout,12,13,-1,0,0.4689883696758813,0.4689883696758813,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,91,1,7:50,1670,1970,Marques Wilson made Jumper.,14,13,1,5,0.5310828203365737,0.5310828203365737,4,4,NA,NA,NA,Lehigh,made,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,92,1,7:31,1651,1951,Walter Whyte made Three Point Jumper. Assisted by Alex Vilarino.,14,16,-2,19,0.4375466438026241,0.4375466438026241,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,Alex Vilarino,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,93,1,7:08,1628,1928,Marques Wilson missed Jumper.,14,16,-2,23,0.4369210460663011,0.4369210460663011,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,94,1,7:08,1628,1928,Lehigh Offensive Rebound.,14,16,-2,0,0.4369210460663011,0.4369210460663011,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,95,1,7:05,1625,1925,Evan Taylor missed Jumper.,14,16,-2,3,0.4368401289001044,0.4368401289001044,4,4,NA,NA,NA,Lehigh,missed,Evan Taylor,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,96,1,7:02,1622,1922,Walter Whyte Defensive Rebound.,14,16,-2,3,0.4367593219887009,0.4367593219887009,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,97,1,7:01,1621,1921,Max Mahoney Turnover.,14,16,-2,1,0.4367324083189744,0.4367324083189744,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,98,1,6:36,1596,1896,James Karnik missed Jumper.,14,16,-2,25,0.4360614313363722,0.4360614313363722,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,99,1,6:33,1593,1893,Max Mahoney Defensive Rebound.,14,16,-2,3,0.4359809348491352,0.4359809348491352,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,100,1,6:13,1573,1873,Alex Vilarino missed Jumper.,14,16,-2,20,0.4354424103924037,0.4354424103924037,4,4,NA,NA,NA,Boston Univ.,missed,Alex Vilarino,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,101,1,6:10,1570,1870,James Karnik Defensive Rebound.,14,16,-2,3,0.4353611875786637,0.4353611875786637,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,102,1,5:44,1544,1844,Jordan Cohen missed Jumper.,14,16,-2,26,0.4346490701294855,0.4346490701294855,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,103,1,5:40,1540,1840,Walter Whyte Defensive Rebound.,14,16,-2,4,0.4345378537685399,0.4345378537685399,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,104,1,5:31,1531,1831,Walter Whyte missed Jumper.,14,16,-2,9,0.4342855875824481,0.4342855875824481,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,105,1,5:29,1529,1829,Nic Lynch Defensive Rebound.,14,16,-2,2,0.43422911713129225,0.43422911713129225,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,106,1,5:21,1521,1821,Evan Taylor made Three Point Jumper. Assisted by Jordan Cohen.,17,16,1,8,0.5331442020535577,0.5331442020535577,4,4,NA,NA,NA,Lehigh,made,Evan Taylor,Jordan Cohen,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,107,1,5:00,1500,1800,Max Mahoney made Layup. Assisted by Javante McCoy.,17,18,-1,21,0.4665460318608259,0.4665460318608259,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,Javante McCoy,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,108,1,4:37,1477,1777,James Karnik Turnover.,17,18,-1,23,0.4661923822038113,0.4661923822038113,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,109,1,4:27,1467,1767,Walter Whyte Turnover.,17,18,-1,10,0.46603311774680894,0.46603311774680894,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,110,1,3:58,1438,1738,James Karnik missed Three Point Jumper.,17,18,-1,29,0.4655549758090917,0.4655549758090917,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,111,1,3:57,1437,1737,Boston University Defensive Rebound.,17,18,-1,1,0.46553864748303486,0.46553864748303486,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,112,1,3:57,1437,1737,Official TV Timeout,17,18,-1,0,0.46553864748303486,0.46553864748303486,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,113,1,3:34,1414,1714,Walter Whyte made Three Point Jumper. Assisted by Ethan Brittain-Watts.,17,21,-4,23,0.3639722153372846,0.3639722153372846,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,Ethan Brittain-Watts,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,114,1,3:21,1401,1701,Jordan Cohen missed Layup.,17,21,-4,13,0.3632198330072369,0.3632198330072369,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,115,1,3:21,1401,1701,Sukhmail Mathon Block.,17,21,-4,0,0.3632198330072369,0.3632198330072369,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,116,1,3:21,1401,1701,Lehigh Offensive Rebound.,17,21,-4,0,0.3632198330072369,0.3632198330072369,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,117,1,3:12,1392,1692,Foul on Walter Whyte.,17,21,-4,9,0.36270519944304114,0.36270519944304114,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,118,1,3:05,1385,1685,Marques Wilson Turnover.,17,21,-4,7,0.36230747203675856,0.36230747203675856,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,119,1,3:05,1385,1685,Jonas Harper Steal.,17,21,-4,0,0.36230747203675856,0.36230747203675856,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,120,1,2:44,1364,1664,Andrew Petcash made Three Point Jumper. Assisted by Sukhmail Mathon.,17,24,-7,21,0.26926039440389743,0.26926039440389743,4,4,NA,NA,NA,Boston Univ.,made,Andrew Petcash,Sukhmail Mathon,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,121,1,2:24,1344,1644,Reed Fenton missed Three Point Jumper.,17,24,-7,20,0.2675724530569702,0.2675724530569702,4,4,NA,NA,NA,Lehigh,missed,Reed Fenton,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,122,1,2:22,1342,1642,Jonas Harper Defensive Rebound.,17,24,-7,2,0.2674028516307585,0.2674028516307585,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,123,1,2:09,1329,1629,Foul on Nic Lynch.,17,24,-7,13,0.26629384309249765,0.26629384309249765,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,124,1,2:06,1326,1626,Fletcher Tynen made Layup. Assisted by Max Mahoney.,17,26,-9,3,0.2133616728594594,0.2133616728594594,4,4,NA,NA,NA,Boston Univ.,made,Fletcher Tynen,Max Mahoney,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,125,1,2:06,1326,1626,Foul on Reed Fenton.,17,26,-9,0,0.2133616728594594,0.2133616728594594,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,126,1,2:05,1325,1625,Foul on Lehigh.,17,26,-9,1,0.21326644445232001,0.21326644445232001,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,127,1,2:05,1325,1625,Fletcher Tynen made Free Throw.,17,27,-10,0,0.18994217810500671,0.18994217810500671,4,4,NA,NA,NA,Boston Univ.,made,Fletcher Tynen,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,128,1,1:44,1304,1604,Marques Wilson Turnover.,17,27,-10,21,0.1878774963990438,0.1878774963990438,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,129,1,1:44,1304,1604,Fletcher Tynen Steal.,17,27,-10,0,0.1878774963990438,0.1878774963990438,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,130,1,1:20,1280,1580,Max Mahoney Turnover.,17,27,-10,24,0.18543174823482442,0.18543174823482442,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,131,1,0:49,1249,1549,James Karnik missed Jumper.,17,27,-10,31,0.1820787877937269,0.1820787877937269,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,132,1,0:46,1246,1546,Evan Taylor Offensive Rebound.,17,27,-10,3,0.18174018142677614,0.18174018142677614,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,133,1,0:46,1246,1546,Evan Taylor made Layup.,19,27,-8,0,0.23082095342900316,0.23082095342900316,4,4,NA,NA,NA,Lehigh,made,Evan Taylor,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,134,1,0:32,1232,1532,Max Mahoney missed Jumper.,19,27,-8,14,0.2292740676073061,0.2292740676073061,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,135,1,0:32,1232,1532,Walter Whyte Offensive Rebound.,19,27,-8,0,0.2292740676073061,0.2292740676073061,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,136,1,0:32,1232,1532,Foul on Evan Taylor.,19,27,-8,0,0.2292740676073061,0.2292740676073061,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,137,1,0:32,1232,1532,Walter Whyte missed Free Throw.,19,28,-9,0,0.2035963830745303,0.2035963830745303,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,138,1,0:32,1232,1532,Walter Whyte made Free Throw.,19,28,-9,0,0.2035963830745303,0.2035963830745303,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,139,1,0:30,1230,1530,James Karnik Defensive Rebound.,19,28,-9,2,0.20336275311641122,0.20336275311641122,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,140,1,0:03,1203,1503,Jeameril Wilson made Jumper.,21,28,-7,27,0.2539165923073383,0.2539165923073383,4,4,NA,NA,NA,Lehigh,made,Jeameril Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,141,1,0:00,1200,1500,End of 1st half,21,28,-7,3,0.2535798049742589,0.2535798049742589,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,NA
+401172895,2020-02-26,Lehigh,Boston Univ.,142,2,20:00,1200,1500,PLAY,21,28,-7,0,0.2535798049742589,0.2535798049742589,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,143,2,19:41,1181,1481,Javante McCoy made Jumper.,21,30,-9,19,0.19745706704544655,0.19745706704544655,4,4,NA,NA,NA,Boston Univ.,made,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,144,2,19:18,1158,1458,Jeameril Wilson made Three Point Jumper.,24,30,-6,23,0.27969563455726154,0.27969563455726154,4,4,NA,NA,NA,Lehigh,made,Jeameril Wilson,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,145,2,18:53,1133,1433,Max Mahoney missed Layup.,24,30,-6,25,0.2773021229809257,0.2773021229809257,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,146,2,18:51,1131,1431,Sukhmail Mathon Offensive Rebound.,24,30,-6,2,0.27711137878151776,0.27711137878151776,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,147,2,18:50,1130,1430,Sukhmail Mathon missed Jumper.,24,30,-6,1,0.2770160016550221,0.2770160016550221,4,4,NA,NA,NA,Boston Univ.,missed,Sukhmail Mathon,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,148,2,18:46,1126,1426,Nic Lynch Defensive Rebound.,24,30,-6,4,0.2766343835629063,0.2766343835629063,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,149,2,18:44,1124,1424,Nic Lynch Turnover.,24,30,-6,2,0.276443463208847,0.276443463208847,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,150,2,18:44,1124,1424,Max Mahoney Steal.,24,30,-6,0,0.276443463208847,0.276443463208847,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,151,2,18:39,1119,1419,Javante McCoy missed Three Point Jumper.,24,30,-6,5,0.2759656294167705,0.2759656294167705,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,152,2,18:33,1113,1413,Jordan Cohen Defensive Rebound.,24,30,-6,6,0.27539076155658226,0.27539076155658226,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,153,2,18:30,1110,1410,James Karnik missed Three Point Jumper.,24,30,-6,3,0.2751025243679145,0.2751025243679145,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,154,2,18:25,1105,1405,Walter Whyte Defensive Rebound.,24,30,-6,5,0.2746206395842522,0.2746206395842522,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,155,2,18:18,1098,1398,Walter Whyte missed Layup.,24,30,-6,7,0.27394220244761586,0.27394220244761586,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,156,2,18:18,1098,1398,Lehigh Defensive Rebound.,24,30,-6,0,0.27394220244761586,0.27394220244761586,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,157,2,17:51,1071,1371,Jordan Cohen missed Jumper.,24,30,-6,27,0.27126499793430586,0.27126499793430586,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,158,2,17:49,1069,1369,Jordan Cohen Offensive Rebound.,24,30,-6,2,0.2710617829062453,0.2710617829062453,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,159,2,17:38,1058,1358,Jordan Cohen made Jumper.,26,30,-4,11,0.33999383977145964,0.33999383977145964,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,160,2,17:38,1058,1358,Foul on Sukhmail Mathon.,26,30,-4,0,0.33999383977145964,0.33999383977145964,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,161,2,17:38,1058,1358,Jordan Cohen missed Free Throw.,26,30,-4,0,0.33999383977145964,0.33999383977145964,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,162,2,17:36,1056,1356,Walter Whyte Defensive Rebound.,26,30,-4,2,0.3398352520360343,0.3398352520360343,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,163,2,17:12,1032,1332,Javante McCoy missed Jumper.,26,30,-4,24,0.3378664791475557,0.3378664791475557,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,164,2,17:09,1029,1329,Walter Whyte Offensive Rebound.,26,30,-4,3,0.33761092693589206,0.33761092693589206,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,165,2,16:50,1010,1310,Max Mahoney missed Jumper.,26,30,-4,19,0.3359361238321854,0.3359361238321854,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,166,2,16:47,1007,1307,Nic Lynch Defensive Rebound.,26,30,-4,3,0.3356621518841857,0.3356621518841857,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,167,2,16:44,1004,1304,Jordan Cohen made Jumper.,28,30,-2,3,0.41533260194554855,0.41533260194554855,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,168,2,16:27,987,1287,Walter Whyte missed Three Point Jumper.,28,30,-2,17,0.4144474456717601,0.4144474456717601,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,TRUE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,169,2,16:25,985,1285,Sukhmail Mathon Offensive Rebound.,28,30,-2,2,0.4143396552363759,0.4143396552363759,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,170,2,16:22,982,1282,Javante McCoy made Jumper.,28,32,-4,3,0.3332653671677025,0.3332653671677025,4,4,NA,NA,NA,Boston Univ.,made,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,171,2,16:05,965,1265,Foul on Jonas Harper.,28,32,-4,17,0.33152025851193534,0.33152025851193534,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,172,2,15:56,956,1256,Nic Lynch made Layup. Assisted by Jordan Cohen.,30,32,-2,9,0.4127350640750448,0.4127350640750448,4,4,NA,NA,NA,Lehigh,made,Nic Lynch,Jordan Cohen,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,173,2,15:56,956,1256,Foul on Jack Hemphill.,30,32,-2,0,0.4127350640750448,0.4127350640750448,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,174,2,15:56,956,1256,Official TV Timeout,30,32,-2,0,0.4127350640750448,0.4127350640750448,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,175,2,15:56,956,1256,Nic Lynch made Free Throw.,31,32,-1,0,0.45603010440990344,0.45603010440990344,4,4,NA,NA,NA,Lehigh,made,Nic Lynch,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,176,2,15:32,932,1232,Alex Vilarino missed Jumper.,31,32,-1,24,0.4554190776307455,0.4554190776307455,4,4,NA,NA,NA,Boston Univ.,missed,Alex Vilarino,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,177,2,15:30,930,1230,Nic Lynch Defensive Rebound.,31,32,-1,2,0.455371121131751,0.455371121131751,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,178,2,15:18,918,1218,Jordan Cohen made Jumper.,33,32,1,12,0.5449091699798544,0.5449091699798544,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,179,2,14:58,898,1198,Fletcher Tynen Turnover.,33,32,1,20,0.5453551811468756,0.5453551811468756,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,180,2,14:58,898,1198,Jordan Cohen Steal.,33,32,1,0,0.5453551811468756,0.5453551811468756,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,181,2,14:53,893,1193,Jordan Cohen made Three Point Jumper.,36,32,4,5,0.6746824246279629,0.6746824246279629,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,182,2,14:51,891,1191,Official TV Timeout,36,32,4,2,0.6748360865569005,0.6748360865569005,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,183,2,14:32,872,1172,Foul on Nic Lynch.,36,32,4,19,0.6762896936757158,0.6762896936757158,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,184,2,14:21,861,1161,Fletcher Tynen missed Three Point Jumper.,36,32,4,11,0.6771385180232793,0.6771385180232793,4,4,NA,NA,NA,Boston Univ.,missed,Fletcher Tynen,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,185,2,14:18,858,1158,Reed Fenton Defensive Rebound.,36,32,4,3,0.6773725569607463,0.6773725569607463,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,186,2,14:10,850,1150,Jeameril Wilson made Layup. Assisted by Marques Wilson.,38,32,6,8,0.7534174617688082,0.7534174617688082,4,4,NA,NA,NA,Lehigh,made,Jeameril Wilson,Marques Wilson,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,187,2,13:54,834,1134,Javante McCoy missed Jumper.,38,32,6,16,0.7550855036613293,0.7550855036613293,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,188,2,13:52,832,1132,Max Mahoney Offensive Rebound.,38,32,6,2,0.7553004645513216,0.7553004645513216,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,189,2,13:51,831,1131,Max Mahoney made Layup.,38,34,4,1,0.6795663615091783,0.6795663615091783,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,190,2,13:32,812,1112,Jordan Cohen missed Three Point Jumper.,38,34,4,19,0.6812536488781407,0.6812536488781407,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,191,2,13:29,809,1109,Max Mahoney Defensive Rebound.,38,34,4,3,0.6815345774631554,0.6815345774631554,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,192,2,13:13,793,1093,Javante McCoy missed Jumper.,38,34,4,16,0.6831126955226865,0.6831126955226865,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,193,2,13:11,791,1091,Marques Wilson Defensive Rebound.,38,34,4,2,0.683320255721984,0.683320255721984,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,194,2,13:06,786,1086,Jordan Cohen missed Jumper.,38,34,4,5,0.6838500560384602,0.6838500560384602,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,195,2,13:03,783,1083,Andrew Petcash Defensive Rebound.,38,34,4,3,0.684175673988295,0.684175673988295,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,196,2,13:01,781,1081,Foul on Reed Fenton.,38,34,4,2,0.684396086141749,0.684396086141749,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,197,2,12:58,778,1078,Andrew Petcash made Jumper. Assisted by Ethan Brittain-Watts.,38,36,2,3,0.595753426184808,0.595753426184808,4,4,NA,NA,NA,Boston Univ.,made,Andrew Petcash,Ethan Brittain-Watts,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,198,2,12:42,762,1062,Reed Fenton missed Jumper.,38,36,2,16,0.5968154111847702,0.5968154111847702,4,4,NA,NA,NA,Lehigh,missed,Reed Fenton,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,199,2,12:39,759,1059,Max Mahoney Defensive Rebound.,38,36,2,3,0.5970272063029792,0.5970272063029792,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,200,2,12:38,758,1058,Max Mahoney Turnover.,38,36,2,1,0.5970987445199631,0.5970987445199631,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,201,2,12:38,758,1058,Jordan Cohen Steal.,38,36,2,0,0.5970987445199631,0.5970987445199631,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,202,2,12:32,752,1052,James Karnik missed Layup.,38,36,2,6,0.5975381067115302,0.5975381067115302,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,203,2,12:29,749,1049,Javante McCoy Defensive Rebound.,38,36,2,3,0.5977644716248591,0.5977644716248591,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,204,2,12:26,746,1046,Walter Whyte made Layup. Assisted by Javante McCoy.,38,38,0,3,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,Javante McCoy,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,205,2,11:54,714,1014,Jordan Cohen missed Three Point Jumper.,38,38,0,32,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,206,2,11:51,711,1011,Javante McCoy Defensive Rebound.,38,38,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,207,2,11:28,688,988,Max Mahoney missed Jumper.,38,38,0,23,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,208,2,11:25,685,985,Walter Whyte Offensive Rebound.,38,38,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,209,2,11:25,685,985,Walter Whyte made Layup.,38,40,-2,0,0.3973389456990429,0.3973389456990429,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,210,2,10:53,653,953,Marques Wilson missed Jumper.,38,40,-2,32,0.3952812823181859,0.3952812823181859,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,211,2,10:49,649,949,James Karnik Offensive Rebound.,38,40,-2,4,0.3950225703657358,0.3950225703657358,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,212,2,10:47,647,947,Marques Wilson missed Layup.,38,40,-2,2,0.3948922890778918,0.3948922890778918,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,213,2,10:47,647,947,Max Mahoney Block.,38,40,-2,0,0.3948922890778918,0.3948922890778918,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,214,2,10:47,647,947,Javante McCoy Defensive Rebound.,38,40,-2,0,0.3948922890778918,0.3948922890778918,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,215,2,10:21,621,921,Marques Wilson missed Jumper.,38,40,-2,26,0.3931017836002959,0.3931017836002959,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,216,2,10:21,621,921,Javante McCoy missed Layup.,38,40,-2,0,0.3931017836002959,0.3931017836002959,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,217,2,10:21,621,921,Jeameril Wilson Defensive Rebound.,38,40,-2,0,0.3931017836002959,0.3931017836002959,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,218,2,10:18,618,918,James Karnik Offensive Rebound.,38,40,-2,3,0.3928789105097885,0.3928789105097885,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,219,2,10:17,617,917,James Karnik made Layup.,40,40,0,1,0.5,0.5,4,4,NA,NA,NA,Lehigh,made,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,220,2,10:03,603,903,Ethan Brittain-Watts missed Three Point Jumper.,40,40,0,14,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Ethan Brittain-Watts,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,221,2,9:59,599,899,Jeameril Wilson Defensive Rebound.,40,40,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,222,2,9:45,585,885,Foul on Max Mahoney.,40,40,0,14,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,223,2,9:36,576,876,James Karnik made Dunk. Assisted by Marques Wilson.,42,40,2,9,0.610827454962585,0.610827454962585,4,4,NA,NA,NA,Lehigh,made,James Karnik,Marques Wilson,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,224,2,9:10,550,850,Foul on Marques Wilson.,42,40,2,26,0.6138853319382451,0.6138853319382451,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,225,2,9:10,550,850,Jonas Harper made Free Throw.,42,41,1,0,0.5577010070324723,0.5577010070324723,4,4,NA,NA,NA,Boston Univ.,made,Jonas Harper,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,226,2,9:10,550,850,Jonas Harper missed Free Throw.,42,41,1,0,0.5577010070324723,0.5577010070324723,4,4,NA,NA,NA,Boston Univ.,missed,Jonas Harper,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,227,2,9:10,550,850,Sukhmail Mathon Offensive Rebound.,42,41,1,0,0.5577010070324723,0.5577010070324723,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,228,2,8:50,530,830,Sukhmail Mathon Turnover.,42,41,1,20,0.5589247023898652,0.5589247023898652,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,229,2,8:50,530,830,James Karnik made Layup. Assisted by Marques Wilson.,44,41,3,0,0.6704889822604763,0.6704889822604763,4,4,NA,NA,NA,Lehigh,made,James Karnik,Marques Wilson,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,230,2,8:27,507,807,Walter Whyte made Jumper.,44,43,1,23,0.5601024820522048,0.5601024820522048,4,4,NA,NA,NA,Boston Univ.,made,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,231,2,8:09,489,789,Evan Taylor missed Three Point Jumper.,44,43,1,18,0.5609979130855207,0.5609979130855207,4,4,NA,NA,NA,Lehigh,missed,Evan Taylor,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,232,2,8:07,487,787,Jonas Harper Defensive Rebound.,44,43,1,2,0.5611015076542238,0.5611015076542238,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,233,2,8:04,484,784,Ethan Brittain-Watts missed Layup.,44,43,1,3,0.5612595454176645,0.5612595454176645,4,4,NA,NA,NA,Boston Univ.,missed,Ethan Brittain-Watts,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,234,2,8:01,481,781,Marques Wilson Defensive Rebound.,44,43,1,3,0.5614212202311549,0.5614212202311549,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,235,2,7:49,469,769,Marques Wilson Turnover.,44,43,1,12,0.5621146774317954,0.5621146774317954,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,236,2,7:49,469,769,Walter Whyte Steal.,44,43,1,0,0.5621146774317954,0.5621146774317954,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,237,2,7:43,463,763,Andrew Petcash missed Three Point Jumper.,44,43,1,6,0.5624967258187538,0.5624967258187538,4,4,NA,NA,NA,Boston Univ.,missed,Andrew Petcash,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,238,2,7:43,463,763,Jeameril Wilson Defensive Rebound.,44,43,1,0,0.5624967258187538,0.5624967258187538,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,239,2,7:43,463,763,Foul on Sukhmail Mathon.,44,43,1,0,0.5624967258187538,0.5624967258187538,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,240,2,7:43,463,763,Official TV Timeout,44,43,1,0,0.5624967258187538,0.5624967258187538,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,241,2,7:16,436,736,Evan Taylor missed Jumper.,44,43,1,27,0.5646354866983602,0.5646354866983602,4,4,NA,NA,NA,Lehigh,missed,Evan Taylor,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,242,2,7:13,433,733,Walter Whyte Defensive Rebound.,44,43,1,3,0.5649258318131671,0.5649258318131671,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,243,2,6:56,416,716,Max Mahoney missed Layup.,44,43,1,17,0.5666011692470708,0.5666011692470708,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,244,2,6:53,413,713,James Karnik Defensive Rebound.,44,43,1,3,0.5668806200451141,0.5668806200451141,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,245,2,6:40,400,700,Foul on Nic Lynch.,44,43,1,13,0.5680575482480025,0.5680575482480025,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,246,2,6:40,400,700,Nic Lynch Turnover.,44,43,1,0,0.5680575482480025,0.5680575482480025,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,247,2,6:26,386,686,Walter Whyte missed Three Point Jumper.,44,43,1,14,0.5693099664733523,0.5693099664733523,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,248,2,6:22,382,682,James Karnik Defensive Rebound.,44,43,1,4,0.5696741290798589,0.5696741290798589,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,249,2,6:01,361,661,Marques Wilson made Three Point Jumper. Assisted by Jordan Cohen.,47,43,4,21,0.7605008307198514,0.7605008307198514,4,4,NA,NA,NA,Lehigh,made,Marques Wilson,Jordan Cohen,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,250,2,5:42,342,642,Javante McCoy missed Layup.,47,43,4,19,0.7669107634506184,0.7669107634506184,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,251,2,5:42,342,642,James Karnik Block.,47,43,4,0,0.7669107634506184,0.7669107634506184,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,252,2,5:42,342,642,Boston University Offensive Rebound.,47,43,4,0,0.7669107634506184,0.7669107634506184,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,253,2,5:33,333,633,Max Mahoney made Jumper.,47,45,2,9,0.6468429286495472,0.6468429286495472,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,254,2,5:13,313,613,Nic Lynch made Jumper. Assisted by Marques Wilson.,49,45,4,20,0.7792725431413848,0.7792725431413848,4,4,NA,NA,NA,Lehigh,made,Nic Lynch,Marques Wilson,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,255,2,4:58,298,598,Walter Whyte missed Jumper.,49,45,4,15,0.7848532206733493,0.7848532206733493,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,256,2,4:55,295,595,Evan Taylor Defensive Rebound.,49,45,4,3,0.7853243731788182,0.7853243731788182,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,257,2,4:51,291,591,Jordan Cohen made Jumper.,51,45,6,4,0.8752864992982703,0.8752864992982703,4,4,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,258,2,4:34,274,574,Foul on Nic Lynch.,51,45,6,17,0.8740813049350525,0.8740813049350525,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,259,2,4:20,260,560,Alex Vilarino missed Three Point Jumper.,51,45,6,14,0.8713729647103998,0.8713729647103998,4,4,NA,NA,NA,Boston Univ.,missed,Alex Vilarino,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,260,2,4:17,257,557,Jeameril Wilson Defensive Rebound.,51,45,6,3,0.8707626341312665,0.8707626341312665,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,261,2,4:05,245,545,James Karnik missed Jumper.,51,45,6,12,0.8687595251053282,0.8687595251053282,4,4,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,262,2,4:00,240,540,Alex Vilarino Defensive Rebound.,51,45,6,5,0.8683150281043988,0.8683150281043988,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,263,2,3:59,239,539,Jonas Harper made Three Point Jumper. Assisted by Alex Vilarino.,51,48,3,1,0.7196757886054038,0.7196757886054038,4,4,NA,NA,NA,Boston Univ.,made,Jonas Harper,Alex Vilarino,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,264,2,3:38,218,518,Evan Taylor missed Three Point Jumper.,51,48,3,21,0.7225777363999104,0.7225777363999104,4,4,NA,NA,NA,Lehigh,missed,Evan Taylor,NA,TRUE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,265,2,3:38,218,518,Official TV Timeout,51,48,3,0,0.7225777363999104,0.7225777363999104,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,266,2,3:38,218,518,Lehigh Offensive Rebound.,51,48,3,0,0.7225777363999104,0.7225777363999104,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,267,2,3:28,208,508,James Karnik Turnover.,51,48,3,10,0.7273960262131783,0.7273960262131783,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,268,2,3:28,208,508,Alex Vilarino Steal.,51,48,3,0,0.7273960262131783,0.7273960262131783,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,269,2,3:17,197,497,Javante McCoy missed Three Point Jumper.,51,48,3,11,0.7360184477060436,0.7360184477060436,4,4,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,270,2,3:14,194,494,Evan Taylor Defensive Rebound.,51,48,3,3,0.7390373678322579,0.7390373678322579,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,271,2,2:47,167,467,Jordan Cohen missed Three Point Jumper.,51,48,3,27,0.7706170173747106,0.7706170173747106,4,4,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,272,2,2:45,165,465,Walter Whyte Defensive Rebound.,51,48,3,2,0.7729903928098447,0.7729903928098447,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,273,2,2:34,154,454,Max Mahoney made Jumper.,51,50,1,11,0.6068734158434264,0.6068734158434264,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,274,2,2:34,154,454,Foul on James Karnik.,51,50,1,0,0.6068734158434264,0.6068734158434264,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,275,2,2:34,154,454,Max Mahoney made Free Throw.,51,51,0,0,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,made,Max Mahoney,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,276,2,2:14,134,434,Marques Wilson missed Jumper.,51,51,0,20,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,277,2,2:11,131,431,Max Mahoney Defensive Rebound.,51,51,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,278,2,2:05,125,425,Foul on Evan Taylor.,51,51,0,6,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,279,2,2:05,125,425,Alex Vilarino made Free Throw.,51,52,-1,0,0.3740775535367427,0.3740775535367427,4,4,NA,NA,NA,Boston Univ.,made,Alex Vilarino,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,280,2,2:05,125,425,Alex Vilarino made Free Throw.,51,53,-2,0,0.2631758783139883,0.2631758783139883,4,4,NA,NA,NA,Boston Univ.,made,Alex Vilarino,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,281,2,1:36,96,396,Marques Wilson missed Jumper.,51,53,-2,29,0.22326360214623808,0.22326360214623808,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,282,2,1:33,93,393,Max Mahoney Defensive Rebound.,51,53,-2,3,0.21870479148083777,0.21870479148083777,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,283,2,1:31,91,391,Boston University Defensive Rebound.,51,53,-2,2,0.21568340216028442,0.21568340216028442,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,284,2,1:17,77,377,Max Mahoney missed Jumper.,51,53,-2,14,0.1946783626099446,0.1946783626099446,4,4,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,285,2,1:15,75,375,Jeameril Wilson Defensive Rebound.,51,53,-2,2,0.19165502983870286,0.19165502983870286,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,286,2,0:51,51,351,James Karnik made Layup. Assisted by Evan Taylor.,53,53,0,24,0.5,0.5,4,4,NA,NA,NA,Lehigh,made,James Karnik,Evan Taylor,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,287,2,0:22,22,322,Walter Whyte missed Three Point Jumper.,53,53,0,29,0.5,0.5,4,4,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,TRUE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,288,2,0:19,19,319,Evan Taylor Defensive Rebound.,53,53,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,289,2,0:18,18,318,Lehigh Defensive Rebound.,53,53,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,290,2,0:11,11,311,Foul on Jonas Harper.,53,53,0,7,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,291,2,0:01,1,301,Marques Wilson missed Three Point Jumper.,53,53,0,10,0.5,0.5,4,4,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,292,2,0:00,300,300,Boston University Defensive Rebound.,53,53,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,293,2,0:00,300,300,End of 2nd half,53,53,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,NA
+401172895,2020-02-26,Lehigh,Boston Univ.,294,3,5:00,300,300,PLAY,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,295,3,4:44,284,284,James Karnik missed Layup.,53,53,0,16,0.5,0.5,5,5,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,296,3,4:44,284,284,Walter Whyte Block.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,297,3,4:44,284,284,Lehigh Offensive Rebound.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,298,3,4:27,267,267,Jordan Cohen missed Jumper.,53,53,0,17,0.5,0.5,5,5,NA,NA,NA,Lehigh,missed,Jordan Cohen,NA,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,299,3,4:24,264,264,Alex Vilarino Defensive Rebound.,53,53,0,3,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,300,3,4:15,255,255,Walter Whyte missed Jumper.,53,53,0,9,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,301,3,4:09,249,249,Evan Taylor Defensive Rebound.,53,53,0,6,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,302,3,3:52,232,232,Foul on Max Mahoney.,53,53,0,17,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,303,3,3:52,232,232,James Karnik missed Free Throw.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,TRUE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,304,3,3:52,232,232,Lehigh Offensive Rebound.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,305,3,3:52,232,232,James Karnik missed Free Throw.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,TRUE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,306,3,3:47,227,227,Jonas Harper Defensive Rebound.,53,53,0,5,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,307,3,3:27,207,207,Javante McCoy missed Layup.,53,53,0,20,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,308,3,3:27,207,207,Lehigh Defensive Rebound.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,309,3,3:27,207,207,Foul on Max Mahoney.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,310,3,3:25,205,205,James Karnik missed Free Throw.,53,53,0,2,0.5,0.5,5,5,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,311,3,3:24,204,204,Max Mahoney Defensive Rebound.,53,53,0,1,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,312,3,2:56,176,176,Jonas Harper missed Jumper.,53,53,0,28,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Jonas Harper,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,313,3,2:56,176,176,Max Mahoney Offensive Rebound.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,314,3,2:56,176,176,Max Mahoney missed Layup.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,315,3,2:55,175,175,Boston University Offensive Rebound.,53,53,0,1,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,316,3,2:43,163,163,Foul on Marques Wilson.,53,53,0,12,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,317,3,2:43,163,163,Walter Whyte missed Free Throw.,53,53,0,0,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,318,3,2:41,161,161,Max Mahoney Offensive Rebound.,53,53,0,2,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,319,3,2:27,147,147,Javante McCoy missed Jumper.,53,53,0,14,0.5,0.5,5,5,NA,NA,NA,Boston Univ.,missed,Javante McCoy,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,320,3,2:25,145,145,Evan Taylor Defensive Rebound.,53,53,0,2,0.5,0.5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,321,3,2:09,129,129,Jeameril Wilson made Layup. Assisted by Evan Taylor.,55,53,2,16,0.7319456688129394,0.7319456688129394,5,5,NA,NA,NA,Lehigh,made,Jeameril Wilson,Evan Taylor,FALSE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,322,3,1:51,111,111,Foul on James Karnik.,55,53,2,18,0.7550784163086218,0.7550784163086218,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,323,3,1:51,111,111,Walter Whyte made Free Throw.,55,54,1,0,0.6371329324542535,0.6371329324542535,5,5,NA,NA,NA,Boston Univ.,made,Walter Whyte,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,324,3,1:50,110,110,Walter Whyte missed Free Throw.,55,54,1,1,0.6379943056304647,0.6379943056304647,5,5,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,TRUE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,325,3,1:49,109,109,Marques Wilson Defensive Rebound.,55,54,1,1,0.638864218155905,0.638864218155905,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,326,3,1:28,88,88,Jeameril Wilson missed Three Point Jumper.,55,54,1,21,0.6590200042004464,0.6590200042004464,5,5,NA,NA,NA,Lehigh,missed,Jeameril Wilson,NA,TRUE,FALSE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,327,3,1:26,86,86,Andrew Petcash Defensive Rebound.,55,54,1,2,0.6610487922584657,0.6610487922584657,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,328,3,1:11,71,71,Max Mahoney missed Jumper.,55,54,1,15,0.67689912432634,0.67689912432634,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,329,3,1:08,68,68,Marques Wilson Defensive Rebound.,55,54,1,3,0.6802384040182875,0.6802384040182875,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,330,3,0:39,39,39,Marques Wilson missed Jumper.,55,54,1,29,0.7141966424364399,0.7141966424364399,5,5,NA,NA,NA,Lehigh,missed,Marques Wilson,NA,FALSE,FALSE,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,331,3,0:39,39,39,Lehigh Offensive Rebound.,55,54,1,0,0.7141966424364399,0.7141966424364399,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,332,3,0:39,39,39,Foul on Max Mahoney.,55,54,1,0,0.7141966424364399,0.7141966424364399,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,333,3,0:39,39,39,James Karnik missed Free Throw.,55,54,1,0,0.7141966424364399,0.7141966424364399,5,5,NA,NA,NA,Lehigh,missed,James Karnik,NA,FALSE,TRUE,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,334,3,0:37,37,37,Max Mahoney Defensive Rebound.,55,54,1,2,0.7166658485786963,0.7166658485786963,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,335,3,0:33,33,33,Boston University Defensive Rebound.,55,54,1,4,0.7216383684844788,0.7216383684844788,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,336,3,0:24,24,24,Foul on James Karnik.,55,54,1,9,0.7329290000397786,0.7329290000397786,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,337,3,0:24,24,24,Foul on Lehigh.,55,54,1,0,0.7329290000397786,0.7329290000397786,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,338,3,0:24,24,24,Max Mahoney missed Free Throw.,55,54,1,0,0.7329290000397786,0.7329290000397786,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,339,3,0:24,24,24,Boston University Offensive Rebound.,55,54,1,0,0.7329290000397786,0.7329290000397786,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,340,3,0:23,23,23,Max Mahoney missed Free Throw.,55,54,1,1,0.7341873282778076,0.7341873282778076,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,341,3,0:22,22,22,Max Mahoney Offensive Rebound.,55,54,1,1,0.7354491894701696,0.7354491894701696,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,342,3,0:20,20,20,Boston University Offensive Rebound.,55,54,1,2,0.7379926915594887,0.7379926915594887,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,343,3,0:10,10,10,Max Mahoney missed Layup.,55,54,1,10,0.7510050166627159,0.7510050166627159,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,344,3,0:10,10,10,Jeameril Wilson Block.,55,54,1,0,0.7510050166627159,0.7510050166627159,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,345,3,0:09,9,9,Foul on Jonas Harper.,55,54,1,1,0.752324287314643,0.752324287314643,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,346,3,0:09,9,9,Jordan Cohen made Free Throw.,56,54,2,0,0.9022161211088555,0.9022161211088555,5,5,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,347,3,0:09,9,9,Jordan Cohen made Free Throw.,57,54,3,0,0.965548425338804,0.965548425338804,5,5,NA,NA,NA,Lehigh,made,Jordan Cohen,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,348,3,0:08,8,8,James Karnik Defensive Rebound.,57,54,3,1,0.9662502423978944,0.9662502423978944,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,349,3,0:01,1,1,Walter Whyte missed Three Point Jumper.,57,54,3,7,0.9708630270713,0.9708630270713,5,5,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,TRUE,FALSE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,350,3,0:01,1,1,Boston University Offensive Rebound.,57,54,3,0,0.9708630270713,0.9708630270713,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,351,3,0:00,0,0,Max Mahoney made Free Throw.,57,55,2,1,1,1,5,5,NA,NA,NA,Boston Univ.,made,Max Mahoney,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,352,3,0:00,0,0,Max Mahoney missed Free Throw.,57,55,2,0,1,1,5,5,NA,NA,NA,Boston Univ.,missed,Max Mahoney,NA,FALSE,TRUE,Boston Univ.,Boston Univ.
+401172895,2020-02-26,Lehigh,Boston Univ.,353,3,0:00,0,0,Walter Whyte Offensive Rebound.,57,55,2,0,1,1,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,354,3,0:00,0,0,Foul on Evan Taylor.,57,55,2,0,1,1,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,355,3,0:00,0,0,Walter Whyte missed Layup.,57,55,2,0,1,1,5,5,NA,NA,NA,Boston Univ.,missed,Walter Whyte,NA,FALSE,FALSE,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,356,3,0:00,0,0,Lehigh Defensive Rebound.,57,55,2,0,1,1,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Boston Univ.,Lehigh
+401172895,2020-02-26,Lehigh,Boston Univ.,357,3,0:00,0,0,End of 1st overtime,57,55,2,0,1,1,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,NA
+401172895,2020-02-26,Lehigh,Boston Univ.,358,3,0:00,0,0,End of Game,57,55,2,0,1,1,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lehigh,NA

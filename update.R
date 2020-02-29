@@ -15,7 +15,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2020-02-19")
+date <- as.Date("2020-02-25")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(date)
   if(!is.null(schedule)) {
@@ -70,7 +70,7 @@ for(i in 1:n) {
       box_team <- ifelse(team == "UConn", team, dict$ESPN_PBP[dict$ESPN == team])
       box[box_team]
       
-      if(class(box) != "try-error" & box_team %in% names(box)) {
+      if(class(box) != "try-error" & box_team %in% names(box) & !is.na(box_team)) {
         ### Create Date Directory if Doesn't Exist
         if(!dir.exists(paste("2019-20/box_scores", sep = "/"))) {
           dir.create(paste("2019-20/box_scores", sep = "/")) 
