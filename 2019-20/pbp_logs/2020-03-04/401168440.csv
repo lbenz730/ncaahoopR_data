@@ -1,0 +1,307 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401168440,2020-03-04,Providence,Xavier,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.6551430901604922,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Providence
+401168440,2020-03-04,Providence,Xavier,2,1,19:40,2380,2380,Alpha Diallo Turnover.,0,0,0,20,0.654851937018616,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,3,1,19:21,2361,2361,Tyrique Jones missed Layup.,0,0,0,19,0.6545687168498442,0.5,4,4,4,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,4,1,19:18,2358,2358,Nate Watson Defensive Rebound.,0,0,0,3,0.6545233960099119,0.5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,5,1,19:02,2342,2342,Luwane Pipkins made Three Point Jumper. Assisted by A.J. Reeves.,3,0,3,16,0.7130476693493096,0.5676650719849222,4,4,4,NA,NA,Providence,made,Luwane Pipkins,AJ Reeves,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,6,1,18:39,2319,2319,Jason Carter Turnover.,3,0,3,23,0.7133447887432709,0.568411910727213,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,7,1,18:39,2319,2319,David Duke Steal.,3,0,3,0,0.7133447887432709,0.568411910727213,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,8,1,18:35,2315,2315,David Duke missed Layup.,3,0,3,4,0.713396302841856,0.5685427055409771,4,4,4,NA,NA,Providence,missed,David Duke,NA,FALSE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,9,1,18:29,2309,2309,A.J. Reeves Offensive Rebound.,3,0,3,6,0.7134734571555036,0.5687393772072978,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,10,1,18:29,2309,2309,A.J. Reeves missed Layup.,3,0,3,0,0.7134734571555036,0.5687393772072978,4,4,4,NA,NA,Providence,missed,A.J. Reeves,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,11,1,18:29,2309,2309,Jason Carter Block.,3,0,3,0,0.7134734571555036,0.5687393772072978,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,12,1,18:25,2305,2305,Quentin Goodin Defensive Rebound.,3,0,3,4,0.7135248073970576,0.5688708039301624,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,13,1,18:25,2305,2305,Foul on Naji Marshall.,3,0,3,0,0.7135248073970576,0.5688708039301624,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,14,1,18:25,2305,2305,Naji Marshall Turnover.,3,0,3,0,0.7135248073970576,0.5688708039301624,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,15,1,17:58,2278,2278,Foul on Tyrique Jones.,3,0,3,27,0.713869176413092,0.5697640624117907,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,16,1,17:58,2278,2278,Alpha Diallo made Free Throw.,4,0,4,0,0.7326050806210448,0.5925502656958909,4,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,17,1,17:58,2278,2278,Alpha Diallo made Free Throw.,5,0,5,0,0.750542862412755,0.614945240045952,4,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,18,1,17:38,2258,2258,Foul on A.J. Reeves.,5,0,5,20,0.7511135270262491,0.616020194741062,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,19,1,17:35,2255,2255,Quentin Goodin Turnover.,5,0,5,3,0.7511990223714375,0.6161820417613122,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,20,1,17:35,2255,2255,Luwane Pipkins Steal.,5,0,5,0,0.7511990223714375,0.6161820417613122,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,21,1,17:32,2252,2252,Luwane Pipkins missed Three Point Jumper.,5,0,5,3,0.7512844812400674,0.6163440362323678,4,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,22,1,17:29,2249,2249,Tyrique Jones Defensive Rebound.,5,0,5,3,0.7513699004354001,0.6165061746741936,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,23,1,17:18,2238,2238,Naji Marshall made Jumper.,5,2,3,11,0.7143694277975556,0.5711045362677699,4,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,24,1,16:55,2215,2215,A.J. Reeves made Layup.,7,2,5,23,0.7523342222471417,0.6183527268036805,4,4,4,NA,NA,Providence,made,A.J. Reeves,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,25,1,16:39,2199,2199,Jason Carter Turnover.,7,2,5,16,0.7527847978029333,0.6192264985012372,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,26,1,16:39,2199,2199,David Duke Steal.,7,2,5,0,0.7527847978029333,0.6192264985012372,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,27,1,16:34,2194,2194,David Duke made Three Point Jumper. Assisted by Alpha Diallo.,10,2,8,5,0.8032496844375199,0.6856548635735769,4,4,4,NA,NA,Providence,made,David Duke,Alpha Diallo,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,28,1,16:31,2191,2191,Xavier  Timeout,10,2,8,3,0.8033871168407509,0.6858951133664956,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,29,1,16:00,2160,2160,Xavier  Turnover.,10,2,8,31,0.8048010129527684,0.6883802832631631,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,30,1,16:00,2160,2160,Official TV Timeout,10,2,8,0,0.8048010129527684,0.6883802832631631,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,31,1,15:59,2159,2159,Alpha Diallo Turnover.,10,2,8,1,0.804846494990222,0.6884606034350637,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,32,1,15:59,2159,2159,Quentin Goodin Steal.,10,2,8,0,0.804846494990222,0.6884606034350637,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,33,1,15:55,2155,2155,Quentin Goodin made Layup.,10,4,6,4,0.7719607195003654,0.6447002174254847,3,4,4,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,34,1,15:35,2135,2135,Alpha Diallo made Three Point Jumper. Assisted by Nate Watson.,13,4,9,20,0.8211370448717522,0.711402029127105,3,4,4,NA,NA,Providence,made,Alpha Diallo,Nate Watson,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,35,1,15:18,2118,2118,Tyrique Jones made Layup.,13,6,7,17,0.7904635132477289,0.6698152988025,3,4,4,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,36,1,14:53,2093,2093,Alpha Diallo missed Layup.,13,6,7,25,0.7914739760571726,0.6716610399724403,3,4,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,37,1,14:48,2088,2088,Nate Watson Offensive Rebound.,13,6,7,5,0.7916762587524921,0.6720318475441746,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,38,1,14:48,2088,2088,Nate Watson made Layup.,15,6,9,0,0.8234687338930466,0.7155222339798432,3,4,4,NA,NA,Providence,made,Nate Watson,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,39,1,14:40,2080,2080,KyKy Tandy made Layup.,15,8,7,8,0.7920001018355998,0.6726263510029253,3,4,4,NA,NA,Xavier,made,KyKy Tandy,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,40,1,14:13,2053,2053,Nate Watson missed Jumper.,15,8,7,27,0.7930953639577797,0.6746443832362384,3,4,4,NA,NA,Providence,missed,Nate Watson,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,41,1,14:09,2049,2049,Tyrique Jones Defensive Rebound.,15,8,7,4,0.7932579966663229,0.6749449440399024,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,42,1,14:03,2043,2043,Zach Freemantle missed Jumper.,15,8,7,6,0.7935021578997818,0.6753965894173771,3,4,4,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,43,1,14:00,2040,2040,Luwane Pipkins Defensive Rebound.,15,8,7,3,0.7936243390740297,0.6756227792173123,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,44,1,13:53,2033,2033,Luwane Pipkins made Three Point Jumper.,18,8,10,7,0.8407935731657644,0.7410879066922567,3,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,45,1,13:37,2017,2017,Foul on Nate Watson.,18,8,10,16,0.8416456027151168,0.7426059221870112,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,46,1,13:36,2016,2016,Quentin Goodin Turnover.,18,8,10,1,0.841698923425403,0.7427010131460516,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,47,1,13:36,2016,2016,Luwane Pipkins Steal.,18,8,10,0,0.841698923425403,0.7427010131460516,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,48,1,13:33,2013,2013,Luwane Pipkins made Layup.,20,8,12,3,0.868119689548175,0.7814025861425048,3,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,49,1,13:22,2002,2002,Naji Marshall missed Three Point Jumper.,20,8,12,11,0.8687502300452307,0.782527574972198,3,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,50,1,13:18,1998,1998,Luwane Pipkins Defensive Rebound.,20,8,12,4,0.8689796876488444,0.7829372359577866,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,51,1,13:08,1988,1988,Alpha Diallo made Layup.,22,8,14,10,0.8920484147015485,0.8181300277368735,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,52,1,13:07,1987,1987,Xavier  Timeout,22,8,14,1,0.8921069097069774,0.8182352499539302,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,53,1,12:55,1975,1975,Naji Marshall made Layup.,22,10,12,12,0.8703011331582046,0.7852990553256338,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,54,1,12:33,1953,1953,David Duke Turnover.,22,10,12,22,0.8715690200942244,0.7875688257002108,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,55,1,12:22,1942,1942,Foul on Emmitt Holt.,22,10,12,11,0.8722046374479251,0.7887078712484589,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,56,1,12:05,1925,1925,Naji Marshall missed Three Point Jumper.,22,10,12,17,0.8731886822478491,0.7904729263083103,2,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,57,1,12:02,1922,1922,Emmitt Holt Defensive Rebound.,22,10,12,3,0.87336165352233,0.7907837433727977,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,58,1,11:53,1913,1913,Alpha Diallo Turnover.,22,10,12,9,0.8738781714768079,0.7917133725526856,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,59,1,11:53,1913,1913,Dontarius James Steal.,22,10,12,0,0.8738781714768079,0.7917133725526856,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,60,1,11:47,1907,1907,KyKy Tandy made Three Point Jumper. Assisted by Naji Marshall.,22,13,9,6,0.8325830048925474,0.7318982779945662,2,4,4,NA,NA,Xavier,made,KyKy Tandy,Naji Marshall,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,61,1,11:28,1888,1888,Luwane Pipkins made Jumper.,24,13,11,19,0.8624807813835689,0.7752723475330451,2,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,62,1,11:08,1868,1868,KyKy Tandy missed Jumper.,24,13,11,20,0.863576399910603,0.7772630138243765,2,4,4,NA,NA,Xavier,missed,KyKy Tandy,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,63,1,11:03,1863,1863,Luwane Pipkins Defensive Rebound.,24,13,11,5,0.8638490236071185,0.7777595759117788,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,64,1,10:57,1857,1857,Emmitt Holt missed Jumper.,24,13,11,6,0.864175645950027,0.7783550639800375,2,4,4,NA,NA,Providence,missed,Emmitt Holt,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,65,1,10:54,1854,1854,Dontarius James Defensive Rebound.,24,13,11,3,0.8643387693448392,0.7786526858715949,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,66,1,10:48,1848,1848,Foul on Luwane Pipkins.,24,13,11,6,0.8646646989934396,0.7792477618868209,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,67,1,10:47,1847,1847,Official TV Timeout,24,13,11,1,0.8647189845113872,0.7793469260523828,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,68,1,10:47,1847,1847,Naji Marshall made Free Throw.,24,14,10,0,0.8507296629307137,0.7589899059595326,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,69,1,10:47,1847,1847,Naji Marshall made Free Throw.,24,15,9,0,0.8355687989554677,0.7373876399805388,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,70,1,10:21,1821,1821,Luwane Pipkins made Jumper.,26,15,11,26,0.8661284299441895,0.7819258233317289,2,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,71,1,9:47,1787,1787,Foul on Naji Marshall.,26,15,11,34,0.8679744160498551,0.7853113388198025,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,72,1,9:47,1787,1787,Naji Marshall Turnover.,26,15,11,0,0.8679744160498551,0.7853113388198025,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,73,1,9:43,1783,1783,A.J. Reeves Turnover.,26,15,11,4,0.86819246220981,0.7857114731809116,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,74,1,9:43,1783,1783,Dontarius James Steal.,26,15,11,0,0.86819246220981,0.7857114731809116,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,75,1,9:38,1778,1778,Dontarius James Turnover.,26,15,11,5,0.8684654054189521,0.7862123523408373,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,76,1,9:25,1765,1765,Emmitt Holt missed Three Point Jumper.,26,15,11,13,0.8691773945308908,0.7875187708134262,2,4,4,NA,NA,Providence,missed,Emmitt Holt,NA,TRUE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,77,1,9:23,1763,1763,Foul on Quentin Goodin.,26,15,11,2,0.8692872692462019,0.7877203382284271,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,78,1,9:22,1762,1762,Kalif Young Offensive Rebound.,26,15,11,1,0.8693422434384588,0.7878211839070683,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,79,1,9:14,1754,1754,Foul on Bryce Moore.,26,15,11,8,0.8697829707061612,0.7886295015705354,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,80,1,9:14,1754,1754,Alpha Diallo made Free Throw.,27,15,12,0,0.8827506350812151,0.807893863118744,2,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,81,1,9:14,1754,1754,Alpha Diallo made Free Throw.,28,15,13,0,0.8945834286418738,0.8257903161142487,2,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,82,1,9:03,1743,1743,Dontarius James made Three Point Jumper. Assisted by Quentin Goodin.,28,18,10,11,0.8562048731713717,0.7690731731402256,2,4,4,NA,NA,Xavier,made,Dontarius James,Quentin Goodin,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,83,1,8:33,1713,1713,A.J. Reeves made Three Point Jumper. Assisted by Alpha Diallo.,31,18,13,30,0.8969168239180357,0.8300574992111882,2,4,4,NA,NA,Providence,made,A.J. Reeves,Alpha Diallo,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,84,1,8:11,1691,1691,Zach Freemantle missed Jumper.,31,18,13,22,0.8981919285825126,0.8323820974652516,2,4,4,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,85,1,8:08,1688,1688,Kalif Young Defensive Rebound.,31,18,13,3,0.8983669045274179,0.8327007477730147,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,86,1,7:49,1669,1669,Emmitt Holt made Layup. Assisted by David Duke.,33,18,15,19,0.9198390393498245,0.8662535076882187,2,4,4,NA,NA,Providence,made,Emmitt Holt,David Duke,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,87,1,7:35,1655,1655,Foul on Kalif Young.,33,18,15,14,0.9205768908641447,0.867620698149353,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,88,1,7:35,1655,1655,Official TV Timeout,33,18,15,0,0.9205768908641447,0.867620698149353,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,89,1,7:34,1654,1654,Naji Marshall made Dunk. Assisted by Quentin Goodin.,33,20,13,1,0.9002612697372314,0.8361878850205501,2,4,4,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,90,1,7:23,1643,1643,Emmitt Holt Turnover.,33,20,13,11,0.900844959563068,0.8372751861345026,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,91,1,7:23,1643,1643,Jason Carter Steal.,33,20,13,0,0.900844959563068,0.8372751861345026,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,92,1,7:20,1640,1640,Naji Marshall made Layup. Assisted by Jason Carter.,33,22,11,3,0.8761063209367851,0.800257409862936,2,4,4,NA,NA,Xavier,made,Naji Marshall,Jason Carter,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,93,1,7:20,1640,1640,Foul on Emmitt Holt.,33,22,11,0,0.8761063209367851,0.800257409862936,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,94,1,7:20,1640,1640,Naji Marshall made Free Throw.,33,23,10,0,0.8617486933311336,0.7793239224052051,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,95,1,6:53,1613,1613,David Duke made Three Point Jumper.,36,23,13,27,0.9023873469304756,0.8401712735100382,2,4,4,NA,NA,Providence,made,David Duke,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,96,1,6:31,1591,1591,Zach Freemantle made Jumper. Assisted by Dontarius James.,36,25,11,22,0.87856449185574,0.8049294470579613,2,4,4,NA,NA,Xavier,made,Zach Freemantle,Dontarius James,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,97,1,6:16,1576,1576,Alpha Diallo missed Layup.,36,25,11,15,0.8793034305650514,0.806343711589408,2,4,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,98,1,6:12,1572,1572,Zach Freemantle Defensive Rebound.,36,25,11,4,0.8795006287054871,0.8067212155118831,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,99,1,5:55,1555,1555,Foul on David Duke.,36,25,11,17,0.8803423626581713,0.8083312546689223,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,100,1,5:55,1555,1555,Tyrique Jones made Free Throw.,36,26,10,0,0.8658600426804006,0.7872397136689363,2,4,4,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,101,1,5:55,1555,1555,Tyrique Jones made Free Throw.,36,27,9,0,0.8499237194332965,0.7645034024377831,2,4,4,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,102,1,5:36,1536,1536,Luwane Pipkins missed Three Point Jumper.,36,27,9,19,0.8508074158984832,0.7662341969787304,2,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,103,1,5:34,1534,1534,Alpha Diallo Offensive Rebound.,36,27,9,2,0.8509016976977647,0.7664181634620287,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,104,1,5:32,1532,1532,David Duke made Three Point Jumper. Assisted by Alpha Diallo.,39,27,12,2,0.8946217590367347,0.8300009539540538,2,4,4,NA,NA,Providence,made,David Duke,Alpha Diallo,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,105,1,5:18,1518,1518,Jason Carter missed Three Point Jumper.,39,27,12,14,0.895348341817704,0.8313688098888316,2,4,4,NA,NA,Xavier,missed,Jason Carter,NA,TRUE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,106,1,5:14,1514,1514,Zach Freemantle Offensive Rebound.,39,27,12,4,0.895558699173705,0.8317634627998138,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,107,1,5:14,1514,1514,Zach Freemantle Turnover.,39,27,12,0,0.895558699173705,0.8317634627998138,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,108,1,5:14,1514,1514,David Duke Steal.,39,27,12,0,0.895558699173705,0.8317634627998138,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,109,1,5:09,1509,1509,Luwane Pipkins made Three Point Jumper. Assisted by David Duke.,42,27,15,5,0.9277137417645082,0.8810233980451065,2,4,4,NA,NA,Providence,made,Luwane Pipkins,David Duke,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,110,1,4:43,1483,1483,Zach Freemantle made Jumper. Assisted by Quentin Goodin.,42,29,13,26,0.9090425469647924,0.8526801333772842,2,4,4,NA,NA,Xavier,made,Zach Freemantle,Quentin Goodin,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,111,1,4:24,1464,1464,Luwane Pipkins missed Three Point Jumper.,42,29,13,19,0.9101162285601297,0.8546485759992258,2,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,112,1,4:21,1461,1461,Jason Carter Defensive Rebound.,42,29,13,3,0.9102899791492008,0.8549652279742609,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,113,1,4:17,1457,1457,Naji Marshall missed Jumper.,42,29,13,4,0.9105235586068569,0.8553900759761802,2,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,114,1,4:15,1455,1455,Naji Marshall missed Layup.,42,29,13,2,0.9106411852587959,0.8556036576336434,2,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,115,1,4:14,1454,1454,Jason Carter Offensive Rebound.,42,29,13,1,0.9107002111852747,0.8557107424838775,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,116,1,4:14,1454,1454,Foul on Luwane Pipkins.,42,29,13,0,0.9107002111852747,0.8557107424838775,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,117,1,4:14,1454,1454,Zach Freemantle missed Free Throw.,42,29,13,0,0.9107002111852747,0.8557107424838775,2,4,4,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,118,1,4:14,1454,1454,Zach Freemantle made Free Throw.,42,30,12,0,0.898920105529986,0.8379672661225012,2,4,4,NA,NA,Xavier,made,Zach Freemantle,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,119,1,4:14,1454,1454,Xavier Deadball Team Rebound.,42,30,12,0,0.898920105529986,0.8379672661225012,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,120,1,4:13,1453,1453,Naji Marshall Offensive Rebound.,42,30,12,1,0.8989801424367136,0.8380761723084936,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,121,1,3:53,1433,1433,David Duke missed Three Point Jumper.,42,30,12,20,0.9001617586464841,0.8402253884457972,2,4,4,NA,NA,Providence,missed,David Duke,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,122,1,3:49,1429,1429,Naji Marshall Defensive Rebound.,42,30,12,4,0.9003894071081745,0.8406425212962432,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,123,1,3:47,1427,1427,Naji Marshall Turnover.,42,30,12,2,0.9005022316703937,0.8408496220076526,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,124,1,3:47,1427,1427,Luwane Pipkins Steal.,42,30,12,0,0.9005022316703937,0.8408496220076526,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,125,1,3:41,1421,1421,Luwane Pipkins missed Three Point Jumper.,42,30,12,6,0.9008369369000819,0.8414653935509766,2,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,126,1,3:39,1419,1419,Foul on Nate Watson.,42,30,12,2,0.9009473126428658,0.8416688988234982,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,127,1,3:39,1419,1419,Official TV Timeout,42,30,12,0,0.9009473126428658,0.8416688988234982,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,128,1,3:39,1419,1419,Tyrique Jones made Free Throw.,42,31,11,0,0.8878106100081892,0.8222217923860405,2,4,4,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,129,1,3:39,1419,1419,Tyrique Jones missed Free Throw.,42,31,11,0,0.8878106100081892,0.8222217923860405,2,4,4,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,130,1,3:38,1418,1418,Tyrique Jones Defensive Rebound.,42,31,11,1,0.8878656515242977,0.8223237909262145,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,131,1,3:38,1418,1418,Kalif Young Defensive Rebound.,42,31,11,0,0.8878656515242977,0.8223237909262145,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,132,1,3:10,1390,1390,Luwane Pipkins missed Three Point Jumper.,42,31,11,28,0.8893590727964364,0.8251114748265856,2,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,133,1,3:06,1386,1386,Zach Freemantle Defensive Rebound.,42,31,11,4,0.8895665324423442,0.8255012674638272,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,134,1,2:39,1359,1359,Zach Freemantle missed Three Point Jumper.,42,31,11,27,0.8909470916167561,0.8281034922503536,2,4,4,NA,NA,Xavier,missed,Zach Freemantle,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,135,1,2:39,1359,1359,Kalif Young Block.,42,31,11,0,0.8909470916167561,0.8281034922503536,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,136,1,2:32,1352,1352,David Duke Defensive Rebound.,42,31,11,7,0.8913027192296846,0.828774624230631,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,137,1,2:31,1351,1351,Foul on Jason Carter.,42,31,11,1,0.8913535475906081,0.8288705247287375,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,138,1,2:31,1351,1351,David Duke made Free Throw.,43,31,12,0,0.9044834288398867,0.848266049649235,2,4,4,NA,NA,Providence,made,David Duke,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,139,1,2:31,1351,1351,David Duke missed Free Throw.,43,31,12,0,0.9044834288398867,0.848266049649235,2,4,4,NA,NA,Providence,missed,David Duke,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,140,1,2:29,1349,1349,Naji Marshall Defensive Rebound.,43,31,12,2,0.9045847689518262,0.848455948565657,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,141,1,2:08,1328,1328,KyKy Tandy made Three Point Jumper. Assisted by Tyrique Jones.,43,34,9,21,0.8614221695382153,0.7864481654897975,2,4,4,NA,NA,Xavier,made,KyKy Tandy,Tyrique Jones,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,142,1,1:49,1309,1309,David Duke made Layup.,45,34,11,19,0.8935255646745127,0.8329483336921004,2,4,4,NA,NA,Providence,made,David Duke,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,143,1,1:32,1292,1292,KyKy Tandy missed Three Point Jumper.,45,34,11,17,0.894445899673267,0.8346553116116705,2,4,4,NA,NA,Xavier,missed,KyKy Tandy,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,144,1,1:28,1288,1288,Greg Gantt Defensive Rebound.,45,34,11,4,0.8946676469723779,0.8350641179804315,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,145,1,1:06,1266,1266,David Duke missed Layup.,45,34,11,22,0.8959304135021272,0.837372121885596,2,4,4,NA,NA,Providence,missed,David Duke,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,146,1,1:06,1266,1266,Tyrique Jones Block.,45,34,11,0,0.8959304135021272,0.837372121885596,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,147,1,1:02,1262,1262,Tyrique Jones Defensive Rebound.,45,34,11,4,0.8961688103799244,0.837803915701406,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,148,1,0:58,1258,1258,Foul on Alpha Diallo.,45,34,11,4,0.896410203469811,0.8382398483132478,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,149,1,0:58,1258,1258,Naji Marshall made Free Throw.,45,35,10,0,0.8816758521036502,0.8169213366880511,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,150,1,0:58,1258,1258,Naji Marshall made Free Throw.,45,36,9,0,0.8651609728850076,0.7934854286750823,2,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,151,1,0:43,1243,1243,A.J. Reeves missed Three Point Jumper.,45,36,9,15,0.8660731968713398,0.7951428936229135,2,4,4,NA,NA,Providence,missed,A.J. Reeves,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,152,1,0:39,1239,1239,Jason Carter Defensive Rebound.,45,36,9,4,0.8663252596066505,0.7955966924038704,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,153,1,0:24,1224,1224,Foul on Alpha Diallo.,45,36,9,15,0.8673064612381419,0.7973466338585886,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,154,1,0:24,1224,1224,Providence  Timeout,45,36,9,0,0.8673064612381419,0.7973466338585886,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,155,1,0:24,1224,1224,Jason Carter made Free Throw.,45,37,8,0,0.848791124250459,0.7716397503951887,2,3,4,NA,NA,Xavier,made,Jason Carter,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,156,1,0:24,1224,1224,Jason Carter made Free Throw.,45,38,7,0,0.8282040028944555,0.7437200338745837,2,3,4,NA,NA,Xavier,made,Jason Carter,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,157,1,0:00,1200,1200,Foul on Dontarius James.,45,38,7,24,0.8297017028640887,0.7464201950257411,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,158,1,0:00,1200,1200,Alpha Diallo missed Free Throw.,45,38,7,0,0.8297017028640887,0.7464201950257411,2,3,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,159,1,0:00,1200,1200,Alpha Diallo made Free Throw.,47,38,9,0,0.8689805192984345,0.8002839754918194,2,3,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,160,1,0:00,1200,1200,Alpha Diallo made Free Throw.,46,38,8,0,0.8504003701144012,0.774489981219977,2,3,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,163,2,20:00,1200,1200,PLAY,45,38,7,0,0.8297017028640887,0.7464201950257411,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
+401168440,2020-03-04,Providence,Xavier,165,2,19:35,1175,1175,Alpha Diallo Defensive Rebound.,47,38,9,4,0.8706595361483604,0.8032386310920432,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,166,2,19:14,1154,1154,A.J. Reeves missed Layup.,47,38,9,21,0.8720085387610483,0.8056246342943776,3,4,4,NA,NA,Providence,missed,A.J. Reeves,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,167,2,19:11,1151,1151,Tyrique Jones Defensive Rebound.,47,38,9,3,0.8721982990305472,0.8059607204321669,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,168,2,19:08,1148,1148,Naji Marshall Turnover.,47,38,9,3,0.8723875389592478,0.8062959338227013,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,169,2,19:08,1148,1148,David Duke Steal.,47,38,9,0,0.8723875389592478,0.8062959338227013,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,170,2,18:58,1138,1138,Alpha Diallo missed Layup.,47,38,9,10,0.8730155004274271,0.8074083569515158,3,4,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,171,2,18:51,1131,1131,A.J. Reeves Offensive Rebound.,47,38,9,7,0.8734535176233923,0.8081840450659807,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,172,2,18:51,1131,1131,A.J. Reeves made Dunk.,49,38,11,0,0.9047761479363102,0.8529421085384598,3,4,4,NA,NA,Providence,made,A.J. Reeves,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,173,2,18:44,1124,1124,Quentin Goodin made Three Point Jumper. Assisted by Zach Freemantle.,49,41,8,7,0.8551340550952665,0.7829424178949116,3,4,4,NA,NA,Xavier,made,Quentin Goodin,Zach Freemantle,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,174,2,18:21,1101,1101,Nate Watson Turnover.,49,41,8,23,0.8565346739414449,0.7854415973913584,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,175,2,18:21,1101,1101,Jason Carter Steal.,49,41,8,0,0.8565346739414449,0.7854415973913584,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,176,2,18:11,1091,1091,Naji Marshall made Layup. Assisted by Tyrique Jones.,49,43,6,10,0.8124184780371165,0.7267416520527876,3,4,4,NA,NA,Xavier,made,Naji Marshall,Tyrique Jones,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,177,2,17:49,1069,1069,A.J. Reeves Turnover.,49,43,6,22,0.8136041641728999,0.7289382170937547,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,178,2,17:49,1069,1069,Jason Carter Steal.,49,43,6,0,0.8136041641728999,0.7289382170937547,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,179,2,17:37,1057,1057,Naji Marshall missed Layup.,49,43,6,12,0.8142801775362634,0.7301752579745123,3,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,180,2,17:31,1051,1051,Tyrique Jones Offensive Rebound.,49,43,6,6,0.8146275222629813,0.7308062872896397,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,181,2,17:31,1051,1051,Tyrique Jones made Layup.,49,45,4,0,0.7590463146691504,0.6605646408856909,3,4,4,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,182,2,17:07,1027,1027,Foul on Naji Marshall.,49,45,4,24,0.7600065182634096,0.6625607221591886,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,183,2,17:07,1027,1027,Luwane Pipkins made Free Throw.,50,45,5,0,0.789414021169582,0.6991825556453766,3,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,184,2,17:07,1027,1027,Luwane Pipkins made Free Throw.,51,45,6,0,0.8160900641534,0.7334289565217957,3,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,185,2,16:58,1018,1018,Foul on Jason Carter.,51,45,6,9,0.8166728044836958,0.7344588180416195,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,186,2,16:58,1018,1018,Jason Carter Turnover.,51,45,6,0,0.8166728044836958,0.7344588180416195,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,187,2,16:40,1000,1000,Luwane Pipkins missed Three Point Jumper.,51,45,6,18,0.8179029921195464,0.7366063596911413,3,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,188,2,16:37,997,997,Nate Watson Offensive Rebound.,51,45,6,3,0.8181170522933298,0.7369765586662032,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,189,2,16:29,989,989,Luwane Pipkins Turnover.,51,45,6,8,0.8187013412031585,0.7379820853401386,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,190,2,16:29,989,989,Jason Carter Steal.,51,45,6,0,0.8187013412031585,0.7379820853401386,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,191,2,16:24,984,984,Quentin Goodin made Three Point Jumper.,51,48,3,5,0.72922405471175,0.6270111825572628,3,4,4,NA,NA,Xavier,made,Quentin Goodin,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,192,2,15:57,957,957,Alpha Diallo missed Layup.,51,48,3,27,0.7302039842660168,0.6291745858613803,3,4,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,193,2,15:52,952,952,Tyrique Jones Defensive Rebound.,51,48,3,5,0.7303726318891839,0.6295528558812014,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,194,2,15:44,944,944,Naji Marshall Turnover.,51,48,3,8,0.7306301546973474,0.6301376800910079,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,195,2,15:44,944,944,A.J. Reeves Steal.,51,48,3,0,0.7306301546973474,0.6301376800910079,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,196,2,15:40,940,940,A.J. Reeves missed Layup.,51,48,3,4,0.7307537323189418,0.6304214494025132,3,4,4,NA,NA,Providence,missed,A.J. Reeves,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,197,2,15:36,936,936,Tyrique Jones Defensive Rebound.,51,48,3,4,0.7308741667588207,0.6306999429139066,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,198,2,15:28,928,928,Foul on Nate Watson.,51,48,3,8,0.7311065421206461,0.6312425575734204,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,199,2,15:28,928,928,Official TV Timeout,51,48,3,0,0.7311065421206461,0.6312425575734204,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,200,2,15:27,927,927,Tyrique Jones made Dunk. Assisted by Quentin Goodin.,51,50,1,1,0.6551669978490713,0.5447001037467366,3,4,4,NA,NA,Xavier,made,Tyrique Jones,Quentin Goodin,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,201,2,15:05,905,905,Alpha Diallo missed Jumper.,51,50,1,22,0.6549343387279538,0.5452013272334754,3,4,4,NA,NA,Providence,missed,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,202,2,15:01,901,901,Zach Freemantle Defensive Rebound.,51,50,1,4,0.6548921191885585,0.5452894726886692,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,203,2,14:48,888,888,Quentin Goodin missed Jumper.,51,50,1,13,0.6547558345520269,0.5455724632198637,3,4,4,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,204,2,14:48,888,888,Alpha Diallo Block.,51,50,1,0,0.6547558345520269,0.5455724632198637,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,205,2,14:42,882,882,A.J. Reeves Defensive Rebound.,51,50,1,6,0.6546936427281,0.5457021486991778,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,206,2,14:24,864,864,Providence Offensive Rebound.,51,50,1,18,0.6545111538151784,0.546093004067408,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,207,2,14:17,857,857,Foul on Quentin Goodin.,51,50,1,7,0.6544423170046467,0.5462475324140237,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,208,2,14:17,857,857,David Duke made Free Throw.,52,50,2,0,0.6951153446585036,0.5917104510116119,3,4,4,NA,NA,Providence,made,David Duke,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,209,2,14:17,857,857,David Duke missed Free Throw.,52,50,2,0,0.6951153446585036,0.5917104510116119,3,4,4,NA,NA,Providence,missed,David Duke,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,210,2,14:17,857,857,Providence Deadball Team Rebound.,52,50,2,0,0.6951153446585036,0.5917104510116119,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,211,2,14:17,857,857,David Duke made Free Throw.,53,50,3,0,0.7329545204239626,0.6356564992587657,3,4,4,NA,NA,Providence,made,David Duke,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,212,2,14:09,849,849,KyKy Tandy Turnover.,53,50,3,8,0.733171689249902,0.6361599581461712,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,213,2,13:45,825,825,Alpha Diallo made Jumper.,55,50,5,24,0.8008288502128468,0.7196435403268702,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,214,2,13:23,803,803,Foul on David Duke.,55,50,5,22,0.8021902885914848,0.7219905566053946,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,215,2,13:06,786,786,Naji Marshall made Layup.,55,52,3,17,0.73532367797367,0.6407547677228796,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,216,2,12:48,768,768,Luwane Pipkins missed Jumper.,55,52,3,18,0.7361587137590418,0.6423909941460847,3,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,217,2,12:43,763,763,Zach Freemantle Defensive Rebound.,55,52,3,5,0.736413765582495,0.6428798958889431,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,218,2,12:35,755,755,Naji Marshall missed Jumper.,55,52,3,8,0.7368445727404485,0.6436960930125316,3,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,219,2,12:29,749,749,Luwane Pipkins Defensive Rebound.,55,52,3,6,0.7371869333389108,0.6443370650045616,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,220,2,12:25,745,745,Foul on Tyrique Jones.,55,52,3,4,0.7374247469320593,0.6447787333285506,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,221,2,12:25,745,745,Luwane Pipkins made Free Throw.,56,52,4,0,0.7740544947341375,0.688880007635965,3,4,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,222,2,12:25,745,745,Luwane Pipkins missed Free Throw.,56,52,4,0,0.7740544947341375,0.688880007635965,3,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,223,2,12:23,743,743,Naji Marshall Defensive Rebound.,56,52,4,2,0.7742218810565136,0.6891610351993017,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,224,2,12:10,730,730,Foul on Greg Gantt.,56,52,4,13,0.7753731627306832,0.6910799340661337,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,225,2,11:59,719,719,KyKy Tandy missed Three Point Jumper.,56,52,4,11,0.7763416128217563,0.6927008301913679,3,4,4,NA,NA,Xavier,missed,KyKy Tandy,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,226,2,11:57,717,717,Providence Defensive Rebound.,56,52,4,2,0.7765069993054716,0.6929810489101655,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,227,2,11:57,717,717,Official TV Timeout,56,52,4,0,0.7765069993054716,0.6929810489101655,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,228,2,11:36,696,696,Alpha Diallo made Jumper.,58,52,6,21,0.8413095942738822,0.7756352369255449,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,229,2,11:10,670,670,Tyrique Jones missed Layup.,58,52,6,26,0.8435602880882711,0.7793476964275553,3,4,4,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,230,2,11:04,664,664,Tyrique Jones Offensive Rebound.,58,52,6,6,0.8440564004182682,0.78017199406408555,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,231,2,11:04,664,664,Tyrique Jones missed Layup.,58,52,6,0,0.8440564004182682,0.78017199406408555,3,4,4,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,232,2,11:01,661,661,Jason Carter Offensive Rebound.,58,52,6,3,0.8443037737356682,0.7805832081008186,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,233,2,11:01,661,661,Jason Carter made Layup.,58,54,4,0,0.7803286747733994,0.6997369402180723,3,4,4,NA,NA,Xavier,made,Jason Carter,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,234,2,10:39,639,639,Kalif Young made Layup.,60,54,6,22,0.8461495287294534,0.7836434730590164,3,4,4,NA,NA,Providence,made,Kalif Young,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,235,2,10:22,622,622,KyKy Tandy missed Layup.,60,54,6,17,0.8476868227694365,0.7861638238571593,3,4,4,NA,NA,Xavier,missed,KyKy Tandy,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,236,2,10:22,622,622,Kalif Young Block.,60,54,6,0,0.8476868227694365,0.7861638238571593,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,237,2,10:20,620,620,Xavier Offensive Rebound.,60,54,6,2,0.8478780296090613,0.7864748147026336,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,238,2,10:14,614,614,Zach Freemantle made Layup.,60,56,4,6,0.7834917299258773,0.7053701851882305,3,4,4,NA,NA,Xavier,made,Zach Freemantle,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,239,2,10:04,604,604,Alpha Diallo made Layup.,62,56,6,10,0.8495110366404639,0.7891072146743753,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,240,2,9:44,584,584,Naji Marshall made Layup.,62,58,4,20,0.7861700524919663,0.7098778463788585,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,241,2,9:16,556,556,Greg Gantt made Jumper.,64,58,6,28,0.8559795884753217,0.7991961587528685,3,4,4,NA,NA,Providence,made,Greg Gantt,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,242,2,8:56,536,536,Zach Freemantle made Layup.,64,60,4,20,0.792156788374512,0.719439743473581,3,4,4,NA,NA,Xavier,made,Zach Freemantle,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,243,2,8:35,515,515,David Duke Turnover.,64,60,4,21,0.7943675365889321,0.7231006258497041,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,244,2,8:35,515,515,Zach Freemantle Steal.,64,60,4,0,0.7943675365889321,0.7231006258497041,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,245,2,8:27,507,507,Dontarius James Turnover.,64,60,4,8,0.7951247283008743,0.7243837789003724,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,246,2,8:13,493,493,Luwane Pipkins Turnover.,64,60,4,14,0.796441803286138,0.7266207461760726,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,247,2,8:13,493,493,Naji Marshall Steal.,64,60,4,0,0.796441803286138,0.7266207461760726,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,248,2,8:09,489,489,Naji Marshall made Dunk.,64,62,2,4,0.7060294332361715,0.6202067907162374,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,249,2,7:51,471,471,Luwane Pipkins missed Three Point Jumper.,64,62,2,18,0.7068336969537918,0.6221090168863457,3,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,250,2,7:47,467,467,Zach Freemantle Defensive Rebound.,64,62,2,4,0.7070463433090174,0.6225787708237034,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,251,2,7:28,448,448,Zach Freemantle missed Jumper.,64,62,2,19,0.7083054754537995,0.6251520365733737,3,4,4,NA,NA,Xavier,missed,Zach Freemantle,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,252,2,7:26,446,446,Dontarius James Offensive Rebound.,64,62,2,2,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,253,2,7:26,446,446,Foul on A.J. Reeves.,64,62,2,0,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,254,2,7:26,446,446,Official TV Timeout,64,62,2,0,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,255,2,7:26,446,446,Dontarius James missed Free Throw.,64,62,2,0,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,Xavier,missed,Dontarius James,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,256,2,7:26,446,446,Xavier Deadball Team Rebound.,64,62,2,0,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,257,2,7:26,446,446,Dontarius James missed Free Throw.,64,62,2,0,0.708466639119791,0.6254620679063724,3,4,4,NA,NA,Xavier,missed,Dontarius James,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,258,2,7:24,444,444,Providence Deadball Team Rebound.,64,62,2,2,0.7086340706431493,0.6257806551334474,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,259,2,7:24,444,444,Foul on Zach Freemantle.,64,62,2,0,0.7086340706431493,0.6257806551334474,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,260,2,7:10,430,430,Alpha Diallo made Jumper.,66,62,4,14,0.8053698098396144,0.7407056853642984,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,261,2,6:48,408,408,KyKy Tandy made Three Point Jumper. Assisted by Naji Marshall.,66,65,1,22,0.6535449755640783,0.5673385062189866,3,4,4,NA,NA,Xavier,made,KyKy Tandy,Naji Marshall,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,262,2,6:25,385,385,David Duke missed Three Point Jumper.,66,65,1,23,0.6536877812577108,0.5694005583217165,3,4,4,NA,NA,Providence,missed,David Duke,NA,TRUE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,263,2,6:20,380,380,Alpha Diallo Offensive Rebound.,66,65,1,5,0.6537110040389335,0.5698582521361394,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,264,2,6:16,376,376,Alpha Diallo made Layup.,68,65,3,4,0.7687162198022466,0.7002288807797049,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,265,2,6:09,369,369,Foul on Kalif Young.,68,65,3,7,0.7697289568948745,0.7019574188591464,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,266,2,6:09,369,369,Jason Carter missed Free Throw.,68,65,3,0,0.7697289568948745,0.7019574188591464,3,4,4,NA,NA,Xavier,missed,Jason Carter,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,267,2,6:09,369,369,Xavier Deadball Team Rebound.,68,65,3,0,0.7697289568948745,0.7019574188591464,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,268,2,6:09,369,369,Jason Carter made Free Throw.,68,66,2,0,0.7152938671397954,0.6390148610064424,3,4,4,NA,NA,Xavier,made,Jason Carter,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,269,2,5:56,356,356,Foul on Tyrique Jones.,68,66,2,13,0.7165407142492674,0.6415458068352032,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,270,2,5:56,356,356,Kalif Young missed Free Throw.,68,66,2,0,0.7165407142492674,0.6415458068352032,3,4,4,NA,NA,Providence,missed,Kalif Young,NA,FALSE,TRUE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,271,2,5:56,356,356,Providence Deadball Team Rebound.,68,66,2,0,0.7165407142492674,0.6415458068352032,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,272,2,5:56,356,356,Kalif Young made Free Throw.,69,66,3,0,0.7717829880709512,0.7053943994262446,3,4,4,NA,NA,Providence,made,Kalif Young,NA,FALSE,TRUE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,273,2,5:37,337,337,Naji Marshall made Layup.,69,68,1,19,0.6543582522052306,0.5745345283831335,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,274,2,5:15,315,315,Luwane Pipkins missed Three Point Jumper.,69,68,1,22,0.6553828158629782,0.5778474905509461,3,4,4,NA,NA,Providence,missed,Luwane Pipkins,NA,TRUE,FALSE,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,275,2,5:11,311,311,Luwane Pipkins Offensive Rebound.,69,68,1,4,0.6556468536904034,0.5785457640321877,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,276,2,5:10,310,310,Luwane Pipkins Turnover.,69,68,1,1,0.6557171104821325,0.5787254827842792,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,277,2,5:10,310,310,KyKy Tandy Steal.,69,68,1,0,0.6557171104821325,0.5787254827842792,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,278,2,4:45,285,285,Tyrique Jones missed Layup.,69,68,1,25,0.6549716129539013,0.5804813269443945,3,4,4,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,279,2,4:42,282,282,Kalif Young Defensive Rebound.,69,68,1,3,0.6546210413821665,0.580408714867296,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,280,2,4:21,261,261,David Duke made Jumper.,71,68,3,21,0.7796464625812486,0.7226205704058416,3,4,4,NA,NA,Providence,made,David Duke,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,281,2,4:01,241,241,Foul on Nate Watson.,71,68,3,20,0.7756853012327153,0.7197756813080403,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,282,2,4:01,241,241,Naji Marshall made Free Throw.,71,69,2,0,0.7163133033707451,0.6522398760944914,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,283,2,4:01,241,241,Naji Marshall made Free Throw.,71,70,1,0,0.6483507196621352,0.5779710164293155,3,4,4,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,284,2,3:47,227,227,Alpha Diallo made Layup.,73,70,3,14,0.7750238645286242,0.7203133471989596,3,4,4,NA,NA,Providence,made,Alpha Diallo,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,285,2,3:25,205,205,Official TV Timeout,73,70,3,22,0.7809858739827231,0.7293812487962947,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,286,2,3:19,199,199,Naji Marshall missed Three Point Jumper.,73,70,3,6,0.7845912845425432,0.7341695515186303,3,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,287,2,3:15,195,195,Alpha Diallo Defensive Rebound.,73,70,3,4,0.7875382836004108,0.7379979486819737,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,288,2,2:47,167,167,David Duke missed Three Point Jumper.,73,70,3,28,0.8130969421265621,0.7706170173747106,3,4,4,NA,NA,Providence,missed,David Duke,NA,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,289,2,2:44,164,164,Xavier Defensive Rebound.,73,70,3,3,0.8158910515177137,0.7741808875014576,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,290,2,2:24,144,144,Zach Freemantle made Layup. Assisted by Tyrique Jones.,73,72,1,20,0.6690911025869315,0.6129115732288086,3,4,4,NA,NA,Xavier,made,Zach Freemantle,Tyrique Jones,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,291,2,2:05,125,125,Alpha Diallo made Layup. Assisted by A.J. Reeves.,75,72,3,19,0.8552861761506536,0.8240875017023821,3,4,4,NA,NA,Providence,made,Alpha Diallo,AJ Reeves,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,292,2,1:42,102,102,KyKy Tandy missed Layup.,75,72,3,23,0.8819339348677293,0.857418238058785,3,4,4,NA,NA,Xavier,missed,KyKy Tandy,NA,FALSE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,293,2,1:40,100,100,Zach Freemantle Offensive Rebound.,75,72,3,2,0.884350593203271,0.8604252474505283,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,294,2,1:39,99,99,Zach Freemantle made Layup.,75,74,1,1,0.695347836361017,0.6480502998087654,3,4,4,NA,NA,Xavier,made,Zach Freemantle,NA,FALSE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,295,2,1:39,99,99,Xavier  Timeout,75,74,1,0,0.695347836361017,0.6480502998087654,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,296,2,1:11,71,71,Luwane Pipkins made Three Point Jumper. Assisted by Alpha Diallo.,78,74,4,28,0.9590145208301067,0.9506510557530906,2,4,4,NA,NA,Providence,made,Luwane Pipkins,Alpha Diallo,TRUE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,297,2,0:56,56,56,Naji Marshall missed Three Point Jumper.,78,74,4,15,0.9694202464803627,0.9635024103677605,2,4,4,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,298,2,0:55,55,55,Providence Defensive Rebound.,78,74,4,1,0.9700396753237275,0.964263993907232,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,299,2,0:55,55,55,Providence  Timeout,78,74,4,0,0.9700396753237275,0.964263993907232,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,300,2,0:27,27,27,Luwane Pipkins made Layup.,80,74,6,28,0.9977663517424854,0.9973802969153209,2,3,4,NA,NA,Providence,made,Luwane Pipkins,NA,FALSE,FALSE,Providence,Xavier
+401168440,2020-03-04,Providence,Xavier,301,2,0:13,13,13,Jason Carter missed Three Point Jumper.,80,74,6,14,0.9987025731132687,0.9984958368847389,2,3,4,NA,NA,Xavier,missed,Jason Carter,NA,TRUE,FALSE,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,302,2,0:06,6,6,Naji Marshall Offensive Rebound.,80,74,6,7,0.999029523920744,0.9988815889344047,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401168440,2020-03-04,Providence,Xavier,303,2,0:04,4,4,Zach Freemantle missed Three Point Jumper.,80,74,6,2,0.9991083766490909,0.9989742346489092,2,3,4,NA,NA,Xavier,missed,Zach Freemantle,NA,TRUE,FALSE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,304,2,0:02,2,2,Foul on Jason Carter.,80,74,6,2,0.9991813649232926,0.9990598361403993,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,Providence
+401168440,2020-03-04,Providence,Xavier,305,2,0:02,2,2,Kalif Young missed Free Throw.,80,74,6,0,0.9991813649232926,0.9990598361403993,2,3,4,NA,NA,Providence,missed,Kalif Young,NA,FALSE,TRUE,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,306,2,0:01,1,1,Kalif Young Defensive Rebound.,80,74,6,1,0.9992157642600316,0.9991001254907949,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,307,2,0:01,1,1,Naji Marshall Defensive Rebound.,80,74,6,0,0.9992157642600316,0.9991001254907949,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Providence
+401168440,2020-03-04,Providence,Xavier,308,2,0:00,0,0,End of 2nd half,80,74,6,1,1,1,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,NA
+401168440,2020-03-04,Providence,Xavier,309,2,0:00,0,0,End of Game,80,74,6,0,1,1,2,3,4,NA,NA,NA,NA,NA,NA,NA,NA,Providence,NA

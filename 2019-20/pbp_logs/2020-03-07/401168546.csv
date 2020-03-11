@@ -1,0 +1,354 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401168546,2020-03-07,Miami,Syracuse,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.4010534725030346,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse
+401168546,2020-03-07,Miami,Syracuse,2,1,19:45,2385,2685,Buddy Boeheim missed Three Point Jumper.,0,0,0,15,0.4011981225775973,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,3,1,19:40,2380,2680,Isaiah Wong Defensive Rebound.,0,0,0,5,0.40124692064173495,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,4,1,19:22,2362,2662,Keith Stone missed Jumper.,0,0,0,18,0.401425043966251,0.5,4,4,-2.5,NA,NA,Miami,missed,Keith Stone,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,5,1,19:18,2358,2658,Bourama Sidibe Defensive Rebound.,0,0,0,4,0.4014651543223456,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,6,1,19:12,2352,2652,Marek Dolezaj made Jumper.,0,2,-2,6,0.3589804286728795,0.4549524799339148,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,7,1,18:46,2326,2626,Isaiah Wong missed Three Point Jumper.,0,2,-2,26,0.35871121523025123,0.4543864532488971,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,8,1,18:42,2322,2622,Joseph Girard III Defensive Rebound.,0,2,-2,4,0.35866984345183633,0.45429865275097875,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,9,1,18:30,2310,2610,Marek Dolezaj made Jumper.,0,4,-4,12,0.3173309553010707,0.40883878435579224,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,10,1,18:11,2291,2591,Dejan Vasiljevic missed Three Point Jumper.,0,4,-4,19,0.31677826405153653,0.40801627888770187,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,11,1,18:09,2289,2589,Elijah Hughes Defensive Rebound.,0,4,-4,2,0.31671998707806953,0.40792930992190235,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,12,1,18:06,2286,2586,Elijah Hughes Turnover.,0,4,-4,3,0.3166325426990221,0.40779872365430386,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,13,1,18:06,2286,2586,Isaiah Wong Steal.,0,4,-4,0,0.3166325426990221,0.40779872365430386,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,14,1,18:00,2280,2580,Isaiah Wong missed Jumper.,0,4,-4,6,0.3164575604098526,0.40753708330480626,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,15,1,17:59,2279,2579,Miami Offensive Rebound.,0,4,-4,1,0.3164283858162891,0.407493417154684,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,16,1,17:59,2279,2579,Foul on Marek Dolezaj.,0,4,-4,0,0.3164283858162891,0.407493417154684,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,17,1,17:45,2265,2565,Rodney Miller Jr. made Dunk. Assisted by Keith Stone.,2,4,-2,14,0.35808484750117703,0.4530293028417215,4,4,-2.5,NA,NA,Miami,made,Rodney Miller Jr.,Keith Stone,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,18,1,17:19,2239,2539,Elijah Hughes missed Three Point Jumper.,2,4,-2,26,0.35782283327789516,0.4524406556427031,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,19,1,17:16,2236,2536,Dejan Vasiljevic Defensive Rebound.,2,4,-2,3,0.3577928750799785,0.45237241150382773,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,20,1,16:57,2217,2517,Dejan Vasiljevic missed Three Point Jumper.,2,4,-2,19,0.35760467062810203,0.45193882090682996,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,21,1,16:55,2215,2515,Joseph Girard III Defensive Rebound.,2,4,-2,2,0.3575850241565369,0.45189305018148956,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,22,1,16:38,2198,2498,Elijah Hughes missed Layup.,2,4,-2,17,0.3574194247703565,0.45150310963045764,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,23,1,16:34,2194,2494,Syracuse Offensive Rebound.,2,4,-2,4,0.35738084366661815,0.4514111445131579,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,24,1,16:27,2187,2487,Elijah Hughes made Jumper. Assisted by Buddy Boeheim.,2,6,-4,7,0.3137460246567537,0.4034181855741102,4,4,-2.5,NA,NA,Syracuse,made,Elijah Hughes,Buddy Boeheim,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,25,1,16:04,2164,2464,Kameron McGusty missed Three Point Jumper.,2,6,-4,23,0.3130812199813903,0.402386626649463,4,4,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,26,1,16:00,2160,2460,Isaiah Wong Offensive Rebound.,2,6,-4,4,0.31296583209420864,0.40220669737305154,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,27,1,15:58,2158,2458,Dejan Vasiljevic made Three Point Jumper. Assisted by Isaiah Wong.,5,6,-1,2,0.3801130900387947,0.4752294550065752,4,4,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,Isaiah Wong,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,28,1,15:36,2136,2436,Bourama Sidibe Turnover.,5,6,-1,22,0.38014827218391534,0.47497153990593205,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,29,1,15:36,2136,2436,Official TV Timeout,5,6,-1,0,0.38014827218391534,0.47497153990593205,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,30,1,15:24,2124,2424,Dejan Vasiljevic missed Three Point Jumper.,5,6,-1,12,0.3801693998241989,0.4748299950169719,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,31,1,15:21,2121,2421,Joseph Girard III Defensive Rebound.,5,6,-1,3,0.38017488748430905,0.4747945087762299,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,32,1,15:19,2119,2419,Joseph Girard III missed Three Point Jumper.,5,6,-1,2,0.3801785908368064,0.47477082857290975,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,33,1,15:15,2115,2415,Rodney Miller Jr. Defensive Rebound.,5,6,-1,4,0.3801861043026937,0.4747234130496318,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,34,1,15:01,2101,2401,Isaiah Wong missed Three Point Jumper.,5,6,-1,14,0.3802134984145074,0.47455686567115635,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,35,1,14:58,2098,2398,Bourama Sidibe Defensive Rebound.,5,6,-1,3,0.3802195854876948,0.4745210538825061,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,36,1,14:42,2082,2382,Elijah Hughes made Layup. Assisted by Marek Dolezaj.,5,8,-3,16,0.3331394855297321,0.42352497121186555,4,4,-2.5,NA,NA,Syracuse,made,Elijah Hughes,Marek Dolezaj,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,37,1,14:14,2054,2354,Foul on Bourama Sidibe.,5,8,-3,28,0.3325960126737268,0.4225299142988811,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,38,1,13:57,2037,2337,Kameron McGusty missed Three Point Jumper.,5,8,-3,17,0.3322649897490378,0.4219197274312312,4,4,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,39,1,13:52,2032,2332,Isaiah Wong Offensive Rebound.,5,8,-3,5,0.33216742576245983,0.4217393468488051,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,40,1,13:52,2032,2332,Isaiah Wong made Layup.,7,8,-1,0,0.38037106898067985,0.4737211318323147,4,4,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,41,1,13:24,2004,2304,Marek Dolezaj missed Three Point Jumper.,7,8,-1,28,0.38044427183199186,0.47337407430139145,4,4,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,42,1,13:18,1998,2298,Bourama Sidibe Offensive Rebound.,7,8,-1,6,0.3804605536527614,0.47329905037210573,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,43,1,13:17,1997,2297,Bourama Sidibe Turnover.,7,8,-1,1,0.3804632865556887,0.4732865232317708,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,44,1,13:17,1997,2297,Kameron McGusty Steal.,7,8,-1,0,0.3804632865556887,0.4732865232317708,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,45,1,12:49,1969,2269,Foul on Elijah Hughes.,7,8,-1,28,0.38054190725800047,0.47293299703084424,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,46,1,12:49,1969,2269,Keith Stone made Free Throw.,8,8,0,0,0.40639831373479063,0.5,4,4,-2.5,NA,NA,Miami,made,Keith Stone,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,47,1,12:49,1969,2269,Keith Stone made Free Throw.,9,8,1,0,0.4327841466430699,0.5270670029691557,4,4,-2.5,NA,NA,Miami,made,Keith Stone,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,48,1,12:35,1955,2255,Buddy Boeheim made Jumper.,9,10,-1,14,0.38058261736152327,0.47275415905318724,4,4,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,49,1,12:01,1921,2221,Sam Waardenburg missed Jumper.,9,10,-1,34,0.3806854046814682,0.4723141435476238,4,4,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,50,1,11:58,1918,2218,Marek Dolezaj Defensive Rebound.,9,10,-1,3,0.3806950968093581,0.4722751693621137,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,51,1,11:55,1915,2215,Elijah Hughes made Three Point Jumper. Assisted by Marek Dolezaj.,9,13,-4,3,0.3057497189339594,0.39062685381798457,4,4,-2.5,NA,NA,Syracuse,made,Elijah Hughes,Marek Dolezaj,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,52,1,11:35,1895,2195,Anthony Walker made Jumper. Assisted by Kameron McGusty.,11,13,-2,20,0.35469317299491016,0.4441289547419797,4,4,-2.5,NA,NA,Miami,made,Anthony Walker,Kameron McGusty,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,53,1,11:15,1875,2175,Bourama Sidibe missed Layup.,11,13,-2,20,0.3545282808457791,0.4436148405043947,4,4,-2.5,NA,NA,Syracuse,missed,Bourama Sidibe,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,54,1,11:15,1875,2175,Sam Waardenburg Block.,11,13,-2,0,0.3545282808457791,0.4436148405043947,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,55,1,11:11,1871,2171,Bourama Sidibe Offensive Rebound.,11,13,-2,4,0.35449588230209766,0.4435119136341477,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,56,1,11:08,1868,2168,Elijah Hughes missed Layup.,11,13,-2,3,0.3544716929717278,0.4434346812096754,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,57,1,11:05,1865,2165,Sam Waardenburg Defensive Rebound.,11,13,-2,3,0.3544475920832309,0.4433574122310975,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,58,1,10:47,1847,2147,Isaiah Wong made Layup. Assisted by Sam Waardenburg.,13,13,0,18,0.4083619605599638,0.5,4,4,-2.5,NA,NA,Miami,made,Isaiah Wong,Sam Waardenburg,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,59,1,10:26,1826,2126,Elijah Hughes missed Jumper.,13,13,0,21,0.4087220999662769,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,60,1,10:23,1823,2123,Sam Waardenburg Defensive Rebound.,13,13,0,3,0.408774026418407,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,61,1,10:01,1801,2101,Kameron McGusty missed Jumper.,13,13,0,22,0.40915829630472583,0.5,4,4,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,62,1,9:58,1798,2098,Bourama Sidibe Defensive Rebound.,13,13,0,3,0.40921115617792697,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,63,1,9:48,1788,2088,Buddy Boeheim missed Three Point Jumper.,13,13,0,10,0.40938812056196505,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,64,1,9:45,1785,2085,Marek Dolezaj Offensive Rebound.,13,13,0,3,0.40944143499083674,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,65,1,9:42,1782,2082,Joseph Girard III missed Layup.,13,13,0,3,0.40949485132013913,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,66,1,9:38,1778,2078,Harlond Beverly Defensive Rebound.,13,13,0,4,0.4095662296611506,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,67,1,9:32,1772,2072,Harlond Beverly missed Layup.,13,13,0,6,0.4096736272625918,0.5,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,68,1,9:30,1770,2070,Sam Waardenburg Offensive Rebound.,13,13,0,2,0.4097095131540589,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,69,1,9:19,1759,2059,Harlond Beverly missed Three Point Jumper.,13,13,0,11,0.409907641488951,0.5,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,70,1,9:19,1759,2059,Elijah Hughes Block.,13,13,0,0,0.409907641488951,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,71,1,9:14,1754,2054,Sam Waardenburg Offensive Rebound.,13,13,0,5,0.40999811271834874,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,72,1,9:13,1753,2053,Sam Waardenburg missed Layup.,13,13,0,1,0.41001623722261743,0.5,4,4,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,73,1,9:13,1753,2053,Bourama Sidibe Block.,13,13,0,0,0.41001623722261743,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,74,1,9:09,1749,2049,Sam Waardenburg Offensive Rebound.,13,13,0,4,0.41008883471087354,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,75,1,9:08,1748,2048,Sam Waardenburg made Layup.,15,13,2,1,0.4691736765338058,0.5597287177246654,4,4,-2.5,NA,NA,Miami,made,Sam Waardenburg,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,76,1,8:57,1737,2037,Buddy Boeheim missed Three Point Jumper.,15,13,2,11,0.4696855249012076,0.5600308561056404,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,77,1,8:54,1734,2034,Harlond Beverly Defensive Rebound.,15,13,2,3,0.4698258405753183,0.5601137551935602,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,78,1,8:32,1712,2012,Anthony Walker missed Jumper.,15,13,2,22,0.4708646301132614,0.5607287023735282,4,4,-2.5,NA,NA,Miami,missed,Anthony Walker,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,79,1,8:29,1709,2009,Kameron McGusty Offensive Rebound.,15,13,2,3,0.4710076599956521,0.5608135694543185,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,80,1,8:26,1706,2006,Harlond Beverly missed Three Point Jumper.,15,13,2,3,0.4711510297391625,0.5608986918759065,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,81,1,8:24,1704,2004,Marek Dolezaj Defensive Rebound.,15,13,2,2,0.47124679987816764,0.5609555840413286,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,82,1,8:09,1689,1989,Joseph Girard III missed Three Point Jumper.,15,13,2,15,0.47196999694512776,0.5613860342195655,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,83,1,8:07,1687,1987,Anthony Walker Defensive Rebound.,15,13,2,2,0.4720668803275083,0.5614436418683096,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,84,1,7:47,1667,1967,Sam Waardenburg Turnover.,15,13,2,20,0.47303315895567194,0.5620103235065229,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,85,1,7:47,1667,1967,Joseph Girard III Steal.,15,13,2,0,0.47303315895567194,0.5620103235065229,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,86,1,7:44,1664,1964,Joseph Girard III made Layup.,15,15,0,3,0.4116722377607163,0.5,4,4,-2.5,NA,NA,Syracuse,made,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,87,1,7:21,1641,1941,Harlond Beverly missed Jumper.,15,15,0,23,0.4121262387007117,0.5,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,88,1,7:21,1641,1941,Bourama Sidibe Block.,15,15,0,0,0.4121262387007117,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,89,1,7:15,1635,1935,Isaiah Wong Offensive Rebound.,15,15,0,6,0.41224679261363656,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,90,1,7:14,1634,1934,Sam Waardenburg missed Three Point Jumper.,15,15,0,1,0.41226696433866755,0.5,4,4,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,91,1,7:12,1632,1932,Marek Dolezaj Defensive Rebound.,15,15,0,2,0.4123073743497857,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,92,1,6:57,1617,1917,Joseph Girard III missed Three Point Jumper.,15,15,0,15,0.4126131506158792,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,93,1,6:55,1615,1915,Sam Waardenburg Defensive Rebound.,15,15,0,2,0.41265426297008995,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,94,1,6:28,1588,1888,Isaiah Wong made Jumper.,17,15,2,27,0.47685407944176916,0.5641533353637581,4,4,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,95,1,5:59,1559,1859,Foul on Sam Waardenburg.,17,15,2,29,0.4782835186571395,0.5649380931428692,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,96,1,5:59,1559,1859,Official TV Timeout,17,15,2,0,0.4782835186571395,0.5649380931428692,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,97,1,5:59,1559,1859,Marek Dolezaj missed Free Throw.,17,15,2,0,0.4782835186571395,0.5649380931428692,4,4,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,98,1,5:59,1559,1859,Syracuse Offensive Rebound.,17,15,2,0,0.4782835186571395,0.5649380931428692,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,99,1,5:59,1559,1859,Official TV Timeout,17,15,2,0,0.4782835186571395,0.5649380931428692,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,100,1,5:59,1559,1859,Marek Dolezaj made Free Throw.,17,16,1,0,0.44582981872106636,0.5326071342057177,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,101,1,5:41,1541,1841,Kameron McGusty made Three Point Jumper. Assisted by Keith Stone.,20,16,4,18,0.544863418408999,0.6286649934486898,4,4,-2.5,NA,NA,Miami,made,Kameron McGusty,Keith Stone,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,102,1,5:10,1510,1810,Elijah Hughes missed Three Point Jumper.,20,16,4,31,0.5473265543141418,0.6303389599136008,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,103,1,5:07,1507,1807,Dejan Vasiljevic Defensive Rebound.,20,16,4,3,0.5475696121864226,0.6305051821717169,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,104,1,4:57,1497,1797,Harlond Beverly made Jumper. Assisted by Rodney Miller Jr..,22,16,6,10,0.6136188607572053,0.691082825581152,4,4,-2.5,NA,NA,Miami,made,Harlond Beverly,Rodney Miller Jr,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,105,1,4:28,1468,1768,Marek Dolezaj made Layup.,22,18,4,29,0.5508227557747656,0.6327540116807752,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,106,1,4:02,1442,1742,Rodney Miller Jr. missed Dunk.,22,18,4,26,0.5530958935035496,0.6343534832022756,4,4,-2.5,NA,NA,Miami,missed,Rodney Miller Jr.,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,107,1,4:02,1442,1742,Marek Dolezaj Block.,22,18,4,0,0.5530958935035496,0.6343534832022756,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,108,1,4:00,1440,1740,Syracuse Defensive Rebound.,22,18,4,2,0.5532706076003274,0.6344761352575494,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,109,1,4:00,1440,1740,Foul on Rodney Miller Jr..,22,18,4,0,0.5532706076003274,0.6344761352575494,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,110,1,4:00,1440,1740,Official TV Timeout,22,18,4,0,0.5532706076003274,0.6344761352575494,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,111,1,3:36,1416,1716,Quincy Guerrier missed Jumper.,22,18,4,24,0.5553341339521688,0.6359108671200749,4,4,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,112,1,3:32,1412,1712,Rodney Miller Jr. Defensive Rebound.,22,18,4,4,0.5556731482396081,0.6361443642387802,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,113,1,3:11,1391,1691,Keith Stone Turnover.,22,18,4,21,0.5574377986213948,0.6373517367336093,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,114,1,3:00,1380,1680,Marek Dolezaj made Layup.,22,20,2,11,0.4878018113247022,0.5703536794667341,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,115,1,2:30,1350,1650,Harlond Beverly made Jumper. Assisted by Keith Stone.,24,20,4,30,0.5608604640153817,0.6396705443452474,4,4,-2.5,NA,NA,Miami,made,Harlond Beverly,Keith Stone,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,116,1,2:13,1333,1633,Marek Dolezaj missed Layup.,24,20,4,17,0.5622943912479568,0.640640668058526,4,4,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,117,1,2:11,1331,1631,Marek Dolezaj Offensive Rebound.,24,20,4,2,0.5624643446516716,0.6407558205945588,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,118,1,2:05,1325,1625,Foul on Rodney Miller Jr..,24,20,4,6,0.5629761518492754,0.6411029265649931,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,119,1,2:05,1325,1625,Elijah Hughes missed Free Throw.,24,20,4,0,0.5629761518492754,0.6411029265649931,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,120,1,2:05,1325,1625,Syracuse Offensive Rebound.,24,20,4,0,0.5629761518492754,0.6411029265649931,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,121,1,2:05,1325,1625,Elijah Hughes made Free Throw.,24,21,3,0,0.5270263601061238,0.6070946052719733,4,4,-2.5,NA,NA,Syracuse,made,Elijah Hughes,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,122,1,1:41,1301,1601,Kameron McGusty Turnover.,24,21,3,24,0.5287529667711306,0.608199110865432,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,123,1,1:41,1301,1601,Marek Dolezaj Steal.,24,21,3,0,0.5287529667711306,0.608199110865432,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,124,1,1:35,1295,1595,Foul on Elijah Hughes.,24,21,3,6,0.5291932190914461,0.6084830172574734,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,125,1,1:35,1295,1595,Elijah Hughes Turnover.,24,21,3,0,0.5291932190914461,0.6084830172574734,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,126,1,1:22,1282,1582,Sam Waardenburg missed Layup.,24,21,3,13,0.5301612729854808,0.6091112902843044,4,4,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,127,1,1:22,1282,1582,Quincy Guerrier Block.,24,21,3,0,0.5301612729854808,0.6091112902843044,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,128,1,1:21,1281,1581,Sam Waardenburg Offensive Rebound.,24,21,3,1,0.5302366045091662,0.6091604287807826,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,129,1,1:21,1281,1581,Foul on Quincy Guerrier.,24,21,3,0,0.5302366045091662,0.6091604287807826,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,130,1,1:21,1281,1581,Sam Waardenburg made Free Throw.,25,21,4,0,0.5668528751489343,0.6437580116043304,4,4,-2.5,NA,NA,Miami,made,Sam Waardenburg,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,131,1,1:21,1281,1581,Sam Waardenburg made Free Throw.,26,21,5,0,0.602753302393689,0.67691730805775,4,4,-2.5,NA,NA,Miami,made,Sam Waardenburg,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,132,1,1:04,1264,1564,Buddy Boeheim missed Three Point Jumper.,26,21,5,17,0.60457698540185,0.678225795377759,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,133,1,1:01,1261,1561,Keith Stone Defensive Rebound.,26,21,5,3,0.6049056373347577,0.678462929686586,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,134,1,0:37,1237,1537,Isaiah Wong Turnover.,26,21,5,24,0.607618783288475,0.680436980733746,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,135,1,0:37,1237,1537,Buddy Boeheim Steal.,26,21,5,0,0.607618783288475,0.680436980733746,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,136,1,0:10,1210,1510,Elijah Hughes missed Three Point Jumper.,26,21,5,27,0.610875788100245,0.6828464481440885,4,4,-2.5,NA,NA,Syracuse,missed,Elijah Hughes,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,137,1,0:07,1207,1507,Bourama Sidibe Offensive Rebound.,26,21,5,3,0.6112500165773084,0.6831256381438029,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,138,1,0:05,1205,1505,Buddy Boeheim made Three Point Jumper. Assisted by Bourama Sidibe.,26,24,2,2,0.4980493561197021,0.5763021121086765,4,4,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,Bourama Sidibe,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,139,1,0:00,1200,1500,End of 1st half,26,24,2,5,0.4983799307986255,0.5765093285143758,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,NA
+401168546,2020-03-07,Miami,Syracuse,140,2,20:00,1200,1500,PLAY,26,24,2,0,0.4983799307986255,0.5765093285143758,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami
+401168546,2020-03-07,Miami,Syracuse,141,2,19:32,1172,1472,Kameron McGusty made Three Point Jumper. Assisted by Isaiah Wong.,29,24,5,28,0.6154745129856773,0.6862600275794285,4,4,-2.5,NA,NA,Miami,made,Kameron McGusty,Isaiah Wong,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,142,2,19:12,1152,1452,Marek Dolezaj made Layup. Assisted by Joseph Girard III.,29,26,3,20,0.5409021557436914,0.6164292859832927,4,4,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,Joseph Girard III,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,143,2,18:39,1119,1419,Keith Stone missed Layup.,29,26,3,33,0.5436137344901998,0.6182864182795259,4,4,-2.5,NA,NA,Miami,missed,Keith Stone,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,144,2,18:37,1117,1417,Rodney Miller Jr. Offensive Rebound.,29,26,3,2,0.543778622452584,0.6183994829545421,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,145,2,18:37,1117,1417,Rodney Miller Jr. missed Layup.,29,26,3,0,0.543778622452584,0.6183994829545421,4,4,-2.5,NA,NA,Miami,missed,Rodney Miller Jr.,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,146,2,18:37,1117,1417,Miami Offensive Rebound.,29,26,3,0,0.543778622452584,0.6183994829545421,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,147,2,18:36,1116,1416,Dejan Vasiljevic missed Three Point Jumper.,29,26,3,1,0.5438611294662647,0.6184560719295727,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,148,2,18:33,1113,1413,Keith Stone Offensive Rebound.,29,26,3,3,0.544108928917952,0.6186260885054592,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,149,2,18:22,1102,1402,Isaiah Wong missed Jumper.,29,26,3,11,0.5450219425612309,0.6192534268721425,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,150,2,18:20,1100,1400,Syracuse Defensive Rebound.,29,26,3,2,0.5451888422200373,0.6193682875075035,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,151,2,18:20,1100,1400,Foul on Keith Stone.,29,26,3,0,0.5451888422200373,0.6193682875075035,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,152,2,18:07,1087,1387,Joseph Girard III missed Jumper.,29,26,3,13,0.5462822656083004,0.6201224954944858,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,153,2,18:04,1084,1384,Isaiah Wong Defensive Rebound.,29,26,3,3,0.546537019395484,0.6202986933233271,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,154,2,17:49,1069,1369,Dejan Vasiljevic missed Three Point Jumper.,29,26,3,15,0.5478274726577065,0.6211944398517759,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,155,2,17:46,1066,1366,Joseph Girard III Defensive Rebound.,29,26,3,3,0.5480893117578396,0.6213769008028112,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,156,2,17:44,1064,1364,Buddy Boeheim missed Layup.,29,26,3,2,0.5482646378351143,0.6214992181221736,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,157,2,17:44,1064,1364,Isaiah Wong Block.,29,26,3,0,0.5482646378351143,0.6214992181221736,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,158,2,17:39,1059,1359,Kameron McGusty Defensive Rebound.,29,26,3,5,0.5487057631714307,0.6218074905956852,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,159,2,17:36,1056,1356,Dejan Vasiljevic missed Three Point Jumper.,29,26,3,3,0.548972452207451,0.6219942299711317,4,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,160,2,17:34,1054,1354,Rodney Miller Jr. Offensive Rebound.,29,26,3,2,0.5491511201751714,0.6221194944322463,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,161,2,17:34,1054,1354,Foul on Bourama Sidibe.,29,26,3,0,0.5491511201751714,0.6221194944322463,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,162,2,17:14,1034,1334,Isaiah Wong missed Three Point Jumper.,29,26,3,20,0.5509802859611872,0.6234095533496185,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,163,2,17:14,1034,1334,Miami Offensive Rebound.,29,26,3,0,0.5509802859611872,0.6234095533496185,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,164,2,17:14,1034,1334,Miami  Turnover.,29,26,3,0,0.5509802859611872,0.6234095533496185,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,165,2,17:01,1021,1321,Buddy Boeheim missed Jumper.,29,26,3,13,0.5522160812878969,0.6242892866549284,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,166,2,16:59,1019,1319,Bourama Sidibe Offensive Rebound.,29,26,3,2,0.5524098567896452,0.6244278396872737,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,167,2,16:59,1019,1319,Foul on Dejan Vasiljevic.,29,26,3,0,0.5524098567896452,0.6244278396872737,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,168,2,16:53,1013,1313,Marek Dolezaj missed Jumper.,29,26,3,6,0.5529973901065203,0.6248489481661141,4,4,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,169,2,16:49,1009,1309,Keith Stone Defensive Rebound.,29,26,3,4,0.5533944233237901,0.6251343775630821,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,170,2,16:24,984,1284,Keith Stone missed Jumper.,29,26,3,25,0.5559818156573422,0.6270111825572628,4,4,-2.5,NA,NA,Miami,missed,Keith Stone,NA,FALSE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,171,2,16:20,980,1280,Isaiah Wong Offensive Rebound.,29,26,3,4,0.5564141119569891,0.6273275105487054,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,172,2,16:20,980,1280,Isaiah Wong missed Layup.,29,26,3,0,0.5564141119569891,0.6273275105487054,4,4,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,173,2,16:18,978,1278,Bourama Sidibe Defensive Rebound.,29,26,3,2,0.5566322867753587,0.6274874479041276,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,174,2,16:14,974,1274,Joseph Girard III made Three Point Jumper. Assisted by Buddy Boeheim.,29,29,0,4,0.4271357929793047,0.5,4,4,-2.5,NA,NA,Syracuse,made,Joseph Girard III,Buddy Boeheim,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,175,2,15:53,953,1253,Foul on Bourama Sidibe.,29,29,0,21,0.4276417235429979,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,176,2,15:53,953,1253,Official TV Timeout,29,29,0,0,0.4276417235429979,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,177,2,15:34,934,1234,Harlond Beverly missed Three Point Jumper.,29,29,0,19,0.4280723905688555,0.5,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,178,2,15:30,930,1230,Buddy Boeheim Defensive Rebound.,29,29,0,4,0.4281602666213152,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,179,2,15:18,918,1218,Buddy Boeheim missed Jumper.,29,29,0,12,0.4284190470261127,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,180,2,15:14,914,1214,Sam Waardenburg Defensive Rebound.,29,29,0,4,0.42850387731073086,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,181,2,14:46,886,1186,Miami  Turnover.,29,29,0,28,0.4290834060003742,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,182,2,14:27,867,1167,Joseph Girard III missed Jumper.,29,29,0,19,0.429469052128486,0.5,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,183,2,14:24,864,1164,Bourama Sidibe Offensive Rebound.,29,29,0,3,0.4295298622339007,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,184,2,14:24,864,1164,Bourama Sidibe made Layup.,29,31,-2,0,0.3421869585689677,0.4085908109290579,4,4,-2.5,NA,NA,Syracuse,made,Bourama Sidibe,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,185,2,13:57,837,1137,Harlond Beverly missed Three Point Jumper.,29,31,-2,27,0.34158282895818803,0.4073981744852742,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,186,2,13:53,833,1133,Miami Offensive Rebound.,29,31,-2,4,0.34148617097547435,0.40721253717877826,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,187,2,13:40,820,1120,Anthony Walker Turnover.,29,31,-2,13,0.3411547423676989,0.40658700685279303,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,188,2,13:40,820,1120,Buddy Boeheim Steal.,29,31,-2,0,0.3411547423676989,0.40658700685279303,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,189,2,13:32,812,1112,Marek Dolezaj Turnover.,29,31,-2,8,0.3409356887445487,0.406182485653765,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,190,2,13:02,782,1082,Kameron McGusty missed Jumper.,29,31,-2,30,0.3399848226360782,0.40449544793161923,4,4,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,191,2,13:00,780,1080,Quincy Guerrier Defensive Rebound.,29,31,-2,2,0.33991298270968656,0.4043717963315911,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,192,2,12:55,775,1075,Bourama Sidibe missed Layup.,29,31,-2,5,0.3397281657537629,0.4040557279290507,4,4,-2.5,NA,NA,Syracuse,missed,Bourama Sidibe,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,193,2,12:55,775,1075,Anthony Walker Block.,29,31,-2,0,0.3397281657537629,0.4040557279290507,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,194,2,12:54,774,1074,Syracuse Offensive Rebound.,29,31,-2,1,0.339690285949553,0.4039912941810838,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,195,2,12:51,771,1071,Joseph Girard III missed Three Point Jumper.,29,31,-2,3,0.33957476415745297,0.40379548433958873,4,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,196,2,12:48,768,1068,Dejan Vasiljevic Defensive Rebound.,29,31,-2,3,0.3394563610503855,0.4035958318107386,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,197,2,12:29,749,1049,Foul on Bourama Sidibe.,29,31,-2,19,0.33863478786815837,0.4022355283751409,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,198,2,12:29,749,1049,Harlond Beverly missed Free Throw.,29,31,-2,0,0.33863478786815837,0.4022355283751409,4,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,199,2,12:29,749,1049,Miami Offensive Rebound.,29,31,-2,0,0.33863478786815837,0.4022355283751409,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,200,2,12:29,749,1049,Harlond Beverly made Free Throw.,30,31,-1,0,0.38430753405517304,0.4506414026679366,4,4,-2.5,NA,NA,Miami,made,Harlond Beverly,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,201,2,12:10,730,1030,Quincy Guerrier missed Layup.,30,31,-1,19,0.3840542485735746,0.44984592634161424,4,4,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,202,2,12:10,730,1030,Kameron McGusty Block.,30,31,-1,0,0.3840542485735746,0.44984592634161424,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,203,2,12:05,725,1025,Quincy Guerrier Offensive Rebound.,30,31,-1,5,0.3839829612242244,0.4496271916090662,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,204,2,12:04,724,1024,Quincy Guerrier missed Layup.,30,31,-1,1,0.3839694490426081,0.4495844560438734,4,4,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,205,2,12:04,724,1024,Sam Waardenburg Block.,30,31,-1,0,0.3839694490426081,0.4495844560438734,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,206,2,12:01,721,1021,Quincy Guerrier Offensive Rebound.,30,31,-1,3,0.3839303335350111,0.44945817364622365,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,207,2,12:00,720,1020,Quincy Guerrier made Layup.,30,33,-3,1,0.29338347538471304,0.35226836234278713,4,4,-2.5,NA,NA,Syracuse,made,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,208,2,12:00,720,1020,Quincy Guerrier missed Layup.,30,33,-3,0,0.29338347538471304,0.35226836234278713,4,4,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,209,2,12:00,720,1020,Sam Waardenburg Block.,30,33,-3,0,0.29338347538471304,0.35226836234278713,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,210,2,12:00,720,1020,Quincy Guerrier Offensive Rebound.,30,33,-3,0,0.29338347538471304,0.35226836234278713,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,211,2,11:39,699,999,Dejan Vasiljevic made Three Point Jumper. Assisted by Sam Waardenburg.,33,33,0,21,0.433502317568995,0.5,4,4,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,Sam Waardenburg,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,212,2,11:13,673,973,Foul on Keith Stone.,33,33,0,26,0.4341950428332513,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,213,2,11:13,673,973,Official TV Timeout,33,33,0,0,0.4341950428332513,0.5,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,214,2,11:13,673,973,Jesse Edwards made Free Throw.,33,34,-1,0,0.3835125031034538,0.44771428514638484,4,4,-2.5,NA,NA,Syracuse,made,Jesse Edwards,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,215,2,11:13,673,973,Jesse Edwards made Free Throw.,33,35,-2,0,0.33524074035695767,0.3965597088997596,4,4,-2.5,NA,NA,Syracuse,made,Jesse Edwards,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,216,2,10:50,650,950,Sam Waardenburg missed Jumper.,33,35,-2,23,0.33442414651455715,0.3950874639243701,4,4,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,217,2,10:46,646,946,Joseph Girard III Defensive Rebound.,33,35,-2,4,0.33427893355477173,0.3948268803476178,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,218,2,10:40,640,940,Quincy Guerrier made Layup. Assisted by Buddy Boeheim.,33,37,-4,6,0.24626679430609866,0.2978709577626383,4,4,-2.5,NA,NA,Syracuse,made,Quincy Guerrier,Buddy Boeheim,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,219,2,10:40,640,940,Foul on Kameron McGusty.,33,37,-4,0,0.24626679430609866,0.2978709577626383,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,220,2,10:40,640,940,Quincy Guerrier missed Free Throw.,33,37,-4,0,0.24626679430609866,0.2978709577626383,4,4,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,221,2,10:40,640,940,Sam Waardenburg Defensive Rebound.,33,37,-4,0,0.24626679430609866,0.2978709577626383,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,222,2,10:14,614,914,Keith Stone Turnover.,33,37,-4,26,0.24393814673688283,0.29462981481176953,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,223,2,10:14,614,914,Marek Dolezaj Steal.,33,37,-4,0,0.24393814673688283,0.29462981481176953,4,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,224,2,10:14,614,914,Miami  Timeout,33,37,-4,0,0.24393814673688283,0.29462981481176953,3,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,225,2,10:14,614,914,Official TV Timeout,33,37,-4,0,0.24393814673688283,0.29462981481176953,3,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,226,2,9:57,597,897,Marek Dolezaj Turnover.,33,37,-4,17,0.24216312603907247,0.29220406597110254,3,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,227,2,9:57,597,897,Rodney Miller Jr. Steal.,33,37,-4,0,0.24216312603907247,0.29220406597110254,3,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,228,2,9:33,573,873,Harlond Beverly missed Three Point Jumper.,33,37,-4,24,0.23915948110267363,0.2881764320776538,3,4,-2.5,NA,NA,Miami,missed,Harlond Beverly,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,229,2,9:30,570,870,Marek Dolezaj Defensive Rebound.,33,37,-4,3,0.2387348029087426,0.28761337514908486,3,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,230,2,9:22,562,862,Buddy Boeheim made Jumper. Assisted by Joseph Girard III.,33,39,-6,8,0.1647153384130251,0.20228855578140217,3,4,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,Joseph Girard III,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,231,2,9:14,554,854,Miami  Timeout,33,39,-6,8,0.16317311912498444,0.20029256751041258,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,232,2,8:50,530,830,Harlond Beverly Turnover.,33,39,-6,24,0.15874165245376365,0.194536989404243,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,233,2,8:50,530,830,Quincy Guerrier Steal.,33,39,-6,0,0.15874165245376365,0.194536989404243,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,234,2,8:33,513,813,Foul on Dejan Vasiljevic.,33,39,-6,17,0.15620833006741067,0.19119458769158884,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,235,2,8:23,503,803,Marek Dolezaj Turnover.,33,39,-6,10,0.15481766068113548,0.18934926773196153,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,236,2,8:23,503,803,Harlond Beverly Steal.,33,39,-6,0,0.15481766068113548,0.18934926773196153,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,237,2,8:20,500,800,Foul on Buddy Boeheim.,33,39,-6,3,0.15440299055950577,0.18879875901266205,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,238,2,8:07,487,787,Dejan Vasiljevic made Three Point Jumper. Assisted by Harlond Beverly.,36,39,-3,13,0.27334632446657975,0.3236821801618631,2,4,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,Harlond Beverly,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,239,2,7:45,465,765,Joseph Girard III missed Three Point Jumper.,36,39,-3,22,0.2709387956830817,0.32031728197881676,2,4,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,240,2,7:42,462,762,Miami Defensive Rebound.,36,39,-3,3,0.2705574073802794,0.31979529434612125,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,241,2,7:42,462,762,Official TV Timeout,36,39,-3,0,0.2705574073802794,0.31979529434612125,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,242,2,7:27,447,747,Dejan Vasiljevic made Three Point Jumper. Assisted by Isaiah Wong.,39,39,0,15,0.4416077750093545,0.5,2,4,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,Isaiah Wong,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,243,2,7:04,424,724,Buddy Boeheim missed Three Point Jumper.,39,39,0,23,0.44263950410314173,0.5,2,4,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,244,2,7:01,421,721,Quincy Guerrier Offensive Rebound.,39,39,0,3,0.44278289176518315,0.5,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,245,2,7:00,420,720,Quincy Guerrier made Layup.,39,41,-2,1,0.318085446000261,0.369839824421154,2,4,-2.5,NA,NA,Syracuse,made,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,246,2,6:29,389,689,Dejan Vasiljevic missed Three Point Jumper.,39,41,-2,31,0.3144998031018718,0.3645040686216693,2,4,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,247,2,6:26,386,686,Marek Dolezaj Defensive Rebound.,39,41,-2,3,0.31416507947106725,0.363993498061385,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,248,2,6:23,383,683,Foul on Keith Stone.,39,41,-2,3,0.31382767450077875,0.36347877140643564,2,4,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,249,2,6:23,383,683,Syracuse  Timeout,39,41,-2,0,0.31382767450077875,0.36347877140643564,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,250,2,6:11,371,671,Buddy Boeheim made Three Point Jumper. Assisted by Joseph Girard III.,39,44,-5,12,0.1620524445464032,0.1940763400037932,2,3,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,Joseph Girard III,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,251,2,5:36,336,636,Kameron McGusty made Three Point Jumper. Assisted by Keith Stone.,42,44,-2,35,0.3073014005735874,0.3539219955677283,2,3,-2.5,NA,NA,Miami,made,Kameron McGusty,Keith Stone,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,252,2,5:15,315,615,Buddy Boeheim missed Three Point Jumper.,42,44,-2,21,0.30292391236877864,0.3479898850199312,2,3,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,253,2,5:09,309,609,Syracuse Offensive Rebound.,42,44,-2,6,0.30143758318894365,0.3460321657423441,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,254,2,5:05,305,605,Marek Dolezaj missed Jumper.,42,44,-2,4,0.3006264306031765,0.3449205941870059,2,3,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,255,2,5:02,302,602,Keith Stone Defensive Rebound.,42,44,-2,3,0.3001928206832314,0.34427584794318195,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,256,2,4:48,288,588,Kameron McGusty missed Three Point Jumper.,42,44,-2,14,0.29982405717693195,0.34305301216472694,2,3,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,TRUE,FALSE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,257,2,4:43,283,583,Isaiah Wong Offensive Rebound.,42,44,-2,5,0.3002194012205188,0.34318325306169456,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,258,2,4:42,282,582,Rodney Miller Jr. made Layup. Assisted by Isaiah Wong.,44,44,0,1,0.4509453635526311,0.5,2,3,-2.5,NA,NA,Miami,made,Rodney Miller Jr.,Isaiah Wong,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,259,2,4:26,266,566,Joseph Girard III made Three Point Jumper.,44,47,-3,16,0.2396229600764358,0.27645824409249786,2,3,-2.5,NA,NA,Syracuse,made,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,260,2,3:58,238,538,Isaiah Wong made Three Point Jumper. Assisted by Dejan Vasiljevic.,47,47,0,28,0.45388308660390786,0.5,2,3,-2.5,NA,NA,Miami,made,Isaiah Wong,Dejan Vasiljevic,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,261,2,3:41,221,521,Foul on Rodney Miller Jr..,47,47,0,17,0.45512061192955916,0.5,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,262,2,3:41,221,521,Official TV Timeout,47,47,0,0,0.45512061192955916,0.5,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,263,2,3:41,221,521,Joseph Girard III missed Free Throw.,47,47,0,0,0.45512061192955916,0.5,2,3,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,264,2,3:41,221,521,Syracuse Offensive Rebound.,47,47,0,0,0.45512061192955916,0.5,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,265,2,3:41,221,521,Joseph Girard III made Free Throw.,47,48,-1,0,0.3781253529268116,0.42128250949236523,2,3,-2.5,NA,NA,Syracuse,made,Joseph Girard III,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,266,2,3:30,210,510,Foul on Joseph Girard III.,47,48,-1,11,0.3771302014254999,0.41941613904916414,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,267,2,3:24,204,504,Isaiah Wong made Layup.,49,48,1,6,0.539190085935113,0.5821763390144347,2,3,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,268,2,3:07,187,487,Marek Dolezaj missed Layup.,49,48,1,17,0.5479195046940873,0.5892963252820602,2,3,-2.5,NA,NA,Syracuse,missed,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,269,2,3:07,187,487,Keith Stone Block.,49,48,1,0,0.5479195046940873,0.5892963252820602,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,270,2,3:03,183,483,Keith Stone Defensive Rebound.,49,48,1,4,0.5503465008530218,0.5913215406891759,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,271,2,2:45,165,465,Dejan Vasiljevic missed Three Point Jumper.,49,48,1,18,0.5615923382271271,0.6007101058532888,2,3,-2.5,NA,NA,Miami,missed,Dejan Vasiljevic,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,272,2,2:43,163,463,Bourama Sidibe Defensive Rebound.,49,48,1,2,0.5628941172514771,0.601799785480871,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,273,2,2:39,159,459,Marek Dolezaj made Layup. Assisted by Joseph Girard III.,49,50,-1,4,0.3587503848046656,0.3959818887605474,2,3,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,Joseph Girard III,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,274,2,2:06,126,426,Dejan Vasiljevic made Three Point Jumper. Assisted by Sam Waardenburg.,52,50,2,33,0.706309303662387,0.7355909108126285,2,3,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,Sam Waardenburg,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,275,2,1:34,94,394,Foul on Sam Waardenburg.,52,50,2,32,0.756274693300452,0.7797782423044805,2,3,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,276,2,1:34,94,394,Marek Dolezaj made Free Throw.,52,51,1,0,0.6225005943927595,0.6529852541795719,2,3,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,277,2,1:34,94,394,Marek Dolezaj made Free Throw.,52,52,0,0,0.46704492431774847,0.5,2,3,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,278,2,1:09,69,369,Sam Waardenburg made Dunk. Assisted by Keith Stone.,54,52,2,25,0.7988123822660013,0.8174975307231944,2,3,-2.5,NA,NA,Miami,made,Sam Waardenburg,Keith Stone,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,279,2,0:58,58,358,Syracuse  Timeout,54,52,2,11,0.8175156240363667,0.834099587806877,2,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,280,2,0:46,46,346,Buddy Boeheim missed Three Point Jumper.,54,52,2,12,0.8374583264548012,0.8518188381895048,2,2,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,281,2,0:44,44,344,Isaiah Wong Defensive Rebound.,54,52,2,2,0.8407370368463711,0.8547348038593043,2,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,282,2,0:42,42,342,Foul on Buddy Boeheim.,54,52,2,2,0.8440010081616915,0.8576386155128851,2,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,283,2,0:16,16,316,Foul on Bourama Sidibe.,54,52,2,26,0.8839781058779815,0.8932892633380727,2,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,284,2,0:16,16,316,Isaiah Wong made Free Throw.,55,52,3,0,0.9566050575055411,0.9603490921001517,2,2,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,285,2,0:16,16,316,Isaiah Wong made Free Throw.,56,52,4,0,0.9845631731170971,0.9859305113143134,2,2,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,286,2,0:10,10,310,Joseph Girard III made Layup.,56,54,2,6,0.8925474658484904,0.9009619731336145,2,2,-2.5,NA,NA,Syracuse,made,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,287,2,0:10,10,310,Syracuse  Timeout,56,54,2,0,0.8925474658484904,0.9009619731336145,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,288,2,0:09,9,309,Foul on Joseph Girard III.,56,54,2,1,0.8939467237731425,0.9022161211088555,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,289,2,0:09,9,309,Sam Waardenburg missed Free Throw.,56,54,2,0,0.8939467237731425,0.9022161211088555,2,1,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,290,2,0:08,8,308,Jesse Edwards Defensive Rebound.,56,54,2,1,0.8953365849720839,0.9034622098895941,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,291,2,0:01,1,301,Joseph Girard III made Jumper.,56,56,0,7,0.4785036666391032,0.5,2,1,-2.5,NA,NA,Syracuse,made,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,292,2,0:00,300,300,Isaiah Wong Turnover.,56,56,0,1,0.4497807101476541,0.5,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,293,2,0:00,300,300,End of 2nd half,56,56,0,0,0.4497807101476541,0.5,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,NA
+401168546,2020-03-07,Miami,Syracuse,294,3,5:00,300,300,PLAY,56,56,0,0,0.4497807101476541,0.5,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami
+401168546,2020-03-07,Miami,Syracuse,295,3,4:34,274,274,Foul on Jesse Edwards.,56,56,0,26,0.4514637043777584,0.5,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,296,3,4:34,274,274,Isaiah Wong made Free Throw.,57,56,1,0,0.5319973027300345,0.5800364024416468,3,2,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,297,3,4:34,274,274,Isaiah Wong made Free Throw.,58,56,2,0,0.6108976918403307,0.6560736816689156,3,2,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,298,3,4:21,261,261,Joseph Girard III missed Three Point Jumper.,58,56,2,13,0.6099289543533399,0.6543762998148905,3,2,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,299,3,4:19,259,259,Isaiah Wong Defensive Rebound.,58,56,2,2,0.6097650773517355,0.6540992968368612,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,300,3,4:03,243,243,Kameron McGusty made Jumper. Assisted by Keith Stone.,60,56,4,16,0.7450467166755707,0.7788143460034225,3,2,-2.5,NA,NA,Miami,made,Kameron McGusty,Keith Stone,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,301,3,3:48,228,228,Foul on Isaiah Wong.,60,56,4,15,0.7461689692926103,0.779091664357102,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,302,3,3:48,228,228,Buddy Boeheim made Free Throw.,60,57,3,0,0.6820454927259283,0.7201660961107003,3,2,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,303,3,3:48,228,228,Buddy Boeheim made Free Throw.,60,58,2,0,0.610185691853747,0.6525326407693054,3,2,-2.5,NA,NA,Syracuse,made,Buddy Boeheim,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,304,3,3:29,209,209,Isaiah Wong made Three Point Jumper.,63,58,5,19,0.8106783959651589,0.8362628239522932,3,2,-2.5,NA,NA,Miami,made,Isaiah Wong,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,305,3,3:17,197,197,Quincy Guerrier missed Jumper.,63,58,5,12,0.8229805956481728,0.8467013341873442,3,2,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,306,3,3:14,194,194,Kameron McGusty Defensive Rebound.,63,58,5,3,0.8268831808954643,0.8500447526402386,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,307,3,2:58,178,178,Isaiah Wong missed Three Point Jumper.,63,58,5,16,0.8499787131357631,0.869890885270528,3,2,-2.5,NA,NA,Miami,missed,Isaiah Wong,NA,TRUE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,308,3,2:55,175,175,Quincy Guerrier Defensive Rebound.,63,58,5,3,0.8541604752641474,0.8734799329432632,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,309,3,2:51,171,171,Buddy Boeheim missed Three Point Jumper.,63,58,5,4,0.8596578828081317,0.8781966349468286,3,2,-2.5,NA,NA,Syracuse,missed,Buddy Boeheim,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,310,3,2:48,168,168,Syracuse Offensive Rebound.,63,58,5,3,0.8637297548411954,0.8816895391139155,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,311,3,2:48,168,168,Foul on Kameron McGusty.,63,58,5,0,0.8637297548411954,0.8816895391139155,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,312,3,2:48,168,168,Quincy Guerrier made Free Throw.,63,59,4,0,0.8092145155635094,0.8329697290946159,3,2,-2.5,NA,NA,Syracuse,made,Quincy Guerrier,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,313,3,2:48,168,168,Quincy Guerrier missed Free Throw.,63,59,4,0,0.8092145155635094,0.8329697290946159,3,2,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,314,3,2:47,167,167,Keith Stone Defensive Rebound.,63,59,4,1,0.8106428591149596,0.8342055860202876,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,315,3,2:18,138,138,Miami  Turnover.,63,59,4,29,0.8523507817236011,0.8703011706534289,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,316,3,2:06,126,126,Foul on Sam Waardenburg.,63,59,4,12,0.8699710413632338,0.8855786215436989,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,317,3,2:06,126,126,Jesse Edwards missed Free Throw.,63,59,4,0,0.8699710413632338,0.8855786215436989,3,2,-2.5,NA,NA,Syracuse,missed,Jesse Edwards,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,318,3,2:06,126,126,Syracuse Offensive Rebound.,63,59,4,0,0.8699710413632338,0.8855786215436989,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,319,3,2:06,126,126,Jesse Edwards made Free Throw.,63,60,3,0,0.8004508268645867,0.8227024180728182,3,2,-2.5,NA,NA,Syracuse,made,Jesse Edwards,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,320,3,1:38,98,98,Kameron McGusty missed Jumper.,63,60,3,28,0.8468891104026368,0.8634438462978241,3,2,-2.5,NA,NA,Miami,missed,Kameron McGusty,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,321,3,1:38,98,98,Jesse Edwards Block.,63,60,3,0,0.8468891104026368,0.8634438462978241,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,322,3,1:34,94,94,Jesse Edwards Defensive Rebound.,63,60,3,4,0.8537786171301676,0.8695018963467219,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,323,3,1:24,84,84,Joseph Girard III missed Three Point Jumper.,63,60,3,10,0.870318538227115,0.884044507607558,3,2,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,324,3,1:19,79,79,Buddy Boeheim Turnover.,63,60,3,5,0.8782489823008246,0.8910194350686628,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,325,3,1:19,79,79,Isaiah Wong Steal.,63,60,3,0,0.8782489823008246,0.8910194350686628,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,326,3,1:16,76,76,Syracuse Offensive Rebound.,63,60,3,3,0.8829290897788259,0.8951376534929743,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,327,3,0:49,49,49,Sam Waardenburg missed Jumper.,63,60,3,27,0.9213515525331017,0.9290268096339308,3,2,-2.5,NA,NA,Miami,missed,Sam Waardenburg,NA,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,328,3,0:47,47,47,Buddy Boeheim Defensive Rebound.,63,60,3,2,0.9238688600400589,0.9312536898885019,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,329,3,0:37,37,37,Joseph Girard III missed Three Point Jumper.,63,60,3,10,0.9357732949005831,0.9418022278349464,3,2,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,TRUE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,330,3,0:34,34,34,Dejan Vasiljevic Defensive Rebound.,63,60,3,3,0.9391030654826514,0.9447584372663004,3,2,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,331,3,0:28,28,28,Keith Stone made Dunk. Assisted by Dejan Vasiljevic.,65,60,5,6,0.9919943375836758,0.9927535175249017,3,2,-2.5,NA,NA,Miami,made,Keith Stone,Dejan Vasiljevic,FALSE,FALSE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,332,3,0:23,23,23,Marek Dolezaj made Layup.,65,62,3,5,0.9502685065913113,0.954692519920652,3,2,-2.5,NA,NA,Syracuse,made,Marek Dolezaj,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,333,3,0:22,22,22,Syracuse  Timeout,65,62,3,1,0.951202772266888,0.9555254534609796,3,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,334,3,0:21,21,21,Isaiah Wong Turnover.,65,62,3,1,0.952127895100168,0.9563505975448044,3,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,335,3,0:10,10,10,Foul on Isaiah Wong.,65,62,3,11,0.9616173130458463,0.9648361167568685,3,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,336,3,0:10,10,10,Quincy Guerrier made Free Throw.,65,63,2,0,0.8925474658484904,0.9009619731336145,3,1,-2.5,NA,NA,Syracuse,made,Quincy Guerrier,NA,FALSE,TRUE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,337,3,0:10,10,10,Quincy Guerrier missed Free Throw.,65,63,2,0,0.8925474658484904,0.9009619731336145,3,1,-2.5,NA,NA,Syracuse,missed,Quincy Guerrier,NA,FALSE,TRUE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,338,3,0:10,10,10,Kameron McGusty Defensive Rebound.,65,63,2,0,0.8925474658484904,0.9009619731336145,3,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,339,3,0:09,9,9,Foul on Marek Dolezaj.,65,63,2,1,0.8939467237731425,0.9022161211088555,3,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,340,3,0:09,9,9,Kameron McGusty made Free Throw.,66,63,3,0,0.9624117832169949,0.965548425338804,3,1,-2.5,NA,NA,Miami,made,Kameron McGusty,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,341,3,0:09,9,9,Miami  Timeout,66,63,3,0,0.9624117832169949,0.965548425338804,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,342,3,0:09,9,9,Kameron McGusty made Free Throw.,67,63,4,0,0.9873053532026298,0.988389749540432,2,1,-2.5,NA,NA,Miami,made,Kameron McGusty,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,343,3,0:06,6,6,Joseph Girard III missed Jumper.,67,63,4,3,0.9883537008424143,0.9893323884792611,2,1,-2.5,NA,NA,Syracuse,missed,Joseph Girard III,NA,FALSE,FALSE,Syracuse,Syracuse
+401168546,2020-03-07,Miami,Syracuse,344,3,0:03,3,3,Jesse Edwards Offensive Rebound.,67,63,4,3,0.9893281560322036,0.9902099423642159,2,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,345,3,0:03,3,3,Jesse Edwards made Dunk.,67,65,2,0,0.9021321037681078,0.9095600412345216,2,1,-2.5,NA,NA,Syracuse,made,Jesse Edwards,NA,FALSE,FALSE,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,346,3,0:03,3,3,Miami  Timeout,67,65,2,0,0.9021321037681078,0.9095600412345216,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,347,3,0:02,2,2,Foul on Buddy Boeheim.,67,65,2,1,0.9034581080389239,0.910750940927652,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,348,3,0:02,2,2,Dejan Vasiljevic made Free Throw.,68,65,3,0,0.9676317006124355,0.9702365242832658,1,1,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,NA,FALSE,TRUE,Miami,Miami
+401168546,2020-03-07,Miami,Syracuse,349,3,0:02,2,2,Dejan Vasiljevic made Free Throw.,69,65,4,0,0.9896369473570162,0.990488316468114,1,1,-2.5,NA,NA,Miami,made,Dejan Vasiljevic,NA,FALSE,TRUE,Miami,Syracuse
+401168546,2020-03-07,Miami,Syracuse,350,3,0:00,0,0,Marek Dolezaj Turnover.,69,65,4,2,1,1,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,351,3,0:00,0,0,Isaiah Wong Steal.,69,65,4,0,1,1,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,Miami
+401168546,2020-03-07,Miami,Syracuse,352,3,0:00,0,0,End of 1st overtime,69,65,4,0,1,1,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,NA
+401168546,2020-03-07,Miami,Syracuse,353,3,0:00,0,0,End of Game,69,65,4,0,1,1,1,1,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,Miami,NA

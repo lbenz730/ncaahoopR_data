@@ -15,7 +15,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2020-02-25")
+date <- as.Date("2020-03-11")
 while(date <= Sys.Date()) {
   schedule <- get_master_schedule(date)
   if(!is.null(schedule)) {

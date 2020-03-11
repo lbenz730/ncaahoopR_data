@@ -1,0 +1,417 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401169496,2020-02-29,Tulane,Memphis,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.3448569098395078,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane
+401169496,2020-02-29,Tulane,Memphis,2,1,19:37,2377,2677,Teshaun Hightower missed Layup.,0,0,0,23,0.34519234812401417,0.5,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,3,1,19:33,2373,2673,Precious Achiuwa Defensive Rebound.,0,0,0,4,0.3452516466169304,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,4,1,19:16,2356,2656,Boogie Ellis made Three Point Jumper. Assisted by Damion Baugh.,0,3,-3,17,0.28713364072251035,0.4327848826321762,4,4,-4,NA,NA,Memphis,made,Boogie Ellis,Damion Baugh,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,5,1,18:54,2334,2634,K.J. Lawson missed Three Point Jumper.,0,3,-3,22,0.28684884123022864,0.43207619888124327,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,6,1,18:52,2332,2632,Memphis Defensive Rebound.,0,3,-3,2,0.28682298904066883,0.4320113397035177,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,7,1,18:26,2306,2606,Lester Quinones missed Layup.,0,3,-3,26,0.2864880233264226,0.43116207581705585,4,4,-4,NA,NA,Memphis,missed,Lester Quinones,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,8,1,18:26,2306,2606,K.J. Lawson Block.,0,3,-3,0,0.2864880233264226,0.43116207581705585,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,9,1,18:21,2301,2601,Teshaun Hightower Defensive Rebound.,0,3,-3,5,0.286423917594763,0.4309975254039924,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,10,1,18:09,2289,2589,Teshaun Hightower missed Three Point Jumper.,0,3,-3,12,0.2862705992979474,0.4306011001291803,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,11,1,18:04,2284,2584,Damion Baugh Defensive Rebound.,0,3,-3,5,0.2862069667084664,0.43043532067224205,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,12,1,18:03,2283,2583,Damion Baugh Turnover.,0,3,-3,1,0.2861942593941958,0.4304021236844193,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,13,1,18:03,2283,2583,K.J. Lawson Steal.,0,3,-3,0,0.2861942593941958,0.4304021236844193,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,14,1,17:59,2279,2579,Christion Thompson made Layup.,2,3,-1,4,0.3258490212934045,0.4766209850294595,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,15,1,17:59,2279,2579,Foul on Lance Thomas.,2,3,-1,0,0.3258490212934045,0.4766209850294595,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,16,1,17:59,2279,2579,Christion Thompson missed Free Throw.,2,3,-1,0,0.3258490212934045,0.4766209850294595,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,17,1,17:58,2278,2578,Precious Achiuwa Defensive Rebound.,2,3,-1,1,0.3258552641491565,0.47660970179848494,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,18,1,17:49,2269,2569,Boogie Ellis made Three Point Jumper. Assisted by Lester Quinones.,2,6,-4,9,0.2672059639199313,0.40705585433282104,4,4,-4,NA,NA,Memphis,made,Boogie Ellis,Lester Quinones,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,19,1,17:30,2250,2550,Foul on Christion Thompson.,2,6,-4,19,0.26680841009875933,0.4062202572098983,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,20,1,17:30,2250,2550,Christion Thompson Turnover.,2,6,-4,0,0.26680841009875933,0.4062202572098983,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,21,1,17:13,2233,2533,Lance Thomas Turnover.,2,6,-4,17,0.26645473262050884,0.4054684100655661,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,22,1,16:48,2208,2508,Teshaun Hightower made Jumper.,4,6,-2,25,0.30541315052561213,0.45173267366113046,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,23,1,16:33,2193,2493,Precious Achiuwa Turnover.,4,6,-2,15,0.3053754931275356,0.4513881414337588,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,24,1,16:25,2185,2485,K.J. Lawson missed Three Point Jumper.,4,6,-2,8,0.3053569301883911,0.4512039550594804,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,25,1,16:22,2182,2482,Precious Achiuwa Defensive Rebound.,4,6,-2,3,0.3053502515302989,0.4511348144998577,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,26,1,16:15,2175,2475,Boogie Ellis missed Three Point Jumper.,4,6,-2,7,0.30533528129781606,0.45097334763387426,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,27,1,16:11,2171,2471,Christion Thompson Defensive Rebound.,4,6,-2,4,0.3053271193164484,0.4508809989309483,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,28,1,16:05,2165,2465,Jordan Walker Turnover.,4,6,-2,6,0.3053153634534626,0.45074232375925694,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,29,1,16:05,2165,2465,Boogie Ellis Steal.,4,6,-2,0,0.3053153634534626,0.45074232375925694,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,30,1,16:03,2163,2463,Boogie Ellis Turnover.,4,6,-2,2,0.30531155359093937,0.45069604065537827,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,31,1,15:51,2151,2451,Teshaun Hightower missed Layup.,4,6,-2,12,0.30528980202411105,0.4504177071016731,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,32,1,15:49,2149,2449,Precious Achiuwa Defensive Rebound.,4,6,-2,2,0.30528635784161395,0.45037120984325424,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,33,1,15:47,2147,2447,Foul on Teshaun Hightower.,4,6,-2,2,0.30528296438952096,0.4503246809153073,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,34,1,15:47,2147,2447,Official TV Timeout,4,6,-2,0,0.30528296438952096,0.4503246809153073,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,35,1,15:26,2126,2426,Alex Lomax Turnover.,4,6,-2,21,0.3052503010827779,0.449834147485996,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,36,1,15:14,2114,2414,Teshaun Hightower made Layup. Assisted by Jordan Walker.,6,6,0,12,0.34977776686921536,0.5,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,Jordan Walker,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,37,1,14:59,2099,2399,Precious Achiuwa Turnover.,6,6,0,15,0.3500840162340809,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,38,1,14:59,2099,2399,Christion Thompson Steal.,6,6,0,0,0.3500840162340809,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,39,1,14:53,2093,2393,K.J. Lawson missed Three Point Jumper.,6,6,0,6,0.3502078215868385,0.5,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,40,1,14:49,2089,2389,Tyler Harris Defensive Rebound.,6,6,0,4,0.35029077001739184,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,41,1,14:32,2072,2372,Tyler Harris Turnover.,6,6,0,17,0.3506469452944642,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,42,1,14:32,2072,2372,Teshaun Hightower Steal.,6,6,0,0,0.3506469452944642,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,43,1,14:28,2068,2368,Teshaun Hightower missed Layup.,6,6,0,4,0.3507316025589491,0.5,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,44,1,14:23,2063,2363,Jordan Walker Offensive Rebound.,6,6,0,5,0.3508378767464545,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,45,1,14:23,2063,2363,Jordan Walker missed Layup.,6,6,0,0,0.3508378767464545,0.5,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,46,1,14:21,2061,2361,K.J. Lawson Offensive Rebound.,6,6,0,2,0.3508805267774514,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,47,1,14:14,2054,2354,Teshaun Hightower missed Three Point Jumper.,6,6,0,7,0.35103043088108166,0.5,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,48,1,14:11,2051,2351,Malcolm Dandridge Defensive Rebound.,6,6,0,3,0.3510949739541315,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,49,1,14:04,2044,2344,Foul on Kevin Zhang.,6,6,0,7,0.351246267338974,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,50,1,14:04,2044,2344,Malcolm Dandridge made Free Throw.,6,7,-1,0,0.32779226657363053,0.4738683935375802,4,4,-4,NA,NA,Memphis,made,Malcolm Dandridge,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,51,1,14:04,2044,2344,Malcolm Dandridge made Free Throw.,6,8,-2,0,0.3051676920915046,0.4478791522221406,4,4,-4,NA,NA,Memphis,made,Malcolm Dandridge,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,52,1,13:51,2031,2331,Foul on Tyler Harris.,6,8,-2,13,0.3051600413188006,0.44756262634629046,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,53,1,13:51,2031,2331,Foul on Lester Quinones.,6,8,-2,0,0.3051600413188006,0.44756262634629046,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,54,1,13:45,2025,2325,Christion Thompson missed Jumper.,6,8,-2,6,0.30515692254553356,0.44741586518206855,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,55,1,13:45,2025,2325,Alex Lomax Block.,6,8,-2,0,0.30515692254553356,0.44741586518206855,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,56,1,13:41,2021,2321,Tyler Harris Defensive Rebound.,6,8,-2,4,0.30515498083290316,0.4473177833885138,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,57,1,13:40,2020,2320,Alex Lomax made Layup. Assisted by Tyler Harris.,6,10,-4,1,0.2622156187120249,0.3957449485380729,4,4,-4,NA,NA,Memphis,made,Alex Lomax,Tyler Harris,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,58,1,13:18,1998,2298,Jordan Walker missed Three Point Jumper.,6,10,-4,22,0.26178271231137146,0.3946943197454173,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,59,1,13:13,1993,2293,Precious Achiuwa Defensive Rebound.,6,10,-4,5,0.2616840594660213,0.39445397344799726,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,60,1,12:56,1976,2276,Precious Achiuwa made Layup. Assisted by Alex Lomax.,6,12,-6,17,0.22183405189173286,0.34341690111692647,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,61,1,12:35,1955,2255,Christion Thompson made Layup.,8,12,-4,21,0.2609298778401081,0.3926072890841695,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,62,1,12:15,1935,2235,Precious Achiuwa made Dunk. Assisted by Alex Lomax.,8,14,-6,20,0.22037642411137331,0.34056908425786936,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,63,1,12:00,1920,2220,K.J. Lawson missed Layup.,8,14,-6,15,0.21983954853062376,0.3395155821984521,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,64,1,11:57,1917,2217,Lester Quinones Defensive Rebound.,8,14,-6,3,0.2197329178857029,0.33930524218318436,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,65,1,11:51,1911,2211,Alex Lomax Turnover.,8,14,-6,6,0.21952044570279527,0.3388849744135903,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,66,1,11:51,1911,2211,Kevin Zhang Steal.,8,14,-6,0,0.21952044570279527,0.3388849744135903,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,67,1,11:45,1905,2205,Christion Thompson made Layup. Assisted by K.J. Lawson.,10,14,-4,6,0.2599328663745212,0.39013115946239035,4,4,-4,NA,NA,Tulane,made,Christion Thompson,KJ Lawson,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,68,1,11:26,1886,2186,Lester Quinones missed Three Point Jumper.,10,14,-4,19,0.2595664829163646,0.38919042491954087,4,4,-4,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,69,1,11:23,1883,2183,Precious Achiuwa Offensive Rebound.,10,14,-4,3,0.2595092764023547,0.3890419137563819,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,70,1,11:21,1881,2181,Precious Achiuwa missed Layup.,10,14,-4,2,0.2594712244021349,0.3889428984272638,4,4,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,71,1,11:17,1877,2177,K.J. Lawson Defensive Rebound.,10,14,-4,4,0.2593953153956496,0.3887448382279987,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,72,1,10:58,1858,2158,Nic Thomas missed Three Point Jumper.,10,14,-4,19,0.2590377613096136,0.3878029783446608,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,TRUE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,73,1,10:55,1855,2155,Kevin Zhang Offensive Rebound.,10,14,-4,3,0.258981676353042,0.3876540173449324,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,74,1,10:44,1844,2144,Nic Thomas missed Three Point Jumper.,10,14,-4,11,0.25877664812518825,0.3871070037788293,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,75,1,10:41,1841,2141,Malcolm Dandridge Defensive Rebound.,10,14,-4,3,0.2587208645870001,0.38695755887973676,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,76,1,10:23,1823,2123,Malcolm Dandridge made Dunk. Assisted by Alex Lomax.,10,16,-6,18,0.21647519252368708,0.3327286516536142,4,4,-4,NA,NA,Memphis,made,Malcolm Dandridge,Alex Lomax,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,77,1,10:05,1805,2105,K.J. Lawson made Layup.,12,16,-4,18,0.25805249211573067,0.38515213076284194,4,4,-4,NA,NA,Tulane,made,K.J. Lawson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,78,1,10:04,1804,2104,Official TV Timeout,12,16,-4,1,0.25803388133381533,0.38510158950377243,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,79,1,9:55,1795,2095,Jayden Hardaway missed Three Point Jumper.,12,16,-4,9,0.25786607412191953,0.38464556779568737,4,4,-4,NA,NA,Memphis,missed,Jayden Hardaway,NA,TRUE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,80,1,9:53,1793,2093,Precious Achiuwa Offensive Rebound.,12,16,-4,2,0.2578286950212222,0.3845439356785805,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,81,1,9:53,1793,2093,Foul on Nobal Days.,12,16,-4,0,0.2578286950212222,0.3845439356785805,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,82,1,9:38,1778,2078,Lance Thomas missed Jumper.,12,16,-4,15,0.25754700395206254,0.38377796765406974,4,4,-4,NA,NA,Memphis,missed,Lance Thomas,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,83,1,9:35,1775,2075,Nic Thomas Defensive Rebound.,12,16,-4,3,0.2574903281431089,0.3836239327482226,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,84,1,9:17,1757,2057,K.J. Lawson missed Three Point Jumper.,12,16,-4,18,0.2571472539463976,0.3826931801549775,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,85,1,9:14,1754,2054,Boogie Ellis Defensive Rebound.,12,16,-4,3,0.2570894989246112,0.3825368916912941,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,86,1,8:51,1731,2031,Lance Thomas missed Three Point Jumper.,12,16,-4,23,0.256639979929621,0.38132638244792155,4,4,-4,NA,NA,Memphis,missed,Lance Thomas,NA,TRUE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,87,1,8:49,1729,2029,Jayden Hardaway Offensive Rebound.,12,16,-4,2,0.25660026152625176,0.3812200257918197,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,88,1,8:46,1726,2026,Lance Thomas missed Dunk.,12,16,-4,3,0.2565404749037074,0.3810601423286777,4,4,-4,NA,NA,Memphis,missed,Lance Thomas,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,89,1,8:42,1722,2022,Precious Achiuwa Offensive Rebound.,12,16,-4,4,0.25646035721544347,0.38084630191862134,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,90,1,8:42,1722,2022,Precious Achiuwa made Layup.,12,18,-6,0,0.2129177502083158,0.3254281521291071,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,91,1,8:25,1705,2005,K.J. Lawson missed Jumper.,12,18,-6,17,0.2122879422791935,0.3241473764115669,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,92,1,8:23,1703,2003,Jayden Hardaway Defensive Rebound.,12,18,-6,2,0.2122129964484616,0.3239954190706487,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,93,1,8:19,1699,1999,Jayden Hardaway Turnover.,12,18,-6,4,0.2120625361848961,0.32369066248985207,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,94,1,7:53,1673,1973,Jordan Walker made Three Point Jumper. Assisted by Christion Thompson.,15,18,-3,26,0.2798106917332611,0.4078255922568191,4,4,-4,NA,NA,Tulane,made,Jordan Walker,Christion Thompson,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,95,1,7:29,1649,1949,Lester Quinones missed Three Point Jumper.,15,18,-3,24,0.2796161084134076,0.4068454238586608,4,4,-4,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,96,1,7:26,1646,1946,Jordan Walker Defensive Rebound.,15,18,-3,3,0.2795945997861934,0.40672466482613245,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,97,1,7:14,1634,1934,Teshaun Hightower made Layup.,17,18,-1,12,0.33317345173745455,0.46841611073538614,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,98,1,7:02,1622,1922,Jayden Hardaway missed Three Point Jumper.,17,18,-1,12,0.3333847735733246,0.4682521773694822,4,4,-4,NA,NA,Memphis,missed,Jayden Hardaway,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,99,1,6:56,1616,1916,Tulane Defensive Rebound.,17,18,-1,6,0.33349234271805667,0.4681705229978664,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,100,1,6:56,1616,1916,Official TV Timeout,17,18,-1,0,0.33349234271805667,0.4681705229978664,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,101,1,6:38,1598,1898,Kevin Zhang missed Three Point Jumper.,17,18,-1,18,0.33382141611693483,0.46792609733079027,4,4,-4,NA,NA,Tulane,missed,Kevin Zhang,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,102,1,6:34,1594,1894,Malcolm Dandridge Defensive Rebound.,17,18,-1,4,0.33389563937542027,0.4678717772371024,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,103,1,6:09,1569,1869,Foul on Kevin Zhang.,17,18,-1,25,0.3343657802711268,0.46753069057040914,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,104,1,6:09,1569,1869,Lester Quinones made Free Throw.,17,19,-2,0,0.3060683507683755,0.43533407889627845,4,4,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,105,1,6:09,1569,1869,Lester Quinones made Free Throw.,17,20,-3,0,0.27916137164830235,0.4036737778818662,4,4,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,106,1,5:41,1541,1841,Christion Thompson made Three Point Jumper. Assisted by Teshaun Hightower.,20,20,0,28,0.3648233146832885,0.5,4,4,-4,NA,NA,Tulane,made,Christion Thompson,Teshaun Hightower,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,107,1,5:18,1518,1818,Boogie Ellis missed Jumper.,20,20,0,23,0.365582317565622,0.5,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,108,1,5:18,1518,1818,Tulane Defensive Rebound.,20,20,0,0,0.365582317565622,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,109,1,5:18,1518,1818,Foul on Lester Quinones.,20,20,0,0,0.365582317565622,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,110,1,5:00,1500,1800,Christion Thompson missed Layup.,20,20,0,18,0.3661783525798829,0.5,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,111,1,4:53,1493,1793,Christion Thompson Offensive Rebound.,20,20,0,7,0.3664102663196472,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,112,1,4:53,1493,1793,Christion Thompson made Layup.,22,20,2,0,0.4307566288981596,0.5668187092109842,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,113,1,4:50,1490,1790,Malcolm Dandridge made Dunk. Assisted by Precious Achiuwa.,22,22,0,3,0.36650964285776394,0.5,4,4,-4,NA,NA,Memphis,made,Malcolm Dandridge,Precious Achiuwa,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,114,1,4:36,1476,1776,Nic Thomas missed Three Point Jumper.,22,22,0,14,0.36697303507209694,0.5,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,115,1,4:29,1469,1769,Malcolm Dandridge Defensive Rebound.,22,22,0,7,0.3672043539815306,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,116,1,4:25,1465,1765,Malcolm Dandridge Turnover.,22,22,0,4,0.3673363759398037,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,117,1,4:25,1465,1765,Nobal Days Steal.,22,22,0,0,0.3673363759398037,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,118,1,4:24,1464,1764,Foul on Malcolm Dandridge.,22,22,0,1,0.3673693606297508,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,119,1,4:10,1450,1750,Teshaun Hightower missed Three Point Jumper.,22,22,0,14,0.3678301005400466,0.5,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,120,1,4:07,1447,1747,Boogie Ellis Defensive Rebound.,22,22,0,3,0.3679287457612564,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,121,1,4:02,1442,1742,Precious Achiuwa made Layup. Assisted by Boogie Ellis.,22,24,-2,5,0.30664046698940134,0.43156480257511165,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Boogie Ellis,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,122,1,3:50,1430,1730,Christion Thompson missed Three Point Jumper.,22,24,-2,12,0.30667158359027513,0.4311795649411843,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,123,1,3:47,1427,1727,Precious Achiuwa Defensive Rebound.,22,24,-2,3,0.3066811599775618,0.4310846404310986,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,124,1,3:38,1418,1718,Precious Achiuwa made Layup. Assisted by Damion Baugh.,22,26,-4,9,0.2508461446924371,0.36420640309147695,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Damion Baugh,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,125,1,3:22,1402,1702,K.J. Lawson missed Layup.,22,26,-4,16,0.2505313361878471,0.3632772933674441,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,126,1,3:22,1402,1702,Malcolm Dandridge Block.,22,26,-4,0,0.2505313361878471,0.3632772933674441,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,127,1,3:22,1402,1702,Memphis Defensive Rebound.,22,26,-4,0,0.2505313361878471,0.3632772933674441,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,128,1,3:22,1402,1702,Official TV Timeout,22,26,-4,0,0.2505313361878471,0.3632772933674441,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,129,1,3:03,1383,1683,Tyler Harris missed Three Point Jumper.,22,26,-4,19,0.25017949562059083,0.36219414578151116,4,4,-4,NA,NA,Memphis,missed,Tyler Harris,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,130,1,2:59,1379,1679,Teshaun Hightower Defensive Rebound.,22,26,-4,4,0.250107489860781,0.3619678120180231,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,131,1,2:43,1363,1663,K.J. Lawson missed Three Point Jumper.,22,26,-4,16,0.2498232643229477,0.36106459242745037,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,132,1,2:40,1360,1660,Tyler Harris Defensive Rebound.,22,26,-4,3,0.24977029324893865,0.3608952187520571,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,133,1,2:34,1354,1654,Foul on K.J. Lawson.,22,26,-4,6,0.24966429012945798,0.3605560446326711,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,134,1,2:17,1337,1637,Damion Baugh Turnover.,22,26,-4,17,0.24936076125413886,0.3595888990340697,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,135,1,2:00,1320,1620,Christion Thompson missed Three Point Jumper.,22,26,-4,17,0.24904629131791509,0.3586057159782127,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,136,1,1:58,1318,1618,Precious Achiuwa Defensive Rebound.,22,26,-4,2,0.24900820768598605,0.3584885834763121,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,137,1,1:45,1305,1605,Foul on Precious Achiuwa.,22,26,-4,13,0.24875341167579976,0.35771784896463266,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,138,1,1:45,1305,1605,Precious Achiuwa Turnover.,22,26,-4,0,0.24875341167579976,0.35771784896463266,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,139,1,1:33,1293,1593,Teshaun Hightower made Three Point Jumper. Assisted by Christion Thompson.,25,26,-1,12,0.33955870295212714,0.4632877902567029,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,Christion Thompson,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,140,1,1:02,1262,1562,Boogie Ellis missed Jumper.,25,26,-1,31,0.34014344412791836,0.4627514542172851,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,141,1,1:02,1262,1562,Boogie Ellis Offensive Rebound.,25,26,-1,0,0.34014344412791836,0.4627514542172851,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,142,1,1:01,1261,1561,Foul on Jordan Walker.,25,26,-1,1,0.34016162441570874,0.4627333887289013,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,143,1,1:01,1261,1561,Boogie Ellis made Free Throw.,25,27,-2,0,0.30748204949208663,0.42587853710207346,4,4,-4,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,144,1,1:01,1261,1561,Boogie Ellis made Free Throw.,25,28,-3,0,0.2766258228725204,0.38982920547129835,4,4,-4,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,145,1,0:48,1248,1548,Teshaun Hightower missed Three Point Jumper.,25,28,-3,13,0.2764461715874313,0.3891409173836907,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,146,1,0:45,1245,1545,Tyler Harris Defensive Rebound.,25,28,-3,3,0.2764012891201429,0.38897815405300423,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,147,1,0:37,1237,1537,Tyler Harris Turnover.,25,28,-3,8,0.2762748584325294,0.3885364334611618,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,148,1,0:37,1237,1537,Nobal Days Steal.,25,28,-3,0,0.2762748584325294,0.3885364334611618,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,149,1,0:32,1232,1532,Jordan Walker made Layup. Assisted by Christion Thompson.,27,28,-1,5,0.3406647983782461,0.4621843903160427,4,4,-4,NA,NA,Tulane,made,Jordan Walker,Christion Thompson,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,150,1,0:18,1218,1518,Memphis  Timeout,27,28,-1,14,0.3408883145074774,0.46189983455509476,3,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,151,1,0:08,1208,1508,Precious Achiuwa made Layup. Assisted by Boogie Ellis.,27,30,-3,10,0.2757254754745705,0.3868324106993999,3,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Boogie Ellis,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,152,1,0:07,1207,1507,Tulane  Timeout,27,30,-3,1,0.27570444046393355,0.38677137772773545,3,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,153,1,0:00,1200,1500,Christion Thompson missed Three Point Jumper.,27,30,-3,7,0.275559793716134,0.38634786325026177,3,3,-4,NA,NA,Tulane,missed,Christion Thompson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,154,1,0:00,1200,1500,Memphis Defensive Rebound.,27,30,-3,0,0.275559793716134,0.38634786325026177,3,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,155,1,0:00,1200,1500,End of 1st half,27,30,-3,0,0.275559793716134,0.38634786325026177,3,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA
+401169496,2020-02-29,Tulane,Memphis,156,2,20:00,1200,1500,PLAY,27,30,-3,0,0.275559793716134,0.38634786325026177,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Memphis
+401169496,2020-02-29,Tulane,Memphis,157,2,19:42,1182,1482,Foul on Teshaun Hightower.,27,30,-3,18,0.27520592800591054,0.38528486434987114,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,158,2,19:42,1182,1482,Lance Thomas missed Free Throw.,27,30,-3,0,0.27520592800591054,0.38528486434987114,4,4,-4,NA,NA,Memphis,missed,Lance Thomas,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,159,2,19:42,1182,1482,Memphis Offensive Rebound.,27,30,-3,0,0.27520592800591054,0.38528486434987114,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,160,2,19:42,1182,1482,Lance Thomas made Free Throw.,27,31,-4,0,0.24525281505402796,0.34912187688680374,4,4,-4,NA,NA,Memphis,made,Lance Thomas,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,161,2,19:21,1161,1461,Kevin Zhang missed Three Point Jumper.,27,31,-4,21,0.24457825120588422,0.3475809714930225,4,4,-4,NA,NA,Tulane,missed,Kevin Zhang,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,162,2,19:18,1158,1458,Precious Achiuwa Defensive Rebound.,27,31,-4,3,0.24448376203154765,0.3473636414605849,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,163,2,19:11,1151,1451,Boogie Ellis Turnover.,27,31,-4,7,0.2442644494298423,0.3468583578420259,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,164,2,19:11,1151,1451,Kevin Zhang Steal.,27,31,-4,0,0.2442644494298423,0.3468583578420259,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,165,2,19:05,1145,1445,Christion Thompson missed Three Point Jumper.,27,31,-4,6,0.24407738220367226,0.3464267686045481,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,166,2,19:00,1140,1440,Precious Achiuwa Defensive Rebound.,27,31,-4,5,0.24392183718926372,0.3460677672629618,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,167,2,18:40,1120,1420,Damion Baugh missed Three Point Jumper.,27,31,-4,20,0.24329809260255683,0.34463134734565776,4,4,-4,NA,NA,Memphis,missed,Damion Baugh,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,168,2,18:37,1117,1417,K.J. Lawson Defensive Rebound.,27,31,-4,3,0.2432037315398099,0.34441503439179944,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,169,2,18:28,1108,1408,Jordan Walker missed Jumper.,27,31,-4,9,0.24291835683908547,0.3437633522890891,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,170,2,18:25,1105,1405,Lance Thomas Defensive Rebound.,27,31,-4,3,0.24282230606549313,0.3435449905375368,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,171,2,18:10,1090,1390,Precious Achiuwa missed Dunk.,27,31,-4,15,0.24233292683567825,0.3424417137073353,4,4,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,172,2,18:07,1087,1387,K.J. Lawson Defensive Rebound.,27,31,-4,3,0.2422328875933655,0.34221830575128287,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,173,2,17:52,1072,1372,Christion Thompson missed Layup.,27,31,-4,15,0.2417192259737167,0.3410839114632948,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,174,2,17:49,1069,1369,Lester Quinones Defensive Rebound.,27,31,-4,3,0.2416134648109468,0.34085310653505363,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,175,2,17:45,1065,1365,Lester Quinones Turnover.,27,31,-4,4,0.24147069755578254,0.34054308439977116,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,176,2,17:29,1049,1349,Foul on Damion Baugh.,27,31,-4,16,0.2408774386559836,0.33927398262441216,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,177,2,17:29,1049,1349,Teshaun Hightower made Free Throw.,28,31,-3,0,0.2726453787205367,0.3775645335795913,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,178,2,17:29,1049,1349,Teshaun Hightower made Free Throw.,29,31,-2,0,0.3069091403523296,0.4174462569638532,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,179,2,17:10,1030,1330,Boogie Ellis missed Three Point Jumper.,29,31,-2,19,0.3067755726437627,0.4165898050494257,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,180,2,17:05,1025,1325,Christion Thompson Defensive Rebound.,29,31,-2,5,0.3067344278166131,0.41635623410537237,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,181,2,16:52,1012,1312,Christion Thompson made Jumper.,31,31,0,13,0.3832745140890114,0.5,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,182,2,16:26,986,1286,Precious Achiuwa missed Layup.,31,31,0,26,0.3842396824161363,0.5,4,4,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,183,2,16:26,986,1286,K.J. Lawson Block.,31,31,0,0,0.3842396824161363,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,184,2,16:22,982,1282,Jordan Walker Defensive Rebound.,31,31,0,4,0.3843902557712356,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,185,2,16:10,970,1270,K.J. Lawson missed Layup.,31,31,0,12,0.38484565765501394,0.5,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,186,2,16:10,970,1270,Precious Achiuwa Block.,31,31,0,0,0.38484565765501394,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,187,2,16:05,965,1265,K.J. Lawson Offensive Rebound.,31,31,0,5,0.3850349426369954,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,188,2,16:04,964,1264,K.J. Lawson missed Layup.,31,31,0,1,0.3850724098739405,0.5,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,189,2,16:04,964,1264,Precious Achiuwa Block.,31,31,0,0,0.3850724098739405,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,190,2,15:59,959,1259,K.J. Lawson Offensive Rebound.,31,31,0,5,0.38525787085042634,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,191,2,15:57,957,1257,K.J. Lawson Turnover.,31,31,0,2,0.3853312051347005,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,192,2,15:57,957,1257,Lester Quinones Steal.,31,31,0,0,0.3853312051347005,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,193,2,15:40,940,1240,Lance Thomas made Three Point Jumper. Assisted by Lester Quinones.,31,34,-3,17,0.2692462676810582,0.36957855059748673,4,4,-4,NA,NA,Memphis,made,Lance Thomas,Lester Quinones,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,194,2,15:22,922,1222,Teshaun Hightower made Jumper.,33,34,-1,18,0.34488579018798426,0.45518294812495075,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,195,2,15:22,922,1222,Foul on Damion Baugh.,33,34,-1,0,0.34488579018798426,0.45518294812495075,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,196,2,15:22,922,1222,Official TV Timeout,33,34,-1,0,0.34488579018798426,0.45518294812495075,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,197,2,15:22,922,1222,Teshaun Hightower made Free Throw.,34,34,0,0,0.3865480792439826,0.5,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,198,2,15:02,902,1202,Foul on K.J. Lawson.,34,34,0,20,0.3872010213767768,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,199,2,14:57,897,1197,Precious Achiuwa missed Jumper.,34,34,0,5,0.38736112171054854,0.5,4,4,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,200,2,14:54,894,1194,K.J. Lawson Defensive Rebound.,34,34,0,3,0.38745673121993657,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,201,2,14:41,881,1181,Foul on Lance Thomas.,34,34,0,13,0.3878681176254157,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,202,2,14:29,869,1169,Jordan Walker missed Three Point Jumper.,34,34,0,12,0.3882455404882836,0.5,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,203,2,14:26,866,1166,Lance Thomas Defensive Rebound.,34,34,0,3,0.3883398329877497,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,204,2,14:18,858,1158,Boogie Ellis missed Three Point Jumper.,34,34,0,8,0.38859161360472466,0.5,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,205,2,14:15,855,1155,Jordan Walker Defensive Rebound.,34,34,0,3,0.38868626109461724,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,206,2,13:56,836,1136,Teshaun Hightower Turnover.,34,34,0,19,0.3892914453944615,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,207,2,13:56,836,1136,Alex Lomax Steal.,34,34,0,0,0.3892914453944615,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,208,2,13:34,814,1114,Alex Lomax Turnover.,34,34,0,22,0.39001359557465703,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,209,2,13:34,814,1114,Teshaun Hightower Steal.,34,34,0,0,0.39001359557465703,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,210,2,13:27,807,1107,K.J. Lawson made Layup. Assisted by Nic Thomas.,36,34,2,7,0.48365431637883244,0.5940789989450419,4,4,-4,NA,NA,Tulane,made,K.J. Lawson,Nic Thomas,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,211,2,13:10,790,1090,Lance Thomas Turnover.,36,34,2,17,0.4852572780284348,0.595025044804859,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,212,2,13:10,790,1090,K.J. Lawson Steal.,36,34,2,0,0.4852572780284348,0.595025044804859,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,213,2,13:04,784,1084,Nobal Days missed Three Point Jumper.,36,34,2,6,0.4858550828998376,0.5953824408973922,4,4,-4,NA,NA,Tulane,missed,Nobal Days,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,214,2,12:59,779,1079,Lance Thomas Defensive Rebound.,36,34,2,5,0.4863674273696563,0.5956906166573537,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,215,2,12:56,776,1076,Damion Baugh Turnover.,36,34,2,3,0.4866813241756171,0.5958802500855772,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,216,2,12:37,757,1057,Teshaun Hightower Turnover.,36,34,2,19,0.4887926264456238,0.5971707589605687,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,217,2,12:24,744,1044,Isaiah Maurice made Layup. Assisted by Precious Achiuwa.,36,36,0,13,0.39262695361741284,0.5,4,4,-4,NA,NA,Memphis,made,Isaiah Maurice,Precious Achiuwa,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,218,2,12:10,730,1030,Nic Thomas missed Three Point Jumper.,36,36,0,14,0.3932357678155889,0.5,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,219,2,12:07,727,1027,Precious Achiuwa Defensive Rebound.,36,36,0,3,0.39336956450871047,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,220,2,11:49,709,1009,Isaiah Maurice Turnover.,36,36,0,18,0.39415210835253695,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,221,2,11:49,709,1009,K.J. Lawson Steal.,36,36,0,0,0.39415210835253695,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,222,2,11:38,698,998,Foul on Damion Baugh.,36,36,0,11,0.3946169666694532,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,223,2,11:38,698,998,Official TV Timeout,36,36,0,0,0.3946169666694532,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,224,2,11:38,698,998,Nobal Days missed Free Throw.,36,36,0,0,0.3946169666694532,0.5,4,4,-4,NA,NA,Tulane,missed,Nobal Days,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,225,2,11:38,698,998,Tulane Offensive Rebound.,36,36,0,0,0.3946169666694532,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,226,2,11:37,697,997,Nobal Days missed Free Throw.,36,36,0,1,0.39465885502402637,0.5,4,4,-4,NA,NA,Tulane,missed,Nobal Days,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,227,2,11:36,696,996,Precious Achiuwa Defensive Rebound.,36,36,0,1,0.39470069094963145,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,228,2,11:28,688,988,Alex Lomax Turnover.,36,36,0,8,0.3950337538254018,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,229,2,11:28,688,988,Jordan Walker Steal.,36,36,0,0,0.3950337538254018,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,230,2,11:24,684,984,Jordan Walker missed Layup.,36,36,0,4,0.3951994302229689,0.5,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,231,2,11:24,684,984,Damion Baugh Block.,36,36,0,0,0.3951994302229689,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,232,2,11:20,680,980,Tyler Harris Defensive Rebound.,36,36,0,4,0.3953647237720259,0.5,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,233,2,11:17,677,977,Tyler Harris made Layup.,36,38,-2,3,0.3008940870849317,0.3968170880264417,4,4,-4,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,234,2,10:59,659,959,Christion Thompson missed Jumper.,36,38,-2,18,0.3005358292827434,0.3956659849446598,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,235,2,10:58,658,958,Nobal Days Offensive Rebound.,36,38,-2,1,0.30051607651316214,0.3956020694032841,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,236,2,10:58,658,958,Foul on Damion Baugh.,36,38,-2,0,0.30051607651316214,0.3956020694032841,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,237,2,10:46,646,946,Christion Thompson made Layup. Assisted by K.J. Lawson.,38,38,0,12,0.39677413559828156,0.5,4,4,-4,NA,NA,Tulane,made,Christion Thompson,KJ Lawson,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,238,2,10:27,627,927,Isaiah Maurice made Jumper. Assisted by Alex Lomax.,38,40,-2,19,0.299851041264608,0.3935355471664673,4,4,-4,NA,NA,Memphis,made,Isaiah Maurice,Alex Lomax,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,239,2,10:12,612,912,Teshaun Hightower Turnover.,38,40,-2,15,0.29945311429183247,0.39241977552599766,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,240,2,9:56,596,896,Foul on Boogie Ellis.,38,40,-2,16,0.2989366284494621,0.3910929064113146,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,241,2,9:56,596,896,Boogie Ellis Turnover.,38,40,-2,0,0.2989366284494621,0.3910929064113146,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,242,2,9:33,573,873,Nic Thomas missed Jumper.,38,40,-2,23,0.2979694098196052,0.38885479418772134,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,243,2,9:29,569,869,Nobal Days Offensive Rebound.,38,40,-2,4,0.29776858136162315,0.3884177886825351,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,244,2,9:29,569,869,Nobal Days missed Layup.,38,40,-2,0,0.29776858136162315,0.3884177886825351,4,4,-4,NA,NA,Tulane,missed,Nobal Days,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,245,2,9:28,568,868,Teshaun Hightower Offensive Rebound.,38,40,-2,1,0.29771669791542066,0.3883060878066032,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,246,2,9:19,559,859,Nobal Days missed Layup.,38,40,-2,9,0.2972180864608625,0.38725456121326257,4,4,-4,NA,NA,Tulane,missed,Nobal Days,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,247,2,9:14,554,854,Teshaun Hightower Offensive Rebound.,38,40,-2,5,0.29691522168403917,0.3866326656984619,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,248,2,9:14,554,854,Teshaun Hightower missed Layup.,38,40,-2,0,0.29691522168403917,0.3866326656984619,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,249,2,9:13,553,853,Lester Quinones Defensive Rebound.,38,40,-2,1,0.2968523269472102,0.3865049031031483,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,250,2,9:08,548,848,Isaiah Maurice missed Layup.,38,40,-2,5,0.29653000003299607,0.3858543185759188,4,4,-4,NA,NA,Memphis,missed,Isaiah Maurice,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,251,2,9:08,548,848,Nobal Days Block.,38,40,-2,0,0.29653000003299607,0.3858543185759188,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,252,2,9:01,541,841,Nic Thomas Defensive Rebound.,38,40,-2,7,0.2961158109353977,0.384991838866865,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,253,2,9:00,540,840,Nic Thomas made Layup.,40,40,0,1,0.40198125461998885,0.5,4,4,-4,NA,NA,Tulane,made,Nic Thomas,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,254,2,8:41,521,821,Alex Lomax made Jumper. Assisted by Isaiah Maurice.,40,42,-2,19,0.29517586085338343,0.3828475242940222,4,4,-4,NA,NA,Memphis,made,Alex Lomax,Isaiah Maurice,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,255,2,8:31,511,811,Foul on Boogie Ellis.,40,42,-2,10,0.2947899709171272,0.38188405492853433,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,256,2,8:31,511,811,Christion Thompson made Free Throw.,41,42,-1,0,0.3471811415395786,0.4400942627035189,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,257,2,8:31,511,811,Christion Thompson made Free Throw.,42,42,0,0,0.4035551748941921,0.5,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,258,2,8:23,503,803,Tyler Harris made Three Point Jumper.,42,45,-3,8,0.24675054912338648,0.3258266009266959,4,4,-4,NA,NA,Memphis,made,Tyler Harris,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,259,2,7:56,476,776,Nic Thomas missed Three Point Jumper.,42,45,-3,27,0.24472729191053483,0.32208750194943736,4,4,-4,NA,NA,Tulane,missed,Nic Thomas,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,260,2,7:52,472,772,Precious Achiuwa Defensive Rebound.,42,45,-3,4,0.24437859560273606,0.3214676019655427,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,261,2,7:49,469,769,Tyler Harris missed Three Point Jumper.,42,45,-3,3,0.2441042340715922,0.3209855116771343,4,4,-4,NA,NA,Memphis,missed,Tyler Harris,NA,TRUE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,262,2,7:44,464,764,Precious Achiuwa Offensive Rebound.,42,45,-3,5,0.24361948733163816,0.32014535079735523,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,263,2,7:44,464,764,Precious Achiuwa made Layup.,42,47,-5,0,0.16314569971232556,0.2218059207274995,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,264,2,7:33,453,753,Foul on Malcolm Dandridge.,42,47,-5,11,0.16140316830612744,0.21912041086707956,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,265,2,7:33,453,753,Official TV Timeout,42,47,-5,0,0.16140316830612744,0.21912041086707956,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,266,2,7:33,453,753,Christion Thompson made Free Throw.,43,47,-4,0,0.19882334350362374,0.26568247257213623,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,267,2,7:33,453,753,Christion Thompson made Free Throw.,44,47,-3,0,0.2424112835067829,0.3181081306184709,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,268,2,7:13,433,733,Alex Lomax missed Layup.,44,47,-3,20,0.2395786682919159,0.31355877149841954,4,4,-4,NA,NA,Memphis,missed,Alex Lomax,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,269,2,7:09,429,729,Precious Achiuwa Offensive Rebound.,44,47,-3,4,0.2388961018081305,0.3124945454354278,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,270,2,7:09,429,729,Precious Achiuwa made Layup.,44,49,-5,0,0.1565142026976324,0.21179524499644578,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,271,2,7:02,422,722,Christion Thompson missed Jumper.,44,49,-5,7,0.15493079694415343,0.20943601714487903,4,4,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,272,2,6:59,419,719,Boogie Ellis Defensive Rebound.,44,49,-5,3,0.15428468997076186,0.2084641585485027,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,273,2,6:59,419,719,Foul on Kevin Zhang.,44,49,-5,0,0.15428468997076186,0.2084641585485027,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,274,2,6:46,406,706,Boogie Ellis made Three Point Jumper. Assisted by Alex Lomax.,44,52,-8,13,0.0733110376313444,0.10211865310085737,4,4,-4,NA,NA,Memphis,made,Boogie Ellis,Alex Lomax,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,275,2,6:33,393,693,Teshaun Hightower made Three Point Jumper.,47,52,-5,13,0.14918298472775918,0.2006283057430684,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,276,2,6:11,371,671,Precious Achiuwa made Layup. Assisted by Malcolm Dandridge.,47,54,-7,22,0.08753513586377899,0.11991530859603998,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,Malcolm Dandridge,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,277,2,6:11,371,671,Foul on Christion Thompson.,47,54,-7,0,0.08753513586377899,0.11991530859603998,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,278,2,6:11,371,671,Precious Achiuwa made Free Throw.,47,55,-8,0,0.06730417861628188,0.09296315010096844,4,4,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,279,2,5:47,347,647,Jordan Walker missed Three Point Jumper.,47,55,-8,24,0.0627548854562198,0.08612560206901107,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,280,2,5:43,343,643,Boogie Ellis Defensive Rebound.,47,55,-8,4,0.0619156700129815,0.08488044868515719,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,281,2,5:41,341,641,Boogie Ellis Turnover.,47,55,-8,2,0.06148556521032894,0.08424424417880542,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,282,2,5:41,341,641,Jordan Walker Steal.,47,55,-8,0,0.06148556521032894,0.08424424417880542,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,283,2,5:41,341,641,Foul on Boogie Ellis.,47,55,-8,0,0.06148556521032894,0.08424424417880542,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,284,2,5:41,341,641,Jordan Walker made Free Throw.,48,55,-7,0,0.08111879811049931,0.11029064252793762,4,4,-4,NA,NA,Tulane,made,Jordan Walker,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,285,2,5:39,339,639,Jordan Walker missed Free Throw.,48,55,-7,2,0.08063154445902405,0.10957165104000048,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,286,2,5:38,338,638,Precious Achiuwa Defensive Rebound.,48,55,-7,1,0.08038454895936073,0.10920779956890868,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,287,2,5:29,329,629,Tyler Harris missed Layup.,48,55,-7,9,0.07805556705706992,0.10579634577682069,4,4,-4,NA,NA,Memphis,missed,Tyler Harris,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,288,2,5:29,329,629,Precious Achiuwa Offensive Rebound.,48,55,-7,0,0.07805556705706992,0.10579634577682069,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,289,2,5:28,328,628,Precious Achiuwa Turnover.,48,55,-7,1,0.07778455412505424,0.1054015384002627,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,290,2,5:14,314,614,Foul on Alex Lomax.,48,55,-7,14,0.07371705053613208,0.09952391629526443,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,291,2,5:14,314,614,Teshaun Hightower made Free Throw.,49,55,-6,0,0.09829634247692012,0.13148648143738373,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,292,2,5:12,312,612,Teshaun Hightower missed Free Throw.,49,55,-6,2,0.09761228216017767,0.13050876408632928,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,293,2,5:11,311,611,Malcolm Dandridge Defensive Rebound.,49,55,-6,1,0.09726526062481303,0.13001357662793325,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,294,2,4:59,299,599,Malcolm Dandridge made Layup. Assisted by Alex Lomax.,49,57,-8,12,0.05175730101761865,0.07004655863840706,4,4,-4,NA,NA,Memphis,made,Malcolm Dandridge,Alex Lomax,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,295,2,4:42,282,582,K.J. Lawson missed Three Point Jumper.,49,57,-8,17,0.05163330797405006,0.06942139555760864,4,4,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,296,2,4:39,279,579,Malcolm Dandridge Defensive Rebound.,49,57,-8,3,0.05187622522461404,0.0696605298101738,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,297,2,4:16,256,556,Alex Lomax missed Jumper.,49,57,-8,23,0.05492812801135942,0.07301477286217878,4,4,-4,NA,NA,Memphis,missed,Alex Lomax,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,298,2,4:13,253,553,Christion Thompson Defensive Rebound.,49,57,-8,3,0.05534734784462714,0.07347265112121969,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,299,2,4:04,244,544,Jordan Walker missed Three Point Jumper.,49,57,-8,9,0.05639007222277326,0.07455573910544692,4,4,-4,NA,NA,Tulane,missed,Jordan Walker,NA,TRUE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,300,2,4:02,242,542,Teshaun Hightower Offensive Rebound.,49,57,-8,2,0.0565566980663018,0.07470987209368285,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,301,2,4:00,240,540,Teshaun Hightower missed Jumper.,49,57,-8,2,0.05669238120059217,0.07482325094979236,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,302,2,3:59,239,539,Teshaun Hightower Offensive Rebound.,49,57,-8,1,0.05674757272362186,0.07486332985260105,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,303,2,3:59,239,539,Teshaun Hightower missed Jumper.,49,57,-8,0,0.05674757272362186,0.07486332985260105,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,304,2,3:58,238,538,Tyler Harris Defensive Rebound.,49,57,-8,1,0.05679377631390502,0.07489163317949946,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,305,2,3:57,237,537,Tyler Harris Turnover.,49,57,-8,1,0.056830579281213954,0.07490763965202536,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,306,2,3:57,237,537,Official TV Timeout,49,57,-8,0,0.056830579281213954,0.07490763965202536,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,307,2,3:49,229,529,Christion Thompson made Jumper.,51,57,-6,8,0.10145828708166399,0.13132453400606486,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,308,2,3:49,229,529,Foul on Lester Quinones.,51,57,-6,0,0.10145828708166399,0.13132453400606486,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,309,2,3:49,229,529,Christion Thompson made Free Throw.,52,57,-5,0,0.13397710900407409,0.17158791145902955,4,4,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,310,2,3:30,210,510,Foul on Christion Thompson.,52,57,-5,19,0.12916347157995814,0.16439921313599767,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,311,2,3:13,193,493,Lester Quinones missed Three Point Jumper.,52,57,-5,17,0.11735821611642046,0.1487756837713522,4,4,-4,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,312,2,3:09,189,489,Christion Thompson Defensive Rebound.,52,57,-5,4,0.11348488289031733,0.14375709419731145,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,313,2,2:58,178,478,Teshaun Hightower missed Layup.,52,57,-5,11,0.10294791786096393,0.13010911472947195,4,4,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,314,2,2:56,176,476,Precious Achiuwa Defensive Rebound.,52,57,-5,2,0.10109776921023332,0.12771115483310527,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,315,2,2:36,156,456,Boogie Ellis missed Three Point Jumper.,52,57,-5,20,0.0832755738923796,0.1046332017585435,4,4,-4,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,316,2,2:33,153,453,Teshaun Hightower Defensive Rebound.,52,57,-5,3,0.08067405190254286,0.1012722406237421,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,317,2,2:23,143,443,Foul on Boogie Ellis.,52,57,-5,10,0.07208951472307079,0.09020448699611841,4,4,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,318,2,2:23,143,443,Teshaun Hightower made Free Throw.,53,57,-4,0,0.10979873955395117,0.13600062619032793,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,319,2,2:23,143,443,Teshaun Hightower made Free Throw.,54,57,-3,0,0.16375223925249446,0.19993759860431023,4,4,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,320,2,2:23,143,443,Tulane  Timeout,54,57,-3,0,0.16375223925249446,0.19993759860431023,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,321,2,2:23,143,443,Official TV Timeout,54,57,-3,0,0.16375223925249446,0.19993759860431023,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,322,2,1:52,112,412,Lester Quinones missed Jumper.,54,57,-3,31,0.12993887203227528,0.15739186626727975,4,3,-4,NA,NA,Memphis,missed,Lester Quinones,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,323,2,1:51,111,411,Memphis Offensive Rebound.,54,57,-3,1,0.12876948530065155,0.15593039093818734,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,324,2,1:37,97,397,Foul on Jordan Walker.,54,57,-3,14,0.11200359210510674,0.13504302332829887,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,325,2,1:37,97,397,Precious Achiuwa missed Free Throw.,54,57,-3,0,0.11200359210510674,0.13504302332829887,4,3,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,326,2,1:37,97,397,Memphis Offensive Rebound.,54,57,-3,0,0.11200359210510674,0.13504302332829887,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,327,2,1:36,96,396,Precious Achiuwa missed Free Throw.,54,57,-3,1,0.11078343325794923,0.1335276257099588,4,3,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,328,2,1:35,95,395,K.J. Lawson Defensive Rebound.,54,57,-3,1,0.10956112271918822,0.13201018320776053,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,329,2,1:09,69,369,Foul on Boogie Ellis.,54,57,-3,26,0.08001230778374328,0.0954162262830313,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,330,2,1:09,69,369,Christion Thompson made Free Throw.,55,57,-2,0,0.15545552356054726,0.18250246927680552,4,3,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,331,2,1:09,69,369,Christion Thompson made Free Throw.,56,57,-1,0,0.2803561570407104,0.3208775008249467,4,3,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,332,2,0:44,44,344,Foul on Teshaun Hightower.,56,57,-1,25,0.25736145320807596,0.29191218049949935,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,333,2,0:44,44,344,Precious Achiuwa missed Free Throw.,56,57,-1,0,0.25736145320807596,0.29191218049949935,4,3,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,334,2,0:44,44,344,Memphis Offensive Rebound.,56,57,-1,0,0.25736145320807596,0.29191218049949935,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,335,2,0:43,43,343,Precious Achiuwa missed Free Throw.,56,57,-1,1,0.25639161540355065,0.2906986657227635,4,3,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,336,2,0:41,41,341,Christion Thompson Defensive Rebound.,56,57,-1,2,0.2544400843811277,0.2882588022936481,4,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,337,2,0:29,29,329,Christion Thompson made Layup.,58,57,1,12,0.6934301121875371,0.7266446279420194,4,3,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,338,2,0:26,26,326,Memphis  Timeout,58,57,1,3,0.6979878739787964,0.7304131806502859,3,3,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,339,2,0:14,14,314,Tyler Harris made Three Point Jumper. Assisted by Alex Lomax.,58,60,-2,12,0.09103234825624767,0.10412770804069946,3,3,-4,NA,NA,Memphis,made,Tyler Harris,Alex Lomax,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,340,2,0:10,10,310,Tulane  Timeout,58,60,-2,4,0.08679233084772249,0.09903802686638556,3,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,341,2,0:02,2,302,Teshaun Hightower made Layup.,60,60,0,8,0.4654209370840233,0.5,3,2,-4,NA,NA,Tulane,made,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,342,2,0:02,2,302,Memphis  Timeout,60,60,0,0,0.4654209370840233,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,343,2,0:02,2,302,Tulane  Timeout,60,60,0,0,0.4654209370840233,0.5,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,344,2,0:01,1,301,Memphis  Timeout,60,60,0,1,0.4656388987299776,0.5,1,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,345,2,0:00,300,300,Precious Achiuwa missed Layup.,60,60,0,1,0.42006883932436445,0.5,1,1,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,346,2,0:00,300,300,Tulane Defensive Rebound.,60,60,0,0,0.42006883932436445,0.5,1,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,347,2,0:00,300,300,End of 2nd half,60,60,0,0,0.42006883932436445,0.5,1,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,NA
+401169496,2020-02-29,Tulane,Memphis,348,3,5:00,300,300,PLAY,60,60,0,0,0.42006883932436445,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane
+401169496,2020-02-29,Tulane,Memphis,349,3,4:43,283,283,Teshaun Hightower missed Layup.,60,60,0,17,0.42180196111875634,0.5,2,2,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,350,3,4:43,283,283,Precious Achiuwa Block.,60,60,0,0,0.42180196111875634,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,351,3,4:39,279,279,Damion Baugh Defensive Rebound.,60,60,0,4,0.4222097243790371,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,352,3,4:19,259,259,Precious Achiuwa missed Layup.,60,60,0,20,0.42427406127239664,0.5,2,2,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,353,3,4:17,257,257,Tulane Defensive Rebound.,60,60,0,2,0.42448433198844765,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,354,3,3:54,234,234,K.J. Lawson missed Three Point Jumper.,60,60,0,23,0.42698656810588226,0.5,2,2,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,TRUE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,355,3,3:51,231,231,Damion Baugh Defensive Rebound.,60,60,0,3,0.4273272352336351,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,356,3,3:26,206,206,Foul on Kevin Zhang.,60,60,0,25,0.43034155619379105,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,357,3,3:26,206,206,Precious Achiuwa missed Free Throw.,60,60,0,0,0.43034155619379105,0.5,2,2,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,358,3,3:26,206,206,Memphis Offensive Rebound.,60,60,0,0,0.43034155619379105,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,359,3,3:26,206,206,Precious Achiuwa made Free Throw.,60,61,-1,0,0.3521078536307693,0.41840390624365126,2,2,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,360,3,3:02,182,182,Kevin Zhang missed Three Point Jumper.,60,61,-1,24,0.34553210727481964,0.40817035466920276,2,2,-4,NA,NA,Tulane,missed,Kevin Zhang,NA,TRUE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,361,3,2:59,179,179,Teshaun Hightower Offensive Rebound.,60,61,-1,3,0.3444900340458875,0.40663981779438274,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,362,3,2:58,178,178,Teshaun Hightower missed Jumper.,60,61,-1,1,0.3441408033891621,0.40612716999030757,2,2,-4,NA,NA,Tulane,missed,Teshaun Hightower,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,363,3,2:58,178,178,K.J. Lawson Offensive Rebound.,60,61,-1,0,0.3441408033891621,0.40612716999030757,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,364,3,2:58,178,178,K.J. Lawson made Layup.,62,61,1,0,0.5287438963541903,0.5938728300096924,2,2,-4,NA,NA,Tulane,made,K.J. Lawson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,365,3,2:58,178,178,Foul on Tyler Harris.,62,61,1,0,0.5287438963541903,0.5938728300096924,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,366,3,2:58,178,178,K.J. Lawson made Free Throw.,63,61,2,0,0.6213074449708187,0.6813532424303403,2,2,-4,NA,NA,Tulane,made,K.J. Lawson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,367,3,2:43,163,163,Foul on Jordan Walker.,63,61,2,15,0.6387294121110072,0.6954957285019054,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,368,3,2:43,163,163,Tyler Harris made Free Throw.,63,62,1,0,0.5391407045027837,0.601799785480871,2,2,-4,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,369,3,2:43,163,163,Tyler Harris made Free Throw.,63,63,0,0,0.4363260801854734,0.5,2,2,-4,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,370,3,2:25,145,145,K.J. Lawson missed Jumper.,63,63,0,18,0.4390221031632026,0.5,2,2,-4,NA,NA,Tulane,missed,K.J. Lawson,NA,FALSE,FALSE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,371,3,2:25,145,145,Precious Achiuwa Block.,63,63,0,0,0.4390221031632026,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,372,3,2:25,145,145,Tulane Offensive Rebound.,63,63,0,0,0.4390221031632026,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,373,3,2:15,135,135,Christion Thompson missed Jumper.,63,63,0,10,0.4405719971452363,0.5,2,2,-4,NA,NA,Tulane,missed,Christion Thompson,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,374,3,2:15,135,135,Alex Lomax Defensive Rebound.,63,63,0,0,0.4405719971452363,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,375,3,2:15,135,135,Precious Achiuwa Block.,63,63,0,0,0.4405719971452363,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,376,3,2:05,125,125,Tyler Harris missed Three Point Jumper.,63,63,0,10,0.44216306595312566,0.5,2,2,-4,NA,NA,Memphis,missed,Tyler Harris,NA,TRUE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,377,3,2:03,123,123,Jordan Walker Defensive Rebound.,63,63,0,2,0.4424864962875274,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,378,3,1:50,110,110,Teshaun Hightower Turnover.,63,63,0,13,0.4446337273440636,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,379,3,1:50,110,110,Damion Baugh Steal.,63,63,0,0,0.4446337273440636,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,380,3,1:44,104,104,Tyler Harris missed Layup.,63,63,0,6,0.4456522799051578,0.5,2,2,-4,NA,NA,Memphis,missed,Tyler Harris,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,381,3,1:42,102,102,Precious Achiuwa Offensive Rebound.,63,63,0,2,0.4459958364449487,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,382,3,1:42,102,102,Precious Achiuwa missed Layup.,63,63,0,0,0.4459958364449487,0.5,2,2,-4,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,383,3,1:42,102,102,Precious Achiuwa Offensive Rebound.,63,63,0,0,0.4459958364449487,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,384,3,1:42,102,102,Foul on Kevin Zhang.,63,63,0,0,0.4459958364449487,0.5,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,385,3,1:42,102,102,Precious Achiuwa made Free Throw.,63,64,-1,0,0.3068545525582637,0.35480061543056896,2,2,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,386,3,1:42,102,102,Precious Achiuwa made Free Throw.,63,65,-2,0,0.19578187106641215,0.23218634353315296,2,2,-4,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,387,3,1:23,83,83,Teshaun Hightower Turnover.,63,65,-2,19,0.17268520971150475,0.20368761781756478,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,388,3,0:58,58,58,Alex Lomax made Jumper.,63,67,-4,25,0.031845188097897256,0.03805480042659379,2,2,-4,NA,NA,Memphis,made,Alex Lomax,NA,FALSE,FALSE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,389,3,0:49,49,49,K.J. Lawson Turnover.,63,67,-4,9,0.026424482881169598,0.031397870521533484,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,390,3,0:49,49,49,Lester Quinones Steal.,63,67,-4,0,0.026424482881169598,0.031397870521533484,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,391,3,0:49,49,49,Foul on K.J. Lawson.,63,67,-4,0,0.026424482881169598,0.031397870521533484,2,2,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,392,3,0:49,49,49,Lester Quinones made Free Throw.,63,68,-5,0,0.01138551075760885,0.013567839312555376,2,2,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,393,3,0:49,49,49,Lester Quinones made Free Throw.,63,69,-6,0,0.004862920270095658,0.005802362913602761,2,2,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,394,3,0:47,47,47,Tulane  Timeout,63,69,-6,2,0.004549351760162272,0.005420039815709928,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,395,3,0:41,41,41,Foul on Lester Quinones.,63,69,-6,6,0.0037050432107291168,0.00439390219780091,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,396,3,0:41,41,41,Christion Thompson made Free Throw.,64,69,-5,0,0.00909861539953832,0.010779422805117487,2,1,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,397,3,0:41,41,41,Christion Thompson made Free Throw.,65,69,-4,0,0.022169104698339586,0.026200609267929203,2,1,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,398,3,0:39,39,39,Foul on Nobal Days.,65,69,-4,2,0.021185536339649695,0.025003519105138164,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,399,3,0:39,39,39,Tyler Harris made Free Throw.,65,70,-5,0,0.008587034379001804,0.010158122256686277,2,1,-4,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,400,3,0:39,39,39,Tyler Harris made Free Throw.,65,71,-6,0,0.003454104198206025,0.004089942967555818,2,1,-4,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,401,3,0:35,35,35,Foul on Alex Lomax.,65,71,-6,4,0.002995110030872938,0.0035353307939678708,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,402,3,0:35,35,35,Christion Thompson made Free Throw.,66,71,-5,0,0.007633543952817935,0.009002833235275867,2,1,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,403,3,0:35,35,35,Christion Thompson made Free Throw.,67,71,-4,0,0.01931620366143026,0.02273309801906819,2,1,-4,NA,NA,Tulane,made,Christion Thompson,NA,FALSE,TRUE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,404,3,0:33,33,33,Foul on Christion Thompson.,67,71,-4,2,0.018430415113839686,0.02165953096422114,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,405,3,0:33,33,33,Lester Quinones missed Free Throw.,67,71,-4,0,0.018430415113839686,0.02165953096422114,2,1,-4,NA,NA,Memphis,missed,Lester Quinones,NA,FALSE,TRUE,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,406,3,0:33,33,33,Memphis Offensive Rebound.,67,71,-4,0,0.018430415113839686,0.02165953096422114,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169496,2020-02-29,Tulane,Memphis,407,3,0:33,33,33,Lester Quinones made Free Throw.,67,72,-5,0,0.007190674491095423,0.008467510346093162,2,1,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Memphis,Tulane
+401169496,2020-02-29,Tulane,Memphis,408,3,0:24,24,24,Jordan Walker missed Layup.,67,72,-5,9,0.005459086894107866,0.006383267278336883,2,1,-4,NA,NA,Tulane,missed,Jordan Walker,NA,FALSE,FALSE,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,409,3,0:23,23,23,Foul on Nobal Days.,67,72,-5,1,0.005291439000620169,0.00618230894378108,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,410,3,0:23,23,23,Lester Quinones made Free Throw.,67,73,-6,0,0.0019222554725979357,0.002247169053023267,2,1,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,411,3,0:23,23,23,Lester Quinones made Free Throw.,67,74,-7,0,6.968074820749661e-4,8.147560320886703e-4,2,1,-4,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,TRUE,Tulane,Tulane
+401169496,2020-02-29,Tulane,Memphis,412,3,0:23,23,23,Lester Quinones Defensive Rebound.,67,74,-7,0,6.968074820749661e-4,8.147560320886703e-4,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,413,3,0:13,13,13,Teshaun Hightower Turnover.,67,74,-7,10,4.3965686112882593e-4,5.097829858425428e-4,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,414,3,0:13,13,13,Alex Lomax Steal.,67,74,-7,0,4.3965686112882593e-4,5.097829858425428e-4,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,Memphis
+401169496,2020-02-29,Tulane,Memphis,415,3,0:00,0,0,End of 1st overtime,67,74,-7,13,0,0,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA
+401169496,2020-02-29,Tulane,Memphis,416,3,0:00,0,0,End of Game,67,74,-7,0,0,0,2,1,-4,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA

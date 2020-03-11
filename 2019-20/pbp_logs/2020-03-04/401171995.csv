@@ -1,0 +1,339 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171995,2020-03-04,Iona,Quinnipiac,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7236392944838285,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona
+401171995,2020-03-04,Iona,Quinnipiac,2,1,19:45,2385,2385,Isaiah Ross missed Jumper.,0,0,0,15,0.7233501915823313,0.5,4,4,6,NA,NA,Iona,missed,Isaiah Ross,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,3,1,19:40,2380,2380,Tyrese Williams Defensive Rebound.,0,0,0,5,0.7232526276423682,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,4,1,19:29,2369,2369,Tyrese Williams missed Layup.,0,0,0,11,0.723035849149086,0.5,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,5,1,19:26,2366,2366,Kevin Marfo Offensive Rebound.,0,0,0,3,0.7229762128405974,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,6,1,19:24,2364,2364,Rich Kelly made Three Point Jumper. Assisted by Kevin Marfo.,0,3,-3,2,0.6658816033477154,0.4330403178930196,4,4,6,NA,NA,Quinnipiac,made,Rich Kelly,Kevin Marfo,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,7,1,18:57,2337,2337,Dylan van Eyck missed Three Point Jumper.,0,3,-3,27,0.6644857782212715,0.43217335596304424,4,4,6,NA,NA,Iona,missed,Dylan van Eyck,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,8,1,18:52,2332,2332,Tyrese Williams Defensive Rebound.,0,3,-3,5,0.6642234134908362,0.4320113397035177,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,9,1,18:46,2326,2326,Aaron Falzon missed Three Point Jumper.,0,3,-3,6,0.6639069863258807,0.4318163477183905,4,4,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,10,1,18:42,2322,2322,Isaiah Washington Defensive Rebound.,0,3,-3,4,0.6636950740596579,0.4316860139922695,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,11,1,18:34,2314,2314,Tajuan Agee missed Three Point Jumper.,0,3,-3,8,0.6632689507745125,0.4314245554735288,4,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,12,1,18:30,2310,2310,Jacob Rigoni Defensive Rebound.,0,3,-3,4,0.6630547429709306,0.4312934407667506,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,13,1,18:26,2306,2306,Jacob Rigoni made Three Point Jumper. Assisted by Tyrese Williams.,0,6,-6,4,0.5984145825307604,0.3648852038488814,4,4,6,NA,NA,Quinnipiac,made,Jacob Rigoni,Tyrese Williams,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,14,1,18:06,2286,2286,Isaiah Washington missed Three Point Jumper.,0,6,-6,20,0.5965989319201385,0.3636378733237177,4,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,15,1,18:02,2282,2282,Kevin Marfo Defensive Rebound.,0,6,-6,4,0.5962325725644422,0.36338728690047317,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,16,1,17:44,2264,2264,Aaron Falzon missed Three Point Jumper.,0,6,-6,18,0.5945709282512617,0.36225545392358677,4,4,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,17,1,17:41,2261,2261,Dylan van Eyck Defensive Rebound.,0,6,-6,3,0.5942919429496971,0.36206618820413417,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,18,1,17:30,2250,2250,Isaiah Ross made Three Point Jumper. Assisted by Tajuan Agee.,3,6,-3,11,0.6597510977174461,0.42929951130972055,4,4,6,NA,NA,Iona,made,Isaiah Ross,Tajuan Agee,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,19,1,17:08,2228,2228,Tyrese Williams missed Three Point Jumper.,3,6,-3,22,0.6584978905810003,0.42855765366846543,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,20,1,17:04,2224,2224,Isaiah Washington Defensive Rebound.,3,6,-3,4,0.658267659208179,0.4284222677115816,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,21,1,16:59,2219,2219,E.J. Crawford missed Three Point Jumper.,3,6,-3,5,0.6579788481429181,0.4282528359497078,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,TRUE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,22,1,16:55,2215,2215,Tajuan Agee Offensive Rebound.,3,6,-3,4,0.6577469838393647,0.4281171371963982,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,23,1,16:55,2215,2215,Foul on Jacob Rigoni.,3,6,-3,0,0.6577469838393647,0.4281171371963982,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,24,1,16:51,2211,2211,Tajuan Agee missed Layup.,3,6,-3,4,0.6575143964959584,0.42798130756589703,4,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,25,1,16:47,2207,2207,Aaron Falzon Defensive Rebound.,3,6,-3,4,0.6572810877824538,0.4278453520675339,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,26,1,16:32,2192,2192,Rich Kelly missed Three Point Jumper.,3,6,-3,15,0.6563997839866931,0.4273344834071913,4,4,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,27,1,16:29,2189,2189,Dylan van Eyck Defensive Rebound.,3,6,-3,3,0.6562223165252289,0.4272321289499767,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,28,1,16:17,2177,2177,Isaiah Washington missed Three Point Jumper.,3,6,-3,12,0.6555084480326234,0.42682217903564085,4,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,29,1,16:14,2174,2174,Isaiah Ross Offensive Rebound.,3,6,-3,3,0.6553289848144445,0.4267195690789067,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,30,1,16:12,2172,2172,E.J. Crawford missed Three Point Jumper.,3,6,-3,2,0.655209122064715,0.4266511374356508,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,TRUE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,31,1,16:07,2167,2167,E.J. Crawford Offensive Rebound.,3,6,-3,5,0.6549086804043468,0.4264799494336897,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,32,1,16:04,2164,2164,Dylan van Eyck missed Three Point Jumper.,3,6,-3,3,0.654727852997023,0.4263771183452826,4,4,6,NA,NA,Iona,missed,Dylan van Eyck,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,33,1,16:00,2160,2160,Aaron Falzon Defensive Rebound.,3,6,-3,4,0.654486087845451,0.4262398616956621,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,34,1,15:52,2152,2152,Kevin Marfo Turnover.,3,6,-3,8,0.6540002816085879,0.4259648273179891,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,35,1,15:52,2152,2152,Isaiah Washington Steal.,3,6,-3,0,0.6540002816085879,0.4259648273179891,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,36,1,15:47,2147,2147,Official TV Timeout,3,6,-3,5,0.6536951067824802,0.42579256894767775,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,37,1,15:43,2143,2143,Tajuan Agee Turnover.,3,6,-3,4,0.6534501079808642,0.4256545568021406,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,38,1,15:43,2143,2143,Jacob Rigoni Steal.,3,6,-3,0,0.6534501079808642,0.4256545568021406,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,39,1,15:24,2124,2124,Aaron Falzon missed Three Point Jumper.,3,6,-3,19,0.6522758823069656,0.4249964048904226,4,4,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,40,1,15:21,2121,2121,Isaiah Washington Defensive Rebound.,3,6,-3,3,0.6520888875595519,0.424892080309154,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,41,1,15:15,2115,2115,Tajuan Agee made Jumper. Assisted by Isaiah Ross.,5,6,-1,6,0.6961360922800519,0.4747234130496318,4,4,6,NA,NA,Iona,made,Tajuan Agee,Isaiah Ross,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,42,1,15:01,2101,2101,Foul on E.J. Crawford.,5,6,-1,14,0.6955964435473247,0.47455686567115635,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,43,1,15:01,2101,2101,Seth Pinkney missed Free Throw.,5,6,-1,0,0.6955964435473247,0.47455686567115635,4,4,6,NA,NA,Quinnipiac,missed,Seth Pinkney,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,44,1,15:01,2101,2101,Quinnipiac Offensive Rebound.,5,6,-1,0,0.6955964435473247,0.47455686567115635,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,45,1,15:01,2101,2101,Seth Pinkney made Free Throw.,5,7,-2,0,0.6736092347754227,0.44924515656012415,4,4,6,NA,NA,Quinnipiac,made,Seth Pinkney,NA,FALSE,TRUE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,46,1,14:49,2089,2089,Isaiah Washington missed Layup.,5,7,-2,12,0.6729966322802903,0.4489603577119606,4,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,47,1,14:49,2089,2089,Brendan McGuire Block.,5,7,-2,0,0.6729966322802903,0.4489603577119606,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,48,1,14:44,2084,2084,Jacob Rigoni Defensive Rebound.,5,7,-2,5,0.6727395937892346,0.4488412727583027,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,49,1,14:39,2079,2079,Jacob Rigoni missed Three Point Jumper.,5,7,-2,5,0.6724815019296618,0.44872193532611787,4,4,6,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,50,1,14:35,2075,2075,Tajuan Agee Defensive Rebound.,5,7,-2,4,0.6722742691322652,0.4486262807812338,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,51,1,14:15,2055,2055,E.J. Crawford missed Jumper.,5,7,-2,20,0.671227956528706,0.4481454690334274,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,52,1,14:11,2051,2051,Tyrese Williams Defensive Rebound.,5,7,-2,4,0.6710166595451718,0.44804878388138536,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,53,1,14:05,2045,2045,Tyrese Williams missed Jumper.,5,7,-2,6,0.6706984393494042,0.4479034193632476,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,54,1,14:02,2042,2042,Isaiah Washington Defensive Rebound.,5,7,-2,3,0.6705387550056052,0.447830583592025,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,55,1,13:45,2025,2025,Dylan van Eyck made Dunk. Assisted by Tajuan Agee.,7,7,0,17,0.714555701095152,0.5,4,4,6,NA,NA,Iona,made,Dylan van Eyck,Tajuan Agee,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,56,1,13:19,1999,1999,Tyrese Williams missed Layup.,7,7,0,26,0.7137772132257705,0.5,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,57,1,13:17,1997,1997,Tajuan Agee Defensive Rebound.,7,7,0,2,0.7137165851509151,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,58,1,13:11,1991,1991,Tajuan Agee missed Three Point Jumper.,7,7,0,6,0.7135340687060084,0.5,4,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,59,1,13:07,1987,1987,Jacob Rigoni Defensive Rebound.,7,7,0,4,0.7134118659433579,0.5,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,60,1,12:57,1977,1977,Jacob Rigoni made Jumper.,7,9,-2,10,0.666984339222442,0.44622552346837313,4,4,6,NA,NA,Quinnipiac,made,Jacob Rigoni,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,61,1,12:29,1949,1949,E.J. Crawford missed Jumper.,7,9,-2,28,0.6653970329591219,0.44551684476573233,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,62,1,12:25,1945,1945,Seth Pinkney Defensive Rebound.,7,9,-2,4,0.6651674913733728,0.4454146872099188,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,63,1,12:18,1938,1938,Aaron Falzon made Jumper. Assisted by Brendan McGuire.,7,11,-4,7,0.6141183294181425,0.39176909605189697,4,4,6,NA,NA,Quinnipiac,made,Aaron Falzon,Brendan McGuire,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,64,1,11:55,1915,1915,Tajuan Agee missed Jumper.,7,11,-4,23,0.6121247438593935,0.39062685381798457,4,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,65,1,11:50,1910,1910,Tyrese Williams Defensive Rebound.,7,11,-4,5,0.6116884115336104,0.3903789278241114,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,66,1,11:41,1901,1901,Tyrese Williams missed Three Point Jumper.,7,11,-4,9,0.6109003714655498,0.3899330333875773,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,67,1,11:35,1895,1895,Tajuan Agee Defensive Rebound.,7,11,-4,6,0.6103730641383271,0.38963594757705095,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,68,1,11:31,1891,1891,E.J. Crawford Turnover.,7,11,-4,4,0.6100206349929079,0.3894379316418235,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,69,1,11:31,1891,1891,Jacob Rigoni Steal.,7,11,-4,0,0.6100206349929079,0.3894379316418235,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,70,1,11:11,1871,1871,Tyrese Williams made Jumper.,7,13,-6,20,0.5530569334121803,0.33609096445355585,4,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,71,1,11:00,1860,1860,Iona  Timeout,7,13,-6,11,0.5517527823225095,0.335322771193598,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,72,1,11:00,1860,1860,Official TV Timeout,7,13,-6,0,0.5517527823225095,0.335322771193598,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,73,1,10:40,1840,1840,Tajuan Agee missed Layup.,7,13,-6,20,0.5493633856755337,0.3339232127558175,3,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,74,1,10:36,1836,1836,Isaiah Ross Offensive Rebound.,7,13,-6,4,0.5488824880364023,0.3336426321389199,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,75,1,10:31,1831,1831,Tajuan Agee made Jumper.,9,13,-4,5,0.6046396142471949,0.3864584542324567,3,4,6,NA,NA,Iona,made,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,76,1,10:13,1813,1813,Brendan McGuire missed Jumper.,9,13,-4,18,0.6029868261059302,0.3855556032260109,3,4,6,NA,NA,Quinnipiac,missed,Brendan McGuire,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,77,1,10:06,1806,1806,Kevin Marfo Offensive Rebound.,9,13,-4,7,0.6023387719942023,0.3852026475217986,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,78,1,10:06,1806,1806,Kevin Marfo missed Layup.,9,13,-4,0,0.6023387719942023,0.3852026475217986,3,4,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,79,1,10:06,1806,1806,E.J. Crawford Block.,9,13,-4,0,0.6023387719942023,0.3852026475217986,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,80,1,10:04,1804,1804,Kevin Marfo Offensive Rebound.,9,13,-4,2,0.602153051569138,0.38510158950377243,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,81,1,10:02,1802,1802,Brendan McGuire missed Three Point Jumper.,9,13,-4,2,0.6019670783007349,0.3850004323243336,3,4,6,NA,NA,Quinnipiac,missed,Brendan McGuire,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,82,1,10:02,1802,1802,Kevin Marfo Offensive Rebound.,9,13,-4,0,0.6019670783007349,0.3850004323243336,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,83,1,9:55,1795,1795,Tyree Pickron made Three Point Jumper.,9,16,-7,7,0.5146299965157258,0.30527921759168414,3,4,6,NA,NA,Quinnipiac,made,Tyree Pickron,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,84,1,9:27,1767,1767,E.J. Crawford missed Dunk.,9,16,-7,28,0.5107414140520249,0.3030339107611798,3,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,85,1,9:27,1767,1767,Iona Offensive Rebound.,9,16,-7,0,0.5107414140520249,0.3030339107611798,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,86,1,9:04,1744,1744,Rich Kelly missed Three Point Jumper.,9,16,-7,23,0.5074902537818963,0.30116216035139587,3,4,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,87,1,8:59,1739,1739,Ben Perez Defensive Rebound.,9,16,-7,5,0.5067761293286824,0.3007514285352152,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,88,1,8:51,1731,1731,Foul on Tyree Pickron.,9,16,-7,8,0.5056278073558992,0.30009114839259876,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,89,1,8:42,1722,1722,Tajuan Agee missed Jumper.,9,16,-7,9,0.5043272905292365,0.2993435234138019,3,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,90,1,8:38,1718,1718,Kevin Marfo Defensive Rebound.,9,16,-7,4,0.5037462653584607,0.2990095348841335,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,91,1,8:36,1716,1716,Tyree Pickron missed Three Point Jumper.,9,16,-7,2,0.5034550438307037,0.2988421333512124,3,4,6,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,92,1,8:32,1712,1712,E.J. Crawford Defensive Rebound.,9,16,-7,4,0.5028711661754525,0.29850649917908106,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,93,1,8:27,1707,1707,Ben Perez made Three Point Jumper. Assisted by E.J. Crawford.,12,16,-4,5,0.5928106361392228,0.3800373602770282,3,4,6,NA,NA,Iona,made,Ben Perez,EJ Crawford,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,94,1,8:03,1683,1683,Rich Kelly missed Jumper.,12,16,-4,24,0.5903877621344793,0.37872168090696506,3,4,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,95,1,7:59,1679,1679,Kevin Marfo Offensive Rebound.,12,16,-4,4,0.5899820972164775,0.37850387305593297,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,96,1,7:58,1678,1678,Tyree Pickron made Three Point Jumper. Assisted by Kevin Marfo.,12,19,-7,1,0.4978429369904437,0.29562180766153767,3,4,6,NA,NA,Quinnipiac,made,Tyree Pickron,Kevin Marfo,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,97,1,7:42,1662,1662,E.J. Crawford missed Three Point Jumper.,12,19,-7,16,0.4954832203573047,0.294294318523055,3,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,98,1,7:38,1658,1658,Tyree Pickron Defensive Rebound.,12,19,-7,4,0.49489546768922493,0.29396702029901994,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,99,1,7:33,1653,1653,Tyree Pickron missed Three Point Jumper.,12,19,-7,5,0.49416172179702655,0.2935601616160841,3,4,6,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,100,1,7:29,1649,1649,Isaiah Washington Defensive Rebound.,12,19,-7,4,0.4935753648281278,0.293236358084583,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,101,1,7:25,1645,1645,Isaiah Washington missed Layup.,12,19,-7,4,0.49298947322543873,0.29291393757611106,3,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,102,1,7:23,1643,1643,Iona Offensive Rebound.,12,19,-7,2,0.4926966721406277,0.29275321333804927,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,103,1,7:09,1629,1629,Niksa Nikolic made Layup. Assisted by Isaiah Washington.,14,19,-5,14,0.5538275595535211,0.3466281065796221,3,4,6,NA,NA,Iona,made,Niksa Nikolic,Isaiah Washington,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,104,1,6:45,1605,1605,Aaron Falzon made Layup. Assisted by Kevin Marfo.,14,21,-7,24,0.48713518170034426,0.2897429739879817,3,4,6,NA,NA,Quinnipiac,made,Aaron Falzon,Kevin Marfo,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,105,1,6:25,1585,1585,Ben Perez missed Three Point Jumper.,14,21,-7,20,0.4841921404167334,0.2881732658200508,3,4,6,NA,NA,Iona,missed,Ben Perez,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,106,1,6:21,1581,1581,Tyree Pickron Defensive Rebound.,14,21,-7,4,0.4836007385358165,0.28785896160714525,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,107,1,6:17,1577,1577,Aaron Falzon missed Three Point Jumper.,14,21,-7,4,0.4830081838663777,0.2875443022299991,3,4,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,108,1,6:13,1573,1573,Matt Balanc Offensive Rebound.,14,21,-7,4,0.48241438154135335,0.2872291878035536,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,109,1,6:11,1571,1571,Rich Kelly missed Three Point Jumper.,14,21,-7,2,0.48211698287652366,0.2870714288061537,3,4,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,110,1,6:08,1568,1568,Isaiah Ross Defensive Rebound.,14,21,-7,3,0.48167022968183426,0.28683450312370784,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,111,1,6:03,1563,1563,Niksa Nikolic made Layup. Assisted by Isaiah Washington.,16,21,-5,5,0.5459802208172426,0.3425480701470659,3,4,6,NA,NA,Iona,made,Niksa Nikolic,Isaiah Washington,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,112,1,5:51,1551,1551,Tyree Pickron Turnover.,16,21,-5,12,0.5445216935743847,0.3417958814080912,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,113,1,5:36,1536,1536,Isaiah Washington missed Three Point Jumper.,16,21,-5,15,0.5426788333024282,0.34084343966791775,3,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,114,1,5:34,1534,1534,Kevin Marfo Defensive Rebound.,16,21,-5,2,0.5424313079631934,0.34071522238888796,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,115,1,5:28,1528,1528,Jacob Rigoni missed Three Point Jumper.,16,21,-5,6,0.5416860001295892,0.34032861750897936,3,4,6,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,116,1,5:25,1525,1525,E.J. Crawford Defensive Rebound.,16,21,-5,3,0.5413117622897132,0.340134156497824,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,117,1,5:17,1517,1517,Foul on Rich Kelly.,16,21,-5,8,0.5403083940639487,0.339611516174247,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,118,1,5:17,1517,1517,E.J. Crawford made Free Throw.,17,21,-4,0,0.5731193247747272,0.3700457089661722,3,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,119,1,5:17,1517,1517,E.J. Crawford missed Free Throw.,17,21,-4,0,0.5731193247747272,0.3700457089661722,3,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,120,1,5:15,1515,1515,Seth Pinkney Defensive Rebound.,17,21,-4,2,0.5728997099752208,0.369936244833351,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,121,1,5:03,1503,1503,Seth Pinkney made Dunk. Assisted by Rich Kelly.,17,23,-6,12,0.5051498761388005,0.3093814242555517,3,4,6,NA,NA,Quinnipiac,made,Seth Pinkney,Rich Kelly,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,122,1,4:51,1491,1491,E.J. Crawford made Layup.,19,23,-4,12,0.5702293483210922,0.3685931480024942,3,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,123,1,4:51,1491,1491,Foul on Seth Pinkney.,19,23,-4,0,0.5702293483210922,0.3685931480024942,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,124,1,4:51,1491,1491,E.J. Crawford made Free Throw.,20,23,-3,0,0.6028492395397993,0.4004254462216812,3,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,125,1,4:35,1475,1475,Seth Pinkney missed Dunk.,20,23,-3,16,0.6013112274192902,0.399705601492828,3,4,6,NA,NA,Quinnipiac,missed,Seth Pinkney,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,126,1,4:31,1471,1471,Isaiah Ross Defensive Rebound.,20,23,-3,4,0.6009228565484739,0.3995217674619064,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,127,1,4:26,1466,1466,Isaiah Ross missed Three Point Jumper.,20,23,-3,5,0.6004351404147625,0.3992896499048855,3,4,6,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,128,1,4:22,1462,1462,Brendan McGuire Defensive Rebound.,20,23,-3,4,0.6000431334261491,0.39910203497334307,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,129,1,4:06,1446,1446,Rich Kelly Turnover.,20,23,-3,16,0.5984595549554131,0.3983353338315703,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,130,1,4:06,1446,1446,E.J. Crawford Steal.,20,23,-3,0,0.5984595549554131,0.3983353338315703,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,131,1,4:03,1443,1443,E.J. Crawford made Layup.,22,23,-1,3,0.6622080169291394,0.4656371290164746,3,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,132,1,4:03,1443,1443,Foul on Brendan McGuire.,22,23,-1,0,0.6622080169291394,0.4656371290164746,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,133,1,4:03,1443,1443,E.J. Crawford made Free Throw.,23,23,0,0,0.6922837801605584,0.5,3,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,134,1,3:45,1425,1425,Jacob Rigoni made Three Point Jumper. Assisted by Rich Kelly.,23,26,-3,18,0.5963842863326583,0.3973483052519587,3,4,6,NA,NA,Quinnipiac,made,Jacob Rigoni,Rich Kelly,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,135,1,3:14,1394,1394,Tajuan Agee missed Dunk.,23,26,-3,31,0.5933395718743987,0.3959517818527793,3,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,136,1,3:06,1386,1386,Kevin Marfo Defensive Rebound.,23,26,-3,8,0.5925539613837769,0.3955986735474683,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,137,1,3:02,1382,1382,Rich Kelly made Layup.,23,28,-5,4,0.5224488604947257,0.33012421109253104,3,4,6,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,138,1,2:48,1368,1368,Foul on Tyree Pickron.,23,28,-5,14,0.5205971080173264,0.32917812310650935,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,139,1,2:48,1368,1368,Official TV Timeout,23,28,-5,0,0.5205971080173264,0.32917812310650935,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,140,1,2:48,1368,1368,Dylan van Eyck made Free Throw.,24,28,-4,0,0.5559684696331463,0.3613467348040119,3,4,6,NA,NA,Iona,made,Dylan van Eyck,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,141,1,2:48,1368,1368,Dylan van Eyck made Free Throw.,25,28,-3,0,0.5907814859207297,0.39480881569196985,3,4,6,NA,NA,Iona,made,Dylan van Eyck,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,142,1,2:26,1346,1346,Jacob Rigoni missed Three Point Jumper.,25,28,-3,22,0.5885979840675465,0.3938422188997977,3,4,6,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,143,1,2:25,1345,1345,Dylan van Eyck Defensive Rebound.,25,28,-3,1,0.5884981062626908,0.3937980296194867,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,144,1,2:25,1345,1345,Foul on Kevin Marfo.,25,28,-3,0,0.5884981062626908,0.3937980296194867,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,145,1,2:25,1345,1345,Tajuan Agee made Free Throw.,26,28,-2,0,0.6228239337310089,0.42859560120973195,3,4,6,NA,NA,Iona,made,Tajuan Agee,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,146,1,2:25,1345,1345,Tajuan Agee missed Free Throw.,26,28,-2,0,0.6228239337310089,0.42859560120973195,3,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,147,1,2:24,1344,1344,Kevin Marfo Defensive Rebound.,26,28,-2,1,0.6227414918238634,0.4285653559396318,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,148,1,2:05,1325,1325,Tyrese Williams made Layup.,26,30,-4,19,0.5509271137460329,0.3588970734350069,3,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,149,1,1:53,1313,1313,Dylan van Eyck made Layup. Assisted by Tajuan Agee.,28,30,-2,12,0.6201572182776783,0.4276108997526822,3,4,6,NA,NA,Iona,made,Dylan van Eyck,Tajuan Agee,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,150,1,1:38,1298,1298,Aaron Falzon made Three Point Jumper. Assisted by Rich Kelly.,28,33,-5,15,0.5111153695931355,0.324338601011039,3,4,6,NA,NA,Quinnipiac,made,Aaron Falzon,Rich Kelly,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,151,1,1:23,1283,1283,Tajuan Agee missed Three Point Jumper.,28,33,-5,15,0.5089900361313683,0.32323297735866424,3,4,6,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,152,1,1:20,1280,1280,Tyrese Williams Defensive Rebound.,28,33,-5,3,0.508559306626559,0.3230072773307845,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,153,1,1:10,1270,1270,Tyrese Williams made Three Point Jumper. Assisted by Rich Kelly.,28,36,-8,10,0.39707818860290744,0.23333494141296174,3,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,Rich Kelly,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,154,1,0:48,1248,1248,Foul on Aaron Falzon.,28,36,-8,22,0.3927863313151227,0.23103681220086475,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,155,1,0:48,1248,1248,Dylan van Eyck missed Free Throw.,28,36,-8,0,0.3927863313151227,0.23103681220086475,3,4,6,NA,NA,Iona,missed,Dylan van Eyck,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,156,1,0:48,1248,1248,Iona Offensive Rebound.,28,36,-8,0,0.3927863313151227,0.23103681220086475,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,157,1,0:48,1248,1248,Dylan van Eyck made Free Throw.,29,36,-7,0,0.4291532498954647,0.2588109621708576,3,4,6,NA,NA,Iona,made,Dylan van Eyck,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,158,1,0:37,1237,1237,Rich Kelly missed Layup.,29,36,-7,11,0.4270805563091269,0.25767405391926046,3,4,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,159,1,0:34,1234,1234,Tajuan Agee Defensive Rebound.,29,36,-7,3,0.4265067018197718,0.25735735832646844,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,160,1,0:30,1230,1230,Tajuan Agee Turnover.,29,36,-7,4,0.4257356044168972,0.25693048021354736,3,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,161,1,0:30,1230,1230,Quinnipiac  Timeout,29,36,-7,0,0.4257356044168972,0.25693048021354736,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,162,1,0:14,1214,1214,Foul on Dylan van Eyck.,29,36,-7,16,0.4225796179866799,0.25516735497462534,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,163,1,0:00,1200,1200,Aaron Falzon missed Jumper.,29,36,-7,14,0.41976130860982724,0.2535798049742589,3,3,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,164,1,0:00,1200,1200,Iona Defensive Rebound.,29,36,-7,0,0.41976130860982724,0.2535798049742589,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,165,1,0:00,1200,1200,End of 1st half,29,36,-7,0,0.41976130860982724,0.2535798049742589,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,NA
+401171995,2020-03-04,Iona,Quinnipiac,166,2,20:00,1200,1200,PLAY,29,36,-7,0,0.41976130860982724,0.2535798049742589,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,167,2,19:43,1183,1183,Kevin Marfo missed Jumper.,29,36,-7,17,0.4164191144710668,0.25171170605012966,4,4,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,168,2,19:40,1180,1180,Isaiah Washington Defensive Rebound.,29,36,-7,3,0.41583767785683756,0.2513882970855371,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,169,2,19:29,1169,1169,Isaiah Washington missed Jumper.,29,36,-7,11,0.4137231720677674,0.25021554907246873,4,4,6,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,170,2,19:24,1164,1164,Rich Kelly Defensive Rebound.,29,36,-7,5,0.412769807608611,0.24968834276191296,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,171,2,19:12,1152,1152,Tyrese Williams missed Three Point Jumper.,29,36,-7,12,0.41049676915349,0.24843450464941408,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,172,2,19:08,1148,1148,Kevin Marfo Offensive Rebound.,29,36,-7,4,0.40974268471198894,0.248019339429624,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,173,2,19:05,1145,1145,Tyrese Williams made Layup. Assisted by Kevin Marfo.,29,38,-9,3,0.335200592635378,0.19336962020193454,4,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,Kevin Marfo,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,174,2,18:50,1130,1130,E.J. Crawford missed Layup.,29,38,-9,15,0.33207773779240035,0.19170525299229926,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,175,2,18:50,1130,1130,Kevin Marfo Block.,29,38,-9,0,0.33207773779240035,0.19170525299229926,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,176,2,18:46,1126,1126,Foul on Dylan van Eyck.,29,38,-9,4,0.33124655657606666,0.191262570682873,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,177,2,18:46,1126,1126,Tyrese Williams made Free Throw.,29,39,-10,0,0.296763969282301,0.1676980696306937,4,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,178,2,18:46,1126,1126,Tyrese Williams made Free Throw.,29,40,-11,0,0.2644515236706815,0.14651087714425023,4,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,179,2,18:45,1125,1125,Tyrese Williams Defensive Rebound.,29,40,-11,1,0.26423816373976516,0.14640155075672037,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,180,2,18:29,1109,1109,Tajuan Agee made Layup.,31,40,-9,16,0.32770927707922104,0.1893785273698446,4,4,6,NA,NA,Iona,made,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,181,2,18:12,1092,1092,Tyrese Williams missed Three Point Jumper.,31,40,-9,17,0.3241438394408144,0.18747679131055067,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,182,2,18:09,1089,1089,Dylan van Eyck Defensive Rebound.,31,40,-9,3,0.32350968412164366,0.18713802469886948,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,183,2,18:05,1085,1085,Foul on Tyrese Williams.,31,40,-9,4,0.32266122144219167,0.18668446401115468,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,184,2,18:05,1085,1085,Isaiah Washington made Free Throw.,32,40,-8,0,0.35938221995258035,0.21279202974045733,4,4,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,185,2,18:05,1085,1085,Isaiah Washington made Free Throw.,33,40,-7,0,0.39782776601357844,0.24146671884799228,4,4,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,186,2,17:50,1070,1070,Tyrese Williams made Layup.,33,42,-9,15,0.3194441624924544,0.1849609535821176,4,4,6,NA,NA,Quinnipiac,made,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,187,2,17:29,1049,1049,Tajuan Agee Turnover.,33,42,-9,21,0.3148201647770273,0.18247096539813257,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,188,2,17:29,1049,1049,Tyrese Williams Steal.,33,42,-9,0,0.3148201647770273,0.18247096539813257,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,189,2,17:18,1038,1038,Rich Kelly made Three Point Jumper. Assisted by Tyrese Williams.,33,45,-12,11,0.21548409013088474,0.11798125955620914,4,4,6,NA,NA,Quinnipiac,made,Rich Kelly,Tyrese Williams,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,190,2,16:57,1017,1017,E.J. Crawford made Layup.,35,45,-10,21,0.2725093345927261,0.15490992325324873,4,4,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,191,2,16:41,1001,1001,Rich Kelly made Layup.,35,47,-12,16,0.2067531162875751,0.11349333918106148,4,4,6,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,192,2,16:34,994,994,Isaiah Ross made Three Point Jumper. Assisted by Isaiah Washington.,38,47,-9,7,0.30172884341166,0.1753226682945722,4,4,6,NA,NA,Iona,made,Isaiah Ross,Isaiah Washington,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,193,2,16:16,976,976,Tyrese Williams missed Three Point Jumper.,38,47,-9,18,0.2970399357714935,0.1727263328724527,4,4,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,194,2,16:11,971,971,Jacob Rigoni Offensive Rebound.,38,47,-9,5,0.29569559552304636,0.171978704259844,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,195,2,16:10,970,970,Aaron Falzon missed Three Point Jumper.,38,47,-9,1,0.29542444691204894,0.1718277424069835,4,4,6,NA,NA,Quinnipiac,missed,Aaron Falzon,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,196,2,16:07,967,967,Dylan van Eyck Defensive Rebound.,38,47,-9,3,0.2946171659716209,0.1713786139120052,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,197,2,15:59,959,959,E.J. Crawford missed Three Point Jumper.,38,47,-9,8,0.2925328997234411,0.17022281624340294,4,4,6,NA,NA,Iona,missed,E.J. Crawford,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,198,2,15:56,956,956,Rich Kelly Defensive Rebound.,38,47,-9,3,0.29177553216030466,0.16980417786898344,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,199,2,15:42,942,942,Rich Kelly Turnover.,38,47,-9,14,0.2883975436834253,0.16794558855132735,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,200,2,15:42,942,942,Tajuan Agee Steal.,38,47,-9,0,0.2883975436834253,0.16794558855132735,4,4,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,201,2,15:37,937,937,Isaiah Washington made Layup.,40,47,-7,5,0.3653598010487245,0.22301955671811396,4,4,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,202,2,15:36,936,936,Quinnipiac  Timeout,40,47,-7,1,0.365148696113823,0.22289954839452764,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,203,2,15:36,936,936,Official TV Timeout,40,47,-7,0,0.365148696113823,0.22289954839452764,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,204,2,15:11,911,911,Rich Kelly Turnover.,40,47,-7,25,0.36011838010004443,0.22005774730013572,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,205,2,15:11,911,911,Isaiah Washington Steal.,40,47,-7,0,0.36011838010004443,0.22005774730013572,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,206,2,15:07,907,907,Isaiah Washington Turnover.,40,47,-7,4,0.3593487494441234,0.21962545639799677,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,207,2,15:07,907,907,Kevin Marfo Steal.,40,47,-7,0,0.3593487494441234,0.21962545639799677,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,208,2,14:45,885,885,Kevin Marfo made Layup.,40,49,-9,22,0.27641620815315954,0.16144314368412943,4,3,6,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,209,2,14:32,872,872,Tajuan Agee made Three Point Jumper.,43,49,-6,13,0.3959129837785587,0.24877454128274082,4,3,6,NA,NA,Iona,made,Tajuan Agee,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,210,2,14:07,847,847,Rich Kelly made Jumper.,43,51,-8,25,0.30708679252995974,0.18370693992137724,4,3,6,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,211,2,13:56,836,836,Tajuan Agee Turnover.,43,51,-8,11,0.3048614276914241,0.18247158112141207,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,212,2,13:56,836,836,Kevin Marfo Steal.,43,51,-8,0,0.3048614276914241,0.18247158112141207,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,213,2,13:49,829,829,Foul on Isaiah Ross.,43,51,-8,7,0.3034079128156865,0.181661757785905,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,214,2,13:49,829,829,Official TV Timeout,43,51,-8,0,0.3034079128156865,0.181661757785905,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,215,2,13:37,817,817,Foul on Seth Pinkney.,43,51,-8,12,0.30083202029487,0.18022052198794797,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,216,2,13:37,817,817,Seth Pinkney Turnover.,43,51,-8,0,0.30083202029487,0.18022052198794797,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,217,2,13:27,807,807,Isaiah Ross made Three Point Jumper. Assisted by Isaiah Washington.,46,51,-5,10,0.42978100975290046,0.27845578788712305,4,3,6,NA,NA,Iona,made,Isaiah Ross,Isaiah Washington,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,218,2,13:00,780,780,Rich Kelly Turnover.,46,51,-5,27,0.4243736304897249,0.27523847302950527,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,219,2,13:00,780,780,E.J. Crawford Steal.,46,51,-5,0,0.4243736304897249,0.27523847302950527,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,220,2,12:56,776,776,Ben Perez missed Three Point Jumper.,46,51,-5,4,0.4235059351509972,0.27471685015192343,4,3,6,NA,NA,Iona,missed,Ben Perez,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,221,2,12:52,772,772,Tyree Pickron Defensive Rebound.,46,51,-5,4,0.4226189253663737,0.27418224870844093,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,222,2,12:33,753,753,Foul on Isaiah Washington.,46,51,-5,19,0.4181197775730798,0.27145161095159664,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,223,2,12:33,753,753,Tyree Pickron made Free Throw.,46,52,-6,0,0.3709949784458585,0.23420383924603844,4,3,6,NA,NA,Quinnipiac,made,Tyree Pickron,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,224,2,12:33,753,753,Tyree Pickron made Free Throw.,46,53,-7,0,0.32620393383057594,0.20065939720296688,4,3,6,NA,NA,Quinnipiac,made,Tyree Pickron,NA,FALSE,TRUE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,225,2,12:18,738,738,Isaiah Washington made Layup.,48,53,-5,15,0.41419842875190527,0.269050124537717,4,3,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,226,2,11:58,718,718,Rich Kelly missed Layup.,48,53,-5,20,0.40865575756731426,0.2656518833969541,4,3,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,227,2,11:54,714,714,Rich Kelly Offensive Rebound.,48,53,-5,4,0.40760906959127535,0.2650191458486493,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,228,2,11:43,703,703,Foul on Tajuan Agee.,48,53,-5,11,0.4048487432005707,0.2633669926328267,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,229,2,11:43,703,703,Official TV Timeout,48,53,-5,0,0.4048487432005707,0.2633669926328267,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,230,2,11:25,685,685,Aaron Falzon Turnover.,48,53,-5,18,0.400617921641975,0.26087741976786805,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,231,2,11:25,685,685,E.J. Crawford Steal.,48,53,-5,0,0.400617921641975,0.26087741976786805,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,232,2,11:21,681,681,Isaiah Ross Turnover.,48,53,-5,4,0.3997113270119669,0.2603496024954415,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,233,2,11:21,681,681,Tyree Pickron Steal.,48,53,-5,0,0.3997113270119669,0.2603496024954415,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,234,2,11:08,668,668,Rich Kelly missed Three Point Jumper.,48,53,-5,13,0.396810580203827,0.2586701329924924,4,3,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,235,2,11:04,664,664,Isaiah Washington Defensive Rebound.,48,53,-5,4,0.39592501245363165,0.2581593449138224,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,236,2,10:47,647,647,Ben Perez missed Three Point Jumper.,48,53,-5,17,0.39213812946735516,0.255977145566133,4,3,6,NA,NA,Iona,missed,Ben Perez,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,237,2,10:44,644,644,Tyrese Williams Defensive Rebound.,48,53,-5,3,0.3914589097691844,0.25558513905871055,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,238,2,10:32,632,632,Tyree Pickron missed Jumper.,48,53,-5,12,0.3886812359106737,0.2539766026765349,4,3,6,NA,NA,Quinnipiac,missed,Tyree Pickron,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,239,2,10:32,632,632,E.J. Crawford Block.,48,53,-5,0,0.3886812359106737,0.2539766026765349,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,240,2,10:27,627,627,Isaiah Washington Defensive Rebound.,48,53,-5,5,0.3874869840190076,0.25328149305760156,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,241,2,10:27,627,627,E.J. Crawford made Layup. Assisted by Isaiah Washington.,50,53,-3,0,0.49364703753565414,0.34327982693798165,4,3,6,NA,NA,Iona,made,E.J. Crawford,Isaiah Washington,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,242,2,10:27,627,627,Foul on Aaron Falzon.,50,53,-3,0,0.49364703753565414,0.34327982693798165,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,243,2,10:26,626,626,E.J. Crawford missed Free Throw.,50,53,-3,1,0.49346680138710136,0.3431788730993328,4,3,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,244,2,10:26,626,626,Kevin Marfo Defensive Rebound.,50,53,-3,0,0.49346680138710136,0.3431788730993328,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,245,2,10:10,610,610,Matt Balanc missed Jumper.,50,53,-3,16,0.49046107302018,0.34147726526469235,4,3,6,NA,NA,Quinnipiac,missed,Matt Balanc,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,246,2,10:06,606,606,Isaiah Ross Defensive Rebound.,50,53,-3,4,0.48966820649190884,0.34102239121709355,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,247,2,10:01,601,601,Isaiah Ross missed Three Point Jumper.,50,53,-3,5,0.48865009253594605,0.34043450560078165,4,3,6,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,248,2,9:58,598,598,Tyree Pickron Defensive Rebound.,50,53,-3,3,0.4880238556752709,0.34007079392201706,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,249,2,9:41,581,581,Matt Balanc missed Layup.,50,53,-3,17,0.48422941103646255,0.33783397527036363,4,3,6,NA,NA,Quinnipiac,missed,Matt Balanc,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,250,2,9:41,581,581,Tajuan Agee Block.,50,53,-3,0,0.48422941103646255,0.33783397527036363,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,251,2,9:37,577,577,E.J. Crawford Defensive Rebound.,50,53,-3,4,0.4832692429419733,0.337259477435593,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,252,2,9:35,575,575,Isaiah Washington made Jumper.,52,53,-1,2,0.5944326893431913,0.443833877882457,4,3,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,253,2,9:17,557,557,Kevin Marfo missed Layup.,52,53,-1,18,0.5919230540721131,0.44276427329052975,4,3,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,254,2,9:14,554,554,E.J. Crawford Defensive Rebound.,52,53,-1,3,0.5914754984830694,0.4425684757582806,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,255,2,8:57,537,537,Tajuan Agee Turnover.,52,53,-1,17,0.5889433186652527,0.44147367691676986,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,256,2,8:57,537,537,Kevin Marfo Steal.,52,53,-1,0,0.5889433186652527,0.44147367691676986,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,257,2,8:51,531,531,Tyrese Williams missed Three Point Jumper.,52,53,-1,6,0.5881075319934148,0.44113060432685314,4,3,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,258,2,8:47,527,527,Isaiah Ross Defensive Rebound.,52,53,-1,4,0.5875639966670345,0.4409121998764276,4,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,259,2,8:26,506,506,E.J. Crawford made Three Point Jumper.,55,53,2,21,0.7441972406955969,0.6185867594952554,4,3,6,NA,NA,Iona,made,E.J. Crawford,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,260,2,8:23,503,503,Iona  Timeout,55,53,2,3,0.7442340524754855,0.6188684181490371,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,261,2,8:23,503,503,Official TV Timeout,55,53,2,0,0.7442340524754855,0.6188684181490371,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,262,2,7:59,479,479,Kevin Marfo missed Layup.,55,53,2,24,0.7445828130964111,0.6212266569255211,3,3,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,263,2,7:59,479,479,E.J. Crawford Block.,55,53,2,0,0.7445828130964111,0.6212266569255211,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,264,2,7:52,472,472,Kevin Marfo Offensive Rebound.,55,53,2,7,0.7447306177966105,0.6219947670630694,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,265,2,7:52,472,472,Kevin Marfo missed Layup.,55,53,2,0,0.7447306177966105,0.6219947670630694,3,3,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,266,2,7:51,471,471,E.J. Crawford Defensive Rebound.,55,53,2,1,0.7447543981889425,0.6221090168863457,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,267,2,7:42,462,462,Isaiah Ross missed Three Point Jumper.,55,53,2,9,0.7450041646047735,0.6231973820289411,3,3,6,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,268,2,7:37,457,457,Kevin Marfo Defensive Rebound.,55,53,2,5,0.7451746637003535,0.6238551239199954,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,269,2,7:21,441,441,Rich Kelly missed Layup.,55,53,2,16,0.745910238375808,0.62627519960152,3,3,6,NA,NA,Quinnipiac,missed,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,270,2,7:21,441,441,Dylan van Eyck Block.,55,53,2,0,0.745910238375808,0.62627519960152,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,271,2,7:18,438,438,Dylan van Eyck Defensive Rebound.,55,53,2,3,0.7460854567579688,0.6267905898391068,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,272,2,7:12,432,432,Isaiah Washington made Layup.,57,53,4,6,0.832447254721987,0.7400698008941765,3,3,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,273,2,6:47,407,407,Foul on Tajuan Agee.,57,53,4,25,0.8362348490775872,0.7475293743283881,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,274,2,6:47,407,407,Quinnipiac  Timeout,57,53,4,0,0.8362348490775872,0.7475293743283881,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,275,2,6:37,397,397,Jacob Rigoni missed Three Point Jumper.,57,53,4,10,0.8375482351716439,0.7502756146252284,3,2,6,NA,NA,Quinnipiac,missed,Jacob Rigoni,NA,TRUE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,276,2,6:34,394,394,Matt Balanc Offensive Rebound.,57,53,4,3,0.8379334571109418,0.7510916164233586,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,277,2,6:24,384,384,Kevin Marfo missed Layup.,57,53,4,10,0.8392157953985233,0.7538228626262834,3,2,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,278,2,6:22,382,382,Kevin Marfo Offensive Rebound.,57,53,4,2,0.8394752103192432,0.7543756156527077,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,279,2,6:21,381,381,Kevin Marfo made Layup.,57,55,2,1,0.7490409243714414,0.6368673057703607,3,2,6,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,280,2,6:02,362,362,E.J. Crawford made Layup.,59,55,4,19,0.8422481726594797,0.7601907426531589,3,2,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,281,2,5:41,341,341,Tyrese Williams made Three Point Jumper. Assisted by Kevin Marfo.,59,58,1,21,0.6915665364545006,0.5740155589293865,3,2,6,NA,NA,Quinnipiac,made,Tyrese Williams,Kevin Marfo,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,282,2,5:14,314,314,Foul on Kevin Marfo.,59,58,1,27,0.6915288435371973,0.5780190163717189,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,283,2,5:10,310,310,Tajuan Agee missed Layup.,59,58,1,4,0.6916035813754214,0.5787254827842792,3,2,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,284,2,5:07,307,307,Jacob Rigoni Defensive Rebound.,59,58,1,3,0.6916285402262796,0.5792205445127769,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,285,2,4:57,297,297,Tyrese Williams missed Three Point Jumper.,59,58,1,10,0.6911829407100478,0.5802521136653501,3,2,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,286,2,4:51,291,291,Isaiah Washington Defensive Rebound.,59,58,1,6,0.6905809270740276,0.5804827301655872,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,287,2,4:46,286,286,Isaiah Washington made Layup.,61,58,3,5,0.8099021493515309,0.7260005946027349,3,2,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,288,2,4:28,268,268,Kevin Marfo missed Layup.,61,58,3,18,0.8065135047850934,0.723898820849383,3,2,6,NA,NA,Quinnipiac,missed,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,289,2,4:28,268,268,Dylan van Eyck Block.,61,58,3,0,0.8065135047850934,0.723898820849383,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,290,2,4:25,265,265,Dylan van Eyck Defensive Rebound.,61,58,3,3,0.8057942006981221,0.7233596799505889,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,291,2,4:13,253,253,Isaiah Washington missed Three Point Jumper.,61,58,3,12,0.8028869062122962,0.7212054404751315,3,2,6,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,292,2,4:09,249,249,Rich Kelly Defensive Rebound.,61,58,3,4,0.8019941562975941,0.7206006215046452,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,293,2,4:07,247,247,Tyrese Williams made Layup. Assisted by Rich Kelly.,61,60,1,2,0.6825294922381666,0.5781984461849169,3,2,6,NA,NA,Quinnipiac,made,Tyrese Williams,Rich Kelly,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,294,2,3:54,234,234,Foul on Tajuan Agee.,61,60,1,13,0.6803749283895859,0.577924846939442,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,295,2,3:54,234,234,Tajuan Agee Turnover.,61,60,1,0,0.6803749283895859,0.577924846939442,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,296,2,3:54,234,234,Official TV Timeout,61,60,1,0,0.6803749283895859,0.577924846939442,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,297,2,3:37,217,217,Rich Kelly made Three Point Jumper. Assisted by Tyrese Williams.,61,63,-2,17,0.44760736427924724,0.34538099142673745,3,2,6,NA,NA,Quinnipiac,made,Rich Kelly,Tyrese Williams,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,298,2,3:07,187,187,Tajuan Agee missed Layup.,61,63,-2,30,0.4214020090735442,0.32692755308115856,3,2,6,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,299,2,3:05,185,185,Tyrese Williams Defensive Rebound.,61,63,-2,2,0.41894812729475345,0.32509042920426834,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,300,2,2:50,170,170,Tyrese Williams missed Layup.,61,63,-2,15,0.40029746516409775,0.31118785917281727,3,2,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,FALSE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,301,2,2:45,165,165,Kevin Marfo Offensive Rebound.,61,63,-2,5,0.39390311049388793,0.30643282813851236,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,302,2,2:45,165,165,Kevin Marfo made Layup.,61,65,-4,0,0.22308390349810076,0.1633242595549808,3,2,6,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,303,2,2:42,162,162,Foul on Kevin Marfo.,61,65,-4,3,0.21792135877076366,0.15962048880537008,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,304,2,2:32,152,152,E.J. Crawford missed Jumper.,61,65,-4,10,0.20065216310801676,0.14724286003922865,3,2,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,305,2,2:30,150,150,Tyrese Williams Defensive Rebound.,61,65,-4,2,0.19717971541031307,0.1447549659713502,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,306,2,2:07,127,127,Tyrese Williams missed Three Point Jumper.,61,65,-4,23,0.15666606871358912,0.11570113945906409,3,2,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,307,2,2:04,124,124,Iona Defensive Rebound.,61,65,-4,3,0.1513198101370749,0.1118594592650673,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,308,2,1:42,102,102,Foul on Aaron Falzon.,61,65,-4,22,0.1123738142634156,0.0837837280075755,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,309,2,1:40,100,100,Foul on Aaron Falzon.,61,65,-4,2,0.1089117016511399,0.08127847043180728,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,310,2,1:40,100,100,E.J. Crawford missed Free Throw.,61,65,-4,0,0.1089117016511399,0.08127847043180728,3,2,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,311,2,1:38,98,98,Kevin Marfo Defensive Rebound.,61,65,-4,2,0.10547315367973309,0.07878840329132071,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,312,2,1:11,71,71,Rich Kelly made Layup.,61,67,-6,27,0.015586213817617796,0.01168903636763958,3,2,6,NA,NA,Quinnipiac,made,Rich Kelly,NA,FALSE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,313,2,1:07,67,67,Isaiah Washington missed Three Point Jumper.,61,67,-6,4,0.013749185321886548,0.010352744722040041,3,2,6,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,314,2,1:03,63,63,E.J. Crawford Offensive Rebound.,61,67,-6,4,0.012098521172033383,0.009147273742703242,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,315,2,1:03,63,63,Foul on Rich Kelly.,61,67,-6,0,0.012098521172033383,0.009147273742703242,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,316,2,1:03,63,63,E.J. Crawford made Free Throw.,62,67,-5,0,0.026042240619312547,0.01975766397508006,3,2,6,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,317,2,1:02,62,62,E.J. Crawford missed Free Throw.,62,67,-5,1,0.025353617843039827,0.019253541270636203,3,2,6,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,TRUE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,318,2,1:01,61,61,Kevin Marfo Defensive Rebound.,62,67,-5,1,0.024679501876855938,0.018759600563079737,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,319,2,0:35,35,35,Tyrese Williams missed Three Point Jumper.,62,67,-5,26,0.011525276362471958,0.009002833235275867,3,2,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,TRUE,FALSE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,320,2,0:30,30,30,Isaiah Ross Defensive Rebound.,62,67,-5,5,0.009820822256972901,0.007715303838717683,3,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,321,2,0:27,27,27,Isaiah Washington made Layup. Assisted by Tajuan Agee.,64,67,-3,3,0.061150453169546384,0.04875167572884788,3,2,6,NA,NA,Iona,made,Isaiah Washington,Tajuan Agee,FALSE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,322,2,0:27,27,27,Iona  Timeout,64,67,-3,0,0.061150453169546384,0.04875167572884788,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,323,2,0:26,26,26,Foul on Isaiah Ross.,64,67,-3,1,0.05999174589851695,0.04787241191101555,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,324,2,0:26,26,26,Kevin Marfo made Free Throw.,64,68,-4,0,0.02301328135361196,0.018219424227875085,2,2,6,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,TRUE,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,325,2,0:26,26,26,Kevin Marfo made Free Throw.,64,69,-5,0,0.008619071833024806,0.006802769654506407,2,2,6,NA,NA,Quinnipiac,made,Kevin Marfo,NA,FALSE,TRUE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,326,2,0:18,18,18,Foul on Tyrese Williams.,64,69,-5,8,0.006587703097820486,0.005249262862085543,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,327,2,0:18,18,18,Isaiah Washington made Free Throw.,65,69,-4,0,0.018577349545581778,0.01483933046050439,2,2,6,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,328,2,0:18,18,18,Isaiah Washington missed Free Throw.,65,69,-4,0,0.018577349545581778,0.01483933046050439,2,2,6,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,329,2,0:14,14,14,E.J. Crawford Offensive Rebound.,65,69,-4,4,0.016610221681257968,0.013329460440830233,2,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401171995,2020-03-04,Iona,Quinnipiac,330,2,0:10,10,10,Isaiah Ross made Three Point Jumper. Assisted by Isaiah Washington.,68,69,-1,4,0.2919874997656763,0.24899498333728412,2,2,6,NA,NA,Iona,made,Isaiah Ross,Isaiah Washington,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,331,2,0:10,10,10,Iona  Timeout,68,69,-1,0,0.2919874997656763,0.24899498333728412,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,332,2,0:09,9,9,Foul on Isaiah Ross.,68,69,-1,1,0.2902620344204686,0.24767571268535712,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,333,2,0:09,9,9,Tyrese Williams missed Free Throw.,68,69,-1,0,0.2902620344204686,0.24767571268535712,1,2,6,NA,NA,Quinnipiac,missed,Tyrese Williams,NA,FALSE,TRUE,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,334,2,0:07,7,7,Tajuan Agee Defensive Rebound.,68,69,-1,2,0.2868062909818879,0.24503207300114177,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,Iona
+401171995,2020-03-04,Iona,Quinnipiac,335,2,0:01,1,1,Isaiah Ross missed Three Point Jumper.,68,69,-1,6,0.2764311861059128,0.23708537434148508,1,2,6,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,336,2,0:00,0,0,Quinnipiac Defensive Rebound.,68,69,-1,1,0,0,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Quinnipiac
+401171995,2020-03-04,Iona,Quinnipiac,337,2,0:00,0,0,End of 2nd half,68,69,-1,0,0,0,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA
+401171995,2020-03-04,Iona,Quinnipiac,338,2,0:00,0,0,End of Game,68,69,-1,0,0,0,1,2,6,NA,NA,NA,NA,NA,NA,NA,NA,Quinnipiac,NA

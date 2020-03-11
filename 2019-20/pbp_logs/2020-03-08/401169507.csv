@@ -1,0 +1,357 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401169507,2020-03-08,Houston,Memphis,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.8090546505682268,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Houston
+401169507,2020-03-08,Houston,Memphis,2,1,19:37,2377,2377,DeJon Jarreau missed Jumper.,0,0,0,23,0.8085381686205355,0.5,4,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,3,1,19:34,2374,2374,Precious Achiuwa Defensive Rebound.,0,0,0,3,0.8084696707264399,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,4,1,19:09,2349,2349,Boogie Ellis missed Three Point Jumper.,0,0,0,25,0.8078884384162305,0.5,4,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,5,1,19:05,2345,2345,Fabian White Jr. Defensive Rebound.,0,0,0,4,0.8077936868745366,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,6,1,18:47,2327,2327,DeJon Jarreau missed Jumper.,0,0,0,18,0.8073611735327783,0.5,4,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,7,1,18:44,2324,2324,Fabian White Jr. Offensive Rebound.,0,0,0,3,0.8072881004003912,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,8,1,18:42,2322,2322,Marcus Sasser missed Three Point Jumper.,0,0,0,2,0.8072392264438082,0.5,4,4,9,NA,NA,Houston,missed,Marcus Sasser,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,9,1,18:39,2319,2319,Boogie Ellis Defensive Rebound.,0,0,0,3,0.8071656767760794,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,10,1,18:31,2311,2311,Lester Quinones missed Jumper.,0,0,0,8,0.8069681348739669,0.5,4,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,11,1,18:27,2307,2307,Precious Achiuwa Offensive Rebound.,0,0,0,4,0.80686858952207,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,12,1,18:26,2306,2306,Precious Achiuwa made Layup.,0,2,-2,1,0.7764138294567566,0.4539456613451718,4,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,13,1,18:15,2295,2295,Nate Hinton missed Jumper.,0,2,-2,11,0.7759342364469641,0.4537013997188336,4,4,9,NA,NA,Houston,missed,Nate Hinton,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,14,1,18:12,2292,2292,Boogie Ellis Defensive Rebound.,0,2,-2,3,0.7758024466729923,0.45363457052289796,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,15,1,18:03,2283,2283,Precious Achiuwa missed Three Point Jumper.,0,2,-2,9,0.7754045178550694,0.4534335585723665,4,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,16,1,17:58,2278,2278,Nate Hinton Defensive Rebound.,0,2,-2,5,0.7751817827993053,0.45332155583379324,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,17,1,17:55,2275,2275,Fabian White Jr. made Jumper. Assisted by Nate Hinton.,2,2,0,3,0.8060532437641313,0.5,4,4,9,NA,NA,Houston,made,Fabian White Jr.,Nate Hinton,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,18,1,17:34,2254,2254,Lester Quinones missed Three Point Jumper.,2,2,0,21,0.8054993309758772,0.5,4,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,19,1,17:30,2250,2250,Nate Hinton Defensive Rebound.,2,2,0,4,0.8053920853811709,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,20,1,17:25,2245,2245,Nate Hinton Turnover.,2,2,0,5,0.8052572352399966,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,21,1,17:25,2245,2245,Lester Quinones Steal.,2,2,0,0,0.8052572352399966,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,22,1,17:09,2229,2229,Lester Quinones Turnover.,2,2,0,16,0.8048197245280303,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,23,1,16:54,2214,2214,Nate Hinton made Jumper. Assisted by DeJon Jarreau.,4,2,2,15,0.8330152445742405,0.5481298438615707,4,4,9,NA,NA,Houston,made,Nate Hinton,DeJon Jarreau,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,24,1,16:37,2197,2197,Boogie Ellis missed Three Point Jumper.,4,2,2,17,0.8328062848830579,0.5485198744639151,4,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,25,1,16:33,2193,2193,Precious Achiuwa Offensive Rebound.,4,2,2,4,0.8327559323906261,0.5486118585662413,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,26,1,16:32,2192,2192,Precious Achiuwa missed Jumper.,4,2,2,1,0.8327432724496504,0.5486348662607666,4,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,27,1,16:32,2192,2192,DeJon Jarreau Block.,4,2,2,0,0.8327432724496504,0.5486348662607666,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,28,1,16:28,2188,2188,Precious Achiuwa Offensive Rebound.,4,2,2,4,0.8326923433603572,0.548726942141186,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,29,1,16:27,2187,2187,Precious Achiuwa missed Jumper.,4,2,2,1,0.8326795384140298,0.5487499721246489,4,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,30,1,16:27,2187,2187,Fabian White Jr. Block.,4,2,2,0,0.8326795384140298,0.5487499721246489,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,31,1,16:23,2183,2183,Fabian White Jr. Defensive Rebound.,4,2,2,4,0.8326280258747241,0.548842134538738,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,32,1,16:14,2174,2174,Fabian White Jr. missed Jumper.,4,2,2,9,0.8325103912889967,0.5490497341659156,4,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,33,1,16:10,2170,2170,Fabian White Jr. Offensive Rebound.,4,2,2,4,0.8324573296083865,0.5491420970299754,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,34,1,16:10,2170,2170,Foul on Damion Baugh.,4,2,2,0,0.8324573296083865,0.5491420970299754,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,35,1,16:10,2170,2170,Fabian White Jr. missed Free Throw.,4,2,2,0,0.8324573296083865,0.5491420970299754,4,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,36,1,16:10,2170,2170,Houston Offensive Rebound.,4,2,2,0,0.8324573296083865,0.5491420970299754,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,37,1,16:10,2170,2170,Fabian White Jr. made Free Throw.,5,2,3,0,0.8457626880132297,0.5734173134835795,4,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,38,1,15:52,2152,2152,Alex Lomax Turnover.,5,2,3,18,0.8456443419225254,0.574035172682011,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,39,1,15:52,2152,2152,Marcus Sasser Steal.,5,2,3,0,0.8456443419225254,0.574035172682011,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,40,1,15:52,2152,2152,Foul on Alex Lomax.,5,2,3,0,0.8456443419225254,0.574035172682011,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,41,1,15:52,2152,2152,Official TV Timeout,5,2,3,0,0.8456443419225254,0.574035172682011,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,42,1,15:29,2129,2129,Marcus Sasser missed Three Point Jumper.,5,2,3,23,0.8454831792008114,0.5748299713663794,4,4,9,NA,NA,Houston,missed,Marcus Sasser,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,43,1,15:23,2123,2123,Lester Quinones Defensive Rebound.,5,2,3,6,0.8454393695866042,0.5750383573438757,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,44,1,15:20,2120,2120,Foul on Marcus Sasser.,5,2,3,3,0.84541719769126,0.5751427199016728,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,45,1,15:04,2104,2104,Precious Achiuwa missed Jumper.,5,2,3,16,0.8452960030864496,0.5757012915759318,4,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,46,1,15:04,2104,2104,Chris Harris Jr. Block.,5,2,3,0,0.8452960030864496,0.5757012915759318,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,47,1,15:04,2104,2104,Memphis Offensive Rebound.,5,2,3,0,0.8452960030864496,0.5757012915759318,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,48,1,14:56,2096,2096,Malcolm Dandridge Turnover.,5,2,3,8,0.84523358890076,0.575981864836449,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,49,1,14:56,2096,2096,Marcus Sasser Steal.,5,2,3,0,0.84523358890076,0.575981864836449,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,50,1,14:52,2092,2092,Marcus Sasser missed Layup.,5,2,3,4,0.8452019386879085,0.5761224842926601,4,4,9,NA,NA,Houston,missed,Marcus Sasser,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,51,1,14:49,2089,2089,Quentin Grimes Offensive Rebound.,5,2,3,3,0.8451780097663044,0.5762280970650242,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,52,1,14:45,2085,2085,Quentin Grimes missed Three Point Jumper.,5,2,3,4,0.8451458520675909,0.5763691141788408,4,4,9,NA,NA,Houston,missed,Quentin Grimes,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,53,1,14:40,2080,2080,Alex Lomax Defensive Rebound.,5,2,3,5,0.8451052536541822,0.5765457115339635,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,54,1,14:38,2078,2078,Foul on Marcus Sasser.,5,2,3,2,0.8450888907167937,0.5766164531407736,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,55,1,14:38,2078,2078,Alex Lomax made Free Throw.,5,3,2,0,0.8311253750112011,0.5513019628263349,4,4,9,NA,NA,Memphis,made,Alex Lomax,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,56,1,14:38,2078,2078,Alex Lomax made Free Throw.,5,4,1,0,0.8161769852181684,0.5257188497269558,4,4,9,NA,NA,Memphis,made,Alex Lomax,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,57,1,14:23,2063,2063,Foul on Tyler Harris.,5,4,1,15,0.8158153910559075,0.5259001561376713,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,58,1,14:22,2062,2062,Foul on Malcolm Dandridge.,5,4,1,1,0.8157910597272997,0.5259122868853792,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,59,1,14:16,2056,2056,Caleb Mills missed Jumper.,5,4,1,6,0.8156444857772585,0.5259851885865764,4,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,60,1,14:13,2053,2053,Fabian White Jr. Offensive Rebound.,5,4,1,3,0.8155708235009125,0.5260217155563577,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,61,1,14:11,2051,2051,Fabian White Jr. missed Layup.,5,4,1,2,0.8155215768866025,0.5260460953741875,4,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,62,1,14:08,2048,2048,Tyler Harris Defensive Rebound.,5,4,1,3,0.8154474999428288,0.5260827081986277,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,63,1,14:03,2043,2043,Tyler Harris missed Three Point Jumper.,5,4,1,5,0.8153234883881314,0.5261438456356039,4,4,9,NA,NA,Memphis,missed,Tyler Harris,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,64,1,13:59,2039,2039,Fabian White Jr. Defensive Rebound.,5,4,1,4,0.8152237864068048,0.5261928612683224,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,65,1,13:50,2030,2030,Caleb Mills missed Layup.,5,4,1,9,0.8149978665161602,0.5263034958909744,4,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,66,1,13:48,2028,2028,Precious Achiuwa Defensive Rebound.,5,4,1,2,0.8149473647606967,0.5263281480078289,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,67,1,13:44,2024,2024,Precious Achiuwa made Dunk. Assisted by Alex Lomax.,5,6,-1,4,0.7808446168492572,0.4736224740327764,4,4,9,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,68,1,13:24,2004,2004,Chris Harris Jr. made Jumper. Assisted by DeJon Jarreau.,7,6,1,20,0.8143330243549542,0.5266259256986086,4,4,9,NA,NA,Houston,made,Chris Harris Jr.,DeJon Jarreau,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,69,1,12:54,1974,1974,Alex Lomax Turnover.,7,6,1,30,0.8135439771029201,0.5270034736865027,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,70,1,12:54,1974,1974,Caleb Mills Steal.,7,6,1,0,0.8135439771029201,0.5270034736865027,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,71,1,12:47,1967,1967,Caleb Mills missed Jumper.,7,6,1,7,0.8133565726069091,0.5270924645208734,4,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,72,1,12:44,1964,1964,Boogie Ellis Defensive Rebound.,7,6,1,3,0.8132758812792158,0.5271307106723907,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,73,1,12:40,1960,1960,Foul on DeJon Jarreau.,7,6,1,4,0.8131679448228945,0.527181806727034,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,74,1,12:40,1960,1960,Boogie Ellis made Free Throw.,7,7,0,0,0.7960671910743731,0.5,4,4,9,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,75,1,12:39,1959,1959,Boogie Ellis missed Free Throw.,7,7,0,1,0.7960299578250899,0.5,4,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,76,1,12:38,1958,1958,Quentin Grimes Defensive Rebound.,7,7,0,1,0.795992691553866,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,77,1,12:25,1945,1945,DeJon Jarreau Turnover.,7,7,0,13,0.795505233916723,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,78,1,12:25,1945,1945,Lester Quinones Steal.,7,7,0,0,0.795505233916723,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,79,1,12:09,1929,1929,Lester Quinones missed Three Point Jumper.,7,7,0,16,0.7948976858268684,0.5,4,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,80,1,12:05,1925,1925,Tyler Harris Offensive Rebound.,7,7,0,4,0.7947443271920729,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,81,1,11:51,1911,1911,Boogie Ellis missed Jumper.,7,7,0,14,0.7942017420031139,0.5,4,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,82,1,11:49,1909,1909,Nate Hinton Defensive Rebound.,7,7,0,2,0.7941234986000695,0.5,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,83,1,11:45,1905,1905,DeJon Jarreau made Layup. Assisted by Nate Hinton.,9,7,2,4,0.8281230263706221,0.5556140519468978,4,4,9,NA,NA,Houston,made,DeJon Jarreau,Nate Hinton,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,84,1,11:16,1876,1876,Tyler Harris Turnover.,9,7,2,29,0.827545166469896,0.5563594356283966,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,85,1,11:16,1876,1876,Official TV Timeout,9,7,2,0,0.827545166469896,0.5563594356283966,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,86,1,10:55,1855,1855,Caleb Mills missed Jumper.,9,7,2,21,0.827109794941225,0.5569004682546363,4,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,87,1,10:51,1851,1851,Justin Gorham Offensive Rebound.,9,7,2,4,0.8270254085387536,0.5570037814525133,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,88,1,10:39,1839,1839,Nate Hinton made Jumper.,11,7,4,12,0.8573159337678643,0.6131421406154302,4,4,9,NA,NA,Houston,made,Nate Hinton,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,89,1,10:23,1823,1823,Lance Thomas missed Three Point Jumper.,11,7,4,16,0.8572263967223162,0.6139420345325227,4,4,9,NA,NA,Memphis,missed,Lance Thomas,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,90,1,10:21,1821,1821,Justin Gorham Defensive Rebound.,11,7,4,2,0.857214967577935,0.6140423435420265,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,91,1,10:21,1821,1821,Foul on Lester Quinones.,11,7,4,0,0.857214967577935,0.6140423435420265,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,92,1,10:04,1804,1804,Nate Hinton made Jumper.,13,7,6,17,0.8834501827793801,0.6686143978318136,4,4,9,NA,NA,Houston,made,Nate Hinton,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,93,1,9:53,1793,1793,Memphis  Timeout,13,7,6,11,0.8835166124839678,0.6693968273592321,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,94,1,9:34,1774,1774,Lester Quinones made Three Point Jumper.,13,10,3,19,0.8417724607932342,0.588025528980471,3,4,9,NA,NA,Memphis,made,Lester Quinones,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,95,1,9:13,1753,1753,Caleb Mills missed Layup.,13,10,3,21,0.8414818108351819,0.588861613376298,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,96,1,9:13,1753,1753,Precious Achiuwa Block.,13,10,3,0,0.8414818108351819,0.588861613376298,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,97,1,9:12,1752,1752,Brison Gresham Offensive Rebound.,13,10,3,1,0.8414679282104843,0.5889017545660549,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,98,1,9:12,1752,1752,Foul on Damion Baugh.,13,10,3,0,0.8414679282104843,0.5889017545660549,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,99,1,9:12,1752,1752,Brison Gresham made Free Throw.,14,10,4,0,0.8568046334599544,0.6175674962378941,3,4,9,NA,NA,Houston,made,Brison Gresham,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,100,1,9:11,1751,1751,Brison Gresham missed Free Throw.,14,10,4,1,0.856798649991188,0.6176197497490395,3,4,9,NA,NA,Houston,missed,Brison Gresham,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,101,1,9:10,1750,1750,Precious Achiuwa Defensive Rebound.,14,10,4,1,0.8567926709121354,0.6176720433401772,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,102,1,8:52,1732,1732,Precious Achiuwa missed Layup.,14,10,4,18,0.8566860607533024,0.618620508064602,3,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,103,1,8:49,1729,1729,Caleb Mills Defensive Rebound.,14,10,4,3,0.8566685323043087,0.6187799742081802,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,104,1,8:43,1723,1723,Quentin Grimes Turnover.,14,10,4,6,0.8566337371194301,0.6191001661469058,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,105,1,8:35,1715,1715,Precious Achiuwa made Dunk. Assisted by Alex Lomax.,14,12,2,8,0.823966951005195,0.5606440865252885,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,106,1,8:27,1707,1707,Foul on Boogie Ellis.,14,12,2,8,0.8237805841571364,0.5608702891106181,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,107,1,8:27,1707,1707,Caleb Mills made Free Throw.,15,12,3,0,0.840844057666073,0.5907440864683178,3,4,9,NA,NA,Houston,made,Caleb Mills,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,108,1,8:27,1707,1707,Caleb Mills made Free Throw.,16,12,4,0,0.8565429948565898,0.6199626397229718,3,4,9,NA,NA,Houston,made,Caleb Mills,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,109,1,8:18,1698,1698,Precious Achiuwa Turnover.,16,12,4,9,0.8564935283453309,0.6204536264388337,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,110,1,8:05,1685,1685,Quentin Grimes made Jumper.,18,12,6,13,0.8842338154689343,0.6773825384771891,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,111,1,7:42,1662,1662,Lester Quinones made Jumper.,18,14,4,23,0.856264821512457,0.6224080209745264,3,4,9,NA,NA,Memphis,made,Lester Quinones,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,112,1,7:24,1644,1644,Quentin Grimes Turnover.,18,14,4,18,0.8561106256799643,0.6233535088745045,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,113,1,7:24,1644,1644,Lester Quinones Steal.,18,14,4,0,0.8561106256799643,0.6233535088745045,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,114,1,7:06,1626,1626,Precious Achiuwa made Layup. Assisted by Alex Lomax.,18,16,2,18,0.8217199026813896,0.5631329116856477,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,115,1,6:39,1599,1599,Nate Hinton missed Jumper.,18,16,2,27,0.8209392435492601,0.5638581035199477,3,4,9,NA,NA,Houston,missed,Nate Hinton,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,116,1,6:37,1597,1597,Houston Offensive Rebound.,18,16,2,2,0.8208801639759825,0.5639117441892415,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,117,1,6:37,1597,1597,Official TV Timeout,18,16,2,0,0.8208801639759825,0.5639117441892415,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,118,1,6:24,1584,1584,DeJon Jarreau missed Jumper.,18,16,2,13,0.8204928576654416,0.564260889012344,3,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,119,1,6:20,1580,1580,Alex Lomax Defensive Rebound.,18,16,2,4,0.8203726860595401,0.5643686024277282,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,120,1,6:14,1574,1574,Lester Quinones made Three Point Jumper. Assisted by Alex Lomax.,18,19,-1,6,0.7555235667588472,0.467599236466821,3,4,9,NA,NA,Memphis,made,Lester Quinones,Alex Lomax,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,121,1,6:03,1563,1563,Fabian White Jr. missed Jumper.,18,19,-1,11,0.7547688904397304,0.46744812505622324,3,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,122,1,6:00,1560,1560,Tyler Harris Defensive Rebound.,18,19,-1,3,0.7545620303965084,0.4674066980134962,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,123,1,5:41,1541,1541,Lance Thomas made Jumper. Assisted by Precious Achiuwa.,18,21,-3,19,0.7011399650238825,0.4025454013762496,3,4,9,NA,NA,Memphis,made,Lance Thomas,Precious Achiuwa,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,124,1,5:26,1526,1526,Quentin Grimes missed Three Point Jumper.,18,21,-3,15,0.6995924321618836,0.40192651821776454,3,4,9,NA,NA,Houston,missed,Quentin Grimes,NA,TRUE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,125,1,5:24,1524,1524,Houston Offensive Rebound.,18,21,-3,2,0.6993846465634792,0.40184304013233096,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,126,1,5:17,1517,1517,Caleb Mills missed Jumper.,18,21,-3,7,0.698654662811989,0.4015488886671797,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,127,1,5:13,1513,1513,Fabian White Jr. Offensive Rebound.,18,21,-3,4,0.6982356001722998,0.4013793454408587,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,128,1,5:13,1513,1513,Fabian White Jr. made Layup.,20,21,-1,0,0.7512688063573614,0.4667390987652925,3,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,129,1,5:02,1502,1502,Lester Quinones missed Three Point Jumper.,20,21,-1,11,0.7504853996906222,0.46657603003019127,3,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,130,1,4:59,1499,1499,DeJon Jarreau Defensive Rebound.,20,21,-1,3,0.7502710156855716,0.4665309905524671,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,131,1,4:51,1491,1491,Fabian White Jr. missed Layup.,20,21,-1,8,0.7496978810674001,0.46640961053711316,3,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,132,1,4:50,1490,1490,Lance Thomas Defensive Rebound.,20,21,-1,1,0.7496260960841251,0.4663943027304876,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,133,1,4:50,1490,1490,Foul on Chris Harris Jr..,20,21,-1,0,0.7496260960841251,0.4663943027304876,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,134,1,4:26,1466,1466,Lance Thomas missed Three Point Jumper.,20,21,-1,24,0.7478945473001846,0.4660169907654781,3,4,9,NA,NA,Memphis,missed,Lance Thomas,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,135,1,4:23,1463,1463,Fabian White Jr. Defensive Rebound.,20,21,-1,3,0.7476770242423961,0.46596838338565427,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,136,1,4:10,1450,1450,DeJon Jarreau missed Jumper.,20,21,-1,13,0.746732008451917,0.46575366511593214,3,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,137,1,4:08,1448,1448,Chris Harris Jr. Offensive Rebound.,20,21,-1,2,0.7465862498183613,0.4657201797752557,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,138,1,4:07,1447,1447,Chris Harris Jr. Turnover.,20,21,-1,1,0.7465133047608,0.4657034948788368,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,139,1,4:07,1447,1447,Boogie Ellis Steal.,20,21,-1,0,0.7465133047608,0.4657034948788368,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,140,1,3:50,1430,1430,Boogie Ellis missed Three Point Jumper.,20,21,-1,17,0.7452664792265978,0.46542524468810226,3,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,141,1,3:50,1430,1430,Chris Harris Jr. Block.,20,21,-1,0,0.7452664792265978,0.46542524468810226,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,142,1,3:44,1424,1424,Boogie Ellis Offensive Rebound.,20,21,-1,6,0.7448233454029228,0.46532920040187814,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,143,1,3:40,1420,1420,Precious Achiuwa made Three Point Jumper. Assisted by Boogie Ellis.,20,24,-4,4,0.657494474093239,0.36432404068248336,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,Boogie Ellis,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,144,1,3:24,1404,1404,Caleb Mills missed Jumper.,20,24,-4,16,0.6554018226907753,0.36339240336108625,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,145,1,3:21,1401,1401,Fabian White Jr. Offensive Rebound.,20,24,-4,3,0.6550091688629888,0.3632198330072369,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,146,1,3:20,1400,1400,Foul on Precious Achiuwa.,20,24,-4,1,0.6548782464111317,0.3631624332966277,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,147,1,3:20,1400,1400,Official TV Timeout,20,24,-4,0,0.6548782464111317,0.3631624332966277,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,148,1,3:20,1400,1400,Fabian White Jr. made Free Throw.,21,24,-3,0,0.6858887404069658,0.3962180784962801,3,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,149,1,3:20,1400,1400,Fabian White Jr. made Free Throw.,22,24,-2,0,0.7153240782574567,0.43024976089094946,3,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,150,1,2:51,1371,1371,Precious Achiuwa missed Three Point Jumper.,22,24,-2,29,0.7126166402345626,0.42937658179074,3,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,151,1,2:46,1366,1366,Caleb Mills Defensive Rebound.,22,24,-2,5,0.7121456073280528,0.4292268295666444,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,152,1,2:29,1349,1349,Fabian White Jr. missed Jumper.,22,24,-2,17,0.7105333228539082,0.42871635793598994,3,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,153,1,2:27,1347,1347,Chris Harris Jr. Offensive Rebound.,22,24,-2,2,0.7103424773223955,0.4286560225188059,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,154,1,2:24,1344,1344,Quentin Grimes missed Jumper.,22,24,-2,3,0.7100557235317986,0.4285653559396318,3,4,9,NA,NA,Houston,missed,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,155,1,2:21,1341,1341,Lester Quinones Defensive Rebound.,22,24,-2,3,0.7097683759172329,0.42847447011945483,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,156,1,2:19,1339,1339,Foul on Quentin Grimes.,22,24,-2,2,0.7095764746872867,0.42841374494282813,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,157,1,2:11,1331,1331,Foul on Chris Harris Jr..,22,24,-2,8,0.7088060990341429,0.42816960046610647,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,158,1,2:11,1331,1331,Precious Achiuwa made Free Throw.,22,25,-3,0,0.6780732097230994,0.3931752495931724,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,159,1,2:11,1331,1331,Precious Achiuwa made Free Throw.,22,26,-4,0,0.6457179769720561,0.3592441794054412,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,160,1,1:52,1312,1312,Foul on Lance Thomas.,22,26,-4,19,0.6431170620574824,0.35813497872322597,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,161,1,1:52,1312,1312,Justin Gorham made Free Throw.,23,26,-3,0,0.6758546389815593,0.3923127362311123,3,4,9,NA,NA,Houston,made,Justin Gorham,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,162,1,1:52,1312,1312,Justin Gorham made Free Throw.,24,26,-2,0,0.7069575168124433,0.42757939804014256,3,4,9,NA,NA,Houston,made,Justin Gorham,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,163,1,1:35,1295,1295,Precious Achiuwa made Three Point Jumper.,24,29,-5,17,0.606261203717017,0.3241203384702752,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,164,1,1:15,1275,1275,DeJon Jarreau missed Layup.,24,29,-5,20,0.602977503824113,0.3226274021396302,3,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,165,1,1:13,1273,1273,Nate Hinton Offensive Rebound.,24,29,-5,2,0.6026439264586748,0.32247410568020995,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,166,1,1:05,1265,1265,Justin Gorham missed Three Point Jumper.,24,29,-5,8,0.601299352665337,0.32185281241621333,3,4,9,NA,NA,Houston,missed,Justin Gorham,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,167,1,1:01,1261,1261,Boogie Ellis Defensive Rebound.,24,29,-5,4,0.6006206833004635,0.321537070313414,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,168,1,1:01,1261,1261,Foul on Nate Hinton.,24,29,-5,0,0.6006206833004635,0.321537070313414,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,169,1,1:01,1261,1261,Boogie Ellis made Free Throw.,24,30,-6,0,0.5643188004953534,0.289860758507324,3,4,9,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,170,1,1:00,1260,1260,Boogie Ellis missed Free Throw.,24,30,-6,1,0.5641262787445047,0.2897707569234893,3,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,171,1,0:59,1259,1259,Fabian White Jr. Defensive Rebound.,24,30,-6,1,0.563933423867675,0.2896805050630099,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,172,1,0:42,1242,1242,DeJon Jarreau missed Jumper.,24,30,-6,17,0.5606014919891308,0.2881057335646989,3,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,173,1,0:40,1240,1240,Precious Achiuwa Defensive Rebound.,24,30,-6,2,0.5602025506691312,0.28791515251824995,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,174,1,0:35,1235,1235,Boogie Ellis missed Three Point Jumper.,24,30,-6,5,0.559198444660683,0.28743349205839336,3,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,175,1,0:32,1232,1232,Justin Gorham Defensive Rebound.,24,30,-6,3,0.5585912499301088,0.28714083580479616,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,176,1,0:27,1227,1227,Houston  Timeout,24,30,-6,5,0.5575711551922856,0.28664678371373953,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,177,1,0:06,1206,1206,Caleb Mills missed Jumper.,24,30,-6,21,0.5531756992438337,0.28448508069842743,3,3,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,178,1,0:04,1204,1204,Foul on Boogie Ellis.,24,30,-6,2,0.5527538110804556,0.28427674156511656,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,179,1,0:04,1204,1204,Fabian White Jr. made Free Throw.,25,30,-5,0,0.5904181876707548,0.31659712503424026,3,3,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,180,1,0:04,1204,1204,Fabian White Jr. made Free Throw.,26,30,-4,0,0.6270507916910857,0.3507911162223667,3,3,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,181,1,0:03,1203,1203,Fabian White Jr. Offensive Rebound.,26,30,-4,1,0.6268914349333399,0.35071365163007,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,182,1,0:00,1200,1200,Boogie Ellis Turnover.,26,30,-4,3,0.6264144378339693,0.3504822574627354,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,183,1,0:00,1200,1200,End of 1st half,26,30,-4,0,0.6264144378339693,0.3504822574627354,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,NA
+401169507,2020-03-08,Houston,Memphis,184,2,20:00,1200,1200,PLAY,26,30,-4,0,0.6264144378339693,0.3504822574627354,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,Houston
+401169507,2020-03-08,Houston,Memphis,185,2,19:41,1181,1181,Fabian White Jr. missed Layup.,26,30,-4,19,0.623426039715396,0.3490475311376454,4,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,186,2,19:41,1181,1181,Lance Thomas Block.,26,30,-4,0,0.623426039715396,0.3490475311376454,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,187,2,19:36,1176,1176,Fabian White Jr. Offensive Rebound.,26,30,-4,5,0.6226473470718921,0.3486774442234399,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,188,2,19:35,1175,1175,Fabian White Jr. made Layup.,28,30,-2,1,0.692690907712941,0.42248239486955,4,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,189,2,19:23,1163,1163,Lance Thomas made Three Point Jumper. Assisted by Precious Achiuwa.,28,33,-5,12,0.5829694773397517,0.3129612193915701,4,4,9,NA,NA,Memphis,made,Lance Thomas,Precious Achiuwa,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,190,2,19:07,1147,1147,Chris Harris Jr. missed Layup.,28,33,-5,16,0.5801141820100486,0.3115923509601013,4,4,9,NA,NA,Houston,missed,Chris Harris Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,191,2,19:05,1145,1145,Precious Achiuwa Defensive Rebound.,28,33,-5,2,0.5797579520512992,0.3114221661748439,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,192,2,18:54,1134,1134,Lance Thomas Turnover.,28,33,-5,11,0.5777987327570143,0.31048778901380386,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,193,2,18:31,1111,1111,Foul on Boogie Ellis.,28,33,-5,23,0.5736842412519747,0.30852937961629484,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,194,2,18:16,1096,1096,Foul on Lance Thomas.,28,33,-5,15,0.5709696521605716,0.3072352599204103,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,195,2,18:16,1096,1096,Fabian White Jr. made Free Throw.,29,33,-4,0,0.6102643987111595,0.3428855805868446,4,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,196,2,18:16,1096,1096,Fabian White Jr. missed Free Throw.,29,33,-4,0,0.6102643987111595,0.3428855805868446,4,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,197,2,18:16,1096,1096,Lester Quinones Defensive Rebound.,29,33,-4,0,0.6102643987111595,0.3428855805868446,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,198,2,17:56,1076,1076,Lance Thomas Turnover.,29,33,-4,20,0.6070814844364206,0.3413894922118552,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,199,2,17:56,1076,1076,Nate Hinton Steal.,29,33,-4,0,0.6070814844364206,0.3413894922118552,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,200,2,17:16,1036,1036,Nate Hinton missed Three Point Jumper.,29,33,-4,40,0.6004320635554805,0.3382037271484429,4,4,9,NA,NA,Houston,missed,Nate Hinton,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,201,2,17:16,1036,1036,Precious Achiuwa Defensive Rebound.,29,33,-4,0,0.6004320635554805,0.3382037271484429,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,202,2,17:12,1032,1032,Precious Achiuwa missed Three Point Jumper.,29,33,-4,4,0.5997402086162423,0.3378664791475557,4,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,203,2,17:12,1032,1032,Chris Harris Jr. Defensive Rebound.,29,33,-4,0,0.5997402086162423,0.3378664791475557,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,204,2,17:06,1026,1026,Fabian White Jr. made Jumper.,31,33,-2,6,0.6764648168258074,0.416403241401469,4,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,205,2,16:45,1005,1005,Tyler Harris missed Three Point Jumper.,31,33,-2,21,0.6739389532663803,0.4153830171859313,4,4,9,NA,NA,Memphis,missed,Tyler Harris,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,206,2,16:45,1005,1005,Caleb Mills Defensive Rebound.,31,33,-2,0,0.6739389532663803,0.4153830171859313,4,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,207,2,16:35,995,995,Caleb Mills made Jumper.,33,33,0,10,0.7435080904995085,0.5,4,4,9,NA,NA,Houston,made,Caleb Mills,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,208,2,16:26,986,986,Memphis  Timeout,33,33,0,9,0.7428969455149915,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,209,2,16:03,963,963,Tyler Harris Turnover.,33,33,0,23,0.7413140798308828,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,210,2,16:03,963,963,Nate Hinton Steal.,33,33,0,0,0.7413140798308828,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,211,2,15:55,955,955,Marcus Sasser missed Layup.,33,33,0,8,0.7407775112585994,0.5,3,4,9,NA,NA,Houston,missed,Marcus Sasser,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,212,2,15:55,955,955,Alex Lomax Block.,33,33,0,0,0.7407775112585994,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,213,2,15:55,955,955,Houston Offensive Rebound.,33,33,0,0,0.7407775112585994,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,214,2,15:55,955,955,Official TV Timeout,33,33,0,0,0.7407775112585994,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,215,2,15:39,939,939,Caleb Mills Turnover.,33,33,0,16,0.739741679183293,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,216,2,15:39,939,939,Lester Quinones Steal.,33,33,0,0,0.739741679183293,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,217,2,15:25,925,925,Tyler Harris Turnover.,33,33,0,14,0.7388697998281494,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,218,2,15:25,925,925,Nate Hinton Steal.,33,33,0,0,0.7388697998281494,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,219,2,15:05,905,905,Nate Hinton made Jumper. Assisted by Marcus Sasser.,35,33,2,20,0.8016240109338006,0.5896698153530617,3,4,9,NA,NA,Houston,made,Nate Hinton,Marcus Sasser,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,220,2,14:40,880,880,Alex Lomax Turnover.,35,33,2,25,0.8011226808398714,0.5907312471281638,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,221,2,14:25,865,865,Caleb Mills missed Jumper.,35,33,2,15,0.8008292724836035,0.5913664608539815,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,222,2,14:23,863,863,Justin Gorham Offensive Rebound.,35,33,2,2,0.8007906936663889,0.5914519868396675,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,223,2,14:07,847,847,Fabian White Jr. made Jumper.,37,33,4,16,0.8534852094605961,0.678244484567394,3,4,9,NA,NA,Houston,made,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,224,2,13:54,834,834,Precious Achiuwa made Dunk. Assisted by Lester Quinones.,37,35,2,13,0.8002492345161855,0.5927407790063207,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,Lester Quinones,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,225,2,13:54,834,834,Foul on Nate Hinton.,37,35,2,0,0.8002492345161855,0.5927407790063207,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,226,2,13:54,834,834,Precious Achiuwa made Free Throw.,37,36,1,0,0.7685602121000965,0.5467762259933318,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,227,2,13:40,820,820,Caleb Mills missed Three Point Jumper.,37,36,1,14,0.7680373258079314,0.5471213286580703,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,228,2,13:36,816,816,Boogie Ellis Defensive Rebound.,37,36,1,4,0.7678870310087296,0.5472241446625227,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,229,2,13:28,808,808,Boogie Ellis missed Jumper.,37,36,1,8,0.767584882774538,0.547436223570716,3,4,9,NA,NA,Memphis,missed,Boogie Ellis,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,230,2,13:28,808,808,Memphis Offensive Rebound.,37,36,1,0,0.767584882774538,0.547436223570716,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,231,2,13:28,808,808,Foul on Fabian White Jr..,37,36,1,0,0.767584882774538,0.547436223570716,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,232,2,13:21,801,801,Foul on Marcus Sasser.,37,36,1,7,0.76731850921026,0.5476295042920027,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,233,2,13:21,801,801,Damion Baugh missed Free Throw.,37,36,1,0,0.76731850921026,0.5476295042920027,3,4,9,NA,NA,Memphis,missed,Damion Baugh,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,234,2,13:21,801,801,Memphis Offensive Rebound.,37,36,1,0,0.76731850921026,0.5476295042920027,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,235,2,13:21,801,801,Damion Baugh made Free Throw.,37,37,0,0,0.7314779433173472,0.5,3,4,9,NA,NA,Memphis,made,Damion Baugh,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,236,2,12:53,773,773,Fabian White Jr. missed Jumper.,37,37,0,28,0.7295951156567809,0.5,3,4,9,NA,NA,Houston,missed,Fabian White Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,237,2,12:49,769,769,Damion Baugh Defensive Rebound.,37,37,0,4,0.7293111353947884,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,238,2,12:38,758,758,Foul on Damion Baugh.,37,37,0,11,0.7285077143622479,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,239,2,12:38,758,758,Damion Baugh Turnover.,37,37,0,0,0.7285077143622479,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,240,2,12:26,746,746,Quentin Grimes missed Jumper.,37,37,0,12,0.727590333463882,0.5,3,4,9,NA,NA,Houston,missed,Quentin Grimes,NA,FALSE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,241,2,12:26,746,746,Damion Baugh Block.,37,37,0,0,0.727590333463882,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,242,2,12:26,746,746,Houston Offensive Rebound.,37,37,0,0,0.727590333463882,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,243,2,12:21,741,741,Caleb Mills missed Jumper.,37,37,0,5,0.7271944191387305,0.5,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,244,2,12:17,737,737,Lester Quinones Defensive Rebound.,37,37,0,4,0.7268715548983056,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,245,2,12:04,724,724,Precious Achiuwa missed Jumper.,37,37,0,13,0.7257930006579495,0.5,3,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,246,2,12:01,721,721,Nate Hinton Defensive Rebound.,37,37,0,3,0.7255457799390197,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,247,2,11:58,718,718,Quentin Grimes Turnover.,37,37,0,3,0.7253002225789363,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,248,2,11:58,718,718,Boogie Ellis Steal.,37,37,0,0,0.7253002225789363,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,249,2,11:50,710,710,Foul on Fabian White Jr..,37,37,0,8,0.7246527106144585,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,250,2,11:50,710,710,Official TV Timeout,37,37,0,0,0.7246527106144585,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,251,2,11:50,710,710,Precious Achiuwa made Free Throw.,37,38,-1,0,0.6820088507325031,0.4490177281937526,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,252,2,11:50,710,710,Precious Achiuwa made Free Throw.,37,39,-2,0,0.6360773480836047,0.39908464988583237,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,253,2,11:37,697,697,Nate Hinton made Jumper. Assisted by Quentin Grimes.,39,39,0,13,0.7236187662586844,0.5,3,4,9,NA,NA,Houston,made,Nate Hinton,Quentin Grimes,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,254,2,11:19,679,679,Precious Achiuwa missed Dunk.,39,39,0,18,0.7222097203855918,0.5,3,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,255,2,11:15,675,675,Caleb Mills Defensive Rebound.,39,39,0,4,0.7218980530628551,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,256,2,11:01,661,661,Caleb Mills missed Jumper.,39,39,0,14,0.7208051260272104,0.5,3,4,9,NA,NA,Houston,missed,Caleb Mills,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,257,2,10:57,657,657,Malcolm Dandridge Defensive Rebound.,39,39,0,4,0.7204911638936652,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,258,2,10:50,650,650,Lester Quinones missed Three Point Jumper.,39,39,0,7,0.7199385719028771,0.5,3,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,259,2,10:46,646,646,Caleb Mills Defensive Rebound.,39,39,0,4,0.7196205375347579,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,260,2,10:36,636,636,Nate Hinton missed Three Point Jumper.,39,39,0,10,0.7188161662795042,0.5,3,4,9,NA,NA,Houston,missed,Nate Hinton,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,261,2,10:33,633,633,Damion Baugh Defensive Rebound.,39,39,0,3,0.7185717993836213,0.5,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,262,2,10:30,630,630,Lester Quinones made Layup. Assisted by Boogie Ellis.,39,41,-2,3,0.6235358446789026,0.3937470009501744,3,4,9,NA,NA,Memphis,made,Lester Quinones,Boogie Ellis,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,263,2,10:05,605,605,Chris Harris Jr. missed Layup.,39,41,-2,25,0.61920462761189,0.3918590326870957,3,4,9,NA,NA,Houston,missed,Chris Harris Jr.,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,264,2,10:00,600,600,Malcolm Dandridge Defensive Rebound.,39,41,-2,5,0.61827248499679,0.39144009480292735,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,265,2,9:38,578,578,Lester Quinones missed Three Point Jumper.,39,41,-2,22,0.6138288651229105,0.38937976821980935,3,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,266,2,9:35,575,575,Caleb Mills Defensive Rebound.,39,41,-2,3,0.6131737250052453,0.38906756042498825,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,267,2,9:24,564,564,Quentin Grimes made Three Point Jumper. Assisted by Nate Hinton.,42,41,1,11,0.7566890667014939,0.5567990353076734,3,4,9,NA,NA,Houston,made,Quentin Grimes,Nate Hinton,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,268,2,8:54,534,534,Foul on Lester Quinones.,42,41,1,30,0.7551945788199583,0.5587003823650075,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,269,2,8:54,534,534,Lester Quinones Turnover.,42,41,1,0,0.7551945788199583,0.5587003823650075,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,270,2,8:34,514,514,Quentin Grimes made Jumper.,44,41,3,20,0.8321639508485924,0.6727232871517514,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,271,2,8:11,491,491,Foul on Quentin Grimes.,44,41,3,23,0.8324866507426752,0.6757683635885772,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,272,2,8:11,491,491,Malcolm Dandridge missed Free Throw.,44,41,3,0,0.8324866507426752,0.6757683635885772,3,4,9,NA,NA,Memphis,missed,Malcolm Dandridge,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,273,2,8:11,491,491,Memphis Offensive Rebound.,44,41,3,0,0.8324866507426752,0.6757683635885772,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,274,2,8:11,491,491,Malcolm Dandridge missed Free Throw.,44,41,3,0,0.8324866507426752,0.6757683635885772,3,4,9,NA,NA,Memphis,missed,Malcolm Dandridge,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,275,2,8:10,490,490,Quentin Grimes Defensive Rebound.,44,41,3,1,0.8325021855737051,0.6759045613611845,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,276,2,8:04,484,484,Foul on Damion Baugh.,44,41,3,6,0.8326032675841554,0.6767391433886247,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,277,2,7:50,470,470,Marcus Sasser missed Three Point Jumper.,44,41,3,14,0.832915963107797,0.6788520570232112,3,4,9,NA,NA,Houston,missed,Marcus Sasser,NA,TRUE,FALSE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,278,2,7:47,467,467,Chris Harris Jr. Offensive Rebound.,44,41,3,3,0.8330018053717373,0.679344803103687,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,279,2,7:44,464,464,Quentin Grimes made Three Point Jumper.,47,41,6,3,0.9137913994248348,0.8184985259126829,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,280,2,7:13,433,433,Precious Achiuwa missed Layup.,47,41,6,31,0.9170440619628004,0.8273651695063055,3,4,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,281,2,7:10,430,430,Justin Gorham Defensive Rebound.,47,41,6,3,0.9174520440886634,0.8284184008073894,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,282,2,7:07,427,427,Quentin Grimes missed Three Point Jumper.,47,41,6,3,0.9178610187209663,0.8294762064825741,3,4,9,NA,NA,Houston,missed,Quentin Grimes,NA,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,283,2,7:05,425,425,Precious Achiuwa Defensive Rebound.,47,41,6,2,0.9181247345145613,0.8301654382786446,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,284,2,7:05,425,425,Foul on Justin Gorham.,47,41,6,0,0.9181247345145613,0.8301654382786446,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,285,2,7:05,425,425,Official TV Timeout,47,41,6,0,0.9181247345145613,0.8301654382786446,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,286,2,6:49,409,409,Precious Achiuwa made Layup. Assisted by Tyler Harris.,47,43,4,16,0.87005921538346,0.7469706884700478,3,4,9,NA,NA,Memphis,made,Precious Achiuwa,Tyler Harris,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,287,2,6:28,388,388,Quentin Grimes made Jumper. Assisted by Marcus Sasser.,49,43,6,21,0.9222196123849331,0.8415495955241161,3,4,9,NA,NA,Houston,made,Quentin Grimes,Marcus Sasser,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,288,2,6:00,360,360,Lance Thomas missed Three Point Jumper.,49,43,6,28,0.9252569676356605,0.8501419746810934,3,4,9,NA,NA,Memphis,missed,Lance Thomas,NA,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,289,2,5:56,356,356,DeJon Jarreau Defensive Rebound.,49,43,6,4,0.925747808703931,0.8514778178377014,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,290,2,5:54,354,354,DeJon Jarreau Turnover.,49,43,6,2,0.9260011051109984,0.8521603151974103,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,291,2,5:27,327,327,Tyler Harris missed Jumper.,49,43,6,27,0.9300738136217517,0.8625589367489045,3,4,9,NA,NA,Memphis,missed,Tyler Harris,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,292,2,5:24,324,324,Fabian White Jr. Defensive Rebound.,49,43,6,3,0.9306151413954019,0.8638729292839439,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,293,2,5:02,302,302,DeJon Jarreau missed Layup.,49,43,6,22,0.9346484443185642,0.8735690584045104,3,4,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,294,2,5:01,301,301,Memphis Defensive Rebound.,49,43,6,1,0.9347376351574942,0.8738348449910853,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,295,2,4:43,283,283,Tyler Harris Turnover.,49,43,6,18,0.9344428156719057,0.8751652056259809,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,296,2,4:43,283,283,DeJon Jarreau Steal.,49,43,6,0,0.9344428156719057,0.8751652056259809,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,297,2,4:25,265,265,Fabian White Jr. made Jumper. Assisted by DeJon Jarreau.,51,43,8,18,0.9628792322711119,0.928453258326718,3,4,9,NA,NA,Houston,made,Fabian White Jr.,DeJon Jarreau,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,298,2,4:07,247,247,Foul on Precious Achiuwa.,51,43,8,18,0.9607632969132495,0.9257425129208459,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,299,2,4:07,247,247,Precious Achiuwa Turnover.,51,43,8,0,0.9607632969132495,0.9257425129208459,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,300,2,3:52,232,232,Quentin Grimes made Jumper.,53,43,10,15,0.9782046498862303,0.9586817281198159,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,301,2,3:51,231,231,Foul on Lester Quinones.,53,43,10,1,0.9782086543481815,0.9587306560489264,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,302,2,3:51,231,231,Official TV Timeout,53,43,10,0,0.9782086543481815,0.9587306560489264,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,303,2,3:51,231,231,Quentin Grimes made Free Throw.,54,43,11,0,0.9839956216476624,0.9695291263562186,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,304,2,3:38,218,218,Lester Quinones missed Layup.,54,43,11,13,0.9845526027887942,0.9709721545027943,3,4,9,NA,NA,Memphis,missed,Lester Quinones,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,305,2,3:35,215,215,DeJon Jarreau Defensive Rebound.,54,43,11,3,0.9848253621801855,0.9715703585244422,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,306,2,3:15,195,195,Quentin Grimes made Layup.,56,43,13,20,0.9939721234756953,0.988876957822403,3,4,9,NA,NA,Houston,made,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,307,2,3:04,184,184,Foul on Nate Hinton.,56,43,13,11,0.995409247984054,0.9916352040213213,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,308,2,3:04,184,184,Boogie Ellis made Free Throw.,56,44,12,0,0.9933849936735787,0.9879669330765857,3,4,9,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,309,2,3:04,184,184,Boogie Ellis made Free Throw.,56,45,11,0,0.9904767005813678,0.9827180258302555,3,4,9,NA,NA,Memphis,made,Boogie Ellis,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,310,2,2:37,157,157,DeJon Jarreau made Jumper.,58,45,13,27,0.9978033589957416,0.9961296700971106,3,4,9,NA,NA,Houston,made,DeJon Jarreau,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,311,2,2:24,144,144,Lester Quinones Turnover.,58,45,13,13,0.9985351321417438,0.9974633666433812,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,312,2,2:24,144,144,Nate Hinton Steal.,58,45,13,0,0.9985351321417438,0.9974633666433812,3,4,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,313,2,2:18,138,138,Houston  Timeout,58,45,13,6,0.9988050488877734,0.997947780055427,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,314,2,2:11,131,131,Quentin Grimes missed Jumper.,58,45,13,7,0.9990725788739712,0.9984228305839516,3,3,9,NA,NA,Houston,missed,Quentin Grimes,NA,FALSE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,315,2,2:09,129,129,Precious Achiuwa Defensive Rebound.,58,45,13,2,0.9991403146808393,0.9985421853479826,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,316,2,2:06,126,126,Foul on Fabian White Jr..,58,45,13,3,0.9992350923663229,0.9987084866247021,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,317,2,2:06,126,126,Alex Lomax made Free Throw.,58,46,12,0,0.9987248327418856,0.9978476920387578,3,3,9,NA,NA,Memphis,made,Alex Lomax,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,318,2,2:06,126,126,Alex Lomax missed Free Throw.,58,46,12,0,0.9987248327418856,0.9978476920387578,3,3,9,NA,NA,Memphis,missed,Alex Lomax,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,319,2,2:06,126,126,Fabian White Jr. Defensive Rebound.,58,46,12,0,0.9987248327418856,0.9978476920387578,3,3,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,320,2,1:52,112,112,Houston  Timeout,58,46,12,14,0.9992646727931831,0.9987840991235759,3,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,321,2,1:38,98,98,Nate Hinton made Three Point Jumper. Assisted by Marcus Sasser.,61,46,15,14,0.9999388789417165,0.9999010666039697,3,2,9,NA,NA,Houston,made,Nate Hinton,Marcus Sasser,TRUE,FALSE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,322,2,1:23,83,83,Boogie Ellis made Three Point Jumper. Assisted by Lester Quinones.,61,49,12,15,0.9998227679873808,0.9997199952880439,3,2,9,NA,NA,Memphis,made,Boogie Ellis,Lester Quinones,TRUE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,323,2,1:22,82,82,Memphis  Timeout,61,49,12,1,0.9998320681171897,0.9997351205885371,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,324,2,1:10,70,70,Foul on Alex Lomax.,61,49,12,12,0.9999148921998964,0.9998684073223894,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,325,2,1:09,69,69,DeJon Jarreau missed Free Throw.,61,49,12,1,0.9999198115253217,0.9998762229827161,2,2,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,326,2,1:08,68,68,Precious Achiuwa Defensive Rebound.,61,49,12,1,0.9999244666074963,0.9998836058061003,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,327,2,0:59,59,59,Foul on Fabian White Jr..,61,49,12,9,0.9999564797354339,0.9999339619933806,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,328,2,0:59,59,59,Tyler Harris made Free Throw.,61,50,11,0,0.999902945340753,0.9998527325428985,2,2,9,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,329,2,0:59,59,59,Tyler Harris made Free Throw.,61,51,10,0,0.9997835723959445,0.9996716203567335,2,2,9,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,TRUE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,330,2,0:51,51,51,Foul on Alex Lomax.,61,51,10,8,0.9998584850266373,0.9997882512798644,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,331,2,0:51,51,51,DeJon Jarreau missed Free Throw.,61,51,10,0,0.9998584850266373,0.9997882512798644,2,2,9,NA,NA,Houston,missed,DeJon Jarreau,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,332,2,0:50,50,50,Lester Quinones Defensive Rebound.,61,51,10,1,0.9998659918905782,0.9997998362694142,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,333,2,0:46,46,46,Alex Lomax made Layup.,61,53,8,4,0.9993829587481607,0.9990850750059551,2,2,9,NA,NA,Memphis,made,Alex Lomax,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,334,2,0:42,42,42,Foul on Tyler Harris.,61,53,8,4,0.9994847236111118,0.9992413841439771,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,335,2,0:42,42,42,DeJon Jarreau made Free Throw.,62,53,9,0,0.9997900012019648,0.9996907845893658,2,2,9,NA,NA,Houston,made,DeJon Jarreau,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,336,2,0:42,42,42,DeJon Jarreau made Free Throw.,63,53,10,0,0.9999144313275474,0.999873995906871,2,2,9,NA,NA,Houston,made,DeJon Jarreau,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,337,2,0:27,27,27,Boogie Ellis missed Three Point Jumper.,63,53,10,15,0.9999651013788228,0.9999500007185261,2,2,9,NA,NA,Memphis,missed,Boogie Ellis,NA,TRUE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,338,2,0:23,23,23,Precious Achiuwa Offensive Rebound.,63,53,10,4,0.9999727884958922,0.9999613035473023,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,339,2,0:22,22,22,Precious Achiuwa missed Layup.,63,53,10,1,0.9999744469264902,0.9999637299231557,2,2,9,NA,NA,Memphis,missed,Precious Achiuwa,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,340,2,0:22,22,22,Memphis Offensive Rebound.,63,53,10,0,0.9999744469264902,0.9999637299231557,2,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,341,2,0:20,20,20,Precious Achiuwa made Layup. Assisted by Alex Lomax.,63,55,8,2,0.9998215411649256,0.999747662872159,2,2,9,NA,NA,Memphis,made,Precious Achiuwa,Alex Lomax,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,342,2,0:20,20,20,Memphis  Timeout,63,55,8,0,0.9998215411649256,0.999747662872159,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,343,2,0:18,18,18,Foul on Alex Lomax.,63,55,8,2,0.9998389673688537,0.9997731619232068,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,344,2,0:18,18,18,Quentin Grimes missed Free Throw.,63,55,8,0,0.9998389673688537,0.9997731619232068,1,2,9,NA,NA,Houston,missed,Quentin Grimes,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,345,2,0:18,18,18,Houston Offensive Rebound.,63,55,8,0,0.9998389673688537,0.9997731619232068,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,346,2,0:18,18,18,Quentin Grimes missed Free Throw.,63,55,8,0,0.9998389673688537,0.9997731619232068,1,2,9,NA,NA,Houston,missed,Quentin Grimes,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,347,2,0:17,17,17,Precious Achiuwa Defensive Rebound.,63,55,8,1,0.999847120351452,0.9997850548887146,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,348,2,0:08,8,8,Tyler Harris made Layup.,63,57,6,9,0.9991179311491302,0.9987814802712226,1,2,9,NA,NA,Memphis,made,Tyler Harris,NA,FALSE,FALSE,Memphis,Houston
+401169507,2020-03-08,Houston,Memphis,349,2,0:06,6,6,Foul on Boogie Ellis.,63,57,6,2,0.9991872588832843,0.9988815889344047,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,350,2,0:06,6,6,Marcus Sasser made Free Throw.,64,57,7,0,0.9997379568772812,0.9996393283371705,1,2,9,NA,NA,Houston,made,Marcus Sasser,NA,FALSE,TRUE,Houston,Houston
+401169507,2020-03-08,Houston,Memphis,351,2,0:06,6,6,Marcus Sasser missed Free Throw.,64,57,7,0,0.9997379568772812,0.9996393283371705,1,2,9,NA,NA,Houston,missed,Marcus Sasser,NA,FALSE,TRUE,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,352,2,0:05,5,5,Precious Achiuwa Defensive Rebound.,64,57,7,1,0.9997503437428202,0.9996570472257066,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Houston,Memphis
+401169507,2020-03-08,Houston,Memphis,353,2,0:00,0,0,Tyler Harris missed Layup.,64,57,7,5,1,1,1,2,9,NA,NA,Memphis,missed,Tyler Harris,NA,FALSE,FALSE,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,354,2,0:00,0,0,Lester Quinones Offensive Rebound.,64,57,7,0,1,1,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,Memphis
+401169507,2020-03-08,Houston,Memphis,355,2,0:00,0,0,End of 2nd half,64,57,7,0,1,1,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA
+401169507,2020-03-08,Houston,Memphis,356,2,0:00,0,0,End of Game,64,57,7,0,1,1,1,2,9,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA

@@ -1,0 +1,336 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401211031,2020-03-10,Iona,Canisius,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona
+401211031,2020-03-10,Iona,Canisius,2,1,19:41,2381,2381,Tajuan Agee missed Jumper.,0,0,0,19,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,3,1,19:36,2376,2376,Corey Brown Defensive Rebound.,0,0,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,4,1,19:28,2368,2368,Jacco Fritz Turnover.,0,0,0,8,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,5,1,19:28,2368,2368,Tajuan Agee Steal.,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,6,1,19:18,2358,2358,Tajuan Agee missed Jumper.,0,0,0,10,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,7,1,19:14,2354,2354,Malik Johnson Defensive Rebound.,0,0,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,8,1,18:55,2335,2335,Corey Brown missed Jumper.,0,0,0,19,0.5,0.5,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,9,1,18:52,2332,2332,Dylan van Eyck Defensive Rebound.,0,0,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,10,1,18:34,2314,2314,Tajuan Agee missed Three Point Jumper.,0,0,0,18,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,11,1,18:30,2310,2310,Malik Johnson Defensive Rebound.,0,0,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,12,1,18:16,2296,2296,Corey Brown made Jumper. Assisted by Malik Johnson.,0,2,-2,14,0.4537236562407298,0.4537236562407298,4,4,NA,NA,NA,Canisius,made,Corey Brown,Malik Johnson,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,13,1,17:50,2270,2270,Isaiah Washington missed Three Point Jumper.,0,2,-2,26,0.45314188206327277,0.45314188206327277,4,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,14,1,17:46,2266,2266,Tajuan Agee Offensive Rebound.,0,2,-2,4,0.45305183568790486,0.45305183568790486,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,15,1,17:40,2260,2260,Isaiah Washington made Jumper.,2,2,0,6,0.5,0.5,4,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,16,1,17:00,2220,2220,Malik Johnson missed Jumper.,2,2,0,40,0.5,0.5,4,4,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,17,1,16:56,2216,2216,Dylan van Eyck Defensive Rebound.,2,2,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,18,1,16:53,2213,2213,Isaiah Washington missed Jumper.,2,2,0,3,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,19,1,16:53,2213,2213,Jacco Fritz Block.,2,2,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,20,1,16:48,2208,2208,Armon Harried Defensive Rebound.,2,2,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,21,1,16:46,2206,2206,Armon Harried missed Jumper.,2,2,0,2,0.5,0.5,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,22,1,16:42,2202,2202,E.J. Crawford Defensive Rebound.,2,2,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,23,1,16:28,2188,2188,E.J. Crawford made Jumper.,4,2,2,14,0.548726942141186,0.548726942141186,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,24,1,16:01,2161,2161,Corey Brown missed Jumper.,4,2,2,27,0.5493502722348179,0.5493502722348179,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,25,1,15:56,2156,2156,Isaiah Washington Defensive Rebound.,4,2,2,5,0.5494661865413782,0.5494661865413782,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,26,1,15:51,2151,2151,Tajuan Agee missed Three Point Jumper.,4,2,2,5,0.5495822928983269,0.5495822928983269,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,27,1,15:46,2146,2146,Malik Johnson Defensive Rebound.,4,2,2,5,0.5496985955087812,0.5496985955087812,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,28,1,15:45,2145,2145,Malik Johnson made Layup.,4,4,0,1,0.5,0.5,4,4,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,29,1,15:26,2126,2126,Isaiah Ross missed Three Point Jumper.,4,4,0,19,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,30,1,15:26,2126,2126,Armon Harried Block.,4,4,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,31,1,15:21,2121,2121,Corey Brown Defensive Rebound.,4,4,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,32,1,15:20,2120,2120,Armon Harried made Layup. Assisted by Corey Brown.,4,6,-2,1,0.4496933047773432,0.4496933047773432,4,4,NA,NA,NA,Canisius,made,Armon Harried,Corey Brown,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,33,1,14:58,2098,2098,E.J. Crawford missed Jumper.,4,6,-2,22,0.44917408775598827,0.44917408775598827,4,4,NA,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,34,1,14:54,2094,2094,Corey Brown Defensive Rebound.,4,6,-2,4,0.4490791943765155,0.4490791943765155,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,35,1,14:49,2089,2089,Armon Harried made Three Point Jumper. Assisted by Malik Johnson.,4,9,-5,5,0.37468252873460334,0.37468252873460334,4,4,NA,NA,NA,Canisius,made,Armon Harried,Malik Johnson,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,36,1,14:48,2088,2088,Iona  Timeout,4,9,-5,1,0.3746261877657992,0.3746261877657992,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,37,1,14:48,2088,2088,Official TV Timeout,4,9,-5,0,0.3746261877657992,0.3746261877657992,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,38,1,14:34,2074,2074,Foul on Malik Johnson.,4,9,-5,14,0.3738352018041394,0.3738352018041394,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,39,1,14:34,2074,2074,Iona  Turnover.,4,9,-5,0,0.3738352018041394,0.3738352018041394,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,40,1,14:24,2064,2064,Foul on Dylan van Eyck.,4,9,-5,10,0.3732676089761511,0.3732676089761511,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,41,1,14:24,2064,2064,Corey Brown missed Free Throw.,4,9,-5,0,0.3732676089761511,0.3732676089761511,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,42,1,14:24,2064,2064,Canisius Offensive Rebound.,4,9,-5,0,0.3732676089761511,0.3732676089761511,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,43,1,14:24,2064,2064,Corey Brown missed Free Throw.,4,9,-5,0,0.3732676089761511,0.3732676089761511,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,44,1,14:22,2062,2062,Jalanni White Offensive Rebound.,4,9,-5,2,0.37315382240483835,0.37315382240483835,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,45,1,14:20,2060,2060,Majesty Brandon missed Jumper.,4,9,-5,2,0.3730399451158912,0.3730399451158912,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,46,1,14:19,2059,2059,Corey Brown Offensive Rebound.,4,9,-5,1,0.37298297226739985,0.37298297226739985,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,47,1,14:18,2058,2058,Foul on Tajuan Agee.,4,9,-5,1,0.372925976517665,0.372925976517665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,48,1,14:18,2058,2058,Corey Brown missed Free Throw.,4,9,-5,0,0.372925976517665,0.372925976517665,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,49,1,14:18,2058,2058,Canisius Offensive Rebound.,4,9,-5,0,0.372925976517665,0.372925976517665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,50,1,14:18,2058,2058,Corey Brown missed Free Throw.,4,9,-5,0,0.372925976517665,0.372925976517665,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,51,1,14:18,2058,2058,Tajuan Agee Defensive Rebound.,4,9,-5,0,0.372925976517665,0.372925976517665,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,52,1,14:03,2043,2043,Isaiah Washington made Three Point Jumper.,7,9,-2,15,0.44785487364287885,0.44785487364287885,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,53,1,13:43,2023,2023,Majesty Brandon made Jumper. Assisted by Corey Brown.,7,11,-4,20,0.39588736862803214,0.39588736862803214,3,4,NA,NA,NA,Canisius,made,Majesty Brandon,Corey Brown,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,54,1,13:19,1999,1999,Dylan van Eyck Turnover.,7,11,-4,24,0.39474231806772825,0.39474231806772825,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,55,1,13:19,1999,1999,Corey Brown Steal.,7,11,-4,0,0.39474231806772825,0.39474231806772825,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,56,1,12:58,1978,1978,Malik Johnson missed Jumper.,7,11,-4,21,0.39372932328872645,0.39372932328872645,3,4,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,57,1,12:58,1978,1978,Dylan van Eyck Block.,7,11,-4,0,0.39372932328872645,0.39372932328872645,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,58,1,12:58,1978,1978,Canisius Offensive Rebound.,7,11,-4,0,0.39372932328872645,0.39372932328872645,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,59,1,12:56,1976,1976,Corey Brown missed Layup.,7,11,-4,2,0.3936322863545522,0.3936322863545522,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,60,1,12:52,1972,1972,Isaiah Ross Defensive Rebound.,7,11,-4,4,0.3934379130582212,0.3934379130582212,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,61,1,12:46,1966,1966,E.J. Crawford made Layup.,9,11,-2,6,0.4459484329686287,0.4459484329686287,3,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,62,1,12:36,1956,1956,Corey Brown Turnover.,9,11,-2,10,0.44569505944635324,0.44569505944635324,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,63,1,12:17,1937,1937,Foul on Jalanni White.,9,11,-2,19,0.44520966251330507,0.44520966251330507,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,64,1,12:17,1937,1937,E.J. Crawford made Free Throw.,10,11,-1,0,0.4725220939767213,0.4725220939767213,3,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,65,1,12:17,1937,1937,E.J. Crawford made Free Throw.,11,11,0,0,0.5,0.5,3,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,66,1,11:59,1919,1919,Majesty Brandon made Jumper.,11,13,-2,18,0.44474604611454244,0.44474604611454244,3,4,NA,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,67,1,11:41,1901,1901,Isaiah Washington made Layup. Assisted by Tajuan Agee.,13,13,0,18,0.5,0.5,3,4,NA,NA,NA,Iona,made,Isaiah Washington,Tajuan Agee,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,68,1,11:27,1887,1887,Scott Hitchon missed Jumper.,13,13,0,14,0.5,0.5,3,4,NA,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,69,1,11:25,1885,1885,Scott Hitchon Offensive Rebound.,13,13,0,2,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,70,1,11:24,1884,1884,Foul on Ben Perez.,13,13,0,1,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,71,1,11:24,1884,1884,Official TV Timeout,13,13,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,72,1,11:03,1863,1863,Jordan Henderson made Three Point Jumper. Assisted by Malik Johnson.,13,16,-3,21,0.41541263607918966,0.41541263607918966,3,4,NA,NA,NA,Canisius,made,Jordan Henderson,Malik Johnson,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,73,1,10:34,1834,1834,E.J. Crawford made Jumper.,15,16,-1,29,0.4711825052391752,0.4711825052391752,3,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,74,1,10:11,1811,1811,Jordan Henderson missed Three Point Jumper.,15,16,-1,23,0.4708793537659739,0.4708793537659739,3,4,NA,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,75,1,10:08,1808,1808,E.J. Crawford Defensive Rebound.,15,16,-1,3,0.4708395754808549,0.4708395754808549,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,76,1,10:05,1805,1805,E.J. Crawford Turnover.,15,16,-1,3,0.47079973580313295,0.47079973580313295,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,77,1,10:05,1805,1805,Malik Johnson Steal.,15,16,-1,0,0.47079973580313295,0.47079973580313295,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,78,1,9:55,1795,1795,Foul on E.J. Crawford.,15,16,-1,10,0.4706664665970443,0.4706664665970443,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,79,1,9:55,1795,1795,Scott Hitchon made Free Throw.,15,17,-2,0,0.44153416235979903,0.44153416235979903,3,4,NA,NA,NA,Canisius,made,Scott Hitchon,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,80,1,9:55,1795,1795,Scott Hitchon made Free Throw.,15,18,-3,0,0.4127988323161505,0.4127988323161505,3,4,NA,NA,NA,Canisius,made,Scott Hitchon,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,81,1,9:39,1779,1779,Tajuan Agee missed Three Point Jumper.,15,18,-3,16,0.4121717332978451,0.4121717332978451,3,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,82,1,9:36,1776,1776,Majesty Brandon Defensive Rebound.,15,18,-3,3,0.4120534541173351,0.4120534541173351,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,83,1,9:29,1769,1769,Majesty Brandon missed Jumper.,15,18,-3,7,0.41177654414072956,0.41177654414072956,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,84,1,9:26,1766,1766,Isaiah Washington Defensive Rebound.,15,18,-3,3,0.41165745737907367,0.41165745737907367,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,85,1,9:21,1761,1761,Isaiah Washington missed Layup.,15,18,-3,5,0.41145840902046776,0.41145840902046776,3,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,86,1,9:17,1757,1757,Scott Hitchon Defensive Rebound.,15,18,-3,4,0.41129864087457074,0.41129864087457074,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,87,1,9:14,1754,1754,Majesty Brandon missed Jumper.,15,18,-3,3,0.4111784965396124,0.4111784965396124,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,88,1,9:14,1754,1754,Canisius Offensive Rebound.,15,18,-3,0,0.4111784965396124,0.4111784965396124,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,89,1,9:14,1754,1754,Foul on Isaiah Ross.,15,18,-3,0,0.4111784965396124,0.4111784965396124,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,90,1,9:04,1744,1744,Armon Harried missed Jumper.,15,18,-3,10,0.41077596330601296,0.41077596330601296,3,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,91,1,9:00,1740,1740,Tajuan Agee Defensive Rebound.,15,18,-3,4,0.41061403066246327,0.41061403066246327,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,92,1,8:57,1737,1737,Isaiah Ross made Three Point Jumper. Assisted by Isaiah Washington.,18,18,0,3,0.5,0.5,3,4,NA,NA,NA,Iona,made,Isaiah Ross,Isaiah Washington,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,93,1,8:40,1720,1720,Majesty Brandon missed Three Point Jumper.,18,18,0,17,0.5,0.5,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,94,1,8:36,1716,1716,E.J. Crawford Defensive Rebound.,18,18,0,4,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,95,1,8:09,1689,1689,Official TV Timeout,18,18,0,27,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,96,1,8:09,1689,1689,Iona  Turnover.,18,18,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,97,1,7:54,1674,1674,Corey Brown missed Jumper.,18,18,0,15,0.5,0.5,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,98,1,7:51,1671,1671,Isaiah Washington Defensive Rebound.,18,18,0,3,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,99,1,7:45,1665,1665,Tajuan Agee Turnover.,18,18,0,6,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,100,1,7:45,1665,1665,Jordan Henderson Steal.,18,18,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,101,1,7:39,1659,1659,Armon Harried made Three Point Jumper. Assisted by Jordan Henderson.,18,21,-3,6,0.4072505385897216,0.4072505385897216,3,4,NA,NA,NA,Canisius,made,Armon Harried,Jordan Henderson,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,102,1,7:17,1637,1637,Isaiah Ross missed Three Point Jumper.,18,21,-3,22,0.40636421767568287,0.40636421767568287,3,4,NA,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,103,1,7:14,1634,1634,Jalanni White Defensive Rebound.,18,21,-3,3,0.4062446065551541,0.4062446065551541,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,104,1,7:02,1622,1622,Malik Johnson missed Jumper.,18,21,-3,12,0.40576827577848446,0.40576827577848446,3,4,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,105,1,7:02,1622,1622,Iona Defensive Rebound.,18,21,-3,0,0.40576827577848446,0.40576827577848446,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,106,1,6:41,1601,1601,Tajuan Agee made Dunk. Assisted by E.J. Crawford.,20,21,-1,21,0.4679668222044749,0.4679668222044749,3,4,NA,NA,NA,Iona,made,Tajuan Agee,EJ Crawford,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,107,1,6:14,1574,1574,Corey Brown made Layup. Assisted by Malik Johnson.,20,23,-3,27,0.4038726359005002,0.4038726359005002,3,4,NA,NA,NA,Canisius,made,Corey Brown,Malik Johnson,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,108,1,6:01,1561,1561,Foul on Malik Johnson.,20,23,-3,13,0.40335421718549547,0.40335421718549547,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,109,1,6:01,1561,1561,Isaiah Washington made Free Throw.,21,23,-2,0,0.4351165121010211,0.4351165121010211,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,110,1,6:01,1561,1561,Isaiah Washington made Free Throw.,22,23,-1,0,0.4674205184472976,0.4674205184472976,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,111,1,5:49,1549,1549,Armon Harried missed Three Point Jumper.,22,23,-1,12,0.4672538350419146,0.4672538350419146,3,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,112,1,5:46,1546,1546,E.J. Crawford Defensive Rebound.,22,23,-1,3,0.4672118496327048,0.4672118496327048,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,113,1,5:38,1538,1538,E.J. Crawford made Three Point Jumper.,25,23,2,8,0.5655179549899412,0.5655179549899412,3,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,114,1,5:25,1525,1525,Corey Brown made Layup. Assisted by Armon Harried.,25,25,0,13,0.5,0.5,3,4,NA,NA,NA,Canisius,made,Corey Brown,Armon Harried,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,115,1,5:17,1517,1517,Ben Perez made Dunk. Assisted by Isaiah Washington.,27,25,2,8,0.566113194085672,0.566113194085672,3,4,NA,NA,NA,Iona,made,Ben Perez,Isaiah Washington,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,116,1,4:47,1487,1487,Foul on Tajuan Agee.,27,25,2,30,0.5670001197688102,0.5670001197688102,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,117,1,4:47,1487,1487,Jacco Fritz made Free Throw.,27,26,1,0,0.5336518076730631,0.5336518076730631,3,4,NA,NA,NA,Canisius,made,Jacco Fritz,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,118,1,4:47,1487,1487,Jacco Fritz made Free Throw.,27,27,0,0,0.5,0.5,3,4,NA,NA,NA,Canisius,made,Jacco Fritz,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,119,1,4:19,1459,1459,E.J. Crawford missed Jumper.,27,27,0,28,0.5,0.5,3,4,NA,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,120,1,4:14,1454,1454,Jalanni White Defensive Rebound.,27,27,0,5,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,121,1,4:09,1449,1449,Majesty Brandon missed Jumper.,27,27,0,5,0.5,0.5,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,122,1,4:08,1448,1448,Jalanni White Offensive Rebound.,27,27,0,1,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,123,1,4:08,1448,1448,Jalanni White made Layup.,27,29,-2,0,0.4317611112811524,0.4317611112811524,3,4,NA,NA,NA,Canisius,made,Jalanni White,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,124,1,4:07,1447,1447,Foul on E.J. Crawford.,27,29,-2,1,0.4317282086081378,0.4317282086081378,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,125,1,4:07,1447,1447,Jalanni White made Free Throw.,27,30,-3,0,0.39838343764277856,0.39838343764277856,3,4,NA,NA,NA,Canisius,made,Jalanni White,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,126,1,3:58,1438,1438,Foul on Majesty Brandon.,27,30,-3,9,0.3979543337328069,0.3979543337328069,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,127,1,3:58,1438,1438,Official TV Timeout,27,30,-3,0,0.3979543337328069,0.3979543337328069,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,128,1,3:52,1432,1432,Isaiah Washington Turnover.,27,30,-3,6,0.39767275301284,0.39767275301284,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,129,1,3:36,1416,1416,Foul on Niksa Nikolic.,27,30,-3,16,0.3969368363875747,0.3969368363875747,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,130,1,3:36,1416,1416,Majesty Brandon missed Free Throw.,27,30,-3,0,0.3969368363875747,0.3969368363875747,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,131,1,3:36,1416,1416,Canisius Offensive Rebound.,27,30,-3,0,0.3969368363875747,0.3969368363875747,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,132,1,3:36,1416,1416,Majesty Brandon missed Free Throw.,27,30,-3,0,0.3969368363875747,0.3969368363875747,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,133,1,3:31,1411,1411,Ben Perez Defensive Rebound.,27,30,-3,5,0.39671065463710203,0.39671065463710203,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,134,1,3:15,1395,1395,Niksa Nikolic Turnover.,27,30,-3,16,0.3959960667858427,0.3959960667858427,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,135,1,3:15,1395,1395,Jalanni White Steal.,27,30,-3,0,0.3959960667858427,0.3959960667858427,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,136,1,3:07,1387,1387,Majesty Brandon missed Three Point Jumper.,27,30,-3,8,0.39564271142462903,0.39564271142462903,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,137,1,3:03,1383,1383,Jalanni White Offensive Rebound.,27,30,-3,4,0.39546670137371903,0.39546670137371903,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,138,1,2:58,1378,1378,Jordan Henderson missed Layup.,27,30,-3,5,0.3952471344994408,0.3952471344994408,3,4,NA,NA,NA,Canisius,missed,Jordan Henderson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,139,1,2:57,1377,1377,Iona Defensive Rebound.,27,30,-3,1,0.3952032664251743,0.3952032664251743,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,140,1,2:57,1377,1377,Foul on Jalanni White.,27,30,-3,0,0.3952032664251743,0.3952032664251743,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,141,1,2:48,1368,1368,Isaiah Washington made Layup.,29,30,-1,9,0.4644647799960289,0.4644647799960289,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,142,1,2:21,1341,1341,Malik Johnson missed Jumper.,29,30,-1,27,0.4640523799907425,0.4640523799907425,3,4,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,143,1,2:18,1338,1338,E.J. Crawford Defensive Rebound.,29,30,-1,3,0.4640061020787988,0.4640061020787988,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,144,1,2:05,1325,1325,Foul on Majesty Brandon.,29,30,-1,13,0.46380378206572137,0.46380378206572137,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,145,1,2:05,1325,1325,Isaiah Ross made Free Throw.,30,30,0,0,0.5,0.5,3,4,NA,NA,NA,Iona,made,Isaiah Ross,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,146,1,2:05,1325,1325,Isaiah Ross made Free Throw.,31,30,1,0,0.5361962179342786,0.5361962179342786,3,4,NA,NA,NA,Iona,made,Isaiah Ross,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,147,1,1:53,1313,1313,Jordan Henderson Turnover.,31,30,1,12,0.5363862303455025,0.5363862303455025,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,148,1,1:42,1302,1302,Isaiah Washington missed Three Point Jumper.,31,30,1,11,0.5365638961235004,0.5365638961235004,3,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,149,1,1:42,1302,1302,Canisius Defensive Rebound.,31,30,1,0,0.5365638961235004,0.5365638961235004,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,150,1,1:11,1271,1271,Corey Brown made Layup. Assisted by Malik Johnson.,31,32,-1,31,0.46291173275832764,0.46291173275832764,3,4,NA,NA,NA,Canisius,made,Corey Brown,Malik Johnson,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,151,1,0:48,1248,1248,Foul on Armon Harried.,31,32,-1,23,0.46249352365000934,0.46249352365000934,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,152,1,0:48,1248,1248,Isaiah Washington made Free Throw.,32,32,0,0,0.5,0.5,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,153,1,0:48,1248,1248,Isaiah Washington made Free Throw.,33,32,1,0,0.5375064763499907,0.5375064763499907,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,154,1,0:48,1248,1248,Canisius  Timeout,33,32,1,0,0.5375064763499907,0.5375064763499907,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,155,1,0:23,1223,1223,Jordan Henderson Turnover.,33,32,1,25,0.5379969400535396,0.5379969400535396,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,156,1,0:04,1204,1204,Tajuan Agee made Three Point Jumper. Assisted by Isaiah Washington.,36,32,4,19,0.6492088837776333,0.6492088837776333,3,3,NA,NA,NA,Iona,made,Tajuan Agee,Isaiah Washington,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,157,1,0:00,1200,1200,End of 1st half,36,32,4,4,0.6495177425372646,0.6495177425372646,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA
+401211031,2020-03-10,Iona,Canisius,158,2,20:00,1200,1200,PLAY,36,32,4,0,0.6495177425372646,0.6495177425372646,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius
+401211031,2020-03-10,Iona,Canisius,159,2,19:39,1179,1179,Armon Harried missed Three Point Jumper.,36,32,4,21,0.6511008244658697,0.6511008244658697,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,160,2,19:34,1174,1174,Tajuan Agee Defensive Rebound.,36,32,4,5,0.6514698711749083,0.6514698711749083,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,161,2,19:21,1161,1161,E.J. Crawford missed Three Point Jumper.,36,32,4,13,0.6524190285069774,0.6524190285069774,4,4,NA,NA,NA,Iona,missed,E.J. Crawford,NA,TRUE,FALSE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,162,2,19:10,1150,1150,Tajuan Agee Offensive Rebound.,36,32,4,11,0.6532136540117861,0.6532136540117861,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,163,2,19:10,1150,1150,Tajuan Agee missed Dunk.,36,32,4,0,0.6532136540117861,0.6532136540117861,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,164,2,19:09,1149,1149,Jacco Fritz Defensive Rebound.,36,32,4,1,0.6532856304337477,0.6532856304337477,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,165,2,19:04,1144,1144,Corey Brown made Layup. Assisted by Armon Harried.,36,34,2,5,0.5787271049879031,0.5787271049879031,4,4,NA,NA,NA,Canisius,made,Corey Brown,Armon Harried,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,166,2,18:31,1111,1111,Tajuan Agee made Layup. Assisted by Isaiah Ross.,38,34,4,33,0.6560188971041874,0.6560188971041874,4,4,NA,NA,NA,Iona,made,Tajuan Agee,Isaiah Ross,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,167,2,18:05,1085,1085,Armon Harried missed Layup.,38,34,4,26,0.6579312233650431,0.6579312233650431,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,168,2,18:04,1084,1084,Canisius Offensive Rebound.,38,34,4,1,0.6580061723160412,0.6580061723160412,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,169,2,18:00,1080,1080,Jacco Fritz made Layup. Assisted by Corey Brown.,38,36,2,4,0.5812434398130673,0.5812434398130673,4,4,NA,NA,NA,Canisius,made,Jacco Fritz,Corey Brown,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,170,2,17:28,1048,1048,Tajuan Agee made Three Point Jumper.,41,36,5,32,0.6971189269701988,0.6971189269701988,4,4,NA,NA,NA,Iona,made,Tajuan Agee,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,171,2,17:13,1033,1033,Armon Harried missed Jumper.,41,36,5,15,0.6985804977034019,0.6985804977034019,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,172,2,17:13,1033,1033,Canisius Offensive Rebound.,41,36,5,0,0.6985804977034019,0.6985804977034019,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,173,2,17:13,1033,1033,Foul on Dylan van Eyck.,41,36,5,0,0.6985804977034019,0.6985804977034019,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,174,2,16:52,1012,1012,Armon Harried made Jumper.,41,38,3,21,0.6249199472107829,0.6249199472107829,4,4,NA,NA,NA,Canisius,made,Armon Harried,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,175,2,16:39,999,999,Foul on Armon Harried.,41,38,3,13,0.6258652360602102,0.6258652360602102,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,176,2,16:17,977,977,Tajuan Agee missed Jumper.,41,38,3,22,0.6275678663365505,0.6275678663365505,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,177,2,16:13,973,973,Jordan Henderson Defensive Rebound.,41,38,3,4,0.6278925811280104,0.6278925811280104,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,178,2,16:10,970,970,Malik Johnson made Layup.,41,40,1,3,0.5435760753608833,0.5435760753608833,4,4,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,179,2,15:55,955,955,E.J. Crawford missed Jumper.,41,40,1,15,0.5439968566144212,0.5439968566144212,4,4,NA,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,180,2,15:54,954,954,Canisius Defensive Rebound.,41,40,1,1,0.5440236724258861,0.5440236724258861,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,181,2,15:54,954,954,Official TV Timeout,41,40,1,0,0.5440236724258861,0.5440236724258861,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,182,2,15:40,940,940,Malik Johnson missed Layup.,41,40,1,14,0.5443849645819079,0.5443849645819079,4,4,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,183,2,15:37,937,937,E.J. Crawford Defensive Rebound.,41,40,1,3,0.5444592583807571,0.5444592583807571,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,184,2,15:24,924,924,Tajuan Agee Turnover.,41,40,1,13,0.5447705246564118,0.5447705246564118,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,185,2,15:24,924,924,Majesty Brandon Steal.,41,40,1,0,0.5447705246564118,0.5447705246564118,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,186,2,15:16,916,916,Jacco Fritz missed Three Point Jumper.,41,40,1,8,0.5449547927732323,0.5449547927732323,4,4,NA,NA,NA,Canisius,missed,Jacco Fritz,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,187,2,15:13,913,913,Tajuan Agee Defensive Rebound.,41,40,1,3,0.5450227265046991,0.5450227265046991,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,188,2,14:51,891,891,E.J. Crawford made Layup. Assisted by Tajuan Agee.,43,40,3,22,0.6335798279544993,0.6335798279544993,4,4,NA,NA,NA,Iona,made,E.J. Crawford,Tajuan Agee,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,189,2,14:27,867,867,Majesty Brandon made Three Point Jumper. Assisted by Malik Johnson.,43,43,0,24,0.5,0.5,4,4,NA,NA,NA,Canisius,made,Majesty Brandon,Malik Johnson,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,190,2,14:03,843,843,Isaiah Washington missed Three Point Jumper.,43,43,0,24,0.5,0.5,4,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,191,2,13:59,839,839,Majesty Brandon Defensive Rebound.,43,43,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,192,2,13:55,835,835,Jordan Henderson Turnover.,43,43,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,193,2,13:38,818,818,Isaiah Washington made Jumper.,45,43,2,17,0.5935126094516849,0.5935126094516849,4,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,194,2,13:23,803,803,Majesty Brandon missed Three Point Jumper.,45,43,2,15,0.5942933740353809,0.5942933740353809,4,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,195,2,13:22,802,802,Tajuan Agee Defensive Rebound.,45,43,2,1,0.5943477202544699,0.5943477202544699,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,196,2,13:22,802,802,Foul on Corey Brown.,45,43,2,0,0.5943477202544699,0.5943477202544699,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,197,2,13:00,780,780,Foul on Majesty Brandon.,45,43,2,22,0.5956282036684089,0.5956282036684089,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,198,2,12:52,772,772,Tajuan Agee missed Layup.,45,43,2,8,0.5961388238127484,0.5961388238127484,4,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,199,2,12:49,769,769,Corey Brown Defensive Rebound.,45,43,2,3,0.5963371840517799,0.5963371840517799,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,200,2,12:47,767,767,Foul on Tajuan Agee.,45,43,2,2,0.5964715906815069,0.5964715906815069,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,201,2,12:20,740,740,Jacco Fritz missed Three Point Jumper.,45,43,2,27,0.5984715217165493,0.5984715217165493,4,4,NA,NA,NA,Canisius,missed,Jacco Fritz,NA,TRUE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,202,2,12:16,736,736,Corey Brown Offensive Rebound.,45,43,2,4,0.598799747000911,0.598799747000911,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,203,2,12:16,736,736,Corey Brown missed Layup.,45,43,2,0,0.598799747000911,0.598799747000911,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,204,2,12:15,735,735,Isaiah Washington Defensive Rebound.,45,43,2,1,0.5988831913549924,0.5988831913549924,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,205,2,12:12,732,732,Foul on E.J. Crawford.,45,43,2,3,0.5991369155288844,0.5991369155288844,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,206,2,12:12,732,732,E.J. Crawford Turnover.,45,43,2,0,0.5991369155288844,0.5991369155288844,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,207,2,11:47,707,707,Scott Hitchon missed Jumper.,45,43,2,25,0.6011375292230005,0.6011375292230005,4,4,NA,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,208,2,11:47,707,707,E.J. Crawford Block.,45,43,2,0,0.6011375292230005,0.6011375292230005,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,209,2,11:37,697,697,Isaiah Ross Defensive Rebound.,45,43,2,10,0.601850358546746,0.601850358546746,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,210,2,11:25,685,685,Isaiah Ross missed Three Point Jumper.,45,43,2,12,0.6026610543009571,0.6026610543009571,4,4,NA,NA,NA,Iona,missed,Isaiah Ross,NA,TRUE,FALSE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,211,2,11:19,679,679,Dylan van Eyck Offensive Rebound.,45,43,2,6,0.6030534618603447,0.6030534618603447,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,212,2,11:19,679,679,Dylan van Eyck Turnover.,45,43,2,0,0.6030534618603447,0.6030534618603447,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,213,2,11:19,679,679,Jacco Fritz Steal.,45,43,2,0,0.6030534618603447,0.6030534618603447,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,214,2,11:13,673,673,Majesty Brandon missed Three Point Jumper.,45,43,2,6,0.6034402911002403,0.6034402911002403,4,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,215,2,11:10,670,670,Dylan van Eyck Defensive Rebound.,45,43,2,3,0.6036323272566905,0.6036323272566905,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,216,2,11:07,667,667,Isaiah Washington missed Three Point Jumper.,45,43,2,3,0.6038238245392655,0.6038238245392655,4,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,TRUE,FALSE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,217,2,11:02,662,662,E.J. Crawford Offensive Rebound.,45,43,2,5,0.6041425627329206,0.6041425627329206,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,218,2,11:02,662,662,E.J. Crawford made Layup.,47,43,4,0,0.6996248612952227,0.6996248612952227,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,219,2,10:39,639,639,Armon Harried missed Jumper.,47,43,4,23,0.7022463257557467,0.7022463257557467,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,220,2,10:39,639,639,Dylan van Eyck Defensive Rebound.,47,43,4,0,0.7022463257557467,0.7022463257557467,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,221,2,10:39,639,639,Foul on Armon Harried.,47,43,4,0,0.7022463257557467,0.7022463257557467,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,222,2,10:39,639,639,Official TV Timeout,47,43,4,0,0.7022463257557467,0.7022463257557467,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,223,2,10:24,624,624,Foul on Jordan Henderson.,47,43,4,15,0.7040692226768112,0.7040692226768112,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,224,2,10:24,624,624,E.J. Crawford made Free Throw.,48,43,5,0,0.7471442096257805,0.7471442096257805,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,225,2,10:24,624,624,E.J. Crawford made Free Throw.,49,43,6,0,0.7858563003912632,0.7858563003912632,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,226,2,10:00,600,600,Corey Brown made Jumper. Assisted by Majesty Brandon.,49,45,4,24,0.7073453411645628,0.7073453411645628,4,4,NA,NA,NA,Canisius,made,Corey Brown,Majesty Brandon,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,227,2,9:39,579,579,Isaiah Washington Turnover.,49,45,4,21,0.7107398519937671,0.7107398519937671,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,228,2,9:28,568,568,Corey Brown missed Jumper.,49,45,4,11,0.7127701431528346,0.7127701431528346,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,229,2,9:25,565,565,Corey Brown Offensive Rebound.,49,45,4,3,0.7133579601933832,0.7133579601933832,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,230,2,9:24,564,564,Corey Brown made Layup.,49,47,2,1,0.6121508179572296,0.6121508179572296,4,4,NA,NA,NA,Canisius,made,Corey Brown,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,231,2,8:58,538,538,Foul on Majesty Brandon.,49,47,2,26,0.615356839736443,0.615356839736443,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,232,2,8:58,538,538,Dylan van Eyck missed Free Throw.,49,47,2,0,0.615356839736443,0.615356839736443,4,4,NA,NA,NA,Iona,missed,Dylan van Eyck,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,233,2,8:58,538,538,Iona Offensive Rebound.,49,47,2,0,0.615356839736443,0.615356839736443,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,234,2,8:58,538,538,Dylan van Eyck made Free Throw.,50,47,3,0,0.6692576452445524,0.6692576452445524,4,4,NA,NA,NA,Iona,made,Dylan van Eyck,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,235,2,8:46,526,526,Foul on Isaiah Ross.,50,47,3,12,0.6710710545235642,0.6710710545235642,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,236,2,8:31,511,511,Corey Brown Turnover.,50,47,3,15,0.6731217666111292,0.6731217666111292,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,237,2,8:31,511,511,Isaiah Washington Steal.,50,47,3,0,0.6731217666111292,0.6731217666111292,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,238,2,8:25,505,505,Isaiah Washington made Layup.,52,47,5,6,0.7702777049175831,0.7702777049175831,4,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,239,2,8:19,499,499,Foul on Tajuan Agee.,52,47,5,6,0.7713346669737775,0.7713346669737775,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,240,2,8:15,495,495,Armon Harried missed Three Point Jumper.,52,47,5,4,0.7720448019062671,0.7720448019062671,4,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,241,2,8:11,491,491,Jalanni White Offensive Rebound.,52,47,5,4,0.772764418097565,0.772764418097565,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,242,2,8:06,486,486,Malik Johnson made Three Point Jumper. Assisted by Jordan Henderson.,52,50,2,5,0.6205049769548486,0.6205049769548486,4,4,NA,NA,NA,Canisius,made,Malik Johnson,Jordan Henderson,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,243,2,7:48,468,468,E.J. Crawford missed Layup.,52,50,2,18,0.6224593465124881,0.6224593465124881,4,4,NA,NA,NA,Iona,missed,E.J. Crawford,NA,FALSE,FALSE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,244,2,7:48,468,468,Iona Offensive Rebound.,52,50,2,0,0.6224593465124881,0.6224593465124881,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,245,2,7:48,468,468,Foul on Malik Johnson.,52,50,2,0,0.6224593465124881,0.6224593465124881,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,246,2,7:48,468,468,Official TV Timeout,52,50,2,0,0.6224593465124881,0.6224593465124881,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,247,2,7:48,468,468,E.J. Crawford made Free Throw.,53,50,3,0,0.6791787204693782,0.6791787204693782,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,248,2,7:48,468,468,E.J. Crawford made Free Throw.,54,50,4,0,0.7310586042487764,0.7310586042487764,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,249,2,7:33,453,453,Foul on Isaiah Ross.,54,50,4,15,0.7343175274278637,0.7343175274278637,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,250,2,7:31,451,451,Foul on Niksa Nikolic.,54,50,4,2,0.7347996315878664,0.7347996315878664,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,251,2,7:31,451,451,Jalanni White missed Free Throw.,54,50,4,0,0.7347996315878664,0.7347996315878664,4,4,NA,NA,NA,Canisius,missed,Jalanni White,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,252,2,7:31,451,451,Canisius Offensive Rebound.,54,50,4,0,0.7347996315878664,0.7347996315878664,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,253,2,7:31,451,451,Jalanni White missed Free Throw.,54,50,4,0,0.7347996315878664,0.7347996315878664,4,4,NA,NA,NA,Canisius,missed,Jalanni White,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,254,2,7:31,451,451,Corey Brown Offensive Rebound.,54,50,4,0,0.7347996315878664,0.7347996315878664,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,255,2,7:24,444,444,Foul on Isaiah Washington.,54,50,4,7,0.7365892131313372,0.7365892131313372,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,256,2,7:24,444,444,Corey Brown missed Free Throw.,54,50,4,0,0.7365892131313372,0.7365892131313372,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,257,2,7:24,444,444,Ben Perez Defensive Rebound.,54,50,4,0,0.7365892131313372,0.7365892131313372,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,258,2,7:09,429,429,Niksa Nikolic Turnover.,54,50,4,15,0.7410264394973203,0.7410264394973203,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,259,2,7:09,429,429,Malik Johnson Steal.,54,50,4,0,0.7410264394973203,0.7410264394973203,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,260,2,6:57,417,417,Foul on Malik Johnson.,54,50,4,12,0.7446837228980363,0.7446837228980363,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,261,2,6:57,417,417,Malik Johnson Turnover.,54,50,4,0,0.7446837228980363,0.7446837228980363,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,262,2,6:36,396,396,E.J. Crawford made Layup.,56,50,6,21,0.8392021406943295,0.8392021406943295,4,4,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,263,2,6:23,383,383,Foul on Dylan van Eyck.,56,50,6,13,0.8430224284422639,0.8430224284422639,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,264,2,6:23,383,383,Corey Brown missed Free Throw.,56,50,6,0,0.8430224284422639,0.8430224284422639,4,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,265,2,6:23,383,383,Canisius Offensive Rebound.,56,50,6,0,0.8430224284422639,0.8430224284422639,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,266,2,6:23,383,383,Corey Brown made Free Throw.,56,51,5,0,0.8023016360041066,0.8023016360041066,4,4,NA,NA,NA,Canisius,made,Corey Brown,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,267,2,6:04,364,364,Foul on E.J. Crawford.,56,51,5,19,0.8081376884434693,0.8081376884434693,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,268,2,6:04,364,364,E.J. Crawford Turnover.,56,51,5,0,0.8081376884434693,0.8081376884434693,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,269,2,6:04,364,364,Iona  Timeout,56,51,5,0,0.8081376884434693,0.8081376884434693,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,270,2,5:43,343,343,Jalanni White missed Layup.,56,51,5,21,0.8154969719579099,0.8154969719579099,3,4,NA,NA,NA,Canisius,missed,Jalanni White,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,271,2,5:40,340,340,Dylan van Eyck Defensive Rebound.,56,51,5,3,0.816659698398436,0.816659698398436,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,272,2,5:20,320,320,Isaiah Washington missed Jumper.,56,51,5,20,0.8253096985658215,0.8253096985658215,3,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,273,2,5:15,315,315,Majesty Brandon Defensive Rebound.,56,51,5,5,0.8277432115379985,0.8277432115379985,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,274,2,5:12,312,312,Jalanni White missed Three Point Jumper.,56,51,5,3,0.8292597292976239,0.8292597292976239,3,4,NA,NA,NA,Canisius,missed,Jalanni White,NA,TRUE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,275,2,5:08,308,308,Armon Harried Offensive Rebound.,56,51,5,4,0.8312762492501441,0.8312762492501441,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,276,2,4:53,293,293,Armon Harried made Jumper.,56,53,3,15,0.7258496235376987,0.7258496235376987,3,4,NA,NA,NA,Canisius,made,Armon Harried,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,277,2,4:29,269,269,Isaiah Washington missed Layup.,56,53,3,24,0.7240727146488165,0.7240727146488165,3,4,NA,NA,NA,Iona,missed,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,278,2,4:25,265,265,Armon Harried Defensive Rebound.,56,53,3,4,0.7233596799505889,0.7233596799505889,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,279,2,4:21,261,261,Armon Harried missed Three Point Jumper.,56,53,3,4,0.7226205704058416,0.7226205704058416,3,4,NA,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,280,2,4:18,258,258,Isaiah Ross Defensive Rebound.,56,53,3,3,0.7220703360985865,0.7220703360985865,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,281,2,4:01,241,241,Isaiah Washington made Layup.,58,53,5,17,0.8281039346531525,0.8281039346531525,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,282,2,4:01,241,241,Foul on Armon Harried.,58,53,5,0,0.8281039346531525,0.8281039346531525,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,283,2,4:01,241,241,Isaiah Washington made Free Throw.,59,53,6,0,0.868378623225273,0.868378623225273,3,4,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,284,2,3:52,232,232,Foul on Isaiah Washington.,59,53,6,9,0.8683619593982231,0.8683619593982231,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,285,2,3:52,232,232,Official TV Timeout,59,53,6,0,0.8683619593982231,0.8683619593982231,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,286,2,3:52,232,232,Corey Brown missed Free Throw.,59,53,6,0,0.8683619593982231,0.8683619593982231,3,4,NA,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,287,2,3:52,232,232,Canisius Offensive Rebound.,59,53,6,0,0.8683619593982231,0.8683619593982231,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,288,2,3:52,232,232,Corey Brown made Free Throw.,59,54,5,0,0.8280866403637539,0.8280866403637539,3,4,NA,NA,NA,Canisius,made,Corey Brown,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,289,2,3:27,207,207,Tajuan Agee missed Jumper.,59,54,5,25,0.8376806924933884,0.8376806924933884,3,4,NA,NA,NA,Iona,missed,Tajuan Agee,NA,FALSE,FALSE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,290,2,3:23,203,203,Corey Brown Defensive Rebound.,59,54,5,4,0.8408987187842201,0.8408987187842201,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,291,2,3:17,197,197,Majesty Brandon missed Jumper.,59,54,5,6,0.8467013341873442,0.8467013341873442,3,4,NA,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,292,2,3:13,193,193,Isaiah Washington Defensive Rebound.,59,54,5,4,0.8512243162286478,0.8512243162286478,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,293,2,2:50,170,170,Foul on Tajuan Agee.,59,54,5,23,0.8793648835975553,0.8793648835975553,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,294,2,2:50,170,170,Tajuan Agee Turnover.,59,54,5,0,0.8793648835975553,0.8793648835975553,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,295,2,2:50,170,170,Technical Foul on Tajuan Agee.,59,54,5,0,0.8793648835975553,0.8793648835975553,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,296,2,2:50,170,170,Technical Foul on Jordan Henderson.,59,54,5,0,0.8793648835975553,0.8793648835975553,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,297,2,2:33,153,153,Majesty Brandon Turnover.,59,54,5,17,0.8987277593762579,0.8987277593762579,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,298,2,2:33,153,153,Canisius  Timeout,59,54,5,0,0.8987277593762579,0.8987277593762579,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,299,2,2:11,131,131,Foul on Jordan Henderson.,59,54,5,22,0.9227975655485046,0.9227975655485046,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,300,2,2:11,131,131,E.J. Crawford made Free Throw.,60,54,6,0,0.9515322373202999,0.9515322373202999,3,3,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,301,2,2:11,131,131,E.J. Crawford made Free Throw.,61,54,7,0,0.9699205065191316,0.9699205065191316,3,3,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,302,2,1:53,113,113,Malik Johnson missed Layup.,61,54,7,18,0.9799495386374324,0.9799495386374324,3,3,NA,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,303,2,1:52,112,112,Foul on Jordan Henderson.,61,54,7,1,0.9804451072303482,0.9804451072303482,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,304,2,1:52,112,112,Isaiah Washington made Free Throw.,62,54,8,0,0.9887273099830783,0.9887273099830783,3,3,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,305,2,1:52,112,112,Isaiah Washington made Free Throw.,63,54,9,0,0.9935248675608171,0.9935248675608171,3,3,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,306,2,1:50,110,110,Isaiah Washington Defensive Rebound.,63,54,9,2,0.9939403475393204,0.9939403475393204,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,307,2,1:39,99,99,Foul on Dylan van Eyck.,63,54,9,11,0.9959067747911999,0.9959067747911999,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,308,2,1:39,99,99,Malik Johnson made Free Throw.,63,55,8,0,0.9924889483374048,0.9924889483374048,3,3,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,309,2,1:39,99,99,Malik Johnson made Free Throw.,63,56,7,0,0.9862566336532477,0.9862566336532477,3,3,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,310,2,1:34,94,94,Foul on Jordan Henderson.,63,56,7,5,0.9881711086612761,0.9881711086612761,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,311,2,1:34,94,94,Isaiah Ross made Free Throw.,64,56,8,0,0.993678757496295,0.993678757496295,3,3,NA,NA,NA,Iona,made,Isaiah Ross,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,312,2,1:34,94,94,Isaiah Ross missed Free Throw.,64,56,8,0,0.993678757496295,0.993678757496295,3,3,NA,NA,NA,Iona,missed,Isaiah Ross,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,313,2,1:34,94,94,Majesty Brandon Defensive Rebound.,64,56,8,0,0.993678757496295,0.993678757496295,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,314,2,1:19,79,79,Jacco Fritz Turnover.,64,56,8,15,0.996327455172252,0.996327455172252,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,315,2,1:19,79,79,Canisius  Timeout,64,56,8,0,0.996327455172252,0.996327455172252,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,316,2,1:01,61,61,Foul on Majesty Brandon.,64,56,8,18,0.99822358311674,0.99822358311674,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,317,2,1:01,61,61,Isaiah Washington made Free Throw.,65,56,9,0,0.9991941456023136,0.9991941456023136,3,2,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,318,2,1:01,61,61,Isaiah Washington made Free Throw.,66,56,10,0,0.9996346260133591,0.9996346260133591,3,2,NA,NA,NA,Iona,made,Isaiah Washington,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,319,2,0:48,48,48,Jalanni White missed Three Point Jumper.,66,56,10,13,0.9998213197769107,0.9998213197769107,3,2,NA,NA,NA,Canisius,missed,Jalanni White,NA,TRUE,FALSE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,320,2,0:44,44,44,Malik Johnson Offensive Rebound.,66,56,10,4,0.9998582283618525,0.9998582283618525,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,321,2,0:43,43,43,Foul on Dylan van Eyck.,66,56,10,1,0.9998663205789873,0.9998663205789873,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,322,2,0:43,43,43,Malik Johnson made Free Throw.,66,57,9,0,0.9996738865566699,0.9996738865566699,3,2,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401211031,2020-03-10,Iona,Canisius,323,2,0:43,43,43,Malik Johnson made Free Throw.,66,58,8,0,0.9992046605148502,0.9992046605148502,3,2,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,324,2,0:36,36,36,Foul on Jalanni White.,66,58,8,7,0.9994319590091987,0.9994319590091987,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,325,2,0:36,36,36,Ben Perez made Free Throw.,67,58,9,0,0.9997767159160386,0.9997767159160386,3,2,NA,NA,NA,Iona,made,Ben Perez,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,326,2,0:36,36,36,Ben Perez made Free Throw.,68,58,10,0,0.9999122504408098,0.9999122504408098,3,2,NA,NA,NA,Iona,made,Ben Perez,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,327,2,0:27,27,27,Malik Johnson missed Three Point Jumper.,68,58,10,9,0.9999500007185261,0.9999500007185261,3,2,NA,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,328,2,0:25,25,25,Iona Defensive Rebound.,68,58,10,2,0.9999559950856023,0.9999559950856023,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,329,2,0:25,25,25,Canisius  Timeout,68,58,10,0,0.9999559950856023,0.9999559950856023,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,330,2,0:24,24,24,Foul on Armon Harried.,68,58,10,1,0.9999587303921296,0.9999587303921296,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,331,2,0:24,24,24,E.J. Crawford made Free Throw.,69,58,11,0,0.9999849614293205,0.9999849614293205,3,1,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Iona
+401211031,2020-03-10,Iona,Canisius,332,2,0:24,24,24,E.J. Crawford made Free Throw.,70,58,12,0,0.999994520063334,0.999994520063334,3,1,NA,NA,NA,Iona,made,E.J. Crawford,NA,FALSE,TRUE,Iona,Canisius
+401211031,2020-03-10,Iona,Canisius,333,2,0:17,17,17,Malik Johnson made Layup.,70,60,10,7,0.9999739675610575,0.9999739675610575,3,1,NA,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Iona
+401211031,2020-03-10,Iona,Canisius,334,2,0:00,0,0,End of 2nd half,70,60,10,17,1,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,NA
+401211031,2020-03-10,Iona,Canisius,335,2,0:00,0,0,End of Game,70,60,10,0,1,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iona,NA

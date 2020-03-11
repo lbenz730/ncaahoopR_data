@@ -1,0 +1,273 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401176080,2020-02-29,Mercer,Wofford,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.4204656748757369,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mercer
+401176080,2020-02-29,Mercer,Wofford,2,1,19:46,2386,2386,Foul on Trevor Stumpe.,0,0,0,14,0.42057517006395795,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,3,1,19:46,2386,2386,Trevor Stumpe Turnover.,0,0,0,0,0.42057517006395795,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,4,1,19:33,2373,2373,Maciej Bender missed Layup.,0,0,0,13,0.42067850091181797,0.5,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,5,1,19:28,2368,2368,Storm Murphy Defensive Rebound.,0,0,0,5,0.4207186747627887,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,6,1,19:13,2353,2353,Storm Murphy missed Three Point Jumper.,0,0,0,15,0.42084065575196067,0.5,4,4,-2,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,7,1,19:09,2349,2349,Ethan Stair Defensive Rebound.,0,0,0,4,0.4208735578025504,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,8,1,18:56,2336,2336,Djordje Dimitrijevic missed Three Point Jumper.,0,0,0,13,0.4209815921573095,0.5,4,4,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,TRUE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,9,1,18:52,2332,2332,Maciej Bender Offensive Rebound.,0,0,0,4,0.4210151759693525,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,10,1,18:34,2314,2314,Djordje Dimitrijevic made Jumper.,2,0,2,18,0.46656209419285044,0.5458774918069081,4,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,11,1,18:12,2292,2292,Chevez Goodwin missed Layup.,2,0,2,22,0.46724785130804125,0.546365429477102,4,4,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,12,1,18:09,2289,2289,Djordje Dimitrijevic Defensive Rebound.,2,0,2,3,0.46734216706232046,0.5464323470136655,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,13,1,17:58,2278,2278,Foul on Storm Murphy.,2,0,2,11,0.4676896054042677,0.5466784441662067,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,14,1,17:57,2277,2277,Maciej Bender made Dunk. Assisted by Jeffrey Gary.,4,0,4,1,0.514509677498461,0.5925939651426274,4,4,-2,NA,NA,Mercer,made,Maciej Bender,Jeffrey Gary,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,15,1,17:31,2251,2251,Chevez Goodwin missed Layup.,4,0,4,26,0.5159346860242707,0.593735634626751,4,4,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,16,1,17:28,2248,2248,Ethan Stair Defensive Rebound.,4,0,4,3,0.516100312125075,0.5938680000550642,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,17,1,17:12,2232,2232,Maciej Bender missed Layup.,4,0,4,16,0.5169876379043165,0.5945759284567792,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,18,1,17:09,2229,2229,Chevez Goodwin Defensive Rebound.,4,0,4,3,0.5171547393815418,0.5947090144780959,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,19,1,17:00,2220,2220,Chevez Goodwin Turnover.,4,0,4,9,0.5176573757358948,0.5951088823675076,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,20,1,17:00,2220,2220,Djordje Dimitrijevic Steal.,4,0,4,0,0.5176573757358948,0.5951088823675076,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,21,1,16:51,2211,2211,Jeffrey Gary made Three Point Jumper. Assisted by Djordje Dimitrijevic.,7,0,7,9,0.589711279700113,0.663042366046659,4,4,-2,NA,NA,Mercer,made,Jeffrey Gary,Djordje Dimitrijevic,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,22,1,16:35,2195,2195,Trevor Stumpe made Three Point Jumper. Assisted by Nathan Hoover.,7,3,4,16,0.5190635791353444,0.596223883198557,4,4,-2,NA,NA,Wofford,made,Trevor Stumpe,Nathan Hoover,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,23,1,16:01,2161,2161,Ethan Stair missed Three Point Jumper.,7,3,4,34,0.5209977608207885,0.5977483003240017,4,4,-2,NA,NA,Mercer,missed,Ethan Stair,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,24,1,15:59,2159,2159,Trevor Stumpe Defensive Rebound.,7,3,4,2,0.5211123727351349,0.5978383183584584,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,25,1,15:53,2153,2153,Nathan Hoover made Three Point Jumper. Assisted by Trevor Stumpe.,7,6,1,6,0.4471202444437068,0.5248289890846521,4,4,-2,NA,NA,Wofford,made,Nathan Hoover,Trevor Stumpe,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,26,1,15:34,2134,2134,Kamar Robertson missed Three Point Jumper.,7,6,1,19,0.44754425859722596,0.5250520071952085,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,27,1,15:30,2130,2130,Trevor Stumpe Defensive Rebound.,7,6,1,4,0.44763425114280064,0.52509915344462,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,28,1,15:16,2116,2116,Ryan Larson Turnover.,7,6,1,14,0.4479512254054593,0.5252647261373411,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,29,1,15:16,2116,2116,Jeffrey Gary Steal.,7,6,1,0,0.4479512254054593,0.5252647261373411,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,30,1,15:04,2104,2104,Maciej Bender missed Jumper.,7,6,1,12,0.44822540492961593,0.5254073665373863,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,31,1,14:59,2099,2099,Ryan Larson Defensive Rebound.,7,6,1,5,0.44834032703237003,0.5254670039376211,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,32,1,14:53,2093,2093,Nathan Hoover missed Three Point Jumper.,7,6,1,6,0.4484787637796703,0.525538731453577,4,4,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,33,1,14:50,2090,2090,Ethan Stair Defensive Rebound.,7,6,1,3,0.44854819949435143,0.5255746628182693,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,34,1,14:36,2076,2076,Foul on Trevor Stumpe.,7,6,1,14,0.44887415489610727,0.5257429540116557,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,35,1,14:36,2076,2076,Official TV Timeout,7,6,1,0,0.44887415489610727,0.5257429540116557,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,36,1,14:36,2076,2076,Djordje Dimitrijevic made Free Throw.,8,6,2,0,0.4744827729269831,0.5513497900652782,4,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,NA,FALSE,TRUE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,37,1,14:36,2076,2076,Djordje Dimitrijevic made Free Throw.,9,6,3,0,0.500226321611168,0.5766872539992671,4,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,38,1,14:16,2056,2056,Nathan Hoover missed Jumper.,9,6,3,20,0.5011881913951021,0.5773986073145357,4,4,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,39,1,14:13,2053,2053,Ethan Stair Defensive Rebound.,9,6,3,3,0.5013334189353179,0.5775058488448567,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,40,1,13:49,2029,2029,Maciej Bender missed Layup.,9,6,3,24,0.5025043359581818,0.578369085746656,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,41,1,13:47,2027,2027,Ethan Stair Offensive Rebound.,9,6,3,2,0.5026026523730892,0.5784414600552763,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,42,1,13:43,2023,2023,Mercer  Turnover.,9,6,3,4,0.502799631517564,0.5785864166074178,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,43,1,13:25,2005,2005,Zion Richardson Turnover.,9,6,3,18,0.5036918148599677,0.579242228814988,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,44,1,13:08,1988,1988,Ethan Stair missed Jumper.,9,6,3,17,0.5045432665122364,0.5798670647020376,4,4,-2,NA,NA,Mercer,missed,Ethan Stair,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,45,1,13:04,1984,1984,Isaiah Bigelow Defensive Rebound.,9,6,3,4,0.504744876910119,0.5800148818043652,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,46,1,13:01,1981,1981,Messiah Jones made Dunk. Assisted by Tray Hollowell.,9,8,1,3,0.4511709452316186,0.5269148283875164,4,4,-2,NA,NA,Wofford,made,Messiah Jones,Tray Hollowell,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,47,1,12:32,1952,1952,Daniel Love missed Layup.,9,8,1,29,0.451902138398219,0.5272843498427181,4,4,-2,NA,NA,Mercer,missed,Daniel Love,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,48,1,12:29,1949,1949,Messiah Jones Defensive Rebound.,9,8,1,3,0.4519785957034265,0.5273229255730185,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,49,1,12:24,1944,1944,Tray Hollowell made Three Point Jumper. Assisted by Isaiah Bigelow.,9,11,-2,5,0.372585379105002,0.44538911105725526,4,4,-2,NA,NA,Wofford,made,Tray Hollowell,Isaiah Bigelow,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,50,1,11:51,1911,1911,James Glisson III missed Jumper.,9,11,-2,33,0.372185177635396,0.444540212184921,4,4,-2,NA,NA,Mercer,missed,James Glisson III,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,51,1,11:48,1908,1908,Isaiah Bigelow Defensive Rebound.,9,11,-2,3,0.37214947798672654,0.44446307073101027,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,52,1,11:46,1906,1906,Tray Hollowell Turnover.,9,11,-2,2,0.3721257505868479,0.44441165378257325,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,53,1,11:46,1906,1906,Ethan Stair Steal.,9,11,-2,0,0.3721257505868479,0.44441165378257325,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,54,1,11:41,1901,1901,Ethan Stair made Layup.,11,11,0,5,0.42566405582087263,0.5,4,4,-2,NA,NA,Mercer,made,Ethan Stair,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,55,1,11:25,1885,1885,Foul on Zion Richardson.,11,11,0,16,0.42587560923757206,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,56,1,11:25,1885,1885,Zion Richardson Turnover.,11,11,0,0,0.42587560923757206,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,57,1,11:25,1885,1885,Official TV Timeout,11,11,0,0,0.42587560923757206,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,58,1,11:17,1877,1877,Jeffrey Gary missed Three Point Jumper.,11,11,0,8,0.42598259223166823,0.5,4,4,-2,NA,NA,Mercer,missed,Jeffrey Gary,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,59,1,11:14,1874,1874,Messiah Jones Defensive Rebound.,11,11,0,3,0.4260229131767772,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,60,1,10:57,1857,1857,Isaiah Bigelow made Three Point Jumper. Assisted by Zion Richardson.,11,14,-3,17,0.34530800608877754,0.4151842634937579,4,4,-2,NA,NA,Wofford,made,Isaiah Bigelow,Zion Richardson,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,61,1,10:28,1828,1828,Ethan Stair missed Three Point Jumper.,11,14,-3,29,0.3446461060853079,0.41407556197755135,4,4,-2,NA,NA,Mercer,missed,Ethan Stair,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,62,1,10:25,1825,1825,Isaiah Bigelow Defensive Rebound.,11,14,-3,3,0.3445775382667888,0.41396026807928743,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,63,1,10:17,1817,1817,Isaiah Bigelow missed Three Point Jumper.,11,14,-3,8,0.3443944612214657,0.41365213495932324,4,4,-2,NA,NA,Wofford,missed,Isaiah Bigelow,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,64,1,10:14,1814,1814,Kamar Robertson Defensive Rebound.,11,14,-3,3,0.34432570263402534,0.4135363116959603,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,65,1,9:48,1788,1788,Djordje Dimitrijevic missed Jumper.,11,14,-3,26,0.343726279698056,0.4125252198787567,4,4,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,66,1,9:48,1788,1788,Isaiah Bigelow Block.,11,14,-3,0,0.343726279698056,0.4125252198787567,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,67,1,9:36,1776,1776,Diego Rivera Offensive Rebound.,11,14,-3,12,0.3434467456569013,0.4120534541173351,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,68,1,9:35,1775,1775,Diego Rivera missed Jumper.,11,14,-3,1,0.3434233487767182,0.4120139757486443,4,4,-2,NA,NA,Mercer,missed,Diego Rivera,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,69,1,9:35,1775,1775,Foul on Kamar Robertson.,11,14,-3,0,0.3434233487767182,0.4120139757486443,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,70,1,9:30,1770,1770,Donovan Theme-Love Defensive Rebound.,11,14,-3,5,0.34330610648112136,0.41181618402618514,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,71,1,9:29,1769,1769,Donovan Theme-Love Turnover.,11,14,-3,1,0.34328260476100697,0.41177654414072956,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,72,1,9:29,1769,1769,Diego Rivera Steal.,11,14,-3,0,0.34328260476100697,0.41177654414072956,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,73,1,9:21,1761,1761,James Glisson III missed Layup.,11,14,-3,8,0.34309391151985624,0.41145840902046776,4,4,-2,NA,NA,Mercer,missed,James Glisson III,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,74,1,9:21,1761,1761,Messiah Jones Block.,11,14,-3,0,0.34309391151985624,0.41145840902046776,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,75,1,9:15,1755,1755,James Glisson III Offensive Rebound.,11,14,-3,6,0.34295154846220965,0.41121857540469137,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,76,1,9:00,1740,1740,Ethan Stair made Layup. Assisted by James Glisson III.,13,14,-1,15,0.3987173478970626,0.46991741135359993,4,4,-2,NA,NA,Mercer,made,Ethan Stair,James Glisson III,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,77,1,8:40,1720,1720,Messiah Jones made Layup. Assisted by Donovan Theme-Love.,13,16,-3,20,0.34210388637640815,0.4097958819199593,4,4,-2,NA,NA,Wofford,made,Messiah Jones,Donovan Theme-Love,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,78,1,8:12,1692,1692,Kamar Robertson made Jumper.,15,16,-1,28,0.3987622032833137,0.46923424294704824,4,4,-2,NA,NA,Mercer,made,Kamar Robertson,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,79,1,7:55,1675,1675,Nathan Hoover missed Jumper.,15,16,-1,17,0.3987797292667363,0.4689883696758813,4,4,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,80,1,7:52,1672,1672,Djordje Dimitrijevic Defensive Rebound.,15,16,-1,3,0.3987841120986514,0.4689455984819592,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,81,1,7:47,1667,1667,Djordje Dimitrijevic missed Layup.,15,16,-1,5,0.39879222424530286,0.46887468890537076,4,4,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,82,1,7:44,1664,1664,Messiah Jones Defensive Rebound.,15,16,-1,3,0.3987975585202119,0.46883235651561483,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,83,1,7:29,1649,1649,Messiah Jones made Layup.,15,18,-3,15,0.3403591419057816,0.4068454238586608,4,4,-2,NA,NA,Wofford,made,Messiah Jones,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,84,1,6:57,1617,1617,Foul on Trevor Stumpe.,15,18,-3,32,0.33965195306728824,0.40557057631804844,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,85,1,6:57,1617,1617,Official TV Timeout,15,18,-3,0,0.33965195306728824,0.40557057631804844,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,86,1,6:57,1617,1617,Kamar Robertson made Free Throw.,16,18,-2,0,0.36879030675408886,0.43662484900125687,4,4,-2,NA,NA,Mercer,made,Kamar Robertson,NA,FALSE,TRUE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,87,1,6:57,1617,1617,Kamar Robertson made Free Throw.,17,18,-1,0,0.39891830218512536,0.4681841214915542,4,4,-2,NA,NA,Mercer,made,Kamar Robertson,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,88,1,6:39,1599,1599,Nathan Hoover missed Three Point Jumper.,17,18,-1,18,0.3989777872969791,0.4679396732784139,4,4,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,89,1,6:34,1594,1594,Maciej Bender Defensive Rebound.,17,18,-1,5,0.3989950798343701,0.4678717772371024,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,90,1,6:22,1582,1582,Jeffrey Gary made Three Point Jumper. Assisted by Kamar Robertson.,20,18,2,12,0.4946403839221065,0.564314723582379,4,4,-2,NA,NA,Mercer,made,Jeffrey Gary,Kamar Robertson,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,91,1,5:53,1553,1553,Chevez Goodwin missed Layup.,20,18,2,29,0.4959504882782896,0.5651024906265938,4,4,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,92,1,5:50,1550,1550,Maciej Bender Defensive Rebound.,20,18,2,3,0.4960875055045446,0.5651850433741029,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,93,1,5:29,1529,1529,Maciej Bender missed Layup.,20,18,2,21,0.4970562800220216,0.5657708828687078,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,94,1,5:29,1529,1529,Isaiah Bigelow Block.,20,18,2,0,0.4970562800220216,0.5657708828687078,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,95,1,5:25,1525,1525,Isaiah Bigelow Defensive Rebound.,20,18,2,4,0.49724291637634255,0.5658843048578295,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,96,1,5:18,1518,1518,Chevez Goodwin made Layup. Assisted by Storm Murphy.,20,20,0,7,0.4315308520820241,0.5,4,4,-2,NA,NA,Wofford,made,Chevez Goodwin,Storm Murphy,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,97,1,4:48,1488,1488,Maciej Bender missed Layup.,20,20,0,30,0.43205606963045146,0.5,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,98,1,4:45,1485,1485,Chevez Goodwin Defensive Rebound.,20,20,0,3,0.43210855841403345,0.5,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,99,1,4:41,1481,1481,Chevez Goodwin made Layup. Assisted by Storm Murphy.,20,22,-2,4,0.3674112986378718,0.43281622433503275,4,4,-2,NA,NA,Wofford,made,Chevez Goodwin,Storm Murphy,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,100,1,4:41,1481,1481,Foul on Jeffrey Gary.,20,22,-2,0,0.3674112986378718,0.43281622433503275,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,101,1,4:41,1481,1481,Chevez Goodwin made Free Throw.,20,23,-3,0,0.33659089867932523,0.39997836968916023,4,4,-2,NA,NA,Wofford,made,Chevez Goodwin,NA,FALSE,TRUE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,102,1,4:27,1467,1467,Jeffrey Gary missed Three Point Jumper.,20,23,-3,14,0.3362158188537303,0.3993362842478114,4,4,-2,NA,NA,Mercer,missed,Jeffrey Gary,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,103,1,4:23,1463,1463,Isaiah Bigelow Defensive Rebound.,20,23,-3,4,0.3361050162248072,0.39914910189969244,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,104,1,4:08,1448,1448,Storm Murphy missed Jumper.,20,23,-3,15,0.335674260477737,0.3984316526099437,4,4,-2,NA,NA,Wofford,missed,Storm Murphy,NA,FALSE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,105,1,4:06,1446,1446,Messiah Jones Offensive Rebound.,20,23,-3,2,0.33561622442708977,0.3983353338315703,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,106,1,4:03,1443,1443,Zion Richardson missed Three Point Jumper.,20,23,-3,3,0.3355300427858808,0.3981916750619686,4,4,-2,NA,NA,Wofford,missed,Zion Richardson,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,107,1,3:59,1439,1439,Djordje Dimitrijevic Defensive Rebound.,20,23,-3,4,0.3354167029144543,0.3980015996582488,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,108,1,3:45,1425,1425,Victor Bafutto missed Jumper.,20,23,-3,14,0.33503288485680327,0.3973483052519587,4,4,-2,NA,NA,Mercer,missed,Victor Bafutto,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,109,1,3:41,1421,1421,Isaiah Bigelow Defensive Rebound.,20,23,-3,4,0.33492652661296285,0.3971646936869728,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,110,1,3:26,1406,1406,Storm Murphy missed Jumper.,20,23,-3,15,0.33453854775700514,0.3964859709947734,4,4,-2,NA,NA,Wofford,missed,Storm Murphy,NA,FALSE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,111,1,3:25,1405,1405,Official TV Timeout,20,23,-3,1,0.3345132172202051,0.39644119843433373,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,112,1,3:24,1404,1404,Wofford Offensive Rebound.,20,23,-3,1,0.33448794553827343,0.39639647728798244,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,113,1,3:24,1404,1404,Storm Murphy Turnover.,20,23,-3,0,0.33448794553827343,0.39639647728798244,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,114,1,3:24,1404,1404,Victor Bafutto Steal.,20,23,-3,0,0.33448794553827343,0.39639647728798244,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,115,1,2:58,1378,1378,Djordje Dimitrijevic missed Jumper.,20,23,-3,26,0.33384693133351284,0.3952471344994408,4,4,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,116,1,2:54,1374,1374,Storm Murphy Defensive Rebound.,20,23,-3,4,0.3337501861426061,0.39507172739181645,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,117,1,2:51,1371,1371,Isaiah Bigelow missed Three Point Jumper.,20,23,-3,3,0.33367779283761395,0.39494025650922954,4,4,-2,NA,NA,Wofford,missed,Isaiah Bigelow,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,118,1,2:47,1367,1367,Kamar Robertson Defensive Rebound.,20,23,-3,4,0.3335814172777133,0.39476500218726407,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,119,1,2:34,1354,1354,Patrick Urey missed Layup.,20,23,-3,13,0.33326834007785,0.3941947046811711,4,4,-2,NA,NA,Mercer,missed,Patrick Urey,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,120,1,2:33,1353,1353,Mercer Offensive Rebound.,20,23,-3,1,0.33324420753610806,0.39415073082973046,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,121,1,2:31,1351,1351,Djordje Dimitrijevic made Jumper. Assisted by Jeffrey Gary.,22,23,-1,2,0.39965053550690705,0.4642058012664251,4,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,Jeffrey Gary,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,122,1,2:04,1324,1324,Tray Hollowell Turnover.,22,23,-1,27,0.39973981600945774,0.4637880796176398,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,123,1,1:46,1306,1306,Jeffrey Gary Turnover.,22,23,-1,18,0.3997932654780117,0.46350113895806266,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,124,1,1:46,1306,1306,Messiah Jones Steal.,22,23,-1,0,0.3997932654780117,0.46350113895806266,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,125,1,1:34,1294,1294,Tray Hollowell made Jumper. Assisted by Nathan Hoover.,22,25,-3,12,0.3317477388257594,0.39146931202874896,4,4,-2,NA,NA,Wofford,made,Tray Hollowell,Nathan Hoover,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,126,1,1:08,1268,1268,Victor Bafutto made Layup. Assisted by Djordje Dimitrijevic.,24,25,-1,26,0.3998734691263338,0.46285875849315894,4,4,-2,NA,NA,Mercer,made,Victor Bafutto,Djordje Dimitrijevic,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,127,1,0:45,1245,1245,Tray Hollowell Turnover.,24,25,-1,23,0.3998900262573467,0.4624367814721293,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,128,1,0:45,1245,1245,Ethan Stair Steal.,24,25,-1,0,0.3998900262573467,0.4624367814721293,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,129,1,0:37,1237,1237,Kamar Robertson missed Three Point Jumper.,24,25,-1,8,0.3998885145295356,0.4622827512365301,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,TRUE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,130,1,0:33,1233,1233,Victor Bafutto Offensive Rebound.,24,25,-1,4,0.39988619275116194,0.4622041951435076,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,131,1,0:31,1231,1231,Kamar Robertson missed Jumper.,24,25,-1,2,0.39988462451831225,0.46216451819114257,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,132,1,0:30,1230,1230,Kamar Robertson Offensive Rebound.,24,25,-1,1,0.3998837365830027,0.4621445782809615,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,133,1,0:30,1230,1230,Foul on Storm Murphy.,24,25,-1,0,0.3998837365830027,0.4621445782809615,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,134,1,0:28,1228,1228,Djordje Dimitrijevic Turnover.,24,25,-1,2,0.3998817502419524,0.4621044931534604,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,135,1,0:11,1211,1211,Isaiah Bigelow Turnover.,24,25,-1,17,0.3998529261413733,0.46175219207966456,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,136,1,0:11,1211,1211,Mercer  Timeout,24,25,-1,0,0.3998529261413733,0.46175219207966456,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,137,1,0:03,1203,1203,Jeffrey Gary made Three Point Jumper.,27,25,2,8,0.5139394840839699,0.5763852586073499,3,4,-2,NA,NA,Mercer,made,Jeffrey Gary,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,138,1,0:00,1200,1200,End of 1st half,27,25,2,3,0.5141231839195188,0.5765093285143758,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,NA
+401176080,2020-02-29,Mercer,Wofford,139,2,20:00,1200,1200,PLAY,27,25,2,0,0.5141231839195188,0.5765093285143758,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mercer
+401176080,2020-02-29,Mercer,Wofford,140,2,19:27,1167,1167,Kamar Robertson missed Jumper.,27,25,2,33,0.5160967841800665,0.5778327029115884,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,141,2,19:25,1165,1165,Maciej Bender Offensive Rebound.,27,25,2,2,0.5162142852013146,0.577911061245727,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,142,2,19:23,1163,1163,Djordje Dimitrijevic made Three Point Jumper. Assisted by Maciej Bender.,30,25,5,2,0.6311460659836146,0.6870387806084299,4,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,Maciej Bender,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,143,2,18:58,1138,1138,Chevez Goodwin made Dunk. Assisted by Isaiah Bigelow.,30,27,3,25,0.5573556863653529,0.617217016219744,4,4,-2,NA,NA,Wofford,made,Chevez Goodwin,Isaiah Bigelow,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,144,2,18:36,1116,1116,Foul on Chevez Goodwin.,30,27,3,22,0.5590524449016427,0.6184560719295727,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,145,2,18:36,1116,1116,Maciej Bender missed Free Throw.,30,27,3,0,0.5590524449016427,0.6184560719295727,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,TRUE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,146,2,18:36,1116,1116,Mercer Deadball Team Rebound.,30,27,3,0,0.5590524449016427,0.6184560719295727,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,147,2,18:36,1116,1116,Maciej Bender made Free Throw.,31,27,4,0,0.5982833305458957,0.6556571584775207,4,4,-2,NA,NA,Mercer,made,Maciej Bender,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,148,2,18:15,1095,1095,Nathan Hoover made Three Point Jumper.,31,30,1,21,0.47965496195325485,0.5405847998016919,4,4,-2,NA,NA,Wofford,made,Nathan Hoover,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,149,2,17:56,1076,1076,Kamar Robertson missed Three Point Jumper.,31,30,1,19,0.48040325276417895,0.5409771556859705,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,150,2,17:49,1069,1069,Nathan Hoover Defensive Rebound.,31,30,1,7,0.48068314439808785,0.5411253070102343,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,151,2,17:44,1064,1064,Isaiah Bigelow missed Three Point Jumper.,31,30,1,5,0.4808847062780059,0.5412325259015369,4,4,-2,NA,NA,Wofford,missed,Isaiah Bigelow,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,152,2,17:40,1060,1060,Maciej Bender Defensive Rebound.,31,30,1,4,0.4810470176663298,0.5413192039328795,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,153,2,17:20,1040,1040,Kamar Robertson missed Layup.,31,30,1,20,0.48187462600670933,0.5417662035423257,4,4,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,154,2,17:20,1040,1040,Isaiah Bigelow Block.,31,30,1,0,0.48187462600670933,0.5417662035423257,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,155,2,17:16,1036,1036,Chevez Goodwin Defensive Rebound.,31,30,1,4,0.48204372354936287,0.541858628540527,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,156,2,17:13,1033,1033,Nathan Hoover made Three Point Jumper. Assisted by Chevez Goodwin.,31,33,-2,3,0.3599288248316425,0.4167282257342508,4,4,-2,NA,NA,Wofford,made,Nathan Hoover,Chevez Goodwin,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,157,2,16:49,1009,1009,Jeffrey Gary made Three Point Jumper. Assisted by Djordje Dimitrijevic.,34,33,1,24,0.48322211654403635,0.542513684299699,4,4,-2,NA,NA,Mercer,made,Jeffrey Gary,Djordje Dimitrijevic,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,158,2,16:24,984,984,Foul on Maciej Bender.,34,33,1,25,0.48438057204219975,0.5431768558619834,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,159,2,16:24,984,984,Chevez Goodwin missed Free Throw.,34,33,1,0,0.48438057204219975,0.5431768558619834,4,4,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,TRUE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,160,2,16:24,984,984,Wofford Deadball Team Rebound.,34,33,1,0,0.48438057204219975,0.5431768558619834,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,161,2,16:24,984,984,Chevez Goodwin missed Free Throw.,34,33,1,0,0.48438057204219975,0.5431768558619834,4,4,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,TRUE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,162,2,16:22,982,982,Maciej Bender Defensive Rebound.,34,33,1,2,0.4844764430838697,0.5432325904653514,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,163,2,16:14,974,974,Foul on Chevez Goodwin.,34,33,1,8,0.48486504124666147,0.5434598154266636,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,164,2,16:12,972,972,Foul on Ryan Larson.,34,33,1,2,0.4849635019695025,0.5435177202779964,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,165,2,16:12,972,972,Foul on Kamar Robertson.,34,33,1,0,0.4849635019695025,0.5435177202779964,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,166,2,16:12,972,972,Kamar Robertson Turnover.,34,33,1,0,0.4849635019695025,0.5435177202779964,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,167,2,16:00,960,960,Messiah Jones made Dunk. Assisted by Storm Murphy.,34,35,-1,12,0.3990039336354874,0.45613944057875566,4,4,-2,NA,NA,Wofford,made,Messiah Jones,Storm Murphy,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,168,2,15:38,938,938,Kamar Robertson made Three Point Jumper. Assisted by Djordje Dimitrijevic.,37,35,2,22,0.5310477379167031,0.5881728455232507,4,4,-2,NA,NA,Mercer,made,Kamar Robertson,Djordje Dimitrijevic,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,169,2,15:14,914,914,Trevor Stumpe missed Three Point Jumper.,37,35,2,24,0.5326065589678961,0.5892771424475891,4,4,-2,NA,NA,Wofford,missed,Trevor Stumpe,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,170,2,15:09,909,909,Maciej Bender Defensive Rebound.,37,35,2,5,0.5329175630579787,0.5894963605460162,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,171,2,15:06,906,906,Foul on Ryan Larson.,37,35,2,3,0.5331024934659722,0.5896265960334257,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,172,2,15:06,906,906,Official TV Timeout,37,35,2,0,0.5331024934659722,0.5896265960334257,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,173,2,15:06,906,906,Foul on Messiah Jones.,37,35,2,0,0.5331024934659722,0.5896265960334257,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,174,2,14:55,895,895,Maciej Bender missed Jumper.,37,35,2,11,0.5337721417611309,0.5900977143087393,4,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,175,2,14:49,889,889,Donovan Theme-Love Defensive Rebound.,37,35,2,6,0.534133423338137,0.5903517647975273,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,176,2,14:27,867,867,Nathan Hoover missed Three Point Jumper.,37,35,2,22,0.5354529361482147,0.591281197572097,4,4,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,177,2,14:24,864,864,Trevor Stumpe Offensive Rebound.,37,35,2,3,0.5356340619078274,0.5914091890709421,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,178,2,14:09,849,849,Wofford  Turnover.,37,35,2,15,0.5365524469488145,0.5920606276654343,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,179,2,13:49,829,829,Kamar Robertson Turnover.,37,35,2,20,0.537830855586831,0.5929761308717059,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,180,2,13:37,817,817,Trevor Stumpe Turnover.,37,35,2,12,0.5386415795195607,0.5935627864884585,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,181,2,13:21,801,801,Djordje Dimitrijevic missed Three Point Jumper.,37,35,2,16,0.5397902927254725,0.5944023751206697,4,4,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,182,2,13:18,798,798,Messiah Jones Defensive Rebound.,37,35,2,3,0.5400156737165903,0.5945682299235934,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,183,2,13:13,793,793,Trevor Stumpe missed Three Point Jumper.,37,35,2,5,0.5403990718353953,0.5948511850622467,4,4,-2,NA,NA,Wofford,missed,Trevor Stumpe,NA,TRUE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,184,2,13:09,789,789,Storm Murphy Offensive Rebound.,37,35,2,4,0.5407131131794869,0.5950837021047259,4,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,185,2,13:00,780,780,Donovan Theme-Love made Three Point Jumper. Assisted by Storm Murphy.,37,38,-1,9,0.3977710638869254,0.4517404653039323,4,4,-2,NA,NA,Wofford,made,Donovan Theme-Love,Storm Murphy,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,186,2,12:49,769,769,Mercer  Timeout,37,38,-1,11,0.39762654762976024,0.45137586674505015,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,187,2,12:49,769,769,Official TV Timeout,37,38,-1,0,0.39762654762976024,0.45137586674505015,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,188,2,12:42,762,762,Foul on Messiah Jones.,37,38,-1,7,0.3975252845021062,0.45112984750130675,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,189,2,12:42,762,762,Maciej Bender made Free Throw.,38,38,0,0,0.4452996902476635,0.5,3,4,-2,NA,NA,Mercer,made,Maciej Bender,NA,FALSE,TRUE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,190,2,12:42,762,762,Maciej Bender missed Free Throw.,38,38,0,0,0.4452996902476635,0.5,3,4,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,191,2,12:42,762,762,Isaiah Bigelow Defensive Rebound.,38,38,0,0,0.4452996902476635,0.5,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,192,2,12:20,740,740,Tray Hollowell missed Three Point Jumper.,38,38,0,22,0.44576805685512066,0.5,3,4,-2,NA,NA,Wofford,missed,Tray Hollowell,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,193,2,12:16,736,736,Kamar Robertson Defensive Rebound.,38,38,0,4,0.44585774656754495,0.5,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,194,2,12:04,724,724,Ethan Stair made Three Point Jumper. Assisted by Kamar Robertson.,41,38,3,12,0.5964614027606159,0.6472674384576349,3,4,-2,NA,NA,Mercer,made,Ethan Stair,Kamar Robertson,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,195,2,11:43,703,703,Messiah Jones missed Layup.,41,38,3,21,0.5993390035398289,0.6495643486695882,3,4,-2,NA,NA,Wofford,missed,Messiah Jones,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,196,2,11:43,703,703,Maciej Bender Block.,41,38,3,0,0.5993390035398289,0.6495643486695882,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,197,2,11:38,698,698,Ethan Stair Defensive Rebound.,41,38,3,5,0.599975524623431,0.6500675213656736,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,198,2,11:22,682,682,Kamar Robertson Turnover.,41,38,3,16,0.6019270859435906,0.6516006024571357,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,199,2,11:22,682,682,Donovan Theme-Love Steal.,41,38,3,0,0.6019270859435906,0.6516006024571357,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,200,2,11:03,663,663,Donovan Theme-Love made Three Point Jumper. Assisted by Zion Richardson.,41,41,0,19,0.4474592845034306,0.5,3,4,-2,NA,NA,Wofford,made,Donovan Theme-Love,Zion Richardson,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,201,2,10:36,636,636,Ethan Stair made Three Point Jumper. Assisted by Jeffrey Gary.,44,41,3,27,0.6073552216064751,0.655834450114504,3,4,-2,NA,NA,Mercer,made,Ethan Stair,Jeffrey Gary,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,202,2,10:07,607,607,Messiah Jones missed Layup.,44,41,3,29,0.6111932815670125,0.6588626473273629,3,4,-2,NA,NA,Wofford,missed,Messiah Jones,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,203,2,10:04,604,604,Ethan Stair Defensive Rebound.,44,41,3,3,0.6116294529796352,0.6592101041622435,3,4,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,204,2,9:56,596,596,Djordje Dimitrijevic made Three Point Jumper. Assisted by Ethan Stair.,47,41,6,8,0.7546074686589208,0.7905363906979639,3,4,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,Ethan Stair,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,205,2,9:47,587,587,Wofford  Timeout,47,41,6,9,0.7566930135031998,0.792250577135233,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,206,2,9:47,587,587,Official TV Timeout,47,41,6,0,0.7566930135031998,0.792250577135233,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,207,2,9:30,570,570,Chevez Goodwin missed Layup.,47,41,6,17,0.7610428867815876,0.7958418372977835,3,3,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,208,2,9:27,567,567,Ethan Stair Defensive Rebound.,47,41,6,3,0.7618721666162416,0.796528638300806,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,209,2,9:05,545,545,Djordje Dimitrijevic missed Three Point Jumper.,47,41,6,22,0.7685096338262067,0.8020426184272571,3,3,-2,NA,NA,Mercer,missed,Djordje Dimitrijevic,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,210,2,9:02,542,542,Chevez Goodwin Defensive Rebound.,47,41,6,3,0.7693939532087077,0.8027757756012371,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,211,2,8:56,536,536,Storm Murphy missed Three Point Jumper.,47,41,6,6,0.7710731708361679,0.8041641146661168,3,3,-2,NA,NA,Wofford,missed,Storm Murphy,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,212,2,8:54,534,534,Mercer Defensive Rebound.,47,41,6,2,0.7716091363401714,0.8046061670303171,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,213,2,8:36,516,516,Foul on Ryan Larson.,47,41,6,18,0.7760388438080906,0.808241150453226,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,214,2,8:36,516,516,Maciej Bender missed Free Throw.,47,41,6,0,0.7760388438080906,0.808241150453226,3,3,-2,NA,NA,Mercer,missed,Maciej Bender,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,215,2,8:36,516,516,Storm Murphy Defensive Rebound.,47,41,6,0,0.7760388438080906,0.808241150453226,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,216,2,8:34,514,514,Foul on Maciej Bender.,47,41,6,2,0.7765001974742459,0.8086181419657974,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,217,2,8:18,498,498,Trevor Stumpe Turnover.,47,41,6,16,0.780117074820967,0.8115692527972888,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,218,2,8:18,498,498,Kamar Robertson Steal.,47,41,6,0,0.780117074820967,0.8115692527972888,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,219,2,7:44,464,464,Kamar Robertson missed Three Point Jumper.,47,41,6,34,0.7885640060512462,0.8184985259126829,3,3,-2,NA,NA,Mercer,missed,Kamar Robertson,NA,TRUE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,220,2,7:41,461,461,Trevor Stumpe Defensive Rebound.,47,41,6,3,0.7894349940001951,0.8192188812994773,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,221,2,7:33,453,453,Storm Murphy missed Layup.,47,41,6,8,0.7919050316733125,0.8212676279020021,3,3,-2,NA,NA,Wofford,missed,Storm Murphy,NA,FALSE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,222,2,7:33,453,453,Maciej Bender Block.,47,41,6,0,0.7919050316733125,0.8212676279020021,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,223,2,7:33,453,453,Wofford Offensive Rebound.,47,41,6,0,0.7919050316733125,0.8212676279020021,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,224,2,7:33,453,453,Official TV Timeout,47,41,6,0,0.7919050316733125,0.8212676279020021,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,225,2,7:33,453,453,Foul on Jeffrey Gary.,47,41,6,0,0.7919050316733125,0.8212676279020021,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,226,2,7:16,436,436,Chevez Goodwin missed Jumper.,47,41,6,17,0.7979953832157176,0.8263505331864118,3,3,-2,NA,NA,Wofford,missed,Chevez Goodwin,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,227,2,7:13,433,433,Kamar Robertson Defensive Rebound.,47,41,6,3,0.7992059768491199,0.8273651695063055,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,228,2,6:55,415,415,Ethan Stair made Jumper. Assisted by Jeffrey Gary.,49,41,8,18,0.8769729415209764,0.8953906815434464,3,3,-2,NA,NA,Mercer,made,Ethan Stair,Jeffrey Gary,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,229,2,6:36,396,396,Foul on Maciej Bender.,49,41,8,19,0.8832151481903125,0.9005249864279992,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,230,2,6:32,392,392,Nathan Hoover missed Three Point Jumper.,49,41,8,4,0.8844797226384564,0.9015625449941932,3,3,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,231,2,6:27,387,387,Ethan Stair Defensive Rebound.,49,41,8,5,0.8860539829853149,0.9028538273338843,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,232,2,6:07,367,367,Djordje Dimitrijevic Turnover.,49,41,8,20,0.892461274141003,0.9081152795912594,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,233,2,6:07,367,367,Ryan Larson Steal.,49,41,8,0,0.892461274141003,0.9081152795912594,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,234,2,6:01,361,361,Ryan Larson missed Three Point Jumper.,49,41,8,6,0.8944728719612004,0.9097720240522197,3,3,-2,NA,NA,Wofford,missed,Ryan Larson,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,235,2,5:57,357,357,Jeffrey Gary Defensive Rebound.,49,41,8,4,0.8958490185385024,0.9109072947876731,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,236,2,5:33,333,333,Foul on Messiah Jones.,49,41,8,24,0.9048769597686264,0.9183968932117006,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,237,2,5:33,333,333,Maciej Bender made Free Throw.,50,41,9,0,0.9279236213160764,0.9383909337387758,3,3,-2,NA,NA,Mercer,made,Maciej Bender,NA,FALSE,TRUE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,238,2,5:33,333,333,Maciej Bender made Free Throw.,51,41,10,0,0.9457214185531209,0.953732915765073,3,3,-2,NA,NA,Mercer,made,Maciej Bender,NA,FALSE,TRUE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,239,2,5:02,302,302,Isaiah Bigelow missed Three Point Jumper.,51,41,10,31,0.9552045366248001,0.9616348350821462,3,3,-2,NA,NA,Wofford,missed,Isaiah Bigelow,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,240,2,4:58,298,298,Kamar Robertson Defensive Rebound.,51,41,10,4,0.9558334167010695,0.9621464015267439,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,241,2,4:30,270,270,Ethan Stair missed Jumper.,51,41,10,28,0.9553712190651001,0.961531448534808,3,3,-2,NA,NA,Mercer,missed,Ethan Stair,NA,FALSE,FALSE,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,242,2,4:27,267,267,Djordje Dimitrijevic Offensive Rebound.,51,41,10,3,0.9550263433016164,0.9612086164895658,3,3,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,243,2,4:26,266,266,Djordje Dimitrijevic made Layup.,53,41,12,1,0.9757378030553593,0.9791308614378051,3,3,-2,NA,NA,Mercer,made,Djordje Dimitrijevic,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,244,2,4:11,251,251,Storm Murphy made Jumper.,53,43,10,15,0.953115766502074,0.9594158732466415,3,3,-2,NA,NA,Wofford,made,Storm Murphy,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,245,2,4:11,251,251,Wofford  Timeout,53,43,10,0,0.953115766502074,0.9594158732466415,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,246,2,4:11,251,251,Official TV Timeout,53,43,10,0,0.953115766502074,0.9594158732466415,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,247,2,3:56,236,236,Ethan Stair Turnover.,53,43,10,15,0.9523228282602513,0.9585919237257793,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,248,2,3:56,236,236,Nathan Hoover Steal.,53,43,10,0,0.9523228282602513,0.9585919237257793,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,249,2,3:42,222,222,Foul on Djordje Dimitrijevic.,53,43,10,14,0.9537505303584978,0.9597126448301522,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,250,2,3:42,222,222,Storm Murphy made Free Throw.,53,44,9,0,0.9375727523420669,0.9455012081946059,3,2,-2,NA,NA,Wofford,made,Storm Murphy,NA,FALSE,TRUE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,251,2,3:42,222,222,Storm Murphy made Free Throw.,53,45,8,0,0.9162331017865003,0.9266597584791764,3,2,-2,NA,NA,Wofford,made,Storm Murphy,NA,FALSE,TRUE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,252,2,3:15,195,195,Djordje Dimitrijevic Turnover.,53,45,8,27,0.9324085240427784,0.9405634580878042,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,253,2,3:15,195,195,Isaiah Bigelow Steal.,53,45,8,0,0.9324085240427784,0.9405634580878042,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,254,2,3:04,184,184,Ryan Larson missed Layup.,53,45,8,11,0.9429177417717332,0.9497248087402015,3,2,-2,NA,NA,Wofford,missed,Ryan Larson,NA,FALSE,FALSE,Wofford,Wofford
+401176080,2020-02-29,Mercer,Wofford,255,2,3:00,180,180,Messiah Jones Offensive Rebound.,53,45,8,4,0.9464961833850355,0.952846239766277,3,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,256,2,3:00,180,180,Messiah Jones made Layup.,53,47,6,0,0.8929757519168848,0.9050405544889799,3,2,-2,NA,NA,Wofford,made,Messiah Jones,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,257,2,3:00,180,180,Mercer  Timeout,53,47,6,0,0.8929757519168848,0.9050405544889799,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,258,2,2:46,166,166,Ethan Stair made Jumper. Assisted by Maciej Bender.,55,47,8,14,0.9577282203395281,0.9626507981000952,2,2,-2,NA,NA,Mercer,made,Ethan Stair,Maciej Bender,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,259,2,2:27,147,147,Ryan Larson Turnover.,55,47,8,19,0.9704198863609195,0.9737582729999175,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,260,2,2:27,147,147,Ethan Stair Steal.,55,47,8,0,0.9704198863609195,0.9737582729999175,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,261,2,1:57,117,117,Jeffrey Gary made Jumper.,57,47,10,30,0.9950356985010356,0.9955662069413507,2,2,-2,NA,NA,Mercer,made,Jeffrey Gary,NA,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,262,2,1:45,105,105,Foul on Messiah Jones.,57,47,10,12,0.9968267866298236,0.9971548916412756,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Mercer
+401176080,2020-02-29,Mercer,Wofford,263,2,1:45,105,105,Messiah Jones Turnover.,57,47,10,0,0.9968267866298236,0.9971548916412756,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,264,2,1:16,76,76,Maciej Bender made Jumper. Assisted by Jeffrey Gary.,59,47,12,29,0.9997920957243066,0.9998117056882705,2,2,-2,NA,NA,Mercer,made,Maciej Bender,Jeffrey Gary,FALSE,FALSE,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,265,2,0:58,58,58,Messiah Jones missed Jumper.,59,47,12,18,0.9999321065437884,0.9999380914740438,2,2,-2,NA,NA,Wofford,missed,Messiah Jones,NA,FALSE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,266,2,0:55,55,55,Kamar Robertson Defensive Rebound.,59,47,12,3,0.999944245169786,0.9999491011366496,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,267,2,0:33,33,33,Foul on Maciej Bender.,59,47,12,22,0.9999882173094153,0.9999891489347429,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,268,2,0:33,33,33,Maciej Bender Turnover.,59,47,12,0,0.9999882173094153,0.9999891489347429,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,Wofford
+401176080,2020-02-29,Mercer,Wofford,269,2,0:28,28,28,Nathan Hoover missed Three Point Jumper.,59,47,12,5,0.9999919320302993,0.999992554691209,2,2,-2,NA,NA,Wofford,missed,Nathan Hoover,NA,TRUE,FALSE,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,270,2,0:25,25,25,Ethan Stair Defensive Rebound.,59,47,12,3,0.9999935943231149,0.9999940813619752,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Wofford,Mercer
+401176080,2020-02-29,Mercer,Wofford,271,2,0:00,0,0,End of 2nd half,59,47,12,25,1,1,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,NA
+401176080,2020-02-29,Mercer,Wofford,272,2,0:00,0,0,End of Game,59,47,12,0,1,1,2,2,-2,NA,NA,NA,NA,NA,NA,NA,NA,Mercer,NA

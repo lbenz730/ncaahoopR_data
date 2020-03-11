@@ -1,0 +1,308 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166253,2020-03-01,Illinois,Indiana,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.707313232497319,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166253,2020-03-01,Illinois,Indiana,2,1,19:33,2373,2373,Da'Monte Williams made Three Point Jumper. Assisted by Andres Feliz.,3,0,3,27,0.7591933467531246,0.5666738417586205,4,4,5.5,NA,NA,Illinois,made,Da'Monte Williams,Andres Feliz,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,3,1,19:00,2340,2340,Rob Phinisee missed Jumper.,3,0,3,33,0.7594233010568973,0.5677296468698028,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,4,1,18:57,2337,2337,Da'Monte Williams Defensive Rebound.,3,0,3,3,0.759443876813575,0.5678266440369557,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,5,1,18:54,2334,2334,Kofi Cockburn Turnover.,3,0,3,3,0.7594643878000106,0.5679238011187568,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,6,1,18:35,2315,2315,Justin Smith missed Three Point Jumper.,3,0,3,19,0.7595926392880938,0.5685427055409771,4,4,5.5,NA,NA,Indiana,missed,Justin Smith,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,7,1,18:31,2311,2311,Andres Feliz Defensive Rebound.,3,0,3,4,0.75961924242622,0.5686737568993776,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,8,1,18:31,2311,2311,Andres Feliz Turnover.,3,0,3,0,0.75961924242622,0.5686737568993776,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,9,1,18:05,2285,2285,Joey Brunk Turnover.,3,0,3,26,0.759788257427779,0.5695314959338853,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,10,1,17:43,2263,2263,Ayo Dosunmu missed Jumper.,3,0,3,22,0.7599252106788227,0.5702645497347195,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,11,1,17:40,2260,2260,Justin Smith Defensive Rebound.,3,0,3,3,0.759943402023834,0.5703649781600648,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,12,1,17:34,2254,2254,Rob Phinisee missed Jumper.,3,0,3,6,0.7599794126626427,0.570566149006712,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,13,1,17:33,2253,2253,Trayce Jackson-Davis Offensive Rebound.,3,0,3,1,0.7599853652246302,0.5705997172683924,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,14,1,17:33,2253,2253,Trayce Jackson-Davis made Layup.,3,2,1,0,0.7237354513796199,0.5236738188039088,4,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,15,1,17:22,2242,2242,Ayo Dosunmu made Jumper.,5,2,3,11,0.7600498820917743,0.5709696873415884,4,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,16,1,17:22,2242,2242,Foul on Joey Brunk.,5,2,3,0,0.7600498820917743,0.5709696873415884,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,17,1,17:21,2241,2241,Ayo Dosunmu missed Free Throw.,5,2,3,1,0.7600556576812177,0.5710033843260475,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,18,1,17:19,2239,2239,Indiana Defensive Rebound.,5,2,3,2,0.7600671628919746,0.5710708088675566,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,19,1,16:57,2217,2217,Rob Phinisee missed Jumper.,5,2,3,22,0.7601894899731371,0.5718149967541589,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,20,1,16:54,2214,2214,Trayce Jackson-Davis Offensive Rebound.,5,2,3,3,0.7602055416733158,0.5719168081371919,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,21,1,16:49,2209,2209,Trayce Jackson-Davis Turnover.,5,2,3,5,0.7602319420859844,0.5720866547628288,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,22,1,16:49,2209,2209,Ayo Dosunmu Steal.,5,2,3,0,0.7602319420859844,0.5720866547628288,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,23,1,16:44,2204,2204,Andres Feliz missed Jumper.,5,2,3,5,0.7602578928680711,0.5722566941444102,4,4,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,24,1,16:44,2204,2204,Justin Smith Block.,5,2,3,0,0.7602578928680711,0.5722566941444102,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,25,1,16:44,2204,2204,Illinois Offensive Rebound.,5,2,3,0,0.7602578928680711,0.5722566941444102,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,26,1,16:32,2192,2192,Andres Feliz Turnover.,5,2,3,12,0.7603182774006138,0.5726655165928087,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,27,1,16:32,2192,2192,Rob Phinisee Steal.,5,2,3,0,0.7603182774006138,0.5726655165928087,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,28,1,16:13,2173,2173,Justin Smith made Jumper.,5,4,1,19,0.7227198016387716,0.52459578324734,4,4,5.5,NA,NA,Indiana,made,Justin Smith,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,29,1,15:56,2156,2156,Foul on Joey Brunk.,5,4,1,17,0.7224833898733751,0.5247939107609239,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,30,1,15:56,2156,2156,Official TV Timeout,5,4,1,0,0.7224833898733751,0.5247939107609239,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,31,1,15:56,2156,2156,Kofi Cockburn missed Free Throw.,5,4,1,0,0.7224833898733751,0.5247939107609239,4,4,5.5,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,32,1,15:56,2156,2156,Illinois Deadball Team Rebound.,5,4,1,0,0.7224833898733751,0.5247939107609239,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,33,1,15:55,2155,2155,Kofi Cockburn missed Free Throw.,5,4,1,1,0.7224692742768806,0.5248055995621104,4,4,5.5,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,34,1,15:53,2153,2153,Justin Smith Defensive Rebound.,5,4,1,2,0.7224409743882568,0.5248289890846521,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,35,1,15:34,2134,2134,Devonte Green missed Layup.,5,4,1,19,0.7221676084059985,0.5250520071952085,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,36,1,15:29,2129,2129,Justin Smith Offensive Rebound.,5,4,1,5,0.7220943296919949,0.5251109509496074,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,37,1,15:29,2129,2129,Justin Smith missed Layup.,5,4,1,0,0.7220943296919949,0.5251109509496074,4,4,5.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,38,1,15:28,2128,2128,Da'Monte Williams Defensive Rebound.,5,4,1,1,0.7220796078101188,0.5251227528657562,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,39,1,15:26,2126,2126,Ayo Dosunmu missed Three Point Jumper.,5,4,1,2,0.7220500981876471,0.5251463699997507,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,TRUE,FALSE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,40,1,15:22,2122,2122,Kofi Cockburn Offensive Rebound.,5,4,1,4,0.7219908164892331,0.5251936579520097,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,41,1,15:20,2120,2120,Kofi Cockburn made Layup.,7,4,3,2,0.7606269653905704,0.5751427199016728,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,42,1,15:05,2105,2105,Trayce Jackson-Davis missed Jumper.,7,4,3,15,0.7606821125312233,0.5756662813686515,4,4,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,43,1,15:01,2101,2101,Kofi Cockburn Defensive Rebound.,7,4,3,4,0.7606963667270388,0.5758064036418306,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,44,1,14:42,2082,2082,Foul on Devonte Green.,7,4,3,19,0.7607616401162404,0.5764750287881344,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,45,1,14:30,2070,2070,Andres Feliz made Three Point Jumper. Assisted by Trent Frazier.,10,4,6,12,0.8126216819443671,0.6502460444590433,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,Trent Frazier,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,46,1,14:15,2055,2055,Foul on Trent Frazier.,10,4,6,15,0.8129942464195767,0.6512412602431098,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,47,1,14:15,2055,2055,Al Durham made Free Throw.,10,5,5,0,0.7966523568315729,0.6272451488777904,4,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,48,1,14:15,2055,2055,Al Durham made Free Throw.,10,6,4,0,0.7792701214673247,0.6026054815425574,4,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,49,1,14:03,2043,2043,Alan Griffin missed Three Point Jumper.,10,6,4,12,0.7794054819911912,0.6031681487995326,4,4,5.5,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,50,1,13:59,2039,2039,Al Durham Defensive Rebound.,10,6,4,4,0.7794504718997215,0.6033563643423405,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,51,1,13:59,2039,2039,Foul on Alan Griffin.,10,6,4,0,0.7794504718997215,0.6033563643423405,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,52,1,13:43,2023,2023,Race Thompson made Layup. Assisted by Al Durham.,10,8,2,16,0.7411962598101152,0.5526331514348236,4,4,5.5,NA,NA,Indiana,made,Race Thompson,Al Durham,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,53,1,13:18,1998,1998,Giorgi Bezhanishvili made Layup. Assisted by Alan Griffin.,12,8,4,25,0.7799090456795837,0.6053056802545828,4,4,5.5,NA,NA,Illinois,made,Giorgi Bezhanishvili,Alan Griffin,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,54,1,13:11,1991,1991,Foul on Kipper Nichols.,12,8,4,7,0.7799870662328614,0.6056423317370214,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,55,1,13:09,1989,1989,Devonte Green made Three Point Jumper. Assisted by Al Durham.,12,11,1,2,0.7198352743454566,0.5268139350911306,4,4,5.5,NA,NA,Indiana,made,Devonte Green,Al Durham,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,56,1,12:51,1971,1971,Ayo Dosunmu missed Layup.,12,11,1,18,0.7195185114139588,0.5270415699647331,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,57,1,12:48,1968,1968,De'Ron Davis Defensive Rebound.,12,11,1,3,0.719465194518579,0.5270797301680951,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,58,1,12:46,1966,1966,Devonte Green made Three Point Jumper.,12,14,-2,2,0.6493201481662408,0.4459484329686287,4,4,5.5,NA,NA,Indiana,made,Devonte Green,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,59,1,12:18,1938,1938,Alan Griffin made Layup.,14,14,0,28,0.6961774105856803,0.5,4,4,5.5,NA,NA,Illinois,made,Alan Griffin,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,60,1,11:59,1919,1919,Race Thompson Turnover.,14,14,0,19,0.6956003106585582,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,61,1,11:59,1919,1919,Official TV Timeout,14,14,0,0,0.6956003106585582,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,62,1,11:29,1889,1889,Andres Feliz made Jumper.,16,14,2,30,0.7402110615028457,0.5560252272305706,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,63,1,11:16,1876,1876,Devonte Green missed Jumper.,16,14,2,13,0.7400959376384967,0.5563594356283966,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,64,1,11:12,1872,1872,Andres Feliz Defensive Rebound.,16,14,2,4,0.7400596842788358,0.5564623496308995,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,65,1,11:03,1863,1863,Andres Feliz missed Jumper.,16,14,2,9,0.7399767823307352,0.5566941227763208,4,4,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,66,1,11:01,1861,1861,Devonte Green Defensive Rebound.,16,14,2,2,0.7399581197940579,0.5567456771006288,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,67,1,10:59,1859,1859,Devonte Green Turnover.,16,14,2,2,0.7399393733565006,0.5567972519698614,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,68,1,10:59,1859,1859,Andres Feliz Steal.,16,14,2,0,0.7399393733565006,0.5567972519698614,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,69,1,10:53,1853,1853,Da'Monte Williams made Dunk. Assisted by Alan Griffin.,18,14,4,6,0.7814540557665582,0.6124453390478954,4,4,5.5,NA,NA,Illinois,made,Da'Monte Williams,Alan Griffin,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,70,1,10:51,1851,1851,Indiana  Timeout,18,14,4,2,0.7814728975245161,0.6125447374253531,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,71,1,10:29,1829,1829,Justin Smith missed Layup.,18,14,4,22,0.7816774363415027,0.6136415605331016,3,4,5.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,72,1,10:25,1825,1825,Race Thompson Offensive Rebound.,18,14,4,4,0.7817142247209128,0.6138418025824749,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,73,1,10:25,1825,1825,Race Thompson missed Jumper.,18,14,4,0,0.7817142247209128,0.6138418025824749,3,4,5.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,74,1,10:18,1818,1818,Trayce Jackson-Davis Offensive Rebound.,18,14,4,7,0.7817784258533323,0.6141929566409032,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,75,1,10:18,1818,1818,Trayce Jackson-Davis made Dunk.,18,16,2,0,0.7395391238008296,0.5578610929063598,3,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,76,1,9:53,1793,1793,Trent Frazier missed Three Point Jumper.,18,16,2,25,0.7392837444093229,0.5585187786108389,3,4,5.5,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,77,1,9:52,1792,1792,Indiana Defensive Rebound.,18,16,2,1,0.7392734067746578,0.5585452723535816,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,78,1,9:32,1772,1772,Race Thompson missed Jumper.,18,16,2,20,0.7390652982084811,0.5590786494312441,3,4,5.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,79,1,9:32,1772,1772,Kofi Cockburn Block.,18,16,2,0,0.7390652982084811,0.5590786494312441,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,80,1,9:27,1767,1767,Trent Frazier Defensive Rebound.,18,16,2,5,0.739012972353642,0.5592131188211865,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,81,1,9:25,1765,1765,Foul on Race Thompson.,18,16,2,2,0.738992020756005,0.5592670422161009,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,82,1,9:19,1759,1759,Ayo Dosunmu made Jumper.,20,16,4,6,0.7823231427885075,0.6172028198077962,3,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,83,1,8:49,1729,1729,Al Durham made Three Point Jumper. Assisted by Jerome Hunter.,20,19,1,30,0.714570717173316,0.5302363769812525,3,4,5.5,NA,NA,Indiana,made,Al Durham,Jerome Hunter,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,84,1,8:28,1708,1708,Foul on Trayce Jackson-Davis.,20,19,1,21,0.7140962331414736,0.5305344094488547,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,85,1,8:15,1695,1695,Alan Griffin missed Jumper.,20,19,1,13,0.7138016111436596,0.530722080615399,3,4,5.5,NA,NA,Illinois,missed,Alan Griffin,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,86,1,8:11,1691,1691,Trayce Jackson-Davis Defensive Rebound.,20,19,1,4,0.713710881641054,0.5307803473852636,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,87,1,8:04,1684,1684,Foul on Giorgi Bezhanishvili.,20,19,1,7,0.7135506774441277,0.5308822181276144,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,88,1,8:00,1680,1680,Foul on Giorgi Bezhanishvili.,20,19,1,4,0.7134574785808362,0.5309399454357937,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,89,1,8:00,1680,1680,Official TV Timeout,20,19,1,0,0.7134574785808362,0.5309399454357937,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,90,1,7:48,1668,1668,Trayce Jackson-Davis made Jumper. Assisted by Rob Phinisee.,20,21,-1,12,0.6596249948743461,0.4688888345285061,3,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,Rob Phinisee,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,91,1,7:20,1640,1640,Trent Frazier missed Layup.,20,21,-1,28,0.6581467878047332,0.46849850837981005,3,4,5.5,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,92,1,7:20,1640,1640,Jerome Hunter Block.,20,21,-1,0,0.6581467878047332,0.46849850837981005,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,93,1,7:14,1634,1634,Justin Smith Defensive Rebound.,20,21,-1,6,0.6578257062162949,0.46841611073538614,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,94,1,7:04,1624,1624,Armaan Franklin missed Jumper.,20,21,-1,10,0.6572872818294727,0.46827943443802217,3,4,5.5,NA,NA,Indiana,missed,Armaan Franklin,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,95,1,6:59,1619,1619,Alan Griffin Defensive Rebound.,20,21,-1,5,0.6570165511317991,0.46821133033697643,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,96,1,6:56,1616,1616,Trent Frazier Turnover.,20,21,-1,3,0.6568536330948666,0.4681705229978664,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,97,1,6:56,1616,1616,Trayce Jackson-Davis Steal.,20,21,-1,0,0.6568536330948666,0.4681705229978664,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,98,1,6:49,1609,1609,Rob Phinisee made Layup.,20,23,-3,7,0.5967321410702844,0.4052548553490867,3,4,5.5,NA,NA,Indiana,made,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,99,1,6:16,1576,1576,Alan Griffin made Three Point Jumper. Assisted by Ayo Dosunmu.,23,23,0,33,0.6833498760049757,0.5,3,4,5.5,NA,NA,Illinois,made,Alan Griffin,Ayo Dosunmu,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,100,1,5:54,1554,1554,Foul on Ayo Dosunmu.,23,23,0,22,0.6824287546530443,0.5,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,101,1,5:54,1554,1554,Trayce Jackson-Davis made Free Throw.,23,24,-1,0,0.6534102670623066,0.46732351831370933,3,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,102,1,5:54,1554,1554,Trayce Jackson-Davis made Free Throw.,23,25,-2,0,0.6232042311729796,0.4349249727081218,3,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,103,1,5:43,1543,1543,Alan Griffin missed Three Point Jumper.,23,25,-2,11,0.6224107889304916,0.4346213148329657,3,4,5.5,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,104,1,5:40,1540,1540,Rob Phinisee Defensive Rebound.,23,25,-2,3,0.6221933364473482,0.4345378537685399,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,105,1,5:32,1532,1532,Rob Phinisee missed Layup.,23,25,-2,8,0.6216111898118544,0.43431376456176324,3,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,106,1,5:32,1532,1532,Kofi Cockburn Block.,23,25,-2,0,0.6216111898118544,0.43431376456176324,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,107,1,5:26,1526,1526,Trayce Jackson-Davis Offensive Rebound.,23,25,-2,6,0.6211723697810008,0.43414411212486964,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,108,1,5:25,1525,1525,Trayce Jackson-Davis Turnover.,23,25,-2,1,0.6210990459904053,0.43411569514217063,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,109,1,5:25,1525,1525,Andres Feliz Steal.,23,25,-2,0,0.6210990459904053,0.43411569514217063,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,110,1,4:52,1492,1492,Ayo Dosunmu missed Jumper.,23,25,-2,33,0.6186481046733103,0.43315120668865426,3,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,111,1,4:49,1489,1489,Race Thompson Defensive Rebound.,23,25,-2,3,0.6184221703756374,0.433060594158537,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,112,1,4:36,1476,1476,Al Durham made Jumper.,23,27,-4,13,0.551734678411313,0.36772201028558377,3,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,113,1,4:36,1476,1476,Foul on Kofi Cockburn.,23,27,-4,0,0.551734678411313,0.36772201028558377,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,114,1,4:36,1476,1476,Al Durham made Free Throw.,23,28,-5,0,0.5180375455474489,0.336818971960546,3,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,115,1,4:22,1462,1462,Ayo Dosunmu missed Jumper.,23,28,-5,14,0.5162280662784225,0.33581208311226945,3,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,116,1,4:22,1462,1462,Ayo Dosunmu Offensive Rebound.,23,28,-5,0,0.5162280662784225,0.33581208311226945,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,117,1,4:22,1462,1462,Ayo Dosunmu made Jumper.,25,28,-3,0,0.5836415417523871,0.39910203497334307,3,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,118,1,4:22,1462,1462,Foul on Al Durham.,25,28,-3,0,0.5836415417523871,0.39910203497334307,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,119,1,4:22,1462,1462,Ayo Dosunmu made Free Throw.,26,28,-2,0,0.6163639041166352,0.4322185143078734,3,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,120,1,4:07,1447,1447,Devonte Green Turnover.,26,28,-2,15,0.6152006832483813,0.4317282086081378,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,121,1,3:43,1423,1423,Ayo Dosunmu missed Jumper.,26,28,-2,24,0.6133378904597392,0.43095885028942466,3,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,122,1,3:39,1419,1419,Devonte Green Defensive Rebound.,26,28,-2,4,0.6130279574028847,0.4308338900841616,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,123,1,3:35,1415,1415,Devonte Green missed Layup.,26,28,-2,4,0.6127180620941268,0.43070969789667135,3,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,124,1,3:30,1410,1410,Andres Feliz Defensive Rebound.,26,28,-2,5,0.6123306805212948,0.43055544338689355,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,125,1,3:30,1410,1410,Official TV Timeout,26,28,-2,0,0.6123306805212948,0.43055544338689355,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,126,1,3:09,1389,1389,Foul on Race Thompson.,26,28,-2,21,0.6107016878435635,0.42991689574346065,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,127,1,3:09,1389,1389,Da'Monte Williams made Free Throw.,27,28,-1,0,0.6436766265597097,0.4647846245795455,3,4,5.5,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,128,1,3:09,1389,1389,Da'Monte Williams made Free Throw.,28,28,0,0,0.6753433153501932,0.5,3,4,5.5,NA,NA,Illinois,made,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,129,1,2:51,1371,1371,De'Ron Davis made Layup. Assisted by Devonte Green.,28,30,-2,18,0.609299369516398,0.42937658179074,3,4,5.5,NA,NA,Indiana,made,De'Ron Davis,Devonte Green,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,130,1,2:34,1354,1354,Foul on De'Ron Davis.,28,30,-2,17,0.6079660688096034,0.42886687123924083,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,131,1,2:34,1354,1354,Kofi Cockburn made Free Throw.,29,30,-1,0,0.6415294471950039,0.4642516270003991,3,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,132,1,2:33,1353,1353,Kofi Cockburn missed Free Throw.,29,30,-1,1,0.6414675590070686,0.46423636008834385,3,4,5.5,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,133,1,2:32,1352,1352,Justin Smith Defensive Rebound.,29,30,-1,1,0.6414056382455214,0.46422108500678355,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,134,1,2:09,1329,1329,Jerome Hunter missed Three Point Jumper.,29,30,-1,23,0.6399719905451555,0.46386637808543496,3,4,5.5,NA,NA,Indiana,missed,Jerome Hunter,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,135,1,2:02,1322,1322,Andres Feliz Defensive Rebound.,29,30,-1,7,0.6395318333051454,0.46375660716640044,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,136,1,1:58,1318,1318,Kofi Cockburn missed Layup.,29,30,-1,4,0.639279460203061,0.46369337835119284,3,4,5.5,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,137,1,1:58,1318,1318,Rob Phinisee Block.,29,30,-1,0,0.639279460203061,0.46369337835119284,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,138,1,1:51,1311,1311,Trayce Jackson-Davis Defensive Rebound.,29,30,-1,7,0.6388362630169274,0.4635817354596255,3,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,139,1,1:50,1310,1310,Trayce Jackson-Davis made Layup. Assisted by Rob Phinisee.,29,32,-3,1,0.5690679702902812,0.3922204427937284,3,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,Rob Phinisee,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,140,1,1:38,1298,1298,Illinois  Timeout,29,32,-3,12,0.5678699908048579,0.39165938141763834,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,141,1,1:24,1284,1284,Andres Feliz made Layup.,31,32,-1,14,0.637107151041289,0.46313643829558704,3,3,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,142,1,1:24,1284,1284,Foul on Jerome Hunter.,31,32,-1,0,0.637107151041289,0.46313643829558704,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,143,1,1:24,1284,1284,Andres Feliz made Free Throw.,32,32,0,0,0.6705232390185639,0.5,3,3,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,144,1,0:58,1258,1258,Rob Phinisee made Jumper.,32,34,-2,26,0.6001122812692316,0.4257713055938554,3,3,5.5,NA,NA,Indiana,made,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,145,1,0:40,1240,1240,Foul on Al Durham.,32,34,-2,18,0.5985472561283587,0.42510682558951524,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,146,1,0:40,1240,1240,Trent Frazier made Free Throw.,33,34,-1,0,0.6342138960990467,0.4623409855902041,3,3,5.5,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,147,1,0:40,1240,1240,Trent Frazier made Free Throw.,34,34,0,0,0.6684669382395975,0.5,3,3,5.5,NA,NA,Illinois,made,Trent Frazier,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,148,1,0:24,1224,1224,Foul on Ayo Dosunmu.,34,34,0,16,0.6677201674330798,0.5,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,149,1,0:24,1224,1224,Devonte Green made Free Throw.,34,35,-1,0,0.6331356465448951,0.4620234880118155,3,3,5.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,150,1,0:24,1224,1224,Devonte Green made Free Throw.,34,36,-2,0,0.5971233682304645,0.42448262532549014,3,3,5.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,151,1,0:03,1203,1203,Ayo Dosunmu made Layup.,36,36,0,21,0.6667436417420117,0.5,3,3,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,153,2,20:00,1200,1200,PLAY,36,35,1,0,0.6999581854112238,0.5384812553577752,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Illinois
+401166253,2020-03-01,Illinois,Indiana,155,2,19:40,1180,1180,Trayce Jackson-Davis Block.,36,36,0,0,0.6656835251725716,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,156,2,19:35,1175,1175,Justin Smith Defensive Rebound.,36,36,0,5,0.6654542280401964,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,157,2,19:20,1160,1160,Rob Phinisee missed Three Point Jumper.,36,36,0,15,0.6647681350468151,0.5,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,158,2,19:18,1158,1158,Illinois Defensive Rebound.,36,36,0,2,0.6646768194467537,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,159,2,19:02,1142,1142,Andres Feliz missed Three Point Jumper.,36,36,0,16,0.6639471652165834,0.5,4,4,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,160,2,18:58,1138,1138,Rob Phinisee Defensive Rebound.,36,36,0,4,0.6637648980419096,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,161,2,18:44,1124,1124,Trayce Jackson-Davis missed Jumper.,36,36,0,14,0.6631269582706877,0.5,4,4,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,162,2,18:44,1124,1124,Kofi Cockburn Block.,36,36,0,0,0.6631269582706877,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,163,2,18:44,1124,1124,Indiana Offensive Rebound.,36,36,0,0,0.6631269582706877,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,164,2,18:33,1113,1113,Rob Phinisee missed Three Point Jumper.,36,36,0,11,0.6626252799520943,0.5,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,165,2,18:29,1109,1109,Trent Frazier Defensive Rebound.,36,36,0,4,0.662442660405348,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,166,2,18:23,1103,1103,Ayo Dosunmu made Layup. Assisted by Da'Monte Williams.,38,36,2,6,0.7304809982206844,0.5803210932503833,4,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,Da'Monte Williams,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,167,2,17:55,1075,1075,Justin Smith made Jumper.,38,38,0,28,0.6608828060265152,0.5,4,4,5.5,NA,NA,Indiana,made,Justin Smith,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,168,2,17:38,1058,1058,Da'Monte Williams missed Layup.,38,38,0,17,0.6600951587513557,0.5,4,4,5.5,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,169,2,17:38,1058,1058,Trayce Jackson-Davis Block.,38,38,0,0,0.6600951587513557,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,170,2,17:33,1053,1053,Trayce Jackson-Davis Defensive Rebound.,38,38,0,5,0.6598621774870914,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,171,2,17:29,1049,1049,Justin Smith made Dunk. Assisted by Race Thompson.,38,40,-2,4,0.5814143122439761,0.4174462569638532,4,4,5.5,NA,NA,Indiana,made,Justin Smith,Race Thompson,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,172,2,17:18,1038,1038,Foul on Justin Smith.,38,40,-2,11,0.5803639226203625,0.4169561709190351,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,173,2,17:09,1029,1029,Da'Monte Williams missed Three Point Jumper.,38,40,-2,9,0.5794892094126238,0.41654338134249286,4,4,5.5,NA,NA,Illinois,missed,Da'Monte Williams,NA,TRUE,FALSE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,174,2,17:05,1025,1025,Andres Feliz Offensive Rebound.,38,40,-2,4,0.5790956704687338,0.41635623410537237,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,175,2,17:03,1023,1023,Andres Feliz made Jumper.,40,40,0,2,0.6584486490427134,0.5,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,176,2,16:41,1001,1001,Al Durham missed Jumper.,40,40,0,22,0.6573913744043652,0.5,4,4,5.5,NA,NA,Indiana,missed,Al Durham,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,177,2,16:38,998,998,Ayo Dosunmu Defensive Rebound.,40,40,0,3,0.6572456127839879,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,178,2,16:32,992,992,Foul on Race Thompson.,40,40,0,6,0.6569528519594919,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,179,2,16:32,992,992,Ayo Dosunmu missed Free Throw.,40,40,0,0,0.6569528519594919,0.5,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,180,2,16:32,992,992,Illinois Deadball Team Rebound.,40,40,0,0,0.6569528519594919,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,181,2,16:32,992,992,Ayo Dosunmu made Free Throw.,41,40,1,0,0.6946609753684544,0.5429580421010213,4,4,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,182,2,16:10,970,970,Justin Smith missed Jumper.,41,40,1,22,0.694165230799028,0.5435760753608833,4,4,5.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,183,2,16:06,966,966,Trayce Jackson-Davis Offensive Rebound.,41,40,1,4,0.6940772743507926,0.5436918592353146,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,184,2,16:05,965,965,Trayce Jackson-Davis missed Jumper.,41,40,1,1,0.6940553292004111,0.5437203822433021,4,4,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,185,2,15:57,957,957,Trent Frazier Defensive Rebound.,41,40,1,8,0.693880407395581,0.5439427873558352,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,186,2,15:56,956,956,Giorgi Bezhanishvili made Layup. Assisted by Andres Feliz.,43,40,3,1,0.7633060980873833,0.6292510705119942,4,4,5.5,NA,NA,Illinois,made,Giorgi Bezhanishvili,Andres Feliz,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,187,2,15:55,955,955,Official TV Timeout,43,40,3,1,0.7633268567567889,0.629327134116665,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,188,2,15:40,940,940,Devonte Green missed Three Point Jumper.,43,40,3,15,0.763616345346385,0.6304214494025132,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,189,2,15:40,940,940,Jerome Hunter Offensive Rebound.,43,40,3,0,0.763616345346385,0.6304214494025132,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,190,2,15:40,940,940,Foul on Trent Frazier.,43,40,3,0,0.763616345346385,0.6304214494025132,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,191,2,15:40,940,940,Official TV Timeout,43,40,3,0,0.763616345346385,0.6304214494025132,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,192,2,15:38,938,938,Al Durham missed Jumper.,43,40,3,2,0.7636521448010496,0.630561332878253,4,4,5.5,NA,NA,Indiana,missed,Al Durham,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,193,2,15:35,935,935,Trayce Jackson-Davis Offensive Rebound.,43,40,3,3,0.7637047570567196,0.6307687846021681,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,194,2,15:32,932,932,Jerome Hunter missed Three Point Jumper.,43,40,3,3,0.7637561358976825,0.6309735245113008,4,4,5.5,NA,NA,Indiana,missed,Jerome Hunter,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,195,2,15:27,927,927,Kofi Cockburn Defensive Rebound.,43,40,3,5,0.7638392428284733,0.6313091476667623,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,196,2,15:05,905,905,Giorgi Bezhanishvili Offensive Rebound.,43,40,3,22,0.76417617458434,0.6327193924519016,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,197,2,15:05,905,905,Giorgi Bezhanishvili missed Layup.,43,40,3,0,0.76417617458434,0.6327193924519016,4,4,5.5,NA,NA,Illinois,missed,Giorgi Bezhanishvili,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,198,2,15:05,905,905,Indiana Defensive Rebound.,43,40,3,0,0.76417617458434,0.6327193924519016,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,199,2,14:49,889,889,Devonte Green missed Jumper.,43,40,3,16,0.7644046065645982,0.6337015382438457,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,200,2,14:45,885,885,Giorgi Bezhanishvili Defensive Rebound.,43,40,3,4,0.7644611714953972,0.6339445005554973,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,201,2,14:41,881,881,Andres Feliz made Layup.,45,40,5,4,0.8241071171157389,0.7144380024320947,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,202,2,14:25,865,865,Foul on Andres Feliz.,45,40,5,16,0.8246995647855887,0.7158651436675108,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,203,2,14:20,860,860,Joey Brunk made Layup. Assisted by Jerome Hunter.,45,42,3,5,0.7648256824703394,0.6354701069789175,4,4,5.5,NA,NA,Indiana,made,Joey Brunk,Jerome Hunter,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,204,2,13:56,836,836,Kofi Cockburn made Layup. Assisted by Andres Feliz.,47,42,5,24,0.8258445000386861,0.7185553662138346,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,Andres Feliz,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,205,2,13:26,806,806,Jerome Hunter made Three Point Jumper. Assisted by Devonte Green.,47,45,2,30,0.7299726781242388,0.594132148920511,4,4,5.5,NA,NA,Indiana,made,Jerome Hunter,Devonte Green,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,206,2,13:01,781,781,Andres Feliz missed Jumper.,47,45,2,25,0.7301369510309713,0.595566183408859,4,4,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,207,2,12:56,776,776,Joey Brunk Defensive Rebound.,47,45,2,5,0.7301827936073091,0.5958802500855772,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,208,2,12:53,773,773,Jerome Hunter made Three Point Jumper. Assisted by Devonte Green.,47,48,-1,3,0.6015684252847341,0.45151145792437336,4,4,5.5,NA,NA,Indiana,made,Jerome Hunter,Devonte Green,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,209,2,12:30,750,750,Foul on Ayo Dosunmu.,47,48,-1,23,0.5995070729895516,0.45068050675237814,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,210,2,12:30,750,750,Ayo Dosunmu Turnover.,47,48,-1,0,0.5995070729895516,0.45068050675237814,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,211,2,12:16,736,736,Devonte Green missed Jumper.,47,48,-1,14,0.5981291189321972,0.4501082647544962,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,212,2,12:13,733,733,Giorgi Bezhanishvili Defensive Rebound.,47,48,-1,3,0.5978203771481996,0.4499784277530285,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,213,2,12:02,722,722,Foul on Joey Brunk.,47,48,-1,11,0.596678978089124,0.4494999525317517,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,214,2,12:02,722,722,Kofi Cockburn made Free Throw.,48,48,0,0,0.6443597982377027,0.5,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,215,2,12:02,722,722,Kofi Cockburn made Free Throw.,49,48,1,0,0.6893385983802955,0.5505000474682483,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,216,2,11:41,701,701,Justin Smith made Jumper.,49,50,-1,21,0.5946314710048164,0.4486799965715861,4,4,5.5,NA,NA,Indiana,made,Justin Smith,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,217,2,11:28,688,688,Official TV Timeout,49,50,-1,13,0.5934292092429295,0.44821953181266244,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,218,2,11:09,669,669,Trent Frazier missed Three Point Jumper.,49,50,-1,19,0.591717190209815,0.44758205742542756,4,4,5.5,NA,NA,Illinois,missed,Trent Frazier,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,219,2,11:06,666,666,Rob Phinisee Defensive Rebound.,49,50,-1,3,0.591448558919544,0.44748315898347696,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,220,2,11:03,663,663,Rob Phinisee missed Jumper.,49,50,-1,3,0.5911797605043301,0.44738433050333154,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,221,2,10:59,659,659,Andres Feliz Defensive Rebound.,49,50,-1,4,0.5908207115183857,0.44725241377354186,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,222,2,10:41,641,641,Ayo Dosunmu missed Jumper.,49,50,-1,18,0.5891819275308349,0.4466477457389824,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,223,2,10:37,637,637,Race Thompson Defensive Rebound.,49,50,-1,4,0.5888094197568423,0.4465088452292547,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,224,2,10:28,628,628,De'Ron Davis missed Jumper.,49,50,-1,9,0.5879550994064663,0.4461870074984827,4,4,5.5,NA,NA,Indiana,missed,De'Ron Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,225,2,10:24,624,624,Da'Monte Williams Defensive Rebound.,49,50,-1,4,0.5875669657643495,0.44603902888746577,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,226,2,10:12,612,612,Giorgi Bezhanishvili made Layup. Assisted by Andres Feliz.,51,50,1,12,0.6869952769855241,0.5544274932273542,4,4,5.5,NA,NA,Illinois,made,Giorgi Bezhanishvili,Andres Feliz,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,227,2,9:46,586,586,Foul on Andres Feliz.,51,50,1,26,0.6864907605827079,0.5555920595821681,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,228,2,9:35,575,575,Trayce Jackson-Davis missed Jumper.,51,50,1,11,0.6863031925930184,0.5561661221175429,4,4,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,229,2,9:35,575,575,Kofi Cockburn Block.,51,50,1,0,0.6863031925930184,0.5561661221175429,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,230,2,9:34,574,574,Indiana Offensive Rebound.,51,50,1,1,0.6862870586720526,0.556221119795936,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,231,2,9:27,567,567,Devonte Green made Layup.,51,52,-1,7,0.5811271264172329,0.44337982422947103,4,4,5.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,232,2,9:27,567,567,Foul on Kofi Cockburn.,51,52,-1,0,0.5811271264172329,0.44337982422947103,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,233,2,9:27,567,567,Devonte Green made Free Throw.,51,53,-2,0,0.5249656629630552,0.3881933868349289,4,4,5.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,234,2,9:07,547,547,Andres Feliz made Jumper.,53,53,0,20,0.633773619692865,0.5,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,235,2,9:00,540,540,Al Durham Turnover.,53,53,0,7,0.6332472159159983,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,236,2,8:44,524,524,Foul on Trayce Jackson-Davis.,53,53,0,16,0.6320815967586995,0.5,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,237,2,8:44,524,524,Kofi Cockburn made Free Throw.,54,53,1,0,0.6855215114885534,0.5592470702258858,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,238,2,8:44,524,524,Kofi Cockburn made Free Throw.,55,53,2,0,0.7344602049156336,0.6168534178172673,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,239,2,8:31,511,511,Foul on Alan Griffin.,55,53,2,13,0.7347261395312321,0.6181159450714656,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,240,2,8:17,497,497,Justin Smith Turnover.,55,53,2,14,0.7349802820991141,0.6194345202090245,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,241,2,7:54,474,474,Alan Griffin missed Three Point Jumper.,55,53,2,23,0.7354945038080848,0.6217698393569496,4,4,5.5,NA,NA,Illinois,missed,Alan Griffin,NA,TRUE,FALSE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,242,2,7:47,467,467,Giorgi Bezhanishvili Offensive Rebound.,55,53,2,7,0.7357115197104392,0.6225787708237034,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,243,2,7:32,452,452,Trent Frazier missed Jumper.,55,53,2,15,0.7363302421242262,0.6245565017600803,4,4,5.5,NA,NA,Illinois,missed,Trent Frazier,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,244,2,7:28,448,448,Rob Phinisee Defensive Rebound.,55,53,2,4,0.7365383724218293,0.6251520365733737,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,245,2,7:16,436,436,Rob Phinisee missed Jumper.,55,53,2,12,0.7372948726094253,0.6271462346325406,4,4,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,246,2,7:16,436,436,Kofi Cockburn Block.,55,53,2,0,0.7372948726094253,0.6271462346325406,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,247,2,7:11,431,431,Kofi Cockburn Defensive Rebound.,55,53,2,5,0.7376754321377393,0.6280795741843767,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,248,2,7:09,429,429,Foul on Justin Smith.,55,53,2,2,0.7378377676372077,0.6284691795916271,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,249,2,7:09,429,429,Official TV Timeout,55,53,2,0,0.7378377676372077,0.6284691795916271,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,251,2,6:25,385,385,Andres Feliz Defensive Rebound.,57,53,4,3,0.8329893006607584,0.7535476281796304,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,252,2,6:11,371,371,Foul on Trayce Jackson-Davis.,57,53,4,14,0.8349944117591628,0.7574941442042854,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,253,2,6:11,371,371,Kofi Cockburn made Free Throw.,58,53,5,0,0.8705908668599465,0.8059236599962067,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,254,2,6:11,371,371,Kofi Cockburn made Free Throw.,59,53,6,0,0.8994330246701354,0.8466396686204448,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,255,2,5:54,354,354,Devonte Green missed Layup.,59,53,6,17,0.9025044373114176,0.8521603151974103,4,4,5.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,256,2,5:51,351,351,Giorgi Bezhanishvili Defensive Rebound.,59,53,6,3,0.9030942748496541,0.8532036078641606,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,257,2,5:27,327,327,Foul on Devonte Green.,59,53,6,24,0.908522223767564,0.8625589367489045,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,258,2,5:27,327,327,Andres Feliz made Free Throw.,60,53,7,0,0.9309799909951304,0.8949965194958555,4,4,5.5,NA,NA,Illinois,made,Andres Feliz,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,259,2,5:26,326,326,Andres Feliz missed Free Throw.,60,53,7,1,0.9312182420146775,0.8953978514348456,4,4,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,260,2,5:25,325,325,Al Durham Defensive Rebound.,60,53,7,1,0.9314588256907749,0.8958024797329407,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,261,2,5:25,325,325,Foul on Andres Feliz.,60,53,7,0,0.9314588256907749,0.8958024797329407,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,262,2,5:25,325,325,Al Durham made Free Throw.,60,54,6,0,0.9090400592267894,0.8634310273735327,4,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,263,2,5:25,325,325,Al Durham made Free Throw.,60,55,5,0,0.8802313274532855,0.8229898605904286,4,4,5.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,264,2,4:59,299,299,Ayo Dosunmu missed Jumper.,60,55,5,26,0.8868619982345205,0.8342750953768377,4,4,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,265,2,4:56,296,296,Kofi Cockburn Offensive Rebound.,60,55,5,3,0.8870865545995128,0.8348232789985344,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,266,2,4:55,295,295,Kofi Cockburn made Layup.,62,55,7,1,0.9376279651805056,0.9063359138561607,4,4,5.5,NA,NA,Illinois,made,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,267,2,4:33,273,273,Jerome Hunter missed Layup.,62,55,7,22,0.9362315236173517,0.9053994428802704,4,4,5.5,NA,NA,Indiana,missed,Jerome Hunter,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,268,2,4:33,273,273,Kofi Cockburn Block.,62,55,7,0,0.9362315236173517,0.9053994428802704,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,269,2,4:29,269,269,Giorgi Bezhanishvili Defensive Rebound.,62,55,7,4,0.9356357400769857,0.904744835069523,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,270,2,4:10,250,250,Ayo Dosunmu Turnover.,62,55,7,19,0.9325599873750846,0.9013524100839603,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,271,2,4:10,250,250,Race Thompson Steal.,62,55,7,0,0.9325599873750846,0.9013524100839603,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,272,2,4:03,243,243,Jerome Hunter Turnover.,62,55,7,7,0.931689498846251,0.9005049702271387,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,273,2,4:03,243,243,Trent Frazier Steal.,62,55,7,0,0.931689498846251,0.9005049702271387,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,274,2,3:57,237,237,Kofi Cockburn missed Layup.,62,55,7,6,0.9312334009943612,0.9001985812733644,4,4,5.5,NA,NA,Illinois,missed,Kofi Cockburn,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,275,2,3:54,234,234,Jerome Hunter Defensive Rebound.,62,55,7,3,0.931137070017202,0.9002336295871217,4,4,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,276,2,3:45,225,225,Trayce Jackson-Davis made Layup.,62,57,5,9,0.8784970832598463,0.82915056670734,4,4,5.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,277,2,3:36,216,216,Illinois  Timeout,62,57,5,9,0.8802063395128433,0.8322642254289443,4,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,278,2,3:14,194,194,Andres Feliz missed Jumper.,62,57,5,22,0.8920364903070614,0.8500447526402386,4,3,5.5,NA,NA,Illinois,missed,Andres Feliz,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,279,2,3:11,191,191,Rob Phinisee Defensive Rebound.,62,57,5,3,0.8945625543570598,0.8536800827796973,4,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,280,2,2:42,162,162,Rob Phinisee missed Jumper.,62,57,5,29,0.9189090316064722,0.8885800328482713,4,3,5.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,281,2,2:38,158,158,Ayo Dosunmu Defensive Rebound.,62,57,5,4,0.922080331610189,0.8931146652254178,4,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,282,2,2:13,133,133,Giorgi Bezhanishvili Turnover.,62,57,5,25,0.9414711020791549,0.9206544859576531,4,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,283,2,2:13,133,133,Al Durham Steal.,62,57,5,0,0.9414711020791549,0.9206544859576531,4,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,284,2,1:56,116,116,Al Durham made Three Point Jumper. Assisted by Justin Smith.,62,60,2,17,0.8023647780360691,0.7483435659427222,4,3,5.5,NA,NA,Indiana,made,Al Durham,Justin Smith,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,285,2,1:28,88,88,Ayo Dosunmu made Three Point Jumper.,65,60,5,28,0.9728584089924055,0.9642448308526215,4,3,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,TRUE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,286,2,1:27,87,87,Indiana  Timeout,65,60,5,1,0.9734220247705216,0.9650143075541419,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,287,2,1:14,74,74,Rob Phinisee made Three Point Jumper. Assisted by Justin Smith.,65,63,2,13,0.8480741557238921,0.809862065721884,3,3,5.5,NA,NA,Indiana,made,Rob Phinisee,Justin Smith,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,288,2,0:48,48,48,Ayo Dosunmu missed Layup.,65,63,2,26,0.8775061821262489,0.8488932399674708,3,3,5.5,NA,NA,Illinois,missed,Ayo Dosunmu,NA,FALSE,FALSE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,289,2,0:44,44,44,Trayce Jackson-Davis Defensive Rebound.,65,63,2,4,0.8819417472922302,0.8547348038593043,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,290,2,0:35,35,35,Al Durham missed Three Point Jumper.,65,63,2,9,0.8917965517634472,0.8676649802955431,3,3,5.5,NA,NA,Indiana,missed,Al Durham,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,291,2,0:33,33,33,Illinois Defensive Rebound.,65,63,2,2,0.8939483216159102,0.8704796167741736,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,292,2,0:33,33,33,Foul on Race Thompson.,65,63,2,0,0.8939483216159102,0.8704796167741736,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,293,2,0:33,33,33,Da'Monte Williams missed Free Throw.,65,63,2,0,0.8939483216159102,0.8704796167741736,3,3,5.5,NA,NA,Illinois,missed,Da'Monte Williams,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,294,2,0:33,33,33,Trayce Jackson-Davis Defensive Rebound.,65,63,2,0,0.8939483216159102,0.8704796167741736,3,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,295,2,0:21,21,21,Indiana  Timeout,65,63,2,12,0.9064336953651911,0.8867491291822237,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,296,2,0:13,13,13,Foul on Da'Monte Williams.,65,63,2,8,0.9144786383159537,0.8971548885029107,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,297,2,0:13,13,13,Trayce Jackson-Davis missed Free Throw.,65,63,2,0,0.9144786383159537,0.8971548885029107,2,3,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,298,2,0:13,13,13,Indiana Deadball Team Rebound.,65,63,2,0,0.9144786383159537,0.8971548885029107,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,299,2,0:13,13,13,Trayce Jackson-Davis missed Free Throw.,65,63,2,0,0.9144786383159537,0.8971548885029107,2,3,5.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,300,2,0:11,11,11,Trayce Jackson-Davis Offensive Rebound.,65,63,2,2,0.9164546612873198,0.8997001300516065,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166253,2020-03-01,Illinois,Indiana,301,2,0:06,6,6,Rob Phinisee Turnover.,65,63,2,5,0.9213037503445651,0.9059288265680565,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,302,2,0:06,6,6,Andres Feliz Steal.,65,63,2,0,0.9213037503445651,0.9059288265680565,2,3,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,303,2,0:06,6,6,Illinois  Timeout,65,63,2,0,0.9213037503445651,0.9059288265680565,2,2,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,304,2,0:04,4,4,Foul on Jerome Hunter.,65,63,2,2,0.92320096676075325,0.9083592012774075,2,2,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,305,2,0:04,4,4,Indiana  Timeout,65,63,2,0,0.92320096676075325,0.9083592012774075,1,2,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,306,2,0:04,4,4,Ayo Dosunmu made Free Throw.,66,63,3,0,0.9742576061516771,0.9689509260912796,1,2,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Illinois
+401166253,2020-03-01,Illinois,Indiana,307,2,0:04,4,4,Ayo Dosunmu made Free Throw.,67,63,4,0,0.9916773592878605,0.9899245469070093,1,2,5.5,NA,NA,Illinois,made,Ayo Dosunmu,NA,FALSE,TRUE,Illinois,Indiana
+401166253,2020-03-01,Illinois,Indiana,308,2,0:00,0,0,Rob Phinisee made Three Point Jumper.,67,66,1,4,1,1,1,2,5.5,NA,NA,Indiana,made,Rob Phinisee,NA,TRUE,FALSE,Indiana,Illinois
+401166253,2020-03-01,Illinois,Indiana,309,2,0:00,0,0,End of 2nd half,67,66,1,0,1,1,1,2,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA
+401166253,2020-03-01,Illinois,Indiana,310,2,0:00,0,0,End of Game,67,66,1,0,1,1,1,2,5.5,NA,NA,NA,NA,NA,NA,NA,NA,Illinois,NA

@@ -1,0 +1,322 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401171953,2020-03-06,Canisius,Niagara,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.7393902247451446,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canisius
+401171953,2020-03-06,Canisius,Niagara,2,1,19:40,2380,2380,Corey Brown Turnover.,0,0,0,20,0.7389865840327609,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,3,1,19:40,2380,2380,Raheem Solomon Steal.,0,0,0,0,0.7389865840327609,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,4,1,19:35,2375,2375,Raheem Solomon made Layup.,0,2,-2,5,0.702971109886759,0.45544591446758104,4,4,6.5,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,5,1,19:16,2356,2356,Armon Harried made Jumper.,2,2,0,19,0.7384887615128128,0.5,4,4,6.5,NA,NA,Canisius,made,Armon Harried,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,6,1,18:53,2333,2333,Shandon Brown missed Layup.,2,2,0,23,0.737997453106027,0.5,4,4,6.5,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,7,1,18:53,2333,2333,Jacco Fritz Block.,2,2,0,0,0.737997453106027,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,8,1,18:48,2328,2328,Jordan Henderson Defensive Rebound.,2,2,0,5,0.7378887580859199,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,9,1,18:45,2325,2325,Armon Harried missed Three Point Jumper.,2,2,0,3,0.7378232125388743,0.5,4,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,10,1,18:42,2322,2322,Marcus Hammond Defensive Rebound.,2,2,0,3,0.7377574193276425,0.5,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,11,1,18:35,2315,2315,Marcus Hammond made Three Point Jumper.,2,5,-3,7,0.6808408884678406,0.4314572944590229,4,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,12,1,18:10,2290,2290,Corey Brown Turnover.,2,5,-3,25,0.6794784254726072,0.4306342143735679,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,13,1,17:57,2277,2277,Nicholas Kratholm Turnover.,2,5,-3,13,0.6787578101236509,0.4302026606879118,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,14,1,17:42,2262,2262,Jacco Fritz missed Three Point Jumper.,2,5,-3,15,0.6779160868214554,0.4297019859623669,4,4,6.5,NA,NA,Canisius,missed,Jacco Fritz,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,15,1,17:39,2259,2259,Marcus Hammond Defensive Rebound.,2,5,-3,3,0.6777464305728368,0.42960152217747094,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,16,1,17:37,2257,2257,Foul on Corey Brown.,2,5,-3,2,0.6776330841801819,0.42953448804264266,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,17,1,17:24,2244,2244,Marcus Hammond missed Jumper.,2,5,-3,13,0.6768916208216886,0.42909767566260976,4,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,18,1,17:20,2240,2240,Armon Harried Defensive Rebound.,2,5,-3,4,0.6766618394449763,0.4289629084724894,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,19,1,17:03,2223,2223,Armon Harried made Jumper.,4,5,-1,17,0.7163159448121614,0.4759827071616885,4,4,6.5,NA,NA,Canisius,made,Armon Harried,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,20,1,16:41,2201,2201,Raheem Solomon made Three Point Jumper. Assisted by Shandon Brown.,4,8,-4,22,0.6526954114788975,0.40404423285527197,4,4,6.5,NA,NA,Niagara,made,Raheem Solomon,Shandon Brown,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,21,1,16:23,2183,2183,Malik Johnson missed Three Point Jumper.,4,8,-4,18,0.6513940269303471,0.40323904489762,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,22,1,16:23,2183,2183,Canisius Offensive Rebound.,4,8,-4,0,0.6513940269303471,0.40323904489762,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,23,1,16:17,2177,2177,Jordan Henderson made Jumper. Assisted by Malik Johnson.,6,8,-2,6,0.6941935955572017,0.45101950016707304,4,4,6.5,NA,NA,Canisius,made,Jordan Henderson,Malik Johnson,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,24,1,15:54,2154,2154,Raheem Solomon missed Jumper.,6,8,-2,23,0.69306696174205,0.45048739419728506,4,4,6.5,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,25,1,15:51,2151,2151,Armon Harried Defensive Rebound.,6,8,-2,3,0.6929183207271337,0.4504177071016731,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,26,1,15:39,2139,2139,Jacco Fritz missed Three Point Jumper.,6,8,-2,12,0.69231984030804,0.4501382431299833,4,4,6.5,NA,NA,Canisius,missed,Jacco Fritz,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,27,1,15:35,2135,2135,Nicholas Kratholm Defensive Rebound.,6,8,-2,4,0.6921189523850223,0.4500448272291208,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,28,1,15:13,2113,2113,Nicholas Kratholm made Jumper. Assisted by Justin Roberts.,6,10,-4,22,0.6461664002906784,0.40007534425902447,4,4,6.5,NA,NA,Niagara,made,Nicholas Kratholm,Justin Roberts,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,29,1,14:51,2091,2091,Corey Brown missed Three Point Jumper.,6,10,-4,22,0.6444654573226197,0.3990656387602772,4,4,6.5,NA,NA,Canisius,missed,Corey Brown,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,30,1,14:46,2086,2086,Marcus Hammond Defensive Rebound.,6,10,-4,5,0.6440749113149132,0.3988349835971185,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,31,1,14:35,2075,2075,Marcus Hammond Turnover.,6,10,-4,11,0.6432104889161334,0.3983259383027953,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,32,1,14:35,2075,2075,Jordan Henderson Steal.,6,10,-4,0,0.6432104889161334,0.3983259383027953,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,33,1,14:23,2063,2063,Foul on Justin Roberts.,6,10,-4,12,0.6422592393122231,0.39776802029077646,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,34,1,14:23,2063,2063,Official TV Timeout,6,10,-4,0,0.6422592393122231,0.39776802029077646,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,35,1,14:16,2056,2056,Foul on Jalanni White.,6,10,-4,7,0.6417003426298596,0.3974412756655394,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,36,1,14:16,2056,2056,Jalanni White Turnover.,6,10,-4,0,0.6417003426298596,0.3974412756655394,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,37,1,13:57,2037,2037,Marcus Hammond missed Three Point Jumper.,6,10,-4,19,0.640168340721668,0.3965494019397939,4,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,38,1,13:53,2033,2033,Majesty Brandon Defensive Rebound.,6,10,-4,4,0.6398430011611272,0.3963606801300943,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,39,1,13:42,2022,2022,Majesty Brandon missed Jumper.,6,10,-4,11,0.6389432319909087,0.3958399173703674,4,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,40,1,13:39,2019,2019,Jalanni White Offensive Rebound.,6,10,-4,3,0.638696540460254,0.39569743083988324,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,41,1,13:30,2010,2010,Malik Johnson missed Jumper.,6,10,-4,9,0.6379531051517312,0.39526876198315497,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,42,1,13:26,2006,2006,Marcus Hammond Defensive Rebound.,6,10,-4,4,0.6376210652967065,0.39507765169949255,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,43,1,13:23,2003,2003,Greg Kuakumensah missed Jumper.,6,10,-4,3,0.6373713770533176,0.39493407694766164,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,44,1,13:22,2002,2002,Canisius Defensive Rebound.,6,10,-4,1,0.6372880220059196,0.3948861722661299,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,45,1,13:04,1984,1984,Scott Hitchon missed Layup.,6,10,-4,18,0.6357768348245514,0.39401984110213684,4,4,6.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,46,1,13:04,1984,1984,Raheem Solomon Block.,6,10,-4,0,0.6357768348245514,0.39401984110213684,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,47,1,13:04,1984,1984,Canisius Offensive Rebound.,6,10,-4,0,0.6357768348245514,0.39401984110213684,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,48,1,12:54,1974,1974,Malik Johnson missed Jumper.,6,10,-4,10,0.634928388196982,0.393535149773912,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,49,1,12:51,1971,1971,Shandon Brown Defensive Rebound.,6,10,-4,3,0.6346726060120487,0.3933892569971194,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,50,1,12:44,1964,1964,Greg Kuakumensah made Layup. Assisted by Shandon Brown.,6,12,-6,7,0.5823610802021509,0.34258915320779715,4,4,6.5,NA,NA,Niagara,made,Greg Kuakumensah,Shandon Brown,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,51,1,12:20,1940,1940,Foul on James Towns.,6,12,-6,24,0.5795810188388412,0.34091941450663477,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,52,1,12:11,1931,1931,Scott Hitchon missed Jumper.,6,12,-6,9,0.5785261405891492,0.3402881918903782,4,4,6.5,NA,NA,Canisius,missed,Scott Hitchon,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,53,1,12:05,1925,1925,Jalanni White Offensive Rebound.,6,12,-6,6,0.5778196676791205,0.33986649343721625,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,54,1,12:05,1925,1925,Jalanni White made Layup.,8,12,-4,0,0.6306778007548636,0.3911233269615844,4,4,6.5,NA,NA,Canisius,made,Jalanni White,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,55,1,11:42,1902,1902,Greg Kuakumensah made Three Point Jumper. Assisted by Shandon Brown.,8,15,-7,23,0.5475639508568748,0.31368989284421717,4,4,6.5,NA,NA,Niagara,made,Greg Kuakumensah,Shandon Brown,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,56,1,11:37,1897,1897,Canisius  Timeout,8,15,-7,5,0.5468962473733622,0.31329786904357765,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,57,1,11:37,1897,1897,Official TV Timeout,8,15,-7,0,0.5468962473733622,0.31329786904357765,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,58,1,11:27,1887,1887,Jordan Henderson missed Jumper.,8,15,-7,10,0.545557150370467,0.31251458477835525,3,4,6.5,NA,NA,Canisius,missed,Jordan Henderson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,59,1,11:23,1883,1883,James Towns Defensive Rebound.,8,15,-7,4,0.5450200601422865,0.3122014735456779,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,60,1,11:23,1883,1883,James Towns Turnover.,8,15,-7,0,0.5450200601422865,0.3122014735456779,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,61,1,11:23,1883,1883,Majesty Brandon Steal.,8,15,-7,0,0.5450200601422865,0.3122014735456779,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,62,1,11:09,1869,1869,Jalanni White made Jumper. Assisted by Malik Johnson.,10,15,-5,14,0.5987098852073166,0.3617390187420149,3,4,6.5,NA,NA,Canisius,made,Jalanni White,Malik Johnson,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,63,1,10:36,1836,1836,Greg Kuakumensah made Layup.,10,17,-7,33,0.5386369639514084,0.30851984826100226,3,4,6.5,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,64,1,10:25,1825,1825,Jordan Henderson Turnover.,10,17,-7,11,0.5371210555477697,0.3076544992615007,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,65,1,10:25,1825,1825,Shandon Brown Steal.,10,17,-7,0,0.5371210555477697,0.3076544992615007,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,66,1,10:19,1819,1819,Shandon Brown made Layup.,10,19,-9,6,0.47827286449738887,0.26004982081627137,3,4,6.5,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,67,1,10:01,1801,1801,Majesty Brandon missed Three Point Jumper.,10,19,-9,18,0.4752777170616058,0.25839458564439904,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,68,1,9:59,1799,1799,James Towns Defensive Rebound.,10,19,-9,2,0.4749431264395773,0.25821012743942334,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,69,1,9:56,1796,1796,Foul on Malik Johnson.,10,19,-9,3,0.4744405357660625,0.25793320768788475,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,70,1,9:56,1796,1796,James Towns made Free Throw.,10,20,-10,0,0.44528438050792796,0.23610495234786136,3,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,71,1,9:56,1796,1796,James Towns made Free Throw.,10,21,-11,0,0.41650003440753025,0.21558729427531811,3,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,72,1,9:34,1774,1774,Malik Johnson made Jumper.,12,21,-9,22,0.47072769910132084,0.2558927170912827,3,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,73,1,9:09,1749,1749,Steven Levnaic Turnover.,12,21,-9,25,0.46644528140609254,0.2535483883672346,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,74,1,9:09,1749,1749,Majesty Brandon Steal.,12,21,-9,0,0.46644528140609254,0.2535483883672346,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,75,1,8:52,1732,1732,Majesty Brandon made Three Point Jumper. Assisted by Jacco Fritz.,15,21,-6,17,0.5539084969504375,0.32617296696015186,3,4,6.5,NA,NA,Canisius,made,Majesty Brandon,Jacco Fritz,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,76,1,8:33,1713,1713,Marcus Hammond Turnover.,15,21,-6,19,0.5513795251612432,0.32475247003142804,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,77,1,8:33,1713,1713,Jacco Fritz Steal.,15,21,-6,0,0.5513795251612432,0.32475247003142804,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,78,1,8:25,1705,1705,Majesty Brandon missed Three Point Jumper.,15,21,-6,8,0.5503025498846245,0.3241473764115669,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,79,1,8:25,1705,1705,Niagara Defensive Rebound.,15,21,-6,0,0.5503025498846245,0.3241473764115669,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,80,1,8:09,1689,1689,Foul on Majesty Brandon.,15,21,-6,16,0.548126133265582,0.3229238242141452,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,81,1,7:57,1677,1677,Raheem Solomon missed Jumper.,15,21,-6,12,0.5464875999750738,0.3220107790669396,3,4,6.5,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,82,1,7:54,1674,1674,Malik Johnson Defensive Rebound.,15,21,-6,3,0.5460788701434067,0.3217852279427711,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,83,1,7:49,1669,1669,Foul on Nicholas Kratholm.,15,21,-6,5,0.5453983012573916,0.3214115209186319,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,84,1,7:49,1669,1669,Official TV Timeout,15,21,-6,0,0.5453983012573916,0.3214115209186319,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,85,1,7:49,1669,1669,Malik Johnson made Free Throw.,16,21,-5,0,0.5760657595664754,0.3491576714128881,3,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,86,1,7:49,1669,1669,Malik Johnson missed Free Throw.,16,21,-5,0,0.5760657595664754,0.3491576714128881,3,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,87,1,7:49,1669,1669,Jordan Henderson Offensive Rebound.,16,21,-5,0,0.5760657595664754,0.3491576714128881,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,88,1,7:33,1653,1653,Foul on Justin Roberts.,16,21,-5,16,0.5741444513610864,0.3481334704019936,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,89,1,7:28,1648,1648,Majesty Brandon missed Jumper.,16,21,-5,5,0.5735438244093947,0.34781721170653174,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,90,1,7:28,1648,1648,Jacco Fritz Offensive Rebound.,16,21,-5,0,0.5735438244093947,0.34781721170653174,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,91,1,7:28,1648,1648,Foul on Raheem Solomon.,16,21,-5,0,0.5735438244093947,0.34781721170653174,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,92,1,7:27,1647,1647,Jacco Fritz made Free Throw.,17,21,-4,1,0.6038705161510233,0.37680289127493444,3,4,6.5,NA,NA,Canisius,made,Jacco Fritz,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,93,1,7:27,1647,1647,Jacco Fritz made Free Throw.,18,21,-3,0,0.6335330479868291,0.406764881279372,3,4,6.5,NA,NA,Canisius,made,Jacco Fritz,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,94,1,6:58,1618,1618,Greg Kuakumensah missed Jumper.,18,21,-3,29,0.6309576238582989,0.40561008841491536,3,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,95,1,6:54,1614,1614,Armon Harried Defensive Rebound.,18,21,-3,4,0.63059957554802,0.4054521106410945,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,96,1,6:45,1605,1605,Majesty Brandon made Jumper. Assisted by Jordan Henderson.,20,21,-1,9,0.6872946743669037,0.4680211158672352,3,4,6.5,NA,NA,Canisius,made,Majesty Brandon,Jordan Henderson,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,97,1,6:18,1578,1578,Greg Kuakumensah missed Layup.,20,21,-1,27,0.6856703552186946,0.46765392855276183,3,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,98,1,6:18,1578,1578,Jacco Fritz Block.,20,21,-1,0,0.6856703552186946,0.46765392855276183,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,99,1,6:14,1574,1574,Majesty Brandon Defensive Rebound.,20,21,-1,4,0.6854270844611167,0.467599236466821,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,100,1,6:08,1568,1568,Armon Harried missed Three Point Jumper.,20,21,-1,6,0.6850609572846328,0.4675169545415558,3,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,101,1,6:04,1564,1564,Marcus Hammond Defensive Rebound.,20,21,-1,4,0.6848160716421967,0.4674619117801377,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,102,1,6:01,1561,1561,Marcus Hammond missed Layup.,20,21,-1,3,0.6846319933917159,0.4674205184472976,3,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,103,1,5:58,1558,1558,Malik Johnson Defensive Rebound.,20,21,-1,3,0.6844475645164554,0.4673790215152715,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,104,1,5:38,1538,1538,Foul on Jacco Fritz.,20,21,-1,20,0.683209361498832,0.4670991808628866,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,105,1,5:38,1538,1538,Jacco Fritz Turnover.,20,21,-1,0,0.683209361498832,0.4670991808628866,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,106,1,5:25,1525,1525,James Towns missed Three Point Jumper.,20,21,-1,13,0.6823968044604583,0.4669135991668731,3,4,6.5,NA,NA,Niagara,missed,James Towns,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,107,1,5:22,1522,1522,Corey Brown Defensive Rebound.,20,21,-1,3,0.6822084682350807,0.46687028129075014,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,108,1,5:15,1515,1515,Malik Johnson made Jumper.,22,21,1,7,0.7365577077612265,0.5332315838629054,3,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,109,1,4:42,1482,1482,Steven Levnaic missed Three Point Jumper.,22,21,1,33,0.7354595083781542,0.53372929806661,3,4,6.5,NA,NA,Niagara,missed,Steven Levnaic,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,110,1,4:38,1478,1478,Majesty Brandon Defensive Rebound.,22,21,1,4,0.7353282621089943,0.5337918858594136,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,111,1,4:34,1474,1474,Malik Johnson missed Three Point Jumper.,22,21,1,4,0.7351975449749104,0.5338550219627176,3,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,112,1,4:31,1471,1471,Steven Levnaic Defensive Rebound.,22,21,1,3,0.7350998764623644,0.533902744416709,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,113,1,4:26,1466,1466,Marcus Hammond missed Layup.,22,21,1,5,0.7349378450702653,0.5339830092345219,3,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,114,1,4:26,1466,1466,Malik Johnson Block.,22,21,1,0,0.7349378450702653,0.5339830092345219,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,115,1,4:26,1466,1466,Niagara Offensive Rebound.,22,21,1,0,0.7349378450702653,0.5339830092345219,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,116,1,4:24,1464,1464,Greg Kuakumensah Turnover.,22,21,1,2,0.7348733082439722,0.5340153761412025,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,117,1,4:14,1454,1454,Majesty Brandon missed Three Point Jumper.,22,21,1,10,0.7345531833235602,0.5341795407642489,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,118,1,4:10,1450,1450,Jalanni White Offensive Rebound.,22,21,1,4,0.7344264137797445,0.5342463348840679,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,119,1,4:05,1445,1445,Corey Brown missed Jumper.,22,21,1,5,0.7342674781602122,0.5343297618167899,3,4,6.5,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,120,1,4:00,1440,1440,Greg Kuakumensah Defensive Rebound.,22,21,1,5,0.7341066780937806,0.534412266693522,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,121,1,3:58,1438,1438,James Towns made Layup.,22,23,-1,2,0.6768273973695412,0.4655549758090917,3,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,122,1,3:58,1438,1438,Foul on Jordan Henderson.,22,23,-1,0,0.6768273973695412,0.4655549758090917,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,123,1,3:57,1437,1437,Official TV Timeout,22,23,-1,1,0.6767622531195939,0.46553864748303486,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,124,1,3:57,1437,1437,James Towns made Free Throw.,22,24,-2,0,0.6458547784835301,0.4314031532608774,3,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,125,1,3:45,1425,1425,Majesty Brandon missed Jumper.,22,24,-2,12,0.6448573871768293,0.4310216377475957,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,126,1,3:41,1421,1421,James Towns Defensive Rebound.,22,24,-2,4,0.6445248489761511,0.43089627031507555,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,127,1,3:28,1408,1408,James Towns made Jumper.,22,26,-4,13,0.5770083645448338,0.36362343174027484,3,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,128,1,3:04,1384,1384,Armon Harried missed Jumper.,22,26,-4,24,0.5741518617533153,0.36225079410988836,3,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,129,1,2:58,1378,1378,Corey Brown Offensive Rebound.,22,26,-4,6,0.5734371175645806,0.3619112843602141,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,130,1,2:58,1378,1378,Corey Brown missed Layup.,22,26,-4,0,0.5734371175645806,0.3619112843602141,3,4,6.5,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,131,1,2:57,1377,1377,James Towns Defensive Rebound.,22,26,-4,1,0.5733179116513147,0.36185477537556715,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,132,1,2:48,1368,1368,James Towns Turnover.,22,26,-4,9,0.5722436208210286,0.3613467348040119,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,133,1,2:21,1341,1341,Malik Johnson made Jumper.,24,26,-2,27,0.6378009517692886,0.42847447011945483,3,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,134,1,1:57,1317,1317,Nicholas Kratholm missed Layup.,24,26,-2,24,0.6357289927478647,0.4277363746436483,3,4,6.5,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,135,1,1:54,1314,1314,Malik Johnson Defensive Rebound.,24,26,-2,3,0.6354673218589546,0.42764234730924544,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,136,1,1:52,1312,1312,Foul on Steven Levnaic.,24,26,-2,2,0.6352925138627712,0.42757939804014256,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,137,1,1:33,1293,1293,Majesty Brandon missed Jumper.,24,26,-2,19,0.6336164371804485,0.42696929963604796,3,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,138,1,1:29,1289,1289,Justin Roberts Defensive Rebound.,24,26,-2,4,0.6332597852960292,0.42683770477918004,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,139,1,1:20,1280,1280,Marcus Hammond made Three Point Jumper.,24,29,-5,9,0.5246698082321032,0.3230072773307845,3,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,140,1,0:51,1251,1251,Malik Johnson missed Jumper.,24,29,-5,29,0.5202621276404525,0.3207317987643407,3,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,141,1,0:48,1248,1248,Steven Levnaic Defensive Rebound.,24,29,-5,3,0.5197931668157321,0.3204855574862288,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,142,1,0:46,1246,1246,Niagara  Timeout,24,29,-5,2,0.5194790521460342,0.32032015086011373,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,143,1,0:41,1241,1241,Foul on Steven Levnaic.,24,29,-5,5,0.5186884819528981,0.31990215565534597,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,144,1,0:41,1241,1241,Steven Levnaic Turnover.,24,29,-5,0,0.5186884819528981,0.31990215565534597,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,145,1,0:27,1227,1227,Malik Johnson missed Layup.,24,29,-5,14,0.5164327507175436,0.318695850365667,3,3,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,146,1,0:23,1223,1223,Corey Brown Offensive Rebound.,24,29,-5,4,0.5157762644905699,0.3183409146209901,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,147,1,0:23,1223,1223,Corey Brown made Layup.,26,29,-3,0,0.5909003759293968,0.38773476359160397,3,3,6.5,NA,NA,Canisius,made,Corey Brown,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,148,1,0:04,1204,1204,Marcus Hammond Turnover.,26,29,-3,19,0.5885942384501273,0.38658909088084287,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,149,1,0:04,1204,1204,Malik Johnson Steal.,26,29,-3,0,0.5885942384501273,0.38658909088084287,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,150,1,0:01,1201,1201,Malik Johnson made Layup. Assisted by Majesty Brandon.,28,29,-1,3,0.6603704263240457,0.4615397499338115,3,3,6.5,NA,NA,Canisius,made,Malik Johnson,Majesty Brandon,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,151,1,0:01,1201,1201,Foul on Justin Roberts.,28,29,-1,0,0.6603704263240457,0.4615397499338115,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,152,1,0:00,1200,1200,Malik Johnson missed Free Throw.,28,29,-1,1,0.6602962874151462,0.4615187446422248,3,3,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,153,1,0:00,1200,1200,Corey Brown Offensive Rebound.,28,29,-1,0,0.6602962874151462,0.4615187446422248,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,154,1,0:00,1200,1200,Corey Brown missed Layup.,28,29,-1,0,0.6602962874151462,0.4615187446422248,3,3,6.5,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,155,1,0:00,1200,1200,Niagara Deadball Team Rebound.,28,29,-1,0,0.6602962874151462,0.4615187446422248,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,156,1,0:00,1200,1200,End of 1st half,28,29,-1,0,0.6602962874151462,0.4615187446422248,3,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,NA
+401171953,2020-03-06,Canisius,Niagara,157,2,20:00,1200,1200,PLAY,28,29,-1,0,0.6602962874151462,0.4615187446422248,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara
+401171953,2020-03-06,Canisius,Niagara,158,2,19:37,1177,1177,Justin Roberts made Three Point Jumper. Assisted by Shandon Brown.,28,32,-4,23,0.5470319879807716,0.3487512510587288,4,4,6.5,NA,NA,Niagara,made,Justin Roberts,Shandon Brown,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,159,2,19:06,1146,1146,Malik Johnson missed Jumper.,28,32,-4,31,0.5427057890436284,0.3464986280928887,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,160,2,19:02,1142,1142,Marcus Hammond Defensive Rebound.,28,32,-4,4,0.5421511055268665,0.3462113184769104,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,161,2,18:47,1127,1127,Nicholas Kratholm missed Layup.,28,32,-4,15,0.5400708400924968,0.34513484255265464,4,4,6.5,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,162,2,18:47,1127,1127,Jordan Henderson Block.,28,32,-4,0,0.5400708400924968,0.34513484255265464,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,163,2,18:41,1121,1121,Corey Brown Defensive Rebound.,28,32,-4,6,0.539237004266435,0.34470337127948114,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,164,2,18:39,1119,1119,Jordan Henderson made Three Point Jumper. Assisted by Malik Johnson.,31,32,-1,2,0.6543990109806459,0.4598962269586672,4,4,6.5,NA,NA,Canisius,made,Jordan Henderson,Malik Johnson,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,165,2,18:14,1094,1094,Foul on Armon Harried.,31,32,-1,25,0.6525747768849058,0.45939485503523414,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,166,2,18:14,1094,1094,Shandon Brown missed Free Throw.,31,32,-1,0,0.6525747768849058,0.45939485503523414,4,4,6.5,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,167,2,18:14,1094,1094,Niagara Deadball Team Rebound.,31,32,-1,0,0.6525747768849058,0.45939485503523414,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,168,2,18:14,1094,1094,Shandon Brown missed Free Throw.,31,32,-1,0,0.6525747768849058,0.45939485503523414,4,4,6.5,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,169,2,18:14,1094,1094,Corey Brown Defensive Rebound.,31,32,-1,0,0.6525747768849058,0.45939485503523414,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,170,2,17:46,1066,1066,Malik Johnson missed Jumper.,31,32,-1,28,0.6504958142059037,0.45881050807869483,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,171,2,17:43,1063,1063,Canisius Deadball Team Rebound.,31,32,-1,3,0.6502699333506546,0.45874588186510357,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,172,2,17:43,1063,1063,Canisius  Turnover.,31,32,-1,0,0.6502699333506546,0.45874588186510357,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,173,2,17:25,1045,1045,Foul on Jacco Fritz.,31,32,-1,18,0.6488987182571834,0.458347833579721,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,174,2,17:23,1043,1043,Shandon Brown Turnover.,31,32,-1,2,0.6487445161529789,0.45830241321201487,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,175,2,17:05,1025,1025,Corey Brown missed Layup.,31,32,-1,18,0.6473377170049901,0.4578813522351488,4,4,6.5,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,176,2,17:05,1025,1025,Canisius Offensive Rebound.,31,32,-1,0,0.6473377170049901,0.4578813522351488,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,177,2,17:02,1022,1022,Foul on Greg Kuakumensah.,31,32,-1,3,0.6470996761931508,0.4578088634829192,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,178,2,16:56,1016,1016,Jordan Henderson made Three Point Jumper. Assisted by Malik Johnson.,34,32,2,6,0.7527800551915614,0.5840737019814866,4,4,6.5,NA,NA,Canisius,made,Jordan Henderson,Malik Johnson,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,179,2,16:39,999,999,Greg Kuakumensah missed Three Point Jumper.,34,32,2,17,0.7526289778525425,0.5849221505638907,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,180,2,16:34,994,994,Armon Harried Defensive Rebound.,34,32,2,5,0.7525899356809225,0.5851814832856002,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,181,2,16:16,976,976,Jordan Henderson made Layup.,36,32,4,18,0.8115224130411522,0.66734246649983,4,4,6.5,NA,NA,Canisius,made,Jordan Henderson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,182,2,15:54,954,954,Greg Kuakumensah missed Jumper.,36,32,4,22,0.8121897536004034,0.6695626074727787,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,183,2,15:50,950,950,Malik Johnson Defensive Rebound.,36,32,4,4,0.8122995038580537,0.6699401430220222,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,184,2,15:32,932,932,Jacco Fritz made Layup. Assisted by Corey Brown.,38,32,6,18,0.8612361941438188,0.7451273293208119,4,4,6.5,NA,NA,Canisius,made,Jacco Fritz,Corey Brown,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,185,2,15:32,932,932,Foul on Greg Kuakumensah.,38,32,6,0,0.8612361941438188,0.7451273293208119,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,186,2,15:32,932,932,Official TV Timeout,38,32,6,0,0.8612361941438188,0.7451273293208119,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,187,2,15:32,932,932,Jacco Fritz made Free Throw.,39,32,7,0,0.8812576533472857,0.7775748951645743,4,4,6.5,NA,NA,Canisius,made,Jacco Fritz,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,188,2,15:16,916,916,Greg Kuakumensah made Layup. Assisted by Shandon Brown.,39,34,5,16,0.8389816360759993,0.7112638901355772,4,4,6.5,NA,NA,Niagara,made,Greg Kuakumensah,Shandon Brown,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,189,2,15:16,916,916,Foul on Jordan Henderson.,39,34,5,0,0.8389816360759993,0.7112638901355772,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,190,2,15:15,915,915,Greg Kuakumensah missed Free Throw.,39,34,5,1,0.8390131022001167,0.7113579167016278,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,191,2,15:15,915,915,Corey Brown Defensive Rebound.,39,34,5,0,0.8390131022001167,0.7113579167016278,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,192,2,14:57,897,897,Majesty Brandon missed Jumper.,39,34,5,18,0.8395621716850247,0.7130092363233034,4,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,193,2,14:56,896,896,Corey Brown made Layup.,41,34,7,1,0.882817814155111,0.7815424524532568,4,4,6.5,NA,NA,Canisius,made,Corey Brown,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,194,2,14:53,893,893,Corey Brown Offensive Rebound.,41,34,7,3,0.8829407309922279,0.78185689221097,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,195,2,14:28,868,868,Shandon Brown missed Jumper.,41,34,7,25,0.8839593061207769,0.7844532164369811,4,4,6.5,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,196,2,14:27,867,867,Malik Johnson Defensive Rebound.,41,34,7,1,0.8840004421221828,0.7845573764694823,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,197,2,14:06,846,846,Majesty Brandon made Three Point Jumper. Assisted by Jordan Henderson.,44,34,10,21,0.9308051644195472,0.8659033385482487,4,4,6.5,NA,NA,Canisius,made,Majesty Brandon,Jordan Henderson,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,198,2,13:47,827,827,Marcus Hammond Turnover.,44,34,10,19,0.9317011977236286,0.8680001444739258,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,199,2,13:47,827,827,Malik Johnson Steal.,44,34,10,0,0.9317011977236286,0.8680001444739258,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,200,2,13:29,809,809,Malik Johnson missed Three Point Jumper.,44,34,10,18,0.9326244054817645,0.8701270650442797,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,201,2,13:26,806,806,Steven Levnaic Defensive Rebound.,44,34,10,3,0.9327869637753573,0.8704981823736867,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,202,2,13:20,800,800,Marcus Hammond missed Three Point Jumper.,44,34,10,6,0.9331204453649607,0.8712565115430966,4,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,203,2,13:17,797,797,Jordan Henderson Defensive Rebound.,44,34,10,3,0.9332915652976935,0.8716441173069542,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,204,2,13:10,790,790,Foul on Raheem Solomon.,44,34,10,7,0.9337028617986466,0.8725717420433353,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,205,2,12:58,778,778,Raheem Solomon Defensive Rebound.,44,34,10,12,0.9344499370584389,0.8742432555458555,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,206,2,12:52,772,772,Greg Kuakumensah missed Layup.,44,34,10,6,0.9348448380206417,0.8751204488718267,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,207,2,12:52,772,772,Jacco Fritz Block.,44,34,10,0,0.9348448380206417,0.8751204488718267,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,208,2,12:52,772,772,Niagara Offensive Rebound.,44,34,10,0,0.9348448380206417,0.8751204488718267,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,209,2,12:49,769,769,Foul on Jacco Fritz.,44,34,10,3,0.935047923371603,0.8755699879324892,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,210,2,12:48,768,768,Raheem Solomon made Free Throw.,44,35,9,1,0.9222146588297597,0.8528675111674997,4,4,6.5,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,211,2,12:48,768,768,Raheem Solomon made Free Throw.,44,36,8,0,0.9070025099303405,0.8266427957229582,4,4,6.5,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,212,2,12:28,748,748,Jordan Henderson missed Layup.,44,36,8,20,0.9085460936334917,0.8300396409035571,4,4,6.5,NA,NA,Canisius,missed,Jordan Henderson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,213,2,12:28,748,748,Steven Levnaic Block.,44,36,8,0,0.9085460936334917,0.8300396409035571,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,214,2,12:22,742,742,Raheem Solomon Defensive Rebound.,44,36,8,6,0.9090514089849291,0.8311395278839898,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,215,2,12:19,739,739,Raheem Solomon Turnover.,44,36,8,3,0.9093117845727252,0.8317042566101156,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,216,2,12:00,720,720,Majesty Brandon made Jumper.,46,36,10,19,0.9388933221212215,0.8839395303182012,4,4,6.5,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,217,2,11:45,705,705,James Towns made Jumper.,46,38,8,15,0.9121905159146565,0.8379782337171242,4,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,218,2,11:27,687,687,Armon Harried made Jumper.,48,38,10,18,0.9411636152288131,0.888950066631815,4,4,6.5,NA,NA,Canisius,made,Armon Harried,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,219,2,11:12,672,672,James Towns missed Layup.,48,38,10,15,0.9420526217823301,0.8909460859708913,4,4,6.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,220,2,11:12,672,672,Jordan Henderson Defensive Rebound.,48,38,10,0,0.9420526217823301,0.8909460859708913,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,221,2,11:12,672,672,Foul on Greg Kuakumensah.,48,38,10,0,0.9420526217823301,0.8909460859708913,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,222,2,11:08,668,668,Official TV Timeout,48,38,10,4,0.9422826389035629,0.891464094580855,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,223,2,10:54,654,654,Majesty Brandon Turnover.,48,38,10,14,0.9430801680804903,0.8932601149139122,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,224,2,10:45,645,645,Foul on Jalanni White.,48,38,10,9,0.9435969216473111,0.8944202052674468,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,225,2,10:36,636,636,James Towns missed Jumper.,48,38,10,9,0.9441260244019706,0.8956019760899203,4,4,6.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,226,2,10:32,632,632,Jalanni White Defensive Rebound.,48,38,10,4,0.9443670956998619,0.896137842529131,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,227,2,10:17,617,617,Majesty Brandon missed Jumper.,48,38,10,15,0.9453165622503165,0.8982300617678021,4,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,228,2,10:14,614,614,James Towns Defensive Rebound.,48,38,10,3,0.9455169297351105,0.8986676544509017,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,229,2,10:10,610,610,Foul on Jalanni White.,48,38,10,4,0.945790446763967,0.8992627669971088,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,230,2,10:06,606,606,Greg Kuakumensah made Layup.,48,40,8,4,0.9187514637360453,0.8527888189737849,4,4,6.5,NA,NA,Niagara,made,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,231,2,9:42,582,582,Jordan Henderson missed Three Point Jumper.,48,40,8,24,0.9208469949066854,0.8572811293596847,4,4,6.5,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,232,2,9:39,579,579,Jacco Fritz Offensive Rebound.,48,40,8,3,0.921141017940736,0.8579004314278722,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,233,2,9:35,575,575,Majesty Brandon made Three Point Jumper. Assisted by Malik Johnson.,51,40,11,4,0.9585280813320939,0.9228548717160111,4,4,6.5,NA,NA,Canisius,made,Majesty Brandon,Malik Johnson,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,234,2,9:15,555,555,Shandon Brown made Jumper.,51,42,9,20,0.938518276121448,0.8883798344821426,4,4,6.5,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,235,2,8:52,532,532,Armon Harried missed Three Point Jumper.,51,42,9,23,0.9410119789613377,0.8935128150687436,4,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,236,2,8:52,532,532,Niagara Defensive Rebound.,51,42,9,0,0.9410119789613377,0.8935128150687436,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,237,2,8:50,530,530,Foul on Jacco Fritz.,51,42,9,2,0.9411958875949868,0.8938981573331147,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,238,2,8:50,530,530,Greg Kuakumensah missed Free Throw.,51,42,9,0,0.9411958875949868,0.8938981573331147,4,4,6.5,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,239,2,8:50,530,530,Majesty Brandon Defensive Rebound.,51,42,9,0,0.9411958875949868,0.8938981573331147,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,240,2,8:33,513,513,Majesty Brandon missed Three Point Jumper.,51,42,9,17,0.9426199138302132,0.8969143336321738,4,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,241,2,8:29,509,509,Majesty Brandon Offensive Rebound.,51,42,9,4,0.9429312941156284,0.8975794528470613,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,242,2,8:28,508,508,Majesty Brandon made Jumper.,53,42,11,1,0.964047059527706,0.9343287244338464,4,4,6.5,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,243,2,8:14,494,494,James Towns missed Jumper.,53,42,11,14,0.9649292275942863,0.9361955797843355,4,4,6.5,NA,NA,Niagara,missed,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,244,2,8:09,489,489,Malik Johnson Defensive Rebound.,53,42,11,5,0.965249376355773,0.9368696904246466,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,245,2,7:58,478,478,Foul on Steven Levnaic.,53,42,11,11,0.9659860371751596,0.9384084594885848,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,246,2,7:54,474,474,Official TV Timeout,53,42,11,4,0.9662697870175709,0.9389958403150723,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,247,2,7:43,463,463,Majesty Brandon made Jumper.,55,42,13,11,0.9798409855265386,0.9632761813002482,4,4,6.5,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,248,2,7:24,444,444,Marcus Hammond missed Jumper.,55,42,13,19,0.981122992775255,0.9658427363824321,4,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,249,2,7:20,440,440,Majesty Brandon Defensive Rebound.,55,42,13,4,0.9814283272682052,0.966445763920403,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,250,2,6:50,410,410,Majesty Brandon missed Three Point Jumper.,55,42,13,30,0.9837832431166413,0.9710655606741145,4,4,6.5,NA,NA,Canisius,missed,Majesty Brandon,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,251,2,6:46,406,406,Raheem Solomon Defensive Rebound.,55,42,13,4,0.9840540123704096,0.9716010086114967,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,252,2,6:28,388,388,Shandon Brown missed Jumper.,55,42,13,18,0.9851956204485216,0.9738627065203312,4,4,6.5,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,253,2,6:24,384,384,Majesty Brandon Defensive Rebound.,55,42,13,4,0.9854403552089217,0.9743466931811321,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,254,2,6:18,378,378,Jordan Henderson missed Three Point Jumper.,55,42,13,6,0.9858065985324025,0.9750690602680171,4,4,6.5,NA,NA,Canisius,missed,Jordan Henderson,NA,TRUE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,255,2,6:14,374,374,Raheem Solomon Defensive Rebound.,55,42,13,4,0.9860517084908591,0.9755508176831346,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,256,2,6:09,369,369,Raheem Solomon Turnover.,55,42,13,5,0.986360832300384,0.9761560274752082,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,257,2,6:09,369,369,Majesty Brandon Steal.,55,42,13,0,0.986360832300384,0.9761560274752082,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,258,2,5:45,345,345,Malik Johnson made Jumper.,57,42,15,24,0.9932905183800668,0.9883796630150297,4,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,259,2,5:33,333,333,Marcus Hammond missed Three Point Jumper.,57,42,15,12,0.9938514202244532,0.9894281184725573,4,4,6.5,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,260,2,5:30,330,330,Malik Johnson Defensive Rebound.,57,42,15,3,0.993996307219057,0.9896963164231322,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,261,2,5:10,310,310,Armon Harried missed Jumper.,57,42,15,20,0.9950038402867333,0.9915336501107562,4,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,FALSE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,262,2,5:05,305,305,Corey Brown Offensive Rebound.,57,42,15,5,0.9952188909909069,0.9919245361621701,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,263,2,5:05,305,305,Corey Brown missed Layup.,57,42,15,0,0.9952188909909069,0.9919245361621701,4,4,6.5,NA,NA,Canisius,missed,Corey Brown,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,264,2,5:05,305,305,Raheem Solomon Defensive Rebound.,57,42,15,0,0.9952188909909069,0.9919245361621701,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,265,2,4:59,299,299,Foul on Corey Brown.,57,42,15,6,0.9953769492261947,0.9922224192108302,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,266,2,4:54,294,294,James Towns made Free Throw.,57,43,14,5,0.993705387109199,0.9894579707811642,4,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,267,2,4:54,294,294,James Towns made Free Throw.,57,44,13,0,0.9913141242036982,0.9854767377481092,4,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,268,2,4:28,268,268,Malik Johnson missed Jumper.,57,44,13,26,0.9907980574069059,0.9848849175836794,4,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,269,2,4:28,268,268,Marcus Hammond Block.,57,44,13,0,0.9907980574069059,0.9848849175836794,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,270,2,4:24,264,264,Greg Kuakumensah Defensive Rebound.,57,44,13,4,0.9906286255771011,0.9846500252202353,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,271,2,4:23,263,263,Raheem Solomon missed Three Point Jumper.,57,44,13,1,0.9905849753449758,0.9845894646957947,4,4,6.5,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,272,2,4:22,262,262,Canisius Defensive Rebound.,57,44,13,1,0.9905410202475435,0.9845285193330224,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,273,2,3:49,229,229,Foul on Majesty Brandon.,59,44,15,33,0.9944998494191201,0.9911919746008367,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,274,2,3:46,226,226,Official TV Timeout,59,44,15,3,0.9945470664110528,0.9912872824956139,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,275,2,3:46,226,226,Marcus Hammond made Free Throw.,59,45,14,0,0.9925385713985571,0.9880924773005344,4,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,276,2,3:46,226,226,Marcus Hammond made Free Throw.,59,46,13,0,0.9897978703953623,0.9837454007388966,4,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,277,2,3:14,194,194,James Towns made Three Point Jumper.,61,49,12,32,0.9901379361412608,0.9846909705058405,4,4,6.5,NA,NA,Niagara,made,James Towns,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,278,2,2:59,179,179,Foul on James Towns.,61,49,12,15,0.9930764673046473,0.9893815327333636,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,279,2,2:33,153,153,Corey Brown Turnover.,61,49,12,26,0.9964806157976087,0.9947256040770556,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,280,2,2:27,147,147,James Towns missed Three Point Jumper.,61,49,12,6,0.9970443368807513,0.9955955182793973,4,4,6.5,NA,NA,Niagara,missed,James Towns,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,281,2,2:21,141,141,Corey Brown Defensive Rebound.,61,49,12,6,0.9975415299849402,0.9963576389389346,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,282,2,2:20,140,140,Corey Brown Turnover.,61,49,12,1,0.9976182963378684,0.9964748298121269,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,283,2,2:20,140,140,Marcus Hammond Steal.,61,49,12,0,0.9976182963378684,0.9964748298121269,4,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,284,2,2:15,135,135,Marcus Hammond made Three Point Jumper.,61,52,9,5,0.9914054289026425,0.9873812977037311,4,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,285,2,2:11,131,131,Canisius  Timeout,61,52,9,4,0.9922302475962325,0.9886347221186965,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,286,2,2:11,131,131,Foul on Marcus Hammond.,61,52,9,0,0.9922302475962325,0.9886347221186965,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,287,2,2:07,127,127,Armon Harried made Free Throw.,62,52,10,4,0.9957821845049157,0.9938458869304504,3,4,6.5,NA,NA,Canisius,made,Armon Harried,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,288,2,2:07,127,127,Armon Harried missed Free Throw.,62,52,10,0,0.9957821845049157,0.9938458869304504,3,4,6.5,NA,NA,Canisius,missed,Armon Harried,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,289,2,2:06,126,126,James Towns Defensive Rebound.,62,52,10,1,0.9959078112826103,0.9940351179974579,3,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,290,2,1:58,118,118,Raheem Solomon made Three Point Jumper. Assisted by James Towns.,62,55,7,8,0.9842613444627675,0.9773713357784517,3,4,6.5,NA,NA,Niagara,made,Raheem Solomon,James Towns,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,291,2,1:44,104,104,Canisius  Timeout,62,55,7,14,0.9888382363693985,0.9841619537073749,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,292,2,1:40,100,100,Malik Johnson missed Layup.,62,55,7,4,0.9899894738672965,0.9858519351230107,2,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,293,2,1:40,100,100,Greg Kuakumensah Defensive Rebound.,62,55,7,0,0.9899894738672965,0.9858519351230107,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,294,2,1:39,99,99,James Towns made Layup.,62,57,5,1,0.9677478744082728,0.9548860387487317,2,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,295,2,0:39,39,39,Malik Johnson made Jumper.,64,57,7,60,0.9987540250331496,0.9983592836080898,2,4,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,FALSE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,296,2,0:24,24,24,Marcus Hammond Turnover.,64,57,7,15,0.9993398601051046,0.9991477176654747,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,297,2,0:20,20,20,Foul on Marcus Hammond.,64,57,7,4,0.9994467613034045,0.99928957085784,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,298,2,0:20,20,20,Malik Johnson missed Free Throw.,64,57,7,0,0.9994467613034045,0.99928957085784,2,4,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,299,2,0:19,19,19,Greg Kuakumensah Defensive Rebound.,64,57,7,1,0.9994711332335489,0.9993217888798495,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,300,2,0:17,17,17,Foul on Malik Johnson.,64,57,7,2,0.9995172011893303,0.9993825524408365,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,301,2,0:17,17,17,Marcus Hammond made Free Throw.,64,58,6,0,0.9986138160279326,0.998227667092277,2,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Niagara
+401171953,2020-03-06,Canisius,Niagara,302,2,0:17,17,17,Marcus Hammond made Free Throw.,64,59,5,0,0.9960267883043041,0.9949236351283457,2,4,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,303,2,0:16,16,16,Foul on James Towns.,64,59,5,1,0.9961534453213926,0.9950920147273049,2,4,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,304,2,0:16,16,16,Majesty Brandon made Free Throw.,65,59,6,0,0.9986671709667213,0.9982982008592165,2,4,6.5,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,305,2,0:16,16,16,Majesty Brandon made Free Throw.,66,59,7,0,0.9995389358139055,0.9994111560645645,2,4,6.5,NA,NA,Canisius,made,Majesty Brandon,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,306,2,0:11,11,11,James Towns made Layup.,66,61,5,5,0.9967393260239948,0.9958675458278029,2,4,6.5,NA,NA,Niagara,made,James Towns,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,307,2,0:10,10,10,Niagara  Timeout,66,61,5,1,0.9968472186157948,0.9960097291441499,2,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,308,2,0:08,8,8,Foul on Greg Kuakumensah.,66,61,5,2,0.9970540054227071,0.9962816477111814,2,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,309,2,0:08,8,8,Malik Johnson missed Free Throw.,66,61,5,0,0.9970540054227071,0.9962816477111814,2,3,6.5,NA,NA,Canisius,missed,Malik Johnson,NA,FALSE,TRUE,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,310,2,0:08,8,8,Canisius Deadball Team Rebound.,66,61,5,0,0.9970540054227071,0.9962816477111814,2,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Canisius
+401171953,2020-03-06,Canisius,Niagara,311,2,0:08,8,8,Malik Johnson made Free Throw.,67,61,6,0,0.9990350880542681,0.9987814802712226,2,3,6.5,NA,NA,Canisius,made,Malik Johnson,NA,FALSE,TRUE,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,312,2,0:02,2,2,Raheem Solomon missed Three Point Jumper.,67,61,6,6,0.9992492141641036,0.9990598361403993,2,3,6.5,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,313,2,0:01,1,1,Marcus Hammond made Jumper.,67,63,4,1,0.9925982024366551,0.9907597515972705,2,3,6.5,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,314,2,0:01,1,1,Canisius  Timeout,67,63,4,0,0.9925982024366551,0.9907597515972705,1,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,315,2,0:01,1,1,Jacco Fritz Turnover.,67,63,4,0,0.9925982024366551,0.9907597515972705,1,3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,Niagara
+401171953,2020-03-06,Canisius,Niagara,316,2,0:01,1,1,Niagara  Timeout,67,63,4,0,0.9925982024366551,0.9907597515972705,1,2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,317,2,0:01,1,1,Raheem Solomon missed Jumper.,67,63,4,0,0.9925982024366551,0.9907597515972705,1,2,6.5,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,318,2,0:01,1,1,Dantai St. Louis Defensive Rebound.,67,63,4,0,0.9925982024366551,0.9907597515972705,1,2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Canisius
+401171953,2020-03-06,Canisius,Niagara,319,2,0:00,0,0,Marcus Hammond Offensive Rebound.,67,63,4,1,1,1,1,2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA
+401171953,2020-03-06,Canisius,Niagara,320,2,0:00,0,0,End of 2nd half,67,63,4,0,1,1,1,2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA
+401171953,2020-03-06,Canisius,Niagara,321,2,0:00,0,0,End of Game,67,63,4,0,1,1,1,2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,Canisius,NA

@@ -1,0 +1,295 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401166264,2020-03-07,Indiana,Wisconsin,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5989465274969654,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,2,1,19:35,2375,2375,Brad Davison made Three Point Jumper. Assisted by Nate Reuvers.,0,3,-3,25,0.5329602595611004,0.4333894536323005,4,4,2.5,NA,NA,Wisconsin,made,Brad Davison,Nate Reuvers,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,3,1,19:05,2345,2345,Devonte Green missed Layup.,0,3,-3,30,0.5316772760117239,0.4324316539247167,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,4,1,19:00,2340,2340,Nate Reuvers Defensive Rebound.,0,3,-3,5,0.5314605634139561,0.4322703531301972,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,5,1,18:43,2323,2323,Micah Potter missed Three Point Jumper.,0,3,-3,17,0.5307177805812492,0.43171862249927173,4,4,2.5,NA,NA,Wisconsin,missed,Micah Potter,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,6,1,18:40,2320,2320,Trayce Jackson-Davis Defensive Rebound.,0,3,-3,3,0.5305857604932487,0.4316207473002184,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,7,1,18:30,2310,2310,Trayce Jackson-Davis missed Jumper.,0,3,-3,10,0.5301436952390701,0.4312934407667506,4,4,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,8,1,18:28,2308,2308,Indiana Offensive Rebound.,0,3,-3,2,0.5300549169697061,0.43122778925723515,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,9,1,18:26,2306,2306,De'Ron Davis made Layup. Assisted by Justin Smith.,2,3,-1,2,0.5756030084586232,0.47692378171037997,4,4,2.5,NA,NA,Indiana,made,De'Ron Davis,Justin Smith,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,10,1,17:55,2275,2275,D'Mitrik Trice missed Jumper.,2,3,-1,31,0.574918523758853,0.4765758243650507,4,4,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,11,1,17:52,2272,2272,Trayce Jackson-Davis Defensive Rebound.,2,3,-1,3,0.5748513394750875,0.4765419058740616,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,12,1,17:46,2266,2266,Trayce Jackson-Davis missed Layup.,2,3,-1,6,0.5747164743097848,0.47647394856443914,4,4,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,13,1,17:43,2263,2263,De'Ron Davis Offensive Rebound.,2,3,-1,3,0.5746487938898951,0.47643991116827855,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,14,1,17:42,2262,2262,De'Ron Davis made Layup.,4,3,1,1,0.6199798848152865,0.5235714431572539,4,4,2.5,NA,NA,Indiana,made,De'Ron Davis,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,15,1,17:27,2247,2247,Micah Potter Turnover.,4,3,1,15,0.6199737572023813,0.5237422496303528,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,16,1,17:07,2227,2227,Trayce Jackson-Davis Turnover.,4,3,1,20,0.619962081065293,0.5239713147776629,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,17,1,17:07,2227,2227,Nate Reuvers Steal.,4,3,1,0,0.619962081065293,0.5239713147776629,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,18,1,16:48,2208,2208,Micah Potter missed Jumper.,4,3,1,19,0.6199470051012036,0.5241901517188926,4,4,2.5,NA,NA,Wisconsin,missed,Micah Potter,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,19,1,16:48,2208,2208,Nate Reuvers Offensive Rebound.,4,3,1,0,0.6199470051012036,0.5241901517188926,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,20,1,16:45,2205,2205,Nate Reuvers made Layup.,4,5,-1,3,0.5733081679153749,0.47577519813172153,4,4,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,21,1,16:28,2188,2188,Devonte Green made Jumper.,6,5,1,17,0.6199266291318507,0.5244215939560287,4,4,2.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,22,1,16:10,2170,2170,Nate Reuvers made Three Point Jumper. Assisted by Brevin Pritzl.,6,8,-2,18,0.5481834005885827,0.4508579029700246,4,4,2.5,NA,NA,Wisconsin,made,Nate Reuvers,Brevin Pritzl,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,23,1,15:51,2151,2151,Devonte Green made Jumper.,8,8,0,19,0.596169874638722,0.5,4,4,2.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,24,1,15:32,2132,2132,Nate Reuvers made Three Point Jumper. Assisted by Brad Davison.,8,11,-3,19,0.5218220424084646,0.42527405470464896,4,4,2.5,NA,NA,Wisconsin,made,Nate Reuvers,Brad Davison,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,25,1,15:06,2106,2106,Devonte Green made Three Point Jumper.,11,11,0,26,0.5955754588574397,0.5,4,4,2.5,NA,NA,Indiana,made,Devonte Green,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,26,1,14:45,2085,2085,D'Mitrik Trice Turnover.,11,11,0,21,0.5952886118201454,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,27,1,14:45,2085,2085,De'Ron Davis Steal.,11,11,0,0,0.5952886118201454,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,28,1,14:41,2081,2081,Devonte Green missed Layup.,11,11,0,4,0.5952333066498379,0.5,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,29,1,14:39,2079,2079,De'Ron Davis Offensive Rebound.,11,11,0,2,0.5952055746145054,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,30,1,14:32,2072,2072,Justin Smith missed Layup.,11,11,0,7,0.5951080970625982,0.5,4,4,2.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,31,1,14:29,2069,2069,Brevin Pritzl Defensive Rebound.,11,11,0,3,0.5950661238867607,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,32,1,14:26,2066,2066,Brevin Pritzl Turnover.,11,11,0,3,0.5950240329431933,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,33,1,14:26,2066,2066,De'Ron Davis Steal.,11,11,0,0,0.5950240329431933,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,34,1,14:26,2066,2066,Official TV Timeout,11,11,0,0,0.5950240329431933,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,35,1,14:12,2052,2052,Foul on Aleem Ford.,11,11,0,14,0.594826061186319,0.5,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,36,1,14:12,2052,2052,Devonte Green made Free Throw.,12,11,1,0,0.6196781694208687,0.5260339026034504,4,4,2.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,37,1,14:12,2052,2052,Devonte Green missed Free Throw.,12,11,1,0,0.6196781694208687,0.5260339026034504,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,38,1,14:12,2052,2052,Nate Reuvers Defensive Rebound.,12,11,1,0,0.6196781694208687,0.5260339026034504,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,39,1,13:55,2035,2035,Aleem Ford made Jumper. Assisted by Brevin Pritzl.,12,13,-1,17,0.5690255986724436,0.47375802797736627,4,4,2.5,NA,NA,Wisconsin,made,Aleem Ford,Brevin Pritzl,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,40,1,13:34,2014,2014,Devonte Green made Three Point Jumper. Assisted by Rob Phinisee.,15,13,2,21,0.6442551808598577,0.5528543309949765,4,4,2.5,NA,NA,Indiana,made,Devonte Green,Rob Phinisee,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,41,1,13:14,1994,1994,Aleem Ford missed Layup.,15,13,2,20,0.6444322811261994,0.553349484338157,4,4,2.5,NA,NA,Wisconsin,missed,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,42,1,13:11,1991,1991,Race Thompson Defensive Rebound.,15,13,2,3,0.6444588692239143,0.5534242030335981,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,43,1,13:02,1982,1982,Devonte Green made Jumper.,17,13,4,9,0.6922254243453614,0.6060768998267045,4,4,2.5,NA,NA,Indiana,made,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,44,1,12:37,1957,1957,Aleem Ford missed Three Point Jumper.,17,13,4,25,0.6929754107043087,0.6072946033622159,4,4,2.5,NA,NA,Wisconsin,missed,Aleem Ford,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,45,1,12:33,1953,1953,Devonte Green Defensive Rebound.,17,13,4,4,0.6930961573822362,0.6074909232330805,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,46,1,12:28,1948,1948,Devonte Green missed Three Point Jumper.,17,13,4,5,0.6932473983288645,0.6077369155547377,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,47,1,12:28,1948,1948,D'Mitrik Trice Block.,17,13,4,0,0.6932473983288645,0.6077369155547377,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,48,1,12:23,1943,1943,Nate Reuvers Defensive Rebound.,17,13,4,5,0.6933989888534736,0.6079835732686611,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,49,1,12:10,1930,1930,Foul on Joey Brunk.,17,13,4,13,0.6937948201175345,0.6086280516756792,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,50,1,12:01,1921,1921,Micah Potter Turnover.,17,13,4,9,0.694068724687065,0.6090753747370153,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,51,1,11:42,1902,1902,Jerome Hunter made Three Point Jumper. Assisted by Al Durham.,20,13,7,19,0.7608684761211765,0.6863101071557828,4,4,2.5,NA,NA,Indiana,made,Jerome Hunter,Al Durham,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,52,1,11:23,1883,1883,Brad Davison missed Jumper.,20,13,7,19,0.7618927041931203,0.687798526454322,4,4,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,53,1,11:22,1882,1882,Indiana Defensive Rebound.,20,13,7,1,0.7619464405481827,0.6878767919843071,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,54,1,11:20,1880,1880,Official TV Timeout,20,13,7,2,0.7620538716188717,0.6880333115507471,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,55,1,11:03,1863,1863,Joey Brunk missed Jumper.,20,13,7,17,0.7629652551153775,0.6893636058585259,4,4,2.5,NA,NA,Indiana,missed,Joey Brunk,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,56,1,10:59,1859,1859,Micah Potter Defensive Rebound.,20,13,7,4,0.7631793725804414,0.6896767326124639,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,57,1,10:37,1837,1837,Nate Reuvers missed Three Point Jumper.,20,13,7,22,0.7643565371676412,0.6914015947685437,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,58,1,10:33,1833,1833,Jerome Hunter Defensive Rebound.,20,13,7,4,0.764570698200671,0.6917159265760751,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,59,1,10:20,1820,1820,Joey Brunk missed Layup.,20,13,7,13,0.765267600053816,0.6927396837190392,4,4,2.5,NA,NA,Indiana,missed,Joey Brunk,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,60,1,10:18,1818,1818,D'Mitrik Trice Defensive Rebound.,20,13,7,2,0.7653749743871908,0.6928975231473159,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,61,1,10:07,1807,1807,Brevin Pritzl missed Three Point Jumper.,20,13,7,11,0.7659665453261,0.6937675290896986,4,4,2.5,NA,NA,Wisconsin,missed,Brevin Pritzl,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,62,1,10:04,1804,1804,Joey Brunk Defensive Rebound.,20,13,7,3,0.7661282261302425,0.6940054080014234,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,63,1,10:00,1800,1800,Rob Phinisee missed Three Point Jumper.,20,13,7,4,0.7663440637806238,0.6943230201027285,4,4,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,64,1,9:56,1796,1796,Micah Potter Defensive Rebound.,20,13,7,4,0.7665602262145593,0.6946411611838633,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,65,1,9:49,1789,1789,Micah Potter made Three Point Jumper. Assisted by D'Mitrik Trice.,20,16,4,7,0.6979879052959365,0.6156596666190358,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,D'Mitrik Trice,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,66,1,9:19,1759,1759,Foul on Nate Reuvers.,20,16,4,30,0.6988946034269223,0.6172028198077962,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,67,1,9:19,1759,1759,Race Thompson made Free Throw.,21,16,5,0,0.7234145643781417,0.6449960999878918,4,4,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,68,1,9:19,1759,1759,Race Thompson made Free Throw.,22,16,6,0,0.7466615740217998,0.6718443369251405,4,4,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,69,1,9:00,1740,1740,Foul on Jerome Hunter.,22,16,6,19,0.7475854436120014,0.673235437000404,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,70,1,9:00,1740,1740,Aleem Ford missed Free Throw.,22,16,6,0,0.7475854436120014,0.673235437000404,4,4,2.5,NA,NA,Wisconsin,missed,Aleem Ford,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,71,1,9:00,1740,1740,Wisconsin Offensive Rebound.,22,16,6,0,0.7475854436120014,0.673235437000404,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,72,1,9:00,1740,1740,Aleem Ford made Free Throw.,22,17,5,0,0.7241816856580549,0.6462004675035664,4,4,2.5,NA,NA,Wisconsin,made,Aleem Ford,NA,FALSE,TRUE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,73,1,8:28,1708,1708,Race Thompson Turnover.,22,17,5,32,0.7255053401073046,0.6482712811773058,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,74,1,8:28,1708,1708,Brad Davison Steal.,22,17,5,0,0.7255053401073046,0.6482712811773058,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,75,1,8:07,1687,1687,Nate Reuvers missed Jumper.,22,17,5,21,0.7263992131862709,0.6496628763501076,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,76,1,8:05,1685,1685,Indiana Defensive Rebound.,22,17,5,2,0.7264842176216549,0.649795567692125,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,77,1,7:38,1658,1658,Justin Smith missed Jumper.,22,17,5,27,0.7275893726971242,0.6515485755763305,4,4,2.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,78,1,7:36,1656,1656,Wisconsin Defensive Rebound.,22,17,5,2,0.7276684721865099,0.6516759707504919,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,79,1,7:36,1656,1656,Official TV Timeout,22,17,5,0,0.7276684721865099,0.6516759707504919,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,80,1,7:16,1636,1636,Foul on Rob Phinisee.,22,17,5,20,0.7284430004108337,0.652935837445998,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,81,1,7:16,1636,1636,Brad Davison missed Free Throw.,22,17,5,0,0.7284430004108337,0.652935837445998,4,4,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,82,1,7:16,1636,1636,Wisconsin Offensive Rebound.,22,17,5,0,0.7284430004108337,0.652935837445998,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,83,1,7:16,1636,1636,Brad Davison missed Free Throw.,22,17,5,0,0.7284430004108337,0.652935837445998,4,4,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,84,1,7:15,1635,1635,Trayce Jackson-Davis Defensive Rebound.,22,17,5,1,0.7284810412499859,0.6529982601786999,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,85,1,6:49,1609,1609,De'Ron Davis missed Layup.,22,17,5,26,0.7294540088318668,0.6546090913747628,4,4,2.5,NA,NA,Indiana,missed,De'Ron Davis,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,86,1,6:46,1606,1606,Micah Potter Defensive Rebound.,22,17,5,3,0.7295648171127266,0.6547939942205286,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,87,1,6:36,1596,1596,Micah Potter made Jumper. Assisted by D'Mitrik Trice.,22,19,3,10,0.6763659089877899,0.5952575645806943,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,D'Mitrik Trice,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,88,1,6:15,1575,1575,Devonte Green made Three Point Jumper. Assisted by Rob Phinisee.,25,19,6,21,0.7554572446203116,0.6853308052035187,4,4,2.5,NA,NA,Indiana,made,Devonte Green,Rob Phinisee,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,89,1,5:43,1543,1543,D'Mitrik Trice missed Jumper.,25,19,6,32,0.7569068656921362,0.6876298676127319,4,4,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,90,1,5:39,1539,1539,Devonte Green Defensive Rebound.,25,19,6,4,0.7570916557259653,0.6879217988624213,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,91,1,5:34,1534,1534,Foul on Trayce Jackson-Davis.,25,19,6,5,0.7573241707534514,0.688288561699507,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,92,1,5:34,1534,1534,Trayce Jackson-Davis Turnover.,25,19,6,0,0.7573241707534514,0.688288561699507,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,93,1,5:10,1510,1510,Aleem Ford made Three Point Jumper. Assisted by D'Mitrik Trice.,25,22,3,24,0.6778808504853204,0.5987485457847855,4,4,2.5,NA,NA,Wisconsin,made,Aleem Ford,D'Mitrik Trice,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,94,1,4:51,1491,1491,Justin Smith made Three Point Jumper. Assisted by Rob Phinisee.,28,22,6,19,0.7594172196666504,0.6915520816894423,4,4,2.5,NA,NA,Indiana,made,Justin Smith,Rob Phinisee,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,95,1,4:28,1468,1468,Aleem Ford made Three Point Jumper. Assisted by Nate Reuvers.,28,25,3,23,0.6787627518064283,0.6006171876053443,4,4,2.5,NA,NA,Wisconsin,made,Aleem Ford,Nate Reuvers,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,96,1,4:11,1451,1451,Foul on Aleem Ford.,28,25,3,17,0.6791672160137368,0.6014231388214079,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,97,1,3:58,1438,1438,Race Thompson missed Jumper.,28,25,3,13,0.679481842882372,0.602045666267193,4,4,2.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,98,1,3:56,1436,1436,Micah Potter Defensive Rebound.,28,25,3,2,0.679528592562123,0.6021399045856703,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,99,1,3:49,1429,1429,Brevin Pritzl missed Three Point Jumper.,28,25,3,7,0.6796890277764824,0.6024668061943815,4,4,2.5,NA,NA,Wisconsin,missed,Brevin Pritzl,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,100,1,3:46,1426,1426,Devonte Green Defensive Rebound.,28,25,3,3,0.6797563515237446,0.602605595882817,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,101,1,3:41,1421,1421,Justin Smith Turnover.,28,25,3,5,0.6798667857437276,0.6028353063130273,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,102,1,3:41,1421,1421,Micah Potter Steal.,28,25,3,0,0.6798667857437276,0.6028353063130273,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,103,1,3:28,1408,1408,Nate Reuvers missed Jumper.,28,25,3,13,0.680144695592724,0.603424323970883,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,104,1,3:24,1404,1404,Race Thompson Defensive Rebound.,28,25,3,4,0.6802278761573883,0.6036035227120176,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,105,1,2:56,1376,1376,Foul on Micah Potter.,28,25,3,28,0.6807888227031214,0.6048405898432623,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,106,1,2:56,1376,1376,Official TV Timeout,28,25,3,0,0.6807888227031214,0.6048405898432623,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,107,1,2:48,1368,1368,Justin Smith missed Jumper.,28,25,3,8,0.6809449177684347,0.6051911843080302,4,4,2.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,108,1,2:45,1365,1365,Brevin Pritzl Defensive Rebound.,28,25,3,3,0.6810032735878659,0.6053226331278144,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,109,1,2:28,1348,1348,D'Mitrik Trice missed Three Point Jumper.,28,25,3,17,0.6813343084702971,0.6060694966760106,4,4,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,110,1,2:25,1345,1345,Joey Brunk Defensive Rebound.,28,25,3,3,0.6813931077588037,0.6062019703805133,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,111,1,2:18,1338,1338,Al Durham Turnover.,28,25,3,7,0.681531187854776,0.6065123050186736,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,112,1,2:18,1338,1338,Brad Davison Steal.,28,25,3,0,0.681531187854776,0.6065123050186736,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,113,1,1:56,1316,1316,Tyler Wahl Turnover.,28,25,3,22,0.6819779012739209,0.6075036193681723,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,114,1,1:56,1316,1316,Race Thompson Steal.,28,25,3,0,0.6819779012739209,0.6075036193681723,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,115,1,1:43,1303,1303,Devonte Green missed Three Point Jumper.,28,25,3,13,0.6822553616639542,0.6081052487900445,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,116,1,1:40,1300,1300,Brevin Pritzl Defensive Rebound.,28,25,3,3,0.6823212339334598,0.608246183430483,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,117,1,1:28,1288,1288,Foul on Devonte Green.,28,25,3,12,0.6825927907360391,0.608818956791439,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,118,1,1:28,1288,1288,Nate Reuvers missed Layup.,28,25,3,0,0.6825927907360391,0.608818956791439,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,119,1,1:28,1288,1288,Al Durham Defensive Rebound.,28,25,3,0,0.6825927907360391,0.608818956791439,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,120,1,1:23,1283,1283,Al Durham Turnover.,28,25,3,5,0.6827101387242286,0.6090622730298618,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,121,1,1:23,1283,1283,Brad Davison Steal.,28,25,3,0,0.6827101387242286,0.6090622730298618,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,122,1,1:18,1278,1278,Foul on Trayce Jackson-Davis.,28,25,3,5,0.6828302086643702,0.6093085855995282,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,123,1,1:01,1261,1261,Brad Davison missed Three Point Jumper.,28,25,3,17,0.6832611131173917,0.6101707945287016,4,4,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,124,1,0:57,1257,1257,Race Thompson Defensive Rebound.,28,25,3,4,0.683368091266614,0.6103797289867393,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,125,1,0:41,1241,1241,Jerome Hunter missed Three Point Jumper.,28,25,3,16,0.6838199872493367,0.611241283310421,4,4,2.5,NA,NA,Indiana,missed,Jerome Hunter,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,126,1,0:39,1239,1239,Micah Potter Defensive Rebound.,28,25,3,2,0.6838793520028241,0.6113520636983047,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,127,1,0:11,1211,1211,Wisconsin  Turnover.,28,25,3,28,0.6847863355428816,0.6129838322963899,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,128,1,0:11,1211,1211,Indiana  Timeout,28,25,3,0,0.6847863355428816,0.6129838322963899,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,129,1,0:06,1206,1206,Foul on D'Mitrik Trice.,28,25,3,5,0.6849619077035498,0.6132895185893584,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,130,1,0:01,1201,1201,Rob Phinisee missed Jumper.,28,25,3,5,0.6851348966796135,0.6135920191128087,3,4,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,131,1,0:00,1200,1200,Indiana Offensive Rebound.,28,25,3,1,0.6851691830881456,0.6136521367497382,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,132,1,0:00,1200,1200,End of 1st half,28,25,3,0,0.6851691830881456,0.6136521367497382,3,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,NA
+401166264,2020-03-07,Indiana,Wisconsin,133,2,20:00,1200,1200,PLAY,28,25,3,0,0.6851691830881456,0.6136521367497382,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,134,2,19:40,1180,1180,Aleem Ford missed Three Point Jumper.,28,25,3,20,0.6858360978325988,0.6148312846150986,4,4,2.5,NA,NA,Wisconsin,missed,Aleem Ford,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,135,2,19:37,1177,1177,Devonte Green Defensive Rebound.,28,25,3,3,0.6859334959114036,0.6150048847102236,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,136,2,19:18,1158,1158,Justin Smith made Jumper.,30,25,5,19,0.7501313003071401,0.6874683146001305,4,4,2.5,NA,NA,Indiana,made,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,137,2,19:00,1140,1140,Micah Potter missed Three Point Jumper.,30,25,5,18,0.7511567690620871,0.6890027921372315,4,4,2.5,NA,NA,Wisconsin,missed,Micah Potter,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,138,2,18:55,1135,1135,Al Durham Defensive Rebound.,30,25,5,5,0.7514404035079572,0.6894273237303332,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,139,2,18:49,1129,1129,Trayce Jackson-Davis missed Jumper.,30,25,5,6,0.7517808407307041,0.6899367122832663,4,4,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,140,2,18:46,1126,1126,Aleem Ford Defensive Rebound.,30,25,5,3,0.7519512426777194,0.6901915697979993,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,141,2,18:39,1119,1119,Foul on Micah Potter.,30,25,5,7,0.7523497723064813,0.690787202306434,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,142,2,18:39,1119,1119,Micah Potter Turnover.,30,25,5,0,0.7523497723064813,0.690787202306434,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,143,2,18:18,1098,1098,Foul on Brad Davison.,30,25,5,21,0.753560409444158,0.6925909722842625,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,144,2,18:03,1083,1083,Devonte Green missed Jumper.,30,25,5,15,0.7544481714681516,0.6939059597654126,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,145,2,18:01,1081,1081,Nate Reuvers Defensive Rebound.,30,25,5,2,0.7545684973068416,0.6940835771819632,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,146,2,17:55,1075,1075,D'Mitrik Trice missed Jumper.,30,25,5,6,0.7549326692036024,0.6946201754462424,4,4,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,147,2,17:51,1071,1071,Al Durham Defensive Rebound.,30,25,5,4,0.7551782987856416,0.694981253861646,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,148,2,17:49,1069,1069,Devonte Green missed Three Point Jumper.,30,25,5,2,0.7553020238193294,0.6951628641294606,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,149,2,17:45,1065,1065,Micah Potter Defensive Rebound.,30,25,5,4,0.7555513869874051,0.6955283384168303,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,150,2,17:38,1058,1058,Aleem Ford missed Jumper.,30,25,5,7,0.7559942953263303,0.6961756132160999,4,4,2.5,NA,NA,Wisconsin,missed,Aleem Ford,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,151,2,17:36,1056,1056,Wisconsin Offensive Rebound.,30,25,5,2,0.7561224550730229,0.6963624557918254,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,152,2,17:18,1038,1038,Micah Potter made Dunk. Assisted by D'Mitrik Trice.,30,27,3,18,0.69055532382384055,0.6231457371053208,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,D'Mitrik Trice,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,153,2,16:53,1013,1013,Devonte Green missed Jumper.,30,27,3,25,0.6915921967174989,0.6248489481661141,4,4,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,154,2,16:49,1009,1009,D'Mitrik Trice Defensive Rebound.,30,27,3,4,0.6917690578680259,0.6251343775630821,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,155,2,16:39,999,999,Micah Potter made Layup.,30,29,1,10,0.6147997810537703,0.5427717929079946,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,156,2,16:19,979,979,Al Durham missed Layup.,30,29,1,20,0.6148512901938992,0.5433169876677847,4,4,2.5,NA,NA,Indiana,missed,Al Durham,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,157,2,16:16,976,976,De'Ron Davis Offensive Rebound.,30,29,1,3,0.6148616815505897,0.5434023554138436,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,158,2,16:15,975,975,Al Durham made Layup.,32,29,3,1,0.6934155394138031,0.627729611862876,4,4,2.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,159,2,15:51,951,951,Foul on Justin Smith.,32,29,3,24,0.6946411596239224,0.6296272925166525,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,160,2,15:51,951,951,Official TV Timeout,32,29,3,0,0.6946411596239224,0.6296272925166525,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,161,2,15:51,951,951,Micah Potter made Free Throw.,32,30,2,0,0.6558907499999533,0.5875255538817862,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,162,2,15:51,951,951,Micah Potter made Free Throw.,32,31,1,0,0.6149487049143351,0.5441032685524944,4,4,2.5,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,163,2,15:35,935,935,Foul on Micah Potter.,32,31,1,16,0.6149850628718202,0.5445082378506136,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,164,2,15:35,935,935,Joey Brunk missed Free Throw.,32,31,1,0,0.6149850628718202,0.5445082378506136,4,4,2.5,NA,NA,Indiana,missed,Joey Brunk,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,165,2,15:35,935,935,Indiana Offensive Rebound.,32,31,1,0,0.6149850628718202,0.5445082378506136,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,166,2,15:35,935,935,Joey Brunk missed Free Throw.,32,31,1,0,0.6149850628718202,0.5445082378506136,4,4,2.5,NA,NA,Indiana,missed,Joey Brunk,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,167,2,15:33,933,933,Trayce Jackson-Davis Offensive Rebound.,32,31,1,2,0.6149887135386183,0.5445567961608494,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,168,2,15:18,918,918,Trayce Jackson-Davis made Layup. Assisted by Rob Phinisee.,34,31,3,15,0.6960737637336242,0.6318976206665436,4,4,2.5,NA,NA,Indiana,made,Trayce Jackson-Davis,Rob Phinisee,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,169,2,14:54,894,894,Aleem Ford made Three Point Jumper. Assisted by D'Mitrik Trice.,34,34,0,24,0.5710801818626768,0.5,4,4,2.5,NA,NA,Wisconsin,made,Aleem Ford,D'Mitrik Trice,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,170,2,14:31,871,871,Rob Phinisee made Jumper.,36,34,2,23,0.6576659275379066,0.591111335064833,4,4,2.5,NA,NA,Indiana,made,Rob Phinisee,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,171,2,14:09,849,849,Nate Reuvers missed Dunk.,36,34,2,22,0.6581396237679948,0.5920606276654343,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,172,2,14:05,845,845,Joey Brunk Defensive Rebound.,36,34,2,4,0.6582302475400803,0.5922386551368143,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,173,2,14:01,841,841,Foul on Brad Davison.,36,34,2,4,0.6583227035703804,0.592418971993739,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,174,2,13:58,838,838,Al Durham missed Three Point Jumper.,36,34,2,3,0.6583933558064717,0.5925558608050313,4,4,2.5,NA,NA,Indiana,missed,Al Durham,NA,TRUE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,175,2,13:54,834,834,Trayce Jackson-Davis Offensive Rebound.,36,34,2,4,0.6584894493799082,0.5927407790063207,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,176,2,13:51,831,831,Trayce Jackson-Davis missed Jumper.,36,34,2,3,0.6585630353848546,0.5928814025750985,4,4,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,177,2,13:46,826,826,Justin Smith Offensive Rebound.,36,34,2,5,0.6586887895958341,0.5931197693009281,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,178,2,13:46,826,826,Justin Smith made Layup.,38,34,4,0,0.7377552605853525,0.6799963358601988,4,4,2.5,NA,NA,Indiana,made,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,179,2,13:33,813,813,Nate Reuvers made Layup.,38,36,2,13,0.6590362354349678,0.5937660436037332,4,4,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,180,2,13:33,813,813,Foul on Joey Brunk.,38,36,2,0,0.6590362354349678,0.5937660436037332,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,181,2,13:33,813,813,Nate Reuvers made Free Throw.,38,37,1,0,0.6152001283722025,0.547302632162527,4,4,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,TRUE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,182,2,13:15,795,795,Race Thompson missed Layup.,38,37,1,18,0.615291801327129,0.547801444170172,4,4,2.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,183,2,13:15,795,795,Nate Reuvers Block.,38,37,1,0,0.615291801327129,0.547801444170172,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,184,2,13:11,791,791,Nate Reuvers Defensive Rebound.,38,37,1,4,0.6153164971429982,0.547919511419774,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,185,2,12:50,770,770,Aleem Ford Turnover.,38,37,1,21,0.6154759158129833,0.548589903068157,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,186,2,12:50,770,770,Rob Phinisee Steal.,38,37,1,0,0.6154759158129833,0.548589903068157,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,187,2,12:46,766,766,Rob Phinisee made Layup.,40,37,3,4,0.7029970223935836,0.6425846540372974,4,4,2.5,NA,NA,Indiana,made,Rob Phinisee,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,188,2,12:22,742,742,Nate Reuvers missed Jumper.,40,37,3,24,0.7047668345760971,0.6451177570386407,4,4,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,189,2,12:20,740,740,Race Thompson Defensive Rebound.,40,37,3,2,0.7049290557157845,0.6453475517677537,4,4,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,190,2,12:12,732,732,Trayce Jackson-Davis made Jumper. Assisted by Rob Phinisee.,42,37,5,8,0.7817665820359672,0.7319768497890881,4,4,2.5,NA,NA,Indiana,made,Trayce Jackson-Davis,Rob Phinisee,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,191,2,11:58,718,718,Wisconsin  Timeout,42,37,5,14,0.7835529683305479,0.7343481166030459,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,192,2,11:58,718,718,Official TV Timeout,42,37,5,0,0.7835529683305479,0.7343481166030459,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,193,2,11:53,713,713,Brevin Pritzl Turnover.,42,37,5,5,0.7841422406942128,0.7351361876187371,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,194,2,11:53,713,713,Jerome Hunter Steal.,42,37,5,0,0.7841422406942128,0.7351361876187371,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,195,2,11:53,713,713,Official TV Timeout,42,37,5,0,0.7841422406942128,0.7351361876187371,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,196,2,11:41,701,701,Al Durham made Layup. Assisted by Rob Phinisee.,44,37,7,12,0.8468147681538825,0.8087701024485431,4,3,2.5,NA,NA,Indiana,made,Al Durham,Rob Phinisee,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,197,2,11:12,672,672,Nate Reuvers missed Jumper.,44,37,7,29,0.8500453608315682,0.813104358969074,4,3,2.5,NA,NA,Wisconsin,missed,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,198,2,11:09,669,669,Race Thompson Defensive Rebound.,44,37,7,3,0.8503615430755496,0.8135304025080424,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,199,2,10:57,657,657,Rob Phinisee missed Jumper.,44,37,7,12,0.8516180063515167,0.815224283271291,4,3,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,200,2,10:54,654,654,D'Mitrik Trice Defensive Rebound.,44,37,7,3,0.8519325945443504,0.8156483206659235,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,201,2,10:33,633,633,Trevor Anderson Turnover.,44,37,7,21,0.8541955679494146,0.8186916464922598,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,202,2,10:33,633,633,Jerome Hunter Steal.,44,37,7,0,0.8541955679494146,0.8186916464922598,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,203,2,10:21,621,621,Foul on Nate Reuvers.,44,37,7,12,0.8555788432306809,0.8205419903884185,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,204,2,10:04,604,604,Race Thompson made Jumper.,46,37,9,17,0.9034657445299646,0.8786095595604948,4,3,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,205,2,9:46,586,586,Brevin Pritzl made Layup.,46,39,7,18,0.8603019353632196,0.8267891056805526,4,3,2.5,NA,NA,Wisconsin,made,Brevin Pritzl,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,206,2,9:30,570,570,Rob Phinisee missed Layup.,46,39,7,16,0.8629346555800377,0.8302297447169658,4,3,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,207,2,9:30,570,570,Nate Reuvers Block.,46,39,7,0,0.8629346555800377,0.8302297447169658,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,208,2,9:21,561,561,Brad Davison Defensive Rebound.,46,39,7,9,0.8645772685177352,0.8323647886477832,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,209,2,9:15,555,555,D'Mitrik Trice missed Layup.,46,39,7,6,0.8657426315078006,0.8338749493286487,4,3,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,210,2,9:12,552,552,Trayce Jackson-Davis Defensive Rebound.,46,39,7,3,0.866347287527402,0.8346571669103763,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,211,2,9:08,548,548,Rob Phinisee missed Layup.,46,39,7,4,0.8671675131715727,0.8357174798071845,4,3,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,212,2,9:05,545,545,Race Thompson Offensive Rebound.,46,39,7,3,0.8677591031166697,0.8364837856577577,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,213,2,8:56,536,536,Rob Phinisee missed Jumper.,46,39,7,9,0.8693960563075132,0.8386134488922302,4,3,2.5,NA,NA,Indiana,missed,Rob Phinisee,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,214,2,8:53,533,533,Race Thompson Offensive Rebound.,46,39,7,3,0.8699019412469127,0.8392744812264467,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,215,2,8:52,532,532,Foul on Aleem Ford.,46,39,7,1,0.8700667326236778,0.8394901097574398,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,216,2,8:52,532,532,Race Thompson missed Free Throw.,46,39,7,0,0.8700667326236778,0.8394901097574398,4,3,2.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,217,2,8:52,532,532,Indiana Offensive Rebound.,46,39,7,0,0.8700667326236778,0.8394901097574398,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,218,2,8:52,532,532,Race Thompson made Free Throw.,47,39,8,0,0.8945324040369437,0.8688453039443385,4,3,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,219,2,8:41,521,521,Brad Davison made Three Point Jumper. Assisted by Aleem Ford.,47,42,5,11,0.8083399310007597,0.7674018481478936,4,3,2.5,NA,NA,Wisconsin,made,Brad Davison,Aleem Ford,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,220,2,8:17,497,497,Devonte Green missed Three Point Jumper.,47,42,5,24,0.8115471904596125,0.7716888205391121,4,3,2.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,221,2,8:15,495,495,Trayce Jackson-Davis Offensive Rebound.,47,42,5,2,0.8118133152056636,0.7720448019062671,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,222,2,8:15,495,495,Foul on Micah Potter.,47,42,5,0,0.8118133152056636,0.7720448019062671,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,223,2,8:15,495,495,Trayce Jackson-Davis made Free Throw.,48,42,6,0,0.8462926336641392,0.8121241982138816,4,3,2.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,224,2,8:15,495,495,Trayce Jackson-Davis made Free Throw.,49,42,7,0,0.875424103793628,0.8465573231530469,4,3,2.5,NA,NA,Indiana,made,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,225,2,7:56,476,476,Brevin Pritzl missed Jumper.,49,42,7,19,0.8782185100659937,0.8502362147472355,4,3,2.5,NA,NA,Wisconsin,missed,Brevin Pritzl,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,226,2,7:53,473,473,Race Thompson Defensive Rebound.,49,42,7,3,0.8786988823715338,0.8508648042271293,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,227,2,7:45,465,465,Foul on Nate Reuvers.,49,42,7,8,0.8800549033654355,0.8526325479846842,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,228,2,7:45,465,465,Official TV Timeout,49,42,7,0,0.8800549033654355,0.8526325479846842,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,229,2,7:45,465,465,Trayce Jackson-Davis missed Free Throw.,49,42,7,0,0.8800549033654355,0.8526325479846842,4,3,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,230,2,7:44,464,464,Aleem Ford Defensive Rebound.,49,42,7,1,0.880232969308603,0.8528639609572666,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,231,2,7:31,451,451,D'Mitrik Trice missed Three Point Jumper.,49,42,7,13,0.8827524230437269,0.8561218998229865,4,3,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,232,2,7:28,448,448,Aleem Ford Offensive Rebound.,49,42,7,3,0.8833938401576822,0.8569469262166213,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,233,2,7:23,443,443,Nate Reuvers made Jumper.,49,44,5,5,0.8206979225970576,0.7836610883130856,4,3,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,234,2,6:54,414,414,Trayce Jackson-Davis missed Jumper.,49,44,5,29,0.8281090030049127,0.7931123216537296,4,3,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,235,2,6:52,412,412,Race Thompson Offensive Rebound.,49,44,5,2,0.8285877651570622,0.7937298312849671,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,236,2,6:52,412,412,Foul on Aleem Ford.,49,44,5,0,0.8285877651570622,0.7937298312849671,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,237,2,6:52,412,412,Race Thompson made Free Throw.,50,44,6,0,0.8635581410324843,0.8343903187126495,4,3,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,238,2,6:52,412,412,Race Thompson made Free Throw.,51,44,7,0,0.8923212456987435,0.8683649626288161,4,3,2.5,NA,NA,Indiana,made,Race Thompson,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,239,2,6:43,403,403,Foul on Al Durham.,51,44,7,9,0.8943644835976134,0.8710032904348219,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,240,2,6:33,393,393,Nate Reuvers made Jumper.,51,46,5,10,0.8329289505702392,0.7993716942569317,4,3,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,241,2,6:08,368,368,Jerome Hunter missed Three Point Jumper.,51,46,5,25,0.8386684381008973,0.8068612480742724,4,3,2.5,NA,NA,Indiana,missed,Jerome Hunter,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,242,2,6:06,366,366,D'Mitrik Trice Defensive Rebound.,51,46,5,2,0.8391567732414382,0.8074954748118961,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,243,2,5:56,356,356,D'Mitrik Trice made Jumper.,51,48,3,10,0.7481790216357087,0.7053943994262446,4,3,2.5,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,244,2,5:36,336,336,Al Durham Turnover.,51,48,3,20,0.7528159939297456,0.7115174950606639,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,245,2,5:36,336,336,Micah Potter Steal.,51,48,3,0,0.7528159939297456,0.7115174950606639,4,3,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,246,2,5:35,335,335,Wisconsin  Timeout,51,48,3,1,0.7530771571241289,0.711857019819037,4,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,247,2,5:12,312,312,Brevin Pritzl missed Three Point Jumper.,51,48,3,23,0.7600524534609608,0.7207598696323805,4,2,2.5,NA,NA,Wisconsin,missed,Brevin Pritzl,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,248,2,5:09,309,309,Micah Potter Offensive Rebound.,51,48,3,3,0.761100922631143,0.7220773939924091,4,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,249,2,5:08,308,308,Micah Potter made Jumper.,51,50,1,1,0.627757681063291,0.5790658712221796,4,2,2.5,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,250,2,5:08,308,308,Foul on Race Thompson.,51,50,1,0,0.627757681063291,0.5790658712221796,4,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,251,2,5:08,308,308,Micah Potter made Free Throw.,51,51,0,0,0.5507420467793129,0.5,4,2,2.5,NA,NA,Wisconsin,made,Micah Potter,NA,FALSE,TRUE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,252,2,4:39,279,279,Race Thompson missed Jumper.,51,51,0,29,0.5488605711301718,0.5,4,2,2.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,253,2,4:36,276,276,Brevin Pritzl Defensive Rebound.,51,51,0,3,0.5486661606438399,0.5,4,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,254,2,4:10,250,250,Brad Davison missed Three Point Jumper.,51,51,0,26,0.5469468119278903,0.5,4,2,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,TRUE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,255,2,4:06,246,246,Micah Potter Offensive Rebound.,51,51,0,4,0.5466735274313341,0.5,4,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,256,2,4:05,245,245,Brad Davison made Three Point Jumper. Assisted by Micah Potter.,51,54,-3,1,0.31906848538499716,0.27988794258614086,4,2,2.5,NA,NA,Wisconsin,made,Brad Davison,Micah Potter,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,257,2,4:02,242,242,Indiana  Timeout,51,54,-3,3,0.31917577129040897,0.28015645746974543,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,258,2,4:02,242,242,Official TV Timeout,51,54,-3,0,0.31917577129040897,0.28015645746974543,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,259,2,3:42,222,222,Trayce Jackson-Davis missed Layup.,51,54,-3,20,0.3162901309479413,0.2786478019515684,3,2,2.5,NA,NA,Indiana,missed,Trayce Jackson-Davis,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,260,2,3:40,220,220,Micah Potter Defensive Rebound.,51,54,-3,2,0.31554930256302516,0.27808125889443785,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,261,2,3:17,197,197,Brad Davison missed Jumper.,51,54,-3,23,0.29878520948057063,0.26398155229395637,3,2,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,262,2,3:13,193,193,Al Durham Defensive Rebound.,51,54,-3,4,0.2940833843880251,0.25988976230535643,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,263,2,3:03,183,183,Justin Smith missed Layup.,51,54,-3,10,0.28071186037876605,0.24818912439492416,3,2,2.5,NA,NA,Indiana,missed,Justin Smith,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,264,2,3:01,181,181,Micah Potter Defensive Rebound.,51,54,-3,2,0.27802418935026385,0.24583958787591953,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,265,2,2:41,161,161,Brad Davison missed Jumper.,51,54,-3,20,0.2509767109684813,0.22223024144192416,3,2,2.5,NA,NA,Wisconsin,missed,Brad Davison,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,266,2,2:41,161,161,Al Durham Block.,51,54,-3,0,0.2509767109684813,0.22223024144192416,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,267,2,2:36,156,156,Race Thompson Defensive Rebound.,51,54,-3,5,0.24404317683548524,0.21618075910799545,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,268,2,2:33,153,153,Devonte Green missed Layup.,51,54,-3,3,0.23982927400318743,0.21250346239791137,3,2,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,269,2,2:28,148,148,Race Thompson Offensive Rebound.,51,54,-3,5,0.23270383976002948,0.20628356077304882,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,270,2,2:28,148,148,Race Thompson missed Layup.,51,54,-3,0,0.23270383976002948,0.20628356077304882,3,2,2.5,NA,NA,Indiana,missed,Race Thompson,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,271,2,2:25,145,145,Micah Potter Defensive Rebound.,51,54,-3,3,0.22836176433926006,0.20249189821827673,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,272,2,2:02,122,122,D'Mitrik Trice missed Three Point Jumper.,51,54,-3,23,0.1931828999825769,0.17172211026492332,3,2,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,TRUE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,273,2,1:58,118,118,Trayce Jackson-Davis Defensive Rebound.,51,54,-3,4,0.18671550338809972,0.16605482353583353,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,274,2,1:51,111,111,Devonte Green missed Layup.,51,54,-3,7,0.17517086879074087,0.15593039093818734,3,2,2.5,NA,NA,Indiana,missed,Devonte Green,NA,FALSE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,275,2,1:49,109,109,D'Mitrik Trice Defensive Rebound.,51,54,-3,2,0.17182404745798355,0.1529933903451639,3,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,276,2,1:18,78,78,D'Mitrik Trice made Layup.,51,56,-5,31,0.032264621725400615,0.028587739601403407,3,2,2.5,NA,NA,Wisconsin,made,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,277,2,1:15,75,75,Indiana  Timeout,51,56,-5,3,0.03003698316377503,0.02664286472617555,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,278,2,0:55,55,55,Al Durham made Three Point Jumper. Assisted by Rob Phinisee.,54,56,-2,20,0.17745402905785113,0.1614331501511825,2,2,2.5,NA,NA,Indiana,made,Al Durham,Rob Phinisee,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,279,2,0:25,25,25,D'Mitrik Trice missed Layup.,54,56,-2,30,0.12927496128674107,0.11855004383725477,2,2,2.5,NA,NA,Wisconsin,missed,D'Mitrik Trice,NA,FALSE,FALSE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,280,2,0:22,22,22,Nate Reuvers Offensive Rebound.,54,56,-2,3,0.12481467400873673,0.11456910423030577,2,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,281,2,0:21,21,21,Nate Reuvers made Layup.,54,58,-4,1,0.017651164355057584,0.016049256467977793,2,2,2.5,NA,NA,Wisconsin,made,Nate Reuvers,NA,FALSE,FALSE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,282,2,0:18,18,18,Indiana  Timeout,54,58,-4,3,0.016297200044253626,0.01483933046050439,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,283,2,0:11,11,11,Foul on Nate Reuvers.,54,58,-4,7,0.013435504992311557,0.012275550504750075,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,284,2,0:11,11,11,Al Durham made Free Throw.,55,58,-3,0,0.0391890870875818,0.03588657491023283,1,2,2.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,285,2,0:11,11,11,Al Durham made Free Throw.,56,58,-2,0,0.10886078944874379,0.10029986994839347,1,2,2.5,NA,NA,Indiana,made,Al Durham,NA,FALSE,TRUE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,286,2,0:09,9,9,Foul on Trayce Jackson-Davis.,56,58,-2,2,0.1060532762268574,0.0977838788911445,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,287,2,0:08,8,8,Foul on Al Durham.,56,58,-2,1,0.10466341502791608,0.09653779011040589,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,288,2,0:07,7,7,Foul on Rob Phinisee.,56,58,-2,1,0.10328333352354736,0.09530010998320411,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,289,2,0:07,7,7,Brad Davison made Free Throw.,56,59,-3,0,0.0360354940079178,0.03305852595083273,1,2,2.5,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,290,2,0:07,7,7,Brad Davison made Free Throw.,56,60,-4,0,0.01198743695430287,0.010974511870150696,1,2,2.5,NA,NA,Wisconsin,made,Brad Davison,NA,FALSE,TRUE,Wisconsin,Indiana
+401166264,2020-03-07,Indiana,Wisconsin,291,2,0:03,3,3,Devonte Green missed Three Point Jumper.,56,60,-4,4,0.010671843967796371,0.00979005763578412,1,2,2.5,NA,NA,Indiana,missed,Devonte Green,NA,TRUE,FALSE,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,292,2,0:00,0,0,Aleem Ford Defensive Rebound.,56,60,-4,3,0,0,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,Wisconsin
+401166264,2020-03-07,Indiana,Wisconsin,293,2,0:00,0,0,End of 2nd half,56,60,-4,0,0,0,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,NA
+401166264,2020-03-07,Indiana,Wisconsin,294,2,0:00,0,0,End of Game,56,60,-4,0,0,0,1,2,2.5,NA,NA,NA,NA,NA,NA,NA,NA,Wisconsin,NA

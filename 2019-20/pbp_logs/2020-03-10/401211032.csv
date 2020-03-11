@@ -1,0 +1,273 @@
+game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
+401211032,2020-03-10,Niagara,Marist,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401211032,2020-03-10,Niagara,Marist,2,1,19:30,2370,2370,Foul on Marcus Hammond.,0,0,0,30,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,3,1,19:30,2370,2370,Tyler Sagl made Free Throw.,0,1,-1,0,0.4776249128627064,0.4776249128627064,4,4,NA,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,4,1,19:30,2370,2370,Tyler Sagl made Free Throw.,0,2,-2,0,0.4553392623404728,0.4553392623404728,4,4,NA,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,5,1,19:08,2348,2348,Shandon Brown Turnover.,0,2,-2,22,0.45486594659906016,0.45486594659906016,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,6,1,19:08,2348,2348,Tyler Sagl Steal.,0,2,-2,0,0.45486594659906016,0.45486594659906016,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,7,1,18:46,2326,2326,Foul on Justin Roberts.,0,2,-2,22,0.4543864532488971,0.4543864532488971,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,8,1,18:46,2326,2326,Michael Cubbage missed Free Throw.,0,2,-2,0,0.4543864532488971,0.4543864532488971,4,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,9,1,18:46,2326,2326,Marist Offensive Rebound.,0,2,-2,0,0.4543864532488971,0.4543864532488971,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,10,1,18:46,2326,2326,Michael Cubbage made Free Throw.,0,3,-3,0,0.4318163477183905,0.4318163477183905,4,4,NA,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,11,1,18:30,2310,2310,Justin Roberts made Three Point Jumper. Assisted by Marcus Hammond.,3,3,0,16,0.5,0.5,4,4,NA,NA,NA,Niagara,made,Justin Roberts,Marcus Hammond,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,12,1,18:25,2305,2305,Foul on Justin Roberts.,3,3,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,13,1,18:16,2296,2296,Tyler Sagl missed Three Point Jumper.,3,3,0,9,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,14,1,18:11,2291,2291,Shandon Brown Defensive Rebound.,3,3,0,5,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,15,1,17:46,2266,2266,Raheem Solomon missed Three Point Jumper.,3,3,0,25,0.5,0.5,4,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,16,1,17:42,2262,2262,Matthew Herasme Defensive Rebound.,3,3,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,17,1,17:33,2253,2253,Tyler Sagl missed Layup.,3,3,0,9,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Tyler Sagl,NA,FALSE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,18,1,17:32,2252,2252,Jordan Jones Offensive Rebound.,3,3,0,1,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,19,1,17:32,2252,2252,Foul on Raheem Solomon.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,20,1,17:32,2252,2252,Jordan Jones missed Free Throw.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,21,1,17:32,2252,2252,Marist Offensive Rebound.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,22,1,17:32,2252,2252,Jordan Jones missed Free Throw.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,23,1,17:32,2252,2252,Marist Offensive Rebound.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,24,1,17:22,2242,2242,Matthew Herasme missed Three Point Jumper.,3,3,0,10,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,25,1,17:19,2239,2239,Jordan Jones Offensive Rebound.,3,3,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,26,1,17:13,2233,2233,Jordan Jones missed Layup.,3,3,0,6,0.5,0.5,4,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,27,1,17:10,2230,2230,Shandon Brown Defensive Rebound.,3,3,0,3,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,28,1,16:54,2214,2214,Greg Kuakumensah Turnover.,3,3,0,16,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,29,1,16:54,2214,2214,Tyler Sagl Steal.,3,3,0,0,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,30,1,16:34,2194,2194,Foul on Greg Kuakumensah.,3,3,0,20,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,31,1,16:34,2194,2194,Tyler Saint-Furcy made Free Throw.,3,4,-1,0,0.4756479436731543,0.4756479436731543,4,4,NA,NA,NA,Marist,made,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,32,1,16:34,2194,2194,Tyler Saint-Furcy missed Free Throw.,3,4,-1,0,0.4756479436731543,0.4756479436731543,4,4,NA,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,33,1,16:33,2193,2193,Marcus Hammond Defensive Rebound.,3,4,-1,1,0.47563635998670234,0.47563635998670234,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,34,1,16:17,2177,2177,Marcus Hammond made Three Point Jumper. Assisted by Shandon Brown.,6,4,2,16,0.5489804998329268,0.5489804998329268,4,4,NA,NA,NA,Niagara,made,Marcus Hammond,Shandon Brown,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,35,1,15:53,2153,2153,Tyler Saint-Furcy made Three Point Jumper. Assisted by Michael Cubbage.,6,7,-1,24,0.4751710109153479,0.4751710109153479,4,4,NA,NA,NA,Marist,made,Tyler Saint-Furcy,Michael Cubbage,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,36,1,15:32,2132,2132,Marcus Hammond missed Three Point Jumper.,6,7,-1,21,0.47492442840008553,0.47492442840008553,4,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,37,1,15:28,2128,2128,Matthew Herasme Defensive Rebound.,6,7,-1,4,0.4748772471342439,0.4748772471342439,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,38,1,15:21,2121,2121,Michael Cubbage missed Three Point Jumper.,6,7,-1,7,0.4747945087762299,0.4747945087762299,4,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,39,1,15:20,2120,2120,Niagara Defensive Rebound.,6,7,-1,1,0.47478267095688687,0.47478267095688687,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,40,1,15:19,2119,2119,Foul on Matthew Herasme.,6,7,-1,1,0.47477082857290975,0.47477082857290975,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,41,1,15:19,2119,2119,Official TV Timeout,6,7,-1,0,0.47477082857290975,0.47477082857290975,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,42,1,15:01,2101,2101,Shandon Brown made Jumper.,8,7,1,18,0.5254431343288437,0.5254431343288437,4,4,NA,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,43,1,14:15,2055,2055,Matthew Herasme missed Three Point Jumper.,8,7,1,46,0.5259973585649578,0.5259973585649578,4,4,NA,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,44,1,14:11,2051,2051,Steven Levnaic Defensive Rebound.,8,7,1,4,0.5260460953741875,0.5260460953741875,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,45,1,14:05,2045,2045,Steven Levnaic made Three Point Jumper. Assisted by Nicholas Kratholm.,11,7,4,6,0.6030741659814896,0.6030741659814896,4,4,NA,NA,NA,Niagara,made,Steven Levnaic,Nicholas Kratholm,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,46,1,13:46,2026,2026,Matthew Herasme made Three Point Jumper. Assisted by Michael Cubbage.,11,10,1,19,0.5263528246544972,0.5263528246544972,4,4,NA,NA,NA,Marist,made,Matthew Herasme,Michael Cubbage,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,47,1,13:16,1996,1996,Marcus Hammond missed Jumper.,11,10,1,30,0.5267260105688514,0.5267260105688514,4,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,48,1,13:16,1996,1996,Matthew Herasme Block.,11,10,1,0,0.5267260105688514,0.5267260105688514,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,49,1,13:09,1989,1989,Michael Cubbage Defensive Rebound.,11,10,1,7,0.5268139350911306,0.5268139350911306,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,50,1,13:00,1980,1980,Braden Bell missed Three Point Jumper.,11,10,1,9,0.5269274710676524,0.5269274710676524,4,4,NA,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,51,1,12:57,1977,1977,Shandon Brown Defensive Rebound.,11,10,1,3,0.5269654408739634,0.5269654408739634,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,52,1,12:36,1956,1956,James Towns missed Three Point Jumper.,11,10,1,21,0.5272330194208816,0.5272330194208816,4,4,NA,NA,NA,Niagara,missed,James Towns,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,53,1,12:33,1953,1953,Michael Cubbage Defensive Rebound.,11,10,1,3,0.5272715061407198,0.5272715061407198,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,54,1,12:21,1941,1941,Foul on Steven Levnaic.,11,10,1,12,0.5274261244257532,0.5274261244257532,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,55,1,12:05,1925,1925,Foul on Shandon Brown.,11,10,1,16,0.5276338632071575,0.5276338632071575,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,56,1,12:05,1925,1925,Braden Bell made Free Throw.,11,11,0,0,0.5,0.5,4,4,NA,NA,NA,Marist,made,Braden Bell,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,57,1,12:05,1925,1925,Braden Bell made Free Throw.,11,12,-1,0,0.4723661367928424,0.4723661367928424,4,4,NA,NA,NA,Marist,made,Braden Bell,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,58,1,11:52,1912,1912,Foul on Braden Bell.,11,12,-1,13,0.472197265256179,0.472197265256179,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,59,1,11:52,1912,1912,Official TV Timeout,11,12,-1,0,0.472197265256179,0.472197265256179,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,60,1,11:42,1902,1902,Greg Kuakumensah missed Layup.,11,12,-1,10,0.4720675168827789,0.4720675168827789,4,4,NA,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,61,1,11:38,1898,1898,Zion Tordoff Defensive Rebound.,11,12,-1,4,0.4720156351671368,0.4720156351671368,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,62,1,11:26,1886,1886,Matthew Herasme Turnover.,11,12,-1,12,0.47185998586772737,0.47185998586772737,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,63,1,11:26,1886,1886,Raheem Solomon Steal.,11,12,-1,0,0.47185998586772737,0.47185998586772737,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,64,1,11:05,1865,1865,Nick MacDonald made Jumper.,13,12,1,21,0.5284127472172593,0.5284127472172593,4,4,NA,NA,NA,Niagara,made,Nick MacDonald,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,65,1,10:44,1844,1844,Michael Cubbage Turnover.,13,12,1,21,0.5286865379509524,0.5286865379509524,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,66,1,10:20,1820,1820,Foul on Tyler Saint-Furcy.,13,12,1,24,0.5290016587898584,0.5290016587898584,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,67,1,10:20,1820,1820,James Towns made Free Throw.,14,12,2,0,0.5578088264398317,0.5578088264398317,4,4,NA,NA,NA,Niagara,made,James Towns,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,68,1,10:20,1820,1820,James Towns missed Free Throw.,14,12,2,0,0.5578088264398317,0.5578088264398317,4,4,NA,NA,NA,Niagara,missed,James Towns,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,69,1,10:20,1820,1820,Michael Cubbage Defensive Rebound.,14,12,2,0,0.5578088264398317,0.5578088264398317,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,70,1,10:02,1802,1802,Matthew Herasme missed Three Point Jumper.,14,12,2,18,0.5582810165866057,0.5582810165866057,4,4,NA,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,71,1,9:59,1799,1799,Nicholas Kratholm Defensive Rebound.,14,12,2,3,0.5583601374752247,0.5583601374752247,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,72,1,9:36,1776,1776,Marcus Hammond made Jumper.,16,12,4,23,0.6163246894878874,0.6163246894878874,4,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,73,1,9:10,1750,1750,Jordan Jones made Jumper. Assisted by Michael Cubbage.,16,14,2,26,0.5596740810082438,0.5596740810082438,4,4,NA,NA,NA,Marist,made,Jordan Jones,Michael Cubbage,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,74,1,8:45,1725,1725,James Towns Turnover.,16,14,2,25,0.5603637953895624,0.5603637953895624,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,75,1,8:45,1725,1725,Matthew Herasme Steal.,16,14,2,0,0.5603637953895624,0.5603637953895624,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,76,1,8:39,1719,1719,Michael Cubbage made Layup. Assisted by Matthew Herasme.,16,16,0,6,0.5,0.5,4,4,NA,NA,NA,Marist,made,Michael Cubbage,Matthew Herasme,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,77,1,8:35,1715,1715,Foul on Steven Levnaic.,16,16,0,4,0.5,0.5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,78,1,8:35,1715,1715,Michael Cubbage made Free Throw.,16,17,-1,0,0.4695656133376494,0.4695656133376494,4,4,NA,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,79,1,8:23,1703,1703,Marcus Hammond missed Three Point Jumper.,16,17,-1,12,0.4693937100769411,0.4693937100769411,4,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,80,1,8:20,1700,1700,Michael Cubbage Defensive Rebound.,16,17,-1,3,0.4693504028949788,0.4693504028949788,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,81,1,8:01,1681,1681,Michael Cubbage missed Jumper.,16,17,-1,19,0.46907445395022607,0.46907445395022607,4,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,82,1,7:58,1678,1678,Nicholas Kratholm Defensive Rebound.,16,17,-1,3,0.4690313190250685,0.4690313190250685,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,83,1,7:46,1666,1666,Raheem Solomon missed Layup.,16,17,-1,12,0.4688605608787106,0.4688605608787106,4,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,84,1,7:32,1652,1652,Nicholas Kratholm Offensive Rebound.,16,17,-1,14,0.46866446225385766,0.46866446225385766,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,85,1,7:32,1652,1652,Nicholas Kratholm made Layup.,18,17,1,0,0.5313355377461423,0.5313355377461423,4,4,NA,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,86,1,7:24,1644,1644,Braden Bell made Three Point Jumper. Assisted by Michael Cubbage.,18,20,-2,8,0.4373550717404442,0.4373550717404442,4,4,NA,NA,NA,Marist,made,Braden Bell,Michael Cubbage,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,87,1,6:56,1616,1616,Marcus Hammond made Three Point Jumper.,21,20,1,28,0.5318294770021337,0.5318294770021337,4,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,88,1,6:42,1602,1602,Jordan Jones missed Layup.,21,20,1,14,0.5320196042679948,0.5320196042679948,4,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,89,1,6:39,1599,1599,Raheem Solomon Defensive Rebound.,21,20,1,3,0.5320603267215861,0.5320603267215861,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,90,1,6:38,1598,1598,Foul on Jordan Jones.,21,20,1,1,0.5320739026692098,0.5320739026692098,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,91,1,6:38,1598,1598,Official TV Timeout,21,20,1,0,0.5320739026692098,0.5320739026692098,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,92,1,6:38,1598,1598,Raheem Solomon made Free Throw.,22,20,2,0,0.5638849226553919,0.5638849226553919,4,4,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,93,1,6:38,1598,1598,Raheem Solomon made Free Throw.,23,20,3,0,0.5951787257201809,0.5951787257201809,4,4,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,94,1,6:24,1584,1584,Jordan Jones made Layup. Assisted by Matthew Herasme.,23,22,1,14,0.5322642332022972,0.5322642332022972,4,4,NA,NA,NA,Marist,made,Jordan Jones,Matthew Herasme,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,95,1,6:01,1561,1561,Justin Roberts Turnover.,23,22,1,23,0.5325794815527023,0.5325794815527023,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,96,1,6:01,1561,1561,Tyler Saint-Furcy Steal.,23,22,1,0,0.5325794815527023,0.5325794815527023,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,97,1,5:43,1543,1543,Tyler Saint-Furcy missed Three Point Jumper.,23,22,1,18,0.5328302764141758,0.5328302764141758,4,4,NA,NA,NA,Marist,missed,Tyler Saint-Furcy,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,98,1,5:40,1540,1540,Shandon Brown Defensive Rebound.,23,22,1,3,0.5328725505053704,0.5328725505053704,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,99,1,5:22,1522,1522,Marcus Hammond missed Three Point Jumper.,23,22,1,18,0.5331297187092499,0.5331297187092499,4,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,100,1,5:18,1518,1518,Tyler Saint-Furcy Defensive Rebound.,23,22,1,4,0.5331877880822729,0.5331877880822729,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,101,1,5:08,1508,1508,Braden Bell Turnover.,23,22,1,10,0.5333346313041962,0.5333346313041962,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,102,1,5:08,1508,1508,Raheem Solomon Steal.,23,22,1,0,0.5333346313041962,0.5333346313041962,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,103,1,5:04,1504,1504,Raheem Solomon made Dunk. Assisted by Marcus Hammond.,25,22,3,4,0.5990063071970297,0.5990063071970297,4,4,NA,NA,NA,Niagara,made,Raheem Solomon,Marcus Hammond,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,104,1,5:04,1504,1504,Marist  Timeout,25,22,3,0,0.5990063071970297,0.5990063071970297,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,105,1,4:49,1489,1489,Michael Cubbage missed Three Point Jumper.,25,22,3,15,0.5996632445972285,0.5996632445972285,3,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,106,1,4:46,1486,1486,Marcus Hammond Defensive Rebound.,25,22,3,3,0.5997969502423529,0.5997969502423529,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,107,1,4:38,1478,1478,Raheem Solomon missed Layup.,25,22,3,8,0.6001575751886782,0.6001575751886782,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,108,1,4:38,1478,1478,Marist Defensive Rebound.,25,22,3,0,0.6001575751886782,0.6001575751886782,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,109,1,4:37,1477,1477,Foul on Greg Kuakumensah.,25,22,3,1,0.6002030843144989,0.6002030843144989,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,110,1,4:37,1477,1477,Tobias Sjoberg made Free Throw.,25,23,2,0,0.5673075177309964,0.5673075177309964,3,4,NA,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,111,1,4:37,1477,1477,Tobias Sjoberg made Free Throw.,25,24,1,0,0.5338076177961888,0.5338076177961888,3,4,NA,NA,NA,Marist,made,Tobias Sjoberg,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,112,1,4:25,1465,1465,Nicholas Kratholm missed Jumper.,25,24,1,12,0.5339991737725591,0.5339991737725591,3,4,NA,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,113,1,4:13,1453,1453,Michael Cubbage Defensive Rebound.,25,24,1,12,0.5341961773450636,0.5341961773450636,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,114,1,4:05,1445,1445,Tobias Sjoberg Turnover.,25,24,1,8,0.5343297618167899,0.5343297618167899,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,115,1,3:43,1423,1423,Shandon Brown Turnover.,25,24,1,22,0.5346867110487377,0.5346867110487377,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,116,1,3:43,1423,1423,Michael Cubbage Steal.,25,24,1,0,0.5346867110487377,0.5346867110487377,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,117,1,3:43,1423,1423,Tyler Sagl made Layup.,25,26,-1,0,0.46531328895126245,0.46531328895126245,3,4,NA,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,FALSE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,118,1,3:43,1423,1423,Official TV Timeout,25,26,-1,0,0.46531328895126245,0.46531328895126245,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,119,1,3:33,1413,1413,Shandon Brown missed Jumper.,25,26,-1,10,0.4651555292396723,0.4651555292396723,3,4,NA,NA,NA,Niagara,missed,Shandon Brown,NA,FALSE,FALSE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,120,1,3:29,1409,1409,Nicholas Kratholm Offensive Rebound.,25,26,-1,4,0.46509304649005123,0.46509304649005123,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,121,1,3:29,1409,1409,Nicholas Kratholm missed Layup.,25,26,-1,0,0.46509304649005123,0.46509304649005123,3,4,NA,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,122,1,3:28,1408,1408,Matthew Herasme Defensive Rebound.,25,26,-1,1,0.46507747513848,0.46507747513848,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,123,1,3:06,1386,1386,Foul on Tobias Sjoberg.,25,26,-1,22,0.4647387830704231,0.4647387830704231,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,124,1,3:06,1386,1386,Tobias Sjoberg Turnover.,25,26,-1,0,0.4647387830704231,0.4647387830704231,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,125,1,2:45,1365,1365,Raheem Solomon missed Jumper.,25,26,-1,21,0.46441916379224374,0.46441916379224374,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,126,1,2:41,1361,1361,Tyler Sagl Defensive Rebound.,25,26,-1,4,0.4643583077411053,0.4643583077411053,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,127,1,2:17,1337,1337,Tyler Saint-Furcy made Layup. Assisted by Tyler Sagl.,25,28,-3,24,0.39344320037797,0.39344320037797,3,4,NA,NA,NA,Marist,made,Tyler Saint-Furcy,Tyler Sagl,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,128,1,1:55,1315,1315,Raheem Solomon missed Jumper.,25,28,-3,22,0.39245058384886455,0.39245058384886455,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,129,1,1:51,1311,1311,Michael Cubbage Defensive Rebound.,25,28,-3,4,0.39226662994597034,0.39226662994597034,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,130,1,1:41,1301,1301,Foul on Nicholas Kratholm.,25,28,-3,10,0.39180088913456795,0.39180088913456795,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,131,1,1:41,1301,1301,Michael Cubbage missed Free Throw.,25,28,-3,0,0.39180088913456795,0.39180088913456795,3,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,132,1,1:41,1301,1301,Marist Offensive Rebound.,25,28,-3,0,0.39180088913456795,0.39180088913456795,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,133,1,1:41,1301,1301,Michael Cubbage missed Free Throw.,25,28,-3,0,0.39180088913456795,0.39180088913456795,3,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,134,1,1:39,1299,1299,Damani Thomas Defensive Rebound.,25,28,-3,2,0.39170664779491915,0.39170664779491915,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,135,1,1:36,1296,1296,Foul on Michael Cubbage.,25,28,-3,3,0.39156455028387854,0.39156455028387854,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,136,1,1:36,1296,1296,Marcus Hammond made Free Throw.,26,28,-2,0,0.4270672223655972,0.4270672223655972,3,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,137,1,1:36,1296,1296,Marcus Hammond made Free Throw.,27,28,-1,0,0.4633375481296548,0.4633375481296548,3,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,138,1,1:22,1282,1282,Tyler Saint-Furcy Turnover.,27,28,-1,14,0.46310235607593425,0.46310235607593425,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,139,1,1:22,1282,1282,James Towns Steal.,27,28,-1,0,0.46310235607593425,0.46310235607593425,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,140,1,1:14,1274,1274,Raheem Solomon made Layup. Assisted by James Towns.,29,28,1,8,0.5370357273089071,0.5370357273089071,3,4,NA,NA,NA,Niagara,made,Raheem Solomon,James Towns,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,141,1,0:59,1259,1259,Marist  Timeout,29,28,1,15,0.5373029021648592,0.5373029021648592,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,142,1,0:48,1248,1248,Matthew Herasme missed Layup.,29,28,1,11,0.5375064763499907,0.5375064763499907,2,4,NA,NA,NA,Marist,missed,Matthew Herasme,NA,FALSE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,143,1,0:39,1239,1239,Marist Offensive Rebound.,29,28,1,9,0.5376783618163263,0.5376783618163263,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,144,1,0:39,1239,1239,Foul on Raheem Solomon.,29,28,1,0,0.5376783618163263,0.5376783618163263,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,145,1,0:39,1239,1239,Matthew Herasme made Free Throw.,29,29,0,0,0.5,0.5,2,4,NA,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,146,1,0:39,1239,1239,Matthew Herasme made Free Throw.,29,30,-1,0,0.46232163818367367,0.46232163818367367,2,4,NA,NA,NA,Marist,made,Matthew Herasme,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,147,1,0:08,1208,1208,Marcus Hammond made Jumper. Assisted by Damani Thomas.,31,30,1,31,0.5383119834547322,0.5383119834547322,2,4,NA,NA,NA,Niagara,made,Marcus Hammond,Damani Thomas,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,148,1,0:00,1200,1200,Braden Bell missed Layup.,31,30,1,8,0.5384812553577752,0.5384812553577752,2,4,NA,NA,NA,Marist,missed,Braden Bell,NA,FALSE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,149,1,0:00,1200,1200,Marist Offensive Rebound.,31,30,1,0,0.5384812553577752,0.5384812553577752,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,150,1,0:00,1200,1200,End of 1st half,31,30,1,0,0.5384812553577752,0.5384812553577752,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401211032,2020-03-10,Niagara,Marist,151,2,20:00,1200,1200,PLAY,31,30,1,0,0.5384812553577752,0.5384812553577752,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist
+401211032,2020-03-10,Niagara,Marist,152,2,19:48,1188,1188,Jordan Jones missed Layup.,31,30,1,12,0.5387302470101494,0.5387302470101494,3,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,153,2,19:48,1188,1188,Nicholas Kratholm Block.,31,30,1,0,0.5387302470101494,0.5387302470101494,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,154,2,19:43,1183,1183,Shandon Brown Defensive Rebound.,31,30,1,5,0.5388324930349924,0.5388324930349924,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,155,2,19:25,1165,1165,Raheem Solomon missed Three Point Jumper.,31,30,1,18,0.5391949109632185,0.5391949109632185,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,156,2,19:20,1160,1160,Jordan Jones Defensive Rebound.,31,30,1,5,0.5392943727031536,0.5392943727031536,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,157,2,18:54,1134,1134,Tyler Sagl missed Three Point Jumper.,31,30,1,26,0.5398075626831277,0.5398075626831277,3,4,NA,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,158,2,18:54,1134,1134,Niagara Defensive Rebound.,31,30,1,0,0.5398075626831277,0.5398075626831277,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,159,2,18:27,1107,1107,Raheem Solomon made Layup. Assisted by Shandon Brown.,33,30,3,27,0.6189674182186565,0.6189674182186565,3,4,NA,NA,NA,Niagara,made,Raheem Solomon,Shandon Brown,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,160,2,18:01,1081,1081,Foul on Shandon Brown.,33,30,3,26,0.6204758063023288,0.6204758063023288,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,161,2,17:49,1069,1069,Tyler Sagl missed Three Point Jumper.,33,30,3,12,0.6211944398517759,0.6211944398517759,3,4,NA,NA,NA,Marist,missed,Tyler Sagl,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,162,2,17:46,1066,1066,Marcus Hammond Defensive Rebound.,33,30,3,3,0.6213769008028112,0.6213769008028112,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,163,2,17:40,1060,1060,Marcus Hammond missed Three Point Jumper.,33,30,3,6,0.6217455451757833,0.6217455451757833,3,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,164,2,17:37,1057,1057,Tyler Sagl Defensive Rebound.,33,30,3,3,0.621931831098139,0.621931831098139,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,165,2,17:30,1050,1050,Jordan Jones missed Dunk.,33,30,3,7,0.6223719432175817,0.6223719432175817,3,4,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,166,2,17:26,1046,1046,Shandon Brown Defensive Rebound.,33,30,3,4,0.6226270526869097,0.6226270526869097,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,167,2,17:00,1020,1020,Nicholas Kratholm missed Jumper.,33,30,3,26,0.6243584518215776,0.6243584518215776,3,4,NA,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,FALSE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,168,2,16:56,1016,1016,Raheem Solomon Offensive Rebound.,33,30,3,4,0.6246373581639776,0.6246373581639776,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,169,2,16:55,1015,1015,Raheem Solomon missed Layup.,33,30,3,1,0.6247076555072557,0.6247076555072557,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,170,2,16:51,1011,1011,Tyler Saint-Furcy Defensive Rebound.,33,30,3,4,0.6249911838836429,0.6249911838836429,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,171,2,16:45,1005,1005,Tyler Saint-Furcy made Three Point Jumper. Assisted by Michael Cubbage.,33,33,0,6,0.5,0.5,3,4,NA,NA,NA,Marist,made,Tyler Saint-Furcy,Michael Cubbage,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,172,2,16:26,986,986,Foul on Jordan Jones.,33,33,0,19,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,173,2,16:16,976,976,Steven Levnaic missed Three Point Jumper.,33,33,0,10,0.5,0.5,3,4,NA,NA,NA,Niagara,missed,Steven Levnaic,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,174,2,16:13,973,973,Matthew Herasme Defensive Rebound.,33,33,0,3,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,175,2,15:59,959,959,Braden Bell Turnover.,33,33,0,14,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,176,2,15:59,959,959,Marcus Hammond Steal.,33,33,0,0,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,177,2,15:51,951,951,Marcus Hammond made Layup.,35,33,2,8,0.5875255538817862,0.5875255538817862,3,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,178,2,15:23,923,923,Michael Cubbage missed Three Point Jumper.,35,33,2,28,0.5888743568766696,0.5888743568766696,3,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,179,2,15:19,919,919,Braden Bell Offensive Rebound.,35,33,2,4,0.589054803217887,0.589054803217887,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,180,2,15:15,915,915,Matthew Herasme Turnover.,35,33,2,4,0.5892329398946757,0.5892329398946757,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,181,2,15:15,915,915,Official TV Timeout,35,33,2,0,0.5892329398946757,0.5892329398946757,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,182,2,15:03,903,903,James Towns Turnover.,35,33,2,12,0.5897559886054022,0.5897559886054022,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,183,2,15:03,903,903,Matthew Herasme Steal.,35,33,2,0,0.5897559886054022,0.5897559886054022,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,184,2,14:46,886,886,Braden Bell made Layup.,35,35,0,17,0.5,0.5,3,4,NA,NA,NA,Marist,made,Braden Bell,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,185,2,14:21,861,861,Foul on Braden Bell.,35,35,0,25,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,186,2,14:12,852,852,Marcus Hammond made Three Point Jumper.,38,35,3,9,0.6359699570674832,0.6359699570674832,3,4,NA,NA,NA,Niagara,made,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,187,2,13:57,837,837,Foul on James Towns.,38,35,3,15,0.6369377313183482,0.6369377313183482,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,188,2,13:40,820,820,Tyler Saint-Furcy made Jumper. Assisted by Matthew Herasme.,38,37,1,17,0.5471213286580703,0.5471213286580703,3,4,NA,NA,NA,Marist,made,Tyler Saint-Furcy,Matthew Herasme,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,189,2,13:23,803,803,Marcus Hammond missed Three Point Jumper.,38,37,1,17,0.5475735037612766,0.5475735037612766,3,4,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,190,2,13:19,799,799,Tobias Sjoberg Defensive Rebound.,38,37,1,4,0.5476861506184257,0.5476861506184257,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,191,2,13:11,791,791,Matthew Herasme missed Three Point Jumper.,38,37,1,8,0.547919511419774,0.547919511419774,3,4,NA,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,192,2,13:08,788,788,Marcus Hammond Defensive Rebound.,38,37,1,3,0.5480099584776371,0.5480099584776371,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,193,2,13:03,783,783,Justin Roberts missed Jumper.,38,37,1,5,0.548164474855474,0.548164474855474,3,4,NA,NA,NA,Niagara,missed,Justin Roberts,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,194,2,13:00,780,780,Braden Bell Defensive Rebound.,38,37,1,3,0.5482595346960678,0.5482595346960678,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,195,2,12:36,756,756,Foul on Tobias Sjoberg.,38,37,1,24,0.5490903117027349,0.5490903117027349,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,196,2,12:36,756,756,Tobias Sjoberg Turnover.,38,37,1,0,0.5490903117027349,0.5490903117027349,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,197,2,12:19,739,739,Raheem Solomon missed Jumper.,38,37,1,17,0.5497645093967024,0.5497645093967024,3,4,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,198,2,12:10,730,730,Tyler Sagl Defensive Rebound.,38,37,1,9,0.5501540736583859,0.5501540736583859,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,199,2,12:03,723,723,Michael Cubbage made Jumper.,38,39,-1,7,0.4495420448412806,0.4495420448412806,3,4,NA,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,200,2,11:44,704,704,Foul on Tyler Sagl.,38,39,-1,19,0.44879058912009023,0.44879058912009023,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,201,2,11:44,704,704,Official TV Timeout,38,39,-1,0,0.44879058912009023,0.44879058912009023,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,202,2,11:44,704,704,Nicholas Kratholm made Free Throw.,39,39,0,0,0.5,0.5,3,4,NA,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,203,2,11:44,704,704,Nicholas Kratholm missed Free Throw.,39,39,0,0,0.5,0.5,3,4,NA,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,204,2,11:42,702,702,Michael Cubbage Defensive Rebound.,39,39,0,2,0.5,0.5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,205,2,11:19,679,679,Michael Cubbage made Jumper. Assisted by Matthew Herasme.,39,41,-2,23,0.39694653813965525,0.39694653813965525,3,4,NA,NA,NA,Marist,made,Michael Cubbage,Matthew Herasme,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,206,2,10:44,644,644,James Towns made Three Point Jumper. Assisted by Shandon Brown.,42,41,1,35,0.5532494455777598,0.5532494455777598,3,4,NA,NA,NA,Niagara,made,James Towns,Shandon Brown,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,207,2,10:17,617,617,Michael Cubbage missed Three Point Jumper.,42,41,1,27,0.5542286431418424,0.5542286431418424,3,4,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,208,2,10:16,616,616,Marist Offensive Rebound.,42,41,1,1,0.5542678738082388,0.5542678738082388,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,209,2,10:16,616,616,Foul on Nicholas Kratholm.,42,41,1,0,0.5542678738082388,0.5542678738082388,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,210,2,10:07,607,607,Zion Tordoff made Jumper. Assisted by Michael Cubbage.,42,43,-1,9,0.4453665076344338,0.4453665076344338,3,4,NA,NA,NA,Marist,made,Zion Tordoff,Michael Cubbage,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,211,2,10:00,600,600,Raheem Solomon Turnover.,42,43,-1,7,0.44506480685690686,0.44506480685690686,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,212,2,9:40,580,580,Tyler Sagl made Jumper.,42,45,-3,20,0.33769219839909925,0.33769219839909925,3,4,NA,NA,NA,Marist,made,Tyler Sagl,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,213,2,9:12,552,552,Justin Roberts made Jumper. Assisted by Shandon Brown.,44,45,-1,28,0.4424349550630384,0.4424349550630384,3,4,NA,NA,NA,Niagara,made,Justin Roberts,Shandon Brown,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,214,2,9:12,552,552,Niagara  Timeout,44,45,-1,0,0.4424349550630384,0.4424349550630384,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,215,2,8:47,527,527,Matthew Herasme missed Three Point Jumper.,44,45,-1,25,0.4409121998764276,0.4409121998764276,3,3,NA,NA,NA,Marist,missed,Matthew Herasme,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,216,2,8:44,524,524,Greg Kuakumensah Defensive Rebound.,44,45,-1,3,0.4407529297741142,0.4407529297741142,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,217,2,8:38,518,518,Justin Roberts missed Three Point Jumper.,44,45,-1,6,0.44044378525562455,0.44044378525562455,3,3,NA,NA,NA,Niagara,missed,Justin Roberts,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,218,2,8:35,515,515,Michael Cubbage Defensive Rebound.,44,45,-1,3,0.44029286765348946,0.44029286765348946,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,219,2,8:28,508,508,Braden Bell missed Three Point Jumper.,44,45,-1,7,0.43994659728510555,0.43994659728510555,3,3,NA,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,220,2,8:24,504,504,Justin Roberts Defensive Rebound.,44,45,-1,4,0.439750437247205,0.439750437247205,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,221,2,7:58,478,478,Shandon Brown made Jumper.,46,45,1,26,0.5615870516221487,0.5615870516221487,3,3,NA,NA,NA,Niagara,made,Shandon Brown,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,222,2,7:31,451,451,Foul on Steven Levnaic.,46,45,1,27,0.5633521906011055,0.5633521906011055,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,223,2,7:31,451,451,Official TV Timeout,46,45,1,0,0.5633521906011055,0.5633521906011055,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,224,2,7:31,451,451,Michael Cubbage made Free Throw.,46,46,0,0,0.5,0.5,3,3,NA,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,225,2,7:31,451,451,Michael Cubbage made Free Throw.,46,47,-1,0,0.4366478093988945,0.4366478093988945,3,3,NA,NA,NA,Marist,made,Michael Cubbage,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,226,2,7:09,429,429,Foul on Jordan Jones.,46,47,-1,22,0.4346687531410333,0.4346687531410333,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,227,2,7:09,429,429,Raheem Solomon made Free Throw.,47,47,0,0,0.5,0.5,3,3,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,228,2,7:09,429,429,Raheem Solomon made Free Throw.,48,47,1,0,0.5653312468589666,0.5653312468589666,3,3,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,229,2,6:44,404,404,Foul on Nicholas Kratholm.,48,47,1,25,0.56769952135583,0.56769952135583,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,230,2,6:26,386,386,Jordan Jones Turnover.,48,47,1,18,0.5693099664733523,0.5693099664733523,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,231,2,6:26,386,386,Raheem Solomon Steal.,48,47,1,0,0.5693099664733523,0.5693099664733523,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,232,2,5:59,359,359,Raheem Solomon missed Three Point Jumper.,48,47,1,27,0.5719272280223192,0.5719272280223192,3,3,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,233,2,5:55,355,355,Matthew Herasme Defensive Rebound.,48,47,1,4,0.5723604654610948,0.5723604654610948,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,234,2,5:44,344,344,Jordan Jones made Jumper. Assisted by Braden Bell.,48,49,-1,11,0.4263592889974622,0.4263592889974622,3,3,NA,NA,NA,Marist,made,Jordan Jones,Braden Bell,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,235,2,5:13,313,313,Foul on Braden Bell.,48,49,-1,31,0.4218074453454439,0.4218074453454439,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,236,2,5:13,313,313,Raheem Solomon made Free Throw.,49,49,0,0,0.5,0.5,3,3,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,237,2,5:13,313,313,Raheem Solomon made Free Throw.,50,49,1,0,0.5781925546545561,0.5781925546545561,3,3,NA,NA,NA,Niagara,made,Raheem Solomon,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,238,2,4:59,299,299,Braden Bell missed Three Point Jumper.,50,49,1,14,0.5801153170696038,0.5801153170696038,3,3,NA,NA,NA,Marist,missed,Braden Bell,NA,TRUE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,239,2,4:59,299,299,Niagara Defensive Rebound.,50,49,1,0,0.5801153170696038,0.5801153170696038,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,240,2,4:37,277,277,Marcus Hammond made Three Point Jumper. Assisted by James Towns.,53,49,4,22,0.7848928393666811,0.7848928393666811,3,3,NA,NA,NA,Niagara,made,Marcus Hammond,James Towns,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,241,2,4:08,248,248,Michael Cubbage Turnover.,53,49,4,29,0.7794332885795392,0.7794332885795392,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,242,2,3:46,226,226,Greg Kuakumensah missed Layup.,53,49,4,22,0.7794490926766819,0.7794490926766819,3,3,NA,NA,NA,Niagara,missed,Greg Kuakumensah,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,243,2,3:46,226,226,Jordan Jones Block.,53,49,4,0,0.7794490926766819,0.7794490926766819,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,244,2,3:41,221,221,Tyler Saint-Furcy Defensive Rebound.,53,49,4,5,0.780750128814572,0.780750128814572,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,245,2,3:17,197,197,Michael Cubbage missed Three Point Jumper.,53,49,4,24,0.7969222074158057,0.7969222074158057,3,3,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,246,2,3:13,193,193,Braden Bell Offensive Rebound.,53,49,4,4,0.8014511399616482,0.8014511399616482,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,247,2,3:02,182,182,Foul on Greg Kuakumensah.,53,49,4,11,0.8154977246452715,0.8154977246452715,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,248,2,3:02,182,182,Official TV Timeout,53,49,4,0,0.8154977246452715,0.8154977246452715,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,249,2,3:02,182,182,Jordan Jones made Free Throw.,53,50,3,0,0.7529861872689948,0.7529861872689948,3,3,NA,NA,NA,Marist,made,Jordan Jones,NA,FALSE,TRUE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,250,2,3:02,182,182,Jordan Jones missed Free Throw.,53,50,3,0,0.7529861872689948,0.7529861872689948,3,3,NA,NA,NA,Marist,missed,Jordan Jones,NA,FALSE,TRUE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,251,2,3:00,180,180,Raheem Solomon Defensive Rebound.,53,50,3,2,0.7553337969382233,0.7553337969382233,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,252,2,2:44,164,164,Marcus Hammond missed Three Point Jumper.,53,50,3,16,0.7741808875014576,0.7741808875014576,3,3,NA,NA,NA,Niagara,missed,Marcus Hammond,NA,TRUE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,253,2,2:43,163,163,Marist Defensive Rebound.,53,50,3,1,0.775374162936637,0.775374162936637,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,254,2,2:10,130,130,Jordan Jones made Layup. Assisted by Tyler Saint-Furcy.,53,52,1,33,0.6222740420414592,0.6222740420414592,3,3,NA,NA,NA,Marist,made,Jordan Jones,Tyler Saint-Furcy,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,255,2,1:45,105,105,Foul on Matthew Herasme.,53,52,1,25,0.6424308687487601,0.6424308687487601,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,256,2,1:45,105,105,Nicholas Kratholm made Free Throw.,54,52,2,0,0.7634812340801415,0.7634812340801415,3,3,NA,NA,NA,Niagara,made,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,257,2,1:45,105,105,Nicholas Kratholm missed Free Throw.,54,52,2,0,0.7634812340801415,0.7634812340801415,3,3,NA,NA,NA,Niagara,missed,Nicholas Kratholm,NA,FALSE,TRUE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,258,2,1:43,103,103,Michael Cubbage Defensive Rebound.,54,52,2,2,0.7663598677580039,0.7663598677580039,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,259,2,1:21,81,81,Marist  Timeout,54,52,2,22,0.7993084358792387,0.7993084358792387,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,260,2,1:12,72,72,Michael Cubbage missed Jumper.,54,52,2,9,0.8129087385787331,0.8129087385787331,2,3,NA,NA,NA,Marist,missed,Michael Cubbage,NA,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,261,2,1:09,69,69,Shandon Brown Defensive Rebound.,54,52,2,3,0.8174975307231944,0.8174975307231944,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,262,2,1:06,66,66,Niagara  Timeout,54,52,2,3,0.8220613907840962,0.8220613907840962,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Niagara
+401211032,2020-03-10,Niagara,Marist,263,2,0:44,44,44,Raheem Solomon missed Jumper.,54,52,2,22,0.8547348038593043,0.8547348038593043,2,2,NA,NA,NA,Niagara,missed,Raheem Solomon,NA,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,264,2,0:41,41,41,Tyler Saint-Furcy Defensive Rebound.,54,52,2,3,0.859085039816666,0.859085039816666,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,265,2,0:32,32,32,Jordan Jones made Jumper. Assisted by Matthew Herasme.,54,54,0,9,0.5,0.5,2,2,NA,NA,NA,Marist,made,Jordan Jones,Matthew Herasme,FALSE,FALSE,Marist,Niagara
+401211032,2020-03-10,Niagara,Marist,266,2,0:03,3,3,Raheem Solomon made Layup. Assisted by Marcus Hammond.,56,54,2,29,0.9095600412345216,0.9095600412345216,2,2,NA,NA,NA,Niagara,made,Raheem Solomon,Marcus Hammond,FALSE,FALSE,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,267,2,0:03,3,3,Marist  Timeout,56,54,2,0,0.9095600412345216,0.9095600412345216,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,268,2,0:03,3,3,Niagara  Timeout,56,54,2,0,0.9095600412345216,0.9095600412345216,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Niagara,Marist
+401211032,2020-03-10,Niagara,Marist,269,2,0:00,0,0,Michael Cubbage missed Three Point Jumper.,56,54,2,3,1,1,1,1,NA,NA,NA,Marist,missed,Michael Cubbage,NA,TRUE,FALSE,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,270,2,0:00,0,0,Marist Offensive Rebound.,56,54,2,0,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,Marist
+401211032,2020-03-10,Niagara,Marist,271,2,0:00,0,0,End of 2nd half,56,54,2,0,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
+401211032,2020-03-10,Niagara,Marist,272,2,0:00,0,0,End of Game,56,54,2,0,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marist,NA
