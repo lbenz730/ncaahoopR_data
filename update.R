@@ -1,6 +1,7 @@
 library(ncaahoopR)
 library(readr)
 
+
 n <- nrow(ids)
 for(i in 1:n) {
   cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
@@ -15,7 +16,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date("2020-11-01")
+date <- as.Date(dir('2020-21/pbp_logs/')) %>% max(na.rm = T)
 while(date <= Sys.Date()) {
   print(date)
   schedule <- get_master_schedule(date)
@@ -38,7 +39,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- as.Date("2020-11-01")
+date <- date <- as.Date(dir('2020-21/pbp_logs/')) %>% max(na.rm = T)
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
