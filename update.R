@@ -39,7 +39,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- date <- as.Date(dir('2020-21/pbp_logs/')) %>% max(na.rm = T)
+date <- as.Date(dir('2020-21/pbp_logs/')) %>% max(na.rm = T)
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
