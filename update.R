@@ -16,7 +16,7 @@ for(i in 1:n) {
 }
 
 ### Pull Games
-date <- as.Date('2021-11-01')
+date <- as.Date(dir('2021-22/pbp_logs/')) %>% max(na.rm = T)
 while(date <= Sys.Date()) {
   print(date)
   schedule <- get_master_schedule(date)
