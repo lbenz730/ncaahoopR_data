@@ -1,18 +1,18 @@
 library(ncaahoopR)
 library(readr)
 
-seasons <- paste0(2002:2018, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .19, 0.01))))
+seasons <- paste0(2002:2021, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .22, 0.01))))
 for(j in 1:length(seasons)) {
   schedules <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = T)
   schedules_clean <- dir(paste(seasons[j], "schedules", sep = "/"), full.names = F)
-  schedules <- schedules[grepl("UConn", schedules)]
-  schedules_clean <- schedules_clean[grepl("UConn", schedules_clean)]
+  # schedules <- schedules[grepl("UConn", schedules)]
+  # schedules_clean <- schedules_clean[grepl("UConn", schedules_clean)]
   n <- length(schedules)
   for(i in 1:n) {
     ### Read in Schedule
     s <- read_csv(schedules[i])
     n1 <- nrow(s)
-    box### Try to Scrape PBP
+    ### Try to Scrape PBP
     for(k in 1:n1) {
       cat("Scraping Game", k, "of", n1, "for Team", i, "of", n, "(Season =", seasons[j], ")\n")
       team <- gsub("_", " ", gsub("_schedule.csv", "", schedules_clean[i]))
