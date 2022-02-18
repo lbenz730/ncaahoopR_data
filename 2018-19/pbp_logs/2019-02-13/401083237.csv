@@ -1,351 +1,351 @@
 game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
-401083237,2019-02-13,Xavier,Creighton,1,1,20:00,2400,2700,PLAY,0,0,0,0,0.45997804817301924,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
-401083237,2019-02-13,Xavier,Creighton,2,1,19:41,2381,2681,Zach Hankins Turnover.,0,0,0,19,0.46005401381378,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,3,1,19:41,2381,2681,Davion Mintz Steal.,0,0,0,0,0.46005401381378,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,4,1,19:24,2364,2664,Ty-Shon Alexander made Three Point Jumper. Assisted by Davion Mintz.,0,3,-3,17,0.39429278214835367,0.4330403178930196,4,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Davion Mintz,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,5,1,19:03,2343,2643,Tyrique Jones Turnover.,0,3,-3,21,0.3937223961052311,0.4323671882528801,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,6,1,18:33,2313,2613,Kaleb Joseph missed Three Point Jumper.,0,3,-3,30,0.39289799412747844,0.4313918005327808,4,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,7,1,18:33,2313,2613,Paul Scruggs Defensive Rebound.,0,3,-3,0,0.39289799412747844,0.4313918005327808,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,8,1,18:29,2309,2609,Foul on Martin Krampelj.,0,3,-3,4,0.3927873271786404,0.4312606227927021,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,9,1,18:16,2296,2596,Paul Scruggs missed Jumper.,0,3,-3,13,0.39242658976431355,0.4308326017028225,4,4,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,10,1,18:16,2296,2596,Christian Bishop Block.,0,3,-3,0,0.39242658976431355,0.4308326017028225,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,11,1,18:15,2295,2595,Zach Hankins Offensive Rebound.,0,3,-3,1,0.39239877643886445,0.4307995730338573,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,12,1,18:12,2292,2592,Zach Hankins missed Layup.,0,3,-3,3,0.39231528416830663,0.4307004005860406,4,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,13,1,18:12,2292,2592,Christian Bishop Block.,0,3,-3,0,0.39231528416830663,0.4307004005860406,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,14,1,18:11,2291,2591,Mitch Ballock Defensive Rebound.,0,3,-3,1,0.39228743625587403,0.4306673145520783,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,15,1,17:59,2279,2579,Mitch Ballock Turnover.,0,3,-3,12,0.39195262664819885,0.4302692013663114,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,16,1,17:59,2279,2579,Tyrique Jones Steal.,0,3,-3,0,0.39195262664819885,0.4302692013663114,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,17,1,17:53,2273,2573,Quentin Goodin made Layup.,2,3,-1,6,0.43730568356324956,0.47655321655577,4,4,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,18,1,17:31,2251,2551,Davion Mintz made Three Point Jumper. Assisted by Kaleb Joseph.,2,6,-4,22,0.36882405782031924,0.406264365373249,4,4,-1,NA,NA,Creighton,made,Davion Mintz,Kaleb Joseph,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,19,1,17:17,2237,2537,Paul Scruggs made Layup.,4,6,-2,14,0.4137306926400816,0.4523951664921712,4,4,-1,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,20,1,17:06,2226,2526,Christian Bishop made Layup. Assisted by Mitch Ballock.,4,8,-4,11,0.367868632525311,0.40515779599702156,4,4,-1,NA,NA,Creighton,made,Christian Bishop,Mitch Ballock,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,21,1,16:41,2201,2501,Naji Marshall made Three Point Jumper. Assisted by Paul Scruggs.,7,8,-1,25,0.43683565547302533,0.47572895999777826,4,4,-1,NA,NA,Xavier,made,Naji Marshall,Paul Scruggs,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,22,1,16:33,2193,2493,Kaleb Joseph made Layup. Assisted by Davion Mintz.,7,10,-3,8,0.3895303442469891,0.42736858890213136,4,4,-1,NA,NA,Creighton,made,Kaleb Joseph,Davion Mintz,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,23,1,16:31,2191,2491,Xavier  Timeout,7,10,-3,2,0.38947377712113296,0.42730037153142114,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,24,1,16:18,2178,2478,Tyrique Jones missed Jumper.,7,10,-3,13,0.3891060998594349,0.42685637204017157,3,4,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,25,1,16:18,2178,2478,Tyrique Jones Offensive Rebound.,7,10,-3,0,0.3891060998594349,0.42685637204017157,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,26,1,16:17,2177,2477,Tyrique Jones made Two Point Tip Shot.,9,10,-1,1,0.43668229412413945,0.4754507121695394,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,27,1,16:06,2166,2466,Kaleb Joseph Turnover.,9,10,-1,11,0.4366127623369154,0.47532276278028657,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,28,1,15:53,2153,2453,Naji Marshall missed Three Point Jumper.,9,10,-1,13,0.43653096804523245,0.4751710109153479,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,29,1,15:53,2153,2453,Tyrique Jones Offensive Rebound.,9,10,-1,0,0.43653096804523245,0.4751710109153479,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,30,1,15:48,2148,2448,Official TV Timeout,11,10,1,5,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,31,1,15:48,2148,2448,Tyrique Jones made Layup.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,32,1,15:48,2148,2448,Foul on Christian Bishop.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,33,1,15:48,2148,2448,Official TV Timeout,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,34,1,15:48,2148,2448,Tyrique Jones missed Free Throw.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,35,1,15:48,2148,2448,Damien Jefferson Defensive Rebound.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,36,1,15:46,2146,2446,Official TV Timeout,11,10,1,2,0.4860089963646947,0.5249109793664207,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,37,1,15:15,2115,2415,Creighton  Turnover.,11,10,1,31,0.4865448244780178,0.5252765869503683,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,38,1,15:04,2104,2404,Tyrique Jones made Dunk. Assisted by Naji Marshall.,13,10,3,11,0.53752207423974,0.5757012915759318,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Naji Marshall,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,39,1,14:45,2085,2385,Foul on Tyrique Jones.,13,10,3,19,0.5383089957539251,0.5763691141788408,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,40,1,14:35,2075,2375,Martin Krampelj made Dunk. Assisted by Ty-Shon Alexander.,13,12,1,10,0.48725092814971793,0.5257550141175334,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,41,1,14:18,2058,2358,Zach Hankins made Dunk. Assisted by Paul Scruggs.,15,12,3,17,0.5394399991922607,0.5773271924711609,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Paul Scruggs,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,42,1,14:12,2052,2352,Ty-Shon Alexander missed Three Point Jumper.,15,12,3,6,0.5396934415974339,0.5775416280204761,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,43,1,14:12,2052,2352,Zach Hankins Defensive Rebound.,15,12,3,0,0.5396934415974339,0.5775416280204761,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,44,1,13:59,2039,2339,Kyle Castlin missed Jumper.,15,12,3,13,0.5402452808695304,0.5780082383460582,3,4,-1,NA,NA,Xavier,missed,Kyle Castlin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,45,1,13:59,2039,2339,Martin Krampelj Defensive Rebound.,15,12,3,0,0.5402452808695304,0.5780082383460582,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,46,1,13:35,2015,2315,Damien Jefferson made Three Point Jumper. Assisted by Ty-Shon Alexander.,15,15,0,24,0.46190078713760907,0.5,3,4,-1,NA,NA,Creighton,made,Damien Jefferson,Ty-Shon Alexander,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,47,1,13:16,1996,2296,Zach Hankins missed Jumper.,15,15,0,19,0.4620168563778631,0.5,3,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,48,1,13:16,1996,2296,Damien Jefferson Defensive Rebound.,15,15,0,0,0.4620168563778631,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,49,1,12:54,1974,2274,Martin Krampelj missed Three Point Jumper.,15,15,0,22,0.46215348808517454,0.5,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,50,1,12:54,1974,2274,Kyle Castlin Defensive Rebound.,15,15,0,0,0.46215348808517454,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,51,1,12:43,1963,2263,Zach Hankins made Layup. Assisted by Quentin Goodin.,17,15,2,11,0.5164849503343812,0.5541274301505975,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Quentin Goodin,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,52,1,12:37,1957,2257,Foul on Quentin Goodin.,17,15,2,6,0.5166768644128682,0.5542795390716708,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,53,1,12:23,1943,2243,Foul on Zach Hankins.,17,15,2,14,0.5171273922024835,0.554636479867359,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,54,1,12:23,1943,2243,Martin Krampelj made Free Throw.,17,16,1,0,0.4897077924888754,0.5274002793738733,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,55,1,12:23,1943,2243,Martin Krampelj made Free Throw.,17,17,0,0,0.4623499837431339,0.5,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,56,1,12:05,1925,2225,Kyle Castlin made Three Point Jumper. Assisted by Paul Scruggs.,20,17,3,18,0.5452573873020781,0.5822324554233181,3,4,-1,NA,NA,Xavier,made,Kyle Castlin,Paul Scruggs,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,57,1,11:54,1914,2214,Ty-Shon Alexander missed Three Point Jumper.,20,17,3,11,0.5457556842826558,0.5826508122878031,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,58,1,11:54,1914,2214,Samson Froling Offensive Rebound.,20,17,3,0,0.5457556842826558,0.5826508122878031,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,59,1,11:51,1911,2211,Samson Froling made Layup.,20,19,1,3,0.4903334129174064,0.52781571392958,3,4,-1,NA,NA,Creighton,made,Samson Froling,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,60,1,11:27,1887,2187,Official TV Timeout,20,19,1,24,0.49080684620656395,0.5281270409839967,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,61,1,11:24,1884,2184,Ryan Welage missed Layup.,20,19,1,3,0.49086629637157414,0.5281659628104325,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,62,1,11:24,1884,2184,Samson Froling Block.,20,19,1,0,0.49086629637157414,0.5281659628104325,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,63,1,11:23,1883,2183,Creighton Defensive Rebound.,20,19,1,1,0.490886127605099,0.5281789384956048,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,64,1,11:12,1872,2172,Samson Froling missed Layup.,20,19,1,11,0.49110477002400565,0.5283217541739113,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,65,1,11:12,1872,2172,Naji Marshall Defensive Rebound.,20,19,1,0,0.49110477002400565,0.5283217541739113,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,66,1,11:11,1871,2171,Foul on Samson Froling.,20,19,1,1,0.4911246935300988,0.5283347469942727,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,67,1,10:51,1851,2151,Tyrique Jones made Layup. Assisted by Naji Marshall.,22,19,3,20,0.5486226833719224,0.5850443944335846,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Naji Marshall,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,68,1,10:13,1813,2113,Ty-Shon Alexander missed Three Point Jumper.,22,19,3,38,0.5503780484614955,0.5865023309898767,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,69,1,10:13,1813,2113,Naji Marshall Defensive Rebound.,22,19,3,0,0.5503780484614955,0.5865023309898767,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,70,1,10:07,1807,2107,Ryan Welage missed Three Point Jumper.,22,19,3,6,0.5506580050759705,0.5867345696158975,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,71,1,10:07,1807,2107,Ty-Shon Alexander Defensive Rebound.,22,19,3,0,0.5506580050759705,0.5867345696158975,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,72,1,9:45,1785,2085,Samson Froling missed Jumper.,22,19,3,22,0.5516924678233512,0.5875923898660402,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,73,1,9:45,1785,2085,Mitch Ballock Offensive Rebound.,22,19,3,0,0.5516924678233512,0.5875923898660402,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,74,1,9:41,1781,2081,Mitch Ballock missed Three Point Jumper.,22,19,3,4,0.5518820124359317,0.5877495416156177,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,75,1,9:41,1781,2081,Ryan Welage Defensive Rebound.,22,19,3,0,0.5518820124359317,0.5877495416156177,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,76,1,9:29,1769,2069,Foul on Quentin Goodin.,22,19,3,12,0.5524535996312065,0.5882234558592705,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,77,1,9:29,1769,2069,Quentin Goodin Turnover.,22,19,3,0,0.5524535996312065,0.5882234558592705,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,78,1,9:11,1751,2051,Martin Krampelj missed Layup.,22,19,3,18,0.5533199327730154,0.5889419272526419,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,79,1,9:11,1751,2051,Tyrique Jones Block.,22,19,3,0,0.5533199327730154,0.5889419272526419,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,80,1,9:09,1749,2049,Naji Marshall Defensive Rebound.,22,19,3,2,0.5534169001438236,0.5890223680080827,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,81,1,9:00,1740,2040,Foul on Connor Cashaw.,22,19,3,9,0.5538551067514874,0.5893859693375367,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,82,1,8:47,1727,2027,Naji Marshall missed Three Point Jumper.,22,19,3,13,0.554493666958645,0.5899160999781198,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,83,1,8:47,1727,2027,Paul Scruggs Offensive Rebound.,22,19,3,0,0.554493666958645,0.5899160999781198,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,84,1,8:41,1721,2021,Tyrique Jones made Layup. Assisted by Paul Scruggs.,24,19,5,6,0.6137585643838723,0.6474230638492782,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Paul Scruggs,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,85,1,8:30,1710,2010,Foul on Tyrique Jones.,24,19,5,11,0.6145828894293864,0.6481401300701926,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,86,1,8:30,1710,2010,Martin Krampelj made Free Throw.,24,20,4,0,0.5852693444833577,0.6197999348502272,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,87,1,8:30,1710,2010,Martin Krampelj made Free Throw.,24,21,3,0,0.5553393812277265,0.5906188736477281,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,88,1,8:16,1696,1996,Zach Hankins made Layup. Assisted by Elias Harden.,26,21,5,14,0.6156437118271866,0.6490634336968449,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Elias Harden,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,89,1,8:06,1686,1986,Davion Mintz missed Layup.,26,21,5,10,0.6164084886440587,0.64972927692674,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,90,1,8:06,1686,1986,Zach Hankins Block.,26,21,5,0,0.6164084886440587,0.64972927692674,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,91,1,8:04,1684,1984,Martin Krampelj Offensive Rebound.,26,21,5,2,0.6165608362191886,0.649861749926133,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,92,1,8:02,1682,1982,Martin Krampelj made Layup.,26,23,3,2,0.5567578154909105,0.5917989534651881,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,93,1,7:46,1666,1966,Foul on Ryan Welage.,26,23,3,16,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,94,1,7:46,1666,1966,Ryan Welage Turnover.,26,23,3,0,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,95,1,7:46,1666,1966,Official TV Timeout,26,23,3,0,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,96,1,7:16,1636,1936,Ty-Shon Alexander missed Jumper.,26,23,3,30,0.559041826812489,0.5936756799152556,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,97,1,7:16,1636,1936,Paul Scruggs Defensive Rebound.,26,23,3,0,0.559041826812489,0.5936756799152556,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,98,1,7:00,1620,1920,Ryan Welage made Three Point Jumper. Assisted by Naji Marshall.,29,23,6,16,0.6507323121020273,0.6821414402607324,3,4,-1,NA,NA,Xavier,made,Ryan Welage,Naji Marshall,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,99,1,6:47,1607,1907,Martin Krampelj missed Layup.,29,23,6,13,0.6517996629524324,0.6830638582000854,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,100,1,6:47,1607,1907,Zach Hankins Block.,29,23,6,0,0.6517996629524324,0.6830638582000854,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,101,1,6:45,1605,1905,Naji Marshall Defensive Rebound.,29,23,6,2,0.6519636670755685,0.6832054789374951,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,102,1,6:39,1599,1899,Zach Hankins made Layup. Assisted by Naji Marshall.,31,23,8,6,0.7082057297065169,0.7363998661491526,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Naji Marshall,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,103,1,6:37,1597,1897,Creighton  Timeout,31,23,8,2,0.7084002282769273,0.7365691955333079,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,104,1,6:15,1575,1875,Foul on Ryan Welage.,31,23,8,22,0.7105420995345796,0.7384329499885797,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,105,1,6:15,1575,1875,Martin Krampelj made Free Throw.,31,24,7,0,0.6831505192885206,0.7126131918697144,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,106,1,6:15,1575,1875,Martin Krampelj made Free Throw.,31,25,6,0,0.6544275172394044,0.6853308052035187,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,107,1,5:54,1554,1854,Naji Marshall missed Three Point Jumper.,31,25,6,21,0.6561698807306222,0.686833073291376,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,108,1,5:54,1554,1854,Paul Scruggs Offensive Rebound.,31,25,6,0,0.6561698807306222,0.686833073291376,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,109,1,5:49,1549,1849,Paul Scruggs Turnover.,31,25,6,5,0.6565885861158772,0.687194228036915,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,110,1,5:48,1548,1848,Damien Jefferson Steal.,31,25,6,1,0.6566725430464365,0.6872666569318119,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,111,1,5:41,1541,1841,Davion Mintz Turnover.,31,25,6,7,0.6572624255144393,0.6877756753575803,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,112,1,5:40,1540,1840,Zach Hankins Steal.,31,25,6,1,0.657347023147529,0.687848696947745,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,113,1,5:33,1533,1833,Naji Marshall missed Jumper.,31,25,6,7,0.6579417021471022,0.6883621745877787,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,114,1,5:33,1533,1833,Damien Jefferson Defensive Rebound.,31,25,6,0,0.6579417021471022,0.6883621745877787,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,115,1,5:25,1525,1825,Davion Mintz missed Layup.,31,25,6,8,0.6586271263686964,0.6889544330739374,3,3,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,116,1,5:25,1525,1825,Elias Harden Block.,31,25,6,0,0.6586271263686964,0.6889544330739374,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,117,1,5:24,1524,1824,Xavier Defensive Rebound.,31,25,6,1,0.6587132719071759,0.6890289054338693,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,118,1,5:01,1501,1801,Paul Scruggs missed Three Point Jumper.,31,25,6,23,0.6607273407730424,0.6907727874116828,3,3,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,119,1,5:01,1501,1801,Damien Jefferson Defensive Rebound.,31,25,6,0,0.6607273407730424,0.6907727874116828,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,120,1,4:36,1476,1776,Damien Jefferson missed Layup.,31,25,6,25,0.6630010369700928,0.6927490268107654,3,3,-1,NA,NA,Creighton,missed,Damien Jefferson,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,121,1,4:36,1476,1776,Paul Scruggs Defensive Rebound.,31,25,6,0,0.6630010369700928,0.6927490268107654,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,122,1,4:12,1452,1752,Elias Harden missed Three Point Jumper.,31,25,6,24,0.6652855902066195,0.6947442051990443,3,3,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,123,1,4:12,1452,1752,Ty-Shon Alexander Defensive Rebound.,31,25,6,0,0.6652855902066195,0.6947442051990443,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,124,1,3:57,1437,1737,Kaleb Joseph missed Layup.,31,25,6,15,0.6667369193008954,0.6960135140855629,3,3,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,125,1,3:57,1437,1737,Zach Hankins Block.,31,25,6,0,0.6667369193008954,0.6960135140855629,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,126,1,3:56,1436,1736,Ryan Welage Defensive Rebound.,31,25,6,1,0.6668321712890112,0.6960966488656634,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,127,1,3:50,1430,1730,Naji Marshall made Layup. Assisted by Ryan Welage.,33,25,8,6,0.7258144145205283,0.7517860516562428,3,3,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,128,1,3:41,1421,1721,Martin Krampelj made Three Point Jumper. Assisted by Ty-Shon Alexander.,33,28,5,9,0.6367166560298565,0.6671867179563414,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,Ty-Shon Alexander,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,129,1,3:15,1395,1695,Naji Marshall made Three Point Jumper. Assisted by Ryan Welage.,36,28,8,26,0.7295633933849102,0.7550636771075129,3,3,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,130,1,2:55,1375,1675,Mitch Ballock made Layup.,36,30,6,20,0.6724013540854246,0.7009274643550919,3,3,-1,NA,NA,Creighton,made,Mitch Ballock,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,131,1,2:38,1358,1658,Ryan Welage missed Three Point Jumper.,36,30,6,17,0.6739141522905344,0.7022334168109958,3,3,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,132,1,2:38,1358,1658,Ty-Shon Alexander Defensive Rebound.,36,30,6,0,0.6739141522905344,0.7022334168109958,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,133,1,2:19,1339,1639,Martin Krampelj missed Layup.,36,30,6,19,0.6756129706973945,0.703699636431796,3,3,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,134,1,2:19,1339,1639,Elias Harden Block.,36,30,6,0,0.6756129706973945,0.703699636431796,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,135,1,2:17,1337,1637,Elias Harden Defensive Rebound.,36,30,6,2,0.6757929589074981,0.7038550324336229,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,136,1,2:12,1332,1632,Naji Marshall missed Three Point Jumper.,36,30,6,5,0.676244280782463,0.7042447716516311,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,137,1,2:12,1332,1632,Mitch Ballock Defensive Rebound.,36,30,6,0,0.676244280782463,0.7042447716516311,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,138,1,2:04,1324,1624,Official TV Timeout,36,30,6,8,0.6769710598436354,0.704872694304677,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,139,1,1:47,1307,1607,Ty-Shon Alexander missed Three Point Jumper.,36,30,6,17,0.6785397995300718,0.706229870248901,3,3,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,140,1,1:47,1307,1607,Zach Hankins Defensive Rebound.,36,30,6,0,0.6785397995300718,0.706229870248901,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,141,1,1:15,1275,1575,Paul Scruggs missed Three Point Jumper.,36,30,6,32,0.6816190861276263,0.7089042177293053,3,3,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,142,1,1:15,1275,1575,Connor Cashaw Defensive Rebound.,36,30,6,0,0.6816190861276263,0.7089042177293053,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,143,1,0:58,1258,1558,Foul on Zach Hankins.,36,30,6,17,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,144,1,0:58,1258,1558,Christian Bishop missed Free Throw.,36,30,6,0,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,Creighton,missed,Christian Bishop,NA,FALSE,TRUE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,145,1,0:58,1258,1558,Zach Hankins Defensive Rebound.,36,30,6,0,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,146,1,0:56,1256,1556,Zach Hankins Turnover.,36,30,6,2,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,147,1,0:56,1256,1556,Connor Cashaw Steal.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,148,1,0:56,1256,1556,Foul on Zach Hankins.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,149,1,0:56,1256,1556,Connor Cashaw missed Free Throw.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,Creighton,missed,Connor Cashaw,NA,FALSE,TRUE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,150,1,0:56,1256,1556,Creighton Deadball Team Rebound.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,151,1,0:56,1256,1556,Connor Cashaw missed Free Throw.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,Creighton,missed,Connor Cashaw,NA,FALSE,TRUE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,152,1,0:56,1256,1556,Kyle Castlin Defensive Rebound.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,153,1,0:32,1232,1532,Naji Marshall Turnover.,36,30,6,24,0.6861359291787197,0.7128591641952039,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,154,1,0:32,1232,1532,Ty-Shon Alexander Steal.,36,30,6,0,0.6861359291787197,0.7128591641952039,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,155,1,0:03,1203,1503,Ty-Shon Alexander missed Jumper.,36,30,6,29,0.6894963791357426,0.7158270643623882,3,3,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,156,1,0:03,1203,1503,Paul Scruggs Defensive Rebound.,36,30,6,0,0.6894963791357426,0.7158270643623882,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,157,1,0:00,1200,1500,End of 1st half,36,30,6,3,0.689846969914702,0.7161370692370593,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
-401083237,2019-02-13,Xavier,Creighton,158,2,20:00,1200,1500,PLAY,36,30,6,0,0.689846969914702,0.7161370692370593,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
-401083237,2019-02-13,Xavier,Creighton,159,2,19:39,1179,1479,Naji Marshall Turnover.,36,30,6,21,0.6922451874045726,0.71825500594475,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,160,2,19:38,1178,1478,Mitch Ballock Steal.,36,30,6,1,0.6923572828905697,0.71835390041281,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,161,2,19:35,1175,1475,Davion Mintz missed Layup.,36,30,6,3,0.6926926029478312,0.7186496853798265,4,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,162,2,19:35,1175,1475,Paul Scruggs Block.,36,30,6,0,0.6926926029478312,0.7186496853798265,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,163,2,19:34,1174,1474,Kyle Castlin Defensive Rebound.,36,30,6,1,0.6928040662346404,0.7187479921911064,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,164,2,19:18,1158,1458,Quentin Goodin missed Jumper.,36,30,6,16,0.6945696631561311,0.7203043654427385,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,165,2,19:18,1158,1458,Ty-Shon Alexander Defensive Rebound.,36,30,6,0,0.6945696631561311,0.7203043654427385,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,166,2,18:52,1132,1432,Kaleb Joseph missed Layup.,36,30,6,26,0.6973951925497381,0.7227932485313521,4,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,167,2,18:52,1132,1432,Martin Krampelj Offensive Rebound.,36,30,6,0,0.6973951925497381,0.7227932485313521,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,168,2,18:27,1107,1407,Davion Mintz Turnover.,36,30,6,25,0.7001113610119868,0.7251863638834635,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,169,2,18:27,1107,1407,Quentin Goodin Steal.,36,30,6,0,0.7001113610119868,0.7251863638834635,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,170,2,18:12,1092,1392,Naji Marshall missed Layup.,36,30,6,15,0.7017636125711723,0.7266435857563123,4,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,171,2,18:12,1092,1392,Martin Krampelj Block.,36,30,6,0,0.7017636125711723,0.7266435857563123,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,172,2,18:10,1090,1390,Damien Jefferson Defensive Rebound.,36,30,6,2,0.7019860035078198,0.7268398510191773,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,173,2,18:05,1085,1385,Martin Krampelj missed Layup.,36,30,6,5,0.7025445667239557,0.7273329458538029,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,174,2,18:05,1085,1385,Paul Scruggs Defensive Rebound.,36,30,6,0,0.7025445667239557,0.7273329458538029,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,175,2,17:59,1079,1379,Foul on Kaleb Joseph.,36,30,6,6,0.7032201987976588,0.7279296929863431,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,176,2,17:59,1079,1379,Paul Scruggs made Free Throw.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,TRUE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,177,2,17:59,1079,1379,Paul Scruggs missed Free Throw.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,TRUE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,178,2,17:59,1079,1379,Kaleb Joseph Defensive Rebound.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,179,2,17:31,1051,1351,Martin Krampelj missed Three Point Jumper.,37,30,7,28,0.7397670984797136,0.7622708702429285,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,180,2,17:31,1051,1351,Paul Scruggs Defensive Rebound.,37,30,7,0,0.7397670984797136,0.7622708702429285,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,181,2,17:24,1044,1344,Quentin Goodin missed Three Point Jumper.,37,30,7,7,0.7406717493282015,0.76307436546515806,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,182,2,17:24,1044,1344,Mitch Ballock Defensive Rebound.,37,30,7,0,0.7406717493282015,0.76307436546515806,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,183,2,17:14,1034,1334,Foul on Paul Scruggs.,37,30,7,10,0.7419906373969255,0.7642469361694111,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,184,2,17:10,1030,1330,Martin Krampelj missed Three Point Jumper.,37,30,7,4,0.742527587462723,0.7647247148813141,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,185,2,17:10,1030,1330,Ty-Shon Alexander Offensive Rebound.,37,30,7,0,0.742527587462723,0.7647247148813141,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,186,2,16:48,1008,1308,Damien Jefferson missed Jumper.,37,30,7,22,0.7455880215781252,0.767452287789954,4,4,-1,NA,NA,Creighton,missed,Damien Jefferson,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,187,2,16:48,1008,1308,Ty-Shon Alexander Offensive Rebound.,37,30,7,0,0.7455880215781252,0.767452287789954,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,188,2,16:39,999,1299,Kaleb Joseph made Three Point Jumper. Assisted by Martin Krampelj.,37,33,4,9,0.6382125544274917,0.6650821617086339,4,4,-1,NA,NA,Creighton,made,Kaleb Joseph,Martin Krampelj,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,189,2,16:14,974,1274,Naji Marshall missed Layup.,37,33,4,25,0.6409977945342591,0.6675480809675746,4,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,190,2,16:14,974,1274,Martin Krampelj Block.,37,33,4,0,0.6409977945342591,0.6675480809675746,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,191,2,16:12,972,1272,Martin Krampelj Defensive Rebound.,37,33,4,2,0.6412310905643684,0.6677552268679906,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,192,2,16:08,968,1268,Damien Jefferson Turnover.,37,33,4,4,0.6417004141669443,0.6681721237644146,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,193,2,15:52,952,1252,Quentin Goodin missed Jumper.,37,33,4,16,0.6434825346939959,0.669752393937558,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,194,2,15:52,952,1252,Damien Jefferson Defensive Rebound.,37,33,4,0,0.6434825346939959,0.669752393937558,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,195,2,15:47,947,1247,Mitch Ballock made Dunk. Assisted by Damien Jefferson.,37,35,2,5,0.5592750571497224,0.5877291726702268,4,4,-1,NA,NA,Creighton,made,Mitch Ballock,Damien Jefferson,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,196,2,15:17,917,1217,Paul Scruggs Turnover.,37,35,2,30,0.56098028900673,0.5891441446526968,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,197,2,15:16,916,1216,Kaleb Joseph Steal.,37,35,2,1,0.5610340691955382,0.5891886085968092,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,198,2,15:12,912,1212,Damien Jefferson made Layup. Assisted by Ty-Shon Alexander.,37,37,0,4,0.4712531695021399,0.5,4,4,-1,NA,NA,Creighton,made,Damien Jefferson,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,199,2,15:09,909,1209,Xavier  Timeout,37,37,0,3,0.4712788059746359,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,200,2,14:45,885,1185,Paul Scruggs Turnover.,37,37,0,24,0.4714801267419376,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,201,2,14:44,884,1184,Mitch Ballock Steal.,37,37,0,1,0.47148841112401435,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,202,2,14:41,881,1181,Official TV Timeout,37,37,0,3,0.47151323428113656,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,203,2,14:39,879,1179,Foul on Tyrique Jones.,37,37,0,2,0.4715297616194854,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,204,2,14:33,873,1173,Martin Krampelj missed Layup.,37,37,0,6,0.4715792720656764,0.5,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,205,2,14:33,873,1173,Ryan Welage Block.,37,37,0,0,0.4715792720656764,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,206,2,14:31,871,1171,Zach Hankins Defensive Rebound.,37,37,0,2,0.47159576117952534,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,207,2,14:23,863,1163,Quentin Goodin made Layup.,39,37,2,8,0.5637748217750825,0.5914519868396675,3,4,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,208,2,14:15,855,1155,Ty-Shon Alexander Turnover.,39,37,2,8,0.5641915511212077,0.5917973377623946,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,209,2,14:15,855,1155,Quentin Goodin Steal.,39,37,2,0,0.5641915511212077,0.5917973377623946,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,210,2,13:49,829,1129,Quentin Goodin missed Three Point Jumper.,39,37,2,26,0.5656064867404719,0.5929761308717059,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,211,2,13:49,829,1129,Kaleb Joseph Defensive Rebound.,39,37,2,0,0.5656064867404719,0.5929761308717059,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,212,2,13:32,812,1112,Kaleb Joseph missed Layup.,39,37,2,17,0.5666083336376694,0.593817514346235,3,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,213,2,13:32,812,1112,Martin Krampelj Offensive Rebound.,39,37,2,0,0.5666083336376694,0.593817514346235,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,214,2,13:29,809,1109,Martin Krampelj made Two Point Tip Shot.,39,39,0,3,0.47211983391860585,0.5,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,215,2,13:12,792,1092,Zach Hankins made Layup. Assisted by Naji Marshall.,41,39,2,17,0.5678978110341766,0.5949087901057936,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Naji Marshall,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,216,2,12:55,775,1075,Ty-Shon Alexander made Three Point Jumper. Assisted by Martin Krampelj.,41,42,-1,17,0.4244182724069034,0.4515779437525819,3,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Martin Krampelj,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,217,2,12:32,752,1052,Foul on Martin Krampelj.,41,42,-1,23,0.42384027315976497,0.45075792944845605,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,218,2,12:23,743,1043,Naji Marshall Turnover.,41,42,-1,9,0.4235843274638765,0.4504011553650603,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,219,2,12:22,742,1042,Ty-Shon Alexander Steal.,41,42,-1,1,0.4235547671760153,0.4503601585781834,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,220,2,11:55,715,1015,Ty-Shon Alexander missed Jumper.,41,42,-1,27,0.42272659471705915,0.44921377602766893,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,221,2,11:55,715,1015,Mitch Ballock Offensive Rebound.,41,42,-1,0,0.42272659471705915,0.44921377602766893,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,222,2,11:39,699,999,Ty-Shon Alexander Turnover.,41,42,-1,16,0.4223021758570302,0.448607270674374,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,223,2,11:38,698,998,Official TV Timeout,41,42,-1,1,0.42227730090386556,0.448571192086416,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,224,2,11:20,680,980,Ryan Welage made Three Point Jumper. Assisted by Quentin Goodin.,44,42,2,18,0.5773071692848514,0.602988509670762,3,4,-1,NA,NA,Xavier,made,Ryan Welage,Quentin Goodin,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,225,2,10:48,648,948,Samson Froling missed Three Point Jumper.,44,42,2,32,0.5797388978762221,0.605042484415825,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,226,2,10:48,648,948,Quentin Goodin Defensive Rebound.,44,42,2,0,0.5797388978762221,0.605042484415825,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,227,2,10:39,639,939,Zach Hankins missed Layup.,44,42,2,9,0.5804416681026426,0.6056369644339262,3,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,228,2,10:39,639,939,Mitch Ballock Block.,44,42,2,0,0.5804416681026426,0.6056369644339262,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,229,2,10:38,638,938,Samson Froling Defensive Rebound.,44,42,2,1,0.5805210535755342,0.6057042086192898,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,230,2,10:33,633,933,Davion Mintz missed Layup.,44,42,2,5,0.5809227239831259,0.6060447879572949,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,231,2,10:33,633,933,Paul Scruggs Block.,44,42,2,0,0.5809227239831259,0.6060447879572949,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,232,2,10:31,631,931,Zach Hankins Defensive Rebound.,44,42,2,2,0.581085815259923,0.6061832489887022,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,233,2,10:19,619,919,Quentin Goodin missed Layup.,44,42,2,12,0.582099408979965,0.6070463268664419,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,234,2,10:19,619,919,Samson Froling Block.,44,42,2,0,0.582099408979965,0.6070463268664419,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,235,2,10:17,617,917,Quentin Goodin Offensive Rebound.,44,42,2,2,0.5822750188066822,0.6071963375924939,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,236,2,10:14,614,914,Ryan Welage missed Three Point Jumper.,44,42,2,3,0.5825424863012116,0.607425098843964,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,237,2,10:14,614,914,Davion Mintz Defensive Rebound.,44,42,2,0,0.5825424863012116,0.607425098843964,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,238,2,10:05,605,905,Mitch Ballock missed Three Point Jumper.,44,42,2,9,0.5833768823497522,0.6081409673129043,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,239,2,10:05,605,905,Ty-Shon Alexander Offensive Rebound.,44,42,2,0,0.5833768823497522,0.6081409673129043,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,240,2,9:41,581,881,Davion Mintz made Jumper.,44,44,0,24,0.47461108579538486,0.5,3,4,-1,NA,NA,Creighton,made,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,241,2,9:17,557,857,Quentin Goodin missed Jumper.,44,44,0,24,0.47494301840986064,0.5,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,242,2,9:17,557,857,Kaleb Joseph Defensive Rebound.,44,44,0,0,0.47494301840986064,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,243,2,9:10,550,850,Mitch Ballock missed Layup.,44,44,0,7,0.4750466633904977,0.5,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,FALSE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,244,2,9:10,550,850,Kaleb Joseph Offensive Rebound.,44,44,0,0,0.4750466633904977,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,245,2,9:08,548,848,Kaleb Joseph made Layup.,44,46,-2,2,0.36249569763913453,0.3858543185759188,3,4,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,246,2,8:42,522,822,Paul Scruggs Turnover.,44,46,-2,26,0.36000545500146425,0.3829465603799177,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,247,2,8:41,521,821,Kaleb Joseph Steal.,44,46,-2,1,0.35992176121219055,0.3828475242940222,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,248,2,8:38,518,818,Kaleb Joseph made Layup.,44,48,-4,3,0.2581699859680095,0.2773901005550183,3,4,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,249,2,8:24,504,804,Foul on Samson Froling.,44,48,-4,14,0.2561684090772861,0.27513973205664743,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,250,2,8:19,499,799,Paul Scruggs Turnover.,44,48,-4,5,0.2554617770149417,0.2743445986126019,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,251,2,8:18,498,798,Ty-Shon Alexander Steal.,44,48,-4,1,0.2553197998138204,0.27418486448241625,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,252,2,8:14,494,794,Damien Jefferson Turnover.,44,48,-4,4,0.2547477891887422,0.27354150674984157,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,253,2,8:04,484,784,Quentin Goodin missed Three Point Jumper.,44,48,-4,10,0.2532689137910255,0.27188066641177927,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,254,2,8:04,484,784,Naji Marshall Offensive Rebound.,44,48,-4,0,0.2532689137910255,0.27188066641177927,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,255,2,8:00,480,780,Foul on Davion Mintz.,44,48,-4,4,0.25264823379106305,0.27118511252845956,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,256,2,8:00,480,780,Official TV Timeout,44,48,-4,0,0.25264823379106305,0.27118511252845956,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,257,2,7:57,477,777,Naji Marshall made Jumper. Assisted by Quentin Goodin.,46,48,-2,3,0.3563108966547752,0.37855916845389126,3,4,-1,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,258,2,7:29,449,749,Foul on Martin Krampelj.,46,48,-2,28,0.3532424097447019,0.3749998596063457,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,259,2,7:29,449,749,Martin Krampelj Turnover.,46,48,-2,0,0.3532424097447019,0.3749998596063457,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,260,2,7:11,431,731,Foul on Martin Krampelj.,46,48,-2,18,0.3505318329236074,0.37192042581562323,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,261,2,7:00,420,720,Naji Marshall missed Jumper.,46,48,-2,11,0.34869597276715975,0.369839824421154,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,262,2,7:00,420,720,Samson Froling Defensive Rebound.,46,48,-2,0,0.34869597276715975,0.369839824421154,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,263,2,6:51,411,711,Samson Froling made Layup. Assisted by Ty-Shon Alexander.,46,50,-4,9,0.23672845982900154,0.25359259035113396,3,4,-1,NA,NA,Creighton,made,Samson Froling,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,264,2,6:27,387,687,Foul on Samson Froling.,46,50,-4,24,0.23079682759188921,0.24700092023260342,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,265,2,6:27,387,687,Tyrique Jones made Free Throw.,47,50,-3,0,0.28390983897994543,0.3023770635861099,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,266,2,6:27,387,687,Tyrique Jones made Free Throw.,48,50,-2,0,0.34378288845363386,0.36416408824472424,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,267,2,6:09,369,669,Davion Mintz missed Three Point Jumper.,48,50,-2,18,0.34104806591877895,0.36098513899355766,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,268,2,6:09,369,669,Naji Marshall Defensive Rebound.,48,50,-2,0,0.34104806591877895,0.36098513899355766,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,269,2,5:39,339,639,Naji Marshall made Three Point Jumper. Assisted by Ryan Welage.,51,50,1,30,0.5534537357877846,0.5742722237497123,3,4,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,270,2,5:08,308,608,Ty-Shon Alexander missed Three Point Jumper.,51,50,1,31,0.5590906076884449,0.5790658712221796,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,271,2,5:08,308,608,Elias Harden Defensive Rebound.,51,50,1,0,0.5590906076884449,0.5790658712221796,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,272,2,4:49,289,589,Elias Harden missed Three Point Jumper.,51,50,1,19,0.5610385747773884,0.5805056553368618,3,4,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,273,2,4:49,289,589,Ryan Welage Offensive Rebound.,51,50,1,0,0.5610385747773884,0.5805056553368618,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,274,2,4:41,281,581,Naji Marshall missed Three Point Jumper.,51,50,1,8,0.5611124657634576,0.5803753468940906,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,275,2,4:41,281,581,Ty-Shon Alexander Defensive Rebound.,51,50,1,0,0.5611124657634576,0.5803753468940906,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,276,2,4:21,261,561,Mitch Ballock missed Three Point Jumper.,51,50,1,20,0.560363795865137,0.5791209812166724,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,277,2,4:21,261,561,Quentin Goodin Defensive Rebound.,51,50,1,0,0.560363795865137,0.5791209812166724,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,278,2,4:07,247,547,Quentin Goodin Turnover.,51,50,1,14,0.5598062456883056,0.5781984461849169,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,279,2,4:06,246,546,Davion Mintz Steal.,51,50,1,1,0.5597853352447852,0.5781507410697039,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,280,2,4:05,245,545,Samson Froling Turnover.,51,50,1,1,0.5597681645590548,0.5781066570279689,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,281,2,4:04,244,544,Quentin Goodin Steal.,51,50,1,1,0.5597549619590385,0.5780664183065353,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,282,2,4:03,243,543,Ryan Welage missed Three Point Jumper.,51,50,1,1,0.5597459557564021,0.5780302491476356,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,283,2,4:03,243,543,Samson Froling Defensive Rebound.,51,50,1,0,0.5597459557564021,0.5780302491476356,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,284,2,3:56,236,536,Ty-Shon Alexander made Three Point Jumper. Assisted by Davion Mintz.,51,53,-2,7,0.3313319568217643,0.34787389687019926,3,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Davion Mintz,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,285,2,3:53,233,533,Creighton  Timeout,51,53,-2,3,0.3313506374313656,0.3478146460132689,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,286,2,3:53,233,533,Official TV Timeout,51,53,-2,0,0.3313506374313656,0.3478146460132689,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,287,2,3:38,218,518,Foul on Samson Froling.,51,53,-2,15,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,288,2,3:38,218,518,Tyrique Jones missed Free Throw.,51,53,-2,0,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,289,2,3:38,218,518,Ty-Shon Alexander Defensive Rebound.,51,53,-2,0,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,290,2,3:16,196,496,Foul on Quentin Goodin.,51,53,-2,22,0.31957940811310637,0.3347169222459969,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,291,2,3:03,183,483,Martin Krampelj missed Three Point Jumper.,51,53,-2,13,0.3087847867958608,0.3232529347452125,3,3,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,292,2,3:03,183,483,Kyle Castlin Defensive Rebound.,51,53,-2,0,0.3087847867958608,0.3232529347452125,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,293,2,2:45,165,465,Naji Marshall missed Jumper.,51,53,-2,18,0.29293566948217376,0.30643282813851236,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,294,2,2:45,165,465,Tyrique Jones Offensive Rebound.,51,53,-2,0,0.29293566948217376,0.30643282813851236,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,295,2,2:42,162,462,Tyrique Jones missed Layup.,51,53,-2,3,0.2902027566147855,0.3035335936637156,3,3,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,296,2,2:42,162,462,Martin Krampelj Defensive Rebound.,51,53,-2,0,0.2902027566147855,0.3035335936637156,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,297,2,2:18,138,438,Martin Krampelj made Three Point Jumper. Assisted by Davion Mintz.,51,56,-5,24,0.08019382212732648,0.0847469889881244,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,Davion Mintz,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,298,2,2:12,132,432,Xavier  Timeout,51,56,-5,6,0.07410471454319999,0.07827264227366668,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,299,2,1:59,119,419,Naji Marshall missed Layup.,51,56,-5,13,0.061239769924429935,0.06460633412444769,2,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,300,2,1:59,119,419,Xavier Offensive Rebound.,51,56,-5,0,0.061239769924429935,0.06460633412444769,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,301,2,1:38,98,398,Naji Marshall missed Three Point Jumper.,51,56,-5,21,0.04200036183518736,0.044207139168807065,2,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,302,2,1:38,98,398,Tyrique Jones Offensive Rebound.,51,56,-5,0,0.04200036183518736,0.044207139168807065,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,303,2,1:33,93,393,Naji Marshall made Three Point Jumper. Assisted by Tyrique Jones.,54,56,-2,5,0.20984555498126184,0.21870479148083777,2,3,-1,NA,NA,Xavier,made,Naji Marshall,Tyrique Jones,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,304,2,1:26,86,386,Foul on Kyle Castlin.,54,56,-2,7,0.19983694192891951,0.20817802708677668,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,305,2,1:02,62,362,Davion Mintz made Three Point Jumper. Assisted by Mitch Ballock.,54,59,-5,24,0.01838742105278425,0.019253541270636203,2,3,-1,NA,NA,Creighton,made,Davion Mintz,Mitch Ballock,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,306,2,0:44,44,344,Naji Marshall made Three Point Jumper. Assisted by Quentin Goodin.,57,59,-2,18,0.13995865105777744,0.14526519614069563,2,3,-1,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,307,2,0:25,25,325,Foul on Kyle Castlin.,57,59,-2,19,0.11448025261242818,0.11855004383725477,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,308,2,0:25,25,325,Xavier  Timeout,57,59,-2,0,0.11448025261242818,0.11855004383725477,1,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,309,2,0:25,25,325,Creighton  Timeout,57,59,-2,0,0.11448025261242818,0.11855004383725477,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,310,2,0:23,23,323,Mitch Ballock Turnover.,57,59,-2,2,0.11194070685906311,0.11588951215446809,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,311,2,0:22,22,322,Quentin Goodin Steal.,57,59,-2,1,0.11068014615821814,0.11456910423030577,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,312,2,0:21,21,321,Quentin Goodin made Layup.,59,59,0,1,0.49032434891128285,0.5,1,2,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,313,2,0:04,4,304,Foul on Naji Marshall.,59,59,0,17,0.491233100043267,0.5,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,314,2,0:04,4,304,Creighton  Timeout,59,59,0,0,0.491233100043267,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,315,2,0:02,2,302,Davion Mintz missed Three Point Jumper.,59,59,0,2,0.4913422778108121,0.5,1,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,316,2,0:02,2,302,Naji Marshall Defensive Rebound.,59,59,0,0,0.4913422778108121,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,317,2,0:00,300,300,End of 2nd half,59,59,0,2,0.4798552351614449,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
-401083237,2019-02-13,Xavier,Creighton,318,3,5:00,300,300,PLAY,59,59,0,0,0.4798552351614449,0.5,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
-401083237,2019-02-13,Xavier,Creighton,319,3,4:38,278,278,Naji Marshall missed Jumper.,59,59,0,22,0.480429356974077,0.5,2,2,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,320,3,4:38,278,278,Ty-Shon Alexander Defensive Rebound.,59,59,0,0,0.480429356974077,0.5,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,321,3,4:10,250,250,Kaleb Joseph made Layup.,59,61,-2,28,0.33016593135861194,0.34703500660329667,2,2,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,322,3,3:43,223,223,Foul on Kaleb Joseph.,59,61,-2,27,0.3305865187478017,0.3467647517874227,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,323,3,3:43,223,223,Quentin Goodin made Free Throw.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Xavier
-401083237,2019-02-13,Xavier,Creighton,324,3,3:43,223,223,Quentin Goodin missed Free Throw.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,TRUE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,325,3,3:43,223,223,Kaleb Joseph Defensive Rebound.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,326,3,3:23,203,203,Foul on Quentin Goodin.,60,61,-1,20,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,327,3,3:23,203,203,Martin Krampelj missed Free Throw.,60,61,-1,0,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,328,3,3:23,203,203,Tyrique Jones Defensive Rebound.,60,61,-1,0,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,329,3,2:54,174,174,Naji Marshall made Jumper.,62,61,1,29,0.5800378877023372,0.5959389089173166,2,2,-1,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,330,3,2:29,149,149,Ty-Shon Alexander missed Jumper.,62,61,1,25,0.5950086602812501,0.6098333178398168,2,2,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,331,3,2:29,149,149,Tyrique Jones Defensive Rebound.,62,61,1,0,0.5950086602812501,0.6098333178398168,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,332,3,2:07,127,127,Elias Harden missed Three Point Jumper.,62,61,1,22,0.6106447306460451,0.6244421452031069,2,2,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,333,3,2:07,127,127,Martin Krampelj Defensive Rebound.,62,61,1,0,0.6106447306460451,0.6244421452031069,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,334,3,1:53,113,113,Creighton  Timeout,62,61,1,14,0.622342721771545,0.6354354740080755,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,335,3,1:45,105,105,Mitch Ballock missed Three Point Jumper.,62,61,1,8,0.6297615848598671,0.6424308687487601,2,1,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,336,3,1:45,105,105,Quentin Goodin Defensive Rebound.,62,61,1,0,0.6297615848598671,0.6424308687487601,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,337,3,1:13,73,73,Kyle Castlin missed Layup.,62,61,1,32,0.6638554108652757,0.6746980788615885,2,1,-1,NA,NA,Xavier,missed,Kyle Castlin,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,338,3,1:13,73,73,Martin Krampelj Defensive Rebound.,62,61,1,0,0.6638554108652757,0.6746980788615885,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,339,3,0:53,53,53,Davion Mintz Turnover.,62,61,1,20,0.6877576649508502,0.6973757511737224,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,340,3,0:52,52,52,Tyrique Jones Steal.,62,61,1,1,0.6889927565159163,0.6985484071959361,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,341,3,0:25,25,25,Naji Marshall made Jumper.,64,61,3,27,0.9511914660893984,0.9529947263900633,2,1,-1,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,342,3,0:11,11,11,Ty-Shon Alexander missed Three Point Jumper.,64,61,3,14,0.9628258573759693,0.9641134250897672,2,1,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,343,3,0:11,11,11,Martin Krampelj Offensive Rebound.,64,61,3,0,0.9628258573759693,0.9641134250897672,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,344,3,0:03,3,3,Davion Mintz missed Three Point Jumper.,64,61,3,8,0.9685548165778533,0.9695991517630681,2,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,345,3,0:03,3,3,Quentin Goodin Defensive Rebound.,64,61,3,0,0.9685548165778533,0.9695991517630681,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
-401083237,2019-02-13,Xavier,Creighton,346,3,0:02,2,2,Quentin Goodin Turnover.,64,61,3,1,0.9692199117013796,0.9702365242832658,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,347,3,0:02,2,2,Ty-Shon Alexander Steal.,64,61,3,0,0.9692199117013796,0.9702365242832658,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
-401083237,2019-02-13,Xavier,Creighton,348,3,0:00,0,0,Davion Mintz missed Three Point Jumper.,64,64,0,2,1,1,2,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,349,3,0:00,0,0,Creighton Deadball Team Rebound.,64,64,0,0,1,1,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
-401083237,2019-02-13,Xavier,Creighton,350,3,0:00,0,0,End of Game,64,64,0,0,1,1,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,NA
+401083237,2019-02-13,Xavier,Creighton,1,1,20:00:00,2400,2700,PLAY,0,0,0,0,0.4599780481730192,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
+401083237,2019-02-13,Xavier,Creighton,2,1,19:41:00,2381,2681,Zach Hankins Turnover.,0,0,0,19,0.46005401381378,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,3,1,19:41:00,2381,2681,Davion Mintz Steal.,0,0,0,0,0.46005401381378,0.5,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,4,1,19:24:00,2364,2664,Ty-Shon Alexander made Three Point Jumper. Assisted by Davion Mintz.,0,3,-3,17,0.39429278214835367,0.4330403178930196,4,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Davion Mintz,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,5,1,19:03:00,2343,2643,Tyrique Jones Turnover.,0,3,-3,21,0.3937223961052311,0.4323671882528801,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,6,1,18:33:00,2313,2613,Kaleb Joseph missed Three Point Jumper.,0,3,-3,30,0.3928979941274784,0.4313918005327808,4,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,7,1,18:33:00,2313,2613,Paul Scruggs Defensive Rebound.,0,3,-3,0,0.3928979941274784,0.4313918005327808,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,8,1,18:29:00,2309,2609,Foul on Martin Krampelj.,0,3,-3,4,0.3927873271786404,0.4312606227927021,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,9,1,18:16:00,2296,2596,Paul Scruggs missed Jumper.,0,3,-3,13,0.3924265897643135,0.4308326017028225,4,4,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,10,1,18:16:00,2296,2596,Christian Bishop Block.,0,3,-3,0,0.3924265897643135,0.4308326017028225,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,11,1,18:15:00,2295,2595,Zach Hankins Offensive Rebound.,0,3,-3,1,0.3923987764388645,0.4307995730338573,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,12,1,18:12:00,2292,2592,Zach Hankins missed Layup.,0,3,-3,3,0.39231528416830663,0.4307004005860406,4,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,13,1,18:12:00,2292,2592,Christian Bishop Block.,0,3,-3,0,0.39231528416830663,0.4307004005860406,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,14,1,18:11:00,2291,2591,Mitch Ballock Defensive Rebound.,0,3,-3,1,0.392287436255874,0.4306673145520783,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,15,1,17:59:00,2279,2579,Mitch Ballock Turnover.,0,3,-3,12,0.39195262664819885,0.4302692013663114,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,16,1,17:59:00,2279,2579,Tyrique Jones Steal.,0,3,-3,0,0.39195262664819885,0.4302692013663114,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,17,1,17:53:00,2273,2573,Quentin Goodin made Layup.,2,3,-1,6,0.4373056835632496,0.47655321655577,4,4,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,18,1,17:31:00,2251,2551,Davion Mintz made Three Point Jumper. Assisted by Kaleb Joseph.,2,6,-4,22,0.3688240578203192,0.406264365373249,4,4,-1,NA,NA,Creighton,made,Davion Mintz,Kaleb Joseph,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,19,1,17:17:00,2237,2537,Paul Scruggs made Layup.,4,6,-2,14,0.4137306926400816,0.4523951664921712,4,4,-1,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,20,1,17:06:00,2226,2526,Christian Bishop made Layup. Assisted by Mitch Ballock.,4,8,-4,11,0.367868632525311,0.4051577959970216,4,4,-1,NA,NA,Creighton,made,Christian Bishop,Mitch Ballock,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,21,1,16:41:00,2201,2501,Naji Marshall made Three Point Jumper. Assisted by Paul Scruggs.,7,8,-1,25,0.4368356554730254,0.47572895999777826,4,4,-1,NA,NA,Xavier,made,Naji Marshall,Paul Scruggs,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,22,1,16:33:00,2193,2493,Kaleb Joseph made Layup. Assisted by Davion Mintz.,7,10,-3,8,0.3895303442469891,0.42736858890213136,4,4,-1,NA,NA,Creighton,made,Kaleb Joseph,Davion Mintz,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,23,1,16:31:00,2191,2491,Xavier  Timeout,7,10,-3,2,0.38947377712113296,0.42730037153142114,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,24,1,16:18:00,2178,2478,Tyrique Jones missed Jumper.,7,10,-3,13,0.3891060998594349,0.42685637204017163,3,4,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,25,1,16:18:00,2178,2478,Tyrique Jones Offensive Rebound.,7,10,-3,0,0.3891060998594349,0.42685637204017163,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,26,1,16:17:00,2177,2477,Tyrique Jones made Two Point Tip Shot.,9,10,-1,1,0.43668229412413945,0.4754507121695394,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,27,1,16:06:00,2166,2466,Kaleb Joseph Turnover.,9,10,-1,11,0.4366127623369154,0.47532276278028657,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,28,1,15:53:00,2153,2453,Naji Marshall missed Three Point Jumper.,9,10,-1,13,0.4365309680452325,0.4751710109153479,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,29,1,15:53:00,2153,2453,Tyrique Jones Offensive Rebound.,9,10,-1,0,0.4365309680452325,0.4751710109153479,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,30,1,15:48:00,2148,2448,Official TV Timeout,11,10,1,5,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,31,1,15:48:00,2148,2448,Tyrique Jones made Layup.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,32,1,15:48:00,2148,2448,Foul on Christian Bishop.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,33,1,15:48:00,2148,2448,Official TV Timeout,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,34,1,15:48:00,2148,2448,Tyrique Jones missed Free Throw.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,35,1,15:48:00,2148,2448,Damien Jefferson Defensive Rebound.,11,10,1,0,0.48597475920123256,0.5248875332213728,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,36,1,15:46:00,2146,2446,Official TV Timeout,11,10,1,2,0.4860089963646947,0.5249109793664207,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,37,1,15:15:00,2115,2415,Creighton  Turnover.,11,10,1,31,0.4865448244780178,0.5252765869503683,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,38,1,15:04:00,2104,2404,Tyrique Jones made Dunk. Assisted by Naji Marshall.,13,10,3,11,0.53752207423974,0.5757012915759318,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Naji Marshall,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,39,1,14:45:00,2085,2385,Foul on Tyrique Jones.,13,10,3,19,0.5383089957539251,0.5763691141788408,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,40,1,14:35:00,2075,2375,Martin Krampelj made Dunk. Assisted by Ty-Shon Alexander.,13,12,1,10,0.48725092814971793,0.5257550141175334,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,41,1,14:18:00,2058,2358,Zach Hankins made Dunk. Assisted by Paul Scruggs.,15,12,3,17,0.5394399991922607,0.5773271924711609,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Paul Scruggs,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,42,1,14:12:00,2052,2352,Ty-Shon Alexander missed Three Point Jumper.,15,12,3,6,0.5396934415974339,0.5775416280204761,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,43,1,14:12:00,2052,2352,Zach Hankins Defensive Rebound.,15,12,3,0,0.5396934415974339,0.5775416280204761,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,44,1,13:59:00,2039,2339,Kyle Castlin missed Jumper.,15,12,3,13,0.5402452808695304,0.5780082383460582,3,4,-1,NA,NA,Xavier,missed,Kyle Castlin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,45,1,13:59:00,2039,2339,Martin Krampelj Defensive Rebound.,15,12,3,0,0.5402452808695304,0.5780082383460582,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,46,1,13:35:00,2015,2315,Damien Jefferson made Three Point Jumper. Assisted by Ty-Shon Alexander.,15,15,0,24,0.461900787137609,0.5,3,4,-1,NA,NA,Creighton,made,Damien Jefferson,Ty-Shon Alexander,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,47,1,13:16:00,1996,2296,Zach Hankins missed Jumper.,15,15,0,19,0.4620168563778631,0.5,3,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,48,1,13:16:00,1996,2296,Damien Jefferson Defensive Rebound.,15,15,0,0,0.4620168563778631,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,49,1,12:54:00,1974,2274,Martin Krampelj missed Three Point Jumper.,15,15,0,22,0.46215348808517454,0.5,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,50,1,12:54:00,1974,2274,Kyle Castlin Defensive Rebound.,15,15,0,0,0.46215348808517454,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,51,1,12:43:00,1963,2263,Zach Hankins made Layup. Assisted by Quentin Goodin.,17,15,2,11,0.5164849503343812,0.5541274301505975,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Quentin Goodin,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,52,1,12:37:00,1957,2257,Foul on Quentin Goodin.,17,15,2,6,0.5166768644128682,0.5542795390716708,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,53,1,12:23:00,1943,2243,Foul on Zach Hankins.,17,15,2,14,0.5171273922024835,0.554636479867359,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,54,1,12:23:00,1943,2243,Martin Krampelj made Free Throw.,17,16,1,0,0.4897077924888754,0.5274002793738733,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,55,1,12:23:00,1943,2243,Martin Krampelj made Free Throw.,17,17,0,0,0.4623499837431339,0.5,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,56,1,12:05:00,1925,2225,Kyle Castlin made Three Point Jumper. Assisted by Paul Scruggs.,20,17,3,18,0.5452573873020781,0.5822324554233181,3,4,-1,NA,NA,Xavier,made,Kyle Castlin,Paul Scruggs,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,57,1,11:54:00,1914,2214,Ty-Shon Alexander missed Three Point Jumper.,20,17,3,11,0.5457556842826558,0.5826508122878031,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,58,1,11:54:00,1914,2214,Samson Froling Offensive Rebound.,20,17,3,0,0.5457556842826558,0.5826508122878031,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,59,1,11:51:00,1911,2211,Samson Froling made Layup.,20,19,1,3,0.4903334129174064,0.52781571392958,3,4,-1,NA,NA,Creighton,made,Samson Froling,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,60,1,11:27:00,1887,2187,Official TV Timeout,20,19,1,24,0.4908068462065639,0.5281270409839967,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,61,1,11:24:00,1884,2184,Ryan Welage missed Layup.,20,19,1,3,0.49086629637157414,0.5281659628104325,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,62,1,11:24:00,1884,2184,Samson Froling Block.,20,19,1,0,0.49086629637157414,0.5281659628104325,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,63,1,11:23:00,1883,2183,Creighton Defensive Rebound.,20,19,1,1,0.490886127605099,0.5281789384956048,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,64,1,11:12:00,1872,2172,Samson Froling missed Layup.,20,19,1,11,0.49110477002400565,0.5283217541739113,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,65,1,11:12:00,1872,2172,Naji Marshall Defensive Rebound.,20,19,1,0,0.49110477002400565,0.5283217541739113,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,66,1,11:11:00,1871,2171,Foul on Samson Froling.,20,19,1,1,0.4911246935300988,0.5283347469942727,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,67,1,10:51:00,1851,2151,Tyrique Jones made Layup. Assisted by Naji Marshall.,22,19,3,20,0.5486226833719224,0.5850443944335846,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Naji Marshall,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,68,1,10:13:00,1813,2113,Ty-Shon Alexander missed Three Point Jumper.,22,19,3,38,0.5503780484614955,0.5865023309898767,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,69,1,10:13:00,1813,2113,Naji Marshall Defensive Rebound.,22,19,3,0,0.5503780484614955,0.5865023309898767,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,70,1,10:07:00,1807,2107,Ryan Welage missed Three Point Jumper.,22,19,3,6,0.5506580050759705,0.5867345696158975,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,71,1,10:07:00,1807,2107,Ty-Shon Alexander Defensive Rebound.,22,19,3,0,0.5506580050759705,0.5867345696158975,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,72,1,09:45:00,1785,2085,Samson Froling missed Jumper.,22,19,3,22,0.5516924678233512,0.5875923898660402,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,73,1,09:45:00,1785,2085,Mitch Ballock Offensive Rebound.,22,19,3,0,0.5516924678233512,0.5875923898660402,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,74,1,09:41:00,1781,2081,Mitch Ballock missed Three Point Jumper.,22,19,3,4,0.5518820124359317,0.5877495416156177,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,75,1,09:41:00,1781,2081,Ryan Welage Defensive Rebound.,22,19,3,0,0.5518820124359317,0.5877495416156177,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,76,1,09:29:00,1769,2069,Foul on Quentin Goodin.,22,19,3,12,0.5524535996312065,0.5882234558592705,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,77,1,09:29:00,1769,2069,Quentin Goodin Turnover.,22,19,3,0,0.5524535996312065,0.5882234558592705,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,78,1,09:11:00,1751,2051,Martin Krampelj missed Layup.,22,19,3,18,0.5533199327730154,0.5889419272526419,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,79,1,09:11:00,1751,2051,Tyrique Jones Block.,22,19,3,0,0.5533199327730154,0.5889419272526419,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,80,1,09:09:00,1749,2049,Naji Marshall Defensive Rebound.,22,19,3,2,0.5534169001438236,0.5890223680080827,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,81,1,09:00:00,1740,2040,Foul on Connor Cashaw.,22,19,3,9,0.5538551067514874,0.5893859693375367,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,82,1,08:47:00,1727,2027,Naji Marshall missed Three Point Jumper.,22,19,3,13,0.554493666958645,0.5899160999781198,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,83,1,08:47:00,1727,2027,Paul Scruggs Offensive Rebound.,22,19,3,0,0.554493666958645,0.5899160999781198,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,84,1,08:41:00,1721,2021,Tyrique Jones made Layup. Assisted by Paul Scruggs.,24,19,5,6,0.6137585643838723,0.6474230638492782,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,Paul Scruggs,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,85,1,08:30:00,1710,2010,Foul on Tyrique Jones.,24,19,5,11,0.6145828894293864,0.6481401300701926,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,86,1,08:30:00,1710,2010,Martin Krampelj made Free Throw.,24,20,4,0,0.5852693444833577,0.6197999348502272,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,87,1,08:30:00,1710,2010,Martin Krampelj made Free Throw.,24,21,3,0,0.5553393812277265,0.5906188736477281,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,88,1,08:16:00,1696,1996,Zach Hankins made Layup. Assisted by Elias Harden.,26,21,5,14,0.6156437118271866,0.6490634336968449,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Elias Harden,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,89,1,08:06:00,1686,1986,Davion Mintz missed Layup.,26,21,5,10,0.6164084886440587,0.64972927692674,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,90,1,08:06:00,1686,1986,Zach Hankins Block.,26,21,5,0,0.6164084886440587,0.64972927692674,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,91,1,08:04:00,1684,1984,Martin Krampelj Offensive Rebound.,26,21,5,2,0.6165608362191886,0.649861749926133,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,92,1,08:02:00,1682,1982,Martin Krampelj made Layup.,26,23,3,2,0.5567578154909105,0.5917989534651881,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,93,1,07:46:00,1666,1966,Foul on Ryan Welage.,26,23,3,16,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,94,1,07:46:00,1666,1966,Ryan Welage Turnover.,26,23,3,0,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,95,1,07:46:00,1666,1966,Official TV Timeout,26,23,3,0,0.557561342862265,0.5924631970751515,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,96,1,07:16:00,1636,1936,Ty-Shon Alexander missed Jumper.,26,23,3,30,0.559041826812489,0.5936756799152556,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,97,1,07:16:00,1636,1936,Paul Scruggs Defensive Rebound.,26,23,3,0,0.559041826812489,0.5936756799152556,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,98,1,07:00:00,1620,1920,Ryan Welage made Three Point Jumper. Assisted by Naji Marshall.,29,23,6,16,0.6507323121020273,0.6821414402607324,3,4,-1,NA,NA,Xavier,made,Ryan Welage,Naji Marshall,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,99,1,06:47:00,1607,1907,Martin Krampelj missed Layup.,29,23,6,13,0.6517996629524324,0.6830638582000854,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,100,1,06:47:00,1607,1907,Zach Hankins Block.,29,23,6,0,0.6517996629524324,0.6830638582000854,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,101,1,06:45:00,1605,1905,Naji Marshall Defensive Rebound.,29,23,6,2,0.6519636670755685,0.6832054789374951,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,102,1,06:39:00,1599,1899,Zach Hankins made Layup. Assisted by Naji Marshall.,31,23,8,6,0.7082057297065169,0.7363998661491526,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Naji Marshall,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,103,1,06:37:00,1597,1897,Creighton  Timeout,31,23,8,2,0.7084002282769273,0.7365691955333079,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,104,1,06:15:00,1575,1875,Foul on Ryan Welage.,31,23,8,22,0.7105420995345796,0.7384329499885797,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,105,1,06:15:00,1575,1875,Martin Krampelj made Free Throw.,31,24,7,0,0.6831505192885206,0.7126131918697144,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,106,1,06:15:00,1575,1875,Martin Krampelj made Free Throw.,31,25,6,0,0.6544275172394044,0.6853308052035187,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,107,1,05:54:00,1554,1854,Naji Marshall missed Three Point Jumper.,31,25,6,21,0.6561698807306222,0.686833073291376,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,108,1,05:54:00,1554,1854,Paul Scruggs Offensive Rebound.,31,25,6,0,0.6561698807306222,0.686833073291376,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,109,1,05:49:00,1549,1849,Paul Scruggs Turnover.,31,25,6,5,0.6565885861158772,0.687194228036915,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,110,1,05:48:00,1548,1848,Damien Jefferson Steal.,31,25,6,1,0.6566725430464365,0.6872666569318119,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,111,1,05:41:00,1541,1841,Davion Mintz Turnover.,31,25,6,7,0.6572624255144393,0.6877756753575803,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,112,1,05:40:00,1540,1840,Zach Hankins Steal.,31,25,6,1,0.657347023147529,0.687848696947745,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,113,1,05:33:00,1533,1833,Naji Marshall missed Jumper.,31,25,6,7,0.6579417021471022,0.6883621745877787,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,114,1,05:33:00,1533,1833,Damien Jefferson Defensive Rebound.,31,25,6,0,0.6579417021471022,0.6883621745877787,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,115,1,05:25:00,1525,1825,Davion Mintz missed Layup.,31,25,6,8,0.6586271263686964,0.6889544330739374,3,3,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,116,1,05:25:00,1525,1825,Elias Harden Block.,31,25,6,0,0.6586271263686964,0.6889544330739374,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,117,1,05:24:00,1524,1824,Xavier Defensive Rebound.,31,25,6,1,0.6587132719071759,0.6890289054338693,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,118,1,05:01:00,1501,1801,Paul Scruggs missed Three Point Jumper.,31,25,6,23,0.6607273407730424,0.6907727874116828,3,3,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,119,1,05:01:00,1501,1801,Damien Jefferson Defensive Rebound.,31,25,6,0,0.6607273407730424,0.6907727874116828,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,120,1,04:36:00,1476,1776,Damien Jefferson missed Layup.,31,25,6,25,0.6630010369700928,0.6927490268107654,3,3,-1,NA,NA,Creighton,missed,Damien Jefferson,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,121,1,04:36:00,1476,1776,Paul Scruggs Defensive Rebound.,31,25,6,0,0.6630010369700928,0.6927490268107654,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,122,1,04:12:00,1452,1752,Elias Harden missed Three Point Jumper.,31,25,6,24,0.6652855902066195,0.6947442051990443,3,3,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,123,1,04:12:00,1452,1752,Ty-Shon Alexander Defensive Rebound.,31,25,6,0,0.6652855902066195,0.6947442051990443,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,124,1,03:57:00,1437,1737,Kaleb Joseph missed Layup.,31,25,6,15,0.6667369193008954,0.6960135140855629,3,3,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,125,1,03:57:00,1437,1737,Zach Hankins Block.,31,25,6,0,0.6667369193008954,0.6960135140855629,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,126,1,03:56:00,1436,1736,Ryan Welage Defensive Rebound.,31,25,6,1,0.6668321712890112,0.6960966488656634,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,127,1,03:50:00,1430,1730,Naji Marshall made Layup. Assisted by Ryan Welage.,33,25,8,6,0.7258144145205283,0.7517860516562428,3,3,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,128,1,03:41:00,1421,1721,Martin Krampelj made Three Point Jumper. Assisted by Ty-Shon Alexander.,33,28,5,9,0.6367166560298565,0.6671867179563414,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,Ty-Shon Alexander,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,129,1,03:15:00,1395,1695,Naji Marshall made Three Point Jumper. Assisted by Ryan Welage.,36,28,8,26,0.7295633933849102,0.7550636771075129,3,3,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,130,1,02:55:00,1375,1675,Mitch Ballock made Layup.,36,30,6,20,0.6724013540854246,0.7009274643550919,3,3,-1,NA,NA,Creighton,made,Mitch Ballock,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,131,1,02:38:00,1358,1658,Ryan Welage missed Three Point Jumper.,36,30,6,17,0.6739141522905344,0.7022334168109958,3,3,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,132,1,02:38:00,1358,1658,Ty-Shon Alexander Defensive Rebound.,36,30,6,0,0.6739141522905344,0.7022334168109958,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,133,1,02:19:00,1339,1639,Martin Krampelj missed Layup.,36,30,6,19,0.6756129706973945,0.703699636431796,3,3,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,134,1,02:19:00,1339,1639,Elias Harden Block.,36,30,6,0,0.6756129706973945,0.703699636431796,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,135,1,02:17:00,1337,1637,Elias Harden Defensive Rebound.,36,30,6,2,0.6757929589074981,0.7038550324336229,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,136,1,02:12:00,1332,1632,Naji Marshall missed Three Point Jumper.,36,30,6,5,0.676244280782463,0.7042447716516311,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,137,1,02:12:00,1332,1632,Mitch Ballock Defensive Rebound.,36,30,6,0,0.676244280782463,0.7042447716516311,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,138,1,02:04:00,1324,1624,Official TV Timeout,36,30,6,8,0.6769710598436354,0.704872694304677,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,139,1,01:47:00,1307,1607,Ty-Shon Alexander missed Three Point Jumper.,36,30,6,17,0.6785397995300718,0.706229870248901,3,3,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,140,1,01:47:00,1307,1607,Zach Hankins Defensive Rebound.,36,30,6,0,0.6785397995300718,0.706229870248901,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,141,1,01:15:00,1275,1575,Paul Scruggs missed Three Point Jumper.,36,30,6,32,0.6816190861276263,0.7089042177293053,3,3,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,142,1,01:15:00,1275,1575,Connor Cashaw Defensive Rebound.,36,30,6,0,0.6816190861276263,0.7089042177293053,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,143,1,00:58:00,1258,1558,Foul on Zach Hankins.,36,30,6,17,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,144,1,00:58:00,1258,1558,Christian Bishop missed Free Throw.,36,30,6,0,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,Creighton,missed,Christian Bishop,NA,FALSE,TRUE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,145,1,00:58:00,1258,1558,Zach Hankins Defensive Rebound.,36,30,6,0,0.6833442870941671,0.7104099993513779,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,146,1,00:56:00,1256,1556,Zach Hankins Turnover.,36,30,6,2,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,147,1,00:56:00,1256,1556,Connor Cashaw Steal.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,148,1,00:56:00,1256,1556,Foul on Zach Hankins.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,149,1,00:56:00,1256,1556,Connor Cashaw missed Free Throw.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,Creighton,missed,Connor Cashaw,NA,FALSE,TRUE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,150,1,00:56:00,1256,1556,Creighton Deadball Team Rebound.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,151,1,00:56:00,1256,1556,Connor Cashaw missed Free Throw.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,Creighton,missed,Connor Cashaw,NA,FALSE,TRUE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,152,1,00:56:00,1256,1556,Kyle Castlin Defensive Rebound.,36,30,6,0,0.6835520987216774,0.7105917749393762,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,153,1,00:32:00,1232,1532,Naji Marshall Turnover.,36,30,6,24,0.6861359291787197,0.7128591641952039,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,154,1,00:32:00,1232,1532,Ty-Shon Alexander Steal.,36,30,6,0,0.6861359291787197,0.7128591641952039,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,155,1,00:03:00,1203,1503,Ty-Shon Alexander missed Jumper.,36,30,6,29,0.6894963791357426,0.7158270643623882,3,3,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,156,1,00:03:00,1203,1503,Paul Scruggs Defensive Rebound.,36,30,6,0,0.6894963791357426,0.7158270643623882,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,157,1,00:00:00,1200,1500,End of 1st half,36,30,6,3,0.689846969914702,0.7161370692370593,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
+401083237,2019-02-13,Xavier,Creighton,158,2,20:00:00,1200,1500,PLAY,36,30,6,0,0.689846969914702,0.7161370692370593,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
+401083237,2019-02-13,Xavier,Creighton,159,2,19:39:00,1179,1479,Naji Marshall Turnover.,36,30,6,21,0.6922451874045726,0.71825500594475,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,160,2,19:38:00,1178,1478,Mitch Ballock Steal.,36,30,6,1,0.6923572828905697,0.71835390041281,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,161,2,19:35:00,1175,1475,Davion Mintz missed Layup.,36,30,6,3,0.6926926029478312,0.7186496853798265,4,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,162,2,19:35:00,1175,1475,Paul Scruggs Block.,36,30,6,0,0.6926926029478312,0.7186496853798265,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,163,2,19:34:00,1174,1474,Kyle Castlin Defensive Rebound.,36,30,6,1,0.6928040662346404,0.7187479921911064,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,164,2,19:18:00,1158,1458,Quentin Goodin missed Jumper.,36,30,6,16,0.6945696631561311,0.7203043654427385,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,165,2,19:18:00,1158,1458,Ty-Shon Alexander Defensive Rebound.,36,30,6,0,0.6945696631561311,0.7203043654427385,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,166,2,18:52:00,1132,1432,Kaleb Joseph missed Layup.,36,30,6,26,0.6973951925497381,0.7227932485313521,4,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,167,2,18:52:00,1132,1432,Martin Krampelj Offensive Rebound.,36,30,6,0,0.6973951925497381,0.7227932485313521,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,168,2,18:27:00,1107,1407,Davion Mintz Turnover.,36,30,6,25,0.7001113610119868,0.7251863638834635,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,169,2,18:27:00,1107,1407,Quentin Goodin Steal.,36,30,6,0,0.7001113610119868,0.7251863638834635,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,170,2,18:12:00,1092,1392,Naji Marshall missed Layup.,36,30,6,15,0.7017636125711723,0.7266435857563123,4,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,171,2,18:12:00,1092,1392,Martin Krampelj Block.,36,30,6,0,0.7017636125711723,0.7266435857563123,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,172,2,18:10:00,1090,1390,Damien Jefferson Defensive Rebound.,36,30,6,2,0.7019860035078198,0.7268398510191773,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,173,2,18:05:00,1085,1385,Martin Krampelj missed Layup.,36,30,6,5,0.7025445667239557,0.7273329458538029,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,174,2,18:05:00,1085,1385,Paul Scruggs Defensive Rebound.,36,30,6,0,0.7025445667239557,0.7273329458538029,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,175,2,17:59:00,1079,1379,Foul on Kaleb Joseph.,36,30,6,6,0.7032201987976588,0.7279296929863431,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,176,2,17:59:00,1079,1379,Paul Scruggs made Free Throw.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,Xavier,made,Paul Scruggs,NA,FALSE,TRUE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,177,2,17:59:00,1079,1379,Paul Scruggs missed Free Throw.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,Xavier,missed,Paul Scruggs,NA,FALSE,TRUE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,178,2,17:59:00,1079,1379,Kaleb Joseph Defensive Rebound.,37,30,7,0,0.736276322692396,0.7591761256583887,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,179,2,17:31:00,1051,1351,Martin Krampelj missed Three Point Jumper.,37,30,7,28,0.7397670984797136,0.7622708702429285,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,180,2,17:31:00,1051,1351,Paul Scruggs Defensive Rebound.,37,30,7,0,0.7397670984797136,0.7622708702429285,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,181,2,17:24:00,1044,1344,Quentin Goodin missed Three Point Jumper.,37,30,7,7,0.7406717493282015,0.76307436546515806,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,182,2,17:24:00,1044,1344,Mitch Ballock Defensive Rebound.,37,30,7,0,0.7406717493282015,0.76307436546515806,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,183,2,17:14:00,1034,1334,Foul on Paul Scruggs.,37,30,7,10,0.7419906373969255,0.7642469361694111,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,184,2,17:10:00,1030,1330,Martin Krampelj missed Three Point Jumper.,37,30,7,4,0.742527587462723,0.7647247148813141,4,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,185,2,17:10:00,1030,1330,Ty-Shon Alexander Offensive Rebound.,37,30,7,0,0.742527587462723,0.7647247148813141,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,186,2,16:48:00,1008,1308,Damien Jefferson missed Jumper.,37,30,7,22,0.7455880215781252,0.767452287789954,4,4,-1,NA,NA,Creighton,missed,Damien Jefferson,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,187,2,16:48:00,1008,1308,Ty-Shon Alexander Offensive Rebound.,37,30,7,0,0.7455880215781252,0.767452287789954,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,188,2,16:39:00,999,1299,Kaleb Joseph made Three Point Jumper. Assisted by Martin Krampelj.,37,33,4,9,0.6382125544274917,0.6650821617086339,4,4,-1,NA,NA,Creighton,made,Kaleb Joseph,Martin Krampelj,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,189,2,16:14:00,974,1274,Naji Marshall missed Layup.,37,33,4,25,0.6409977945342591,0.6675480809675746,4,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,190,2,16:14:00,974,1274,Martin Krampelj Block.,37,33,4,0,0.6409977945342591,0.6675480809675746,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,191,2,16:12:00,972,1272,Martin Krampelj Defensive Rebound.,37,33,4,2,0.6412310905643684,0.6677552268679906,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,192,2,16:08:00,968,1268,Damien Jefferson Turnover.,37,33,4,4,0.6417004141669443,0.6681721237644146,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,193,2,15:52:00,952,1252,Quentin Goodin missed Jumper.,37,33,4,16,0.6434825346939959,0.669752393937558,4,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,194,2,15:52:00,952,1252,Damien Jefferson Defensive Rebound.,37,33,4,0,0.6434825346939959,0.669752393937558,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,195,2,15:47:00,947,1247,Mitch Ballock made Dunk. Assisted by Damien Jefferson.,37,35,2,5,0.5592750571497224,0.5877291726702268,4,4,-1,NA,NA,Creighton,made,Mitch Ballock,Damien Jefferson,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,196,2,15:17:00,917,1217,Paul Scruggs Turnover.,37,35,2,30,0.56098028900673,0.5891441446526968,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,197,2,15:16:00,916,1216,Kaleb Joseph Steal.,37,35,2,1,0.5610340691955382,0.5891886085968092,4,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,198,2,15:12:00,912,1212,Damien Jefferson made Layup. Assisted by Ty-Shon Alexander.,37,37,0,4,0.4712531695021399,0.5,4,4,-1,NA,NA,Creighton,made,Damien Jefferson,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,199,2,15:09:00,909,1209,Xavier  Timeout,37,37,0,3,0.4712788059746359,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,200,2,14:45:00,885,1185,Paul Scruggs Turnover.,37,37,0,24,0.4714801267419376,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,201,2,14:44:00,884,1184,Mitch Ballock Steal.,37,37,0,1,0.4714884111240143,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,202,2,14:41:00,881,1181,Official TV Timeout,37,37,0,3,0.47151323428113656,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,203,2,14:39:00,879,1179,Foul on Tyrique Jones.,37,37,0,2,0.4715297616194854,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,204,2,14:33:00,873,1173,Martin Krampelj missed Layup.,37,37,0,6,0.4715792720656764,0.5,3,4,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,205,2,14:33:00,873,1173,Ryan Welage Block.,37,37,0,0,0.4715792720656764,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,206,2,14:31:00,871,1171,Zach Hankins Defensive Rebound.,37,37,0,2,0.47159576117952534,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,207,2,14:23:00,863,1163,Quentin Goodin made Layup.,39,37,2,8,0.5637748217750825,0.5914519868396675,3,4,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,208,2,14:15:00,855,1155,Ty-Shon Alexander Turnover.,39,37,2,8,0.5641915511212077,0.5917973377623946,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,209,2,14:15:00,855,1155,Quentin Goodin Steal.,39,37,2,0,0.5641915511212077,0.5917973377623946,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,210,2,13:49:00,829,1129,Quentin Goodin missed Three Point Jumper.,39,37,2,26,0.5656064867404719,0.5929761308717059,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,211,2,13:49:00,829,1129,Kaleb Joseph Defensive Rebound.,39,37,2,0,0.5656064867404719,0.5929761308717059,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,212,2,13:32:00,812,1112,Kaleb Joseph missed Layup.,39,37,2,17,0.5666083336376694,0.593817514346235,3,4,-1,NA,NA,Creighton,missed,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,213,2,13:32:00,812,1112,Martin Krampelj Offensive Rebound.,39,37,2,0,0.5666083336376694,0.593817514346235,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,214,2,13:29:00,809,1109,Martin Krampelj made Two Point Tip Shot.,39,39,0,3,0.47211983391860585,0.5,3,4,-1,NA,NA,Creighton,made,Martin Krampelj,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,215,2,13:12:00,792,1092,Zach Hankins made Layup. Assisted by Naji Marshall.,41,39,2,17,0.5678978110341766,0.5949087901057936,3,4,-1,NA,NA,Xavier,made,Zach Hankins,Naji Marshall,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,216,2,12:55:00,775,1075,Ty-Shon Alexander made Three Point Jumper. Assisted by Martin Krampelj.,41,42,-1,17,0.4244182724069034,0.4515779437525819,3,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Martin Krampelj,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,217,2,12:32:00,752,1052,Foul on Martin Krampelj.,41,42,-1,23,0.42384027315976497,0.4507579294484561,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,218,2,12:23:00,743,1043,Naji Marshall Turnover.,41,42,-1,9,0.4235843274638765,0.4504011553650603,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,219,2,12:22:00,742,1042,Ty-Shon Alexander Steal.,41,42,-1,1,0.4235547671760153,0.4503601585781834,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,220,2,11:55:00,715,1015,Ty-Shon Alexander missed Jumper.,41,42,-1,27,0.42272659471705915,0.449213776027669,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,221,2,11:55:00,715,1015,Mitch Ballock Offensive Rebound.,41,42,-1,0,0.42272659471705915,0.449213776027669,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,222,2,11:39:00,699,999,Ty-Shon Alexander Turnover.,41,42,-1,16,0.4223021758570302,0.448607270674374,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,223,2,11:38:00,698,998,Official TV Timeout,41,42,-1,1,0.4222773009038656,0.448571192086416,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,224,2,11:20:00,680,980,Ryan Welage made Three Point Jumper. Assisted by Quentin Goodin.,44,42,2,18,0.5773071692848514,0.602988509670762,3,4,-1,NA,NA,Xavier,made,Ryan Welage,Quentin Goodin,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,225,2,10:48:00,648,948,Samson Froling missed Three Point Jumper.,44,42,2,32,0.5797388978762221,0.605042484415825,3,4,-1,NA,NA,Creighton,missed,Samson Froling,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,226,2,10:48:00,648,948,Quentin Goodin Defensive Rebound.,44,42,2,0,0.5797388978762221,0.605042484415825,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,227,2,10:39:00,639,939,Zach Hankins missed Layup.,44,42,2,9,0.5804416681026426,0.6056369644339262,3,4,-1,NA,NA,Xavier,missed,Zach Hankins,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,228,2,10:39:00,639,939,Mitch Ballock Block.,44,42,2,0,0.5804416681026426,0.6056369644339262,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,229,2,10:38:00,638,938,Samson Froling Defensive Rebound.,44,42,2,1,0.5805210535755342,0.6057042086192898,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,230,2,10:33:00,633,933,Davion Mintz missed Layup.,44,42,2,5,0.5809227239831259,0.6060447879572949,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,231,2,10:33:00,633,933,Paul Scruggs Block.,44,42,2,0,0.5809227239831259,0.6060447879572949,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,232,2,10:31:00,631,931,Zach Hankins Defensive Rebound.,44,42,2,2,0.581085815259923,0.6061832489887022,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,233,2,10:19:00,619,919,Quentin Goodin missed Layup.,44,42,2,12,0.582099408979965,0.6070463268664419,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,234,2,10:19:00,619,919,Samson Froling Block.,44,42,2,0,0.582099408979965,0.6070463268664419,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,235,2,10:17:00,617,917,Quentin Goodin Offensive Rebound.,44,42,2,2,0.5822750188066822,0.6071963375924939,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,236,2,10:14:00,614,914,Ryan Welage missed Three Point Jumper.,44,42,2,3,0.5825424863012116,0.607425098843964,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,237,2,10:14:00,614,914,Davion Mintz Defensive Rebound.,44,42,2,0,0.5825424863012116,0.607425098843964,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,238,2,10:05:00,605,905,Mitch Ballock missed Three Point Jumper.,44,42,2,9,0.5833768823497522,0.6081409673129043,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,239,2,10:05:00,605,905,Ty-Shon Alexander Offensive Rebound.,44,42,2,0,0.5833768823497522,0.6081409673129043,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,240,2,09:41:00,581,881,Davion Mintz made Jumper.,44,44,0,24,0.47461108579538486,0.5,3,4,-1,NA,NA,Creighton,made,Davion Mintz,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,241,2,09:17:00,557,857,Quentin Goodin missed Jumper.,44,44,0,24,0.47494301840986064,0.5,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,242,2,09:17:00,557,857,Kaleb Joseph Defensive Rebound.,44,44,0,0,0.47494301840986064,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,243,2,09:10:00,550,850,Mitch Ballock missed Layup.,44,44,0,7,0.4750466633904977,0.5,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,FALSE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,244,2,09:10:00,550,850,Kaleb Joseph Offensive Rebound.,44,44,0,0,0.4750466633904977,0.5,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,245,2,09:08:00,548,848,Kaleb Joseph made Layup.,44,46,-2,2,0.3624956976391346,0.3858543185759188,3,4,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,246,2,08:42:00,522,822,Paul Scruggs Turnover.,44,46,-2,26,0.36000545500146425,0.3829465603799177,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,247,2,08:41:00,521,821,Kaleb Joseph Steal.,44,46,-2,1,0.35992176121219055,0.3828475242940222,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,248,2,08:38:00,518,818,Kaleb Joseph made Layup.,44,48,-4,3,0.2581699859680095,0.2773901005550183,3,4,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,249,2,08:24:00,504,804,Foul on Samson Froling.,44,48,-4,14,0.2561684090772861,0.27513973205664743,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,250,2,08:19:00,499,799,Paul Scruggs Turnover.,44,48,-4,5,0.2554617770149417,0.2743445986126019,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,251,2,08:18:00,498,798,Ty-Shon Alexander Steal.,44,48,-4,1,0.2553197998138204,0.27418486448241625,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,252,2,08:14:00,494,794,Damien Jefferson Turnover.,44,48,-4,4,0.2547477891887422,0.27354150674984157,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,253,2,08:04:00,484,784,Quentin Goodin missed Three Point Jumper.,44,48,-4,10,0.2532689137910255,0.27188066641177927,3,4,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,254,2,08:04:00,484,784,Naji Marshall Offensive Rebound.,44,48,-4,0,0.2532689137910255,0.27188066641177927,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,255,2,08:00:00,480,780,Foul on Davion Mintz.,44,48,-4,4,0.25264823379106305,0.27118511252845956,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,256,2,08:00:00,480,780,Official TV Timeout,44,48,-4,0,0.25264823379106305,0.27118511252845956,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,257,2,07:57:00,477,777,Naji Marshall made Jumper. Assisted by Quentin Goodin.,46,48,-2,3,0.3563108966547752,0.37855916845389126,3,4,-1,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,258,2,07:29:00,449,749,Foul on Martin Krampelj.,46,48,-2,28,0.3532424097447019,0.3749998596063457,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,259,2,07:29:00,449,749,Martin Krampelj Turnover.,46,48,-2,0,0.3532424097447019,0.3749998596063457,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,260,2,07:11:00,431,731,Foul on Martin Krampelj.,46,48,-2,18,0.3505318329236074,0.3719204258156232,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,261,2,07:00:00,420,720,Naji Marshall missed Jumper.,46,48,-2,11,0.34869597276715975,0.369839824421154,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,262,2,07:00:00,420,720,Samson Froling Defensive Rebound.,46,48,-2,0,0.34869597276715975,0.369839824421154,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,263,2,06:51:00,411,711,Samson Froling made Layup. Assisted by Ty-Shon Alexander.,46,50,-4,9,0.2367284598290015,0.25359259035113396,3,4,-1,NA,NA,Creighton,made,Samson Froling,Ty-Shon Alexander,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,264,2,06:27:00,387,687,Foul on Samson Froling.,46,50,-4,24,0.2307968275918892,0.24700092023260345,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,265,2,06:27:00,387,687,Tyrique Jones made Free Throw.,47,50,-3,0,0.28390983897994543,0.3023770635861099,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,266,2,06:27:00,387,687,Tyrique Jones made Free Throw.,48,50,-2,0,0.34378288845363386,0.36416408824472424,3,4,-1,NA,NA,Xavier,made,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,267,2,06:09:00,369,669,Davion Mintz missed Three Point Jumper.,48,50,-2,18,0.34104806591877895,0.36098513899355766,3,4,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,268,2,06:09:00,369,669,Naji Marshall Defensive Rebound.,48,50,-2,0,0.34104806591877895,0.36098513899355766,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,269,2,05:39:00,339,639,Naji Marshall made Three Point Jumper. Assisted by Ryan Welage.,51,50,1,30,0.5534537357877846,0.5742722237497123,3,4,-1,NA,NA,Xavier,made,Naji Marshall,Ryan Welage,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,270,2,05:08:00,308,608,Ty-Shon Alexander missed Three Point Jumper.,51,50,1,31,0.5590906076884449,0.5790658712221796,3,4,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,271,2,05:08:00,308,608,Elias Harden Defensive Rebound.,51,50,1,0,0.5590906076884449,0.5790658712221796,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,272,2,04:49:00,289,589,Elias Harden missed Three Point Jumper.,51,50,1,19,0.5610385747773884,0.5805056553368618,3,4,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,273,2,04:49:00,289,589,Ryan Welage Offensive Rebound.,51,50,1,0,0.5610385747773884,0.5805056553368618,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,274,2,04:41:00,281,581,Naji Marshall missed Three Point Jumper.,51,50,1,8,0.5611124657634576,0.5803753468940906,3,4,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,275,2,04:41:00,281,581,Ty-Shon Alexander Defensive Rebound.,51,50,1,0,0.5611124657634576,0.5803753468940906,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,276,2,04:21:00,261,561,Mitch Ballock missed Three Point Jumper.,51,50,1,20,0.560363795865137,0.5791209812166724,3,4,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,277,2,04:21:00,261,561,Quentin Goodin Defensive Rebound.,51,50,1,0,0.560363795865137,0.5791209812166724,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,278,2,04:07:00,247,547,Quentin Goodin Turnover.,51,50,1,14,0.5598062456883056,0.5781984461849169,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,279,2,04:06:00,246,546,Davion Mintz Steal.,51,50,1,1,0.5597853352447852,0.5781507410697039,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,280,2,04:05:00,245,545,Samson Froling Turnover.,51,50,1,1,0.5597681645590548,0.5781066570279689,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,281,2,04:04:00,244,544,Quentin Goodin Steal.,51,50,1,1,0.5597549619590385,0.5780664183065353,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,282,2,04:03:00,243,543,Ryan Welage missed Three Point Jumper.,51,50,1,1,0.5597459557564021,0.5780302491476356,3,4,-1,NA,NA,Xavier,missed,Ryan Welage,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,283,2,04:03:00,243,543,Samson Froling Defensive Rebound.,51,50,1,0,0.5597459557564021,0.5780302491476356,3,4,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,284,2,03:56:00,236,536,Ty-Shon Alexander made Three Point Jumper. Assisted by Davion Mintz.,51,53,-2,7,0.3313319568217643,0.34787389687019926,3,4,-1,NA,NA,Creighton,made,Ty-Shon Alexander,Davion Mintz,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,285,2,03:53:00,233,533,Creighton  Timeout,51,53,-2,3,0.3313506374313656,0.3478146460132689,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,286,2,03:53:00,233,533,Official TV Timeout,51,53,-2,0,0.3313506374313656,0.3478146460132689,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,287,2,03:38:00,218,518,Foul on Samson Froling.,51,53,-2,15,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,288,2,03:38:00,218,518,Tyrique Jones missed Free Throw.,51,53,-2,0,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,TRUE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,289,2,03:38:00,218,518,Ty-Shon Alexander Defensive Rebound.,51,53,-2,0,0.32963787720443344,0.3456559207263269,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,290,2,03:16:00,196,496,Foul on Quentin Goodin.,51,53,-2,22,0.31957940811310637,0.3347169222459969,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,291,2,03:03:00,183,483,Martin Krampelj missed Three Point Jumper.,51,53,-2,13,0.3087847867958608,0.3232529347452125,3,3,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,292,2,03:03:00,183,483,Kyle Castlin Defensive Rebound.,51,53,-2,0,0.3087847867958608,0.3232529347452125,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,293,2,02:45:00,165,465,Naji Marshall missed Jumper.,51,53,-2,18,0.29293566948217376,0.30643282813851236,3,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,294,2,02:45:00,165,465,Tyrique Jones Offensive Rebound.,51,53,-2,0,0.29293566948217376,0.30643282813851236,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,295,2,02:42:00,162,462,Tyrique Jones missed Layup.,51,53,-2,3,0.2902027566147855,0.3035335936637156,3,3,-1,NA,NA,Xavier,missed,Tyrique Jones,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,296,2,02:42:00,162,462,Martin Krampelj Defensive Rebound.,51,53,-2,0,0.2902027566147855,0.3035335936637156,3,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,297,2,02:18:00,138,438,Martin Krampelj made Three Point Jumper. Assisted by Davion Mintz.,51,56,-5,24,0.08019382212732648,0.0847469889881244,3,3,-1,NA,NA,Creighton,made,Martin Krampelj,Davion Mintz,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,298,2,02:12:00,132,432,Xavier  Timeout,51,56,-5,6,0.07410471454319999,0.07827264227366668,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,299,2,01:59:00,119,419,Naji Marshall missed Layup.,51,56,-5,13,0.06123976992442993,0.06460633412444769,2,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,300,2,01:59:00,119,419,Xavier Offensive Rebound.,51,56,-5,0,0.06123976992442993,0.06460633412444769,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,301,2,01:38:00,98,398,Naji Marshall missed Three Point Jumper.,51,56,-5,21,0.04200036183518736,0.04420713916880706,2,3,-1,NA,NA,Xavier,missed,Naji Marshall,NA,TRUE,FALSE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,302,2,01:38:00,98,398,Tyrique Jones Offensive Rebound.,51,56,-5,0,0.04200036183518736,0.04420713916880706,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,303,2,01:33:00,93,393,Naji Marshall made Three Point Jumper. Assisted by Tyrique Jones.,54,56,-2,5,0.20984555498126184,0.21870479148083777,2,3,-1,NA,NA,Xavier,made,Naji Marshall,Tyrique Jones,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,304,2,01:26:00,86,386,Foul on Kyle Castlin.,54,56,-2,7,0.19983694192891951,0.20817802708677668,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,305,2,01:02:00,62,362,Davion Mintz made Three Point Jumper. Assisted by Mitch Ballock.,54,59,-5,24,0.01838742105278425,0.0192535412706362,2,3,-1,NA,NA,Creighton,made,Davion Mintz,Mitch Ballock,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,306,2,00:44:00,44,344,Naji Marshall made Three Point Jumper. Assisted by Quentin Goodin.,57,59,-2,18,0.13995865105777744,0.14526519614069563,2,3,-1,NA,NA,Xavier,made,Naji Marshall,Quentin Goodin,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,307,2,00:25:00,25,325,Foul on Kyle Castlin.,57,59,-2,19,0.11448025261242818,0.11855004383725476,2,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,308,2,00:25:00,25,325,Xavier  Timeout,57,59,-2,0,0.11448025261242818,0.11855004383725476,1,3,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,309,2,00:25:00,25,325,Creighton  Timeout,57,59,-2,0,0.11448025261242818,0.11855004383725476,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,310,2,00:23:00,23,323,Mitch Ballock Turnover.,57,59,-2,2,0.11194070685906311,0.11588951215446808,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,311,2,00:22:00,22,322,Quentin Goodin Steal.,57,59,-2,1,0.11068014615821814,0.11456910423030577,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,312,2,00:21:00,21,321,Quentin Goodin made Layup.,59,59,0,1,0.4903243489112829,0.5,1,2,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,313,2,00:04:00,4,304,Foul on Naji Marshall.,59,59,0,17,0.491233100043267,0.5,1,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,314,2,00:04:00,4,304,Creighton  Timeout,59,59,0,0,0.491233100043267,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,315,2,00:02:00,2,302,Davion Mintz missed Three Point Jumper.,59,59,0,2,0.4913422778108121,0.5,1,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,316,2,00:02:00,2,302,Naji Marshall Defensive Rebound.,59,59,0,0,0.4913422778108121,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,317,2,00:00:00,300,300,End of 2nd half,59,59,0,2,0.4798552351614449,0.5,1,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,NA
+401083237,2019-02-13,Xavier,Creighton,318,3,05:00:00,300,300,PLAY,59,59,0,0,0.4798552351614449,0.5,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Xavier
+401083237,2019-02-13,Xavier,Creighton,319,3,04:38:00,278,278,Naji Marshall missed Jumper.,59,59,0,22,0.480429356974077,0.5,2,2,-1,NA,NA,Xavier,missed,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,320,3,04:38:00,278,278,Ty-Shon Alexander Defensive Rebound.,59,59,0,0,0.480429356974077,0.5,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,321,3,04:10:00,250,250,Kaleb Joseph made Layup.,59,61,-2,28,0.33016593135861194,0.34703500660329667,2,2,-1,NA,NA,Creighton,made,Kaleb Joseph,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,322,3,03:43:00,223,223,Foul on Kaleb Joseph.,59,61,-2,27,0.3305865187478017,0.3467647517874227,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,323,3,03:43:00,223,223,Quentin Goodin made Free Throw.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,Xavier,made,Quentin Goodin,NA,FALSE,TRUE,Xavier,Xavier
+401083237,2019-02-13,Xavier,Creighton,324,3,03:43:00,223,223,Quentin Goodin missed Free Throw.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,Xavier,missed,Quentin Goodin,NA,FALSE,TRUE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,325,3,03:43:00,223,223,Kaleb Joseph Defensive Rebound.,60,61,-1,0,0.4039849819083768,0.4214935160850349,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,326,3,03:23:00,203,203,Foul on Quentin Goodin.,60,61,-1,20,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,327,3,03:23:00,203,203,Martin Krampelj missed Free Throw.,60,61,-1,0,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,Creighton,missed,Martin Krampelj,NA,FALSE,TRUE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,328,3,03:23:00,203,203,Tyrique Jones Defensive Rebound.,60,61,-1,0,0.400662210495033,0.41751424979940854,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,329,3,02:54:00,174,174,Naji Marshall made Jumper.,62,61,1,29,0.5800378877023372,0.5959389089173166,2,2,-1,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,330,3,02:29:00,149,149,Ty-Shon Alexander missed Jumper.,62,61,1,25,0.5950086602812501,0.6098333178398168,2,2,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,FALSE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,331,3,02:29:00,149,149,Tyrique Jones Defensive Rebound.,62,61,1,0,0.5950086602812501,0.6098333178398168,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,332,3,02:07:00,127,127,Elias Harden missed Three Point Jumper.,62,61,1,22,0.6106447306460451,0.6244421452031069,2,2,-1,NA,NA,Xavier,missed,Elias Harden,NA,TRUE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,333,3,02:07:00,127,127,Martin Krampelj Defensive Rebound.,62,61,1,0,0.6106447306460451,0.6244421452031069,2,2,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,334,3,01:53:00,113,113,Creighton  Timeout,62,61,1,14,0.622342721771545,0.6354354740080755,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,335,3,01:45:00,105,105,Mitch Ballock missed Three Point Jumper.,62,61,1,8,0.6297615848598671,0.6424308687487601,2,1,-1,NA,NA,Creighton,missed,Mitch Ballock,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,336,3,01:45:00,105,105,Quentin Goodin Defensive Rebound.,62,61,1,0,0.6297615848598671,0.6424308687487601,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,337,3,01:13:00,73,73,Kyle Castlin missed Layup.,62,61,1,32,0.6638554108652757,0.6746980788615885,2,1,-1,NA,NA,Xavier,missed,Kyle Castlin,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,338,3,01:13:00,73,73,Martin Krampelj Defensive Rebound.,62,61,1,0,0.6638554108652757,0.6746980788615885,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,339,3,00:53:00,53,53,Davion Mintz Turnover.,62,61,1,20,0.6877576649508502,0.6973757511737224,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,340,3,00:52:00,52,52,Tyrique Jones Steal.,62,61,1,1,0.6889927565159163,0.6985484071959361,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,341,3,00:25:00,25,25,Naji Marshall made Jumper.,64,61,3,27,0.9511914660893984,0.9529947263900632,2,1,-1,NA,NA,Xavier,made,Naji Marshall,NA,FALSE,FALSE,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,342,3,00:11:00,11,11,Ty-Shon Alexander missed Three Point Jumper.,64,61,3,14,0.9628258573759692,0.9641134250897672,2,1,-1,NA,NA,Creighton,missed,Ty-Shon Alexander,NA,TRUE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,343,3,00:11:00,11,11,Martin Krampelj Offensive Rebound.,64,61,3,0,0.9628258573759692,0.9641134250897672,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,344,3,00:03:00,3,3,Davion Mintz missed Three Point Jumper.,64,61,3,8,0.9685548165778533,0.969599151763068,2,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,345,3,00:03:00,3,3,Quentin Goodin Defensive Rebound.,64,61,3,0,0.9685548165778533,0.969599151763068,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Xavier
+401083237,2019-02-13,Xavier,Creighton,346,3,00:02:00,2,2,Quentin Goodin Turnover.,64,61,3,1,0.9692199117013796,0.9702365242832658,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,347,3,00:02:00,2,2,Ty-Shon Alexander Steal.,64,61,3,0,0.9692199117013796,0.9702365242832658,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Xavier,Creighton
+401083237,2019-02-13,Xavier,Creighton,348,3,00:00:00,0,0,Davion Mintz missed Three Point Jumper.,64,61,3,2,1,1,2,1,-1,NA,NA,Creighton,missed,Davion Mintz,NA,TRUE,FALSE,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,349,3,00:00:00,0,0,Creighton Deadball Team Rebound.,64,61,3,0,1,1,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,Creighton
+401083237,2019-02-13,Xavier,Creighton,350,3,00:00:00,0,0,End of Game,64,61,3,0,1,1,2,1,-1,NA,NA,NA,NA,NA,NA,NA,NA,Creighton,NA

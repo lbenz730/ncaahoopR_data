@@ -1,351 +1,351 @@
 game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
-401175222,2019-12-07,Seattle,Portland,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Seattle
-401175222,2019-12-07,Seattle,Portland,2,1,19:50,2390,2390,Morgan Means made Layup. Assisted by Terrell Brown.,2,0,2,10,0.7268628254138971,0.5442362834555183,4,4,5,NA,NA,Seattle,made,Morgan Means,Terrell Brown,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,3,1,19:13,2353,2353,Malcolm Porter missed Three Point Jumper.,2,0,2,37,0.7268901623693306,0.545025919036486,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,4,1,19:08,2348,2348,Terrell Brown Defensive Rebound.,2,0,2,5,0.7268929385185842,0.5451340534009399,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,5,1,19:02,2342,2342,Foul on Malcolm Porter.,2,0,2,6,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,6,1,19:02,2342,2342,Myles Carter missed Free Throw.,2,0,2,0,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,7,1,19:02,2342,2342,Seattle U Offensive Rebound.,2,0,2,0,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,8,1,19:02,2342,2342,Myles Carter made Free Throw.,3,0,3,0,0.7445412791175335,0.5676650719849222,4,4,5,NA,NA,Seattle,made,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,9,1,18:42,2322,2322,Isaiah White made Jumper.,3,2,1,20,0.7083344512495754,0.5228986002520256,4,4,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,10,1,18:16,2296,2296,Terrell Brown missed Jumper.,3,2,1,26,0.7080973198542655,0.5231879356419173,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,11,1,18:11,2291,2291,Delante Jones Offensive Rebound.,3,2,1,5,0.7080503206871426,0.5232439877846887,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,12,1,18:11,2291,2291,Foul on Malcolm Porter.,3,2,1,0,0.7080503206871426,0.5232439877846887,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,13,1,18:06,2286,2286,Terrell Brown missed Layup.,3,2,1,5,0.7080028556364809,0.5233001645140872,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,14,1,18:01,2281,2281,Tahirou Diabate Defensive Rebound.,3,2,1,5,0.7079549183423698,0.5233564625369095,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,15,1,17:58,2278,2278,Isaiah White made Three Point Jumper. Assisted by Quincy Ferebee.,3,5,-2,3,0.6466722314097331,0.45332155583379324,4,4,5,NA,NA,Portland,made,Isaiah White,Quincy Ferebee,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,16,1,17:34,2254,2254,Riley Grigsby made Jumper.,5,5,0,24,0.6877152235122294,0.5,4,4,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,17,1,17:14,2234,2234,Tahirou Diabate missed Layup.,5,5,0,20,0.6873028267206427,0.5,4,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,18,1,17:08,2228,2228,Myles Carter Defensive Rebound.,5,5,0,6,0.6871770973425732,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,19,1,17:04,2224,2224,Myles Carter missed Layup.,5,5,0,4,0.6870927559222315,0.5,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,20,1,16:58,2218,2218,Morgan Means Offensive Rebound.,5,5,0,6,0.6869654559385645,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,21,1,16:57,2217,2217,Morgan Means made Jumper.,7,5,2,1,0.7268524695782635,0.5480611790931701,4,4,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,22,1,16:43,2203,2203,Tahirou Diabate made Dunk. Assisted by Isaiah White.,7,7,0,14,0.6866430278346946,0.5,4,4,5,NA,NA,Portland,made,Tahirou Diabate,Isaiah White,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,23,1,16:30,2190,2190,Delante Jones missed Three Point Jumper.,7,7,0,13,0.6863586960494555,0.5,4,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,24,1,16:26,2186,2186,Portland Defensive Rebound.,7,7,0,4,0.6862702834317601,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,25,1,16:02,2162,2162,Isaiah White missed Three Point Jumper.,7,7,0,24,0.6857305675240714,0.5,4,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,26,1,15:58,2158,2158,Terrell Brown Defensive Rebound.,7,7,0,4,0.6856391135582708,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,27,1,15:54,2154,2154,Riley Grigsby missed Three Point Jumper.,7,7,0,4,0.6855472425072644,0.5,4,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,28,1,15:47,2147,2147,JoJo Walker Defensive Rebound.,7,7,0,7,0.6853854683911871,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,29,1,15:44,2144,2144,Chase Adams Turnover.,7,7,0,3,0.6853157484983521,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,30,1,15:44,2144,2144,Morgan Means Steal.,7,7,0,0,0.6853157484983521,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,31,1,15:39,2139,2139,Morgan Means made Layup.,9,7,2,5,0.726687542365177,0.5498617568700167,4,4,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,32,1,15:15,2115,2115,Tahirou Diabate made Layup.,9,9,0,24,0.684629903659056,0.5,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,33,1,15:02,2102,2102,Foul on Quincy Ferebee.,9,9,0,13,0.6843155444638666,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,34,1,15:02,2102,2102,Official TV Timeout,9,9,0,0,0.6843155444638666,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,35,1,14:54,2094,2094,Terrell Brown missed Jumper.,9,9,0,8,0.6841199939844684,0.5,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,36,1,14:51,2091,2091,Tahirou Diabate Defensive Rebound.,9,9,0,3,0.6840462529542936,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,37,1,14:49,2089,2089,JoJo Walker Turnover.,9,9,0,2,0.683996968579348,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,38,1,14:49,2089,2089,Morgan Means Steal.,9,9,0,0,0.683996968579348,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,39,1,14:40,2080,2080,Morgan Means made Three Point Jumper. Assisted by Myles Carter.,12,9,3,9,0.7464522004500034,0.5765457115339635,4,4,5,NA,NA,Seattle,made,Morgan Means,Myles Carter,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,40,1,14:07,2047,2047,Chase Adams missed Jumper.,12,9,3,33,0.7466334664736887,0.577720766080404,4,4,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,41,1,14:02,2042,2042,Delante Jones Defensive Rebound.,12,9,3,5,0.7466602473491953,0.577900312236857,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,42,1,13:57,2037,2037,Delante Jones made Three Point Jumper. Assisted by Morgan Means.,15,9,6,5,0.8015352076316642,0.6524430512285833,4,4,5,NA,NA,Seattle,made,Delante Jones,Morgan Means,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,43,1,13:32,2012,2012,Tahirou Diabate made Layup.,15,11,4,25,0.7663683007307845,0.6046358200745758,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,44,1,13:14,1994,1994,Delante Jones missed Three Point Jumper.,15,11,4,18,0.7666172865755347,0.6054979097963921,4,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,45,1,13:08,1988,1988,Tahirou Diabate Defensive Rebound.,15,11,4,6,0.7667003352265713,0.605786969619049,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,46,1,13:02,1982,1982,Chase Adams Turnover.,15,11,4,6,0.7667834349743193,0.6060768998267045,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,47,1,12:50,1970,1970,Morgan Means missed Three Point Jumper.,15,11,4,12,0.7669498462465327,0.6066594242808477,4,4,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,48,1,12:44,1964,1964,JoJo Walker Defensive Rebound.,15,11,4,6,0.7670331869776479,0.6069520449177177,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,49,1,12:27,1947,1947,Quincy Ferebee Turnover.,15,11,4,17,0.7672699620798981,0.6077861936236443,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,50,1,12:09,1929,1929,Terrell Brown Turnover.,15,11,4,18,0.7675219717702377,0.6086777992433846,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,51,1,11:54,1914,1914,JoJo Walker missed Three Point Jumper.,15,11,4,15,0.7677285244786425,0.6094227457695932,4,4,5,NA,NA,Portland,missed,JoJo Walker,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,52,1,11:49,1909,1909,Terrell Brown Defensive Rebound.,15,11,4,5,0.7677958865484324,0.6096706372735857,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,53,1,11:41,1901,1901,Mattia Da Campo made Layup. Assisted by Terrell Brown.,17,11,6,8,0.8053855564033627,0.66181446247740106,4,4,5,NA,NA,Seattle,made,Mattia Da Campo,Terrell Brown,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,54,1,11:19,1879,1879,Takiula Fahrensohn made Three Point Jumper.,17,14,3,22,0.7474500096527782,0.5839793940933239,4,4,5,NA,NA,Portland,made,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,55,1,11:04,1864,1864,Terrell Brown made Layup.,19,14,5,15,0.7880126616387639,0.6385621242918414,4,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,56,1,10:47,1847,1847,Takiula Fahrensohn made Three Point Jumper. Assisted by Isaiah White.,19,17,2,17,0.7253012632598839,0.5571072013834203,4,4,5,NA,NA,Portland,made,Takiula Fahrensohn,Isaiah White,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,57,1,10:29,1829,1829,Terrell Brown missed Layup.,19,17,2,18,0.7251698873361909,0.5575741750919104,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,58,1,10:23,1823,1823,Takiula Fahrensohn Defensive Rebound.,19,17,2,6,0.7251250982892149,0.5577305120306533,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,59,1,10:05,1805,1805,Isaiah White made Three Point Jumper.,19,20,-1,18,0.649886339585129,0.47079973580313295,4,4,5,NA,NA,Portland,made,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,60,1,9:47,1787,1787,Jordan Dallas made Three Point Jumper. Assisted by Delante Jones.,22,20,2,18,0.7248488123873318,0.5586779797592005,4,4,5,NA,NA,Seattle,made,Jordan Dallas,Delante Jones,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,61,1,9:15,1755,1755,Quincy Ferebee missed Layup.,22,20,2,32,0.7245975435521889,0.5595378737282567,4,4,5,NA,NA,Portland,missed,Quincy Ferebee,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,62,1,9:11,1751,1751,Jordan Dallas Defensive Rebound.,22,20,2,4,0.7245660933780437,0.5596467959132658,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,63,1,8:57,1737,1737,Jordan Dallas made Layup.,24,20,4,14,0.7699382829833231,0.6183556376216363,4,4,5,NA,NA,Seattle,made,Jordan Dallas,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,64,1,8:48,1728,1728,Portland  Timeout,24,20,4,9,0.7700553479820638,0.6188332219470309,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,65,1,8:32,1712,1712,Foul on Jordan Dallas.,24,20,4,16,0.7702683773626486,0.6196917242601563,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,66,1,8:27,1707,1707,JoJo Walker Turnover.,24,20,4,5,0.7703363854047939,0.6199626397229718,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,67,1,8:15,1695,1695,Morgan Means missed Jumper.,24,20,4,12,0.7705027077704559,0.6206182715071424,3,4,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,68,1,8:10,1690,1690,JoJo Walker Defensive Rebound.,24,20,4,5,0.7705733883178937,0.6208938040056806,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,69,1,8:00,1680,1680,Hugh Hogland missed Layup.,24,20,4,10,0.7707100675582534,0.6214418002995874,3,4,5,NA,NA,Portland,missed,Hugh Hogland,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,70,1,7:56,1676,1676,Terrell Brown Defensive Rebound.,24,20,4,4,0.770761776549656,0.6216586203029172,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,71,1,7:54,1674,1674,Riley Grigsby missed Three Point Jumper.,24,20,4,2,0.7707870293539251,0.6217665542235177,3,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,72,1,7:49,1669,1669,Takiula Fahrensohn Defensive Rebound.,24,20,4,5,0.7708484728656585,0.6220350677502837,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,73,1,7:42,1662,1662,Foul on Jordan Dallas.,24,20,4,7,0.7709306441012717,0.6224080209745264,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,74,1,7:41,1661,1661,Official TV Timeout,24,20,4,1,0.770942034125496,0.622461035702219,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,75,1,7:41,1661,1661,Quincy Ferebee missed Free Throw.,24,20,4,0,0.770942034125496,0.622461035702219,3,4,5,NA,NA,Portland,missed,Quincy Ferebee,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,76,1,7:41,1661,1661,Portland Offensive Rebound.,24,20,4,0,0.770942034125496,0.622461035702219,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,77,1,7:41,1661,1661,Quincy Ferebee made Free Throw.,24,21,3,0,0.7481248367266415,0.5926679131946108,3,4,5,NA,NA,Portland,made,Quincy Ferebee,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,78,1,7:22,1642,1642,Foul on Jacob Tryon.,24,21,3,19,0.7481401711889667,0.5934358541015387,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,79,1,7:12,1632,1632,Riley Grigsby missed Three Point Jumper.,24,21,3,10,0.7481390895573512,0.59383500343752,3,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,80,1,7:08,1628,1628,Myles Carter Offensive Rebound.,24,21,3,4,0.7481371619268968,0.5939939384024777,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,81,1,7:00,1620,1620,Terrell Brown made Jumper.,26,21,5,8,0.7930177863344936,0.6539298923510367,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,82,1,6:44,1604,1604,Isaiah White missed Three Point Jumper.,26,21,5,16,0.7932871897964724,0.6549172166991724,3,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,83,1,6:40,1600,1600,Myles Carter Defensive Rebound.,26,21,5,4,0.793353371407512,0.6551635958780901,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,84,1,6:31,1591,1591,Terrell Brown made Layup.,28,21,7,9,0.8325583535226104,0.7113557246388608,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,85,1,6:14,1574,1574,JoJo Walker missed Jumper.,28,21,7,17,0.8330537308995299,0.7126919854765793,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,86,1,6:09,1569,1569,Aaron Nettles Defensive Rebound.,28,21,7,5,0.8331998965864368,0.7130864812886503,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,87,1,6:00,1560,1560,Myles Carter made Layup. Assisted by Terrell Brown.,30,21,9,9,0.8666315374780563,0.7640521254482973,3,4,5,NA,NA,Seattle,made,Myles Carter,Terrell Brown,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,88,1,5:46,1546,1546,Foul on Takiula Fahrensohn.,30,21,9,14,0.8671589376757644,0.7653197479510399,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,89,1,5:46,1546,1546,Takiula Fahrensohn Turnover.,30,21,9,0,0.8671589376757644,0.7653197479510399,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,90,1,5:37,1537,1537,Terrell Brown missed Jumper.,30,21,9,9,0.8675028609532718,0.7661423558948894,3,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,91,1,5:33,1533,1533,Isaiah White Defensive Rebound.,30,21,9,4,0.8676572363112854,0.7665102922138594,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,92,1,5:28,1528,1528,Takiula Fahrensohn missed Three Point Jumper.,30,21,9,5,0.8678516898996987,0.7669724579339982,3,4,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,93,1,5:24,1524,1524,Jacob Tryon Offensive Rebound.,30,21,9,4,0.8680085370563302,0.7673441167721964,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,94,1,5:23,1523,1523,Isaiah White made Jumper.,30,23,7,1,0.8345878545888988,0.7167884384311376,3,4,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,95,1,5:01,1501,1501,Morgan Means made Three Point Jumper. Assisted by Riley Grigsby.,33,23,10,22,0.8834531590102513,0.7924171987346829,3,4,5,NA,NA,Seattle,made,Morgan Means,Riley Grigsby,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,96,1,4:46,1486,1486,JoJo Walker made Layup. Assisted by Isaiah White.,33,25,8,15,0.8534970057045285,0.7463017367900309,3,4,5,NA,NA,Portland,made,JoJo Walker,Isaiah White,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,97,1,4:25,1465,1465,Terrell Brown missed Jumper.,33,25,8,21,0.8543620370071063,0.7483167647133098,3,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,98,1,4:20,1460,1460,JoJo Walker Defensive Rebound.,33,25,8,5,0.8545772014823114,0.7488092871594161,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,99,1,4:03,1443,1443,Chase Adams made Jumper.,33,27,6,17,0.81782679503411,0.6955108220075715,3,4,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,100,1,3:35,1415,1415,Terrell Brown Turnover.,33,27,6,28,0.8186922435989654,0.6978052927296808,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,101,1,3:35,1415,1415,Official TV Timeout,33,27,6,0,0.8186922435989654,0.6978052927296808,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,102,1,3:18,1398,1398,Takiula Fahrensohn made Three Point Jumper. Assisted by Isaiah White.,33,30,3,17,0.7482215872379493,0.6038708492602224,3,4,5,NA,NA,Portland,made,Takiula Fahrensohn,Isaiah White,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,103,1,2:49,1369,1369,Delante Jones missed Three Point Jumper.,33,30,3,29,0.7482115857401239,0.605147371692639,3,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,104,1,2:44,1364,1364,Terrell Brown Offensive Rebound.,33,30,3,5,0.7482075238705885,0.6053664577565032,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,105,1,2:40,1360,1360,Morgan Means missed Three Point Jumper.,33,30,3,4,0.7482040751931966,0.60554183561574,3,4,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,106,1,2:36,1356,1356,JoJo Walker Defensive Rebound.,33,30,3,4,0.7482005394253117,0.6057174080157803,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,107,1,2:36,1356,1356,JoJo Walker Turnover.,33,30,3,0,0.7482005394253117,0.6057174080157803,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,108,1,2:19,1339,1339,Myles Carter Turnover.,33,30,3,17,0.748186470969299,0.6064678534927795,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,109,1,2:06,1326,1326,Foul on Myles Carter.,33,30,3,13,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,110,1,2:06,1326,1326,Tahirou Diabate missed Free Throw.,33,30,3,0,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,111,1,2:06,1326,1326,Portland Offensive Rebound.,33,30,3,0,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,112,1,2:06,1326,1326,Tahirou Diabate made Free Throw.,33,31,2,0,0.7198971562025717,0.5719841566532281,3,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,113,1,1:47,1307,1307,Terrell Brown made Layup.,35,31,4,19,0.7747153767647358,0.6421624339041494,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,114,1,1:30,1290,1290,JoJo Walker missed Jumper.,35,31,4,17,0.7749313863241927,0.6431953922869091,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,115,1,1:27,1287,1287,Tahirou Diabate Offensive Rebound.,35,31,4,3,0.7749724672726073,0.6433816135028063,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,116,1,1:27,1287,1287,Foul on Mattia Da Campo.,35,31,4,0,0.7749724672726073,0.6433816135028063,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,117,1,1:22,1282,1282,JoJo Walker missed Layup.,35,31,4,5,0.7750431651545958,0.6436949005352504,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,118,1,1:12,1272,1272,Tahirou Diabate Offensive Rebound.,35,31,4,10,0.7751936096423927,0.6443332132590832,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,119,1,1:11,1271,1271,Tahirou Diabate Turnover.,35,31,4,1,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,120,1,1:11,1271,1271,Jordan Dallas Steal.,35,31,4,0,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,121,1,1:11,1271,1271,Foul on JoJo Walker.,35,31,4,0,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,122,1,1:11,1271,1271,Seattle U  Timeout,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,123,1,1:11,1271,1271,Jordan Dallas missed Three Point Jumper.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,Seattle,missed,Jordan Dallas,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,124,1,1:11,1271,1271,Terrell Brown Offensive Rebound.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,125,1,1:11,1271,1271,Foul on Chase Adams.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,126,1,1:06,1266,1266,Terrell Brown made Free Throw.,36,31,5,5,0.8001783912554605,0.6780687948502896,3,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,127,1,1:06,1266,1266,Terrell Brown made Free Throw.,37,31,6,0,0.8229395947826686,0.7096929078592094,3,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,128,1,0:53,1253,1253,Foul on Anand Hundal.,37,31,6,13,0.8234062366834647,0.7108663892737404,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,129,1,0:36,1236,1236,Tahirou Diabate missed Jumper.,37,31,6,17,0.8240673143146288,0.7124695717683326,3,3,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,130,1,0:33,1233,1233,Mattia Da Campo Defensive Rebound.,37,31,6,3,0.8241905347838242,0.712761301941654,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,131,1,0:14,1214,1214,Riley Grigsby missed Three Point Jumper.,37,31,6,19,0.8250213100995192,0.7146763546575762,3,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,132,1,0:11,1211,1211,Portland Defensive Rebound.,37,31,6,3,0.8251609070231058,0.7149899784377088,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,133,1,0:03,1203,1203,Tahirou Diabate Turnover.,37,31,6,8,0.8255345435213277,0.7158270643623882,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,134,1,0:00,1200,1200,Riley Grigsby missed Three Point Jumper.,37,31,6,3,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,135,1,0:00,1200,1200,Seattle U Offensive Rebound.,37,31,6,0,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,136,1,0:00,1200,1200,End of 1st half,37,31,6,0,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA
-401175222,2019-12-07,Seattle,Portland,137,2,20:00,1200,1200,PLAY,37,31,6,0,0.8256722521754408,0.7161370692370593,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Portland
-401175222,2019-12-07,Seattle,Portland,138,2,19:39,1179,1179,Malcolm Porter missed Layup.,37,31,6,21,0.8266042740810288,0.71825500594475,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,139,2,19:39,1179,1179,Terrell Brown Block.,37,31,6,0,0.8266042740810288,0.71825500594475,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,140,2,19:27,1167,1167,Terrell Brown Defensive Rebound.,37,31,6,12,0.8271170472787058,0.7194324525791388,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,141,2,19:26,1166,1166,Delante Jones made Three Point Jumper.,40,31,9,1,0.8845959942741963,0.8042694364507837,4,4,5,NA,NA,Seattle,made,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,142,2,19:15,1155,1155,Chase Adams made Layup.,40,33,7,11,0.8489968887320135,0.7512533229414124,4,4,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,143,2,18:49,1129,1129,Morgan Means missed Layup.,40,33,7,26,0.8502255921383718,0.7539428638631351,4,4,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,144,2,18:41,1121,1121,Myles Carter Offensive Rebound.,40,33,7,8,0.8506033757691669,0.7547681559011926,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,145,2,18:40,1120,1120,Myles Carter missed Layup.,40,33,7,1,0.85065070778516,0.7548714276698718,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,146,2,18:36,1116,1116,Tahirou Diabate Defensive Rebound.,40,33,7,4,0.850840374850427,0.7552849107843893,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,147,2,18:33,1113,1113,JoJo Walker made Layup. Assisted by Isaiah White.,40,35,5,3,0.8053151515105534,0.6912994213498522,4,4,5,NA,NA,Portland,made,JoJo Walker,Isaiah White,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,148,2,18:18,1098,1098,Foul on Malcolm Porter.,40,35,5,15,0.8058277229146804,0.6925909722842625,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,149,2,18:02,1082,1082,Terrell Brown missed Layup.,40,35,5,16,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,150,2,18:02,1082,1082,Myles Carter Offensive Rebound.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,151,2,18:02,1082,1082,Myles Carter Turnover.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,152,2,18:02,1082,1082,Isaiah White Steal.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,153,2,18:02,1082,1082,Foul on Terrell Brown.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,154,2,18:02,1082,1082,Tahirou Diabate made Free Throw.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,155,2,18:02,1082,1082,Tahirou Diabate missed Free Throw.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,156,2,18:02,1082,1082,Terrell Brown Defensive Rebound.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,157,2,17:50,1070,1070,Riley Grigsby Turnover.,40,36,4,12,0.7798492795624723,0.6590697994652469,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,158,2,17:50,1070,1070,Isaiah White Steal.,40,36,4,0,0.7798492795624723,0.6590697994652469,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,159,2,17:48,1068,1068,Foul on Morgan Means.,40,36,4,2,0.7799027981766753,0.6592241496838066,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,160,2,17:22,1042,1042,Isaiah White missed Three Point Jumper.,40,36,4,26,0.7806457166822013,0.6612975704393407,4,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,161,2,17:18,1038,1038,Morgan Means Defensive Rebound.,40,36,4,4,0.780768815103143,0.6616291015842183,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,162,2,17:00,1020,1020,Morgan Means made Three Point Jumper. Assisted by Delante Jones.,43,36,7,18,0.8559042300766592,0.7659427469629233,4,4,5,NA,NA,Seattle,made,Morgan Means,Delante Jones,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,163,2,16:24,984,984,Foul on Myles Carter.,43,36,7,36,0.8582781928238771,0.7706474238067677,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,164,2,16:24,984,984,Tahirou Diabate made Free Throw.,43,37,6,0,0.8358849947429151,0.7386245522542851,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,165,2,16:24,984,984,Tahirou Diabate made Free Throw.,43,38,5,0,0.8107337516140343,0.7038487586430906,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,166,2,16:07,967,967,Foul on Tahirou Diabate.,43,38,5,17,0.8117131218182358,0.7058874724740836,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,167,2,16:02,962,962,Myles Carter missed Three Point Jumper.,43,38,5,5,0.8119985830087976,0.7064804416311167,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,168,2,15:57,957,957,Malcolm Porter Defensive Rebound.,43,38,5,5,0.8122740262040343,0.7070561261535094,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,169,2,15:29,929,929,Isaiah White made Three Point Jumper. Assisted by JoJo Walker.,43,41,2,28,0.7184366280429757,0.5885988101055326,4,4,5,NA,NA,Portland,made,Isaiah White,JoJo Walker,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,170,2,15:25,925,925,Official TV Timeout,43,41,2,4,0.718447194429497,0.5887831895018086,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,171,2,15:21,921,921,Foul on Tahirou Diabate.,43,41,2,4,0.7184568266902012,0.588964884369149,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,172,2,15:08,908,908,Delante Jones made Three Point Jumper. Assisted by Mattia Da Campo.,46,41,5,13,0.8145793682157915,0.7120085048744804,4,4,5,NA,NA,Seattle,made,Delante Jones,Mattia Da Campo,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,173,2,14:45,885,885,Foul on Mattia Da Campo.,46,41,5,23,0.8155239830469868,0.7140822739813432,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,174,2,14:44,884,884,Malcolm Porter made Free Throw.,46,42,4,1,0.7864125145526747,0.6753720389102016,4,4,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,175,2,14:44,884,884,Malcolm Porter missed Free Throw.,46,42,4,0,0.7864125145526747,0.6753720389102016,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,176,2,14:41,881,881,Delante Jones Defensive Rebound.,46,42,4,3,0.7865044882223349,0.6756012684887301,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,177,2,14:30,870,870,Terrell Brown missed Layup.,46,42,4,11,0.7868439496351083,0.6764431875535574,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,178,2,14:24,864,864,Mattia Da Campo Offensive Rebound.,46,42,4,6,0.7870320049900996,0.6769057356851473,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,179,2,14:17,857,857,Foul on Chase Adams.,46,42,4,7,0.7872555022892518,0.6774508816765689,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,180,2,14:02,842,842,Delante Jones made Jumper.,48,42,6,15,0.8435967044536401,0.7542409227227244,4,4,5,NA,NA,Seattle,made,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,181,2,13:49,829,829,Isaiah White made Layup. Assisted by Malcolm Porter.,48,44,4,13,0.7882213754071331,0.6797372628751808,4,4,5,NA,NA,Portland,made,Isaiah White,Malcolm Porter,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,182,2,13:33,813,813,Foul on Terrell Brown.,48,44,4,16,0.7888495354312922,0.681160966921536,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,183,2,13:33,813,813,Terrell Brown Turnover.,48,44,4,0,0.7888495354312922,0.681160966921536,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,184,2,13:24,804,804,Foul on Mattia Da Campo.,48,44,4,9,0.7892353299651461,0.6820128046631921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,185,2,13:24,804,804,Malcolm Porter made Free Throw.,48,45,3,0,0.7557582446636159,0.6392886426232456,4,4,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,186,2,13:24,804,804,Seattle U  Timeout,48,45,3,0,0.7557582446636159,0.6392886426232456,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,187,2,13:24,804,804,Official TV Timeout,48,45,3,0,0.7557582446636159,0.6392886426232456,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,188,2,13:24,804,804,Malcolm Porter made Free Throw.,48,46,2,0,0.7188579426674663,0.5942393326298346,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,189,2,13:06,786,786,Jordan Dallas missed Layup.,48,46,2,18,0.719041681826064,0.595261839649235,4,3,5,NA,NA,Seattle,missed,Jordan Dallas,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,190,2,13:03,783,783,Jordan Dallas Offensive Rebound.,48,46,2,3,0.7190780754067969,0.5954433058354573,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,191,2,12:53,773,773,Foul on Quincy Ferebee.,48,46,2,10,0.719212496216038,0.5960735551323307,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,192,2,12:53,773,773,Terrell Brown made Free Throw.,49,46,3,0,0.7567833356598764,0.6419176231664933,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,193,2,12:53,773,773,Terrell Brown made Free Throw.,50,46,4,0,0.790789347412885,0.6853055350377721,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,194,2,12:33,753,753,Jacob Tryon made Layup.,50,48,2,20,0.7195477245075803,0.5974636545064567,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,195,2,12:10,730,730,Riley Grigsby missed Three Point Jumper.,50,48,2,23,0.7200581677580971,0.5993089282484763,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,196,2,12:03,723,723,JoJo Walker Defensive Rebound.,50,48,2,7,0.720225283864722,0.599898541477637,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,197,2,11:57,717,717,Foul on Jordan Dallas.,50,48,2,6,0.7203527564415432,0.6003794951684979,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,198,2,11:57,717,717,Jacob Tryon missed Free Throw.,50,48,2,0,0.7203527564415432,0.6003794951684979,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,199,2,11:55,715,715,Riley Grigsby Defensive Rebound.,50,48,2,2,0.7203922772896543,0.600535229781105,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,200,2,11:48,708,708,Foul on Jacob Tryon.,50,48,2,7,0.7205199467527132,0.6010639357433156,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,201,2,11:48,708,708,Official TV Timeout,50,48,2,0,0.7205199467527132,0.6010639357433156,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,202,2,11:37,697,697,Terrell Brown made Jumper.,52,48,4,11,0.7959343410578019,0.6955851119505065,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,203,2,11:19,679,679,Takiula Fahrensohn missed Three Point Jumper.,52,48,4,18,0.7969295896791633,0.6977082640110623,4,3,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,204,2,11:14,674,674,Delante Jones Defensive Rebound.,52,48,4,5,0.7971912657153407,0.6982765935382883,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,205,2,11:06,666,666,Terrell Brown missed Jumper.,52,48,4,8,0.7976033063199607,0.6991766143992962,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,206,2,11:03,663,663,Jacob Tryon Defensive Rebound.,52,48,4,3,0.7977568086125332,0.6995128077532656,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,207,2,11:00,660,660,Takiula Fahrensohn missed Three Point Jumper.,52,48,4,3,0.7979102788045919,0.6998490629994716,4,3,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,208,2,10:55,655,655,Terrell Brown Defensive Rebound.,52,48,4,5,0.7981668965148726,0.7004109803916463,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,209,2,10:48,648,648,Terrell Brown made Layup.,54,48,6,7,0.8585933479369559,0.7823751115510301,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,210,2,10:25,625,625,JoJo Walker made Layup.,54,50,4,23,0.7998099379442122,0.7039433548183792,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,211,2,10:11,611,611,Foul on Quincy Ferebee.,54,50,4,14,0.8006982209995537,0.7057770740074178,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,212,2,10:11,611,611,Terrell Brown made Free Throw.,55,50,5,0,0.8333286779479221,0.7490782138709059,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,213,2,10:11,611,611,Terrell Brown made Free Throw.,56,50,6,0,0.8615405735320749,0.787921595025223,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,214,2,9:54,594,594,Jacob Tryon made Layup.,56,52,4,17,0.8019445432477749,0.708257210887437,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,215,2,9:41,581,581,Terrell Brown missed Layup.,56,52,4,13,0.8030548408626107,0.7103906984680445,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,216,2,9:36,576,576,Jacob Tryon Defensive Rebound.,56,52,4,5,0.8035241032356645,0.7112747895582893,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,217,2,9:31,571,571,Foul on Riley Grigsby.,56,52,4,5,0.8040189431738333,0.7121973258315173,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,218,2,9:31,571,571,JoJo Walker made Free Throw.,56,53,3,0,0.7658608398408291,0.6636404751477653,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,219,2,9:31,571,571,JoJo Walker missed Free Throw.,56,53,3,0,0.7658608398408291,0.6636404751477653,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,220,2,9:30,570,570,Riley Grigsby Defensive Rebound.,56,53,3,1,0.765935699710933,0.6637951027277268,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,221,2,9:17,557,557,Delante Jones missed Jumper.,56,53,3,13,0.766993561353858,0.665934121080501,4,3,5,NA,NA,Seattle,missed,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,222,2,9:12,552,552,JoJo Walker Defensive Rebound.,56,53,3,5,0.7674448867180458,0.6668244142873493,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,223,2,9:10,550,550,Foul on Terrell Brown.,56,53,3,2,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,224,2,9:10,550,550,Malcolm Porter missed Free Throw.,56,53,3,0,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,225,2,9:10,550,550,Portland Offensive Rebound.,56,53,3,0,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,226,2,9:10,550,550,Malcolm Porter made Free Throw.,56,54,2,0,0.7237531342478201,0.6138853319382451,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,227,2,8:59,539,539,Terrell Brown missed Layup.,56,54,2,11,0.7242477988424162,0.6152418979752774,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,228,2,8:59,539,539,Isaiah White Block.,56,54,2,0,0.7242477988424162,0.6152418979752774,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,229,2,8:51,531,531,Riley Grigsby Offensive Rebound.,56,54,2,8,0.7245380756706052,0.616128962546355,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,230,2,8:41,521,521,Delante Jones missed Jumper.,56,54,2,10,0.7248406451571888,0.6171524757059778,4,3,5,NA,NA,Seattle,missed,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,231,2,8:35,515,515,Chase Adams Defensive Rebound.,56,54,2,6,0.7249997137246919,0.617735385572759,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,232,2,8:25,505,505,Foul on Mattia Da Campo.,56,54,2,10,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,233,2,8:25,505,505,Jacob Tryon missed Free Throw.,56,54,2,0,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,234,2,8:25,505,505,Portland Offensive Rebound.,56,54,2,0,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,235,2,8:25,505,505,Jacob Tryon made Free Throw.,56,55,1,0,0.6745095500456009,0.5602005427814128,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,236,2,8:07,487,487,Terrell Brown Turnover.,56,55,1,18,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,237,2,8:07,487,487,JoJo Walker Steal.,56,55,1,0,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,238,2,8:07,487,487,Foul on Riley Grigsby.,56,55,1,0,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,239,2,8:07,487,487,JoJo Walker made Free Throw.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,240,2,8:07,487,487,JoJo Walker missed Free Throw.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,241,2,8:07,487,487,Riley Grigsby Defensive Rebound.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,242,2,7:52,472,472,Terrell Brown missed Jumper.,56,56,0,15,0.6170942631615327,0.5,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,243,2,7:47,467,467,Morgan Means Offensive Rebound.,56,56,0,5,0.6167359705827206,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,244,2,7:45,465,465,Mattia Da Campo missed Layup.,56,56,0,2,0.6165904520719903,0.5,4,3,5,NA,NA,Seattle,missed,Mattia Da Campo,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,245,2,7:41,461,461,Isaiah White Defensive Rebound.,56,56,0,4,0.6162953166678039,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,246,2,7:35,455,455,Isaiah White missed Layup.,56,56,0,6,0.6158414816170464,0.5,4,3,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,247,2,7:29,449,449,Riley Grigsby Defensive Rebound.,56,56,0,6,0.615372868516739,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,248,2,7:27,447,447,Foul on Jacob Tryon.,56,56,0,2,0.6152131036520639,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,249,2,7:26,446,446,Official TV Timeout,56,56,0,1,0.6151325202549479,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,250,2,7:26,446,446,Terrell Brown missed Free Throw.,56,56,0,0,0.6151325202549479,0.5,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,251,2,7:26,446,446,Seattle U Offensive Rebound.,56,56,0,0,0.6151325202549479,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,252,2,7:26,446,446,Terrell Brown made Free Throw.,57,56,1,0,0.6737812771293995,0.5637508319401797,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,253,2,7:06,426,426,Jacob Tryon made Jumper.,57,58,-1,20,0.5492447699921373,0.4343655740282014,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,254,2,6:50,410,410,Riley Grigsby made Layup.,59,58,1,16,0.6738483174012532,0.5671563827412811,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,255,2,6:31,391,391,Chase Adams missed Jumper.,59,58,1,19,0.6736323961177173,0.5688603851729758,4,3,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,FALSE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,256,2,6:23,383,383,Jacob Tryon Offensive Rebound.,59,58,1,8,0.6735145535215304,0.5695826149668936,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,257,2,6:21,381,381,Jacob Tryon made Layup.,59,60,-1,2,0.5404602819769194,0.43023400007853135,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,258,2,6:16,376,376,Terrell Brown missed Layup.,59,60,-1,5,0.5394340642115407,0.4297684325833668,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,259,2,6:12,372,372,Seattle U Offensive Rebound.,59,60,-1,4,0.5385978513200353,0.4293870452661032,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,260,2,6:08,368,368,Morgan Means Turnover.,59,60,-1,4,0.5377463719576789,0.4289960114902492,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,261,2,6:08,368,368,Jacob Tryon Steal.,59,60,-1,0,0.5377463719576789,0.4289960114902492,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,262,2,6:02,362,362,JoJo Walker missed Layup.,59,60,-1,6,0.5364370497193695,0.42838793373605205,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,263,2,5:53,353,353,Riley Grigsby Defensive Rebound.,59,60,-1,9,0.534390199731729,0.4274168944390119,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,264,2,5:52,352,352,Foul on Chase Adams.,59,60,-1,1,0.5341559696865907,0.42730398344260284,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,265,2,5:52,352,352,Morgan Means missed Free Throw.,59,60,-1,0,0.5341559696865907,0.42730398344260284,4,3,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,266,2,5:44,344,344,Jacob Tryon Defensive Rebound.,59,60,-1,8,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,267,2,5:44,344,344,Foul on Chase Adams.,59,60,-1,0,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,268,2,5:44,344,344,Chase Adams Turnover.,59,60,-1,0,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,269,2,5:41,341,341,Terrell Brown missed Layup.,59,60,-1,3,0.5314781315157333,0.4259844410706135,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,270,2,5:37,337,337,Jacob Tryon Defensive Rebound.,59,60,-1,4,0.5304543303889852,0.42546547161686654,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,271,2,5:12,312,312,Foul on JoJo Walker.,59,60,-1,25,0.5233301364832058,0.42163187073858993,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,272,2,5:12,312,312,JoJo Walker Turnover.,59,60,-1,0,0.5233301364832058,0.42163187073858993,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,273,2,5:01,301,301,Foul on JoJo Walker.,59,60,-1,11,0.5202612447974658,0.4200544359516193,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,274,2,4:59,299,299,Riley Grigsby made Free Throw.,60,60,0,2,0.5993093555208661,0.5,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,275,2,4:59,299,299,Riley Grigsby missed Free Throw.,60,60,0,0,0.5993093555208661,0.5,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,276,2,4:59,299,299,Malcolm Porter Defensive Rebound.,60,60,0,0,0.5993093555208661,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,277,2,4:50,290,290,Malcolm Porter made Jumper.,60,62,-2,9,0.4373924355221039,0.34307283018169726,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,278,2,4:49,289,289,Foul on Delante Jones.,60,62,-2,1,0.4372471062990092,0.34305737082797505,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,279,2,4:49,289,289,Malcolm Porter made Free Throw.,60,63,-3,0,0.3595790565113257,0.27397481945982105,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,280,2,4:30,270,270,Delante Jones made Layup.,62,63,-1,19,0.5163802291961649,0.42022041822267986,4,3,5,NA,NA,Seattle,made,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,281,2,4:07,247,247,Isaiah White Turnover.,62,63,-1,23,0.5149080786476774,0.4218015538150831,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,282,2,4:07,247,247,Riley Grigsby Steal.,62,63,-1,0,0.5149080786476774,0.4218015538150831,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,283,2,4:04,244,244,Official TV Timeout,62,63,-1,3,0.5146271311274916,0.4219335816934647,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,284,2,4:00,240,240,Delante Jones made Three Point Jumper. Assisted by Morgan Means.,65,63,2,4,0.7310260661747728,0.6521978153087602,4,3,5,NA,NA,Seattle,made,Delante Jones,Morgan Means,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,285,2,3:43,223,223,Jacob Tryon missed Three Point Jumper.,65,63,2,17,0.7299767710097469,0.6532352482125773,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,286,2,3:37,217,217,Delante Jones Defensive Rebound.,65,63,2,6,0.7304599552727544,0.6546190085732626,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,287,2,3:24,204,204,Riley Grigsby missed Three Point Jumper.,65,63,2,13,0.7335463625004429,0.660029979777004,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,288,2,3:20,200,200,Seattle U Offensive Rebound.,65,63,2,4,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,289,2,3:20,200,200,Foul on Morgan Means.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,290,2,3:20,200,200,Chase Adams missed Free Throw.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,291,2,3:20,200,200,Portland Offensive Rebound.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,292,2,3:20,200,200,Chase Adams made Free Throw.,65,64,1,0,0.6645720051551105,0.5834937142085947,4,3,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,294,2,3:00,180,180,Seattle U Offensive Rebound.,65,63,2,6,0.7472642801701138,0.6795076201741087,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,296,2,2:50,170,170,Riley Grigsby missed Free Throw.,65,64,1,0,0.673173624558603,0.5980353941640385,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,297,2,2:50,170,170,Seattle U Offensive Rebound.,65,64,1,0,0.673173624558603,0.5980353941640385,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,298,2,2:50,170,170,Riley Grigsby made Free Throw.,66,64,2,0,0.7539627682244829,0.6888121408271827,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,299,2,2:27,147,147,Malcolm Porter missed Three Point Jumper.,66,64,2,23,0.7705496614397964,0.7116585941809387,4,3,5,NA,NA,Portland,missed,Malcolm Porter,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,300,2,2:21,141,141,Morgan Means Defensive Rebound.,66,64,2,6,0.7753094853347433,0.7181383098238071,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,301,2,2:19,139,139,Myles Carter made Dunk. Assisted by Morgan Means.,68,64,4,2,0.899727043755045,0.8690375103274751,4,3,5,NA,NA,Seattle,made,Myles Carter,Morgan Means,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,302,2,2:08,128,128,Portland  Timeout,68,64,4,11,0.9100521842370732,0.8830200375071333,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,303,2,1:53,113,113,Isaiah White missed Layup.,68,64,4,15,0.9243479304856802,0.9022455466655568,3,3,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,304,2,1:46,106,106,Terrell Brown Defensive Rebound.,68,64,4,7,0.9310235131994177,0.9111675095948524,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,305,2,1:45,105,105,Morgan Means missed Three Point Jumper.,68,64,4,1,0.9319732895930296,0.9124339221157065,3,3,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,306,2,1:41,101,101,Jacob Tryon Defensive Rebound.,68,64,4,4,0.9357563577788863,0.9174706833725849,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,307,2,1:41,101,101,Foul on Riley Grigsby.,68,64,4,0,0.9357563577788863,0.9174706833725849,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,308,2,1:41,101,101,Jacob Tryon missed Free Throw.,68,64,4,0,0.9357563577788863,0.9174706833725849,3,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,309,2,1:41,101,101,Portland Offensive Rebound.,68,64,4,0,0.9357563577788863,0.9174706833725849,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,310,2,1:41,101,101,Jacob Tryon made Free Throw.,68,65,3,0,0.8886035390517372,0.858920194103822,3,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,311,2,1:22,82,82,Morgan Means made Jumper. Assisted by Riley Grigsby.,70,65,5,19,0.9755145050147631,0.9686793059214259,3,3,5,NA,NA,Seattle,made,Morgan Means,Riley Grigsby,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,312,2,1:22,82,82,Seattle U  Timeout,70,65,5,0,0.9755145050147631,0.9686793059214259,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,313,2,1:15,75,75,JoJo Walker missed Three Point Jumper.,70,65,5,7,0.9790620548979537,0.9733571352738245,3,2,5,NA,NA,Portland,missed,JoJo Walker,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,314,2,1:09,69,69,Myles Carter Defensive Rebound.,70,65,5,6,0.9818345681197848,0.9769936625831471,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,315,2,0:48,48,48,Terrell Brown missed Layup.,70,65,5,21,0.9893958156780724,0.9868080280146234,3,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,316,2,0:48,48,48,Isaiah White Block.,70,65,5,0,0.9893958156780724,0.9868080280146234,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,317,2,0:47,47,47,Seattle U Offensive Rebound.,70,65,5,1,0.9896821279879222,0.9871758040321901,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,318,2,0:44,44,44,Morgan Means missed Jumper.,70,65,5,3,0.9905063356475164,0.9882324895102231,3,2,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,319,2,0:40,40,40,Jacob Tryon Defensive Rebound.,70,65,5,4,0.9915256919346159,0.9895349281097368,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,320,2,0:36,36,36,Jacob Tryon missed Three Point Jumper.,70,65,5,4,0.9924560968963955,0.9907190582980734,3,2,5,NA,NA,Portland,missed,Jacob Tryon,NA,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,321,2,0:30,30,30,Morgan Means Defensive Rebound.,70,65,5,6,0.9936923019095254,0.9922846961612823,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,322,2,0:28,28,28,Foul on Chase Adams.,70,65,5,2,0.9940639764977401,0.9927535175249017,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,323,2,0:28,28,28,Morgan Means made Free Throw.,71,65,6,0,0.9977727443228442,0.99727880563173,3,2,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,324,2,0:28,28,28,Morgan Means missed Free Throw.,71,65,6,0,0.9977727443228442,0.99727880563173,3,2,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,325,2,0:27,27,27,Quincy Ferebee Defensive Rebound.,71,65,6,1,0.9978536455700521,0.9973802969153209,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,326,2,0:22,22,22,Isaiah White made Dunk.,71,67,4,5,0.986405117443641,0.98353299471110045,3,2,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,327,2,0:19,19,19,Foul on JoJo Walker.,71,67,4,3,0.9873856356092248,0.9847646583833194,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,328,2,0:19,19,19,Terrell Brown made Free Throw.,72,67,5,0,0.9955145490225509,0.9945732917863148,3,2,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,329,2,0:19,19,19,Terrell Brown missed Free Throw.,72,67,5,0,0.9955145490225509,0.9945732917863148,3,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,330,2,0:18,18,18,Jacob Tryon Defensive Rebound.,72,67,5,1,0.9956567980945186,0.9947507371379145,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,331,2,0:15,15,15,Quincy Ferebee made Three Point Jumper. Assisted by Jacob Tryon.,72,70,2,3,0.9109790879219734,0.8945836042239772,3,2,5,NA,NA,Portland,made,Quincy Ferebee,Jacob Tryon,TRUE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,332,2,0:14,14,14,Portland  Timeout,72,70,2,1,0.9120016146347396,0.8958722919593005,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,333,2,0:13,13,13,Foul on Quincy Ferebee.,72,70,2,1,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,334,2,0:13,13,13,Terrell Brown missed Free Throw.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
-401175222,2019-12-07,Seattle,Portland,335,2,0:13,13,13,Seattle U Offensive Rebound.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,336,2,0:13,13,13,Terrell Brown missed Free Throw.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,337,2,0:13,13,13,Foul on Myles Carter.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,338,2,0:13,13,13,Isaiah White made Free Throw.,72,71,1,0,0.7804135748837046,0.7470617047139647,2,2,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,339,2,0:13,13,13,Isaiah White missed Free Throw.,72,71,1,0,0.7804135748837046,0.7470617047139647,2,2,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,TRUE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,340,2,0:12,12,12,Myles Carter Defensive Rebound.,72,71,1,1,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,341,2,0:12,12,12,Foul on Isaiah White.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,342,2,0:12,12,12,Myles Carter missed Free Throw.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,343,2,0:12,12,12,Seattle U Offensive Rebound.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,344,2,0:12,12,12,Myles Carter made Free Throw.,73,71,2,0,0.9140340725711791,0.8984309706555195,2,2,5,NA,NA,Seattle,made,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
-401175222,2019-12-07,Seattle,Portland,345,2,0:07,7,7,Seattle U Offensive Rebound.,72,70,2,5,0.9190262076819354,0.9046998900167958,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,346,2,0:06,6,6,JoJo Walker missed Layup.,73,71,2,1,0.9200069218611916,0.9059288265680565,2,2,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,347,2,0:06,6,6,Myles Carter Block.,73,71,2,0,0.9200069218611916,0.9059288265680565,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,348,2,0:03,3,3,Portland Offensive Rebound.,73,71,2,3,0.9229086852162709,0.9095600412345216,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
-401175222,2019-12-07,Seattle,Portland,349,2,0:02,2,2,Isaiah White missed Jumper.,73,71,2,1,0.9238616564969702,0.910750940927652,2,2,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,350,2,0:00,0,0,Delante Jones Defensive Rebound.,73,73,0,2,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
-401175222,2019-12-07,Seattle,Portland,351,2,0:00,0,0,End of 2nd half,73,73,0,0,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA
-401175222,2019-12-07,Seattle,Portland,352,2,0:00,0,0,End of Game,73,73,0,0,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA
+401175222,2019-12-07,Seattle,Portland,1,1,20:00:00,2400,2400,PLAY,0,0,0,0,0.690435292582469,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Seattle
+401175222,2019-12-07,Seattle,Portland,2,1,19:50:00,2390,2390,Morgan Means made Layup. Assisted by Terrell Brown.,2,0,2,10,0.7268628254138971,0.5442362834555183,4,4,5,NA,NA,Seattle,made,Morgan Means,Terrell Brown,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,3,1,19:13:00,2353,2353,Malcolm Porter missed Three Point Jumper.,2,0,2,37,0.7268901623693306,0.545025919036486,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,4,1,19:08:00,2348,2348,Terrell Brown Defensive Rebound.,2,0,2,5,0.7268929385185842,0.5451340534009399,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,5,1,19:02:00,2342,2342,Foul on Malcolm Porter.,2,0,2,6,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,6,1,19:02:00,2342,2342,Myles Carter missed Free Throw.,2,0,2,0,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,7,1,19:02:00,2342,2342,Seattle U Offensive Rebound.,2,0,2,0,0.7268959450801489,0.5452642352579568,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,8,1,19:02:00,2342,2342,Myles Carter made Free Throw.,3,0,3,0,0.7445412791175335,0.5676650719849222,4,4,5,NA,NA,Seattle,made,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,9,1,18:42:00,2322,2322,Isaiah White made Jumper.,3,2,1,20,0.7083344512495754,0.5228986002520256,4,4,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,10,1,18:16:00,2296,2296,Terrell Brown missed Jumper.,3,2,1,26,0.7080973198542655,0.5231879356419173,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,11,1,18:11:00,2291,2291,Delante Jones Offensive Rebound.,3,2,1,5,0.7080503206871426,0.5232439877846887,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,12,1,18:11:00,2291,2291,Foul on Malcolm Porter.,3,2,1,0,0.7080503206871426,0.5232439877846887,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,13,1,18:06:00,2286,2286,Terrell Brown missed Layup.,3,2,1,5,0.7080028556364809,0.5233001645140872,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,14,1,18:01:00,2281,2281,Tahirou Diabate Defensive Rebound.,3,2,1,5,0.7079549183423698,0.5233564625369095,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,15,1,17:58:00,2278,2278,Isaiah White made Three Point Jumper. Assisted by Quincy Ferebee.,3,5,-2,3,0.6466722314097331,0.4533215558337933,4,4,5,NA,NA,Portland,made,Isaiah White,Quincy Ferebee,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,16,1,17:34:00,2254,2254,Riley Grigsby made Jumper.,5,5,0,24,0.6877152235122294,0.5,4,4,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,17,1,17:14:00,2234,2234,Tahirou Diabate missed Layup.,5,5,0,20,0.6873028267206427,0.5,4,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,18,1,17:08:00,2228,2228,Myles Carter Defensive Rebound.,5,5,0,6,0.6871770973425732,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,19,1,17:04:00,2224,2224,Myles Carter missed Layup.,5,5,0,4,0.6870927559222315,0.5,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,20,1,16:58:00,2218,2218,Morgan Means Offensive Rebound.,5,5,0,6,0.6869654559385645,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,21,1,16:57:00,2217,2217,Morgan Means made Jumper.,7,5,2,1,0.7268524695782635,0.5480611790931701,4,4,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,22,1,16:43:00,2203,2203,Tahirou Diabate made Dunk. Assisted by Isaiah White.,7,7,0,14,0.6866430278346946,0.5,4,4,5,NA,NA,Portland,made,Tahirou Diabate,Isaiah White,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,23,1,16:30:00,2190,2190,Delante Jones missed Three Point Jumper.,7,7,0,13,0.6863586960494555,0.5,4,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,24,1,16:26:00,2186,2186,Portland Defensive Rebound.,7,7,0,4,0.6862702834317601,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,25,1,16:02:00,2162,2162,Isaiah White missed Three Point Jumper.,7,7,0,24,0.6857305675240714,0.5,4,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,26,1,15:58:00,2158,2158,Terrell Brown Defensive Rebound.,7,7,0,4,0.6856391135582708,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,27,1,15:54:00,2154,2154,Riley Grigsby missed Three Point Jumper.,7,7,0,4,0.6855472425072644,0.5,4,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,28,1,15:47:00,2147,2147,JoJo Walker Defensive Rebound.,7,7,0,7,0.6853854683911871,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,29,1,15:44:00,2144,2144,Chase Adams Turnover.,7,7,0,3,0.6853157484983521,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,30,1,15:44:00,2144,2144,Morgan Means Steal.,7,7,0,0,0.6853157484983521,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,31,1,15:39:00,2139,2139,Morgan Means made Layup.,9,7,2,5,0.726687542365177,0.5498617568700167,4,4,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,32,1,15:15:00,2115,2115,Tahirou Diabate made Layup.,9,9,0,24,0.684629903659056,0.5,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,33,1,15:02:00,2102,2102,Foul on Quincy Ferebee.,9,9,0,13,0.6843155444638666,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,34,1,15:02:00,2102,2102,Official TV Timeout,9,9,0,0,0.6843155444638666,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,35,1,14:54:00,2094,2094,Terrell Brown missed Jumper.,9,9,0,8,0.6841199939844684,0.5,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,36,1,14:51:00,2091,2091,Tahirou Diabate Defensive Rebound.,9,9,0,3,0.6840462529542936,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,37,1,14:49:00,2089,2089,JoJo Walker Turnover.,9,9,0,2,0.683996968579348,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,38,1,14:49:00,2089,2089,Morgan Means Steal.,9,9,0,0,0.683996968579348,0.5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,39,1,14:40:00,2080,2080,Morgan Means made Three Point Jumper. Assisted by Myles Carter.,12,9,3,9,0.7464522004500034,0.5765457115339635,4,4,5,NA,NA,Seattle,made,Morgan Means,Myles Carter,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,40,1,14:07:00,2047,2047,Chase Adams missed Jumper.,12,9,3,33,0.7466334664736887,0.577720766080404,4,4,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,41,1,14:02:00,2042,2042,Delante Jones Defensive Rebound.,12,9,3,5,0.7466602473491953,0.577900312236857,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,42,1,13:57:00,2037,2037,Delante Jones made Three Point Jumper. Assisted by Morgan Means.,15,9,6,5,0.8015352076316642,0.6524430512285833,4,4,5,NA,NA,Seattle,made,Delante Jones,Morgan Means,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,43,1,13:32:00,2012,2012,Tahirou Diabate made Layup.,15,11,4,25,0.7663683007307845,0.6046358200745758,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,44,1,13:14:00,1994,1994,Delante Jones missed Three Point Jumper.,15,11,4,18,0.7666172865755347,0.6054979097963921,4,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,45,1,13:08:00,1988,1988,Tahirou Diabate Defensive Rebound.,15,11,4,6,0.7667003352265713,0.605786969619049,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,46,1,13:02:00,1982,1982,Chase Adams Turnover.,15,11,4,6,0.7667834349743193,0.6060768998267045,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,47,1,12:50:00,1970,1970,Morgan Means missed Three Point Jumper.,15,11,4,12,0.7669498462465327,0.6066594242808477,4,4,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,48,1,12:44:00,1964,1964,JoJo Walker Defensive Rebound.,15,11,4,6,0.7670331869776479,0.6069520449177177,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,49,1,12:27:00,1947,1947,Quincy Ferebee Turnover.,15,11,4,17,0.7672699620798981,0.6077861936236443,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,50,1,12:09:00,1929,1929,Terrell Brown Turnover.,15,11,4,18,0.7675219717702377,0.6086777992433846,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,51,1,11:54:00,1914,1914,JoJo Walker missed Three Point Jumper.,15,11,4,15,0.7677285244786425,0.6094227457695932,4,4,5,NA,NA,Portland,missed,JoJo Walker,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,52,1,11:49:00,1909,1909,Terrell Brown Defensive Rebound.,15,11,4,5,0.7677958865484324,0.6096706372735857,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,53,1,11:41:00,1901,1901,Mattia Da Campo made Layup. Assisted by Terrell Brown.,17,11,6,8,0.8053855564033627,0.66181446247740106,4,4,5,NA,NA,Seattle,made,Mattia Da Campo,Terrell Brown,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,54,1,11:19:00,1879,1879,Takiula Fahrensohn made Three Point Jumper.,17,14,3,22,0.7474500096527782,0.5839793940933239,4,4,5,NA,NA,Portland,made,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,55,1,11:04:00,1864,1864,Terrell Brown made Layup.,19,14,5,15,0.7880126616387639,0.6385621242918414,4,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,56,1,10:47:00,1847,1847,Takiula Fahrensohn made Three Point Jumper. Assisted by Isaiah White.,19,17,2,17,0.7253012632598839,0.5571072013834203,4,4,5,NA,NA,Portland,made,Takiula Fahrensohn,Isaiah White,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,57,1,10:29:00,1829,1829,Terrell Brown missed Layup.,19,17,2,18,0.7251698873361909,0.5575741750919104,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,58,1,10:23:00,1823,1823,Takiula Fahrensohn Defensive Rebound.,19,17,2,6,0.7251250982892149,0.5577305120306533,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,59,1,10:05:00,1805,1805,Isaiah White made Three Point Jumper.,19,20,-1,18,0.649886339585129,0.47079973580313295,4,4,5,NA,NA,Portland,made,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,60,1,09:47:00,1787,1787,Jordan Dallas made Three Point Jumper. Assisted by Delante Jones.,22,20,2,18,0.7248488123873318,0.5586779797592005,4,4,5,NA,NA,Seattle,made,Jordan Dallas,Delante Jones,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,61,1,09:15:00,1755,1755,Quincy Ferebee missed Layup.,22,20,2,32,0.7245975435521889,0.5595378737282567,4,4,5,NA,NA,Portland,missed,Quincy Ferebee,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,62,1,09:11:00,1751,1751,Jordan Dallas Defensive Rebound.,22,20,2,4,0.7245660933780437,0.5596467959132658,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,63,1,08:57:00,1737,1737,Jordan Dallas made Layup.,24,20,4,14,0.7699382829833231,0.6183556376216363,4,4,5,NA,NA,Seattle,made,Jordan Dallas,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,64,1,08:48:00,1728,1728,Portland  Timeout,24,20,4,9,0.7700553479820638,0.6188332219470309,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,65,1,08:32:00,1712,1712,Foul on Jordan Dallas.,24,20,4,16,0.7702683773626486,0.6196917242601563,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,66,1,08:27:00,1707,1707,JoJo Walker Turnover.,24,20,4,5,0.7703363854047939,0.6199626397229718,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,67,1,08:15:00,1695,1695,Morgan Means missed Jumper.,24,20,4,12,0.7705027077704559,0.6206182715071424,3,4,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,68,1,08:10:00,1690,1690,JoJo Walker Defensive Rebound.,24,20,4,5,0.7705733883178937,0.6208938040056806,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,69,1,08:00:00,1680,1680,Hugh Hogland missed Layup.,24,20,4,10,0.7707100675582534,0.6214418002995874,3,4,5,NA,NA,Portland,missed,Hugh Hogland,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,70,1,07:56:00,1676,1676,Terrell Brown Defensive Rebound.,24,20,4,4,0.770761776549656,0.6216586203029172,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,71,1,07:54:00,1674,1674,Riley Grigsby missed Three Point Jumper.,24,20,4,2,0.7707870293539251,0.6217665542235177,3,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,72,1,07:49:00,1669,1669,Takiula Fahrensohn Defensive Rebound.,24,20,4,5,0.7708484728656585,0.6220350677502837,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,73,1,07:42:00,1662,1662,Foul on Jordan Dallas.,24,20,4,7,0.7709306441012717,0.6224080209745264,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,74,1,07:41:00,1661,1661,Official TV Timeout,24,20,4,1,0.770942034125496,0.622461035702219,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,75,1,07:41:00,1661,1661,Quincy Ferebee missed Free Throw.,24,20,4,0,0.770942034125496,0.622461035702219,3,4,5,NA,NA,Portland,missed,Quincy Ferebee,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,76,1,07:41:00,1661,1661,Portland Offensive Rebound.,24,20,4,0,0.770942034125496,0.622461035702219,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,77,1,07:41:00,1661,1661,Quincy Ferebee made Free Throw.,24,21,3,0,0.7481248367266415,0.5926679131946108,3,4,5,NA,NA,Portland,made,Quincy Ferebee,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,78,1,07:22:00,1642,1642,Foul on Jacob Tryon.,24,21,3,19,0.7481401711889667,0.5934358541015387,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,79,1,07:12:00,1632,1632,Riley Grigsby missed Three Point Jumper.,24,21,3,10,0.7481390895573512,0.59383500343752,3,4,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,80,1,07:08:00,1628,1628,Myles Carter Offensive Rebound.,24,21,3,4,0.7481371619268968,0.5939939384024777,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,81,1,07:00:00,1620,1620,Terrell Brown made Jumper.,26,21,5,8,0.7930177863344936,0.6539298923510367,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,82,1,06:44:00,1604,1604,Isaiah White missed Three Point Jumper.,26,21,5,16,0.7932871897964724,0.6549172166991724,3,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,83,1,06:40:00,1600,1600,Myles Carter Defensive Rebound.,26,21,5,4,0.793353371407512,0.6551635958780901,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,84,1,06:31:00,1591,1591,Terrell Brown made Layup.,28,21,7,9,0.8325583535226104,0.7113557246388608,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,85,1,06:14:00,1574,1574,JoJo Walker missed Jumper.,28,21,7,17,0.8330537308995299,0.7126919854765793,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,86,1,06:09:00,1569,1569,Aaron Nettles Defensive Rebound.,28,21,7,5,0.8331998965864368,0.7130864812886503,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,87,1,06:00:00,1560,1560,Myles Carter made Layup. Assisted by Terrell Brown.,30,21,9,9,0.8666315374780563,0.7640521254482973,3,4,5,NA,NA,Seattle,made,Myles Carter,Terrell Brown,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,88,1,05:46:00,1546,1546,Foul on Takiula Fahrensohn.,30,21,9,14,0.8671589376757644,0.7653197479510399,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,89,1,05:46:00,1546,1546,Takiula Fahrensohn Turnover.,30,21,9,0,0.8671589376757644,0.7653197479510399,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,90,1,05:37:00,1537,1537,Terrell Brown missed Jumper.,30,21,9,9,0.8675028609532718,0.7661423558948894,3,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,91,1,05:33:00,1533,1533,Isaiah White Defensive Rebound.,30,21,9,4,0.8676572363112854,0.7665102922138594,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,92,1,05:28:00,1528,1528,Takiula Fahrensohn missed Three Point Jumper.,30,21,9,5,0.8678516898996987,0.7669724579339982,3,4,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,93,1,05:24:00,1524,1524,Jacob Tryon Offensive Rebound.,30,21,9,4,0.8680085370563302,0.7673441167721964,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,94,1,05:23:00,1523,1523,Isaiah White made Jumper.,30,23,7,1,0.8345878545888988,0.7167884384311376,3,4,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,95,1,05:01:00,1501,1501,Morgan Means made Three Point Jumper. Assisted by Riley Grigsby.,33,23,10,22,0.8834531590102513,0.7924171987346829,3,4,5,NA,NA,Seattle,made,Morgan Means,Riley Grigsby,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,96,1,04:46:00,1486,1486,JoJo Walker made Layup. Assisted by Isaiah White.,33,25,8,15,0.8534970057045285,0.7463017367900309,3,4,5,NA,NA,Portland,made,JoJo Walker,Isaiah White,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,97,1,04:25:00,1465,1465,Terrell Brown missed Jumper.,33,25,8,21,0.8543620370071063,0.7483167647133098,3,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,98,1,04:20:00,1460,1460,JoJo Walker Defensive Rebound.,33,25,8,5,0.8545772014823114,0.7488092871594161,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,99,1,04:03:00,1443,1443,Chase Adams made Jumper.,33,27,6,17,0.81782679503411,0.6955108220075715,3,4,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,100,1,03:35:00,1415,1415,Terrell Brown Turnover.,33,27,6,28,0.8186922435989654,0.6978052927296808,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,101,1,03:35:00,1415,1415,Official TV Timeout,33,27,6,0,0.8186922435989654,0.6978052927296808,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,102,1,03:18:00,1398,1398,Takiula Fahrensohn made Three Point Jumper. Assisted by Isaiah White.,33,30,3,17,0.7482215872379493,0.6038708492602224,3,4,5,NA,NA,Portland,made,Takiula Fahrensohn,Isaiah White,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,103,1,02:49:00,1369,1369,Delante Jones missed Three Point Jumper.,33,30,3,29,0.7482115857401239,0.605147371692639,3,4,5,NA,NA,Seattle,missed,Delante Jones,NA,TRUE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,104,1,02:44:00,1364,1364,Terrell Brown Offensive Rebound.,33,30,3,5,0.7482075238705885,0.6053664577565032,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,105,1,02:40:00,1360,1360,Morgan Means missed Three Point Jumper.,33,30,3,4,0.7482040751931966,0.60554183561574,3,4,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,106,1,02:36:00,1356,1356,JoJo Walker Defensive Rebound.,33,30,3,4,0.7482005394253117,0.6057174080157803,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,107,1,02:36:00,1356,1356,JoJo Walker Turnover.,33,30,3,0,0.7482005394253117,0.6057174080157803,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,108,1,02:19:00,1339,1339,Myles Carter Turnover.,33,30,3,17,0.748186470969299,0.6064678534927795,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,109,1,02:06:00,1326,1326,Foul on Myles Carter.,33,30,3,13,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,110,1,02:06:00,1326,1326,Tahirou Diabate missed Free Throw.,33,30,3,0,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,111,1,02:06:00,1326,1326,Portland Offensive Rebound.,33,30,3,0,0.7481796277868435,0.6070494843915465,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,112,1,02:06:00,1326,1326,Tahirou Diabate made Free Throw.,33,31,2,0,0.7198971562025717,0.5719841566532281,3,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,113,1,01:47:00,1307,1307,Terrell Brown made Layup.,35,31,4,19,0.7747153767647358,0.6421624339041494,3,4,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,114,1,01:30:00,1290,1290,JoJo Walker missed Jumper.,35,31,4,17,0.7749313863241927,0.6431953922869091,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,115,1,01:27:00,1287,1287,Tahirou Diabate Offensive Rebound.,35,31,4,3,0.7749724672726073,0.6433816135028063,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,116,1,01:27:00,1287,1287,Foul on Mattia Da Campo.,35,31,4,0,0.7749724672726073,0.6433816135028063,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,117,1,01:22:00,1282,1282,JoJo Walker missed Layup.,35,31,4,5,0.7750431651545958,0.6436949005352504,3,4,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,118,1,01:12:00,1272,1272,Tahirou Diabate Offensive Rebound.,35,31,4,10,0.7751936096423927,0.6443332132590832,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,119,1,01:11:00,1271,1271,Tahirou Diabate Turnover.,35,31,4,1,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,120,1,01:11:00,1271,1271,Jordan Dallas Steal.,35,31,4,0,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,121,1,01:11:00,1271,1271,Foul on JoJo Walker.,35,31,4,0,0.775209362426031,0.6443979570839865,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,122,1,01:11:00,1271,1271,Seattle U  Timeout,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,123,1,01:11:00,1271,1271,Jordan Dallas missed Three Point Jumper.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,Seattle,missed,Jordan Dallas,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,124,1,01:11:00,1271,1271,Terrell Brown Offensive Rebound.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,125,1,01:11:00,1271,1271,Foul on Chase Adams.,35,31,4,0,0.775209362426031,0.6443979570839865,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,126,1,01:06:00,1266,1266,Terrell Brown made Free Throw.,36,31,5,5,0.8001783912554605,0.6780687948502896,3,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,127,1,01:06:00,1266,1266,Terrell Brown made Free Throw.,37,31,6,0,0.8229395947826686,0.7096929078592094,3,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,128,1,00:53:00,1253,1253,Foul on Anand Hundal.,37,31,6,13,0.8234062366834647,0.7108663892737404,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,129,1,00:36:00,1236,1236,Tahirou Diabate missed Jumper.,37,31,6,17,0.8240673143146288,0.7124695717683326,3,3,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,130,1,00:33:00,1233,1233,Mattia Da Campo Defensive Rebound.,37,31,6,3,0.8241905347838242,0.712761301941654,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,131,1,00:14:00,1214,1214,Riley Grigsby missed Three Point Jumper.,37,31,6,19,0.8250213100995192,0.7146763546575762,3,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,132,1,00:11:00,1211,1211,Portland Defensive Rebound.,37,31,6,3,0.8251609070231058,0.7149899784377088,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,133,1,00:03:00,1203,1203,Tahirou Diabate Turnover.,37,31,6,8,0.8255345435213277,0.7158270643623882,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,134,1,00:00:00,1200,1200,Riley Grigsby missed Three Point Jumper.,37,31,6,3,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,135,1,00:00:00,1200,1200,Seattle U Offensive Rebound.,37,31,6,0,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,136,1,00:00:00,1200,1200,End of 1st half,37,31,6,0,0.8256722521754408,0.7161370692370593,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA
+401175222,2019-12-07,Seattle,Portland,137,2,20:00:00,1200,1200,PLAY,37,31,6,0,0.8256722521754408,0.7161370692370593,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Portland
+401175222,2019-12-07,Seattle,Portland,138,2,19:39:00,1179,1179,Malcolm Porter missed Layup.,37,31,6,21,0.8266042740810288,0.71825500594475,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,139,2,19:39:00,1179,1179,Terrell Brown Block.,37,31,6,0,0.8266042740810288,0.71825500594475,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,140,2,19:27:00,1167,1167,Terrell Brown Defensive Rebound.,37,31,6,12,0.8271170472787058,0.7194324525791388,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,141,2,19:26:00,1166,1166,Delante Jones made Three Point Jumper.,40,31,9,1,0.8845959942741963,0.8042694364507837,4,4,5,NA,NA,Seattle,made,Delante Jones,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,142,2,19:15:00,1155,1155,Chase Adams made Layup.,40,33,7,11,0.8489968887320135,0.7512533229414124,4,4,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,143,2,18:49:00,1129,1129,Morgan Means missed Layup.,40,33,7,26,0.8502255921383718,0.7539428638631351,4,4,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,144,2,18:41:00,1121,1121,Myles Carter Offensive Rebound.,40,33,7,8,0.8506033757691669,0.7547681559011926,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,145,2,18:40:00,1120,1120,Myles Carter missed Layup.,40,33,7,1,0.85065070778516,0.7548714276698718,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,146,2,18:36:00,1116,1116,Tahirou Diabate Defensive Rebound.,40,33,7,4,0.850840374850427,0.7552849107843893,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,147,2,18:33:00,1113,1113,JoJo Walker made Layup. Assisted by Isaiah White.,40,35,5,3,0.8053151515105534,0.6912994213498522,4,4,5,NA,NA,Portland,made,JoJo Walker,Isaiah White,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,148,2,18:18:00,1098,1098,Foul on Malcolm Porter.,40,35,5,15,0.8058277229146804,0.6925909722842625,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,149,2,18:02:00,1082,1082,Terrell Brown missed Layup.,40,35,5,16,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,150,2,18:02:00,1082,1082,Myles Carter Offensive Rebound.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,151,2,18:02:00,1082,1082,Myles Carter Turnover.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,152,2,18:02:00,1082,1082,Isaiah White Steal.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,153,2,18:02:00,1082,1082,Foul on Terrell Brown.,40,35,5,0,0.806393500546002,0.6939946937133286,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,154,2,18:02:00,1082,1082,Tahirou Diabate made Free Throw.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,155,2,18:02:00,1082,1082,Tahirou Diabate missed Free Throw.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,Portland,missed,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,156,2,18:02:00,1082,1082,Terrell Brown Defensive Rebound.,40,36,4,0,0.7795372481437208,0.6581564510742942,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,157,2,17:50:00,1070,1070,Riley Grigsby Turnover.,40,36,4,12,0.7798492795624723,0.6590697994652469,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,158,2,17:50:00,1070,1070,Isaiah White Steal.,40,36,4,0,0.7798492795624723,0.6590697994652469,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,159,2,17:48:00,1068,1068,Foul on Morgan Means.,40,36,4,2,0.7799027981766753,0.6592241496838066,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,160,2,17:22:00,1042,1042,Isaiah White missed Three Point Jumper.,40,36,4,26,0.7806457166822013,0.6612975704393407,4,4,5,NA,NA,Portland,missed,Isaiah White,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,161,2,17:18:00,1038,1038,Morgan Means Defensive Rebound.,40,36,4,4,0.780768815103143,0.6616291015842183,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,162,2,17:00:00,1020,1020,Morgan Means made Three Point Jumper. Assisted by Delante Jones.,43,36,7,18,0.8559042300766592,0.7659427469629233,4,4,5,NA,NA,Seattle,made,Morgan Means,Delante Jones,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,163,2,16:24:00,984,984,Foul on Myles Carter.,43,36,7,36,0.8582781928238771,0.7706474238067677,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,164,2,16:24:00,984,984,Tahirou Diabate made Free Throw.,43,37,6,0,0.8358849947429151,0.7386245522542851,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,165,2,16:24:00,984,984,Tahirou Diabate made Free Throw.,43,38,5,0,0.8107337516140343,0.7038487586430906,4,4,5,NA,NA,Portland,made,Tahirou Diabate,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,166,2,16:07:00,967,967,Foul on Tahirou Diabate.,43,38,5,17,0.8117131218182358,0.7058874724740836,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,167,2,16:02:00,962,962,Myles Carter missed Three Point Jumper.,43,38,5,5,0.8119985830087976,0.7064804416311167,4,4,5,NA,NA,Seattle,missed,Myles Carter,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,168,2,15:57:00,957,957,Malcolm Porter Defensive Rebound.,43,38,5,5,0.8122740262040343,0.7070561261535094,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,169,2,15:29:00,929,929,Isaiah White made Three Point Jumper. Assisted by JoJo Walker.,43,41,2,28,0.7184366280429757,0.5885988101055326,4,4,5,NA,NA,Portland,made,Isaiah White,JoJo Walker,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,170,2,15:25:00,925,925,Official TV Timeout,43,41,2,4,0.718447194429497,0.5887831895018086,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,171,2,15:21:00,921,921,Foul on Tahirou Diabate.,43,41,2,4,0.7184568266902012,0.588964884369149,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,172,2,15:08:00,908,908,Delante Jones made Three Point Jumper. Assisted by Mattia Da Campo.,46,41,5,13,0.8145793682157915,0.7120085048744804,4,4,5,NA,NA,Seattle,made,Delante Jones,Mattia Da Campo,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,173,2,14:45:00,885,885,Foul on Mattia Da Campo.,46,41,5,23,0.8155239830469868,0.7140822739813432,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,174,2,14:44:00,884,884,Malcolm Porter made Free Throw.,46,42,4,1,0.7864125145526747,0.6753720389102016,4,4,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,175,2,14:44:00,884,884,Malcolm Porter missed Free Throw.,46,42,4,0,0.7864125145526747,0.6753720389102016,4,4,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,176,2,14:41:00,881,881,Delante Jones Defensive Rebound.,46,42,4,3,0.7865044882223349,0.6756012684887301,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,177,2,14:30:00,870,870,Terrell Brown missed Layup.,46,42,4,11,0.7868439496351083,0.6764431875535574,4,4,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,178,2,14:24:00,864,864,Mattia Da Campo Offensive Rebound.,46,42,4,6,0.7870320049900996,0.6769057356851473,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,179,2,14:17:00,857,857,Foul on Chase Adams.,46,42,4,7,0.7872555022892518,0.6774508816765689,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,180,2,14:02:00,842,842,Delante Jones made Jumper.,48,42,6,15,0.8435967044536401,0.7542409227227244,4,4,5,NA,NA,Seattle,made,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,181,2,13:49:00,829,829,Isaiah White made Layup. Assisted by Malcolm Porter.,48,44,4,13,0.7882213754071331,0.6797372628751808,4,4,5,NA,NA,Portland,made,Isaiah White,Malcolm Porter,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,182,2,13:33:00,813,813,Foul on Terrell Brown.,48,44,4,16,0.7888495354312922,0.681160966921536,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,183,2,13:33:00,813,813,Terrell Brown Turnover.,48,44,4,0,0.7888495354312922,0.681160966921536,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,184,2,13:24:00,804,804,Foul on Mattia Da Campo.,48,44,4,9,0.7892353299651461,0.6820128046631921,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,185,2,13:24:00,804,804,Malcolm Porter made Free Throw.,48,45,3,0,0.7557582446636159,0.6392886426232456,4,4,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,186,2,13:24:00,804,804,Seattle U  Timeout,48,45,3,0,0.7557582446636159,0.6392886426232456,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,187,2,13:24:00,804,804,Official TV Timeout,48,45,3,0,0.7557582446636159,0.6392886426232456,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,188,2,13:24:00,804,804,Malcolm Porter made Free Throw.,48,46,2,0,0.7188579426674663,0.5942393326298346,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,189,2,13:06:00,786,786,Jordan Dallas missed Layup.,48,46,2,18,0.719041681826064,0.595261839649235,4,3,5,NA,NA,Seattle,missed,Jordan Dallas,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,190,2,13:03:00,783,783,Jordan Dallas Offensive Rebound.,48,46,2,3,0.7190780754067969,0.5954433058354573,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,191,2,12:53:00,773,773,Foul on Quincy Ferebee.,48,46,2,10,0.719212496216038,0.5960735551323307,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,192,2,12:53:00,773,773,Terrell Brown made Free Throw.,49,46,3,0,0.7567833356598764,0.6419176231664933,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,193,2,12:53:00,773,773,Terrell Brown made Free Throw.,50,46,4,0,0.790789347412885,0.6853055350377721,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,194,2,12:33:00,753,753,Jacob Tryon made Layup.,50,48,2,20,0.7195477245075803,0.5974636545064567,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,195,2,12:10:00,730,730,Riley Grigsby missed Three Point Jumper.,50,48,2,23,0.7200581677580971,0.5993089282484763,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,196,2,12:03:00,723,723,JoJo Walker Defensive Rebound.,50,48,2,7,0.720225283864722,0.599898541477637,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,197,2,11:57:00,717,717,Foul on Jordan Dallas.,50,48,2,6,0.7203527564415432,0.6003794951684979,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,198,2,11:57:00,717,717,Jacob Tryon missed Free Throw.,50,48,2,0,0.7203527564415432,0.6003794951684979,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,199,2,11:55:00,715,715,Riley Grigsby Defensive Rebound.,50,48,2,2,0.7203922772896543,0.600535229781105,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,200,2,11:48:00,708,708,Foul on Jacob Tryon.,50,48,2,7,0.7205199467527132,0.6010639357433156,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,201,2,11:48:00,708,708,Official TV Timeout,50,48,2,0,0.7205199467527132,0.6010639357433156,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,202,2,11:37:00,697,697,Terrell Brown made Jumper.,52,48,4,11,0.7959343410578019,0.6955851119505065,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,203,2,11:19:00,679,679,Takiula Fahrensohn missed Three Point Jumper.,52,48,4,18,0.7969295896791633,0.6977082640110623,4,3,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,204,2,11:14:00,674,674,Delante Jones Defensive Rebound.,52,48,4,5,0.7971912657153407,0.6982765935382883,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,205,2,11:06:00,666,666,Terrell Brown missed Jumper.,52,48,4,8,0.7976033063199607,0.6991766143992962,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,206,2,11:03:00,663,663,Jacob Tryon Defensive Rebound.,52,48,4,3,0.7977568086125332,0.6995128077532656,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,207,2,11:00:00,660,660,Takiula Fahrensohn missed Three Point Jumper.,52,48,4,3,0.7979102788045919,0.6998490629994716,4,3,5,NA,NA,Portland,missed,Takiula Fahrensohn,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,208,2,10:55:00,655,655,Terrell Brown Defensive Rebound.,52,48,4,5,0.7981668965148726,0.7004109803916463,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,209,2,10:48:00,648,648,Terrell Brown made Layup.,54,48,6,7,0.8585933479369559,0.7823751115510301,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,210,2,10:25:00,625,625,JoJo Walker made Layup.,54,50,4,23,0.7998099379442122,0.7039433548183792,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,211,2,10:11:00,611,611,Foul on Quincy Ferebee.,54,50,4,14,0.8006982209995537,0.7057770740074178,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,212,2,10:11:00,611,611,Terrell Brown made Free Throw.,55,50,5,0,0.8333286779479221,0.7490782138709059,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,213,2,10:11:00,611,611,Terrell Brown made Free Throw.,56,50,6,0,0.8615405735320749,0.787921595025223,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,214,2,09:54:00,594,594,Jacob Tryon made Layup.,56,52,4,17,0.8019445432477749,0.708257210887437,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,215,2,09:41:00,581,581,Terrell Brown missed Layup.,56,52,4,13,0.8030548408626107,0.7103906984680445,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,216,2,09:36:00,576,576,Jacob Tryon Defensive Rebound.,56,52,4,5,0.8035241032356645,0.7112747895582893,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,217,2,09:31:00,571,571,Foul on Riley Grigsby.,56,52,4,5,0.8040189431738333,0.7121973258315173,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,218,2,09:31:00,571,571,JoJo Walker made Free Throw.,56,53,3,0,0.7658608398408291,0.6636404751477653,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,219,2,09:31:00,571,571,JoJo Walker missed Free Throw.,56,53,3,0,0.7658608398408291,0.6636404751477653,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,220,2,09:30:00,570,570,Riley Grigsby Defensive Rebound.,56,53,3,1,0.765935699710933,0.6637951027277268,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,221,2,09:17:00,557,557,Delante Jones missed Jumper.,56,53,3,13,0.766993561353858,0.665934121080501,4,3,5,NA,NA,Seattle,missed,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,222,2,09:12:00,552,552,JoJo Walker Defensive Rebound.,56,53,3,5,0.7674448867180458,0.6668244142873493,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,223,2,09:10:00,550,550,Foul on Terrell Brown.,56,53,3,2,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,224,2,09:10:00,550,550,Malcolm Porter missed Free Throw.,56,53,3,0,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,Portland,missed,Malcolm Porter,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,225,2,09:10:00,550,550,Portland Offensive Rebound.,56,53,3,0,0.7676327498104151,0.6671916735050802,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,226,2,09:10:00,550,550,Malcolm Porter made Free Throw.,56,54,2,0,0.7237531342478201,0.6138853319382451,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,227,2,08:59:00,539,539,Terrell Brown missed Layup.,56,54,2,11,0.7242477988424162,0.6152418979752774,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,228,2,08:59:00,539,539,Isaiah White Block.,56,54,2,0,0.7242477988424162,0.6152418979752774,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,229,2,08:51:00,531,531,Riley Grigsby Offensive Rebound.,56,54,2,8,0.7245380756706052,0.616128962546355,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,230,2,08:41:00,521,521,Delante Jones missed Jumper.,56,54,2,10,0.7248406451571888,0.6171524757059778,4,3,5,NA,NA,Seattle,missed,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,231,2,08:35:00,515,515,Chase Adams Defensive Rebound.,56,54,2,6,0.7249997137246919,0.617735385572759,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,232,2,08:25:00,505,505,Foul on Mattia Da Campo.,56,54,2,10,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,233,2,08:25:00,505,505,Jacob Tryon missed Free Throw.,56,54,2,0,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,234,2,08:25:00,505,505,Portland Offensive Rebound.,56,54,2,0,0.7252447933814007,0.6186806409786187,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,235,2,08:25:00,505,505,Jacob Tryon made Free Throw.,56,55,1,0,0.6745095500456009,0.5602005427814128,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,236,2,08:07:00,487,487,Terrell Brown Turnover.,56,55,1,18,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,237,2,08:07:00,487,487,JoJo Walker Steal.,56,55,1,0,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,238,2,08:07:00,487,487,Foul on Riley Grigsby.,56,55,1,0,0.674202058897179,0.5611015076542238,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,239,2,08:07:00,487,487,JoJo Walker made Free Throw.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,Portland,made,JoJo Walker,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,240,2,08:07:00,487,487,JoJo Walker missed Free Throw.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,241,2,08:07:00,487,487,Riley Grigsby Defensive Rebound.,56,56,0,0,0.6181300606927597,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,242,2,07:52:00,472,472,Terrell Brown missed Jumper.,56,56,0,15,0.6170942631615327,0.5,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,243,2,07:47:00,467,467,Morgan Means Offensive Rebound.,56,56,0,5,0.6167359705827206,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,244,2,07:45:00,465,465,Mattia Da Campo missed Layup.,56,56,0,2,0.6165904520719903,0.5,4,3,5,NA,NA,Seattle,missed,Mattia Da Campo,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,245,2,07:41:00,461,461,Isaiah White Defensive Rebound.,56,56,0,4,0.6162953166678039,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,246,2,07:35:00,455,455,Isaiah White missed Layup.,56,56,0,6,0.6158414816170464,0.5,4,3,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,247,2,07:29:00,449,449,Riley Grigsby Defensive Rebound.,56,56,0,6,0.615372868516739,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,248,2,07:27:00,447,447,Foul on Jacob Tryon.,56,56,0,2,0.6152131036520639,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,249,2,07:26:00,446,446,Official TV Timeout,56,56,0,1,0.6151325202549479,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,250,2,07:26:00,446,446,Terrell Brown missed Free Throw.,56,56,0,0,0.6151325202549479,0.5,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,251,2,07:26:00,446,446,Seattle U Offensive Rebound.,56,56,0,0,0.6151325202549479,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,252,2,07:26:00,446,446,Terrell Brown made Free Throw.,57,56,1,0,0.6737812771293995,0.5637508319401797,4,3,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,253,2,07:06:00,426,426,Jacob Tryon made Jumper.,57,58,-1,20,0.5492447699921373,0.4343655740282014,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,254,2,06:50:00,410,410,Riley Grigsby made Layup.,59,58,1,16,0.6738483174012532,0.5671563827412811,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,255,2,06:31:00,391,391,Chase Adams missed Jumper.,59,58,1,19,0.6736323961177173,0.5688603851729758,4,3,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,FALSE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,256,2,06:23:00,383,383,Jacob Tryon Offensive Rebound.,59,58,1,8,0.6735145535215304,0.5695826149668936,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,257,2,06:21:00,381,381,Jacob Tryon made Layup.,59,60,-1,2,0.5404602819769194,0.43023400007853135,4,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,258,2,06:16:00,376,376,Terrell Brown missed Layup.,59,60,-1,5,0.5394340642115407,0.4297684325833668,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,259,2,06:12:00,372,372,Seattle U Offensive Rebound.,59,60,-1,4,0.5385978513200353,0.4293870452661032,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,260,2,06:08:00,368,368,Morgan Means Turnover.,59,60,-1,4,0.5377463719576789,0.4289960114902492,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,261,2,06:08:00,368,368,Jacob Tryon Steal.,59,60,-1,0,0.5377463719576789,0.4289960114902492,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,262,2,06:02:00,362,362,JoJo Walker missed Layup.,59,60,-1,6,0.5364370497193695,0.4283879337360521,4,3,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,263,2,05:53:00,353,353,Riley Grigsby Defensive Rebound.,59,60,-1,9,0.534390199731729,0.4274168944390119,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,264,2,05:52:00,352,352,Foul on Chase Adams.,59,60,-1,1,0.5341559696865907,0.4273039834426029,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,265,2,05:52:00,352,352,Morgan Means missed Free Throw.,59,60,-1,0,0.5341559696865907,0.4273039834426029,4,3,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,266,2,05:44:00,344,344,Jacob Tryon Defensive Rebound.,59,60,-1,8,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,267,2,05:44:00,344,344,Foul on Chase Adams.,59,60,-1,0,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,268,2,05:44:00,344,344,Chase Adams Turnover.,59,60,-1,0,0.532227768750188,0.4263592889974622,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,269,2,05:41:00,341,341,Terrell Brown missed Layup.,59,60,-1,3,0.5314781315157333,0.4259844410706135,4,3,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,270,2,05:37:00,337,337,Jacob Tryon Defensive Rebound.,59,60,-1,4,0.5304543303889852,0.42546547161686654,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,271,2,05:12:00,312,312,Foul on JoJo Walker.,59,60,-1,25,0.5233301364832058,0.42163187073858993,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,272,2,05:12:00,312,312,JoJo Walker Turnover.,59,60,-1,0,0.5233301364832058,0.42163187073858993,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,273,2,05:01:00,301,301,Foul on JoJo Walker.,59,60,-1,11,0.5202612447974658,0.4200544359516193,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,274,2,04:59:00,299,299,Riley Grigsby made Free Throw.,60,60,0,2,0.5993093555208661,0.5,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,275,2,04:59:00,299,299,Riley Grigsby missed Free Throw.,60,60,0,0,0.5993093555208661,0.5,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,276,2,04:59:00,299,299,Malcolm Porter Defensive Rebound.,60,60,0,0,0.5993093555208661,0.5,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,277,2,04:50:00,290,290,Malcolm Porter made Jumper.,60,62,-2,9,0.4373924355221039,0.34307283018169726,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,278,2,04:49:00,289,289,Foul on Delante Jones.,60,62,-2,1,0.4372471062990092,0.34305737082797505,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,279,2,04:49:00,289,289,Malcolm Porter made Free Throw.,60,63,-3,0,0.3595790565113257,0.27397481945982105,4,3,5,NA,NA,Portland,made,Malcolm Porter,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,280,2,04:30:00,270,270,Delante Jones made Layup.,62,63,-1,19,0.5163802291961649,0.42022041822267986,4,3,5,NA,NA,Seattle,made,Delante Jones,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,281,2,04:07:00,247,247,Isaiah White Turnover.,62,63,-1,23,0.5149080786476774,0.4218015538150831,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,282,2,04:07:00,247,247,Riley Grigsby Steal.,62,63,-1,0,0.5149080786476774,0.4218015538150831,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,283,2,04:04:00,244,244,Official TV Timeout,62,63,-1,3,0.5146271311274916,0.4219335816934647,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,284,2,04:00:00,240,240,Delante Jones made Three Point Jumper. Assisted by Morgan Means.,65,63,2,4,0.7310260661747728,0.6521978153087602,4,3,5,NA,NA,Seattle,made,Delante Jones,Morgan Means,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,285,2,03:43:00,223,223,Jacob Tryon missed Three Point Jumper.,65,63,2,17,0.7299767710097469,0.6532352482125773,4,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,286,2,03:37:00,217,217,Delante Jones Defensive Rebound.,65,63,2,6,0.7304599552727544,0.6546190085732626,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,287,2,03:24:00,204,204,Riley Grigsby missed Three Point Jumper.,65,63,2,13,0.7335463625004429,0.660029979777004,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,TRUE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,288,2,03:20:00,200,200,Seattle U Offensive Rebound.,65,63,2,4,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,289,2,03:20:00,200,200,Foul on Morgan Means.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,290,2,03:20:00,200,200,Chase Adams missed Free Throw.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,Portland,missed,Chase Adams,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,291,2,03:20:00,200,200,Portland Offensive Rebound.,65,63,2,0,0.7351416496018754,0.6624573378400163,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,292,2,03:20:00,200,200,Chase Adams made Free Throw.,65,64,1,0,0.6645720051551105,0.5834937142085947,4,3,5,NA,NA,Portland,made,Chase Adams,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,294,2,03:00:00,180,180,Seattle U Offensive Rebound.,65,63,2,6,0.7472642801701138,0.6795076201741087,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,296,2,02:50:00,170,170,Riley Grigsby missed Free Throw.,65,64,1,0,0.673173624558603,0.5980353941640385,4,3,5,NA,NA,Seattle,missed,Riley Grigsby,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,297,2,02:50:00,170,170,Seattle U Offensive Rebound.,65,64,1,0,0.673173624558603,0.5980353941640385,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,298,2,02:50:00,170,170,Riley Grigsby made Free Throw.,66,64,2,0,0.7539627682244829,0.6888121408271827,4,3,5,NA,NA,Seattle,made,Riley Grigsby,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,299,2,02:27:00,147,147,Malcolm Porter missed Three Point Jumper.,66,64,2,23,0.7705496614397964,0.7116585941809387,4,3,5,NA,NA,Portland,missed,Malcolm Porter,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,300,2,02:21:00,141,141,Morgan Means Defensive Rebound.,66,64,2,6,0.7753094853347433,0.7181383098238071,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,301,2,02:19:00,139,139,Myles Carter made Dunk. Assisted by Morgan Means.,68,64,4,2,0.899727043755045,0.8690375103274751,4,3,5,NA,NA,Seattle,made,Myles Carter,Morgan Means,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,302,2,02:08:00,128,128,Portland  Timeout,68,64,4,11,0.9100521842370732,0.8830200375071333,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,303,2,01:53:00,113,113,Isaiah White missed Layup.,68,64,4,15,0.9243479304856802,0.9022455466655568,3,3,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,304,2,01:46:00,106,106,Terrell Brown Defensive Rebound.,68,64,4,7,0.9310235131994176,0.9111675095948524,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,305,2,01:45:00,105,105,Morgan Means missed Three Point Jumper.,68,64,4,1,0.9319732895930296,0.9124339221157064,3,3,5,NA,NA,Seattle,missed,Morgan Means,NA,TRUE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,306,2,01:41:00,101,101,Jacob Tryon Defensive Rebound.,68,64,4,4,0.9357563577788864,0.9174706833725847,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,307,2,01:41:00,101,101,Foul on Riley Grigsby.,68,64,4,0,0.9357563577788864,0.9174706833725847,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,308,2,01:41:00,101,101,Jacob Tryon missed Free Throw.,68,64,4,0,0.9357563577788864,0.9174706833725847,3,3,5,NA,NA,Portland,missed,Jacob Tryon,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,309,2,01:41:00,101,101,Portland Offensive Rebound.,68,64,4,0,0.9357563577788864,0.9174706833725847,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,310,2,01:41:00,101,101,Jacob Tryon made Free Throw.,68,65,3,0,0.8886035390517372,0.858920194103822,3,3,5,NA,NA,Portland,made,Jacob Tryon,NA,FALSE,TRUE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,311,2,01:22:00,82,82,Morgan Means made Jumper. Assisted by Riley Grigsby.,70,65,5,19,0.9755145050147632,0.968679305921426,3,3,5,NA,NA,Seattle,made,Morgan Means,Riley Grigsby,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,312,2,01:22:00,82,82,Seattle U  Timeout,70,65,5,0,0.9755145050147632,0.968679305921426,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,313,2,01:15:00,75,75,JoJo Walker missed Three Point Jumper.,70,65,5,7,0.9790620548979536,0.9733571352738244,3,2,5,NA,NA,Portland,missed,JoJo Walker,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,314,2,01:09:00,69,69,Myles Carter Defensive Rebound.,70,65,5,6,0.9818345681197848,0.9769936625831472,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,315,2,00:48:00,48,48,Terrell Brown missed Layup.,70,65,5,21,0.9893958156780724,0.9868080280146234,3,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,FALSE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,316,2,00:48:00,48,48,Isaiah White Block.,70,65,5,0,0.9893958156780724,0.9868080280146234,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,317,2,00:47:00,47,47,Seattle U Offensive Rebound.,70,65,5,1,0.9896821279879222,0.98717580403219,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,318,2,00:44:00,44,44,Morgan Means missed Jumper.,70,65,5,3,0.9905063356475164,0.9882324895102232,3,2,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,FALSE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,319,2,00:40:00,40,40,Jacob Tryon Defensive Rebound.,70,65,5,4,0.991525691934616,0.9895349281097368,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,320,2,00:36:00,36,36,Jacob Tryon missed Three Point Jumper.,70,65,5,4,0.9924560968963956,0.9907190582980734,3,2,5,NA,NA,Portland,missed,Jacob Tryon,NA,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,321,2,00:30:00,30,30,Morgan Means Defensive Rebound.,70,65,5,6,0.9936923019095254,0.9922846961612825,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,322,2,00:28:00,28,28,Foul on Chase Adams.,70,65,5,2,0.99406397649774,0.9927535175249016,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,323,2,00:28:00,28,28,Morgan Means made Free Throw.,71,65,6,0,0.9977727443228442,0.99727880563173,3,2,5,NA,NA,Seattle,made,Morgan Means,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,324,2,00:28:00,28,28,Morgan Means missed Free Throw.,71,65,6,0,0.9977727443228442,0.99727880563173,3,2,5,NA,NA,Seattle,missed,Morgan Means,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,325,2,00:27:00,27,27,Quincy Ferebee Defensive Rebound.,71,65,6,1,0.997853645570052,0.9973802969153208,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,326,2,00:22:00,22,22,Isaiah White made Dunk.,71,67,4,5,0.986405117443641,0.98353299471110045,3,2,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,327,2,00:19:00,19,19,Foul on JoJo Walker.,71,67,4,3,0.9873856356092248,0.9847646583833194,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,328,2,00:19:00,19,19,Terrell Brown made Free Throw.,72,67,5,0,0.9955145490225508,0.9945732917863148,3,2,5,NA,NA,Seattle,made,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,329,2,00:19:00,19,19,Terrell Brown missed Free Throw.,72,67,5,0,0.9955145490225508,0.9945732917863148,3,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,330,2,00:18:00,18,18,Jacob Tryon Defensive Rebound.,72,67,5,1,0.9956567980945186,0.9947507371379144,3,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,331,2,00:15:00,15,15,Quincy Ferebee made Three Point Jumper. Assisted by Jacob Tryon.,72,70,2,3,0.9109790879219734,0.8945836042239772,3,2,5,NA,NA,Portland,made,Quincy Ferebee,Jacob Tryon,TRUE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,332,2,00:14:00,14,14,Portland  Timeout,72,70,2,1,0.9120016146347396,0.8958722919593005,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,333,2,00:13:00,13,13,Foul on Quincy Ferebee.,72,70,2,1,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,334,2,00:13:00,13,13,Terrell Brown missed Free Throw.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Seattle,Seattle
+401175222,2019-12-07,Seattle,Portland,335,2,00:13:00,13,13,Seattle U Offensive Rebound.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,336,2,00:13:00,13,13,Terrell Brown missed Free Throw.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,Seattle,missed,Terrell Brown,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,337,2,00:13:00,13,13,Foul on Myles Carter.,72,70,2,0,0.9130200596660828,0.8971548885029107,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,338,2,00:13:00,13,13,Isaiah White made Free Throw.,72,71,1,0,0.7804135748837046,0.7470617047139647,2,2,5,NA,NA,Portland,made,Isaiah White,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,339,2,00:13:00,13,13,Isaiah White missed Free Throw.,72,71,1,0,0.7804135748837046,0.7470617047139647,2,2,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,TRUE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,340,2,00:12:00,12,12,Myles Carter Defensive Rebound.,72,71,1,1,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,341,2,00:12:00,12,12,Foul on Isaiah White.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,342,2,00:12:00,12,12,Myles Carter missed Free Throw.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,Seattle,missed,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,343,2,00:12:00,12,12,Seattle U Offensive Rebound.,72,71,1,0,0.7814200886140147,0.7483733622652451,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,344,2,00:12:00,12,12,Myles Carter made Free Throw.,73,71,2,0,0.9140340725711792,0.8984309706555195,2,2,5,NA,NA,Seattle,made,Myles Carter,NA,FALSE,TRUE,Seattle,Portland
+401175222,2019-12-07,Seattle,Portland,345,2,00:07:00,7,7,Seattle U Offensive Rebound.,72,70,2,5,0.9190262076819354,0.9046998900167958,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,346,2,00:06:00,6,6,JoJo Walker missed Layup.,73,71,2,1,0.9200069218611916,0.9059288265680564,2,2,5,NA,NA,Portland,missed,JoJo Walker,NA,FALSE,FALSE,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,347,2,00:06:00,6,6,Myles Carter Block.,73,71,2,0,0.9200069218611916,0.9059288265680564,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,348,2,00:03:00,3,3,Portland Offensive Rebound.,73,71,2,3,0.9229086852162708,0.9095600412345216,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Portland
+401175222,2019-12-07,Seattle,Portland,349,2,00:02:00,2,2,Isaiah White missed Jumper.,73,71,2,1,0.9238616564969702,0.910750940927652,2,2,5,NA,NA,Portland,missed,Isaiah White,NA,FALSE,FALSE,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,350,2,00:00:00,0,0,Delante Jones Defensive Rebound.,73,71,2,2,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Portland,Seattle
+401175222,2019-12-07,Seattle,Portland,351,2,00:00:00,0,0,End of 2nd half,73,71,2,0,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA
+401175222,2019-12-07,Seattle,Portland,352,2,00:00:00,0,0,End of Game,73,71,2,0,1,1,2,2,5,NA,NA,NA,NA,NA,NA,NA,NA,Seattle,NA

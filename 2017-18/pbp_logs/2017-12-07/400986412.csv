@@ -1,339 +1,339 @@
 game_id,date,home,away,play_id,half,time_remaining_half,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,naive_win_prob,home_time_out_remaining,away_time_out_remaining,home_favored_by,shot_x,shot_y,shot_team,shot_outcome,shooter,assist,three_pt,free_throw,possession_before,possession_after
-400986412,2017-12-07,Purdue,Valparaiso,1,1,20:00,2400,2400,PLAY,0,0,0,0,0.9791706840747533,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,2,1,19:50,2390,2390,Dakota Mathias missed Jumper.,0,0,0,10,0.9790921750782609,0.5,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,3,1,19:50,2390,2390,Jaume Sorolla Defensive Rebound.,0,0,0,0,0.9790921750782609,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,4,1,19:38,2378,2378,Tevonn Walker made Jumper.,0,2,-2,12,0.9749960055870562,0.4555097359296437,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,5,1,19:23,2363,2363,Foul on Jaume Sorolla.,0,2,-2,15,0.974819234203988,0.45518936608070915,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,6,1,19:22,2362,2362,Carsen Edwards missed Jumper.,0,2,-2,1,0.9748073018689163,0.4551678976921304,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,7,1,19:22,2362,2362,Bakari Evelyn Defensive Rebound.,0,2,-2,0,0.9748073018689163,0.4551678976921304,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,8,1,18:58,2338,2338,Parker Hazen Turnover.,0,2,-2,24,0.9745152658422198,0.4546487271837898,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,9,1,18:43,2323,2323,Carsen Edwards missed Jumper.,0,2,-2,15,0.9743270990056869,0.45432062009867336,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,10,1,18:43,2323,2323,Jaume Sorolla Defensive Rebound.,0,2,-2,0,0.9743270990056869,0.45432062009867336,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,11,1,18:32,2312,2312,Bakari Evelyn Turnover.,0,2,-2,11,0.974186271834878,0.454078361268111,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,12,1,18:12,2292,2292,Vincent Edwards missed Jumper.,0,2,-2,20,0.973923907671757,0.45363457052289796,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,13,1,18:12,2292,2292,Tevonn Walker Defensive Rebound.,0,2,-2,0,0.973923907671757,0.45363457052289796,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,14,1,17:54,2274,2274,Bakari Evelyn Turnover.,0,2,-2,18,0.9736806170668894,0.4532317899002051,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,15,1,17:44,2264,2264,Dakota Mathias missed Three Point Jumper.,0,2,-2,10,0.9735424425635639,0.45300676159973796,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,16,1,17:44,2264,2264,Jaume Sorolla Defensive Rebound.,0,2,-2,0,0.9735424425635639,0.45300676159973796,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,17,1,17:34,2254,2254,Tevonn Walker Turnover.,0,2,-2,10,0.9734020688748661,0.45278089897456814,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,18,1,17:33,2253,2253,Dakota Mathias Steal.,0,2,-2,1,0.9733879090957172,0.45275826884777715,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,19,1,17:29,2249,2249,Vincent Edwards made Dunk. Assisted by Carsen Edwards.,2,2,0,4,0.9778414052276995,0.5,4,4,24,NA,NA,Purdue,made,Vincent Edwards,Carsen Edwards,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,20,1,17:11,2231,2231,Tevonn Walker missed Jumper.,2,2,0,18,0.9776601391933445,0.5,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,21,1,17:11,2231,2231,Joe Burton Offensive Rebound.,2,2,0,0,0.9776601391933445,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,22,1,17:06,2226,2226,Joe Burton made Layup.,2,4,-2,5,0.9729969969989691,0.45214449232456844,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,23,1,16:47,2207,2207,Isaac Haas missed Jumper.,2,4,-2,19,0.9727116985858236,0.451709740701574,4,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,24,1,16:47,2207,2207,Bakari Evelyn Defensive Rebound.,2,4,-2,0,0.9727116985858236,0.451709740701574,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,25,1,16:36,2196,2196,Parker Hazen missed Three Point Jumper.,2,4,-2,11,0.9725425418982926,0.4514571366167739,4,4,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,26,1,16:36,2196,2196,Isaac Haas Defensive Rebound.,2,4,-2,0,0.9725425418982926,0.4514571366167739,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,27,1,16:27,2187,2187,P.J. Thompson made Jumper.,4,4,0,9,0.9771936158099823,0.5,4,4,24,NA,NA,Purdue,made,P.J. Thompson,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,28,1,16:01,2161,2161,Joe Burton missed Jumper.,4,4,0,26,0.9769014370378374,0.5,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,29,1,16:01,2161,2161,P.J. Thompson Defensive Rebound.,4,4,0,0,0.9769014370378374,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,30,1,15:51,2151,2151,P.J. Thompson Turnover.,4,4,0,10,0.97678574717267,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,31,1,15:51,2151,2151,Official TV Timeout,4,4,0,0,0.97678574717267,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,32,1,15:25,2125,2125,Joe Burton made Jumper.,4,6,-2,26,0.9713771199816083,0.4498106956225497,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,33,1,15:10,2110,2110,Foul on Mileek McMillan.,4,6,-2,15,0.9711141873915298,0.44945785201816096,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,34,1,15:09,2109,2109,Dakota Mathias Turnover.,4,6,-2,1,0.9710964461450231,0.4494342565459519,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,35,1,14:56,2096,2096,Derrik Smits missed Jumper.,4,6,-2,13,0.9708633724742283,0.44912666046002553,4,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,36,1,14:56,2096,2096,Ryan Cline Defensive Rebound.,4,6,-2,0,0.9708633724742283,0.44912666046002553,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,37,1,14:47,2087,2087,Carsen Edwards made Layup. Assisted by Ryan Cline.,6,6,0,9,0.9760014682484315,0.5,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Ryan Cline,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,38,1,14:26,2066,2066,Joe Burton Turnover.,6,6,0,21,0.9757273048938359,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,39,1,14:09,2049,2049,Vincent Edwards missed Three Point Jumper.,6,6,0,17,0.9754991582542024,0.5,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,40,1,14:09,2049,2049,Max Joseph Defensive Rebound.,6,6,0,0,0.9754991582542024,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,41,1,13:58,2038,2038,Max Joseph missed Jumper.,6,6,0,11,0.97534854782547,0.5,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,42,1,13:58,2038,2038,Isaac Haas Block.,6,6,0,0,0.97534854782547,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,43,1,13:56,2036,2036,Vincent Edwards Defensive Rebound.,6,6,0,2,0.975320910578141,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,44,1,13:53,2033,2033,Carsen Edwards made Layup. Assisted by Vincent Edwards.,8,6,2,3,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Vincent Edwards,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,45,1,13:53,2033,2033,Foul on Bakari Evelyn.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,46,1,13:53,2033,2033,Carsen Edwards missed Free Throw.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,47,1,13:53,2033,2033,Valparaiso Defensive Rebound.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,48,1,13:30,2010,2010,Derrik Smits made Layup.,8,8,0,23,0.974954473575353,0.5,4,4,24,NA,NA,Valparaiso,made,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,49,1,13:12,1992,1992,Carsen Edwards missed Three Point Jumper.,8,8,0,18,0.9746929346545716,0.5,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,50,1,13:12,1992,1992,Mileek McMillan Defensive Rebound.,8,8,0,0,0.9746929346545716,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,51,1,12:48,1968,1968,Derrik Smits Turnover.,8,8,0,24,0.9743340886295779,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,52,1,12:47,1967,1967,Vincent Edwards Steal.,8,8,0,1,0.9743188833941349,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,53,1,12:45,1965,1965,Foul on Mileek McMillan.,8,8,0,2,0.9742884118012108,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,54,1,12:36,1956,1956,Vincent Edwards Turnover.,8,8,0,9,0.9741502787122411,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,55,1,12:34,1954,1954,Tevonn Walker Steal.,8,8,0,2,0.9741193572400212,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,56,1,12:30,1950,1950,Tevonn Walker missed Layup.,8,8,0,4,0.9740572678558644,0.5,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,57,1,12:30,1950,1950,Matt Haarms Block.,8,8,0,0,0.9740572678558644,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,58,1,12:29,1949,1949,Ryan Cline Defensive Rebound.,8,8,0,1,0.9740416940966302,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,59,1,12:13,1933,1933,Foul on Derrik Smits.,8,8,0,16,0.9737897053366489,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,60,1,12:13,1933,1933,Matt Haarms made Free Throw.,9,8,1,0,0.976460945850956,0.5275298105195108,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,61,1,12:13,1933,1933,Matt Haarms made Free Throw.,10,8,2,0,0.9788658534704783,0.5548932088801155,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,62,1,11:44,1904,1904,Marten Linssen missed Jumper.,10,8,2,29,0.9785465382155819,0.5556397560516335,4,4,24,NA,NA,Valparaiso,missed,Marten Linssen,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,63,1,11:44,1904,1904,Matt Haarms Block.,10,8,2,0,0.9785465382155819,0.5556397560516335,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,64,1,11:42,1902,1902,Vincent Edwards Defensive Rebound.,10,8,2,2,0.9785239128306847,0.555691160002145,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,65,1,11:31,1891,1891,Vincent Edwards missed Three Point Jumper.,10,8,2,11,0.9783981004064678,0.5559738315376455,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,66,1,11:31,1891,1891,Tevonn Walker Defensive Rebound.,10,8,2,0,0.9783981004064678,0.5559738315376455,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,67,1,11:04,1864,1864,Tevonn Walker missed Three Point Jumper.,10,8,2,27,0.9780796105394128,0.5566683529347572,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,68,1,11:04,1864,1864,Nojel Eastern Defensive Rebound.,10,8,2,0,0.9780796105394128,0.5566683529347572,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,69,1,10:56,1856,1856,Ryan Cline made Three Point Jumper. Assisted by Nojel Eastern.,13,8,5,8,0.9842709634703324,0.6390443505328853,4,4,24,NA,NA,Purdue,made,Ryan Cline,Nojel Eastern,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,70,1,10:27,1827,1827,Foul on Matt Haarms.,13,8,5,29,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,71,1,10:27,1827,1827,Official TV Timeout,13,8,5,0,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,72,1,10:27,1827,1827,Max Joseph missed Free Throw.,13,8,5,0,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,73,1,10:27,1827,1827,Valparaiso Deadball Team Rebound.,13,8,5,0,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,74,1,10:27,1827,1827,Max Joseph missed Free Throw.,13,8,5,0,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,75,1,10:27,1827,1827,Matt Haarms Defensive Rebound.,13,8,5,0,0.9840830768612717,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,76,1,10:09,1809,1809,Carsen Edwards Turnover.,13,8,5,18,0.9839625860722424,0.6418964578402759,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,77,1,10:00,1800,1800,Foul on Nojel Eastern.,13,8,5,9,0.9839013240037091,0.6424482088636343,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,78,1,9:41,1781,1781,Jaume Sorolla missed Layup.,13,8,5,19,0.9837699441491898,0.6436212564494589,4,4,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,79,1,9:41,1781,1781,Joe Burton Offensive Rebound.,13,8,5,0,0.9837699441491898,0.6436212564494589,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,80,1,9:37,1777,1777,Joe Burton missed Jumper.,13,8,5,4,0.9837419526805391,0.6438698092440153,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,81,1,9:37,1777,1777,Matt Haarms Defensive Rebound.,13,8,5,0,0.9837419526805391,0.6438698092440153,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,82,1,9:27,1767,1767,Carsen Edwards made Jumper.,15,8,7,10,0.9870847775185432,0.6969660892388202,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,83,1,9:03,1743,1743,Joe Burton made Jumper.,15,10,5,24,0.9834999152885636,0.6460091523158173,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,84,1,8:47,1727,1727,Ryan Cline missed Layup.,15,10,5,16,0.9833838100124088,0.6470348699007926,4,4,24,NA,NA,Purdue,missed,Ryan Cline,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,85,1,8:47,1727,1727,Micah Bradford Defensive Rebound.,15,10,5,0,0.9833838100124088,0.6470348699007926,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,86,1,8:40,1720,1720,Bakari Evelyn missed Three Point Jumper.,15,10,5,7,0.9833326442451892,0.647487960188666,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,87,1,8:40,1720,1720,Valparaiso Offensive Rebound.,15,10,5,0,0.9833326442451892,0.647487960188666,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,88,1,8:22,1702,1702,Joe Burton missed Three Point Jumper.,15,10,5,18,0.9832001958461134,0.6486662172130523,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,89,1,8:22,1702,1702,Carsen Edwards Defensive Rebound.,15,10,5,0,0.9832001958461134,0.6486662172130523,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,90,1,8:14,1694,1694,Carsen Edwards missed Three Point Jumper.,15,10,5,8,0.9831409820453235,0.6491963584629329,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,91,1,8:14,1694,1694,John Kiser Defensive Rebound.,15,10,5,0,0.9831409820453235,0.6491963584629329,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,92,1,8:03,1683,1683,Jaume Sorolla made Jumper. Assisted by Micah Bradford.,15,12,3,11,0.9784040697996229,0.5917569250889474,4,4,24,NA,NA,Valparaiso,made,Jaume Sorolla,Micah Bradford,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,93,1,7:47,1667,1667,Dakota Mathias missed Three Point Jumper.,15,12,3,16,0.9782049998063835,0.5924221024725164,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,94,1,7:47,1667,1667,Bakari Evelyn Defensive Rebound.,15,12,3,0,0.9782049998063835,0.5924221024725164,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,95,1,7:37,1657,1657,Bakari Evelyn Turnover.,15,12,3,10,0.9780759913335798,0.5928308259805862,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,96,1,7:36,1656,1656,Vincent Edwards Steal.,15,12,3,1,0.978062904286231,0.5928714414043756,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,97,1,7:33,1653,1653,Carsen Edwards made Layup. Assisted by Dakota Mathias.,17,12,5,3,0.9828162664019884,0.6518665295980064,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Dakota Mathias,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,98,1,7:04,1624,1624,Jaume Sorolla missed Layup.,17,12,5,29,0.9825601225583763,0.6536822099297468,4,4,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,99,1,7:04,1624,1624,Isaac Haas Block.,17,12,5,0,0.9825601225583763,0.6536822099297468,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,100,1,7:01,1621,1621,Vincent Edwards Defensive Rebound.,17,12,5,3,0.9825325685436606,0.6538680142991715,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,101,1,6:57,1617,1617,Foul on Micah Bradford.,17,12,5,4,0.9824955519937607,0.654115373817457,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,102,1,6:56,1616,1616,Official TV Timeout,17,12,5,1,0.9824862494600567,0.65417715424629,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,103,1,6:48,1608,1608,Isaac Haas made Jumper.,19,12,7,8,0.986327460434766,0.7100213407409072,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,104,1,6:27,1587,1587,Tevonn Walker missed Three Point Jumper.,19,12,7,21,0.9862008760459842,0.7116696839730141,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,105,1,6:27,1587,1587,Dakota Mathias Defensive Rebound.,19,12,7,0,0.9862008760459842,0.7116696839730141,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,106,1,6:17,1577,1577,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,22,12,10,10,0.9905625807856234,0.7851949446396241,4,4,24,NA,NA,Purdue,made,P.J. Thompson,Dakota Mathias,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,107,1,6:13,1573,1573,Valparaiso  Timeout,22,12,10,4,0.9905517362422589,0.7855654540971436,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,108,1,5:45,1545,1545,Max Joseph made Jumper.,22,14,8,28,0.9876481990145454,0.7410013210963087,3,4,24,NA,NA,Valparaiso,made,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,109,1,5:27,1527,1527,Vincent Edwards made Layup. Assisted by Isaac Haas.,24,14,10,18,0.990427390945473,0.7898857614740378,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Isaac Haas,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,110,1,5:05,1505,1505,Max Joseph missed Three Point Jumper.,24,14,10,22,0.9903711989533112,0.7920218543272971,3,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,111,1,5:05,1505,1505,Vincent Edwards Defensive Rebound.,24,14,10,0,0.9903711989533112,0.7920218543272971,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,112,1,4:42,1482,1482,Foul on John Kiser.,24,14,10,23,0.9903174424058059,0.7943296767205635,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,113,1,4:42,1482,1482,Isaac Haas made Free Throw.,25,14,11,0,0.9915308664128608,0.8155292655043874,3,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,114,1,4:42,1482,1482,Isaac Haas made Free Throw.,26,14,12,0,0.9925933607031144,0.8349976073621482,3,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,115,1,4:30,1470,1470,Derrik Smits Turnover.,26,14,12,12,0.9925851644095303,0.8362522442417427,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,116,1,4:18,1458,1458,Vincent Edwards made Layup. Assisted by Isaac Haas.,28,14,14,12,0.99434381268383365,0.8713919955244998,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Isaac Haas,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,117,1,3:57,1437,1437,Derrik Smits missed Jumper.,28,14,14,21,0.9943534062284185,0.8735700887233905,3,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,118,1,3:57,1437,1437,Derrik Smits Offensive Rebound.,28,14,14,0,0.9943534062284185,0.8735700887233905,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,119,1,3:55,1435,1435,Derrik Smits Turnover.,28,14,14,2,0.9943540520524449,0.8737722832733009,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,120,1,3:53,1433,1433,Nojel Eastern Steal.,28,14,14,2,0.994354640168003,0.8739734100947804,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,121,1,3:41,1421,1421,Nojel Eastern missed Layup.,28,14,14,12,0.9943570389909228,0.8751592900825635,3,4,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,122,1,3:41,1421,1421,John Kiser Defensive Rebound.,28,14,14,0,0.9943570389909228,0.8751592900825635,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,123,1,3:10,1390,1390,Valparaiso  Turnover.,28,14,14,31,0.9943560892425003,0.8780904853760357,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,124,1,3:10,1390,1390,Official TV Timeout,28,14,14,0,0.9943560892425003,0.8780904853760357,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,125,1,2:55,1375,1375,Vincent Edwards missed Jumper.,28,14,14,15,0.9943531376809612,0.8794617166202688,3,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,126,1,2:55,1375,1375,Matt Haarms Offensive Rebound.,28,14,14,0,0.9943531376809612,0.8794617166202688,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,127,1,2:52,1372,1372,Vincent Edwards made Jumper. Assisted by Matt Haarms.,30,14,16,3,0.9957439116004142,0.9067162055557535,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Matt Haarms,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,128,1,2:19,1339,1339,Joe Burton missed Three Point Jumper.,30,14,16,33,0.995754685631674,0.9094228188167985,3,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,129,1,2:19,1339,1339,Purdue Deadball Team Rebound.,30,14,16,0,0.995754685631674,0.9094228188167985,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,130,1,2:03,1323,1323,Vincent Edwards made Three Point Jumper. Assisted by Ryan Cline.,33,14,19,16,0.997253258721892,0.9403711058138534,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Ryan Cline,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,131,1,1:36,1296,1296,Mileek McMillan made Jumper.,33,16,17,27,0.9963493003594429,0.9239684251024592,3,4,24,NA,NA,Valparaiso,made,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,132,1,1:17,1277,1277,Vincent Edwards missed Three Point Jumper.,33,16,17,19,0.996365438132608,0.9254966851997863,3,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,133,1,1:17,1277,1277,Nojel Eastern Offensive Rebound.,33,16,17,0,0.996365438132608,0.9254966851997863,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,134,1,1:13,1273,1273,Foul on Markus Golder.,33,16,17,4,0.9963693073337803,0.9258240868245236,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,135,1,1:13,1273,1273,Matt Haarms missed Free Throw.,33,16,17,0,0.9963693073337803,0.9258240868245236,3,4,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,136,1,1:13,1273,1273,Jaume Sorolla Defensive Rebound.,33,16,17,0,0.9963693073337803,0.9258240868245236,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,137,1,0:53,1253,1253,Foul on Mileek McMillan.,33,16,17,20,0.9963915585124703,0.9274964992570404,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,138,1,0:53,1253,1253,Mileek McMillan Turnover.,33,16,17,0,0.9963915585124703,0.9274964992570404,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,139,1,0:45,1245,1245,Ryan Cline made Three Point Jumper.,36,16,20,8,0.9977064821678575,0.9530565341618231,3,4,24,NA,NA,Purdue,made,Ryan Cline,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,140,1,0:31,1231,1231,Markus Golder missed Layup.,36,16,20,14,0.9977270578755782,0.9540269162841648,3,4,24,NA,NA,Valparaiso,missed,Markus Golder,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,141,1,0:31,1231,1231,Carsen Edwards Defensive Rebound.,36,16,20,0,0.9977270578755782,0.9540269162841648,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,142,1,0:05,1205,1205,Isaac Haas missed Jumper.,36,16,20,26,0.997771259844402,0.9558966267940495,3,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,143,1,0:05,1205,1205,Bakari Evelyn Defensive Rebound.,36,16,20,0,0.997771259844402,0.9558966267940495,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,144,1,0:00,1200,1200,End of 1st half,36,16,20,5,0.9977800042757087,0.9562530359229152,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,NA
-400986412,2017-12-07,Purdue,Valparaiso,145,2,20:00,1200,1200,PLAY,36,16,20,0,0.9977800042757087,0.9562530359229152,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,146,2,19:31,1171,1171,Tevonn Walker missed Jumper.,36,16,20,29,0.9978273855302318,0.958208943619543,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,147,2,19:31,1171,1171,Purdue Defensive Rebound.,36,16,20,0,0.9978273855302318,0.958208943619543,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,148,2,19:07,1147,1147,Carsen Edwards missed Three Point Jumper.,36,16,20,24,0.9978637151279667,0.9597182654298647,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,149,2,19:07,1147,1147,Joe Burton Defensive Rebound.,36,16,20,0,0.9978637151279667,0.9597182654298647,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,150,2,19:00,1140,1140,Joe Burton made Jumper.,36,18,18,7,0.997079943222756,0.9460205565370954,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,151,2,18:59,1139,1139,Foul on Dakota Mathias.,36,18,18,1,0.997081503300567,0.9460933789271149,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,152,2,18:59,1139,1139,Joe Burton missed Free Throw.,36,18,18,0,0.997081503300567,0.9460933789271149,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,153,2,18:59,1139,1139,Carsen Edwards Defensive Rebound.,36,18,18,0,0.997081503300567,0.9460933789271149,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,154,2,18:39,1119,1119,Foul on Parker Hazen.,36,18,18,20,0.9971127326353907,0.9475335094897057,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,155,2,18:39,1119,1119,P.J. Thompson missed Three Point Jumper.,36,18,18,0,0.9971127326353907,0.9475335094897057,4,4,24,NA,NA,Purdue,missed,P.J. Thompson,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,156,2,18:39,1119,1119,Parker Hazen Defensive Rebound.,36,18,18,0,0.9971127326353907,0.9475335094897057,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,157,2,18:28,1108,1108,Tevonn Walker missed Jumper.,36,18,18,11,0.9971301518512838,0.9483168022489761,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,158,2,18:28,1108,1108,Isaac Haas Defensive Rebound.,36,18,18,0,0.9971301518512838,0.9483168022489761,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,159,2,18:03,1083,1083,Dakota Mathias made Three Point Jumper. Assisted by Vincent Edwards.,39,18,21,25,0.9982670506470116,0.9688551163118315,4,4,24,NA,NA,Purdue,made,Dakota Mathias,Vincent Edwards,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,160,2,17:52,1072,1072,Bakari Evelyn missed Jumper.,39,18,21,11,0.9982836039872359,0.9694378865055195,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,161,2,17:52,1072,1072,Purdue Defensive Rebound.,39,18,21,0,0.9982836039872359,0.9694378865055195,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,162,2,17:36,1056,1056,Foul on Parker Hazen.,39,18,21,16,0.9983086982009166,0.9702911007667437,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,163,2,17:28,1048,1048,Foul on Jaume Sorolla.,39,18,21,8,0.9983217755844372,0.9707215050908317,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,164,2,17:28,1048,1048,Isaac Haas made Free Throw.,40,18,22,0,0.9985791277664677,0.975105760081805,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,165,2,17:28,1048,1048,Isaac Haas made Free Throw.,41,18,23,0,0.9987970630860301,0.9788478082977728,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,166,2,17:23,1043,1043,Foul on Bakari Evelyn.,41,18,23,5,0.9988041566790148,0.9790636240272195,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,167,2,17:23,1043,1043,Bakari Evelyn Turnover.,41,18,23,0,0.9988041566790148,0.9790636240272195,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,168,2,17:05,1025,1025,Carsen Edwards Turnover.,41,18,23,18,0.9988307323014857,0.9798485185790766,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,169,2,17:04,1024,1024,Tevonn Walker Steal.,41,18,23,1,0.9988322596539091,0.9798925369749547,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,170,2,17:00,1020,1020,Tevonn Walker made Layup.,41,20,21,4,0.9983708894331419,0.9722566867291085,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,171,2,16:52,1012,1012,Carsen Edwards Turnover.,41,20,21,8,0.9983859989062489,0.9727052985126963,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,172,2,16:49,1009,1009,Parker Hazen Turnover.,41,20,21,3,0.9983917995746194,0.9728748224154793,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,173,2,16:48,1008,1008,P.J. Thompson Steal.,41,20,21,1,0.9983937498271725,0.9729314919232709,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,174,2,16:35,995,995,Dakota Mathias made Three Point Jumper. Assisted by Vincent Edwards.,44,20,24,13,0.9990560332551018,0.984115327989535,4,4,24,NA,NA,Purdue,made,Dakota Mathias,Vincent Edwards,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,175,2,16:18,978,978,Joe Burton missed Layup.,44,20,24,17,0.9990830314676996,0.9848071882091097,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,176,2,16:18,978,978,Jaume Sorolla Offensive Rebound.,44,20,24,0,0.9990830314676996,0.9848071882091097,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,177,2,16:05,965,965,Tevonn Walker made Three Point Jumper.,44,23,21,13,0.998485725342194,0.9754434880205995,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,178,2,15:48,948,948,Isaac Haas missed Jumper.,44,23,21,17,0.9985205857025009,0.9763616263331625,4,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,179,2,15:48,948,948,Isaac Haas Offensive Rebound.,44,23,21,0,0.9985205857025009,0.9763616263331625,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,180,2,15:47,947,947,Isaac Haas made Jumper.,46,23,23,1,0.998963122809959,0.9833365929175484,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,181,2,15:29,929,929,Bakari Evelyn missed Layup.,46,23,23,18,0.9989892330697987,0.9839997825637071,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,182,2,15:29,929,929,Vincent Edwards Defensive Rebound.,46,23,23,0,0.9989892330697987,0.9839997825637071,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,183,2,15:19,919,919,Dakota Mathias missed Three Point Jumper.,46,23,23,10,0.9990024792936444,0.9843372398666421,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,184,2,15:19,919,919,Jaume Sorolla Defensive Rebound.,46,23,23,0,0.9990024792936444,0.9843372398666421,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,185,2,15:05,905,905,Tevonn Walker missed Jumper.,46,23,23,14,0.9990199304979496,0.9847814803408426,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,186,2,15:05,905,905,Purdue Defensive Rebound.,46,23,23,0,0.9990199304979496,0.9847814803408426,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,187,2,15:01,901,901,Official TV Timeout,46,23,23,4,0.999024738355979,0.9849035339138675,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,188,2,14:49,889,889,Matt Haarms made Dunk.,48,23,25,12,0.9993328491739039,0.9897253397714737,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,189,2,14:36,876,876,Foul on P.J. Thompson.,48,23,25,13,0.9993447271482091,0.9900095618915764,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,190,2,14:34,874,874,Joe Burton missed Jumper.,48,23,25,2,0.99934654429479,0.9900526692937173,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,191,2,14:34,874,874,Vincent Edwards Defensive Rebound.,48,23,25,0,0.99934654429479,0.9900526692937173,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,192,2,14:28,868,868,Vincent Edwards Turnover.,48,23,25,6,0.9993519973744669,0.9901813397530892,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,193,2,14:27,867,867,Max Joseph Steal.,48,23,25,1,0.9993529075514469,0.9902027099838451,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,194,2,14:17,857,857,Max Joseph made Layup.,48,25,23,10,0.9990757378040787,0.9861697369645094,4,4,24,NA,NA,Valparaiso,made,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,195,2,13:45,825,825,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,51,25,26,32,0.9994971628251469,0.9926231878947968,4,4,24,NA,NA,Purdue,made,P.J. Thompson,Dakota Mathias,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,196,2,13:23,803,803,Foul on Dakota Mathias.,51,25,26,22,0.9995178419946742,0.9930542565385504,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,197,2,13:23,803,803,Joe Burton made Free Throw.,51,26,25,0,0.9994165015046115,0.9916058018950261,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,198,2,13:23,803,803,Joe Burton made Free Throw.,51,27,24,0,0.999293876208536,0.9898583735417149,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,199,2,13:11,791,791,Vincent Edwards missed Layup.,51,27,24,12,0.9993098654493762,0.9901894302207402,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,200,2,13:11,791,791,Matt Haarms Offensive Rebound.,51,27,24,0,0.9993098654493762,0.9901894302207402,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,201,2,13:08,788,788,Matt Haarms made Jumper.,53,27,26,3,0.9995332524490697,0.9933631977877846,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,202,2,12:57,777,777,Max Joseph made Layup. Assisted by Bakari Evelyn.,53,29,24,11,0.9993298963368413,0.990592274349171,4,4,24,NA,NA,Valparaiso,made,Max Joseph,Bakari Evelyn,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,203,2,12:57,777,777,Foul on Ryan Cline.,53,29,24,0,0.9993298963368413,0.990592274349171,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,204,2,12:57,777,777,Max Joseph missed Free Throw.,53,29,24,0,0.9993298963368413,0.990592274349171,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,205,2,12:57,777,777,Carsen Edwards Defensive Rebound.,53,29,24,0,0.9993298963368413,0.990592274349171,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,206,2,12:48,768,768,Carsen Edwards made Layup.,55,29,26,9,0.9995557179085259,0.9937973700268236,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,207,2,12:48,768,768,Foul on Max Joseph.,55,29,26,0,0.9995557179085259,0.9937973700268236,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,208,2,12:48,768,768,Carsen Edwards made Free Throw.,56,29,27,0,0.9996344927177298,0.994891928835058,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,209,2,12:37,757,757,Foul on Carsen Edwards.,56,29,27,11,0.9996460439606409,0.9951059045575161,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,210,2,12:37,757,757,Joe Burton made Free Throw.,56,30,26,0,0.9995690720551413,0.9940475049376902,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,211,2,12:37,757,757,Joe Burton made Free Throw.,56,31,25,0,0.9994753704877113,0.9927618801486129,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,212,2,12:20,740,740,Carsen Edwards missed Layup.,56,31,25,17,0.9995008826397095,0.9932319822296559,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,213,2,12:20,740,740,Bakari Evelyn Defensive Rebound.,56,31,25,0,0.9995008826397095,0.9932319822296559,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,214,2,12:12,732,732,Joe Burton missed Three Point Jumper.,56,31,25,8,0.9995136065089995,0.9934607861996687,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,215,2,12:12,732,732,Vincent Edwards Defensive Rebound.,56,31,25,0,0.9995136065089995,0.9934607861996687,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,216,2,12:00,720,720,Vincent Edwards made Jumper.,58,31,27,12,0.9996882579955679,0.9958552058122334,4,4,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,217,2,11:47,707,707,Bakari Evelyn made Three Point Jumper.,58,34,24,13,0.9994470544612928,0.9927716137756732,4,4,24,NA,NA,Valparaiso,made,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,218,2,11:30,690,690,Matt Haarms missed Jumper.,58,34,24,17,0.9994696248226854,0.9931871064175023,4,4,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,219,2,11:30,690,690,Mileek McMillan Defensive Rebound.,58,34,24,0,0.9994696248226854,0.9931871064175023,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,220,2,11:16,676,676,Derrik Smits missed Jumper.,58,34,24,14,0.9994860823175802,0.993491880504765,4,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,221,2,11:16,676,676,Vincent Edwards Defensive Rebound.,58,34,24,0,0.9994860823175802,0.993491880504765,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,222,2,11:06,666,666,Purdue  Timeout,58,34,24,10,0.9994971363517232,0.993696208537564,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,223,2,11:04,664,664,Isaac Haas missed Jumper.,58,34,24,2,0.9994993044965113,0.9937361443234412,4,3,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,224,2,11:04,664,664,Vincent Edwards Offensive Rebound.,58,34,24,0,0.9994993044965113,0.9937361443234412,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,225,2,11:02,662,662,Foul on Mileek McMillan.,58,34,24,2,0.9995014630645326,0.993775837303791,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,226,2,11:02,662,662,Official TV Timeout,58,34,24,0,0.9995014630645326,0.993775837303791,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,227,2,11:02,662,662,Vincent Edwards made Free Throw.,59,34,25,0,0.9995964119656107,0.994955757460192,4,3,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,228,2,11:02,662,662,Vincent Edwards made Free Throw.,60,34,26,0,0.9996732832755247,0.9959129190024838,4,3,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,229,2,10:51,651,651,Marten Linssen Turnover.,60,34,26,11,0.9996819473236301,0.9960660739359363,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,230,2,10:47,647,647,Nojel Eastern made Jumper.,62,34,28,4,0.9997944690459759,0.9974652140742765,4,3,24,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,231,2,10:47,647,647,Foul on Markus Golder.,62,34,28,0,0.9997944690459759,0.9974652140742765,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,232,2,10:47,647,647,Nojel Eastern missed Free Throw.,62,34,28,0,0.9997944690459759,0.9974652140742765,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,233,2,10:47,647,647,Valparaiso Deadball Team Rebound.,62,34,28,0,0.9997944690459759,0.9974652140742765,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,234,2,10:41,641,641,Foul on Marten Linssen.,62,34,28,6,0.9997978998435337,0.9975231486452605,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,235,2,10:41,641,641,Marten Linssen Turnover.,62,34,28,0,0.9997978998435337,0.9975231486452605,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,236,2,10:29,629,629,Nojel Eastern missed Jumper.,62,34,28,12,0.9998048855589159,0.9976391158496987,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,237,2,10:29,629,629,Valparaiso Defensive Rebound.,62,34,28,0,0.9998048855589159,0.9976391158496987,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,238,2,10:11,611,611,Marten Linssen made Layup. Assisted by Micah Bradford.,62,36,26,18,0.9997149674041866,0.9966225496742763,4,3,24,NA,NA,Valparaiso,made,Marten Linssen,Micah Bradford,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,239,2,9:56,596,596,Dakota Mathias made Jumper. Assisted by Nojel Eastern.,64,36,28,15,0.9998259448913878,0.9979708109311024,4,3,24,NA,NA,Purdue,made,Dakota Mathias,Nojel Eastern,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,240,2,9:43,583,583,Micah Bradford missed Jumper.,64,36,28,13,0.999835305429782,0.9981100229063967,4,3,24,NA,NA,Valparaiso,missed,Micah Bradford,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,241,2,9:43,583,583,Nojel Eastern Block.,64,36,28,0,0.999835305429782,0.9981100229063967,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,242,2,9:40,580,580,Matt Haarms Defensive Rebound.,64,36,28,3,0.9998375630314601,0.9981429217968775,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,243,2,9:35,575,575,Foul on Mileek McMillan.,64,36,28,5,0.999841407909265,0.9981983826244331,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,244,2,9:35,575,575,Carsen Edwards made Free Throw.,65,36,29,0,0.9998734356614373,0.9985617428524846,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,245,2,9:35,575,575,Carsen Edwards made Free Throw.,66,36,30,0,0.9998989960464131,0.9988519028552771,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,246,2,9:17,557,557,Foul on Carsen Edwards.,66,36,30,18,0.9999091320475102,0.9989917449234479,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,247,2,9:17,557,557,Tevonn Walker missed Free Throw.,66,36,30,0,0.9999091320475102,0.9989917449234479,4,3,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,248,2,9:17,557,557,Valparaiso Deadball Team Rebound.,66,36,30,0,0.9999091320475102,0.9989917449234479,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,249,2,9:17,557,557,Tevonn Walker made Free Throw.,66,37,29,0,0.9998856419023255,0.9987314032155027,4,3,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,250,2,9:07,547,547,Foul on John Kiser.,66,37,29,10,0.9998927465192781,0.9988269974891592,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,251,2,9:07,547,547,Isaac Haas made Free Throw.,67,37,30,0,0.9999150076213638,0.9990702554994821,4,3,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,252,2,9:07,547,547,Isaac Haas made Free Throw.,68,37,31,0,0.9999326486096525,0.9992631037260309,4,3,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,253,2,8:55,535,535,Joe Burton Turnover.,68,37,31,12,0.9999375895154896,0.9993285147928764,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,254,2,8:54,534,534,Nojel Eastern Steal.,68,37,31,1,0.9999379533023954,0.9993333430092474,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,255,2,8:50,530,530,Dakota Mathias missed Three Point Jumper.,68,37,31,4,0.9999393482583279,0.999351871961724,4,3,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,256,2,8:50,530,530,Valparaiso Deadball Team Rebound.,68,37,31,0,0.9999393482583279,0.999351871961724,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,257,2,8:24,504,504,Joe Burton missed Jumper.,68,37,31,26,0.9999468392903492,0.9994513075240586,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,258,2,8:23,503,503,Jaume Sorolla Offensive Rebound.,68,37,31,1,0.9999470957140033,0.9994546809522383,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,259,2,8:22,502,502,Jaume Sorolla made Two Point Tip Shot.,68,39,29,1,0.9999144792682985,0.9991199250789092,4,3,24,NA,NA,Valparaiso,made,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,260,2,8:06,486,486,Foul on Max Joseph.,68,39,29,16,0.99992052055823,0.9991995502872627,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,261,2,8:06,486,486,Carsen Edwards missed Free Throw.,68,39,29,0,0.99992052055823,0.9991995502872627,4,3,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,262,2,8:06,486,486,Purdue Deadball Team Rebound.,68,39,29,0,0.99992052055823,0.9991995502872627,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,263,2,8:06,486,486,Carsen Edwards made Free Throw.,69,39,30,0,0.9999378426144113,0.9993739049991152,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,264,2,7:47,467,467,Parker Hazen missed Three Point Jumper.,69,39,30,19,0.9999440538620414,0.9994514175074488,4,3,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,265,2,7:47,467,467,Isaac Haas Defensive Rebound.,69,39,30,0,0.9999440538620414,0.9994514175074488,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,266,2,7:30,450,450,Nojel Eastern Turnover.,69,39,30,17,0.9999503363763683,0.9995255135069608,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,267,2,7:29,449,449,Jaume Sorolla Steal.,69,39,30,1,0.999950731311818,0.9995300402061615,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,268,2,7:23,443,443,Foul on Nojel Eastern.,69,39,30,6,0.9999531601120846,0.9995575685837387,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,269,2,7:23,443,443,Official TV Timeout,69,39,30,0,0.9999531601120846,0.9995575685837387,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,270,2,7:23,443,443,Joe Burton made Free Throw.,69,40,29,0,0.9999394089326058,0.9994277467381942,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,271,2,7:23,443,443,Joe Burton made Free Throw.,69,41,28,0,0.9999216210202545,0.9992598597116313,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,272,2,7:10,430,430,Matt Haarms missed Jumper.,69,41,28,13,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,273,2,7:10,430,430,Parker Hazen Block.,69,41,28,0,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,274,2,7:10,430,430,Purdue Offensive Rebound.,69,41,28,0,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,275,2,6:58,418,418,Matt Haarms made Jumper.,71,41,30,12,0.9999634953244666,0.9996702573814351,4,3,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,276,2,6:39,399,399,Parker Hazen missed Layup.,71,41,30,19,0.9999693521563906,0.999733220267063,4,3,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,277,2,6:39,399,399,Jacquil Taylor Block.,71,41,30,0,0.9999693521563906,0.999733220267063,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,278,2,6:38,398,398,Jacquil Taylor Defensive Rebound.,71,41,30,1,0.9999696233024281,0.9997361122127998,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,279,2,6:24,384,384,Jacquil Taylor made Dunk. Assisted by Nojel Eastern.,73,41,32,14,0.999984675513804,0.9998706486046439,4,3,24,NA,NA,Purdue,made,Jacquil Taylor,Nojel Eastern,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,280,2,6:11,371,371,Bakari Evelyn missed Three Point Jumper.,73,41,32,13,0.9999865589144105,0.9998896694756316,4,3,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,281,2,6:11,371,371,Jaume Sorolla Offensive Rebound.,73,41,32,0,0.9999865589144105,0.9998896694756316,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,282,2,6:06,366,366,Joe Burton made Layup.,73,43,30,5,0.9999773910707169,0.999816462269507,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,283,2,5:46,346,346,Nojel Eastern missed Jumper.,73,43,30,20,0.9999819141415135,0.9998597257217966,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,284,2,5:46,346,346,Parker Hazen Defensive Rebound.,73,43,30,0,0.9999819141415135,0.9998597257217966,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,285,2,5:37,337,337,Joe Burton missed Three Point Jumper.,73,43,30,9,0.9999839301005399,0.9998779907897021,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,286,2,5:37,337,337,Matt Haarms Defensive Rebound.,73,43,30,0,0.9999839301005399,0.9998779907897021,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,287,2,5:20,320,320,P.J. Thompson missed Three Point Jumper.,73,43,30,17,0.9999876530288682,0.9999100767451717,4,3,24,NA,NA,Purdue,missed,P.J. Thompson,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,288,2,5:20,320,320,Parker Hazen Defensive Rebound.,73,43,30,0,0.9999876530288682,0.9999100767451717,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,289,2,5:12,312,312,Joe Burton missed Three Point Jumper.,73,43,30,8,0.9999893269475721,0.9999238203005937,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,290,2,5:12,312,312,Ryan Cline Defensive Rebound.,73,43,30,0,0.9999893269475721,0.9999238203005937,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,291,2,4:49,289,289,Matt Haarms missed Jumper.,73,43,30,23,0.9999913053845222,0.9999414449672135,4,3,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,292,2,4:49,289,289,Max Joseph Defensive Rebound.,73,43,30,0,0.9999913053845222,0.9999414449672135,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,293,2,4:40,280,280,Joe Burton made Three Point Jumper. Assisted by Max Joseph.,73,46,27,9,0.9999759916582689,0.9998419313775335,4,3,24,NA,NA,Valparaiso,made,Joe Burton,Max Joseph,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,294,2,4:21,261,261,Ryan Cline missed Three Point Jumper.,73,46,27,19,0.9999711720901087,0.9998191173919189,4,3,24,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,295,2,4:21,261,261,Jaume Sorolla Defensive Rebound.,73,46,27,0,0.9999711720901087,0.9998191173919189,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,296,2,3:57,237,237,Jaume Sorolla missed Jumper.,73,46,27,24,0.9999648808656741,0.9997931949628163,4,3,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,297,2,3:57,237,237,Jaume Sorolla Offensive Rebound.,73,46,27,0,0.9999648808656741,0.9997931949628163,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,298,2,3:53,233,233,Jaume Sorolla missed Jumper.,73,46,27,4,0.9999646106170325,0.9997938906937659,4,3,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,299,2,3:53,233,233,Valparaiso Offensive Rebound.,73,46,27,0,0.9999646106170325,0.9997938906937659,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,300,2,3:52,232,232,Official TV Timeout,73,46,27,1,0.999964603698235,0.9997944234860335,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,301,2,3:48,228,228,Micah Bradford missed Three Point Jumper.,73,46,27,4,0.999964844973658,0.9997981070078101,4,3,24,NA,NA,Valparaiso,missed,Micah Bradford,NA,TRUE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,302,2,3:48,228,228,Ryan Cline Defensive Rebound.,73,46,27,0,0.999964844973658,0.9997981070078101,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,303,2,3:43,223,223,Ryan Cline Turnover.,73,46,27,5,0.9999658000422161,0.9998063810231892,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,304,2,3:27,207,207,Tevonn Walker made Layup.,73,48,25,16,0.999949385594102,0.9997268886486461,4,3,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,305,2,3:08,188,188,Eden Ewing missed Jumper.,73,48,25,19,0.9999750360817871,0.9998733891020877,4,3,24,NA,NA,Purdue,missed,Eden Ewing,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,306,2,3:08,188,188,Derrik Smits Block.,73,48,25,0,0.9999750360817871,0.9998733891020877,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,307,2,3:08,188,188,Purdue Deadball Team Rebound.,73,48,25,0,0.9999750360817871,0.9998733891020877,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,308,2,2:56,176,176,Foul on Micah Bradford.,73,48,25,12,0.9999861770680379,0.999932731251024,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,309,2,2:56,176,176,Jacquil Taylor missed Free Throw.,73,48,25,0,0.9999861770680379,0.999932731251024,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,310,2,2:56,176,176,Purdue Deadball Team Rebound.,73,48,25,0,0.9999861770680379,0.999932731251024,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,311,2,2:56,176,176,Jacquil Taylor made Free Throw.,74,48,26,0,0.9999905872659456,0.9999541925227372,4,3,24,NA,NA,Purdue,made,Jacquil Taylor,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,312,2,2:45,165,165,Max Joseph Turnover.,74,48,26,11,0.9999947784042947,0.9999755545930582,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,313,2,2:29,149,149,Jacquil Taylor missed Jumper.,74,48,26,16,0.9999979497258075,0.999990942446435,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,314,2,2:29,149,149,Derrik Smits Block.,74,48,26,0,0.9999979497258075,0.999990942446435,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,315,2,2:27,147,147,Micah Bradford Defensive Rebound.,74,48,26,2,0.9999981916957074,0.9999920703206308,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,316,2,2:21,141,141,Markus Golder missed Jumper.,74,48,26,6,0.999998776750651,0.9999947548108047,4,3,24,NA,NA,Valparaiso,missed,Markus Golder,NA,FALSE,FALSE,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,317,2,2:21,141,141,Derrik Smits Offensive Rebound.,74,48,26,0,0.999998776750651,0.9999947548108047,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,318,2,2:18,138,138,Derrik Smits made Jumper.,74,50,24,3,0.9999974161141002,0.9999890454592961,4,3,24,NA,NA,Valparaiso,made,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,319,2,1:58,118,118,Foul on Max Joseph.,74,50,24,20,0.9999993699103891,0.9999975287830066,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,320,2,1:58,118,118,Tommy Luce made Free Throw.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,Purdue,made,Tommy Luce,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,321,2,1:58,118,118,Tommy Luce missed Free Throw.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,Purdue,missed,Tommy Luce,NA,FALSE,TRUE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,322,2,1:58,118,118,Derrik Smits Defensive Rebound.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,323,2,1:47,107,107,Micah Bradford Turnover.,75,50,25,11,0.9999998589894764,0.9999994711114503,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,324,2,1:44,104,104,Jacquil Taylor Steal.,75,50,25,3,0.9999998937305862,0.9999996063366732,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,325,2,1:30,90,90,Eden Ewing made Jumper.,77,50,27,14,0.9999999931507674,0.9999999760899789,4,3,24,NA,NA,Purdue,made,Eden Ewing,NA,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,326,2,1:16,76,76,Tevonn Walker missed Jumper.,77,50,27,14,0.9999999987348243,0.9999999958450317,4,3,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,327,2,1:15,75,75,Jacquil Taylor Block.,77,50,27,1,0.9999999988857577,0.9999999963569344,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,328,2,1:14,74,74,Nojel Eastern Defensive Rebound.,77,50,27,1,0.9999999990197724,0.9999999968093501,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,329,2,1:00,60,60,Jacquil Taylor missed Three Point Jumper.,77,50,27,14,0.9999999998512676,0.999999999545669,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,TRUE,FALSE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,330,2,1:00,60,60,Nojel Eastern Offensive Rebound.,77,50,27,0,0.9999999998512676,0.999999999545669,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,331,2,0:57,57,57,Foul on Tevonn Walker.,77,50,27,3,0.9999999999024766,0.9999999997061945,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,332,2,0:57,57,57,Nojel Eastern made Free Throw.,78,50,28,0,0.9999999999567413,0.9999999998696758,4,3,24,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,333,2,0:57,57,57,Nojel Eastern missed Free Throw.,78,50,28,0,0.9999999999567413,0.9999999998696758,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,334,2,0:57,57,57,Grady Eifert Offensive Rebound.,78,50,28,0,0.9999999999567413,0.9999999998696758,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,335,2,0:49,49,49,Eden Ewing made Layup. Assisted by Tommy Luce.,80,50,30,8,0.9999999999976668,0.9999999999932289,4,3,24,NA,NA,Purdue,made,Eden Ewing,Tommy Luce,FALSE,FALSE,Purdue,Valparaiso
-400986412,2017-12-07,Purdue,Valparaiso,336,2,0:23,23,23,Marten Linssen missed Layup.,80,50,30,26,0.9999999999999774,0.999999999999942,4,3,24,NA,NA,Valparaiso,missed,Marten Linssen,NA,FALSE,FALSE,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,337,2,0:23,23,23,Jacquil Taylor Defensive Rebound.,80,50,30,0,0.9999999999999774,0.999999999999942,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
-400986412,2017-12-07,Purdue,Valparaiso,338,2,0:00,0,0,End of Game,80,80,0,23,1,1,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA
+400986412,2017-12-07,Purdue,Valparaiso,1,1,20:00:00,2400,2400,PLAY,0,0,0,0,0.9791706840747532,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,2,1,19:50:00,2390,2390,Dakota Mathias missed Jumper.,0,0,0,10,0.9790921750782609,0.5,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,3,1,19:50:00,2390,2390,Jaume Sorolla Defensive Rebound.,0,0,0,0,0.9790921750782609,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,4,1,19:38:00,2378,2378,Tevonn Walker made Jumper.,0,2,-2,12,0.9749960055870562,0.4555097359296437,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,5,1,19:23:00,2363,2363,Foul on Jaume Sorolla.,0,2,-2,15,0.974819234203988,0.45518936608070915,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,6,1,19:22:00,2362,2362,Carsen Edwards missed Jumper.,0,2,-2,1,0.9748073018689164,0.4551678976921304,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,7,1,19:22:00,2362,2362,Bakari Evelyn Defensive Rebound.,0,2,-2,0,0.9748073018689164,0.4551678976921304,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,8,1,18:58:00,2338,2338,Parker Hazen Turnover.,0,2,-2,24,0.9745152658422198,0.4546487271837898,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,9,1,18:43:00,2323,2323,Carsen Edwards missed Jumper.,0,2,-2,15,0.9743270990056868,0.45432062009867336,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,10,1,18:43:00,2323,2323,Jaume Sorolla Defensive Rebound.,0,2,-2,0,0.9743270990056868,0.45432062009867336,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,11,1,18:32:00,2312,2312,Bakari Evelyn Turnover.,0,2,-2,11,0.974186271834878,0.454078361268111,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,12,1,18:12:00,2292,2292,Vincent Edwards missed Jumper.,0,2,-2,20,0.973923907671757,0.4536345705228979,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,13,1,18:12:00,2292,2292,Tevonn Walker Defensive Rebound.,0,2,-2,0,0.973923907671757,0.4536345705228979,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,14,1,17:54:00,2274,2274,Bakari Evelyn Turnover.,0,2,-2,18,0.9736806170668894,0.4532317899002051,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,15,1,17:44:00,2264,2264,Dakota Mathias missed Three Point Jumper.,0,2,-2,10,0.973542442563564,0.4530067615997379,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,16,1,17:44:00,2264,2264,Jaume Sorolla Defensive Rebound.,0,2,-2,0,0.973542442563564,0.4530067615997379,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,17,1,17:34:00,2254,2254,Tevonn Walker Turnover.,0,2,-2,10,0.973402068874866,0.45278089897456814,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,18,1,17:33:00,2253,2253,Dakota Mathias Steal.,0,2,-2,1,0.9733879090957172,0.45275826884777715,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,19,1,17:29:00,2249,2249,Vincent Edwards made Dunk. Assisted by Carsen Edwards.,2,2,0,4,0.9778414052276996,0.5,4,4,24,NA,NA,Purdue,made,Vincent Edwards,Carsen Edwards,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,20,1,17:11:00,2231,2231,Tevonn Walker missed Jumper.,2,2,0,18,0.9776601391933444,0.5,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,21,1,17:11:00,2231,2231,Joe Burton Offensive Rebound.,2,2,0,0,0.9776601391933444,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,22,1,17:06:00,2226,2226,Joe Burton made Layup.,2,4,-2,5,0.9729969969989692,0.4521444923245685,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,23,1,16:47:00,2207,2207,Isaac Haas missed Jumper.,2,4,-2,19,0.9727116985858236,0.451709740701574,4,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,24,1,16:47:00,2207,2207,Bakari Evelyn Defensive Rebound.,2,4,-2,0,0.9727116985858236,0.451709740701574,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,25,1,16:36:00,2196,2196,Parker Hazen missed Three Point Jumper.,2,4,-2,11,0.9725425418982926,0.4514571366167739,4,4,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,26,1,16:36:00,2196,2196,Isaac Haas Defensive Rebound.,2,4,-2,0,0.9725425418982926,0.4514571366167739,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,27,1,16:27:00,2187,2187,P.J. Thompson made Jumper.,4,4,0,9,0.9771936158099824,0.5,4,4,24,NA,NA,Purdue,made,P.J. Thompson,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,28,1,16:01:00,2161,2161,Joe Burton missed Jumper.,4,4,0,26,0.9769014370378374,0.5,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,29,1,16:01:00,2161,2161,P.J. Thompson Defensive Rebound.,4,4,0,0,0.9769014370378374,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,30,1,15:51:00,2151,2151,P.J. Thompson Turnover.,4,4,0,10,0.97678574717267,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,31,1,15:51:00,2151,2151,Official TV Timeout,4,4,0,0,0.97678574717267,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,32,1,15:25:00,2125,2125,Joe Burton made Jumper.,4,6,-2,26,0.9713771199816084,0.4498106956225497,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,33,1,15:10:00,2110,2110,Foul on Mileek McMillan.,4,6,-2,15,0.9711141873915298,0.44945785201816096,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,34,1,15:09:00,2109,2109,Dakota Mathias Turnover.,4,6,-2,1,0.9710964461450232,0.4494342565459519,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,35,1,14:56:00,2096,2096,Derrik Smits missed Jumper.,4,6,-2,13,0.9708633724742284,0.44912666046002553,4,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,36,1,14:56:00,2096,2096,Ryan Cline Defensive Rebound.,4,6,-2,0,0.9708633724742284,0.44912666046002553,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,37,1,14:47:00,2087,2087,Carsen Edwards made Layup. Assisted by Ryan Cline.,6,6,0,9,0.9760014682484316,0.5,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Ryan Cline,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,38,1,14:26:00,2066,2066,Joe Burton Turnover.,6,6,0,21,0.975727304893836,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,39,1,14:09:00,2049,2049,Vincent Edwards missed Three Point Jumper.,6,6,0,17,0.9754991582542024,0.5,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,40,1,14:09:00,2049,2049,Max Joseph Defensive Rebound.,6,6,0,0,0.9754991582542024,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,41,1,13:58:00,2038,2038,Max Joseph missed Jumper.,6,6,0,11,0.97534854782547,0.5,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,42,1,13:58:00,2038,2038,Isaac Haas Block.,6,6,0,0,0.97534854782547,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,43,1,13:56:00,2036,2036,Vincent Edwards Defensive Rebound.,6,6,0,2,0.975320910578141,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,44,1,13:53:00,2033,2033,Carsen Edwards made Layup. Assisted by Vincent Edwards.,8,6,2,3,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Vincent Edwards,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,45,1,13:53:00,2033,2033,Foul on Bakari Evelyn.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,46,1,13:53:00,2033,2033,Carsen Edwards missed Free Throw.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,47,1,13:53:00,2033,2033,Valparaiso Defensive Rebound.,8,6,2,0,0.9798739590570998,0.5523885486035754,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,48,1,13:30:00,2010,2010,Derrik Smits made Layup.,8,8,0,23,0.974954473575353,0.5,4,4,24,NA,NA,Valparaiso,made,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,49,1,13:12:00,1992,1992,Carsen Edwards missed Three Point Jumper.,8,8,0,18,0.9746929346545716,0.5,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,50,1,13:12:00,1992,1992,Mileek McMillan Defensive Rebound.,8,8,0,0,0.9746929346545716,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,51,1,12:48:00,1968,1968,Derrik Smits Turnover.,8,8,0,24,0.974334088629578,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,52,1,12:47:00,1967,1967,Vincent Edwards Steal.,8,8,0,1,0.9743188833941347,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,53,1,12:45:00,1965,1965,Foul on Mileek McMillan.,8,8,0,2,0.9742884118012108,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,54,1,12:36:00,1956,1956,Vincent Edwards Turnover.,8,8,0,9,0.9741502787122412,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,55,1,12:34:00,1954,1954,Tevonn Walker Steal.,8,8,0,2,0.9741193572400212,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,56,1,12:30:00,1950,1950,Tevonn Walker missed Layup.,8,8,0,4,0.9740572678558644,0.5,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,57,1,12:30:00,1950,1950,Matt Haarms Block.,8,8,0,0,0.9740572678558644,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,58,1,12:29:00,1949,1949,Ryan Cline Defensive Rebound.,8,8,0,1,0.9740416940966302,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,59,1,12:13:00,1933,1933,Foul on Derrik Smits.,8,8,0,16,0.9737897053366488,0.5,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,60,1,12:13:00,1933,1933,Matt Haarms made Free Throw.,9,8,1,0,0.976460945850956,0.5275298105195108,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,61,1,12:13:00,1933,1933,Matt Haarms made Free Throw.,10,8,2,0,0.9788658534704784,0.5548932088801155,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,62,1,11:44:00,1904,1904,Marten Linssen missed Jumper.,10,8,2,29,0.978546538215582,0.5556397560516335,4,4,24,NA,NA,Valparaiso,missed,Marten Linssen,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,63,1,11:44:00,1904,1904,Matt Haarms Block.,10,8,2,0,0.978546538215582,0.5556397560516335,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,64,1,11:42:00,1902,1902,Vincent Edwards Defensive Rebound.,10,8,2,2,0.97852391283068485,0.555691160002145,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,65,1,11:31:00,1891,1891,Vincent Edwards missed Three Point Jumper.,10,8,2,11,0.9783981004064678,0.5559738315376455,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,66,1,11:31:00,1891,1891,Tevonn Walker Defensive Rebound.,10,8,2,0,0.9783981004064678,0.5559738315376455,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,67,1,11:04:00,1864,1864,Tevonn Walker missed Three Point Jumper.,10,8,2,27,0.9780796105394128,0.5566683529347572,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,68,1,11:04:00,1864,1864,Nojel Eastern Defensive Rebound.,10,8,2,0,0.9780796105394128,0.5566683529347572,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,69,1,10:56:00,1856,1856,Ryan Cline made Three Point Jumper. Assisted by Nojel Eastern.,13,8,5,8,0.9842709634703324,0.6390443505328853,4,4,24,NA,NA,Purdue,made,Ryan Cline,Nojel Eastern,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,70,1,10:27:00,1827,1827,Foul on Matt Haarms.,13,8,5,29,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,71,1,10:27:00,1827,1827,Official TV Timeout,13,8,5,0,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,72,1,10:27:00,1827,1827,Max Joseph missed Free Throw.,13,8,5,0,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,73,1,10:27:00,1827,1827,Valparaiso Deadball Team Rebound.,13,8,5,0,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,74,1,10:27:00,1827,1827,Max Joseph missed Free Throw.,13,8,5,0,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,75,1,10:27:00,1827,1827,Matt Haarms Defensive Rebound.,13,8,5,0,0.9840830768612716,0.6407991831630797,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,76,1,10:09:00,1809,1809,Carsen Edwards Turnover.,13,8,5,18,0.9839625860722424,0.6418964578402759,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,77,1,10:00:00,1800,1800,Foul on Nojel Eastern.,13,8,5,9,0.9839013240037092,0.6424482088636343,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,78,1,09:41:00,1781,1781,Jaume Sorolla missed Layup.,13,8,5,19,0.9837699441491898,0.6436212564494589,4,4,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,79,1,09:41:00,1781,1781,Joe Burton Offensive Rebound.,13,8,5,0,0.9837699441491898,0.6436212564494589,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,80,1,09:37:00,1777,1777,Joe Burton missed Jumper.,13,8,5,4,0.9837419526805392,0.6438698092440153,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,81,1,09:37:00,1777,1777,Matt Haarms Defensive Rebound.,13,8,5,0,0.9837419526805392,0.6438698092440153,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,82,1,09:27:00,1767,1767,Carsen Edwards made Jumper.,15,8,7,10,0.9870847775185432,0.6969660892388202,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,83,1,09:03:00,1743,1743,Joe Burton made Jumper.,15,10,5,24,0.9834999152885636,0.6460091523158173,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,84,1,08:47:00,1727,1727,Ryan Cline missed Layup.,15,10,5,16,0.9833838100124088,0.6470348699007926,4,4,24,NA,NA,Purdue,missed,Ryan Cline,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,85,1,08:47:00,1727,1727,Micah Bradford Defensive Rebound.,15,10,5,0,0.9833838100124088,0.6470348699007926,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,86,1,08:40:00,1720,1720,Bakari Evelyn missed Three Point Jumper.,15,10,5,7,0.9833326442451892,0.647487960188666,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,87,1,08:40:00,1720,1720,Valparaiso Offensive Rebound.,15,10,5,0,0.9833326442451892,0.647487960188666,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,88,1,08:22:00,1702,1702,Joe Burton missed Three Point Jumper.,15,10,5,18,0.9832001958461134,0.6486662172130523,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,89,1,08:22:00,1702,1702,Carsen Edwards Defensive Rebound.,15,10,5,0,0.9832001958461134,0.6486662172130523,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,90,1,08:14:00,1694,1694,Carsen Edwards missed Three Point Jumper.,15,10,5,8,0.9831409820453236,0.6491963584629329,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,91,1,08:14:00,1694,1694,John Kiser Defensive Rebound.,15,10,5,0,0.9831409820453236,0.6491963584629329,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,92,1,08:03:00,1683,1683,Jaume Sorolla made Jumper. Assisted by Micah Bradford.,15,12,3,11,0.9784040697996228,0.5917569250889474,4,4,24,NA,NA,Valparaiso,made,Jaume Sorolla,Micah Bradford,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,93,1,07:47:00,1667,1667,Dakota Mathias missed Three Point Jumper.,15,12,3,16,0.9782049998063836,0.5924221024725164,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,94,1,07:47:00,1667,1667,Bakari Evelyn Defensive Rebound.,15,12,3,0,0.9782049998063836,0.5924221024725164,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,95,1,07:37:00,1657,1657,Bakari Evelyn Turnover.,15,12,3,10,0.9780759913335798,0.5928308259805862,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,96,1,07:36:00,1656,1656,Vincent Edwards Steal.,15,12,3,1,0.978062904286231,0.5928714414043756,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,97,1,07:33:00,1653,1653,Carsen Edwards made Layup. Assisted by Dakota Mathias.,17,12,5,3,0.9828162664019884,0.6518665295980064,4,4,24,NA,NA,Purdue,made,Carsen Edwards,Dakota Mathias,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,98,1,07:04:00,1624,1624,Jaume Sorolla missed Layup.,17,12,5,29,0.9825601225583764,0.6536822099297468,4,4,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,99,1,07:04:00,1624,1624,Isaac Haas Block.,17,12,5,0,0.9825601225583764,0.6536822099297468,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,100,1,07:01:00,1621,1621,Vincent Edwards Defensive Rebound.,17,12,5,3,0.9825325685436606,0.6538680142991715,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,101,1,06:57:00,1617,1617,Foul on Micah Bradford.,17,12,5,4,0.9824955519937608,0.654115373817457,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,102,1,06:56:00,1616,1616,Official TV Timeout,17,12,5,1,0.9824862494600568,0.65417715424629,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,103,1,06:48:00,1608,1608,Isaac Haas made Jumper.,19,12,7,8,0.986327460434766,0.7100213407409072,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,104,1,06:27:00,1587,1587,Tevonn Walker missed Three Point Jumper.,19,12,7,21,0.9862008760459842,0.7116696839730141,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,105,1,06:27:00,1587,1587,Dakota Mathias Defensive Rebound.,19,12,7,0,0.9862008760459842,0.7116696839730141,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,106,1,06:17:00,1577,1577,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,22,12,10,10,0.9905625807856234,0.7851949446396241,4,4,24,NA,NA,Purdue,made,P.J. Thompson,Dakota Mathias,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,107,1,06:13:00,1573,1573,Valparaiso  Timeout,22,12,10,4,0.9905517362422588,0.7855654540971436,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,108,1,05:45:00,1545,1545,Max Joseph made Jumper.,22,14,8,28,0.9876481990145454,0.7410013210963087,3,4,24,NA,NA,Valparaiso,made,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,109,1,05:27:00,1527,1527,Vincent Edwards made Layup. Assisted by Isaac Haas.,24,14,10,18,0.990427390945473,0.7898857614740378,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Isaac Haas,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,110,1,05:05:00,1505,1505,Max Joseph missed Three Point Jumper.,24,14,10,22,0.9903711989533112,0.7920218543272971,3,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,111,1,05:05:00,1505,1505,Vincent Edwards Defensive Rebound.,24,14,10,0,0.9903711989533112,0.7920218543272971,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,112,1,04:42:00,1482,1482,Foul on John Kiser.,24,14,10,23,0.990317442405806,0.7943296767205635,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,113,1,04:42:00,1482,1482,Isaac Haas made Free Throw.,25,14,11,0,0.9915308664128608,0.8155292655043874,3,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,114,1,04:42:00,1482,1482,Isaac Haas made Free Throw.,26,14,12,0,0.9925933607031144,0.8349976073621482,3,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,115,1,04:30:00,1470,1470,Derrik Smits Turnover.,26,14,12,12,0.9925851644095304,0.8362522442417427,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,116,1,04:18:00,1458,1458,Vincent Edwards made Layup. Assisted by Isaac Haas.,28,14,14,12,0.99434381268383365,0.8713919955244998,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Isaac Haas,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,117,1,03:57:00,1437,1437,Derrik Smits missed Jumper.,28,14,14,21,0.9943534062284184,0.8735700887233905,3,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,118,1,03:57:00,1437,1437,Derrik Smits Offensive Rebound.,28,14,14,0,0.9943534062284184,0.8735700887233905,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,119,1,03:55:00,1435,1435,Derrik Smits Turnover.,28,14,14,2,0.9943540520524448,0.8737722832733009,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,120,1,03:53:00,1433,1433,Nojel Eastern Steal.,28,14,14,2,0.994354640168003,0.8739734100947804,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,121,1,03:41:00,1421,1421,Nojel Eastern missed Layup.,28,14,14,12,0.9943570389909228,0.8751592900825635,3,4,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,122,1,03:41:00,1421,1421,John Kiser Defensive Rebound.,28,14,14,0,0.9943570389909228,0.8751592900825635,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,123,1,03:10:00,1390,1390,Valparaiso  Turnover.,28,14,14,31,0.9943560892425004,0.8780904853760357,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,124,1,03:10:00,1390,1390,Official TV Timeout,28,14,14,0,0.9943560892425004,0.8780904853760357,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,125,1,02:55:00,1375,1375,Vincent Edwards missed Jumper.,28,14,14,15,0.9943531376809612,0.8794617166202688,3,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,126,1,02:55:00,1375,1375,Matt Haarms Offensive Rebound.,28,14,14,0,0.9943531376809612,0.8794617166202688,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,127,1,02:52:00,1372,1372,Vincent Edwards made Jumper. Assisted by Matt Haarms.,30,14,16,3,0.9957439116004142,0.9067162055557536,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Matt Haarms,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,128,1,02:19:00,1339,1339,Joe Burton missed Three Point Jumper.,30,14,16,33,0.995754685631674,0.9094228188167984,3,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,129,1,02:19:00,1339,1339,Purdue Deadball Team Rebound.,30,14,16,0,0.995754685631674,0.9094228188167984,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,130,1,02:03:00,1323,1323,Vincent Edwards made Three Point Jumper. Assisted by Ryan Cline.,33,14,19,16,0.997253258721892,0.9403711058138534,3,4,24,NA,NA,Purdue,made,Vincent Edwards,Ryan Cline,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,131,1,01:36:00,1296,1296,Mileek McMillan made Jumper.,33,16,17,27,0.9963493003594428,0.9239684251024592,3,4,24,NA,NA,Valparaiso,made,Mileek McMillan,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,132,1,01:17:00,1277,1277,Vincent Edwards missed Three Point Jumper.,33,16,17,19,0.996365438132608,0.9254966851997865,3,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,TRUE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,133,1,01:17:00,1277,1277,Nojel Eastern Offensive Rebound.,33,16,17,0,0.996365438132608,0.9254966851997865,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,134,1,01:13:00,1273,1273,Foul on Markus Golder.,33,16,17,4,0.9963693073337804,0.9258240868245236,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,135,1,01:13:00,1273,1273,Matt Haarms missed Free Throw.,33,16,17,0,0.9963693073337804,0.9258240868245236,3,4,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,136,1,01:13:00,1273,1273,Jaume Sorolla Defensive Rebound.,33,16,17,0,0.9963693073337804,0.9258240868245236,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,137,1,00:53:00,1253,1253,Foul on Mileek McMillan.,33,16,17,20,0.9963915585124704,0.9274964992570404,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,138,1,00:53:00,1253,1253,Mileek McMillan Turnover.,33,16,17,0,0.9963915585124704,0.9274964992570404,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,139,1,00:45:00,1245,1245,Ryan Cline made Three Point Jumper.,36,16,20,8,0.9977064821678576,0.9530565341618232,3,4,24,NA,NA,Purdue,made,Ryan Cline,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,140,1,00:31:00,1231,1231,Markus Golder missed Layup.,36,16,20,14,0.9977270578755782,0.9540269162841648,3,4,24,NA,NA,Valparaiso,missed,Markus Golder,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,141,1,00:31:00,1231,1231,Carsen Edwards Defensive Rebound.,36,16,20,0,0.9977270578755782,0.9540269162841648,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,142,1,00:05:00,1205,1205,Isaac Haas missed Jumper.,36,16,20,26,0.997771259844402,0.9558966267940496,3,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,143,1,00:05:00,1205,1205,Bakari Evelyn Defensive Rebound.,36,16,20,0,0.997771259844402,0.9558966267940496,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,144,1,00:00:00,1200,1200,End of 1st half,36,16,20,5,0.9977800042757088,0.9562530359229152,3,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,NA
+400986412,2017-12-07,Purdue,Valparaiso,145,2,20:00:00,1200,1200,PLAY,36,16,20,0,0.9977800042757088,0.9562530359229152,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,146,2,19:31:00,1171,1171,Tevonn Walker missed Jumper.,36,16,20,29,0.9978273855302318,0.958208943619543,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,147,2,19:31:00,1171,1171,Purdue Defensive Rebound.,36,16,20,0,0.9978273855302318,0.958208943619543,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,148,2,19:07:00,1147,1147,Carsen Edwards missed Three Point Jumper.,36,16,20,24,0.9978637151279668,0.9597182654298648,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,149,2,19:07:00,1147,1147,Joe Burton Defensive Rebound.,36,16,20,0,0.9978637151279668,0.9597182654298648,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,150,2,19:00:00,1140,1140,Joe Burton made Jumper.,36,18,18,7,0.997079943222756,0.9460205565370954,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,151,2,18:59:00,1139,1139,Foul on Dakota Mathias.,36,18,18,1,0.997081503300567,0.9460933789271148,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,152,2,18:59:00,1139,1139,Joe Burton missed Free Throw.,36,18,18,0,0.997081503300567,0.9460933789271148,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,153,2,18:59:00,1139,1139,Carsen Edwards Defensive Rebound.,36,18,18,0,0.997081503300567,0.9460933789271148,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,154,2,18:39:00,1119,1119,Foul on Parker Hazen.,36,18,18,20,0.9971127326353908,0.9475335094897056,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,155,2,18:39:00,1119,1119,P.J. Thompson missed Three Point Jumper.,36,18,18,0,0.9971127326353908,0.9475335094897056,4,4,24,NA,NA,Purdue,missed,P.J. Thompson,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,156,2,18:39:00,1119,1119,Parker Hazen Defensive Rebound.,36,18,18,0,0.9971127326353908,0.9475335094897056,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,157,2,18:28:00,1108,1108,Tevonn Walker missed Jumper.,36,18,18,11,0.9971301518512838,0.948316802248976,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,158,2,18:28:00,1108,1108,Isaac Haas Defensive Rebound.,36,18,18,0,0.9971301518512838,0.948316802248976,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,159,2,18:03:00,1083,1083,Dakota Mathias made Three Point Jumper. Assisted by Vincent Edwards.,39,18,21,25,0.9982670506470116,0.9688551163118316,4,4,24,NA,NA,Purdue,made,Dakota Mathias,Vincent Edwards,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,160,2,17:52:00,1072,1072,Bakari Evelyn missed Jumper.,39,18,21,11,0.998283603987236,0.9694378865055197,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,161,2,17:52:00,1072,1072,Purdue Defensive Rebound.,39,18,21,0,0.998283603987236,0.9694378865055197,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,162,2,17:36:00,1056,1056,Foul on Parker Hazen.,39,18,21,16,0.9983086982009166,0.9702911007667436,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,163,2,17:28:00,1048,1048,Foul on Jaume Sorolla.,39,18,21,8,0.9983217755844372,0.9707215050908315,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,164,2,17:28:00,1048,1048,Isaac Haas made Free Throw.,40,18,22,0,0.9985791277664676,0.975105760081805,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,165,2,17:28:00,1048,1048,Isaac Haas made Free Throw.,41,18,23,0,0.99879706308603,0.9788478082977728,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,166,2,17:23:00,1043,1043,Foul on Bakari Evelyn.,41,18,23,5,0.9988041566790148,0.9790636240272196,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,167,2,17:23:00,1043,1043,Bakari Evelyn Turnover.,41,18,23,0,0.9988041566790148,0.9790636240272196,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,168,2,17:05:00,1025,1025,Carsen Edwards Turnover.,41,18,23,18,0.9988307323014856,0.9798485185790766,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,169,2,17:04:00,1024,1024,Tevonn Walker Steal.,41,18,23,1,0.9988322596539092,0.9798925369749548,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,170,2,17:00:00,1020,1020,Tevonn Walker made Layup.,41,20,21,4,0.998370889433142,0.9722566867291084,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,171,2,16:52:00,1012,1012,Carsen Edwards Turnover.,41,20,21,8,0.9983859989062488,0.9727052985126964,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,172,2,16:49:00,1009,1009,Parker Hazen Turnover.,41,20,21,3,0.9983917995746194,0.9728748224154792,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,173,2,16:48:00,1008,1008,P.J. Thompson Steal.,41,20,21,1,0.9983937498271724,0.9729314919232708,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,174,2,16:35:00,995,995,Dakota Mathias made Three Point Jumper. Assisted by Vincent Edwards.,44,20,24,13,0.9990560332551018,0.984115327989535,4,4,24,NA,NA,Purdue,made,Dakota Mathias,Vincent Edwards,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,175,2,16:18:00,978,978,Joe Burton missed Layup.,44,20,24,17,0.9990830314676996,0.9848071882091096,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,176,2,16:18:00,978,978,Jaume Sorolla Offensive Rebound.,44,20,24,0,0.9990830314676996,0.9848071882091096,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,177,2,16:05:00,965,965,Tevonn Walker made Three Point Jumper.,44,23,21,13,0.998485725342194,0.9754434880205995,4,4,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,178,2,15:48:00,948,948,Isaac Haas missed Jumper.,44,23,21,17,0.9985205857025008,0.9763616263331624,4,4,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,179,2,15:48:00,948,948,Isaac Haas Offensive Rebound.,44,23,21,0,0.9985205857025008,0.9763616263331624,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,180,2,15:47:00,947,947,Isaac Haas made Jumper.,46,23,23,1,0.998963122809959,0.9833365929175484,4,4,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,181,2,15:29:00,929,929,Bakari Evelyn missed Layup.,46,23,23,18,0.9989892330697988,0.9839997825637072,4,4,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,182,2,15:29:00,929,929,Vincent Edwards Defensive Rebound.,46,23,23,0,0.9989892330697988,0.9839997825637072,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,183,2,15:19:00,919,919,Dakota Mathias missed Three Point Jumper.,46,23,23,10,0.9990024792936444,0.984337239866642,4,4,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,184,2,15:19:00,919,919,Jaume Sorolla Defensive Rebound.,46,23,23,0,0.9990024792936444,0.984337239866642,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,185,2,15:05:00,905,905,Tevonn Walker missed Jumper.,46,23,23,14,0.9990199304979496,0.9847814803408426,4,4,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,186,2,15:05:00,905,905,Purdue Defensive Rebound.,46,23,23,0,0.9990199304979496,0.9847814803408426,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,187,2,15:01:00,901,901,Official TV Timeout,46,23,23,4,0.999024738355979,0.9849035339138676,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,188,2,14:49:00,889,889,Matt Haarms made Dunk.,48,23,25,12,0.999332849173904,0.9897253397714736,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,189,2,14:36:00,876,876,Foul on P.J. Thompson.,48,23,25,13,0.9993447271482092,0.9900095618915764,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,190,2,14:34:00,874,874,Joe Burton missed Jumper.,48,23,25,2,0.99934654429479,0.9900526692937172,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,191,2,14:34:00,874,874,Vincent Edwards Defensive Rebound.,48,23,25,0,0.99934654429479,0.9900526692937172,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,192,2,14:28:00,868,868,Vincent Edwards Turnover.,48,23,25,6,0.9993519973744668,0.9901813397530892,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,193,2,14:27:00,867,867,Max Joseph Steal.,48,23,25,1,0.9993529075514468,0.9902027099838452,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,194,2,14:17:00,857,857,Max Joseph made Layup.,48,25,23,10,0.9990757378040788,0.9861697369645094,4,4,24,NA,NA,Valparaiso,made,Max Joseph,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,195,2,13:45:00,825,825,P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.,51,25,26,32,0.9994971628251468,0.9926231878947968,4,4,24,NA,NA,Purdue,made,P.J. Thompson,Dakota Mathias,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,196,2,13:23:00,803,803,Foul on Dakota Mathias.,51,25,26,22,0.9995178419946742,0.9930542565385504,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,197,2,13:23:00,803,803,Joe Burton made Free Throw.,51,26,25,0,0.9994165015046116,0.991605801895026,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,198,2,13:23:00,803,803,Joe Burton made Free Throw.,51,27,24,0,0.999293876208536,0.9898583735417148,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,199,2,13:11:00,791,791,Vincent Edwards missed Layup.,51,27,24,12,0.9993098654493762,0.9901894302207402,4,4,24,NA,NA,Purdue,missed,Vincent Edwards,NA,FALSE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,200,2,13:11:00,791,791,Matt Haarms Offensive Rebound.,51,27,24,0,0.9993098654493762,0.9901894302207402,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,201,2,13:08:00,788,788,Matt Haarms made Jumper.,53,27,26,3,0.9995332524490697,0.9933631977877846,4,4,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,202,2,12:57:00,777,777,Max Joseph made Layup. Assisted by Bakari Evelyn.,53,29,24,11,0.9993298963368412,0.990592274349171,4,4,24,NA,NA,Valparaiso,made,Max Joseph,Bakari Evelyn,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,203,2,12:57:00,777,777,Foul on Ryan Cline.,53,29,24,0,0.9993298963368412,0.990592274349171,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,204,2,12:57:00,777,777,Max Joseph missed Free Throw.,53,29,24,0,0.9993298963368412,0.990592274349171,4,4,24,NA,NA,Valparaiso,missed,Max Joseph,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,205,2,12:57:00,777,777,Carsen Edwards Defensive Rebound.,53,29,24,0,0.9993298963368412,0.990592274349171,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,206,2,12:48:00,768,768,Carsen Edwards made Layup.,55,29,26,9,0.999555717908526,0.9937973700268236,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,207,2,12:48:00,768,768,Foul on Max Joseph.,55,29,26,0,0.999555717908526,0.9937973700268236,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,208,2,12:48:00,768,768,Carsen Edwards made Free Throw.,56,29,27,0,0.9996344927177298,0.994891928835058,4,4,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,209,2,12:37:00,757,757,Foul on Carsen Edwards.,56,29,27,11,0.9996460439606408,0.995105904557516,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,210,2,12:37:00,757,757,Joe Burton made Free Throw.,56,30,26,0,0.9995690720551412,0.9940475049376902,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,211,2,12:37:00,757,757,Joe Burton made Free Throw.,56,31,25,0,0.9994753704877112,0.9927618801486128,4,4,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,212,2,12:20:00,740,740,Carsen Edwards missed Layup.,56,31,25,17,0.9995008826397096,0.993231982229656,4,4,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,213,2,12:20:00,740,740,Bakari Evelyn Defensive Rebound.,56,31,25,0,0.9995008826397096,0.993231982229656,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,214,2,12:12:00,732,732,Joe Burton missed Three Point Jumper.,56,31,25,8,0.9995136065089996,0.9934607861996688,4,4,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,215,2,12:12:00,732,732,Vincent Edwards Defensive Rebound.,56,31,25,0,0.9995136065089996,0.9934607861996688,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,216,2,12:00:00,720,720,Vincent Edwards made Jumper.,58,31,27,12,0.999688257995568,0.9958552058122334,4,4,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,217,2,11:47:00,707,707,Bakari Evelyn made Three Point Jumper.,58,34,24,13,0.9994470544612928,0.9927716137756732,4,4,24,NA,NA,Valparaiso,made,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,218,2,11:30:00,690,690,Matt Haarms missed Jumper.,58,34,24,17,0.9994696248226854,0.9931871064175024,4,4,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,219,2,11:30:00,690,690,Mileek McMillan Defensive Rebound.,58,34,24,0,0.9994696248226854,0.9931871064175024,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,220,2,11:16:00,676,676,Derrik Smits missed Jumper.,58,34,24,14,0.9994860823175802,0.993491880504765,4,4,24,NA,NA,Valparaiso,missed,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,221,2,11:16:00,676,676,Vincent Edwards Defensive Rebound.,58,34,24,0,0.9994860823175802,0.993491880504765,4,4,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,222,2,11:06:00,666,666,Purdue  Timeout,58,34,24,10,0.9994971363517232,0.993696208537564,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,223,2,11:04:00,664,664,Isaac Haas missed Jumper.,58,34,24,2,0.9994993044965113,0.9937361443234412,4,3,24,NA,NA,Purdue,missed,Isaac Haas,NA,FALSE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,224,2,11:04:00,664,664,Vincent Edwards Offensive Rebound.,58,34,24,0,0.9994993044965113,0.9937361443234412,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,225,2,11:02:00,662,662,Foul on Mileek McMillan.,58,34,24,2,0.9995014630645326,0.993775837303791,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,226,2,11:02:00,662,662,Official TV Timeout,58,34,24,0,0.9995014630645326,0.993775837303791,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,227,2,11:02:00,662,662,Vincent Edwards made Free Throw.,59,34,25,0,0.9995964119656108,0.994955757460192,4,3,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,228,2,11:02:00,662,662,Vincent Edwards made Free Throw.,60,34,26,0,0.9996732832755248,0.9959129190024838,4,3,24,NA,NA,Purdue,made,Vincent Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,229,2,10:51:00,651,651,Marten Linssen Turnover.,60,34,26,11,0.99968194732363,0.9960660739359364,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,230,2,10:47:00,647,647,Nojel Eastern made Jumper.,62,34,28,4,0.999794469045976,0.9974652140742764,4,3,24,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,231,2,10:47:00,647,647,Foul on Markus Golder.,62,34,28,0,0.999794469045976,0.9974652140742764,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,232,2,10:47:00,647,647,Nojel Eastern missed Free Throw.,62,34,28,0,0.999794469045976,0.9974652140742764,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,233,2,10:47:00,647,647,Valparaiso Deadball Team Rebound.,62,34,28,0,0.999794469045976,0.9974652140742764,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,234,2,10:41:00,641,641,Foul on Marten Linssen.,62,34,28,6,0.9997978998435336,0.9975231486452604,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,235,2,10:41:00,641,641,Marten Linssen Turnover.,62,34,28,0,0.9997978998435336,0.9975231486452604,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,236,2,10:29:00,629,629,Nojel Eastern missed Jumper.,62,34,28,12,0.999804885558916,0.9976391158496988,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,237,2,10:29:00,629,629,Valparaiso Defensive Rebound.,62,34,28,0,0.999804885558916,0.9976391158496988,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,238,2,10:11:00,611,611,Marten Linssen made Layup. Assisted by Micah Bradford.,62,36,26,18,0.9997149674041866,0.9966225496742764,4,3,24,NA,NA,Valparaiso,made,Marten Linssen,Micah Bradford,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,239,2,09:56:00,596,596,Dakota Mathias made Jumper. Assisted by Nojel Eastern.,64,36,28,15,0.9998259448913878,0.9979708109311024,4,3,24,NA,NA,Purdue,made,Dakota Mathias,Nojel Eastern,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,240,2,09:43:00,583,583,Micah Bradford missed Jumper.,64,36,28,13,0.999835305429782,0.9981100229063968,4,3,24,NA,NA,Valparaiso,missed,Micah Bradford,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,241,2,09:43:00,583,583,Nojel Eastern Block.,64,36,28,0,0.999835305429782,0.9981100229063968,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,242,2,09:40:00,580,580,Matt Haarms Defensive Rebound.,64,36,28,3,0.99983756303146,0.9981429217968776,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,243,2,09:35:00,575,575,Foul on Mileek McMillan.,64,36,28,5,0.999841407909265,0.9981983826244332,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,244,2,09:35:00,575,575,Carsen Edwards made Free Throw.,65,36,29,0,0.9998734356614372,0.9985617428524846,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,245,2,09:35:00,575,575,Carsen Edwards made Free Throw.,66,36,30,0,0.9998989960464132,0.9988519028552773,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,246,2,09:17:00,557,557,Foul on Carsen Edwards.,66,36,30,18,0.9999091320475102,0.998991744923448,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,247,2,09:17:00,557,557,Tevonn Walker missed Free Throw.,66,36,30,0,0.9999091320475102,0.998991744923448,4,3,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,248,2,09:17:00,557,557,Valparaiso Deadball Team Rebound.,66,36,30,0,0.9999091320475102,0.998991744923448,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,249,2,09:17:00,557,557,Tevonn Walker made Free Throw.,66,37,29,0,0.9998856419023257,0.9987314032155028,4,3,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,250,2,09:07:00,547,547,Foul on John Kiser.,66,37,29,10,0.999892746519278,0.9988269974891592,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,251,2,09:07:00,547,547,Isaac Haas made Free Throw.,67,37,30,0,0.9999150076213638,0.999070255499482,4,3,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,252,2,09:07:00,547,547,Isaac Haas made Free Throw.,68,37,31,0,0.9999326486096524,0.9992631037260308,4,3,24,NA,NA,Purdue,made,Isaac Haas,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,253,2,08:55:00,535,535,Joe Burton Turnover.,68,37,31,12,0.9999375895154896,0.9993285147928764,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,254,2,08:54:00,534,534,Nojel Eastern Steal.,68,37,31,1,0.9999379533023954,0.9993333430092474,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,255,2,08:50:00,530,530,Dakota Mathias missed Three Point Jumper.,68,37,31,4,0.999939348258328,0.999351871961724,4,3,24,NA,NA,Purdue,missed,Dakota Mathias,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,256,2,08:50:00,530,530,Valparaiso Deadball Team Rebound.,68,37,31,0,0.999939348258328,0.999351871961724,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,257,2,08:24:00,504,504,Joe Burton missed Jumper.,68,37,31,26,0.9999468392903492,0.9994513075240586,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,258,2,08:23:00,503,503,Jaume Sorolla Offensive Rebound.,68,37,31,1,0.9999470957140032,0.9994546809522384,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,259,2,08:22:00,502,502,Jaume Sorolla made Two Point Tip Shot.,68,39,29,1,0.9999144792682984,0.9991199250789092,4,3,24,NA,NA,Valparaiso,made,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,260,2,08:06:00,486,486,Foul on Max Joseph.,68,39,29,16,0.99992052055823,0.9991995502872628,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,261,2,08:06:00,486,486,Carsen Edwards missed Free Throw.,68,39,29,0,0.99992052055823,0.9991995502872628,4,3,24,NA,NA,Purdue,missed,Carsen Edwards,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,262,2,08:06:00,486,486,Purdue Deadball Team Rebound.,68,39,29,0,0.99992052055823,0.9991995502872628,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,263,2,08:06:00,486,486,Carsen Edwards made Free Throw.,69,39,30,0,0.9999378426144112,0.9993739049991152,4,3,24,NA,NA,Purdue,made,Carsen Edwards,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,264,2,07:47:00,467,467,Parker Hazen missed Three Point Jumper.,69,39,30,19,0.9999440538620414,0.9994514175074488,4,3,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,265,2,07:47:00,467,467,Isaac Haas Defensive Rebound.,69,39,30,0,0.9999440538620414,0.9994514175074488,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,266,2,07:30:00,450,450,Nojel Eastern Turnover.,69,39,30,17,0.9999503363763684,0.9995255135069608,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,267,2,07:29:00,449,449,Jaume Sorolla Steal.,69,39,30,1,0.999950731311818,0.9995300402061617,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,268,2,07:23:00,443,443,Foul on Nojel Eastern.,69,39,30,6,0.9999531601120846,0.9995575685837388,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,269,2,07:23:00,443,443,Official TV Timeout,69,39,30,0,0.9999531601120846,0.9995575685837388,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,270,2,07:23:00,443,443,Joe Burton made Free Throw.,69,40,29,0,0.9999394089326058,0.9994277467381942,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,271,2,07:23:00,443,443,Joe Burton made Free Throw.,69,41,28,0,0.9999216210202544,0.9992598597116312,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,TRUE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,272,2,07:10:00,430,430,Matt Haarms missed Jumper.,69,41,28,13,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,273,2,07:10:00,430,430,Parker Hazen Block.,69,41,28,0,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,274,2,07:10:00,430,430,Purdue Offensive Rebound.,69,41,28,0,0.9999302721617488,0.9993561991812224,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,275,2,06:58:00,418,418,Matt Haarms made Jumper.,71,41,30,12,0.9999634953244666,0.9996702573814352,4,3,24,NA,NA,Purdue,made,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,276,2,06:39:00,399,399,Parker Hazen missed Layup.,71,41,30,19,0.9999693521563906,0.999733220267063,4,3,24,NA,NA,Valparaiso,missed,Parker Hazen,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,277,2,06:39:00,399,399,Jacquil Taylor Block.,71,41,30,0,0.9999693521563906,0.999733220267063,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,278,2,06:38:00,398,398,Jacquil Taylor Defensive Rebound.,71,41,30,1,0.999969623302428,0.9997361122127998,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,279,2,06:24:00,384,384,Jacquil Taylor made Dunk. Assisted by Nojel Eastern.,73,41,32,14,0.999984675513804,0.999870648604644,4,3,24,NA,NA,Purdue,made,Jacquil Taylor,Nojel Eastern,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,280,2,06:11:00,371,371,Bakari Evelyn missed Three Point Jumper.,73,41,32,13,0.9999865589144104,0.9998896694756316,4,3,24,NA,NA,Valparaiso,missed,Bakari Evelyn,NA,TRUE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,281,2,06:11:00,371,371,Jaume Sorolla Offensive Rebound.,73,41,32,0,0.9999865589144104,0.9998896694756316,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,282,2,06:06:00,366,366,Joe Burton made Layup.,73,43,30,5,0.9999773910707168,0.999816462269507,4,3,24,NA,NA,Valparaiso,made,Joe Burton,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,283,2,05:46:00,346,346,Nojel Eastern missed Jumper.,73,43,30,20,0.9999819141415136,0.9998597257217966,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,284,2,05:46:00,346,346,Parker Hazen Defensive Rebound.,73,43,30,0,0.9999819141415136,0.9998597257217966,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,285,2,05:37:00,337,337,Joe Burton missed Three Point Jumper.,73,43,30,9,0.99998393010054,0.999877990789702,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,286,2,05:37:00,337,337,Matt Haarms Defensive Rebound.,73,43,30,0,0.99998393010054,0.999877990789702,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,287,2,05:20:00,320,320,P.J. Thompson missed Three Point Jumper.,73,43,30,17,0.9999876530288682,0.9999100767451716,4,3,24,NA,NA,Purdue,missed,P.J. Thompson,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,288,2,05:20:00,320,320,Parker Hazen Defensive Rebound.,73,43,30,0,0.9999876530288682,0.9999100767451716,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,289,2,05:12:00,312,312,Joe Burton missed Three Point Jumper.,73,43,30,8,0.999989326947572,0.9999238203005936,4,3,24,NA,NA,Valparaiso,missed,Joe Burton,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,290,2,05:12:00,312,312,Ryan Cline Defensive Rebound.,73,43,30,0,0.999989326947572,0.9999238203005936,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,291,2,04:49:00,289,289,Matt Haarms missed Jumper.,73,43,30,23,0.9999913053845222,0.9999414449672136,4,3,24,NA,NA,Purdue,missed,Matt Haarms,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,292,2,04:49:00,289,289,Max Joseph Defensive Rebound.,73,43,30,0,0.9999913053845222,0.9999414449672136,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,293,2,04:40:00,280,280,Joe Burton made Three Point Jumper. Assisted by Max Joseph.,73,46,27,9,0.9999759916582688,0.9998419313775336,4,3,24,NA,NA,Valparaiso,made,Joe Burton,Max Joseph,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,294,2,04:21:00,261,261,Ryan Cline missed Three Point Jumper.,73,46,27,19,0.9999711720901088,0.9998191173919188,4,3,24,NA,NA,Purdue,missed,Ryan Cline,NA,TRUE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,295,2,04:21:00,261,261,Jaume Sorolla Defensive Rebound.,73,46,27,0,0.9999711720901088,0.9998191173919188,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,296,2,03:57:00,237,237,Jaume Sorolla missed Jumper.,73,46,27,24,0.999964880865674,0.9997931949628164,4,3,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,297,2,03:57:00,237,237,Jaume Sorolla Offensive Rebound.,73,46,27,0,0.999964880865674,0.9997931949628164,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,298,2,03:53:00,233,233,Jaume Sorolla missed Jumper.,73,46,27,4,0.9999646106170323,0.999793890693766,4,3,24,NA,NA,Valparaiso,missed,Jaume Sorolla,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,299,2,03:53:00,233,233,Valparaiso Offensive Rebound.,73,46,27,0,0.9999646106170323,0.999793890693766,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,300,2,03:52:00,232,232,Official TV Timeout,73,46,27,1,0.999964603698235,0.9997944234860336,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,301,2,03:48:00,228,228,Micah Bradford missed Three Point Jumper.,73,46,27,4,0.999964844973658,0.99979810700781,4,3,24,NA,NA,Valparaiso,missed,Micah Bradford,NA,TRUE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,302,2,03:48:00,228,228,Ryan Cline Defensive Rebound.,73,46,27,0,0.999964844973658,0.99979810700781,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,303,2,03:43:00,223,223,Ryan Cline Turnover.,73,46,27,5,0.999965800042216,0.9998063810231892,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,304,2,03:27:00,207,207,Tevonn Walker made Layup.,73,48,25,16,0.999949385594102,0.999726888648646,4,3,24,NA,NA,Valparaiso,made,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,305,2,03:08:00,188,188,Eden Ewing missed Jumper.,73,48,25,19,0.9999750360817872,0.9998733891020876,4,3,24,NA,NA,Purdue,missed,Eden Ewing,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,306,2,03:08:00,188,188,Derrik Smits Block.,73,48,25,0,0.9999750360817872,0.9998733891020876,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,307,2,03:08:00,188,188,Purdue Deadball Team Rebound.,73,48,25,0,0.9999750360817872,0.9998733891020876,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,308,2,02:56:00,176,176,Foul on Micah Bradford.,73,48,25,12,0.999986177068038,0.999932731251024,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,309,2,02:56:00,176,176,Jacquil Taylor missed Free Throw.,73,48,25,0,0.999986177068038,0.999932731251024,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,310,2,02:56:00,176,176,Purdue Deadball Team Rebound.,73,48,25,0,0.999986177068038,0.999932731251024,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,311,2,02:56:00,176,176,Jacquil Taylor made Free Throw.,74,48,26,0,0.9999905872659456,0.9999541925227372,4,3,24,NA,NA,Purdue,made,Jacquil Taylor,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,312,2,02:45:00,165,165,Max Joseph Turnover.,74,48,26,11,0.9999947784042948,0.9999755545930582,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,313,2,02:29:00,149,149,Jacquil Taylor missed Jumper.,74,48,26,16,0.9999979497258076,0.999990942446435,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,314,2,02:29:00,149,149,Derrik Smits Block.,74,48,26,0,0.9999979497258076,0.999990942446435,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,315,2,02:27:00,147,147,Micah Bradford Defensive Rebound.,74,48,26,2,0.9999981916957074,0.9999920703206308,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,316,2,02:21:00,141,141,Markus Golder missed Jumper.,74,48,26,6,0.999998776750651,0.9999947548108048,4,3,24,NA,NA,Valparaiso,missed,Markus Golder,NA,FALSE,FALSE,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,317,2,02:21:00,141,141,Derrik Smits Offensive Rebound.,74,48,26,0,0.999998776750651,0.9999947548108048,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,318,2,02:18:00,138,138,Derrik Smits made Jumper.,74,50,24,3,0.9999974161141002,0.999989045459296,4,3,24,NA,NA,Valparaiso,made,Derrik Smits,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,319,2,01:58:00,118,118,Foul on Max Joseph.,74,50,24,20,0.9999993699103892,0.9999975287830066,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,320,2,01:58:00,118,118,Tommy Luce made Free Throw.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,Purdue,made,Tommy Luce,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,321,2,01:58:00,118,118,Tommy Luce missed Free Throw.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,Purdue,missed,Tommy Luce,NA,FALSE,TRUE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,322,2,01:58:00,118,118,Derrik Smits Defensive Rebound.,75,50,25,0,0.9999996320627448,0.999998556945745,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,323,2,01:47:00,107,107,Micah Bradford Turnover.,75,50,25,11,0.9999998589894764,0.9999994711114504,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,324,2,01:44:00,104,104,Jacquil Taylor Steal.,75,50,25,3,0.9999998937305862,0.9999996063366732,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,325,2,01:30:00,90,90,Eden Ewing made Jumper.,77,50,27,14,0.9999999931507674,0.9999999760899788,4,3,24,NA,NA,Purdue,made,Eden Ewing,NA,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,326,2,01:16:00,76,76,Tevonn Walker missed Jumper.,77,50,27,14,0.9999999987348244,0.9999999958450316,4,3,24,NA,NA,Valparaiso,missed,Tevonn Walker,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,327,2,01:15:00,75,75,Jacquil Taylor Block.,77,50,27,1,0.9999999988857576,0.9999999963569344,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,328,2,01:14:00,74,74,Nojel Eastern Defensive Rebound.,77,50,27,1,0.9999999990197724,0.99999999680935,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,329,2,01:00:00,60,60,Jacquil Taylor missed Three Point Jumper.,77,50,27,14,0.9999999998512676,0.999999999545669,4,3,24,NA,NA,Purdue,missed,Jacquil Taylor,NA,TRUE,FALSE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,330,2,01:00:00,60,60,Nojel Eastern Offensive Rebound.,77,50,27,0,0.9999999998512676,0.999999999545669,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,331,2,00:57:00,57,57,Foul on Tevonn Walker.,77,50,27,3,0.9999999999024766,0.9999999997061944,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,332,2,00:57:00,57,57,Nojel Eastern made Free Throw.,78,50,28,0,0.9999999999567412,0.9999999998696758,4,3,24,NA,NA,Purdue,made,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,333,2,00:57:00,57,57,Nojel Eastern missed Free Throw.,78,50,28,0,0.9999999999567412,0.9999999998696758,4,3,24,NA,NA,Purdue,missed,Nojel Eastern,NA,FALSE,TRUE,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,334,2,00:57:00,57,57,Grady Eifert Offensive Rebound.,78,50,28,0,0.9999999999567412,0.9999999998696758,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,335,2,00:49:00,49,49,Eden Ewing made Layup. Assisted by Tommy Luce.,80,50,30,8,0.9999999999976668,0.9999999999932287,4,3,24,NA,NA,Purdue,made,Eden Ewing,Tommy Luce,FALSE,FALSE,Purdue,Valparaiso
+400986412,2017-12-07,Purdue,Valparaiso,336,2,00:23:00,23,23,Marten Linssen missed Layup.,80,50,30,26,0.9999999999999774,0.999999999999942,4,3,24,NA,NA,Valparaiso,missed,Marten Linssen,NA,FALSE,FALSE,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,337,2,00:23:00,23,23,Jacquil Taylor Defensive Rebound.,80,50,30,0,0.9999999999999774,0.999999999999942,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Valparaiso,Purdue
+400986412,2017-12-07,Purdue,Valparaiso,338,2,00:00:00,0,0,End of Game,80,50,30,23,1,1,4,3,24,NA,NA,NA,NA,NA,NA,NA,NA,Purdue,NA
