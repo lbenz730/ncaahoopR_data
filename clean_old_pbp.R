@@ -1,6 +1,6 @@
 library(tidyverse)
 
-seasons <- paste0(2019:2021, gsub("0\\.", "-", sprintf("%.2f", seq(20, .22, 0.01))))
+seasons <- paste0(2019:2021, gsub("0\\.", "-", sprintf("%.2f", seq(.20, .22, 0.01))))
 
 for(season in seasons) {
   if(dir.exists(paste(season, "pbp_logs", sep = "/"))) {
