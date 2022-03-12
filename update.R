@@ -41,7 +41,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- as.Date(dir('2021-22/pbp_logs/')) %>% max(na.rm = T)
+date <- as.Date(dir('2021-22/pbp_logs/')) %>% min(na.rm = T)
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
@@ -60,8 +60,6 @@ write_csv(master_schedule, "2021-22/pbp_logs/master_schedule.csv")
 ### Box Scores
 schedules <- dir(paste("2021-22/schedules", sep = "/"), full.names = T)
 schedules_clean <- dir(paste("2021-22/schedules", sep = "/"), full.names = F)
-schedules <- schedules[map_dbl(ivy, ~min(which(str_detect(schedules, .x))))]
-schedules_clean <- schedules_clean[map_dbl(ivy, ~min(which(str_detect(schedules_clean, .x))))]
 n <- length(schedules)
 for(i in 1:n) {
   ### Read in Schedule
