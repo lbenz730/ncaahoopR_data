@@ -19,8 +19,8 @@ for(i in 1:n) {
 date <- as.Date(dir('2021-22/pbp_logs/')) %>% max(na.rm = T)
 while(date <= Sys.Date()) {
   print(date)
-  schedule <- get_master_schedule(date)
-  if(!is.null(schedule)) {
+  schedule <- try(get_master_schedule(date))
+  if(class(schedule) != 'try-error' & !is.null(schedule)) {
     if(!dir.exists(paste("2021-22/pbp_logs", date, sep = "/"))) {
       dir.create(paste("2021-22/pbp_logs", date, sep = "/")) 
     }
