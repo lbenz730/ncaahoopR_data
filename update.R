@@ -3,36 +3,43 @@ library(readr)
 
 
 n <- nrow(ids)
+if(!dir.exists('2022-23/rosters/')) {
+  dir.create('2022-23') 
+  dir.create('2022-23/rosters/') 
+  dir.create('2022-23/pbp_logs/') 
+  dir.create('2022-23/schedules/') 
+  dir.create('2022-23/box_scores/') 
+}
 for(i in 1:n) {
   cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
   schedule <- try(get_schedule(ids$team[i]))
   roster <- try(get_roster(ids$team[i]))
   if(class(roster) != 'try-error') {
-    write_csv(roster, paste0("2021-22/rosters/", gsub(" ", "_", ids$team[i]), "_roster.csv"))
+    write_csv(roster, paste0("2022-23/rosters/", gsub(" ", "_", ids$team[i]), "_roster.csv"))
   }
   if(class(schedule) != 'try-error') {
-    write_csv(schedule, paste0("2021-22/schedules/", gsub(" ", "_", ids$team[i]), "_schedule.csv"))
+    write_csv(schedule, paste0("2022-23/schedules/", gsub(" ", "_", ids$team[i]), "_schedule.csv"))
   }
 }
 
 ### Pull Games
-date <- as.Date(dir('2021-22/pbp_logs/')) %>% max(na.rm = T)
+date <- max(as.Date('2022-11-07'), as.Date(dir('2022-23/pbp_logs/')) %>% max(na.rm = T))
 while(date <= Sys.Date()) {
   print(date)
   schedule <- try(get_master_schedule(date))
   if(class(schedule) != 'try-error' & !is.null(schedule)) {
-    if(!dir.exists(paste("2021-22/pbp_logs", date, sep = "/"))) {
-      dir.create(paste("2021-22/pbp_logs", date, sep = "/")) 
+    if(!dir.exists(paste("2022-23/pbp_logs", date, sep = "/"))) {
+      dir.create(paste("2022-23/pbp_logs", date, sep = "/")) 
     }
-    write_csv(schedule, paste("2021-22/pbp_logs", date, "schedule.csv", sep = "/"))
+    write_csv(schedule, paste("2022-23/pbp_logs", date, "schedule.csv", sep = "/"))
     
     n <- nrow(schedule)
     for(i in 1:n) {
-      if(!file.exists(paste("2021-22/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))) {
+      if(!file.exists(paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))) {
         print(paste("Getting Game", i, "of", n, "on", date))
         x <- try(get_pbp_game(schedule$game_id[i]))
         if(!is.null(x) & class(x) != "try-error") {
-          write_csv(x, paste("2021-22/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))
+          write_csv(x, paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))
         }
       }
     }
@@ -41,25 +48,25 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- as.Date(dir('2021-22/pbp_logs/')) %>% max(na.rm = T)
+date <- max(as.Date('2022-11-07'), as.Date(dir('2022-23/pbp_logs/')) %>% max(na.rm = T))
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
-  schedule <- try(read_csv(paste("2021-22/pbp_logs", date, "schedule.csv", sep = "/")) %>%
+  schedule <- try(read_csv(paste("2022-23/pbp_logs", date, "schedule.csv", sep = "/")) %>%
                     mutate("date" = date))
   if(class(schedule)[1] != "try-error") {
-    write_csv(schedule, paste("2021-22/pbp_logs", date, "schedule.csv", sep = "/"))
+    write_csv(schedule, paste("2022-23/pbp_logs", date, "schedule.csv", sep = "/"))
     master_schedule <- bind_rows(master_schedule, schedule)
   }
   
   date <- date + 1
 }
-write_csv(master_schedule, "2021-22/pbp_logs/master_schedule.csv")
+write_csv(master_schedule, "2022-23/pbp_logs/master_schedule.csv")
 
 
 ### Box Scores
-schedules <- dir(paste("2021-22/schedules", sep = "/"), full.names = T)
-schedules_clean <- dir(paste("2021-22/schedules", sep = "/"), full.names = F)
+schedules <- dir(paste("2022-23/schedules", sep = "/"), full.names = T)
+schedules_clean <- dir(paste("2022-23/schedules", sep = "/"), full.names = F)
 n <- length(schedules)
 for(i in 1:n) {
   ### Read in Schedule
@@ -70,7 +77,7 @@ for(i in 1:n) {
   for(k in 1:n1) {
     cat("Scraping Game", k, "of", n1, "for Team", i, "of", n, "\n")
     team <- gsub("_", " ", gsub("_schedule.csv", "", schedules_clean[i]))
-    file <- paste("2021-22/box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
+    file <- paste("2022-23/box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
     if(!file.exists(file)) {
       box <- try(get_boxscore(s$game_id[k]))
       
@@ -90,11 +97,11 @@ for(i in 1:n) {
       
       if(class(box) != "try-error" & box_team %in% names(box) & !is.na(box_team)) {
         ### Create Date Directory if Doesn't Exist
-        if(!dir.exists(paste("2021-22/box_scores", sep = "/"))) {
-          dir.create(paste("2021-22/box_scores", sep = "/")) 
+        if(!dir.exists(paste("2022-23/box_scores", sep = "/"))) {
+          dir.create(paste("2022-23/box_scores", sep = "/")) 
         }
-        if(!dir.exists(paste("2021-22/box_scores", gsub(" ", "_", team), sep = "/"))) {
-          dir.create(paste("2021-22/box_scores", gsub(" ", "_", team), sep = "/"))
+        if(!dir.exists(paste("2022-23/box_scores", gsub(" ", "_", team), sep = "/"))) {
+          dir.create(paste("2022-23/box_scores", gsub(" ", "_", team), sep = "/"))
         }
         df <- as.data.frame(box[[box_team]])
         df$date <- s$date[k]
