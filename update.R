@@ -1,7 +1,7 @@
 library(ncaahoopR)
 library(readr)
 
-
+fresh_scrape <- T ### rescrape old data from current season?
 n <- nrow(ids)
 if(!dir.exists('2022-23/rosters/')) {
   dir.create('2022-23') 
@@ -10,6 +10,8 @@ if(!dir.exists('2022-23/rosters/')) {
   dir.create('2022-23/schedules/') 
   dir.create('2022-23/box_scores/') 
 }
+
+### Schedules + Rosters
 for(i in 1:n) {
   cat("Scraping Data for Team", i, "of", n, paste0("(", ids$team[i], ")"), "\n")
   schedule <- try(get_schedule(ids$team[i]))
@@ -24,6 +26,9 @@ for(i in 1:n) {
 
 ### Pull Games
 date <- max(as.Date('2022-11-07'), as.Date(dir('2022-23/pbp_logs/')) %>% max(na.rm = T))
+if(fresh_scrape) {
+  date <- as.Date('2022-11-07')
+}
 while(date <= Sys.Date()) {
   print(date)
   schedule <- try(get_master_schedule(date))
@@ -35,7 +40,7 @@ while(date <= Sys.Date()) {
     
     n <- nrow(schedule)
     for(i in 1:n) {
-      if(!file.exists(paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/")) | T) {
+      if(!file.exists(paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/")) | fresh_scrape) {
         print(paste("Getting Game", i, "of", n, "on", date))
         x <- try(get_pbp_game(schedule$game_id[i]))
         if(!is.null(x) & class(x) != "try-error") {
@@ -69,7 +74,7 @@ schedules_clean <- dir(paste("2022-23/schedules", sep = "/"), full.names = F)
 n <- length(schedules)
 for(i in 1:n) {
   ### Read in Schedule
-  s <- read_csv(schedules[i])
+  s <- read_csv(schedules[i], col_types = cols())
   s <- filter(s, date < Sys.Date())
   n1 <- nrow(s)
   ### Try to Scrape PBP
@@ -89,7 +94,7 @@ for(i in 1:n) {
         if(sum(substring_ix) == 1) {
           box_team <- teams[substring_ix] 
         } else {
-          team <- teams[which.min(stringdist::stringdist(teams, team))]
+          box_team <- teams[which.min(stringdist::stringdist(teams, team))]
         }
       }
       
@@ -107,7 +112,7 @@ for(i in 1:n) {
         df$opponent <- s$opponent[k]
         df$location <- s$location[k]
         write_csv(df, file)
-      }
+      } 
     }
   }
 }
