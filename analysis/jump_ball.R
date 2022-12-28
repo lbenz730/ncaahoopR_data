@@ -26,22 +26,34 @@ jump_ball_info <- function(pbp_log) {
       half == 1 ~ 2400 - secs_remaining,
       half == 2 ~ 1200 - secs_remaining,
       half > 2 ~ 300 - secs_remaining
-      )) %>% 
+    )) %>% 
     
     ### Remove Fouls/Free Throws with no time elapsed
     filter(!( grepl('Free Throw', description) & secs_elapsed_half == 0),
            !( grepl('free throw', description) & secs_elapsed_half == 0),
            !( grepl('Foul', description) & secs_elapsed_half == 0),
-           !( grepl('foul', description) & secs_elapsed_half == 0)) %>% 
-    slice(1) %>%
+           !( grepl('foul', description) & secs_elapsed_half == 0)) %>%
     ungroup() 
+  
+  ### Scoring Plays
+  df_score <- 
+    df %>% 
+    filter(scoring_play) %>% 
+    slice(1) %>% 
+    group_by(half) %>% 
+    summarise('first_score' = case_when(action_team == 'home' ~ home,
+                                        action_team == 'away' ~ away)) %>% 
+    ungroup()
+  
   
   ### Jump Ball Winner = action_team on first play of half
   df_jump <- 
     df %>% 
+    slice(1) %>%
     mutate('jump_winner' = case_when(action_team == 'home' ~ home,
                                      action_team == 'away' ~ away)) %>% 
-    select(game_id, date, 'team' = home, 'opponent' = away, half, jump_winner) 
+    inner_join(df_score, by = 'half') %>% 
+    select(game_id, date, 'team' = home, 'opponent' = away, half, jump_winner, first_score) 
   
   return(df_jump)
   
