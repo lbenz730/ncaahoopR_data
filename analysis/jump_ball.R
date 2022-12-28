@@ -15,9 +15,25 @@ jump_ball_info <- function(pbp_log) {
   ### First play of each half (minus 2nd half)
   df <- 
     read_csv(here(pbp_log), col_types = cols()) %>% 
-    filter(half != 2) %>% 
+    filter(half != 2) %>%
+    
+    ### Remove the Jump Ball because sometimes tagged incorrectly
+    filter(!grepl('jump ball', description), 
+           !grepl('Jump Ball', description)) %>% 
+    
     group_by(half) %>% 
-    slice(1) %>% 
+    mutate('secs_elapsed_half' = case_when( 
+      half == 1 ~ 2400 - secs_remaining,
+      half == 2 ~ 1200 - secs_remaining,
+      half > 2 ~ 300 - secs_remaining
+      )) %>% 
+    
+    ### Remove Fouls/Free Throws with no time elapsed
+    filter(!( grepl('Free Throw', description) & secs_elapsed_half == 0),
+           !( grepl('free throw', description) & secs_elapsed_half == 0),
+           !( grepl('Foul', description) & secs_elapsed_half == 0),
+           !( grepl('foul', description) & secs_elapsed_half == 0)) %>% 
+    slice(1) %>%
     ungroup() 
   
   ### Jump Ball Winner = action_team on first play of half

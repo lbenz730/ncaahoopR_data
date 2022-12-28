@@ -35,7 +35,7 @@ while(date <= Sys.Date()) {
     
     n <- nrow(schedule)
     for(i in 1:n) {
-      if(!file.exists(paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))) {
+      if(!file.exists(paste("2022-23/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/")) | T) {
         print(paste("Getting Game", i, "of", n, "on", date))
         x <- try(get_pbp_game(schedule$game_id[i]))
         if(!is.null(x) & class(x) != "try-error") {
@@ -48,7 +48,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- max(as.Date('2022-11-07'), as.Date(dir('2022-23/pbp_logs/')) %>% max(na.rm = T))
+date <- as.Date('2022-11-07')
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
@@ -61,8 +61,7 @@ while(date <= Sys.Date()) {
   
   date <- date + 1
 }
-write_csv(master_schedule, "2022-23/pbp_logs/master_schedule.csv")
-
+write_csv(master_schedule, "2022-23/pbp_logs/schedule.csv")
 
 ### Box Scores
 schedules <- dir(paste("2022-23/schedules", sep = "/"), full.names = T)
