@@ -51,9 +51,12 @@ jump_ball_info <- function(pbp_log) {
     df %>% 
     slice(1) %>%
     mutate('jump_winner' = case_when(action_team == 'home' ~ home,
-                                     action_team == 'away' ~ away)) %>% 
+                                     action_team == 'away' ~ away),
+           'spread' = case_when(is.na(home_favored_by) ~ NA_real_,
+                                action_team == 'home' ~ as.numeric(-1 * home_favored_by),
+                                action_team == 'away' ~ as.numeric(home_favored_by))) %>% 
     inner_join(df_score, by = 'half') %>% 
-    select(game_id, date, 'team' = home, 'opponent' = away, half, jump_winner, first_score) 
+    select(game_id, date, 'team' = home, 'opponent' = away, half, jump_winner, first_score, spread) 
   
   return(df_jump)
   
