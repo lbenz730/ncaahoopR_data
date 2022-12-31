@@ -1,7 +1,7 @@
 library(ncaahoopR)
 library(readr)
 
-fresh_scrape <- T ### rescrape old data from current season?
+fresh_scrape <- F ### rescrape old data from current season?
 n <- nrow(ids)
 if(!dir.exists('2022-23/rosters/')) {
   dir.create('2022-23') 

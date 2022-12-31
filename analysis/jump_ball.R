@@ -64,7 +64,7 @@ jump_ball_info <- function(pbp_log) {
 
 ### Get Jump Balls for each 
 df_jump <- 
-  future_map_dfr(pbp_logs, jump_ball_info)
+  future_map_dfr(pbp_logs, jump_ball_info, .progress = T)
 
 ### Duplicate rows (helpful for analysis)
 df_jump_dup <- 
