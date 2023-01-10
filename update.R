@@ -1,3 +1,6 @@
+### Install Latest Version of Package
+devtools::install_github('lbenz730/ncaahoopR')
+
 library(ncaahoopR)
 library(readr)
 
@@ -84,6 +87,10 @@ for(i in 1:n) {
     file <- paste("2022-23/box_scores", gsub(" ", "_", team), paste0(s$game_id[k], ".csv"), sep = "/")
     if(!file.exists(file)) {
       box <- try(get_boxscore(s$game_id[k]))
+      
+      if(is.null(box)) {
+        next
+      }
       
       box_team <- case_when(team == "UConn" ~ team, 
                             T ~ dict$ESPN_PBP[dict$ESPN == team])
