@@ -4661,65 +4661,792 @@ NA,Nevada,New Mexico,NA,NA,77,76,2023-02-07
 401484477,Saint Joseph's,Loyola Chicago,NA,NA,83,71,2023-02-08
 401481124,New Mexico State,Grand Canyon,NA,NA,67,78,2023-02-08
 401481121,Utah Tech,Seattle U,NA,NA,71,75,2023-02-08
-401473482,Wagner,St. Francis Brooklyn,NA,NA,NA,NA,2023-02-09
-401473483,Sacred Heart,St. Francis (PA),NA,NA,NA,NA,2023-02-09
-401484944,Iowa,Purdue,NA,1,NA,NA,2023-02-09
-401492640,Louisiana Tech,Florida International,NA,NA,NA,NA,2023-02-09
-401487124,Rice,Florida Atlantic,NA,NA,NA,NA,2023-02-09
-401480427,Gardner-Webb,Radford,NA,NA,NA,NA,2023-02-09
-401473481,Stonehill,Merrimack,NA,NA,NA,NA,2023-02-09
-401473480,Fairleigh Dickinson,Long Island University,NA,NA,NA,NA,2023-02-09
-401470351,James Madison,Georgia Southern,NA,NA,NA,NA,2023-02-09
-401470350,Old Dominion,Georgia State,NA,NA,NA,NA,2023-02-09
-401470349,Marshall,Coastal Carolina,NA,NA,NA,NA,2023-02-09
-401470239,Kansas City,Western Illinois,NA,NA,NA,NA,2023-02-09
-401469610,Bellarmine,Liberty,NA,NA,NA,NA,2023-02-09
-401469608,Stetson,Jacksonville,NA,NA,NA,NA,2023-02-09
-401469607,Eastern Kentucky,Queens University,NA,NA,NA,NA,2023-02-09
-401469606,Florida Gulf Coast,North Florida,NA,NA,NA,NA,2023-02-09
-401481125,UT Arlington,UT Rio Grande Valley,NA,NA,NA,NA,2023-02-09
-401470348,Appalachian State,UL Monroe,NA,NA,NA,NA,2023-02-09
-401470145,Morehead State,Little Rock,NA,NA,NA,NA,2023-02-09
-401489764,Middle Tennessee,Western Kentucky,NA,NA,NA,NA,2023-02-09
-401487148,UAB,North Texas,NA,NA,NA,NA,2023-02-09
-401485428,New Orleans,Nicholls,NA,NA,NA,NA,2023-02-09
-401484943,Northwestern,Ohio State,NA,NA,NA,NA,2023-02-09
-401470352,Arkansas State,Texas State,NA,NA,NA,NA,2023-02-09
-401470240,Oral Roberts,St. Thomas - Minnesota,NA,NA,NA,NA,2023-02-09
-401470238,Omaha,North Dakota State,NA,NA,NA,NA,2023-02-09
-401470237,Denver,North Dakota,NA,NA,NA,NA,2023-02-09
-401470144,SIU Edwardsville,Lindenwood,NA,NA,NA,NA,2023-02-09
-401470053,Oakland,Green Bay,NA,NA,NA,NA,2023-02-09
-401470052,Detroit Mercy,Milwaukee,NA,NA,NA,NA,2023-02-09
-401469708,Portland State,Northern Colorado,NA,NA,NA,NA,2023-02-09
-401469707,Sacramento State,Northern Arizona,NA,NA,NA,NA,2023-02-09
-401470354,South Alabama,Troy,NA,NA,NA,NA,2023-02-09
-401485429,Houston Christian,Texas A&M-Corpus Christi,NA,NA,NA,NA,2023-02-09
-401485427,SE Louisiana,McNeese,NA,NA,NA,NA,2023-02-09
-401485426,Lamar,Incarnate Word,NA,NA,NA,NA,2023-02-09
-401470353,Louisiana,Southern Miss,NA,NA,NA,NA,2023-02-09
-401470146,UT Martin,Eastern Illinois,NA,NA,NA,NA,2023-02-09
-401469609,Kennesaw State,Jacksonville State,NA,NA,NA,NA,2023-02-09
-401469605,Austin Peay,North Alabama,NA,NA,NA,NA,2023-02-09
-401490380,UCLA,Oregon State,7,NA,NA,NA,2023-02-09
-401470445,San Francisco,Gonzaga,NA,16,NA,NA,2023-02-09
-401487095,Charlotte,UTEP,NA,NA,NA,NA,2023-02-09
-401485430,Northwestern State,Texas A&M-Commerce,NA,NA,NA,NA,2023-02-09
-401481123,Tarleton,Southern Utah,NA,NA,NA,NA,2023-02-09
-401470446,Pacific,Portland,NA,NA,NA,NA,2023-02-09
-401470148,Southeast Missouri State,Tennessee State,NA,NA,NA,NA,2023-02-09
-401470147,Southern Indiana,Tennessee Tech,NA,NA,NA,NA,2023-02-09
-401469807,UC Davis,UC Riverside,NA,NA,NA,NA,2023-02-09
-401469706,Montana State,Weber State,NA,NA,NA,NA,2023-02-09
-401469705,Montana,Idaho State,NA,NA,NA,NA,2023-02-09
-401469611,Lipscomb,Central Arkansas,NA,NA,NA,NA,2023-02-09
-401470447,Saint Mary's,Loyola Marymount,15,NA,NA,NA,2023-02-09
-401490381,Arizona State,Stanford,NA,NA,NA,NA,2023-02-09
-401470444,San Diego,Santa Clara,NA,NA,NA,NA,2023-02-09
-401470443,BYU,Pepperdine,NA,NA,NA,NA,2023-02-09
-401469810,Cal State Northridge,Cal State Bakersfield,NA,NA,NA,NA,2023-02-09
-401469809,Cal Poly,UC Irvine,NA,NA,NA,NA,2023-02-09
-401490378,Arizona,California,4,NA,NA,NA,2023-02-09
-401490379,USC,Oregon,NA,NA,NA,NA,2023-02-09
-401469806,UC Santa Barbara,Long Beach State,NA,NA,NA,NA,2023-02-09
-401469808,UC San Diego,Hawai'i,NA,NA,NA,NA,2023-02-09
+401484944,Iowa,Purdue,NA,1,73,87,2023-02-09
+401490378,Arizona,California,4,NA,85,62,2023-02-09
+401490380,UCLA,Oregon State,7,NA,62,47,2023-02-09
+401470447,Saint Mary's,Loyola Marymount,15,NA,74,78,2023-02-09
+401470445,San Francisco,Gonzaga,NA,16,81,99,2023-02-09
+401473482,Wagner,St. Francis Brooklyn,NA,NA,62,64,2023-02-09
+401473483,Sacred Heart,St. Francis (PA),NA,NA,76,78,2023-02-09
+401492640,Louisiana Tech,Florida International,NA,NA,62,66,2023-02-09
+401487124,Rice,Florida Atlantic,NA,NA,81,90,2023-02-09
+401480427,Gardner-Webb,Radford,NA,NA,61,48,2023-02-09
+401473481,Stonehill,Merrimack,NA,NA,43,56,2023-02-09
+401473480,Fairleigh Dickinson,Long Island University,NA,NA,80,79,2023-02-09
+401470351,James Madison,Georgia Southern,NA,NA,73,76,2023-02-09
+401470350,Old Dominion,Georgia State,NA,NA,63,60,2023-02-09
+401470349,Marshall,Coastal Carolina,NA,NA,92,74,2023-02-09
+401470239,Kansas City,Western Illinois,NA,NA,76,64,2023-02-09
+401469610,Bellarmine,Liberty,NA,NA,50,70,2023-02-09
+401469608,Stetson,Jacksonville,NA,NA,70,67,2023-02-09
+401469607,Eastern Kentucky,Queens University,NA,NA,84,80,2023-02-09
+401469606,Florida Gulf Coast,North Florida,NA,NA,68,66,2023-02-09
+401481125,UT Arlington,UT Rio Grande Valley,NA,NA,64,58,2023-02-09
+401470348,Appalachian State,UL Monroe,NA,NA,52,45,2023-02-09
+401470145,Morehead State,Little Rock,NA,NA,68,72,2023-02-09
+401489764,Middle Tennessee,Western Kentucky,NA,NA,89,93,2023-02-09
+401487148,UAB,North Texas,NA,NA,79,82,2023-02-09
+401485428,New Orleans,Nicholls,NA,NA,59,84,2023-02-09
+401484943,Northwestern,Ohio State,NA,NA,69,63,2023-02-09
+401470352,Arkansas State,Texas State,NA,NA,62,66,2023-02-09
+401470240,Oral Roberts,St. Thomas - Minnesota,NA,NA,95,88,2023-02-09
+401470238,Omaha,North Dakota State,NA,NA,58,84,2023-02-09
+401470237,Denver,North Dakota,NA,NA,63,86,2023-02-09
+401470144,SIU Edwardsville,Lindenwood,NA,NA,63,58,2023-02-09
+401470053,Oakland,Green Bay,NA,NA,59,47,2023-02-09
+401470052,Detroit Mercy,Milwaukee,NA,NA,89,94,2023-02-09
+401469708,Portland State,Northern Colorado,NA,NA,79,88,2023-02-09
+401469707,Sacramento State,Northern Arizona,NA,NA,55,77,2023-02-09
+401485429,Houston Christian,Texas A&M-Corpus Christi,NA,NA,68,91,2023-02-09
+401485427,SE Louisiana,McNeese,NA,NA,66,69,2023-02-09
+401485426,Lamar,Incarnate Word,NA,NA,68,59,2023-02-09
+401470353,Louisiana,Southern Miss,NA,NA,71,82,2023-02-09
+401470146,UT Martin,Eastern Illinois,NA,NA,75,77,2023-02-09
+401469609,Kennesaw State,Jacksonville State,NA,NA,54,52,2023-02-09
+401469605,Austin Peay,North Alabama,NA,NA,57,70,2023-02-09
+401487095,Charlotte,UTEP,NA,NA,62,53,2023-02-09
+401485430,Northwestern State,Texas A&M-Commerce,NA,NA,88,82,2023-02-09
+401481123,Tarleton,Southern Utah,NA,NA,62,72,2023-02-09
+401470446,Pacific,Portland,NA,NA,73,81,2023-02-09
+401470354,South Alabama,Troy,NA,NA,57,61,2023-02-09
+401470148,Southeast Missouri State,Tennessee State,NA,NA,65,85,2023-02-09
+401470147,Southern Indiana,Tennessee Tech,NA,NA,69,84,2023-02-09
+401469807,UC Davis,UC Riverside,NA,NA,65,72,2023-02-09
+401469706,Montana State,Weber State,NA,NA,63,73,2023-02-09
+401469705,Montana,Idaho State,NA,NA,69,61,2023-02-09
+401469611,Lipscomb,Central Arkansas,NA,NA,93,81,2023-02-09
+401490381,Arizona State,Stanford,NA,NA,69,65,2023-02-09
+401470444,San Diego,Santa Clara,NA,NA,75,80,2023-02-09
+401470443,BYU,Pepperdine,NA,NA,80,92,2023-02-09
+401469810,Cal State Northridge,Cal State Bakersfield,NA,NA,58,73,2023-02-09
+401469809,Cal Poly,UC Irvine,NA,NA,54,55,2023-02-09
+401490379,USC,Oregon,NA,NA,60,78,2023-02-09
+401469806,UC Santa Barbara,Long Beach State,NA,NA,75,72,2023-02-09
+401469808,UC San Diego,Hawai'i,NA,NA,62,69,2023-02-09
+401485257,Xavier,Butler,13,NA,67,69,2023-02-10
+401473571,Kent State,Buffalo,NA,NA,72,65,2023-02-10
+401487029,Marist,Saint Peter's,NA,NA,56,67,2023-02-10
+401487028,Fairfield,Rider,NA,NA,57,58,2023-02-10
+401487027,Quinnipiac,Niagara,NA,NA,73,79,2023-02-10
+401487026,Siena,Mount St. Mary's,NA,NA,72,65,2023-02-10
+401487025,Iona,Canisius,NA,NA,80,59,2023-02-10
+401479782,VMI,East Tennessee State,NA,NA,65,69,2023-02-10
+401470055,Youngstown State,Purdue Fort Wayne,NA,NA,81,72,2023-02-10
+401470054,Robert Morris,Cleveland State,NA,NA,55,57,2023-02-10
+401473573,Akron,Ohio,NA,NA,81,90,2023-02-10
+401484478,Saint Louis,Dayton,NA,NA,56,70,2023-02-10
+401482855,New Mexico,Air Force,NA,NA,77,89,2023-02-10
+401470056,Northern Kentucky,Wright State,NA,NA,65,83,2023-02-10
+401482854,Fresno State,Nevada,NA,NA,66,77,2023-02-10
+401484609,Alabama,Auburn,3,NA,77,69,2023-02-11
+401490385,Arizona,Stanford,4,NA,79,88,2023-02-11
+401493430,West Virginia,Texas,NA,5,60,94,2023-02-11
+401484607,Missouri,Tennessee,NA,6,86,85,2023-02-11
+401490383,UCLA,Oregon,7,NA,70,63,2023-02-11
+401488485,Duke,Virginia,NA,8,62,69,2023-02-11
+401493431,Kansas,Oklahoma,9,NA,78,55,2023-02-11
+401485258,Marquette,Georgetown,10,NA,89,75,2023-02-11
+401493433,Oklahoma State,Iowa State,NA,11,64,56,2023-02-11
+401493434,Kansas State,Texas Tech,12,NA,63,71,2023-02-11
+401493432,Baylor,TCU,14,17,72,68,2023-02-11
+401470450,Saint Mary's,Portland,15,NA,81,64,2023-02-11
+401470448,BYU,Gonzaga,NA,16,81,88,2023-02-11
+401484945,Indiana,Michigan,18,NA,62,61,2023-02-11
+401488487,Louisville,Miami,NA,19,85,93,2023-02-11
+401485259,Providence,St. John's,20,NA,68,73,2023-02-11
+401485260,UConn,Creighton,21,23,53,56,2023-02-11
+401488488,NC State,Boston College,22,NA,92,62,2023-02-11
+401484947,Rutgers,Illinois,24,NA,60,69,2023-02-11
+401482856,UNLV,San Diego State,NA,25,71,82,2023-02-11
+401491287,Colgate,Bucknell,NA,NA,76,56,2023-02-11
+401488489,Pittsburgh,Florida State,NA,NA,83,75,2023-02-11
+401484946,Penn State,Maryland,NA,NA,68,74,2023-02-11
+401484610,Kentucky,Georgia,NA,NA,68,75,2023-02-11
+401484479,St. Bonaventure,Duquesne,NA,NA,54,56,2023-02-11
+401492251,Boston University,Lafayette,NA,NA,65,69,2023-02-11
+401488319,Bryant,UMBC,NA,NA,73,76,2023-02-11
+401484606,South Carolina,Ole Miss,NA,NA,64,61,2023-02-11
+401484481,George Washington,Saint Joseph's,NA,NA,69,81,2023-02-11
+401473486,Long Island University,Wagner,NA,NA,46,58,2023-02-11
+401469613,Bellarmine,Queens University,NA,NA,88,84,2023-02-11
+401488137,Army,Navy,NA,NA,53,70,2023-02-11
+401490540,Holy Cross,American University,NA,NA,74,66,2023-02-11
+401490214,Indiana State,Northern Iowa,NA,NA,80,62,2023-02-11
+401490211,UIC,Belmont,NA,NA,71,98,2023-02-11
+401490210,Murray State,Bradley,NA,NA,48,83,2023-02-11
+401489728,Louisiana Tech,Florida Atlantic,NA,NA,85,90,2023-02-11
+401488490,Virginia Tech,Notre Dame,NA,NA,93,87,2023-02-11
+401488318,Albany,Binghamton,NA,NA,66,80,2023-02-11
+401487445,Pennsylvania,Harvard,NA,NA,80,72,2023-02-11
+401487383,Princeton,Dartmouth,NA,NA,76,83,2023-02-11
+401487347,Cornell,Brown,NA,NA,66,80,2023-02-11
+401484483,Rhode Island,George Mason,NA,NA,67,75,2023-02-11
+401484482,UMass,La Salle,NA,NA,72,86,2023-02-11
+401480433,UNC Asheville,Presbyterian,NA,NA,76,72,2023-02-11
+401480430,Campbell,Gardner-Webb,NA,NA,73,77,2023-02-11
+401479783,Western Carolina,Furman,NA,NA,59,93,2023-02-11
+401473572,Bowling Green,Ball State,NA,NA,72,93,2023-02-11
+401473484,St. Francis Brooklyn,Stonehill,NA,NA,51,62,2023-02-11
+401470357,Marshall,Georgia State,NA,NA,88,77,2023-02-11
+401470356,James Madison,Coastal Carolina,NA,NA,73,66,2023-02-11
+401470242,Omaha,North Dakota,NA,NA,73,76,2023-02-11
+401470241,Denver,North Dakota State,NA,NA,70,78,2023-02-11
+401469941,North Carolina A&T,Stony Brook,NA,NA,59,69,2023-02-11
+401469940,William & Mary,Elon,NA,NA,55,66,2023-02-11
+401469939,Towson,Drexel,NA,NA,66,73,2023-02-11
+401469938,Hofstra,Monmouth,NA,NA,86,57,2023-02-11
+401469617,Stetson,North Florida,NA,NA,81,92,2023-02-11
+401490212,Southern Illinois,Drake,NA,NA,59,82,2023-02-11
+401488484,Clemson,North Carolina,NA,NA,71,91,2023-02-11
+401484480,Fordham,Davidson,NA,NA,73,71,2023-02-11
+401493711,St. Xavier,Chicago State,NA,NA,67,91,2023-02-11
+401479785,The Citadel,Samford,NA,NA,70,76,2023-02-11
+401470358,Arkansas State,Georgia Southern,NA,NA,53,68,2023-02-11
+401470244,Oral Roberts,Western Illinois,NA,NA,82,73,2023-02-11
+401484605,Vanderbilt,Florida,NA,NA,88,80,2023-02-11
+401479784,Mercer,Chattanooga,NA,NA,56,73,2023-02-11
+401473569,Central Michigan,Miami (OH),NA,NA,66,60,2023-02-11
+401470361,UL Monroe,Southern Miss,NA,NA,67,76,2023-02-11
+401492156,Alabama State,Arkansas-Pine Bluff,NA,NA,74,71,2023-02-11
+401490477,Howard,Delaware State,NA,NA,86,85,2023-02-11
+401490458,Coppin State,South Carolina State,NA,NA,84,94,2023-02-11
+401488320,Maine,NJIT,NA,NA,50,65,2023-02-11
+401487169,UTEP,UTSA,NA,NA,77,66,2023-02-11
+401487149,Middle Tennessee,UAB,NA,NA,69,92,2023-02-11
+401485490,Norfolk State,Maryland-Eastern Shore,NA,NA,76,73,2023-02-11
+401484948,Wisconsin,Nebraska,NA,NA,63,73,2023-02-11
+401484484,Loyola Chicago,Richmond,NA,NA,71,74,2023-02-11
+401473570,Western Michigan,Northern Illinois,NA,NA,53,81,2023-02-11
+401473485,Merrimack,St. Francis (PA),NA,NA,75,68,2023-02-11
+401469942,Charleston,Hampton,NA,NA,83,70,2023-02-11
+401469815,Cal Poly,Cal State Northridge,NA,NA,53,64,2023-02-11
+401469712,Portland State,Northern Arizona,NA,NA,88,87,2023-02-11
+401469615,Florida Gulf Coast,Jacksonville,NA,NA,62,51,2023-02-11
+401497895,Jackson State,Florida A&M,NA,NA,69,58,2023-02-11
+401496894,Morgan State,North Carolina Central,NA,NA,63,83,2023-02-11
+401485435,Lamar,Texas A&M-Corpus Christi,NA,NA,52,61,2023-02-11
+401485434,Nicholls,SE Louisiana,NA,NA,88,77,2023-02-11
+401485433,Texas A&M-Commerce,Northwestern State,NA,NA,64,72,2023-02-11
+401470153,Tennessee Tech,Tennessee State,NA,NA,53,67,2023-02-11
+401470151,Eastern Illinois,SIU Edwardsville,NA,NA,84,73,2023-02-11
+401470150,Little Rock,UT Martin,NA,NA,61,84,2023-02-11
+401469612,Austin Peay,Central Arkansas,NA,NA,69,76,2023-02-11
+401492190,Alcorn State,Bethune-Cookman,NA,NA,76,74,2023-02-11
+401488486,Georgia Tech,Wake Forest,NA,NA,70,71,2023-02-11
+401485432,McNeese,New Orleans,NA,NA,79,78,2023-02-11
+401480434,South Carolina Upstate,Winthrop,NA,NA,79,70,2023-02-11
+401473487,Central Connecticut,Fairleigh Dickinson,NA,NA,77,73,2023-02-11
+401470360,Louisiana,Troy,NA,NA,65,80,2023-02-11
+401470359,Old Dominion,Texas State,NA,NA,70,68,2023-02-11
+401470152,Morehead State,Southeast Missouri State,NA,NA,65,59,2023-02-11
+401469618,Jacksonville State,Kennesaw State,NA,NA,71,74,2023-02-11
+401485431,Houston Christian,Incarnate Word,NA,NA,84,78,2023-02-11
+401492238,Texas Southern,Grambling,NA,NA,46,65,2023-02-11
+401480431,Radford,Charleston Southern,NA,NA,90,71,2023-02-11
+401490384,USC,Oregon State,NA,NA,58,61,2023-02-11
+401487096,Charlotte,North Texas,NA,NA,43,67,2023-02-11
+401484608,Mississippi State,Arkansas,NA,NA,70,64,2023-02-11
+401470355,Appalachian State,South Alabama,NA,NA,57,74,2023-02-11
+401493845,Prairie View A&M,Southern,NA,NA,65,79,2023-02-11
+401469709,Eastern Washington,Idaho,NA,NA,73,66,2023-02-11
+401493830,Alabama A&M,Mississippi Valley State,NA,NA,70,68,2023-02-11
+401492738,Tulsa,UCF,NA,NA,52,96,2023-02-11
+401492737,South Florida,Cincinnati,NA,NA,65,84,2023-02-11
+401491256,Loyola Maryland,Lehigh,NA,NA,91,82,2023-02-11
+401490213,Illinois State,Valparaiso,NA,NA,76,81,2023-02-11
+401488321,UMass Lowell,Vermont,NA,NA,81,93,2023-02-11
+401487483,Columbia,Yale,NA,NA,68,99,2023-02-11
+401487125,Rice,Florida International,NA,NA,85,78,2023-02-11
+401481130,Sam Houston,Abilene Christian,NA,NA,77,62,2023-02-11
+401480432,Longwood,High Point,NA,NA,70,67,2023-02-11
+401470451,Loyola Marymount,Santa Clara,NA,NA,69,71,2023-02-11
+401470245,South Dakota,South Dakota State,NA,NA,67,72,2023-02-11
+401470058,Detroit Mercy,Green Bay,NA,NA,76,71,2023-02-11
+401470057,Oakland,Milwaukee,NA,NA,77,80,2023-02-11
+401469937,Northeastern,UNC Wilmington,NA,NA,59,71,2023-02-11
+401469614,Eastern Kentucky,Liberty,NA,NA,73,83,2023-02-11
+401481131,Stephen F. Austin,UT Rio Grande Valley,NA,NA,82,72,2023-02-11
+401473574,Toledo,Eastern Michigan,NA,NA,70,63,2023-02-11
+401490382,Arizona State,California,NA,NA,70,62,2023-02-11
+401485261,Seton Hall,Villanova,NA,NA,54,58,2023-02-11
+401482858,Wyoming,Boise State,NA,NA,63,75,2023-02-11
+401481128,Southern Utah,Utah Valley,NA,NA,83,90,2023-02-11
+401470243,Kansas City,St. Thomas - Minnesota,NA,NA,43,73,2023-02-11
+401469713,Sacramento State,Northern Colorado,NA,NA,54,70,2023-02-11
+401469710,Montana State,Idaho State,NA,NA,58,52,2023-02-11
+401469616,Lipscomb,North Alabama,NA,NA,70,80,2023-02-11
+401484611,Texas A&M,LSU,NA,NA,74,62,2023-02-11
+401481129,Tarleton,Utah Tech,NA,NA,75,71,2023-02-11
+401470149,Lindenwood,Southern Indiana,NA,NA,64,74,2023-02-11
+401469711,Montana,Weber State,NA,NA,74,69,2023-02-11
+401527877,New Mexico State,California Baptist,NA,NA,132,NA,2023-02-11
+401527750,West Coast Baptist,California Baptist,NA,NA,73,46,2023-02-11
+401490386,Colorado,Utah,NA,NA,69,62,2023-02-11
+401482857,Utah State,San José State,NA,NA,63,64,2023-02-11
+401481126,Grand Canyon,Seattle U,NA,NA,88,58,2023-02-11
+401470452,Pepperdine,San Francisco,NA,NA,99,80,2023-02-11
+401470449,San Diego,Pacific,NA,NA,79,94,2023-02-11
+401469814,Long Beach State,Cal State Bakersfield,NA,NA,69,84,2023-02-11
+401469813,UC Davis,UC Santa Barbara,NA,NA,56,74,2023-02-11
+401490387,Washington,Washington State,NA,NA,83,51,2023-02-11
+401469811,UC Riverside,UC Irvine,NA,NA,52,64,2023-02-11
+NA,Cal State Fullerton,Hawai'i,NA,NA,77,69,2023-02-11
+401484951,Purdue,Northwestern,1,NA,58,64,2023-02-12
+401492739,Temple,Memphis,NA,NA,77,86,2023-02-12
+401487033,Iona,Niagara,NA,NA,72,55,2023-02-12
+401487030,Quinnipiac,Canisius,NA,NA,65,85,2023-02-12
+401484950,Iowa,Minnesota,NA,NA,68,56,2023-02-12
+401484949,Michigan State,Ohio State,NA,NA,62,41,2023-02-12
+401470061,IUPUI,Northern Kentucky,NA,NA,47,86,2023-02-12
+401470060,Robert Morris,Purdue Fort Wayne,NA,NA,71,64,2023-02-12
+401470059,Youngstown State,Cleveland State,NA,NA,78,81,2023-02-12
+401490215,Missouri State,Evansville,NA,NA,66,60,2023-02-12
+401487034,Marist,Siena,NA,NA,65,73,2023-02-12
+401487032,Saint Peter's,Manhattan,NA,NA,52,68,2023-02-12
+401487031,Mount St. Mary's,Fairfield,NA,NA,72,76,2023-02-12
+401479786,Wofford,UNC Greensboro,NA,NA,89,97,2023-02-12
+401492740,SMU,Wichita State,NA,NA,89,91,2023-02-12
+401493435,Texas,Texas Tech,6,NA,67,74,2023-02-13
+401493436,West Virginia,Baylor,NA,9,67,79,2023-02-13
+401488491,Miami,North Carolina,15,NA,80,72,2023-02-13
+401490541,American University,Bucknell,NA,NA,51,73,2023-02-13
+401469948,North Carolina A&T,Monmouth,NA,NA,71,85,2023-02-13
+401469946,Towson,William & Mary,NA,NA,66,68,2023-02-13
+401469945,Drexel,Hofstra,NA,NA,52,66,2023-02-13
+401469944,Stony Brook,Delaware,NA,NA,60,71,2023-02-13
+401469943,Northeastern,Charleston,NA,NA,63,99,2023-02-13
+401496884,Morgan State,South Carolina State,NA,NA,62,74,2023-02-13
+401492360,Maryland-Eastern Shore,Howard,NA,NA,69,78,2023-02-13
+401485491,Delaware State,Norfolk State,NA,NA,58,97,2023-02-13
+401492217,Jackson State,Bethune-Cookman,NA,NA,91,64,2023-02-13
+401497672,Hartford,South Alabama,NA,NA,53,77,2023-02-13
+401492239,Prairie View A&M,Grambling,NA,NA,64,68,2023-02-13
+401492191,Alcorn State,Florida A&M,NA,NA,67,64,2023-02-13
+401490459,Coppin State,North Carolina Central,NA,NA,52,85,2023-02-13
+401492157,Alabama State,Mississippi Valley State,NA,NA,70,76,2023-02-13
+401494477,Alabama A&M,Arkansas-Pine Bluff,NA,NA,75,72,2023-02-13
+401493846,Texas Southern,Southern,NA,NA,79,68,2023-02-13
+401469947,Hampton,Elon,NA,NA,68,70,2023-02-13
+401493438,Kansas,Oklahoma State,5,NA,87,76,2023-02-14
+401493437,Kansas State,Oklahoma,12,NA,65,79,2023-02-14
+401485262,Creighton,Providence,18,24,86,94,2023-02-14
+401488494,NC State,Syracuse,23,NA,72,75,2023-02-14
+401485264,Georgetown,Seton Hall,NA,NA,68,76,2023-02-14
+401484614,Vanderbilt,South Carolina,NA,NA,75,64,2023-02-14
+401490216,Southern Illinois,Valparaiso,NA,NA,66,62,2023-02-14
+401488493,Notre Dame,Duke,NA,NA,64,68,2023-02-14
+401484952,Illinois,Penn State,NA,NA,81,93,2023-02-14
+401484612,Missouri,Auburn,NA,NA,56,89,2023-02-14
+401484485,Loyola Chicago,UMass,NA,NA,64,62,2023-02-14
+401473580,Akron,Eastern Michigan,NA,NA,78,51,2023-02-14
+401473579,Miami (OH),Toledo,NA,NA,71,89,2023-02-14
+401473578,Northern Illinois,Ball State,NA,NA,77,87,2023-02-14
+401473577,Central Michigan,Bowling Green,NA,NA,77,74,2023-02-14
+401473576,Buffalo,Ohio,NA,NA,61,85,2023-02-14
+401473575,Kent State,Western Michigan,NA,NA,82,58,2023-02-14
+401485265,Butler,Villanova,NA,NA,50,62,2023-02-14
+401484954,Nebraska,Rutgers,NA,NA,82,72,2023-02-14
+401484613,LSU,Georgia,NA,NA,63,65,2023-02-14
+401488492,Boston College,Pittsburgh,NA,NA,58,77,2023-02-14
+401485263,St. John's,DePaul,NA,NA,92,83,2023-02-14
+401484953,Michigan,Wisconsin,NA,NA,59,64,2023-02-14
+401482859,Air Force,Utah State,NA,NA,65,80,2023-02-14
+401482863,Wyoming,New Mexico,NA,NA,70,56,2023-02-14
+401482862,San José State,UNLV,NA,NA,75,66,2023-02-14
+401484615,Alabama,Tennessee,1,10,59,68,2023-02-15
+401488496,Virginia,Louisville,7,NA,61,58,2023-02-15
+401485266,Xavier,Marquette,16,11,68,69,2023-02-15
+401484955,Indiana,Northwestern,14,NA,62,64,2023-02-15
+401493439,TCU,Iowa State,22,19,59,70,2023-02-15
+401482861,San Diego State,Fresno State,21,NA,45,43,2023-02-15
+401484618,Ole Miss,Florida,NA,NA,64,79,2023-02-15
+401492741,Cincinnati,East Carolina,NA,NA,71,75,2023-02-15
+401491276,Boston University,Holy Cross,NA,NA,69,71,2023-02-15
+401491257,Lafayette,Loyola Maryland,NA,NA,70,73,2023-02-15
+401490561,Army,Colgate,NA,NA,86,93,2023-02-15
+401488497,Virginia Tech,Georgia Tech,NA,NA,70,77,2023-02-15
+401488495,Florida State,Clemson,NA,NA,54,94,2023-02-15
+401488325,NJIT,Binghamton,NA,NA,67,86,2023-02-15
+401488324,New Hampshire,Vermont,NA,NA,51,80,2023-02-15
+401488323,UMass Lowell,Bryant,NA,NA,85,71,2023-02-15
+401488322,UMBC,Albany,NA,NA,74,81,2023-02-15
+401488138,Navy,Lehigh,NA,NA,75,64,2023-02-15
+401484491,VCU,Rhode Island,NA,NA,55,54,2023-02-15
+401484490,St. Bonaventure,Fordham,NA,NA,63,78,2023-02-15
+401484489,Saint Joseph's,Duquesne,NA,NA,62,76,2023-02-15
+401484488,Richmond,La Salle,NA,NA,62,68,2023-02-15
+401484487,George Mason,George Washington,NA,NA,66,53,2023-02-15
+401480438,Longwood,South Carolina Upstate,NA,NA,67,72,2023-02-15
+401480437,High Point,Presbyterian,NA,NA,71,69,2023-02-15
+401480436,Winthrop,Gardner-Webb,NA,NA,86,78,2023-02-15
+401480435,Charleston Southern,Campbell,NA,NA,51,67,2023-02-15
+401479791,Chattanooga,VMI,NA,NA,78,58,2023-02-15
+401479790,Furman,The Citadel,NA,NA,65,69,2023-02-15
+401479789,East Tennessee State,Western Carolina,NA,NA,66,68,2023-02-15
+401479788,Mercer,Wofford,NA,NA,67,70,2023-02-15
+401470062,IUPUI,Oakland,NA,NA,81,85,2023-02-15
+401469619,Florida Gulf Coast,Stetson,NA,NA,72,75,2023-02-15
+401490218,Evansville,Belmont,NA,NA,63,95,2023-02-15
+401481136,Tarleton,Stephen F. Austin,NA,NA,60,65,2023-02-15
+401481135,UT Arlington,Sam Houston,NA,NA,56,66,2023-02-15
+401479787,UNC Greensboro,Samford,NA,NA,71,83,2023-02-15
+401492742,South Florida,Tulsa,NA,NA,96,69,2023-02-15
+401490221,Indiana State,UIC,NA,NA,79,60,2023-02-15
+401490220,Murray State,Illinois State,NA,NA,76,75,2023-02-15
+401490217,Missouri State,Bradley,NA,NA,54,64,2023-02-15
+401484616,Kentucky,Mississippi State,NA,NA,71,68,2023-02-15
+401490219,Drake,Northern Iowa,NA,NA,82,74,2023-02-15
+401484617,Arkansas,Texas A&M,NA,NA,56,62,2023-02-15
+401484486,Davidson,Saint Louis,NA,NA,65,78,2023-02-15
+401481134,Abilene Christian,New Mexico State,NA,NA,77,NA,2023-02-15
+401481133,UT Rio Grande Valley,Grand Canyon,NA,NA,76,73,2023-02-15
+401469820,Cal State Northridge,UC Davis,NA,NA,80,62,2023-02-15
+401482860,Boise State,Colorado State,NA,NA,78,84,2023-02-15
+401481132,Seattle U,California Baptist,NA,NA,88,63,2023-02-15
+401469819,Long Beach State,UC Riverside,NA,NA,70,76,2023-02-15
+401469818,Cal State Bakersfield,Cal Poly,NA,NA,62,76,2023-02-15
+401469817,Cal State Fullerton,UC San Diego,NA,NA,73,70,2023-02-15
+401469816,UC Irvine,UC Santa Barbara,NA,NA,59,72,2023-02-15
+NA,Oregon,Washington,NA,NA,59,68,2023-02-15
+401492743,Houston,SMU,2,NA,80,65,2023-02-16
+401484958,Purdue,Maryland,3,NA,54,68,2023-02-16
+401490391,Stanford,UCLA,NA,4,64,73,2023-02-16
+401490389,Utah,Arizona,NA,8,62,88,2023-02-16
+401470455,Gonzaga,Loyola Marymount,13,NA,108,65,2023-02-16
+401470454,Saint Mary's,San Diego,17,NA,62,59,2023-02-16
+401489729,Florida Atlantic,Middle Tennessee,25,NA,70,74,2023-02-16
+401473491,St. Francis (PA),St. Francis Brooklyn,NA,NA,72,64,2023-02-16
+401470362,Texas State,Appalachian State,NA,NA,75,82,2023-02-16
+401497561,Merrimack,Hartford,NA,NA,67,59,2023-02-16
+401492744,Wichita State,Temple,NA,NA,79,65,2023-02-16
+401490425,North Texas,Louisiana Tech,NA,NA,72,62,2023-02-16
+401487097,Western Kentucky,Charlotte,NA,NA,64,68,2023-02-16
+401480439,UNC Asheville,Radford,NA,NA,63,54,2023-02-16
+401473490,Long Island University,Stonehill,NA,NA,60,75,2023-02-16
+401473489,Fairleigh Dickinson,Sacred Heart,NA,NA,86,94,2023-02-16
+401473488,Wagner,Central Connecticut,NA,NA,57,58,2023-02-16
+401470365,Old Dominion,James Madison,NA,NA,67,76,2023-02-16
+401470364,Georgia Southern,Marshall,NA,NA,83,84,2023-02-16
+401470363,Georgia State,Coastal Carolina,NA,NA,68,77,2023-02-16
+401470064,Milwaukee,Youngstown State,NA,NA,58,87,2023-02-16
+401470063,Green Bay,Robert Morris,NA,NA,56,71,2023-02-16
+401469954,UNC Wilmington,Drexel,NA,NA,72,71,2023-02-16
+401469953,Charleston,Elon,NA,NA,88,66,2023-02-16
+401469952,William & Mary,Stony Brook,NA,NA,66,71,2023-02-16
+401469951,Hampton,Hofstra,NA,NA,43,73,2023-02-16
+401469950,Delaware,Towson,NA,NA,72,95,2023-02-16
+401469949,Monmouth,Northeastern,NA,NA,62,77,2023-02-16
+401469625,Liberty,Kennesaw State,NA,NA,81,88,2023-02-16
+401469621,Queens University,Jacksonville State,NA,NA,69,76,2023-02-16
+401469623,North Alabama,Bellarmine,NA,NA,70,57,2023-02-16
+401469620,Central Arkansas,Eastern Kentucky,NA,NA,58,74,2023-02-16
+401492745,UCF,Memphis,NA,NA,63,64,2023-02-16
+401490390,Colorado,Arizona State,NA,NA,67,59,2023-02-16
+401487126,UTSA,Rice,NA,NA,84,79,2023-02-16
+401485438,Texas A&M-Corpus Christi,Nicholls,NA,NA,78,74,2023-02-16
+401485436,Houston Christian,Lamar,NA,NA,75,91,2023-02-16
+401470368,Southern Miss,South Alabama,NA,NA,54,85,2023-02-16
+401470367,UL Monroe,Louisiana,NA,NA,67,84,2023-02-16
+401470249,North Dakota,Oral Roberts,NA,NA,70,73,2023-02-16
+401470248,North Dakota State,Kansas City,NA,NA,69,58,2023-02-16
+401470247,South Dakota,Omaha,NA,NA,72,80,2023-02-16
+401470156,Eastern Illinois,Southeast Missouri State,NA,NA,64,78,2023-02-16
+401469624,Jacksonville,Austin Peay,NA,NA,60,56,2023-02-16
+401469622,North Florida,Lipscomb,NA,NA,114,111,2023-02-16
+401485437,Incarnate Word,McNeese,NA,NA,76,78,2023-02-16
+401470366,Troy,Arkansas State,NA,NA,67,62,2023-02-16
+401470155,Southern Indiana,Little Rock,NA,NA,82,81,2023-02-16
+401487150,UAB,UTEP,NA,NA,79,66,2023-02-16
+401485440,New Orleans,Texas A&M-Commerce,NA,NA,84,78,2023-02-16
+401485439,SE Louisiana,Northwestern State,NA,NA,76,81,2023-02-16
+401484957,Ohio State,Iowa,NA,NA,75,92,2023-02-16
+401470453,Santa Clara,BYU,NA,NA,81,74,2023-02-16
+401470246,South Dakota State,Denver,NA,NA,80,75,2023-02-16
+401470158,SIU Edwardsville,UT Martin,NA,NA,84,90,2023-02-16
+401470157,Tennessee State,Morehead State,NA,NA,64,74,2023-02-16
+401470154,Lindenwood,Tennessee Tech,NA,NA,68,77,2023-02-16
+401469715,Northern Colorado,Idaho,NA,NA,82,84,2023-02-16
+401469714,Northern Arizona,Eastern Washington,NA,NA,55,72,2023-02-16
+401490392,California,USC,NA,NA,60,97,2023-02-16
+401469717,Weber State,Sacramento State,NA,NA,52,49,2023-02-16
+401469716,Idaho State,Portland State,NA,NA,70,79,2023-02-16
+401490393,Oregon State,Washington State,NA,NA,62,80,2023-02-16
+401470456,San Francisco,Pacific,NA,NA,76,68,2023-02-16
+401487384,Dartmouth,Cornell,NA,NA,83,95,2023-02-17
+401473585,Eastern Michigan,Kent State,NA,NA,54,81,2023-02-17
+401487467,Yale,Pennsylvania,NA,NA,64,66,2023-02-17
+401487446,Harvard,Columbia,NA,NA,83,65,2023-02-17
+401487348,Brown,Princeton,NA,NA,67,78,2023-02-17
+401487038,Canisius,Rider,NA,NA,81,78,2023-02-17
+401487037,Niagara,Mount St. Mary's,NA,NA,66,70,2023-02-17
+401487036,Fairfield,Marist,NA,NA,70,61,2023-02-17
+401487035,Manhattan,Iona,NA,NA,60,71,2023-02-17
+401484492,Dayton,Loyola Chicago,NA,NA,65,49,2023-02-17
+401470067,Wright State,Cleveland State,NA,NA,68,85,2023-02-17
+401470066,Northern Kentucky,Purdue Fort Wayne,NA,NA,63,50,2023-02-17
+401470065,Detroit Mercy,Oakland,NA,NA,96,74,2023-02-17
+401493712,Calumet College,Chicago State,NA,NA,56,103,2023-02-17
+401487039,Quinnipiac,Siena,NA,NA,66,63,2023-02-17
+401481139,Utah Tech,Southern Utah,NA,NA,71,81,2023-02-17
+401482864,Air Force,Wyoming,NA,NA,75,69,2023-02-17
+401482867,New Mexico,San José State,NA,NA,96,68,2023-02-17
+401481137,Abilene Christian,Grand Canyon,NA,NA,84,94,2023-02-17
+401484621,Georgia,Alabama,NA,1,59,108,2023-02-18
+401490396,California,UCLA,NA,4,43,78,2023-02-18
+401493443,Baylor,Kansas,9,5,71,87,2023-02-18
+401493441,Oklahoma,Texas,NA,6,83,85,2023-02-18
+401488501,Notre Dame,Virginia,NA,7,55,57,2023-02-18
+401490394,Colorado,Arizona,NA,8,68,78,2023-02-18
+401484619,Tennessee,Kentucky,10,NA,54,66,2023-02-18
+401493444,Iowa State,Kansas State,19,12,55,61,2023-02-18
+401470458,Gonzaga,Pepperdine,13,NA,97,88,2023-02-18
+401484959,Illinois,Indiana,NA,14,68,71,2023-02-18
+401488503,Wake Forest,Miami,NA,15,87,96,2023-02-18
+401485267,DePaul,Xavier,NA,16,68,82,2023-02-18
+401470457,BYU,Saint Mary's,NA,17,65,71,2023-02-18
+401485270,Creighton,St. John's,18,NA,77,67,2023-02-18
+401485268,Seton Hall,UConn,NA,20,55,64,2023-02-18
+401493442,Oklahoma State,TCU,NA,22,75,100,2023-02-18
+401485269,Villanova,Providence,NA,24,72,85,2023-02-18
+401493440,Texas Tech,West Virginia,NA,NA,78,72,2023-02-18
+401488498,Boston College,Florida State,NA,NA,75,69,2023-02-18
+401484962,Rutgers,Wisconsin,NA,NA,58,57,2023-02-18
+401479792,UNC Greensboro,Chattanooga,NA,NA,93,76,2023-02-18
+401469957,William & Mary,Northeastern,NA,NA,57,69,2023-02-18
+401484493,Saint Joseph's,Davidson,NA,NA,75,76,2023-02-18
+401492252,Bucknell,Boston University,NA,NA,61,77,2023-02-18
+401488328,UMBC,New Hampshire,NA,NA,66,75,2023-02-18
+401488327,Binghamton,UMass Lowell,NA,NA,70,84,2023-02-18
+401484622,South Carolina,LSU,NA,NA,82,73,2023-02-18
+401479796,Samford,VMI,NA,NA,96,61,2023-02-18
+401479793,Wofford,The Citadel,NA,NA,72,68,2023-02-18
+401473495,Stonehill,Central Connecticut,NA,NA,90,94,2023-02-18
+401473492,St. Francis (PA),Long Island University,NA,NA,93,82,2023-02-18
+401470372,Georgia Southern,Southern Miss,NA,NA,62,73,2023-02-18
+401494705,Florida Tech,Georgia Tech,NA,NA,56,79,2023-02-18
+401491277,Holy Cross,Colgate,NA,NA,73,96,2023-02-18
+401490542,Lehigh,American University,NA,NA,62,59,2023-02-18
+401490223,Illinois State,Indiana State,NA,NA,64,80,2023-02-18
+401488326,Albany,Maine,NA,NA,72,74,2023-02-18
+401484620,Florida,Arkansas,NA,NA,65,84,2023-02-18
+401484497,UMass,Rhode Island,NA,NA,69,45,2023-02-18
+401480440,Presbyterian,Campbell,NA,NA,57,74,2023-02-18
+401479795,Western Carolina,Mercer,NA,NA,71,68,2023-02-18
+401473581,Ohio,Central Michigan,NA,NA,76,59,2023-02-18
+401473493,Merrimack,Sacred Heart,NA,NA,67,55,2023-02-18
+401470370,Texas State,Coastal Carolina,NA,NA,78,75,2023-02-18
+401470069,Green Bay,Youngstown State,NA,NA,65,95,2023-02-18
+401469958,Elon,Monmouth,NA,NA,75,68,2023-02-18
+401469630,Queens University,Kennesaw State,NA,NA,83,76,2023-02-18
+401484494,Fordham,VCU,NA,NA,61,80,2023-02-18
+401473583,Ball State,Western Michigan,NA,NA,68,78,2023-02-18
+401487098,Charlotte,Louisiana Tech,NA,NA,74,67,2023-02-18
+401481142,UT Arlington,Stephen F. Austin,NA,NA,75,70,2023-02-18
+401480444,Radford,Longwood,NA,NA,63,73,2023-02-18
+401480442,Gardner-Webb,UNC Asheville,NA,NA,63,75,2023-02-18
+401470371,Georgia State,Arkansas State,NA,NA,70,75,2023-02-18
+401470250,South Dakota,Denver,NA,NA,68,86,2023-02-18
+401470159,Lindenwood,Morehead State,NA,NA,58,71,2023-02-18
+401469719,Northern Arizona,Idaho,NA,NA,72,50,2023-02-18
+401484623,Mississippi State,Ole Miss,NA,NA,69,61,2023-02-18
+401497568,Howard,Coppin State,NA,NA,80,70,2023-02-18
+401492362,South Carolina State,Maryland-Eastern Shore,NA,NA,62,78,2023-02-18
+401492240,Southern,Grambling,NA,NA,64,69,2023-02-18
+401492192,Alcorn State,Jackson State,NA,NA,75,60,2023-02-18
+401490478,North Carolina Central,Delaware State,NA,NA,66,58,2023-02-18
+401490224,Northern Iowa,Missouri State,NA,NA,69,66,2023-02-18
+401490222,Evansville,Murray State,NA,NA,58,74,2023-02-18
+401488139,Loyola Maryland,Navy,NA,NA,53,65,2023-02-18
+401487151,UAB,UTSA,NA,NA,83,78,2023-02-18
+401485493,Morgan State,Norfolk State,NA,NA,50,72,2023-02-18
+401485443,Incarnate Word,Nicholls,NA,NA,74,84,2023-02-18
+401484496,La Salle,George Mason,NA,NA,66,70,2023-02-18
+401480443,South Carolina Upstate,High Point,NA,NA,66,81,2023-02-18
+401473494,Fairleigh Dickinson,Wagner,NA,NA,66,48,2023-02-18
+401470375,UL Monroe,South Alabama,NA,NA,45,81,2023-02-18
+401470369,Old Dominion,Appalachian State,NA,NA,74,63,2023-02-18
+401470163,UT Martin,Tennessee Tech,NA,NA,100,91,2023-02-18
+401469960,UNC Wilmington,Delaware,NA,NA,66,75,2023-02-18
+401469959,North Carolina A&T,Towson,NA,NA,75,87,2023-02-18
+401469956,Drexel,Hampton,NA,NA,72,75,2023-02-18
+401469822,UC Davis,UC Irvine,NA,NA,76,78,2023-02-18
+401469632,North Florida,Austin Peay,NA,NA,71,73,2023-02-18
+401485444,New Orleans,Northwestern State,NA,NA,68,65,2023-02-18
+401485442,Texas A&M-Corpus Christi,McNeese,NA,NA,54,77,2023-02-18
+401473582,Miami (OH),Northern Illinois,NA,NA,66,65,2023-02-18
+401470162,SIU Edwardsville,Tennessee State,NA,NA,85,100,2023-02-18
+401470160,Eastern Illinois,Little Rock,NA,NA,77,81,2023-02-18
+401488502,Pittsburgh,Virginia Tech,NA,NA,72,79,2023-02-18
+401482865,Colorado State,Fresno State,NA,NA,60,57,2023-02-18
+401473586,Toledo,Bowling Green,NA,NA,91,86,2023-02-18
+401470161,Southern Indiana,Southeast Missouri State,NA,NA,80,85,2023-02-18
+401469718,Northern Colorado,Eastern Washington,NA,NA,77,89,2023-02-18
+401485371,SE Louisiana,Texas A&M-Commerce,NA,NA,78,76,2023-02-18
+401480441,Winthrop,Charleston Southern,NA,NA,75,67,2023-02-18
+401493831,Mississippi Valley State,Texas Southern,NA,NA,62,80,2023-02-18
+401492218,Bethune-Cookman,Alabama A&M,NA,NA,56,90,2023-02-18
+401490562,Lafayette,Army,NA,NA,43,53,2023-02-18
+401490395,Utah,Arizona State,NA,NA,59,67,2023-02-18
+401489765,Florida International,Middle Tennessee,NA,NA,58,69,2023-02-18
+401488500,Duke,Syracuse,NA,NA,77,55,2023-02-18
+401487484,Yale,Princeton,NA,NA,93,83,2023-02-18
+401487447,Harvard,Cornell,NA,NA,73,56,2023-02-18
+401487349,Brown,Pennsylvania,NA,NA,69,90,2023-02-18
+401484624,Texas A&M,Missouri,NA,NA,69,60,2023-02-18
+401469631,Liberty,Jacksonville State,NA,NA,79,55,2023-02-18
+401469628,Stetson,Florida Gulf Coast,NA,NA,88,84,2023-02-18
+401494487,Arkansas-Pine Bluff,Prairie View A&M,NA,NA,71,82,2023-02-18
+401492158,Florida A&M,Alabama State,NA,NA,60,54,2023-02-18
+401469955,Hofstra,Stony Brook,NA,NA,68,65,2023-02-18
+401488499,Clemson,Louisville,NA,NA,73,83,2023-02-18
+401488329,Vermont,NJIT,NA,NA,82,80,2023-02-18
+401487385,Dartmouth,Columbia,NA,NA,65,71,2023-02-18
+401473584,Buffalo,Akron,NA,NA,66,86,2023-02-18
+401470374,Troy,Marshall,NA,NA,78,88,2023-02-18
+401470373,Louisiana,James Madison,NA,NA,68,74,2023-02-18
+401470068,Milwaukee,Robert Morris,NA,NA,60,80,2023-02-18
+401469824,Cal Poly,Cal State Fullerton,NA,NA,62,83,2023-02-18
+401469823,Hawai'i,Long Beach State,NA,NA,70,67,2023-02-18
+401469720,Idaho State,Sacramento State,NA,NA,65,70,2023-02-18
+401469627,North Alabama,Eastern Kentucky,NA,NA,98,93,2023-02-18
+401492746,Tulane,South Florida,NA,NA,84,66,2023-02-18
+401490398,Oregon State,Washington,NA,NA,47,61,2023-02-18
+401487127,Western Kentucky,Rice,NA,NA,77,83,2023-02-18
+401485441,Lamar,Houston Christian,NA,NA,74,93,2023-02-18
+401484960,Michigan State,Michigan,NA,NA,72,84,2023-02-18
+401484495,Duquesne,Saint Louis,NA,NA,85,90,2023-02-18
+401482866,Nevada,Utah State,NA,NA,66,75,2023-02-18
+401481141,Sam Houston,Tarleton,NA,NA,64,59,2023-02-18
+401481138,Utah Valley,Seattle U,NA,NA,67,58,2023-02-18
+401470254,Western Illinois,St. Thomas - Minnesota,NA,NA,69,82,2023-02-18
+401470253,North Dakota State,Oral Roberts,NA,NA,66,74,2023-02-18
+401470252,North Dakota,Kansas City,NA,NA,81,73,2023-02-18
+401470251,South Dakota State,Omaha,NA,NA,91,70,2023-02-18
+401469821,UC Santa Barbara,UC Riverside,NA,NA,63,74,2023-02-18
+401469626,Jacksonville,Lipscomb,NA,NA,59,62,2023-02-18
+401484625,Auburn,Vanderbilt,NA,NA,65,67,2023-02-18
+401470459,Santa Clara,Portland,NA,NA,103,84,2023-02-18
+401487270,North Texas,UTEP,NA,NA,80,72,2023-02-18
+401484961,Penn State,Minnesota,NA,NA,76,69,2023-02-18
+401481140,UT Rio Grande Valley,New Mexico State,NA,NA,72,NA,2023-02-18
+401469721,Montana,Montana State,NA,NA,85,68,2023-02-18
+401490397,Stanford,USC,NA,NA,90,75,2023-02-18
+401470460,Pacific,Loyola Marymount,NA,NA,75,88,2023-02-18
+401469825,Cal State Northridge,UC San Diego,NA,NA,65,62,2023-02-18
+401469722,Weber State,Portland State,NA,NA,59,108,2023-02-18
+401492749,Memphis,Houston,NA,2,64,72,2023-02-19
+401484965,Ohio State,Purdue,NA,3,55,82,2023-02-19
+401488504,North Carolina,NC State,NA,23,69,77,2023-02-19
+401492747,Cincinnati,UCF,NA,NA,73,71,2023-02-19
+401470070,IUPUI,Detroit Mercy,NA,NA,68,81,2023-02-19
+401492748,Tulsa,Temple,NA,NA,53,76,2023-02-19
+401490225,Bradley,Southern Illinois,NA,NA,50,48,2023-02-19
+401487044,Iona,Saint Peter's,NA,NA,73,53,2023-02-19
+401487043,Rider,Quinnipiac,NA,NA,88,90,2023-02-19
+401487042,Canisius,Mount St. Mary's,NA,NA,74,75,2023-02-19
+401487041,Niagara,Marist,NA,NA,52,61,2023-02-19
+401487040,Manhattan,Fairfield,NA,NA,73,72,2023-02-19
+401484498,George Washington,St. Bonaventure,NA,NA,83,81,2023-02-19
+401470071,Wright State,Purdue Fort Wayne,NA,NA,75,77,2023-02-19
+401493713,Hartford,Chicago State,NA,NA,53,75,2023-02-19
+401492750,East Carolina,SMU,NA,NA,70,86,2023-02-19
+401490226,Valparaiso,UIC,NA,NA,73,74,2023-02-19
+401485271,Georgetown,Butler,NA,NA,68,62,2023-02-19
+401470072,Northern Kentucky,Cleveland State,NA,NA,63,64,2023-02-19
+401490227,Belmont,Drake,NA,NA,56,70,2023-02-19
+401469629,Central Arkansas,Bellarmine,NA,NA,67,68,2023-02-19
+401484964,Maryland,Nebraska,NA,NA,66,70,2023-02-19
+401479794,East Tennessee State,Furman,NA,NA,79,83,2023-02-19
+401484963,Iowa,Northwestern,NA,NA,60,80,2023-02-19
+401490399,Oregon,Washington State,NA,NA,65,68,2023-02-19
+401482868,UNLV,Boise State,NA,NA,69,73,2023-02-19
+401493446,Kansas,TCU,3,24,63,58,2023-02-20
+401469830,UC San Diego,UC Davis,NA,NA,66,76,2023-02-20
+401493445,Oklahoma State,West Virginia,NA,NA,67,85,2023-02-20
+401488505,Louisville,Duke,NA,NA,62,79,2023-02-20
+401531170,Southwest Assemblies of God,UT Rio Grande Valley,NA,NA,65,113,2023-02-20
+401497569,Howard,Morgan State,NA,NA,76,89,2023-02-20
+401492361,North Carolina Central,Maryland-Eastern Shore,NA,NA,68,63,2023-02-20
+401490479,South Carolina State,Delaware State,NA,NA,68,69,2023-02-20
+401485492,Coppin State,Norfolk State,NA,NA,69,62,2023-02-20
+401525990,Texas A&M-Commerce,Nicholls,NA,NA,72,71,2023-02-20
+401469829,Hawai'i,Cal State Bakersfield,NA,NA,61,50,2023-02-20
+401494488,Arkansas-Pine Bluff,Texas Southern,NA,NA,59,64,2023-02-20
+401492159,Bethune-Cookman,Alabama State,NA,NA,70,65,2023-02-20
+401526672,Minnesota,Illinois,NA,NA,69,78,2023-02-20
+401494478,Florida A&M,Alabama A&M,NA,NA,77,71,2023-02-20
+401493832,Mississippi Valley State,Prairie View A&M,NA,NA,65,67,2023-02-20
+401469828,Cal State Fullerton,UC Santa Barbara,NA,NA,74,60,2023-02-20
+401469827,UC Riverside,Cal State Northridge,NA,NA,96,76,2023-02-20
+401469826,UC Irvine,Cal Poly,NA,NA,59,56,2023-02-20
+401493449,Iowa State,Texas,23,8,54,72,2023-02-21
+401493447,Baylor,Kansas State,9,14,65,75,2023-02-21
+401485273,Marquette,Creighton,10,19,73,71,2023-02-21
+401484628,Tennessee,Texas A&M,11,25,63,68,2023-02-21
+401488507,Miami,Virginia Tech,13,NA,76,70,2023-02-21
+401485272,Villanova,Xavier,NA,16,64,63,2023-02-21
+401484966,Indiana,Michigan State,17,NA,65,80,2023-02-21
+401482869,Colorado State,San Diego State,NA,22,58,77,2023-02-21
+401531444,Park University Gilbert,Grand Canyon,NA,NA,38,111,2023-02-21
+401490228,Murray State,Missouri State,NA,NA,69,84,2023-02-21
+401488506,Georgia Tech,Pittsburgh,NA,NA,68,76,2023-02-21
+401484627,Mississippi State,Missouri,NA,NA,64,66,2023-02-21
+401484500,VCU,Saint Joseph's,NA,NA,88,63,2023-02-21
+401484499,Saint Louis,Richmond,NA,NA,78,81,2023-02-21
+401473592,Western Michigan,Eastern Michigan,NA,NA,59,66,2023-02-21
+401473591,Akron,Toledo,NA,NA,63,84,2023-02-21
+401473590,Central Michigan,Buffalo,NA,NA,35,63,2023-02-21
+401473589,Kent State,Ball State,NA,NA,70,82,2023-02-21
+401473588,Northern Illinois,Ohio,NA,NA,68,77,2023-02-21
+401473587,Bowling Green,Miami (OH),NA,NA,65,74,2023-02-21
+401470073,Youngstown State,Robert Morris,NA,NA,64,83,2023-02-21
+401492751,East Carolina,Tulsa,NA,NA,62,60,2023-02-21
+401493448,Texas Tech,Oklahoma,NA,NA,74,63,2023-02-21
+401484626,Georgia,Arkansas,NA,NA,65,97,2023-02-21
+401482873,Utah State,Wyoming,NA,NA,65,55,2023-02-21
+401482870,Fresno State,Air Force,NA,NA,74,69,2023-02-21
+401482872,San José State,Nevada,NA,NA,51,66,2023-02-21
+401492754,Tulane,Houston,NA,1,59,89,2023-02-22
+401484632,Alabama,South Carolina,2,NA,78,76,2023-02-22
+401488510,Virginia,Boston College,6,NA,48,63,2023-02-22
+401485274,Providence,UConn,20,18,69,87,2023-02-22
+401469638,Bellarmine,Jacksonville,NA,NA,63,61,2023-02-22
+401490563,Boston University,Army,NA,NA,73,67,2023-02-22
+401488353,UMass Lowell,UMBC,NA,NA,75,70,2023-02-22
+401480446,Charleston Southern,UNC Asheville,NA,NA,62,80,2023-02-22
+401496936,Bucknell,Lehigh,NA,NA,62,78,2023-02-22
+401492753,Temple,Cincinnati,NA,NA,83,88,2023-02-22
+401492752,South Florida,UCF,NA,NA,82,75,2023-02-22
+401491288,Colgate,Lafayette,NA,NA,73,69,2023-02-22
+401491258,Holy Cross,Loyola Maryland,NA,NA,68,90,2023-02-22
+401490229,Bradley,Valparaiso,NA,NA,76,66,2023-02-22
+401488509,Syracuse,Clemson,NA,NA,73,91,2023-02-22
+401488352,Maine,New Hampshire,NA,NA,62,74,2023-02-22
+401488351,Bryant,NJIT,NA,NA,79,78,2023-02-22
+401488350,Binghamton,Vermont,NA,NA,70,81,2023-02-22
+401488140,Navy,American University,NA,NA,70,54,2023-02-22
+401484968,Minnesota,Maryland,NA,NA,70,88,2023-02-22
+401484630,Vanderbilt,LSU,NA,NA,77,84,2023-02-22
+401484629,Kentucky,Florida,NA,NA,82,74,2023-02-22
+401484505,St. Bonaventure,Davidson,NA,NA,61,74,2023-02-22
+401484504,George Washington,Rhode Island,NA,NA,89,80,2023-02-22
+401484502,Duquesne,La Salle,NA,NA,91,74,2023-02-22
+401484501,Dayton,UMass,NA,NA,72,54,2023-02-22
+401480449,South Carolina Upstate,Presbyterian,NA,NA,59,57,2023-02-22
+401480448,Radford,High Point,NA,NA,64,69,2023-02-22
+401480445,Campbell,Winthrop,NA,NA,93,95,2023-02-22
+401479801,Samford,Chattanooga,NA,NA,75,70,2023-02-22
+401479800,The Citadel,East Tennessee State,NA,NA,70,78,2023-02-22
+401479799,Mercer,Furman,NA,NA,67,70,2023-02-22
+401479798,Western Carolina,UNC Greensboro,NA,NA,52,71,2023-02-22
+401479797,Wofford,VMI,NA,NA,83,87,2023-02-22
+401470379,Southern Miss,Old Dominion,NA,NA,64,69,2023-02-22
+401470378,Marshall,James Madison,NA,NA,92,83,2023-02-22
+401470377,Coastal Carolina,Georgia Southern,NA,NA,68,76,2023-02-22
+401470376,Appalachian State,Georgia State,NA,NA,78,52,2023-02-22
+401469637,Liberty,Queens University,NA,NA,85,77,2023-02-22
+401469636,Austin Peay,Stetson,NA,NA,51,76,2023-02-22
+401469635,Eastern Kentucky,North Florida,NA,NA,64,77,2023-02-22
+401469634,Lipscomb,Florida Gulf Coast,NA,NA,73,64,2023-02-22
+401469633,Kennesaw State,North Alabama,NA,NA,79,66,2023-02-22
+401490230,Indiana State,Belmont,NA,NA,88,89,2023-02-22
+401470382,Troy,UL Monroe,NA,NA,82,78,2023-02-22
+401490233,Northern Iowa,Southern Illinois,NA,NA,63,86,2023-02-22
+401490232,UIC,Evansville,NA,NA,82,76,2023-02-22
+401490231,Illinois State,Drake,NA,NA,51,82,2023-02-22
+401481144,Stephen F. Austin,Abilene Christian,NA,NA,91,89,2023-02-22
+401470380,South Alabama,Texas State,NA,NA,76,67,2023-02-22
+401469639,Jacksonville State,Central Arkansas,NA,NA,101,71,2023-02-22
+401485275,Butler,DePaul,NA,NA,59,58,2023-02-22
+401470381,Arkansas State,Louisiana,NA,NA,74,85,2023-02-22
+401470166,Morehead State,Eastern Illinois,NA,NA,69,63,2023-02-22
+401488511,Wake Forest,NC State,NA,NA,74,90,2023-02-22
+401488508,North Carolina,Notre Dame,NA,NA,63,59,2023-02-22
+401485276,St. John's,Georgetown,NA,NA,79,70,2023-02-22
+401484967,Iowa,Wisconsin,NA,NA,52,64,2023-02-22
+401484631,Ole Miss,Auburn,NA,NA,74,78,2023-02-22
+401484503,Fordham,Loyola Chicago,NA,NA,71,69,2023-02-22
+401481143,Grand Canyon,New Mexico State,NA,NA,82,NA,2023-02-22
+401482871,New Mexico,Boise State,NA,NA,59,89,2023-02-22
+401490403,UCLA,Utah,4,NA,78,71,2023-02-23
+401470461,San Diego,Gonzaga,NA,12,72,97,2023-02-23
+401470464,Pacific,Saint Mary's,NA,15,52,83,2023-02-23
+401484969,Northwestern,Illinois,21,NA,62,66,2023-02-23
+401470258,Western Illinois,North Dakota,NA,NA,81,70,2023-02-23
+401484971,Penn State,Ohio State,NA,NA,75,71,2023-02-23
+401492755,Memphis,Wichita State,NA,NA,83,78,2023-02-23
+401487316,UTSA,Florida Atlantic,NA,NA,66,106,2023-02-23
+401487271,UTEP,Florida International,NA,NA,87,82,2023-02-23
+401487099,North Texas,Charlotte,NA,NA,49,55,2023-02-23
+401480447,Longwood,Gardner-Webb,NA,NA,75,63,2023-02-23
+401473499,Stonehill,Wagner,NA,NA,44,54,2023-02-23
+401473498,St. Francis Brooklyn,Sacred Heart,NA,NA,70,63,2023-02-23
+401473497,Fairleigh Dickinson,St. Francis (PA),NA,NA,72,82,2023-02-23
+401473496,Central Connecticut,Merrimack,NA,NA,54,70,2023-02-23
+401470077,Wright State,Oakland,NA,NA,68,75,2023-02-23
+401470076,Northern Kentucky,Detroit Mercy,NA,NA,67,64,2023-02-23
+401469966,Elon,William & Mary,NA,NA,60,73,2023-02-23
+401469965,Towson,Charleston,NA,NA,75,83,2023-02-23
+401469964,Delaware,North Carolina A&T,NA,NA,73,71,2023-02-23
+401469963,Monmouth,Hampton,NA,NA,81,86,2023-02-23
+401469962,Stony Brook,UNC Wilmington,NA,NA,69,76,2023-02-23
+401469961,Northeastern,Drexel,NA,NA,48,75,2023-02-23
+401487128,Rice,UAB,NA,NA,57,85,2023-02-23
+401481148,Utah Tech,UT Rio Grande Valley,NA,NA,88,81,2023-02-23
+401481147,California Baptist,Sam Houston,NA,NA,45,56,2023-02-23
+401470078,Robert Morris,IUPUI,NA,NA,75,81,2023-02-23
+401485448,Nicholls,New Orleans,NA,NA,82,88,2023-02-23
+401485447,SE Louisiana,Lamar,NA,NA,83,60,2023-02-23
+401485445,McNeese,Houston Christian,NA,NA,80,85,2023-02-23
+401481145,Utah Valley,Tarleton,NA,NA,58,77,2023-02-23
+401470257,St. Thomas - Minnesota,North Dakota State,NA,NA,64,73,2023-02-23
+401470256,Oral Roberts,South Dakota,NA,NA,82,70,2023-02-23
+401470255,Kansas City,South Dakota State,NA,NA,50,73,2023-02-23
+401470165,Little Rock,SIU Edwardsville,NA,NA,79,74,2023-02-23
+401485449,Texas A&M-Commerce,Texas A&M-Corpus Christi,NA,NA,84,80,2023-02-23
+401485446,Northwestern State,Incarnate Word,NA,NA,71,66,2023-02-23
+401484970,Michigan,Rutgers,NA,NA,58,45,2023-02-23
+401481146,Southern Utah,UT Arlington,NA,NA,86,76,2023-02-23
+401470167,Tennessee Tech,Southern Indiana,NA,NA,82,79,2023-02-23
+401470075,Purdue Fort Wayne,Milwaukee,NA,NA,94,96,2023-02-23
+401493094,Louisiana Tech,Western Kentucky,NA,NA,66,76,2023-02-23
+401490401,USC,Colorado,NA,NA,84,65,2023-02-23
+401490400,Washington,California,NA,NA,65,56,2023-02-23
+401470168,Tennessee State,UT Martin,NA,NA,88,82,2023-02-23
+401470164,Southeast Missouri State,Lindenwood,NA,NA,102,105,2023-02-23
+401469726,Sacramento State,Montana State,NA,NA,56,60,2023-02-23
+401469724,Idaho,Idaho State,NA,NA,55,65,2023-02-23
+401469723,Eastern Washington,Weber State,NA,NA,89,82,2023-02-23
+401470074,Cleveland State,Green Bay,NA,NA,76,65,2023-02-23
+401470463,Pepperdine,Santa Clara,NA,NA,82,91,2023-02-23
+401469835,Long Beach State,UC Santa Barbara,NA,NA,73,78,2023-02-23
+401469834,Cal State Bakersfield,Cal State Northridge,NA,NA,68,75,2023-02-23
+401469833,UC San Diego,UC Irvine,NA,NA,99,91,2023-02-23
+401490402,Washington State,Stanford,NA,NA,67,63,2023-02-23
+401470462,Portland,San Francisco,NA,NA,89,92,2023-02-23
+NA,UC Riverside,Hawai'i,NA,NA,54,52,2023-02-23
+401485277,Xavier,Seton Hall,16,NA,NA,NA,2023-02-24
+401487049,Siena,Rider,NA,NA,NA,NA,2023-02-24
+401487048,Fairfield,Niagara,NA,NA,NA,NA,2023-02-24
+401487047,Iona,Mount St. Mary's,NA,NA,NA,NA,2023-02-24
+401487046,Marist,Manhattan,NA,NA,NA,NA,2023-02-24
+401487045,Saint Peter's,Canisius,NA,NA,NA,NA,2023-02-24
+401484506,Richmond,VCU,NA,NA,NA,NA,2023-02-24
+401470386,Marshall,Old Dominion,NA,NA,NA,NA,2023-02-24
+401470383,Appalachian State,Georgia Southern,NA,NA,NA,NA,2023-02-24
+401469645,Bellarmine,North Florida,NA,NA,NA,NA,2023-02-24
+401469644,Eastern Kentucky,Jacksonville,NA,NA,NA,NA,2023-02-24
+401469643,Queens University,Liberty,NA,NA,NA,NA,2023-02-24
+401469642,Austin Peay,Florida Gulf Coast,NA,NA,NA,NA,2023-02-24
+401469641,Lipscomb,Stetson,NA,NA,NA,NA,2023-02-24
+401469640,Jacksonville State,North Alabama,NA,NA,NA,NA,2023-02-24
+401470388,Arkansas State,UL Monroe,NA,NA,NA,NA,2023-02-24
+401470384,Coastal Carolina,Troy,NA,NA,NA,NA,2023-02-24
+401470387,Southern Miss,Texas State,NA,NA,NA,NA,2023-02-24
+401470385,Georgia State,James Madison,NA,NA,NA,NA,2023-02-24
+401469646,Kennesaw State,Central Arkansas,NA,NA,NA,NA,2023-02-24
+401482878,Wyoming,Colorado State,NA,NA,NA,NA,2023-02-24
+401481149,Seattle U,Grand Canyon,NA,NA,NA,NA,2023-02-24
+401470389,South Alabama,Louisiana,NA,NA,NA,NA,2023-02-24
+401482874,Air Force,UNLV,NA,NA,NA,NA,2023-02-24
+401482876,Nevada,Fresno State,NA,NA,NA,NA,2023-02-24
