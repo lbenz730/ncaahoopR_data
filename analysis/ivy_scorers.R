@@ -4,7 +4,7 @@ library(furrr)
 plan(multicore(workers = 15))
 options(future.fork.enable = T)
 
-seasons <- paste0(2002:2021, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .22, 0.01))))
+seasons <- paste0(2002:2022, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .23, 0.01))))
 
 ivy <- 
   dict %>% 
@@ -56,7 +56,7 @@ df <-
 
 df %>% 
   filter(logo_url == 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Yale_Bulldogs_script.svg/1024px-Yale_Bulldogs_script.svg.png') %>% 
-  head(10) %>% 
+  filter(PTS >= 30) %>% 
   gt() %>% 
   cols_label('date' = 'Date',
              'logo_url' = 'Team',
@@ -80,6 +80,40 @@ df %>%
   tab_header(
     title = md("**Yale Leading Scorers in Ivy League Conference Play**"),
     subtitle = md(paste0('**2002-03 to Present**'))
+  ) %>% 
+  tab_options(column_labels.font.size = 16,
+              heading.title.font.size = 30,
+              heading.subtitle.font.size = 20,
+              heading.title.font.weight = 'bold',
+              heading.subtitle.font.weight = 'bold'
+  )
+
+df %>% 
+  filter(date >= '2022-11-01') %>%  
+  filter(PTS >= 30) %>% 
+  gt() %>% 
+  cols_label('date' = 'Date',
+             'logo_url' = 'Team',
+             'player' = 'Player',
+             'logo_url_opp' = 'Opponent',
+             'PTS' = 'Points') %>% 
+  text_transform(
+    locations = cells_body(c(logo_url, logo_url_opp)),
+    fn = function(x) {
+      web_image(
+        url = x,
+        height = 30
+      )
+    }
+  ) %>% 
+  cols_align(
+    align = "center",
+    columns = everything()
+  ) %>% 
+  tab_source_note("Table: Luke Benz (@recspecs730) | Data: ncaahoopR") %>%
+  tab_header(
+    title = md("**30 Point Scoreres Ivy League Conference Play**"),
+    subtitle = md(paste0('**2022-23**'))
   ) %>% 
   tab_options(column_labels.font.size = 16,
               heading.title.font.size = 30,

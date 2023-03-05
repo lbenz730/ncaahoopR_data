@@ -78,7 +78,7 @@ n <- length(schedules)
 for(i in 1:n) {
   ### Read in Schedule
   s <- read_csv(schedules[i], col_types = cols())
-  s <- filter(s, date < Sys.Date())
+  s <- filter(s, date <= Sys.Date())
   n1 <- nrow(s)
   ### Try to Scrape PBP
   for(k in 1:n1) {
@@ -89,6 +89,8 @@ for(i in 1:n) {
       box <- try(get_boxscore(s$game_id[k]))
       
       if(is.null(box)) {
+        next
+      } else if(class(box) == 'try-error') {
         next
       }
       
