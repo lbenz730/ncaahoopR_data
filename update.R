@@ -56,7 +56,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- as.Date('2022-11-07')
+date <- as.Date('2023-11-06')
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   print(date)
