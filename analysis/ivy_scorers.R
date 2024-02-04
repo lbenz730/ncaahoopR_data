@@ -4,7 +4,7 @@ library(furrr)
 plan(multicore(workers = 15))
 options(future.fork.enable = T)
 
-seasons <- paste0(2002:2022, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .23, 0.01))))
+seasons <- paste0(2002:2023, gsub("0\\.", "-", sprintf("%.2f", seq(.03, .24, 0.01))))
 
 ivy <- 
   dict %>% 
