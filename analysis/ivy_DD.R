@@ -64,7 +64,7 @@ df_dd <-
 
 df_dd %>% 
   mutate('player' = gsub('[A-Z]$', '', player)) %>% 
-  filter(double_double >= 6) %>% 
+  filter(double_double >= 7) %>% 
   gt() %>% 
   cols_label('season' = 'Season',
              'player' = 'Player',
