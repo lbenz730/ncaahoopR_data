@@ -54,6 +54,14 @@ df <-
   inner_join(select(ncaa_colors, 'opponent' = ncaa_name, logo_url), by = c('opponent'), suffix = c('', '_opp')) %>% 
   select(date, player, logo_url, PTS, logo_url_opp) 
 
+
+
+
+
+
+
+
+
 df %>% 
   filter(logo_url == 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Yale_Bulldogs_script.svg/1024px-Yale_Bulldogs_script.svg.png') %>% 
   filter(PTS >= 30) %>% 
@@ -89,8 +97,7 @@ df %>%
   )
 
 df %>% 
-  filter(date >= '2022-11-01') %>%  
-  filter(PTS >= 30) %>% 
+  filter(PTS >= 35) %>% 
   gt() %>% 
   cols_label('date' = 'Date',
              'logo_url' = 'Team',
@@ -112,15 +119,16 @@ df %>%
   ) %>% 
   tab_source_note("Table: Luke Benz (@recspecs730) | Data: ncaahoopR") %>%
   tab_header(
-    title = md("**30 Point Scoreres Ivy League Conference Play**"),
-    subtitle = md(paste0('**2022-23**'))
+    title = md("**35+ Point Scoreres Ivy League Conference Play**"),
+    subtitle = md(paste0('**2005 to Present**'))
   ) %>% 
   tab_options(column_labels.font.size = 16,
               heading.title.font.size = 30,
               heading.subtitle.font.size = 20,
               heading.title.font.weight = 'bold',
               heading.subtitle.font.weight = 'bold'
-  )
+  ) %>% 
+  gtsave('~/Desktop/ivy_35.png')
 
 filter(df, PTS >= 30) %>% 
   group_by(player, logo_url) %>% 
@@ -159,4 +167,32 @@ filter(df, PTS >= 30) %>%
 
 
 
+
+### 
+df_ivy <- 
+  df_box %>% 
+  filter(player != 'TEAM')  %>% 
+  filter(opponent %in% c(ivy, ivy_long)) %>%
+  arrange(-as.numeric(date)) %>% 
+  arrange(-PTS)  %>% 
+  mutate('opponent' = ifelse(opponent == 'Pennsylvania', 'Penn', opponent)) %>% 
+  group_by(player, 'season' = year(date)) %>% 
+  arrange(date) %>% 
+  mutate(game_id = 1:n()) %>% 
+  mutate('ros_ppg' = map_dbl(game_id, ~mean(PTS[game_id != .x]))) %>% 
+  ungroup() %>% 
+  filter(PTS >= 30)
+
+
+
+ggplot(df_ivy, aes(x = ros_ppg, y = PTS)) + 
+  geom_point(aes(color = team), size = 3) + 
+  ggrepel::geom_label_repel(data = df_ivy %>% filter(season == 2024), aes(label = player)) + 
+  scale_color_manual(values = ncaa_colors$primary_color[ncaa_colors$conference == 'Ivy']) + 
+  labs(x = 'Points/Game in All Remaining Games',
+       y = 'Points',
+       color= 'Team',
+       title = 'Points vs. PPG in All Other Games',
+       subtitle = '30 Point Scorers in Ivy Play\n 2004-05 to Present') 
+ggsave('~/Desktop/a.png', height = 9/1.2, width = 16/1.2)
 

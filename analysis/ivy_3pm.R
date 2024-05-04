@@ -55,12 +55,17 @@ for(i in 1:nrow(ivy_schedule)) {
         group_split() %>% 
         map_dfr(~{
           streak <- rle(.x$shot_outcome)
+          streak_starts <- cumsum(lag(streak$lengths, default = 1))
+          streak_ends <- streak_starts + streak$lengths - 1
           tibble('game_id' = .x$game_id[1],
                  'date' = .x$date[1],
                  'home' = .x$home[1],
                  'away' = .x$away[1],
                  'shot_team' = .x$shot_team[1],
-                 'streak' = streak$lengths[streak$values == 'made'])
+                 'streak_start' = .x$secs_remaining[streak_starts[streak$values == 'made']],
+                 'streak_end' = .x$secs_remaining[streak_ends[streak$values == 'made']],
+                 'streak' = streak$lengths[streak$values == 'made']
+                 )
           
           
         })
@@ -80,7 +85,7 @@ df_streaks %>%
   select(date, 'team' = shot_team, opponent, streak) %>% 
   gt_cbb_teams(team, team_, include_name = F, logo_height = 30) %>%
   gt_cbb_teams(opponent, opponent_, include_name = F, logo_height = 30) %>%
-  select(date, team_, team, opponent_, opponent, streak) %>% 
+  select(date, team,  opponent, streak) 
   gt() %>% 
   cols_align('center') %>% 
   fmt_markdown(c(team_, opponent_)) %>% 

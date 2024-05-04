@@ -20,7 +20,7 @@ ivy_long <-
 
 
 files <- dir(recursive = T)
-ix <- str_detect(files, paste0('box_scores/', ivy, collapse = '|'))
+ix <- str_detect(files, paste0('box_scores/', ivy, collapse = '|')) & !grepl('St', files)
 box_scores <- files[ix]
 df_box <- 
   future_map_dfr(box_scores, ~{
@@ -47,10 +47,12 @@ df_box <-
 df_dd <-
   df_box %>% 
   filter(player != 'TEAM')  %>% 
-  filter(opponent %in% c(ivy, ivy_long)) %>%
   group_by(season, player, team) %>% 
   summarise('n_games' = n(),
-            'double_double' = sum(((PTS >= 10) + (AST >= 10) + (REB >= 10) + (STL >= 10) + (BLK >= 10)) >= 2)) %>% 
+            'n_ivy' = sum(opponent %in% c(ivy, ivy_long)),
+            'double_double' = sum(((PTS >= 10) + (AST >= 10) + (REB >= 10) + (STL >= 10) + (BLK >= 10)) >= 2),
+            'double_double_ivy' = sum((opponent %in% c(ivy, ivy_long)) * ((PTS >= 10) + (AST >= 10) + (REB >= 10) + (STL >= 10) + (BLK >= 10)) >= 2)) %>% 
+  filter(n_ivy > 1)
 
   arrange(-double_double, n_games, desc(season)) %>% 
   
@@ -100,4 +102,18 @@ df_dd %>%
               heading.subtitle.font.weight = 'bold'
   ) %>% 
   gtsave('~/Desktop/dd_watch.png')
+
+
+
+df_box %>% 
+  filter(player != 'TEAM')  %>% 
+  filter(((PTS >= 10) + (AST >= 10) + (REB >= 10) + (STL >= 10) + (BLK >= 10)) >= 3) %>% 
+  select(date, player, team, opponent, MIN, PTS, REB, AST)
+
+  
+  
+  
+  inner_join(select(ncaa_colors, 'team' = ncaa_name, logo_url)) %>% 
+  select(season, player, team, logo_url, n_games, double_double) %>% 
+  ungroup()
 
